@@ -1,0 +1,208 @@
+{
+  "id": "tl-negros-occidental-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Negros Occidental",
+  "title": "Mga Bayan ng Lalawigan ng Negros Occidental",
+  "description": "Listahan ng 19 munisipalidad (bayan) sa lalawigan ng Negros Occidental, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "064503000",
+      "name": "BINALBAGAN",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 67270,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "064505000",
+      "name": "CALATRAVA",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 80624,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "064506000",
+      "name": "CANDONI",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 21789,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "064507000",
+      "name": "CAUAYAN",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 102165,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "064508000",
+      "name": "ENRIQUE B. MAGALONA (SARAVIA)",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 62921,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "064511000",
+      "name": "HINIGARAN",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 85602,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "064512000",
+      "name": "HINOBA-AN (ASIA)",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 56819,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "064513000",
+      "name": "ILOG",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 57389,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "064514000",
+      "name": "ISABELA",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 62146,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "064517000",
+      "name": "LA CASTELLANA",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 74855,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "064518000",
+      "name": "MANAPLA",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 54845,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "064519000",
+      "name": "MOISES PADILLA (MAGALLON)",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 41386,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "064520000",
+      "name": "MURCIA",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 81286,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "064521000",
+      "name": "PONTEVEDRA",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 51866,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "064522000",
+      "name": "PULUPANDAN",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 27735,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "064532000",
+      "name": "SALVADOR BENEDICTO",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 25662,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "064525000",
+      "name": "SAN ENRIQUE",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 23907,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "064529000",
+      "name": "TOBOSO",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 42114,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "064530000",
+      "name": "VALLADOLID",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 37833,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Negros Occidental - Libreng download",
+    "description": "Listahan ng 19 munisipalidad (bayan) sa lalawigan ng Negros Occidental, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 19 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Negros Occidental | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Negros Occidental — 19 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 19 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

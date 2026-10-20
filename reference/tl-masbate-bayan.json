@@ -1,0 +1,216 @@
+{
+  "id": "tl-masbate-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Masbate",
+  "title": "Mga Bayan ng Lalawigan ng Masbate",
+  "description": "Listahan ng 20 munisipalidad (bayan) sa lalawigan ng Masbate, REGION V (BICOL REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "054101000",
+      "name": "AROROY",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 86168,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "054102000",
+      "name": "BALENO",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 26096,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "054103000",
+      "name": "BALUD",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 38124,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "054104000",
+      "name": "BATUAN",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 15086,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "054105000",
+      "name": "CATAINGAN",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 50327,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "054106000",
+      "name": "CAWAYAN",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 67033,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "054107000",
+      "name": "CLAVERIA",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 43693,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "054108000",
+      "name": "DIMASALANG",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 26192,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "054109000",
+      "name": "ESPERANZA",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 18568,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "054110000",
+      "name": "MANDAON",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 41262,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "054112000",
+      "name": "MILAGROS",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 57473,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "054113000",
+      "name": "MOBO",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 38813,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "054114000",
+      "name": "MONREAL",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 26614,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "054115000",
+      "name": "PALANAS",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 26222,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "054116000",
+      "name": "PIO V. CORPUZ (LIMBUHAN)",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 23236,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "054117000",
+      "name": "PLACER",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 55826,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "054118000",
+      "name": "SAN FERNANDO",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 23057,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "054119000",
+      "name": "SAN JACINTO",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 30372,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "054120000",
+      "name": "SAN PASCUAL",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 46674,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "054121000",
+      "name": "USON",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 56168,
+      "income_classification": "3rd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Masbate - Libreng download",
+    "description": "Listahan ng 20 munisipalidad (bayan) sa lalawigan ng Masbate, REGION V (BICOL REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 20 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Masbate | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Masbate — 20 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 20 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

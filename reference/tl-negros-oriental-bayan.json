@@ -1,0 +1,208 @@
+{
+  "id": "tl-negros-oriental-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Negros Oriental",
+  "title": "Mga Bayan ng Lalawigan ng Negros Oriental",
+  "description": "Listahan ng 19 munisipalidad (bayan) sa lalawigan ng Negros Oriental, REGION VII (CENTRAL VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "074601000",
+      "name": "AMLAN (AYUQUITAN)",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 23624,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "074602000",
+      "name": "AYUNGON",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 46303,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "074603000",
+      "name": "BACONG",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 36527,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "074605000",
+      "name": "BASAY",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 26566,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "074607000",
+      "name": "BINDOY (PAYABON)",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 39819,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "074609000",
+      "name": "DAUIN",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 27786,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "074612000",
+      "name": "JIMALALUD",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 30945,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "074613000",
+      "name": "LA LIBERTAD",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 38602,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "074614000",
+      "name": "MABINAY",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 78864,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "074615000",
+      "name": "MANJUYOD",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 42332,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "074616000",
+      "name": "PAMPLONA",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 37596,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "074617000",
+      "name": "SAN JOSE",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 20413,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "074618000",
+      "name": "SANTA CATALINA",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 75756,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "074619000",
+      "name": "SIATON",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 77696,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "074620000",
+      "name": "SIBULAN",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 59455,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "074622000",
+      "name": "TAYASAN",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 35470,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "074623000",
+      "name": "VALENCIA (LUZURRIAGA)",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 34852,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "074624000",
+      "name": "VALLEHERMOSO",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 38259,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "074625000",
+      "name": "ZAMBOANGUITA",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 27552,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Negros Oriental - Libreng download",
+    "description": "Listahan ng 19 munisipalidad (bayan) sa lalawigan ng Negros Oriental, REGION VII (CENTRAL VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 19 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Negros Oriental | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Negros Oriental — 19 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 19 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

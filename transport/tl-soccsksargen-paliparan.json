@@ -1,0 +1,136 @@
+{
+  "id": "tl-soccsksargen-paliparan",
+  "name": "Mga Paliparan — Soccsksargen",
+  "title": "Mga Paliparan — Soccsksargen",
+  "description": "Mga paliparan at landing strip sa Soccsksargen (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Soccsksargen`. (Airports in Soccsksargen (Region XII), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RPMA",
+      "iata": "AAV",
+      "name": "Allah Valley Airport",
+      "city": "Surallah",
+      "subdivision": "Soccsksargen",
+      "subdivision_native": "Soccsksargen",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 659,
+      "latitude": 6.36682,
+      "longitude": 124.751,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPMB",
+      "iata": "",
+      "name": "Rajah Buayan Air Station",
+      "city": "General Santos",
+      "subdivision": "Soccsksargen",
+      "subdivision_native": "Soccsksargen",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 28,
+      "latitude": 6.10644,
+      "longitude": 125.235,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPMR",
+      "iata": "GES",
+      "name": "General Santos International Airport",
+      "city": "General Santos",
+      "subdivision": "Soccsksargen",
+      "subdivision_native": "Soccsksargen",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 503,
+      "latitude": 6.058,
+      "longitude": 125.096,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — Soccsksargen - Libreng download",
+    "description": "Mga paliparan at landing strip sa Soccsksargen (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Soccsksargen`. (Airports in Soccsksargen (Region XII), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — Soccsksargen | ListBase",
+    "seo_description": "I-download Mga Paliparan — Soccsksargen — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

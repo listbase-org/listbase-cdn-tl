@@ -1,0 +1,216 @@
+{
+  "id": "tl-davao-bantayog-pangkasaysayan",
+  "name": "Makasaysayang Pananda ng NHCP — Rehiyon ng Davao (Region XI)",
+  "title": "Makasaysayang Pananda ng NHCP — Rehiyon ng Davao (Region XI)",
+  "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Rehiyon ng Davao (Region XI). Filtered subset ng pambansang tl-bantayog-pangkasaysayan (6 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Davao Region (Region XI) — filtered subset of the national NHCP marker inventory, 6 of 1235 nationally.)",
+  "category": "culture",
+  "source": "https://github.com/seav/pananda",
+  "source_url": "https://github.com/seav/pananda",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regions",
+      "label": "Regions",
+      "type": "string"
+    },
+    {
+      "key": "macro_address",
+      "label": "Macro Address",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "title_tl",
+      "label": "Title Tl",
+      "type": "string"
+    },
+    {
+      "key": "subtitle_tl",
+      "label": "Subtitle Tl",
+      "type": "string"
+    },
+    {
+      "key": "inscription_tl",
+      "label": "Inscription Tl",
+      "type": "string"
+    },
+    {
+      "key": "inscription_photo",
+      "label": "Inscription Photo",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_articles",
+      "label": "Wikipedia Articles",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "location_description",
+      "label": "Location Description",
+      "type": "string"
+    },
+    {
+      "key": "location_photo",
+      "label": "Location Photo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wikidata_qid": "Q28877481",
+      "name": "Simbahan ng Caraga",
+      "region": "Davao Region",
+      "regions": "Davao Region",
+      "macro_address": "Caraga, Davao Oriental",
+      "address": "Caraga Church, San Salvador Street, Caraga, Davao Oriental",
+      "date": "2012",
+      "latitude": 7.32754,
+      "longitude": 126.56588,
+      "title_tl": "Simbahan ng Caraga",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Ipinatayo ni Padre Pablo Pastells, S.J. kaagapay si Padre Juan Terricabras, S.J. Yari sa kahoy, korales at bato, 1877. Natapos ang simbahan at naging parokya sa patronato ni San Juan Savador Del Mundo,1884. Nagsilbing sentro ng misyon ng mga Heswita sa pagtatag ng mga pueblo at pagpalaganap ng ebanghelyo sa silangang bahagi ng Mindanao noong panahon ng mga Espanyol. Ipinamahala sa mga pari ng Foreign Mission of Quebec, 1939; Maryknoll Missioners, 1961; Diyosesis ng Tagum,1978; at Diyosesis ng Mati, 1984.</p>",
+      "inscription_photo": "height: 1600; width: 1186; credit: National Historical Commission of the Philippines; file: Caraga Church historical marker.jpg",
+      "wikipedia_articles": "Caraga Church: San Salvador del Mundo Church (Caraga)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28877481"
+    },
+    {
+      "wikidata_qid": "Q28878079",
+      "name": "Andres Bonifacio",
+      "region": "Davao Region",
+      "regions": "Davao Region",
+      "macro_address": "Davao City",
+      "address": "Agton Street, Toril, Davao City",
+      "date": "2013",
+      "latitude": 7.01882,
+      "longitude": 125.49742,
+      "title_tl": "Andres Bonifacio",
+      "subtitle_tl": "(30 Nobyembre 1863 – 10 Mayo 1897)",
+      "inscription_tl": "<p>Bayani at rebolusyonaryo. Isinilang sa Tondo, Maynila, 30 Nobyembre 1863. Sumapi sa Masoneriya at La Liga Filipina, 1892. Nagtatag ng Kataastaasan Kagalanggalang na Katipunan ng mga Anak ng Bayan o Katipunan, isang lihim na kilusan na ang pangunahing adhikain ay mapagkaisa ang lahat ng mga Pilipino at itaguyod ang isang bayang malaya sa pamamagitan ng paghihimagsik, 7 Hulyo 1892. Pinamunuan ang pagsisimula ng malawakang paghihimagsik laban sa mga Espanyol, Agosto 1896. Sumalakay sa San Juan del Monte upang kubkubin ang Polvorin, 30 Agosto 1896. Pinatay sa Maragondon, Cavite, 10 Mayo 1897[.] Kinikilala bilang Supremo ng Katipunan at Ama ng Himagsikan.</p>",
+      "inscription_photo": "credit: National Historical Commission of the Philippines (NHCP); file: Historical marker of Andres Bonifacio in Davao City.jpg; width: 1002; height: 1398",
+      "location_description": "The historical marker is located at the pedestal of the monument of Andres Bonifacio.",
+      "location_photo": "credit: National Historical Commission of the Philippines; file: Andres Bonifacio monument in Davao City.jpg; width: 1066; height: 1600",
+      "wikipedia_articles": "Andres Bonifacio: Andrés Bonifacio",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28878079"
+    },
+    {
+      "wikidata_qid": "Q28919992",
+      "name": "Ohta Kyozaburo",
+      "region": "Davao Region",
+      "regions": "Davao Region",
+      "macro_address": "Davao City",
+      "address": "Mintal Elementary School, Brgy. Mintal, Tugbok, Davao City",
+      "date": "2003",
+      "latitude": 7.09397,
+      "longitude": 125.50026,
+      "title_tl": "Ohta Kyozaburo",
+      "subtitle_tl": "(1876–1917)",
+      "inscription_tl": "<p>Ipinanganak sa Hyogo, Japan, Pebrero 1876. Nagtatag, Ohta Development Company. Ang unang taniman ng abaka ng mga Hapon sa Pilipinas, 3 Mayo 1907. Nagtatag ng iba pang mga kumpanya tulad ng Mintal Plantation Company, Riverside Plantation Company, Talomo River Plantation Company at Guianga Plantation Company. Tumulong sa paglago ng negosyong Hapones sa Davao. Namatay sa Kyoto, Japan, 31 Oktubre 1917.</p>",
+      "inscription_photo": "height: 1600; file: Ohta Kyozaburo historical marker.jpg; credit: National Historical Commission of the Philippines (NHCP); width: 1096",
+      "location_description": "The historical marker is located on a concrete mounting to the left of the Ohta Kyozaburo monument.",
+      "location_photo": "width: 1071; credit: National Historical Commission of the Philippines; file: Ohta Kyozaburo Monument.jpg; height: 1600",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28919992"
+    },
+    {
+      "wikidata_qid": "Q28937459",
+      "name": "Davao City Hall",
+      "region": "Davao Region",
+      "regions": "Davao Region",
+      "macro_address": "Davao City",
+      "address": "Davao City Hall, San Pedro Street, Davao City",
+      "date": "2012",
+      "latitude": 7.06462,
+      "longitude": 125.60793,
+      "title_tl": "Davao City Hall",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Ipinatayo bilang gusaling munisipal ng Davao, 1926. Nilagdaan ni Pangulong Manuel L. Quezon ang Commonwealth Act No. 51 na bumuo sa Karta ng Lungsod ng Davao, 16 Oktubre 1936. Pinasinayaan ni Kalihim Elpidio Quirino ang Karta sa harapan ng gusali, 1 Marso 1937. Nasira nong panahon ng digmaan, 1945. Muling ipinatayo ayon sa orihinal na disenyo, 1947. Sentro ng pamahalaan sa pagtaguyod ng Davao bilang pangunahing lungsod sa silangang bahagi ng Mindanao noong panahon ng mga Amerikano.</p>",
+      "inscription_photo": "height: 960; width: 709; credit: City Government of Davao; file: Davao City Hall historical marker.jpg",
+      "location_description": "The historical marker is located on the east side shaft of the leftmost column in the building's facade.",
+      "wikipedia_articles": "Davao City: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28937459"
+    },
+    {
+      "wikidata_qid": "Q28937488",
+      "name": "Davao Penal Colony",
+      "region": "Davao Region",
+      "regions": "Davao Region",
+      "macro_address": "Braulio E. Dujali, Davao del Norte",
+      "address": "Davao Prison and Penal Farm, Sitio Dapecol, Brgy. Tanglaw, Braulio E. Dujali, Davao del Norte",
+      "date": "1956",
+      "latitude": 7.41277,
+      "longitude": 125.623,
+      "title_tl": "Davao Penal Colony",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Established 21 January 1932 under Act 3732 of the Philippine Legislature on a site reserved by Proclamation no. 414 issued by Governor-General Dwight F. Davis on 7 October 1931; first penal colony founded under the administration of a Filipino Director of Prisons, Lt. Col. Paulino Santos. First superintendent, Pablo I. Norona, later assistant director of prisons. The official and prisoners of the colony were transferred by the Japanese forces to Iwahig Penal Colony, 8 November 1942; served as evacuation center for residents of Davao city during the early part of World War II; used as concentration camp for American prisoners of war; Colony was reopened 2 August 1946.</p>",
+      "wikipedia_articles": "Davao Prison and Penal Farm: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28937488"
+    },
+    {
+      "wikidata_qid": "Q28937532",
+      "name": "Port Sta. Ana",
+      "region": "Davao Region",
+      "regions": "Davao Region",
+      "macro_address": "Davao City",
+      "address": "Magsaysay Park, Leon Garcia Street cor. Monteverde Avenue, Davao City",
+      "date": "2003",
+      "latitude": 7.07532,
+      "longitude": 125.6255,
+      "title_tl": "Port Sta. Ana",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Dinaungan ng mga unang manggagawang agrikultural na Hapon sa Davao, Mayo 1903 na nanguna sa pagpapaunlad ng industriya ng abaka dito.</p>",
+      "inscription_photo": "height: 2383; credit: Andre Ryan Maceda {CC BY‑SA 4.0}; file: Port Sta. Ana.jpg; width: 2755",
+      "location_description": "The historical marker is located on a concrete mounting at the entrance of Magsaysay Park.",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28937532"
+    }
+  ],
+  "meta": {
+    "title": "Makasaysayang Pananda ng NHCP — Rehiyon ng Davao (Region XI) - Libreng download",
+    "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Rehiyon ng Davao (Region XI). Filtered subset ng pambansang tl-bantayog-pangkasaysayan (6 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Davao Region (Region XI) — filtered subset of the national NHCP marker inventory, 6 of 1235 nationally.) Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Makasaysayang Pananda ng NHCP — Rehiyon ng Davao (Region XI) | ListBase",
+    "seo_description": "I-download Makasaysayang Pananda ng NHCP — Rehiyon ng Davao (Region XI) — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 17 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/seav/pananda"
+    ]
+  }
+}

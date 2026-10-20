@@ -1,0 +1,120 @@
+{
+  "id": "tl-aurora-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Aurora",
+  "title": "Mga Bayan ng Lalawigan ng Aurora",
+  "description": "Listahan ng 8 munisipalidad (bayan) sa lalawigan ng Aurora, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "037701000",
+      "name": "BALER (Capital)",
+      "province": "AURORA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 39562,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "037702000",
+      "name": "CASIGURAN",
+      "province": "AURORA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 24313,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "037703000",
+      "name": "DILASAG",
+      "province": "AURORA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 15835,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "037704000",
+      "name": "DINALUNGAN",
+      "province": "AURORA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 11322,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "037705000",
+      "name": "DINGALAN",
+      "province": "AURORA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 25482,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "037706000",
+      "name": "DIPACULAO",
+      "province": "AURORA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 29736,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "037707000",
+      "name": "MARIA AURORA",
+      "province": "AURORA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 40734,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "037708000",
+      "name": "SAN LUIS",
+      "province": "AURORA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 27352,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Aurora - Libreng download",
+    "description": "Listahan ng 8 munisipalidad (bayan) sa lalawigan ng Aurora, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 8 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Aurora | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Aurora — 8 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 8 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

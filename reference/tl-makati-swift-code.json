@@ -1,0 +1,88 @@
+{
+  "id": "tl-makati-swift-code",
+  "name": "Mga SWIFT/BIC code — Makati",
+  "title": "Mga SWIFT/BIC code — Makati",
+  "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 7 institusyon na nakalista sa pinagkunan sa lungsod na \"MAKATI\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BDO NOMURA SECURITIES, INC.",
+      "city": "MAKATI",
+      "branch": "",
+      "swift_code": "BNSCPHM1"
+    },
+    {
+      "bank": "BPI FAMILY SAVINGS BANK",
+      "city": "MAKATI",
+      "branch": "",
+      "swift_code": "BPFSPHM1"
+    },
+    {
+      "bank": "CITIBANK,N.A., MANILA BRANCH",
+      "city": "MAKATI",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "CITIPHMX"
+    },
+    {
+      "bank": "CREDIT SUISSE SECURITIES (PHILIPPINES) INC.",
+      "city": "MAKATI",
+      "branch": "",
+      "swift_code": "CRESPHM1"
+    },
+    {
+      "bank": "FIRST METRO SECURITIES BROKERAGE CORPORATION",
+      "city": "MAKATI",
+      "branch": "",
+      "swift_code": "FMSOPHM1"
+    },
+    {
+      "bank": "MIZUHO BANK, LTD., MANILA BRANCH",
+      "city": "MAKATI",
+      "branch": "",
+      "swift_code": "MHCBPHMM"
+    },
+    {
+      "bank": "SALISBURY BKT SECURITIES CORPORATION (FORMERLY: PUBLIC SECURITIES CORPORATION)",
+      "city": "MAKATI",
+      "branch": "",
+      "swift_code": "PUBLPHM1"
+    }
+  ],
+  "meta": {
+    "title": "Mga SWIFT/BIC code — Makati - Libreng download",
+    "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 7 institusyon na nakalista sa pinagkunan sa lungsod na \"MAKATI\". Naglalaman ng 7 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga SWIFT/BIC code — Makati | ListBase",
+    "seo_description": "I-download Mga SWIFT/BIC code — Makati — 7 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 7 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

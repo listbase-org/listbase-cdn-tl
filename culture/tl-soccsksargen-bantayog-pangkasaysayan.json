@@ -1,0 +1,168 @@
+{
+  "id": "tl-soccsksargen-bantayog-pangkasaysayan",
+  "name": "Makasaysayang Pananda ng NHCP — Soccsksargen (Region XII)",
+  "title": "Makasaysayang Pananda ng NHCP — Soccsksargen (Region XII)",
+  "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Soccsksargen (Region XII). Filtered subset ng pambansang tl-bantayog-pangkasaysayan (3 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Soccsksargen (Region XII) — filtered subset of the national NHCP marker inventory, 3 of 1235 nationally.)",
+  "category": "culture",
+  "source": "https://github.com/seav/pananda",
+  "source_url": "https://github.com/seav/pananda",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regions",
+      "label": "Regions",
+      "type": "string"
+    },
+    {
+      "key": "macro_address",
+      "label": "Macro Address",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "title_tl",
+      "label": "Title Tl",
+      "type": "string"
+    },
+    {
+      "key": "subtitle_tl",
+      "label": "Subtitle Tl",
+      "type": "string"
+    },
+    {
+      "key": "inscription_tl",
+      "label": "Inscription Tl",
+      "type": "string"
+    },
+    {
+      "key": "commons_category",
+      "label": "Commons Category",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "location_description",
+      "label": "Location Description",
+      "type": "string"
+    },
+    {
+      "key": "location_photo",
+      "label": "Location Photo",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_articles",
+      "label": "Wikipedia Articles",
+      "type": "string"
+    },
+    {
+      "key": "inscription_photo",
+      "label": "Inscription Photo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wikidata_qid": "Q28923100",
+      "name": "Fort Pikit",
+      "region": "Soccsksargen",
+      "regions": "Soccsksargen",
+      "macro_address": "Pikit, Cotabato",
+      "address": "Fort Pikit, Pikit, Cotabato",
+      "date": "2012",
+      "latitude": 7.06143,
+      "longitude": 124.6782,
+      "title_tl": "Fort Pikit",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Kabilang sa mga kutang ipinatayo ng Pamahalaang Espanyol upang sakupin ang Mindanao at magapi ang mga Morong patuloy na nagtaguyod ng kanilang kalayaan mula sa pamahalaang kolonyal, 1893. Ginamit ng mga sundalong Amerikano at Philippine Constabulary na binubuo ng mga Pilipinong Kristiyano at Muslim. Inokupahan ng mga puwersang Hapon, 1942–1945. Binawi ng puwersang Amerikano para sa pagpapalaya ng silangang bahagi ng Mindanao, Abril 1945. Naging himpilan ng Philippine Marine Corps hanggang 2005. Ipinahayag na Pambansang Palatandaang Pangkasaysayan, 24 Abril 2012.</p>",
+      "commons_category": "Fort_Pikit",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28923100"
+    },
+    {
+      "wikidata_qid": "Q28923203",
+      "name": "Hen. Paulino Santos",
+      "region": "Soccsksargen",
+      "regions": "Soccsksargen",
+      "macro_address": "General Santos",
+      "address": "Plaza Heneral Santos, Pres. Sergio Osmeña Avenue, General Santos",
+      "date": "1981",
+      "latitude": 6.11178,
+      "longitude": 125.17171,
+      "title_tl": "Hen. Paulino Santos",
+      "subtitle_tl": "(1890–1945)",
+      "inscription_tl": "<p>Isinilang sa Camiling, Tarlac, noong Hunyo 22, 1890 kina Remigio Santos at Rosa Torres. Nagtapos bilang balidiktoryan sa Akademya Militar ng Pilipinas noong 1914. Itinalaga bilang pangatlong tenyente ng Konstabularya ng Pilipinas.</p><p>Bilang komandanteng panlalawigan at gobernador, napaunlad niya ang edukasyon, agrikultura at komunikasyon sa Lanao.</p><p>Naging Direktor ng mga Bilangguan; Nagtatag ng Davao Penal Colony at nagsagawa ng madaliang paglilipat ng New Bilibid Prison sa Muntinlupa.</p><p>Naging unang puno ng Estado Mayor ng Hukbong Pilipino. Patnugot ng National Land Settlement Adminsitration. Sa kanyang masigasig at mabisang panunungkulan, anim na pamayanan ang itinatag sa South Cotabato.</p><p>Namatay sa Kiangan, Mt. Province noong Agosto 29, 1945. Bilang parangal sa kanya, ang bayan ng Buayan (dati’y Dadiangas) at pinangalanang Heneral Santos na pagkaraan ay ginawang lungsod.</p>",
+      "location_description": "The historical marker is located on the pedestal of the statue of Paulino Santos facing Pioneer Avenue.",
+      "location_photo": "width: 4314; credit: Thecl2499 {CC BY‑SA 3.0}; file: Monument of Gen. Paulino Santos.jpg; height: 2880",
+      "wikipedia_articles": "Paulino Santos: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28923203"
+    },
+    {
+      "wikidata_qid": "Q28937921",
+      "name": "Pook na Pinaglibingan ng Labimpitong Pilipinong Martir sa Koronadal",
+      "region": "Soccsksargen",
+      "regions": "Soccsksargen",
+      "macro_address": "Koronadal, South Cotabato",
+      "address": "Koronadal Central Elementary School I, Rizal Street, Koronadal, South Cotabato",
+      "date": "2013",
+      "latitude": 6.498,
+      "longitude": 124.8409,
+      "title_tl": "Pook na Pinaglibingan ng Labimpitong Pilipinong Martir sa Koronadal",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Sinalakay ng mga sundalo ng USAFFE, 24 Nobyembre 1942, na pinamumunuan ni Lt. Alfredo Garingo, ang mga Hapong nakahimpil sa kamalig ng National Land Settlement Administration. Nasawi ang isa sa mga sundalong Hapon at bilang paghihiganti, pinaslang ng mga Hapon ang mga Pilipino. Dito sila inilibing, 1942.</p>",
+      "inscription_photo": "height: 587; credit: National Historical Commission of the Philippines; file: Pook na Pinaglibingan ng Labimpitong Pilipinong Martir sa Koronadal historical marker.jpg; width: 457",
+      "location_description": "The historical marker is located on the front of the memorial obelisk.",
+      "location_photo": "height: 960; width: 640; file: Seventeen Martyrs of Koronadal historical marker.jpg; credit: City Government of Cotabato",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28937921"
+    }
+  ],
+  "meta": {
+    "title": "Makasaysayang Pananda ng NHCP — Soccsksargen (Region XII) - Libreng download",
+    "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Soccsksargen (Region XII). Filtered subset ng pambansang tl-bantayog-pangkasaysayan (3 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Soccsksargen (Region XII) — filtered subset of the national NHCP marker inventory, 3 of 1235 nationally.) Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Makasaysayang Pananda ng NHCP — Soccsksargen (Region XII) | ListBase",
+    "seo_description": "I-download Makasaysayang Pananda ng NHCP — Soccsksargen (Region XII) — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 18 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/seav/pananda"
+    ]
+  }
+}

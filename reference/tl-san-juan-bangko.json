@@ -1,0 +1,80 @@
+{
+  "id": "tl-san-juan-bangko",
+  "name": "Mga Bangko sa City of San Juan",
+  "title": "Mga Bangko sa City of San Juan",
+  "description": "Listahan ng 3 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng San Juan (source city string: \"CITY OF SAN JUAN\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "ATDBPHM10MC",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF SAN JUAN",
+      "city_titlecase": "City of San Juan",
+      "branch": ""
+    },
+    {
+      "swift_code": "PCBAPHM10MS",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF SAN JUAN",
+      "city_titlecase": "City of San Juan",
+      "branch": "ORTIGAS BRANCH"
+    },
+    {
+      "swift_code": "STLAPH22",
+      "name": "STERLING BANK OF ASIA INC.(A SAVINGS BANK)",
+      "name_titlecase": "Sterling BANK of Asia Inc.(a Savings BANK)",
+      "city": "CITY OF SAN JUAN",
+      "city_titlecase": "City of San Juan",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of San Juan - Libreng download",
+    "description": "Listahan ng 3 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng San Juan (source city string: \"CITY OF SAN JUAN\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of San Juan | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of San Juan — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

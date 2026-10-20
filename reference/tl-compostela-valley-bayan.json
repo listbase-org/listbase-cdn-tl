@@ -1,0 +1,144 @@
+{
+  "id": "tl-compostela-valley-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Compostela Valley",
+  "title": "Mga Bayan ng Lalawigan ng Compostela Valley",
+  "description": "Listahan ng 11 munisipalidad (bayan) sa lalawigan ng Compostela Valley, REGION XI (DAVAO REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "118201000",
+      "name": "COMPOSTELA",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 87474,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "118202000",
+      "name": "LAAK (SAN VICENTE)",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 73874,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "118203000",
+      "name": "MABINI (DOÑA ALICIA)",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 41102,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "118204000",
+      "name": "MACO",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 81277,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "118205000",
+      "name": "MARAGUSAN (SAN MARIANO)",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 60842,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "118206000",
+      "name": "MAWAB",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 37065,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "118207000",
+      "name": "MONKAYO",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 94908,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "118208000",
+      "name": "MONTEVISTA",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 43706,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "118209000",
+      "name": "NABUNTURAN (Capital)",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 82234,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "118210000",
+      "name": "NEW BATAAN",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 47726,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "118211000",
+      "name": "PANTUKAN",
+      "province": "COMPOSTELA VALLEY",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 85899,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Compostela Valley - Libreng download",
+    "description": "Listahan ng 11 munisipalidad (bayan) sa lalawigan ng Compostela Valley, REGION XI (DAVAO REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 11 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Compostela Valley | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Compostela Valley — 11 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 11 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

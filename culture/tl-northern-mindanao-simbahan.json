@@ -1,0 +1,254 @@
+{
+  "id": "tl-northern-mindanao-simbahan",
+  "name": "Mga Simbahan - Northern Mindanao",
+  "title": "Mga Simbahan - Northern Mindanao",
+  "description": "Mga simbahan sa rehiyong Northern Mindanao, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Northern Mindanao, Philippines.)",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "denominasyon",
+      "label": "Denominasyon",
+      "type": "string"
+    },
+    {
+      "key": "taon_itinatag",
+      "label": "Taon Itinatag",
+      "type": "number"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "bayan",
+      "label": "Bayan",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q5284111",
+      "name_tl": "Divine Mercy Shrine",
+      "name_en": "Divine Mercy Shrine",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "",
+      "bayan": "El Salvador",
+      "latitude": 8.54709,
+      "longitude": 124.527739,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q106172381",
+      "name_tl": "Katedral ng Iligan",
+      "name_en": "Iligan Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "",
+      "bayan": "Iligan",
+      "latitude": 8.229399,
+      "longitude": 124.239479,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q19894354",
+      "name_tl": "Saint Augustine Metropolitan Cathedral",
+      "name_en": "Saint Augustine Metropolitan Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1822,
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "",
+      "bayan": "Cagayan de Oro",
+      "latitude": 8.4748,
+      "longitude": 124.641,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q131346035",
+      "name_tl": "San Nicolas de Tolentino Parish Church",
+      "name_en": "San Nicolas de Tolentino Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1855,
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "",
+      "bayan": "Mambajao",
+      "latitude": 9.249618,
+      "longitude": 124.715027,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q131346540",
+      "name_tl": "Santa Rita de Cascia Parish Church",
+      "name_en": "Santa Rita de Cascia Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1849,
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "",
+      "bayan": "Balingasag",
+      "latitude": 8.743313,
+      "longitude": 124.775296,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q131345445",
+      "name_tl": "Santuario Eucaristico",
+      "name_en": "Santuario Eucaristico",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "",
+      "bayan": "Cagayan de Oro",
+      "latitude": 8.488319,
+      "longitude": 124.639083,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q17005394",
+      "name_tl": "Simbahan ng Jasaan",
+      "name_en": "Immaculate Conception Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1732,
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "",
+      "bayan": "Jasaan",
+      "latitude": 8.650833,
+      "longitude": 124.754167,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q136386717",
+      "name_tl": "Simbahan ng Sagay",
+      "name_en": "Sagay Church",
+      "denominasyon": "Catholic Church",
+      "taon_itinatag": "",
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "",
+      "bayan": "Sagay",
+      "latitude": 9.104722,
+      "longitude": 124.725556,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q106172181",
+      "name_tl": "Katedral ng Malaybalay",
+      "name_en": "Malaybalay Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "Bukidnon",
+      "bayan": "Malaybalay",
+      "latitude": 8.154625,
+      "longitude": 125.129607,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q18750295",
+      "name_tl": "Jimenez Church",
+      "name_en": "Jimenez Church",
+      "denominasyon": "Catholicism",
+      "taon_itinatag": 1829,
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "Misamis Occidental",
+      "bayan": "Jimenez",
+      "latitude": 8.33449,
+      "longitude": 123.839,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q106221111",
+      "name_tl": "Katedral ng Ozamiz",
+      "name_en": "Ozamiz Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "Misamis Occidental",
+      "bayan": "Ozamiz",
+      "latitude": 8.145943,
+      "longitude": 123.843404,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q123490702",
+      "name_tl": "Ozamiz Cathedral",
+      "name_en": "Ozamiz Cathedral",
+      "denominasyon": "Catholicism",
+      "taon_itinatag": "",
+      "rehiyon": "Northern Mindanao",
+      "lalawigan": "Misamis Occidental",
+      "bayan": "Ozamiz",
+      "latitude": 8.14569,
+      "longitude": 123.84319,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Simbahan - Northern Mindanao - Libreng download",
+    "description": "Mga simbahan sa rehiyong Northern Mindanao, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Northern Mindanao, Philippines.) Naglalaman ng 12 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Simbahan - Northern Mindanao | ListBase",
+    "seo_description": "I-download Mga Simbahan - Northern Mindanao — 12 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 12 talaan / 12 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

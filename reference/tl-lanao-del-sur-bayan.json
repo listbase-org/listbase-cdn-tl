@@ -1,0 +1,368 @@
+{
+  "id": "tl-lanao-del-sur-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Lanao Del Sur",
+  "title": "Mga Bayan ng Lalawigan ng Lanao Del Sur",
+  "description": "Listahan ng 39 munisipalidad (bayan) sa lalawigan ng Lanao Del Sur, AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "153601000",
+      "name": "BACOLOD-KALAWI (BACOLOD GRANDE)",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 20841,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "153602000",
+      "name": "BALABAGAN",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 26819,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "153603000",
+      "name": "BALINDONG (WATU)",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 29180,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "153604000",
+      "name": "BAYANG",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 23965,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "153605000",
+      "name": "BINIDAYAN",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 22079,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153633000",
+      "name": "BUADIPOSO-BUNTONG",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 16130,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153606000",
+      "name": "BUBONG",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 22336,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "153637000",
+      "name": "BUMBARAN",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 10401,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "153607000",
+      "name": "BUTIG",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 19302,
+      "income_classification": "6th*"
+    },
+    {
+      "psgc_code": "153632000",
+      "name": "CALANOGAS",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 13750,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "153624000",
+      "name": "DITSAAN-RAMAIN",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 22299,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "153609000",
+      "name": "GANASSI",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 23016,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153610000",
+      "name": "KAPAI",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 18894,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153639000",
+      "name": "KAPATAGAN",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 15521,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153611000",
+      "name": "LUMBA-BAYABAO (MAGUING)",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 36151,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "153641000",
+      "name": "LUMBACA-UNAYAN",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 7260,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153612000",
+      "name": "LUMBATAN",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 19105,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "153636000",
+      "name": "LUMBAYANAGUE",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 16372,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153613000",
+      "name": "MADALUM",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 23127,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "153614000",
+      "name": "MADAMBA",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 17756,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153634000",
+      "name": "MAGUING",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 24531,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "153615000",
+      "name": "MALABANG",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 43957,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "153616000",
+      "name": "MARANTAO",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 32974,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "153631000",
+      "name": "MAROGONG",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 21319,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153618000",
+      "name": "MASIU",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 29176,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "153619000",
+      "name": "MULONDO",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 16067,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "153620000",
+      "name": "PAGAYAWAN (TATARIKAN)",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 13139,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "153621000",
+      "name": "PIAGAPO",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25440,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153635000",
+      "name": "PICONG (SULTAN GUMANDER)",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 16615,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "153622000",
+      "name": "POONA BAYABAO (GATA)",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 22227,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153623000",
+      "name": "PUALAS",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 12866,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "153625000",
+      "name": "SAGUIARAN",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 24619,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153640000",
+      "name": "SULTAN DUMALONDONG",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 11298,
+      "income_classification": "6th*"
+    },
+    {
+      "psgc_code": "153638000",
+      "name": "TAGOLOAN II",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 11169,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153626000",
+      "name": "TAMPARAN",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25874,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "153627000",
+      "name": "TARAKA",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 23644,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153628000",
+      "name": "TUBARAN",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 14749,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153629000",
+      "name": "TUGAYA",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 23814,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "153630000",
+      "name": "WAO",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 45862,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Lanao Del Sur - Libreng download",
+    "description": "Listahan ng 39 munisipalidad (bayan) sa lalawigan ng Lanao Del Sur, AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 39 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Lanao Del Sur | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Lanao Del Sur — 39 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 39 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

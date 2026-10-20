@@ -1,0 +1,224 @@
+{
+  "id": "tl-ilocos-norte-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Ilocos Norte",
+  "title": "Mga Bayan ng Lalawigan ng Ilocos Norte",
+  "description": "Listahan ng 21 munisipalidad (bayan) sa lalawigan ng Ilocos Norte, REGION I (ILOCOS REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "012801000",
+      "name": "ADAMS",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 1792,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012802000",
+      "name": "BACARRA",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 32215,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012803000",
+      "name": "BADOC",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 31616,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012804000",
+      "name": "BANGUI",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 14672,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012811000",
+      "name": "BANNA (ESPIRITU)",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 19438,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012806000",
+      "name": "BURGOS",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 9777,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012807000",
+      "name": "CARASI",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 1567,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012808000",
+      "name": "CURRIMAO",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 12184,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012809000",
+      "name": "DINGRAS",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 38562,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "012810000",
+      "name": "DUMALNEG",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 2947,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012813000",
+      "name": "MARCOS",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 17777,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012814000",
+      "name": "NUEVA ERA",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 9506,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012815000",
+      "name": "PAGUDPUD",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 23770,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012816000",
+      "name": "PAOAY",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 24866,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012817000",
+      "name": "PASUQUIN",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 28980,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012818000",
+      "name": "PIDDIG",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 21497,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012819000",
+      "name": "PINILI",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 17300,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012820000",
+      "name": "SAN NICOLAS",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 36736,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "012821000",
+      "name": "SARRAT",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 25212,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012822000",
+      "name": "SOLSONA",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 24121,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012823000",
+      "name": "VINTAR",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 32220,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Ilocos Norte - Libreng download",
+    "description": "Listahan ng 21 munisipalidad (bayan) sa lalawigan ng Ilocos Norte, REGION I (ILOCOS REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 21 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Ilocos Norte | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Ilocos Norte — 21 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 21 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

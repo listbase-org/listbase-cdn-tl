@@ -1,0 +1,274 @@
+{
+  "id": "tl-tanggapang-tagapagpaganap",
+  "name": "Mga Tanggapan ng Sangay na Tagapagpaganap (Executive Offices) ng Pilipinas",
+  "title": "Mga Tanggapan ng Sangay na Tagapagpaganap (Executive Offices) ng Pilipinas",
+  "description": "Mga tanggapan ng sangay na tagapagpaganap ng pamahalaan ng Pilipinas (Tanggapan ng Pangulo, Pangalawang Pangulo, at iba pa), may tirahan, trunkline, at website. (Philippine executive-branch offices.)",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "tirahan",
+      "label": "Tirahan",
+      "type": "string"
+    },
+    {
+      "key": "trunkline",
+      "label": "Trunkline",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "OFFICE OF THE PRESIDENT",
+      "tirahan": "Malacañang Palace Compound, New Executive Bldg. J. P. Laurel St., San Miguel, 1005 Manila",
+      "trunkline": "(632) 8249-8310",
+      "website": "www.op-proper.gov.ph"
+    },
+    {
+      "pangalan": "OFFICE OF THE VICE PRESIDENT",
+      "tirahan": "11th Floor, Robinson's Cybergate Plaza, EDSA, cor Pioneer St., Mandaluyong City",
+      "trunkline": "(632) 8532-5942; 8370-1719",
+      "website": "www.ovp.gov.ph"
+    },
+    {
+      "pangalan": "PRESIDENTIAL COMMUNICATIONS OFFICE",
+      "tirahan": "New Executive Building (NEB), J.P. Laurel St., Malacañang, Manila",
+      "trunkline": "(632) 8733-0790; 8733-1206; 8733-3630; 8734-5611",
+      "website": "www.pco.gov.ph"
+    },
+    {
+      "pangalan": "ANTI-MONEY LAUNDERING COUNCIL",
+      "tirahan": "5/F EDPC Bldg., Bangko Sentral ng Pilipinas Complex Mabini cor. Vito Cruz Streets, Malate, Manila",
+      "trunkline": "(02) 8708-7701",
+      "website": "www.amlc.gov.ph"
+    },
+    {
+      "pangalan": "ANTI-RED TAPE AUTHORITY",
+      "tirahan": "4/F and 5/F National Food Authority Bldg. Visayas Avenue, Brgy. Vasra, Quezon City",
+      "trunkline": "(02) 8246-7940",
+      "website": "www.arta.gov.ph"
+    },
+    {
+      "pangalan": "CAREER EXECUTIVE SERVICE BOARD",
+      "tirahan": "3 Marcelino Street, Isidora Hills Subd., Brgy. Holy Spirit Drive, Diliman, Quezon City",
+      "trunkline": "(02) 8951-4981",
+      "website": "www.cesboard.gov.ph"
+    },
+    {
+      "pangalan": "CLIMATE CHANGE COMMISSION",
+      "tirahan": "6/F First Residences Bldg., 1557 J.P. Laurel St. Malacañang Complex, San Miguel, Manila",
+      "trunkline": "(02) 8353-8494",
+      "website": "www.climate.gov.ph"
+    },
+    {
+      "pangalan": "COMMISSION ON FILIPINOS OVERSEAS",
+      "tirahan": "20/F and 21/F, The Upper Class Tower, Quezon Ave. cor. Scout Reyes St., Brgy. Paligsahan, Diliman, Quezon City",
+      "trunkline": "(02) 8552-4700",
+      "website": "cfo.gov.ph"
+    },
+    {
+      "pangalan": "COMMISSION ON HIGHER EDUCATION",
+      "tirahan": "Higher Education Development Center Building C. P. Garcia Avenue, Diliman, Quezon City",
+      "trunkline": "(02) 8441-1260",
+      "website": "www.ched.gov.ph"
+    },
+    {
+      "pangalan": "KOMISYON SA WIKANG FILIPINO",
+      "tirahan": "2/F Watson Bldg., 1610 J.P. Laurel St., San Miguel, Manila",
+      "trunkline": "(02) 8996-0670",
+      "website": "www.kwf.gov.ph"
+    },
+    {
+      "pangalan": "DANGEROUS DRUGS BOARD",
+      "tirahan": "3/F DDB-PDEA Bldg. National Government Center NIA Road, Brgy. Pinyahan, Quezon City",
+      "trunkline": "(02) 8929-4544, (02) 8929-1753",
+      "website": "www.ddb.gov.ph"
+    },
+    {
+      "pangalan": "ENERGY REGULATORY COMMISSION",
+      "tirahan": "Exquadra Tower 1, Jade Drive, Ortigas Center San Antonio, Pasig City",
+      "trunkline": "(02) 8689-5372",
+      "website": "www.erc.gov.ph"
+    },
+    {
+      "pangalan": "FERTILIZER AND PESTICIDE AUTHORITY",
+      "tirahan": "Visayas Avenue, Diliman, Quezon City",
+      "trunkline": "(02) 8426-1572, (02) 8371-5388",
+      "website": "www.fpa.da.gov.ph"
+    },
+    {
+      "pangalan": "FILM DEVELOPMENT COUNCIL OF THE PHILIPPINES",
+      "tirahan": "855 T. M. Kalaw St., Ermita, Manila",
+      "trunkline": "(02) 7368-7145",
+      "website": "www.fdcp.ph"
+    },
+    {
+      "pangalan": "GAMES AND AMUSEMENTS BOARD",
+      "tirahan": "2/F Legaspi Tower 200, Paseo de Roxas St., Legaspi Village, Makati City",
+      "trunkline": "(02) 8242-1156",
+      "website": "www.gab.gov.ph"
+    },
+    {
+      "pangalan": "GOVERNANCE COMMISSION FOR GOCCS",
+      "tirahan": "3/F BDO Paseo Towers, Paseo de Roxas Avenue, Makati City",
+      "trunkline": "(02) 5328-2030, (02) 5318-1000",
+      "website": "gcg.gov.ph"
+    },
+    {
+      "pangalan": "METROPOLITAN MANILA DEVELOPMENT AUTHORITY",
+      "tirahan": "Doña Julia Vargas Avenue cor. Molave St., Brgy. Ugong, Pasig City",
+      "trunkline": "(02) 8898-4200",
+      "website": "www.mmda.gov.ph"
+    },
+    {
+      "pangalan": "MINDANAO DEVELOPMENT AUTHORITY",
+      "tirahan": "14/F Pryce Tower, Pryce Business Park JP Laurel Avenue, Davao City",
+      "trunkline": "(082) 225 5791",
+      "website": "www.minda.gov.ph"
+    },
+    {
+      "pangalan": "MOVIE AND TELEVISION REVIEW AND CLASSIFICATION BOARD",
+      "tirahan": "MTRCB Bldg., No. 18 Timog Avenue, Quezon City",
+      "trunkline": "(02) 8376-7380",
+      "website": "midas.mtrcb.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL ARCHIVES OF THE PHILIPPINES",
+      "tirahan": "1765 Paz M. Guazon St., Paco, Manila",
+      "trunkline": "(02) 8524-3231, 8245-3340, 8245-3341, 8708-8656, 8708-8729, 8521-6830",
+      "website": "www.nationalarchives.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL COMMISSION FOR CULTURE AND THE ARTS",
+      "tirahan": "7/F NCCA Bldg., 633 General Luna St., Intramuros, Manila",
+      "trunkline": "(02) 8527-2217 to 18, 8527-2192, 8527-2202, 8527-2210, 8527-2195 to 97",
+      "website": "www.ncca.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL HISTORICAL COMMISSION OF THE PHILIPPINES",
+      "tirahan": "NHCP Bldg., T. M. Kalaw St., Ermita, Manila",
+      "trunkline": "(02) 5335-1200",
+      "website": "www.nhcp.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL COMMISSION OF SENIOR CITIZENS",
+      "tirahan": "4/F AAP Tower, Aurora Blvd., New Manila, Quezon City San Miguel, Manila",
+      "trunkline": "(02) 8567-5646",
+      "website": "www.ncsc.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL INTELLIGENCE COORDINATING AGENCY",
+      "tirahan": "V. Luna Road, Quezon City",
+      "trunkline": "(02) 8927-4245",
+      "website": "www.nica.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL LIBRARY OF THE PHILIPPINES",
+      "tirahan": "1000 Kalaw Ave., Ermita, Manila",
+      "trunkline": "(02) 5314-2100",
+      "website": "web.nlp.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL SECURITY COUNCIL",
+      "tirahan": "NICA Compound, V. Luna Road cor. East Ave., Diliman, Quezon City",
+      "trunkline": "(02) 8927-4245",
+      "website": "www.nsc.gov.ph"
+    },
+    {
+      "pangalan": "OFFICE OF THE PRESIDENTIAL ADVISER ON PEACE, RECONCILIATION AND UNITY",
+      "tirahan": "5/F Agustin I Bldg., F. Ortigas Jr. Road Ortigas Center, Pasig City",
+      "trunkline": "8636-0701 to 07",
+      "website": "www.peace.gov.ph"
+    },
+    {
+      "pangalan": "OPTICAL MEDIA BOARD",
+      "tirahan": "35 Scout Limbaga, Brgy. Laging Handa, Quezon City",
+      "trunkline": "(02) 8921-7855",
+      "website": "www.omb.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE COMPETITION COMMISSION",
+      "tirahan": "25/F Vertis North Corporate Center 1 North Avenue, Quezon City",
+      "trunkline": "(02) 8771-9PCC (722)",
+      "website": "www.phcc.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE DRUG ENFORCEMENT AGENCY",
+      "tirahan": "PDEA Bldg., NIA Northside Road Diliman, Quezon City",
+      "trunkline": "(02) 8927-9702",
+      "website": "pdea.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE INFORMATION AGENCY",
+      "tirahan": "PIA Bldg., Visayas Avenue, Vasra, Quezon City",
+      "trunkline": "(02) 8926-5129",
+      "website": "www.pia.gov.ph"
+    },
+    {
+      "pangalan": "BUREAU OF COMMUNICATIONS SERVICES",
+      "tirahan": "No. 310 San Rafael Street Malacañang Complex, San Miguel, Manila",
+      "trunkline": "",
+      "website": "www.bcs.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE RACING COMMISSION",
+      "tirahan": "4/F Electra House Bldg. Esteban cor. V.A. Rufino Sts., Legaspi Village, Makati",
+      "trunkline": "(02) 8843-0971",
+      "website": "www.philracom.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE SPACE AGENCY",
+      "tirahan": "29/F Cyber One Bldg., II Eastwood Avenue Bagumbayan, Quezon City",
+      "trunkline": "(02) 8568-9931",
+      "website": "www.philsa.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE SPORTS COMMISSION",
+      "tirahan": "Rizal Memorial Sports Complex Pablo Ocampo Sr. St., Malate, Manila",
+      "trunkline": "(02) 8525-0808",
+      "website": "www.psc.gov.ph"
+    },
+    {
+      "pangalan": "PRESIDENTIAL LEGISLATIVE LIAISON OFFICE",
+      "tirahan": "Room G-101-D, Mabini Hall, Malacañang, Manila",
+      "trunkline": "(02) 8736-1116",
+      "website": "www.pllo.gov.ph"
+    },
+    {
+      "pangalan": "PRESIDENTIAL MANAGEMENT STAFF",
+      "tirahan": "PMS Bldg., Arlegui St., San Miguel, Manila",
+      "trunkline": "(02) 8876-8450",
+      "website": "www.pms.gov.ph"
+    },
+    {
+      "pangalan": "PRESIDENTIAL BROADCAST STAFF-RADIO TELEVISION MALACAÑANG",
+      "tirahan": "RTVM Bldg., Gate 7, J.P. Laurel Street, Malacañang, Manila",
+      "trunkline": "(02) 8733-3713",
+      "website": "www.rtvm.gov.ph"
+    }
+  ],
+  "meta": {
+    "title": "Mga Tanggapan ng Sangay na Tagapagpaganap (Executive Offices) ng Pilipinas - Libreng download",
+    "description": "Mga tanggapan ng sangay na tagapagpaganap ng pamahalaan ng Pilipinas (Tanggapan ng Pangulo, Pangalawang Pangulo, at iba pa), may tirahan, trunkline, at website. (Philippine executive-branch offices.) Naglalaman ng 38 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Tanggapan ng Sangay na Tagapagpaganap (Executive Offices) ng Pilipinas | ListBase",
+    "seo_description": "I-download Mga Tanggapan ng Sangay na Tagapagpaganap (Executive Offices) ng Pilipinas — 38 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 38 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

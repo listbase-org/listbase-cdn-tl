@@ -1,0 +1,80 @@
+{
+  "id": "tl-calamba-bangko",
+  "name": "Mga Bangko sa City of Calamba",
+  "title": "Mga Bangko sa City of Calamba",
+  "description": "Listahan ng 3 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Calamba (source city string: \"CITY OF CALAMBA\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "MKDCPHM2",
+      "name": "MAKILING DEVELOPMENT BANK CORPORATION",
+      "name_titlecase": "Makiling Development BANK Corporation",
+      "city": "CITY OF CALAMBA",
+      "city_titlecase": "City of Calamba",
+      "branch": ""
+    },
+    {
+      "swift_code": "PRNPPHM1",
+      "name": "PLANBANK RURAL BANK OF CANLUBANG PLANTERS, INC.",
+      "name_titlecase": "Planbank Rural BANK of Canlubang Planters, INC.",
+      "city": "CITY OF CALAMBA",
+      "city_titlecase": "City of Calamba",
+      "branch": ""
+    },
+    {
+      "swift_code": "SECTPHM15B1",
+      "name": "SAMSUNG ELECTRONICS PHILIPPINES CORP.",
+      "name_titlecase": "Samsung Electronics Philippines CORP.",
+      "city": "CITY OF CALAMBA",
+      "city_titlecase": "City of Calamba",
+      "branch": "SEPHIL"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Calamba - Libreng download",
+    "description": "Listahan ng 3 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Calamba (source city string: \"CITY OF CALAMBA\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Calamba | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Calamba — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

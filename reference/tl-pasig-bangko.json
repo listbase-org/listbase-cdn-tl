@@ -1,0 +1,392 @@
+{
+  "id": "tl-pasig-bangko",
+  "name": "Mga Bangko sa City of Pasig",
+  "title": "Mga Bangko sa City of Pasig",
+  "description": "Listahan ng 42 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Pasig (source city string: \"CITY OF PASIG\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "ACICPHM1",
+      "name": "ABACUS CAPITAL AND INVESTMENT CORPORATION",
+      "name_titlecase": "Abacus Capital and Investment Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ABAEPHM1",
+      "name": "ABACUS SECURITIES CORP.",
+      "name_titlecase": "Abacus Securities CORP.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "AGBUPHM1",
+      "name": "AGRIBUSINESS RURAL BANK, INC.",
+      "name_titlecase": "Agribusiness Rural BANK, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ARMEPHM1",
+      "name": "ARMSTRONG SECURITIES INC.",
+      "name_titlecase": "Armstrong Securities INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "AUBKPHMM",
+      "name": "ASIA UNITED BANK CORPORATION",
+      "name_titlecase": "Asia United BANK Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CALAPHM1",
+      "name": "CAMPOS, LANUZA AND CO. INC.",
+      "name_titlecase": "Campos, Lanuza and CO. INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CESNPHM1",
+      "name": "CENTURY SAVINGS BANK CORPORATION",
+      "name_titlecase": "Century Savings BANK Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CIYCPHM2",
+      "name": "CIS BAYAD CENTER, INC.",
+      "name_titlecase": "Cis Bayad Center, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CITSPHM1",
+      "name": "CITISECURITIES INC.",
+      "name_titlecase": "Citisecurities INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CIVVPHM1",
+      "name": "CITYSTATE SAVINGS BANK, INC.",
+      "name_titlecase": "Citystate Savings BANK, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CFGOPHM1",
+      "name": "COL FINANCIAL GROUP, INC.",
+      "name_titlecase": "Col Financial Group, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "DCPHPHM1",
+      "name": "DCPAY PHILIPPINES, INC",
+      "name_titlecase": "Dcpay Philippines, INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "YAPSPHM1",
+      "name": "F. YAP SECURITIES INC",
+      "name_titlecase": "F. Yap Securities INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GOLCPHM1",
+      "name": "GOLDSTAR SECURITIES INC",
+      "name_titlecase": "Goldstar Securities INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GOTYPHM2",
+      "name": "GOTYME BANK CORPORATION",
+      "name_titlecase": "Gotyme BANK Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GPNEPHM2",
+      "name": "GPAY NETWORK PH, INC.",
+      "name_titlecase": "Gpay Network PH, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GSFAPHM1",
+      "name": "GSIS FAMILY BANK",
+      "name_titlecase": "GSIS Family BANK",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "IREMPHM2",
+      "name": "I-REMIT, INC.",
+      "name_titlecase": "I-remit, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GIMSPHM1",
+      "name": "I.B. GIMENEZ SECURITIES, INC.",
+      "name_titlecase": "I.b. Gimenez Securities, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "LUCSPHM1",
+      "name": "LUCKY SECURITIES INC",
+      "name_titlecase": "Lucky Securities INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "MRALPHMM",
+      "name": "MANILA ELECTRIC COMPANY",
+      "name_titlecase": "Manila Electric Company",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "MERTPHM1",
+      "name": "MERIDIAN SECURITIES INC",
+      "name_titlecase": "Meridian Securities INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "OPTMPHM1",
+      "name": "OPTIMUM SECURITIES CORP.",
+      "name_titlecase": "Optimum Securities CORP.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "PNBMPHMMTOD",
+      "name": "PHILIPPINE NATIONAL BANK",
+      "name_titlecase": "Philippine National BANK",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": "TREASURY OPERATIONS DIVISION"
+    },
+    {
+      "swift_code": "XPHSPHM1",
+      "name": "PHILIPPINE STOCK EXCHANGE, INC.",
+      "name_titlecase": "Philippine Stock Exchange, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "PSCOPHM1",
+      "name": "PRODUCERS SAVINGS BANK CORPORATION",
+      "name_titlecase": "Producers Savings BANK Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHIIPHM1",
+      "name": "ROBINSONS BANK CORPORATION",
+      "name_titlecase": "Robinsons BANK Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SOLRPHM1",
+      "name": "SOLAR SECURITIES INC.",
+      "name_titlecase": "Solar Securities INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SPEYPHM2",
+      "name": "SPEEDYPAY INC.",
+      "name_titlecase": "Speedypay INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SRCPPHM2",
+      "name": "STARPAY CORPORATION",
+      "name_titlecase": "Starpay Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SUMMPHM1",
+      "name": "SUMMIT SECURITIES INC.",
+      "name_titlecase": "Summit Securities INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "TAYOPHM2",
+      "name": "TAYOCASH INC.",
+      "name_titlecase": "Tayocash INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "HSBCPHMMSEC",
+      "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "name_titlecase": "The Hongkong and Shanghai Banking Corporation LTD - Philippine Branch",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": "CUSTODY AND CLEARING"
+    },
+    {
+      "swift_code": "TODGPHM2",
+      "name": "TONIK DIGITAL BANK, INC.",
+      "name_titlecase": "Tonik Digital BANK, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "TOWRPHM1",
+      "name": "TOWER SECURITIES INC.",
+      "name_titlecase": "Tower Securities INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRXPPHM2",
+      "name": "TRAXION PAY INC",
+      "name_titlecase": "Traxion Pay INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "UBPHPHMM",
+      "name": "UNION BANK OF THE PHILIPPINES",
+      "name_titlecase": "Union BANK of the Philippines",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "UNODPHM2",
+      "name": "UNIONDIGITAL BANK INC.",
+      "name_titlecase": "Uniondigital BANK INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "WERAPHM2",
+      "name": "WELCOME BANK, RURAL BANK INC.",
+      "name_titlecase": "Welcome BANK, Rural BANK INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "WOLFPHM1",
+      "name": "WOLFF AND CO. INC.",
+      "name_titlecase": "Wolff and CO. INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "YAPTPHM1",
+      "name": "YAPTINCHAY SEC. INC.",
+      "name_titlecase": "Yaptinchay Sec. INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "YUOYPHM1",
+      "name": "YU AND COMPANY, INC.",
+      "name_titlecase": "Yu and Company, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Pasig - Libreng download",
+    "description": "Listahan ng 42 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Pasig (source city string: \"CITY OF PASIG\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 42 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Pasig | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Pasig — 42 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 42 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id": "tl-abra-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Abra",
+  "title": "Mga Bayan ng Lalawigan ng Abra",
+  "description": "Listahan ng 27 munisipalidad (bayan) sa lalawigan ng Abra, CORDILLERA ADMINISTRATIVE REGION (CAR), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "140101000",
+      "name": "BANGUED (Capital)",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 48163,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "140102000",
+      "name": "BOLINEY",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 3573,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140103000",
+      "name": "BUCAY",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 17115,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140104000",
+      "name": "BUCLOC",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 2501,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "140105000",
+      "name": "DAGUIOMAN",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 2088,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140106000",
+      "name": "DANGLAS",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 4192,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140107000",
+      "name": "DOLORES",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 11315,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140108000",
+      "name": "LA PAZ",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 15437,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140109000",
+      "name": "LACUB",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 3403,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140110000",
+      "name": "LAGANGILANG",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 14255,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140111000",
+      "name": "LAGAYAN",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 4499,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140112000",
+      "name": "LANGIDEN",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 3198,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140113000",
+      "name": "LICUAN-BAAY (LICUAN)",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 4689,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140114000",
+      "name": "LUBA",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 6339,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140115000",
+      "name": "MALIBCONG",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 3428,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140116000",
+      "name": "MANABO",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 10761,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140117000",
+      "name": "PEÑARRUBIA",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 6640,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "140118000",
+      "name": "PIDIGAN",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 12185,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140119000",
+      "name": "PILAR",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 10223,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140120000",
+      "name": "SALLAPADAN",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 6622,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140121000",
+      "name": "SAN ISIDRO",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 4574,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140122000",
+      "name": "SAN JUAN",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 9867,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140123000",
+      "name": "SAN QUINTIN",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 5438,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140124000",
+      "name": "TAYUM",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 14467,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "140125000",
+      "name": "TINEG",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 5097,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "140126000",
+      "name": "TUBO",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 5699,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "140127000",
+      "name": "VILLAVICIOSA",
+      "province": "ABRA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 5392,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Abra - Libreng download",
+    "description": "Listahan ng 27 munisipalidad (bayan) sa lalawigan ng Abra, CORDILLERA ADMINISTRATIVE REGION (CAR), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 27 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Abra | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Abra — 27 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 27 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

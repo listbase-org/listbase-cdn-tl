@@ -1,0 +1,3496 @@
+{
+  "id": "tl-mimaropa-shs-paaralan",
+  "name": "Mga Senior High School - MIMAROPA (Region IV-B)",
+  "title": "Mga Senior High School - MIMAROPA (Region IV-B)",
+  "description": "Mga Senior High School (SHS) sa MIMAROPA (Region IV-B) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (343 paaralan.)",
+  "category": "education",
+  "source": "https://github.com/nedpals/k12-shs-api",
+  "source_url": "https://github.com/nedpals/k12-shs-api",
+  "updated": "2026-04",
+  "record_count": 343,
+  "columns": [
+    {
+      "key": "school_id",
+      "label": "School Id",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "school_name",
+      "label": "School Name",
+      "type": "string"
+    },
+    {
+      "key": "programs",
+      "label": "Programs",
+      "type": "string"
+    },
+    {
+      "key": "tvl_specializations",
+      "label": "Tvl Specializations",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "school_id": "301657",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "SOFRONIO ESPAÑOLA",
+      "school_name": "Aboabo NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Automotive Servicing (NC I),  Carpentry (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "301659",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "ABORLAN",
+      "school_name": "Aborlan NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Carpentry (NC II),  Computer Programming (NC IV), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "301569",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "ABRA DE ILOG",
+      "school_name": "Abra de Ilog NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "301610",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BANSUD",
+      "school_name": "Alcadesma NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "301747",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "ALCANTARA",
+      "school_name": "Alcantara NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Dressmaking (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "301687",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "CULION",
+      "school_name": "Culion Sanitarium Special NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301688",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "CUYO",
+      "school_name": "Cuyo NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Tourism Promotion Services (NC II), Housekeeping (NC II), Front Office Services (NC II), Local Guiding Services (NC II)"
+    },
+    {
+      "school_id": "403411",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "Sablayan",
+      "school_name": "D-SHEP Foundation Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301689",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "MAGSAYSAY",
+      "school_name": "Danawan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Housekeeping (NC II)"
+    },
+    {
+      "school_id": "301640",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "ROXAS",
+      "school_name": "Dangay National High School",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Electrical Installation and Maintenance (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "301625",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BONGABONG",
+      "school_name": "Dayhagan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Tourism Promotion Services (NC II), Housekeeping (NC II), Attractions and Theme Parks (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "301660",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "SAN VICENTE",
+      "school_name": "Alimanguan NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Animation (NC II), Medical Transcription (NC II),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "403545",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "Divine Word College of Calapan",
+      "programs": "GAS, ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405452",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Pinamalayan",
+      "school_name": "Divine Word College of Calapan-Pinamalayan Campus",
+      "programs": "ABM, STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403421",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "San Jose",
+      "school_name": "Divine Word College of San Jose",
+      "programs": "GAS, ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Local Guiding Services, Bread and Pastry Production, Food and Beverage Services, Housekeeping, Computer Programming"
+    },
+    {
+      "school_id": "301542",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Dolores NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301628",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "POLA",
+      "school_name": "Domingo Yu Chu MNHS - Bacawan Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301629",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "POLA",
+      "school_name": "Domingo Yu Chu MNHS-Matulatula",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "301627",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "POLA",
+      "school_name": "Domingo Yu Chu NHS",
+      "programs": "STEM, GAS, TVL, Sports",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Consumer Electronics Servicing (NC II)"
+    },
+    {
+      "school_id": "309025",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "POLA",
+      "school_name": "Domingo Yu Chu NHS - Tagumpay Ext.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301759",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "SAN FERNANDO",
+      "school_name": "Don Carlos M. Mejias Memorial NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Animation (NC II), Computer Programming (NC IV),  Carpentry (NC II),  Dressmaking (NC II), Tailoring (NC II),  Masonry (NC II), Plumbing (NC I)"
+    },
+    {
+      "school_id": "301630",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "NAUJAN",
+      "school_name": "Doroteo Mendoza NHS",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301690",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "NARRA",
+      "school_name": "Dumanguena NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Landscape Installation and Maintenance (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "301692",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "DUMARAN",
+      "school_name": "Dumaran Mainland NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC III),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "301691",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "DUMARAN",
+      "school_name": "DumaranNHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403437",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Bongabong",
+      "school_name": "Eastern Mindoro College",
+      "programs": "GAS, STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403376",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "Boac (Capital)",
+      "school_name": "Educational Systems Technological Institute",
+      "programs": "GAS, STEM, ABM, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing, Food and Beverage Services, Front Office Services, Local Guiding Services, Bartending, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "301693",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "EL NIDO (BACUIT)",
+      "school_name": "El Nido NHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Front Office Services (NC II), Housekeeping (NC II), Attractions and Theme Parks (NC II), Travel Services (NC II),  Front Office Services (NC II), Travel Services (NC II), Local Guiding Services (NC II), Tourism Promotion Services (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "403453",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Pinamalayan",
+      "school_name": "EMA Emits College, Philippines",
+      "programs": "GAS, ABM, HUMSS, STEM, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing, Bread and Pastry Production, Local Guiding Services, Food and Beverage Services, Computer Programming, Animation"
+    },
+    {
+      "school_id": "431011",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "Odiongan",
+      "school_name": "Epiphany School of Peace and Goodwill, Inc.",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Consumer Electronics Servicing, Shielded Metal Arc Welding, Motorcycle/Small Engine Servicing"
+    },
+    {
+      "school_id": "402377",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Gloria",
+      "school_name": "Erhard Science and Technological Institute - Oriental Mindoro, Inc. (ESTI-OMI)",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Bartending, Food and Beverage Services, Front Office Services, Local Guiding Services, Computer Hardware Servicing, Computer Programming, Electronic Products Assembly and Servicing"
+    },
+    {
+      "school_id": "431010",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "Odiongan",
+      "school_name": "Erhard Systems Technological Institute",
+      "programs": "GAS, STEM, ABM, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing, Bartending, Food and Beverage Services, Front Office Services, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "301760",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "SAN FERNANDO",
+      "school_name": "Espana NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Technical Drafting (NC II)"
+    },
+    {
+      "school_id": "301749",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "SAN AGUSTIN",
+      "school_name": "Esteban Madrona NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403527",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "San Andres",
+      "school_name": "Fabella Institute",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Dressmaking, Tailoring, Computer Hardware Servicing, Computer Programming, Electrical Installation and Maintenance, Plumbing"
+    },
+    {
+      "school_id": "430514",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Taytay",
+      "school_name": "Faith Adventist Academy",
+      "programs": "GAS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301631",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "MANSALAY",
+      "school_name": "Fe del Mundo NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "309027",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BANSUD",
+      "school_name": "Felimon M. Salcedo Sr. MNHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301761",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "FERROL",
+      "school_name": "Ferrol National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "301635",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "SOCORRO",
+      "school_name": "Fortuna NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "431503",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "FullBright Colleges, Inc.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Handicraft (Basketry, Macrame), Food and Beverage Services, Animation, Computer Programming"
+    },
+    {
+      "school_id": "301695",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "AGUTAYA",
+      "school_name": "Gaudencio E. Abordo Memorial NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "430012",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Roxas",
+      "school_name": "Gelacio I. Yason Foundation-Family Farm School, Inc.",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "430005",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Puerto Galera",
+      "school_name": "Gloders College, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing"
+    },
+    {
+      "school_id": "403482",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Victoria",
+      "school_name": "Good Shepherd Academy",
+      "programs": "GAS, HUMSS, ABM, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301699",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BROOKE'S POINT",
+      "school_name": "Gov. A. Abueg Sr. NTVMHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Computer Programming (NC IV), Animation (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Wellness Massage (NC II), Beauty/ Nail Care (NC II),  Housekeeping (NC II), Front Office Services (NC II), Attractions and Theme Parks (NC II), Travel Services (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "403478",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Socorro",
+      "school_name": "Grace Mission College",
+      "programs": "GAS, HUMSS, Sports, TVL",
+      "tvl_specializations": "Landscape Installation and Maintenance, Caregiving, Housekeeping, Computer Hardware Servicing, Computer Programming, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "407522",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "San Jose",
+      "school_name": "Holy Family Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403546",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "Holy Infant Academy",
+      "programs": "GAS, ABM, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403525",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "San Agustin",
+      "school_name": "Holy Rosary Academy",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403532",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "Holy Trinity University",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Food and Beverage Services, Beauty/Nail Care, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "301543",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Hupi NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "301544",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "BOAC (Capital)",
+      "school_name": "Ilaya NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301578",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SAN JOSE",
+      "school_name": "Iling NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403455",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Pinamalayan",
+      "school_name": "Immaculate Heart of Mary Academy",
+      "programs": "GAS, HUMSS, ABM, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301782",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Inagawan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Animation (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "309001",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "NAUJAN",
+      "school_name": "Inarawan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "430016",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Bongabong",
+      "school_name": "Innovative College of Science and Technology",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Tourism Promotion Services, Animation"
+    },
+    {
+      "school_id": "430020",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Pinamalayan",
+      "school_name": "Institute of Business, Science and Medical Arts, Inc.",
+      "programs": "STEM, GAS, ABM, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Driving"
+    },
+    {
+      "school_id": "407051",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "International Technological Institute of Arts and Tourism",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Food and Beverage Services"
+    },
+    {
+      "school_id": "301783",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Irawan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II),  Hairdressing (NC II), Local Guiding Services (NC II), Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "301701",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "ABORLAN",
+      "school_name": "Isaub NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Carpentry (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "431506",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "Jesus, the Divine Son Academy, Inc.",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Local Guiding Services, Front Office Services, Bread and Pastry Production, Food and Beverage Services, Housekeeping, Bartending, Cookery, Animation, Broadband Installation (Fixed Wireless Systems), Computer Programming, Driving, Motorcycle/Small Engine Servicing, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Automotive Servicing, Food Processing"
+    },
+    {
+      "school_id": "403468",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Roxas",
+      "school_name": "John Paul College",
+      "programs": "STEM, ABM, GAS, HUMSS, Sports, TVL",
+      "tvl_specializations": "Bartending, Housekeeping, Food and Beverage Services, Cookery, Computer Hardware Servicing, Animation, Contact Center Services"
+    },
+    {
+      "school_id": "301702",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "RIZAL (MARCOS)",
+      "school_name": "Jose P. Rizal NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animal Production (NC II), Artificial Insemination- Ruminants (NC II),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Tailoring (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301633",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BONGABONG",
+      "school_name": "Kaligtasan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "429516",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "Mamburao (Capital)",
+      "school_name": "Katutubo Excel Schools, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301547",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Kilo-Kilo NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "309005",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BONGABONG",
+      "school_name": "Labasan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301548",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Landy National High School",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "301784",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Langogan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Tourism Promotion Services (NC II), Local Guiding Services (NC II),  Carpentry (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC II), Masonry (NC II)"
+    },
+    {
+      "school_id": "403488",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Bataraza",
+      "school_name": "Leonides S. Virata Memorial School",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301634",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "SOCORRO",
+      "school_name": "Leuteboro NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301764",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "ODIONGAN",
+      "school_name": "Libertad NHS",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301703",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "TAYTAY",
+      "school_name": "Liminangcong NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Hairdressing (NC II), Wellness Massage (NC II), Beauty/ Nail Care (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "301765",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "LOOC",
+      "school_name": "Looc NHS",
+      "programs": "STEM, ABM, HUMSS, TVL, Arts and Design",
+      "tvl_specializations": "Attractions and Theme Parks (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II), Tourism Promotion Services (NC II),  Carpentry (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301583",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "LOOC",
+      "school_name": "Looc NSOF",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "403506",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Culion",
+      "school_name": "Loyola College of Culion",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Front Office Services, Local Guiding Services, Tourism Promotion Services, Travel Services"
+    },
+    {
+      "school_id": "500029",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "LUBANG",
+      "school_name": "Lubang IS",
+      "programs": "ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301586",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "LUBANG",
+      "school_name": "Lubang VHS",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "301753",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "CAJIDIOCAN",
+      "school_name": "Lumbang East NHS-(Caj. NHS Ext.)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animation (NC II), Computer Programming (NC IV),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "403549",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "Luna Goco Colleges",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Caregiving, Food and Beverage Services, Housekeeping"
+    },
+    {
+      "school_id": "301788",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Luzviminda NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Housekeeping (NC II), Local Guiding Services (NC II),  Medical Transcription (NC II), Animation (NC II),  Organic Agriculture (NC II), Landscape Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "301704",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BROOKE'S POINT",
+      "school_name": "Maasin NHS(Bernas NHS)",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animal Production (NC II), Artificial Insemination- Swine (NC II),  Animation (NC II), Computer Hardware Servicing (NC II),  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "301766",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "CORCUERA",
+      "school_name": "Mabini NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301785",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Macarascas NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Local Guiding Services (NC II), Tourism Promotion Services (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "301612",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "VICTORIA",
+      "school_name": "Macatoc NHS (Aurelio Arago NHS ( Macatoc))",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301705",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "ROXAS",
+      "school_name": "Magara School for Philippine Craftsmen",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Front Office Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Local Guiding Services (NC II),  Housekeeping (NC II), Tourism Promotion Services (NC II), Attractions and Theme Parks (NC II), Front Office Services (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301768",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "MAGDIWANG",
+      "school_name": "Magdiwang NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II),  Aquaculture (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "301588",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "MAGSAYSAY",
+      "school_name": "Magsaysay Nhs",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "301589",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "MAGSAYSAY",
+      "school_name": "Magsaysay NHS - Mapaya Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301549",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Makapuyat NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Bartending (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "301550",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Makapuyat NHS - Masaguisi Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "301611",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "NAUJAN",
+      "school_name": "Apitong NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301661",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "ABORLAN",
+      "school_name": "Apurawan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "301662",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "ARACELI",
+      "school_name": "Araceli NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "301663",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "NARRA",
+      "school_name": "Aramaywan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "301636",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "GLORIA",
+      "school_name": "Malamig NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "403392",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "Santa Cruz",
+      "school_name": "Malindig Institute Foundation, Inc.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing, Technical Drafting, Illustration, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "301805",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "CITY OF CALAPAN (Capital)",
+      "school_name": "Managpi National high School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "301708",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "CUYO",
+      "school_name": "Manamoc NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Tourism Promotion Services (NC II), Housekeeping (NC II), Attractions and Theme Parks (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "301638",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "MANSALAY",
+      "school_name": "Manaul NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301789",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Mangingisda NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Housekeeping (NC II), Food and Beverage Services (NC II), Local Guiding Services (NC II),  Electrical Installation and Maintenance (NC II),  Plumbing (NC I), Animation (NC II)"
+    },
+    {
+      "school_id": "403443",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Mansalay",
+      "school_name": "Mansalay Catholic High School",
+      "programs": "GAS, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301553",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "TORRIJOS",
+      "school_name": "Maranlig NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301792",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Marcelino Abadiano Javarez National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Hairdressing (NC II), Housekeeping (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "301639",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "ROXAS",
+      "school_name": "Marcelo I. Cabrera Vocational High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Bartending (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "403387",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "Mogpog",
+      "school_name": "Marinduque Academy",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Front Office Services, Wellness Massage, Technical Drafting"
+    },
+    {
+      "school_id": "403384",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "Gasan",
+      "school_name": "Marinduque Midwest College",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production, Organic Agriculture, Food and Beverage Services, Commercial Cooking, Bartending, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "301554",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "BOAC (Capital)",
+      "school_name": "Marinduque NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Contact Center Services (NC II), Computer Hardware Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II),  Technical Drafting (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "600046",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "Boac (Capital)",
+      "school_name": "Marinduque State College",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Automotive Servicing, Electrical Installation and Maintenance, Animation"
+    },
+    {
+      "school_id": "403381",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "Buenavista",
+      "school_name": "Marinduque Victorians College (Formerly Buenavista Academy)",
+      "programs": "GAS, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301641",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BONGABONG",
+      "school_name": "Masaguisi NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301555",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Matalaba NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Computer Hardware Servicing (NC II), Food and Beverage Services (NC II), Housekeeping (NC II)"
+    },
+    {
+      "school_id": "301556",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "TORRIJOS",
+      "school_name": "Matuyatuya NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301621",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BULALACAO (SAN PEDRO)",
+      "school_name": "Maujao NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "301642",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "NAUJAN",
+      "school_name": "MELGAR NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "403480",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Socorro",
+      "school_name": "Mina de Oro Catholic School",
+      "programs": "GAS, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "402379",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Victoria",
+      "school_name": "Mina De Oro Institute of Science and Technology",
+      "programs": "TVL",
+      "tvl_specializations": "Food and Beverage Services, Caregiving, Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "600048",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Bongabong",
+      "school_name": "Mindoro State College of Agriculture and Technology-Bongabong Campus",
+      "programs": "HUMSS, STEM, TVL",
+      "tvl_specializations": "Food Processing, Aquaculture, Local Guiding Services, Front Office Services, Housekeeping, Food and Beverage Services, Animation, Computer Programming"
+    },
+    {
+      "school_id": "600045",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "Mindoro State College of Agriculture and Technology-Calapan City Campus",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Local Guiding Services, Front Office Services, Housekeeping, Food and Beverage Services, Animation, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "600049",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Victoria",
+      "school_name": "Mindoro State College of Agriculture and Technology-Main Campus",
+      "programs": "GAS, HUMSS, STEM, TVL",
+      "tvl_specializations": "Animation, Computer Programming, Agricultural Crops Production, Horticulture, Organic Agriculture, Animal Production, Slaughtering Operations (Hog/Swine/Pig)"
+    },
+    {
+      "school_id": "301557",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "MOGPOG",
+      "school_name": "Mogpog NCHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301558",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Mongpong NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "431014",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "Romblon (Capital)",
+      "school_name": "Montfort Academy",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing, Computer Hardware Servicing, Food and Beverage Services, Bartending, Front Office Services, Housekeeping, Bread and Pastry Production, Dressmaking"
+    },
+    {
+      "school_id": "301643",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BONGABONG",
+      "school_name": "Morente NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301644",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "PINAMALAYAN",
+      "school_name": "Nabuslot National High School",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301802",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "CITY OF CALAPAN (Capital)",
+      "school_name": "Nag-iba National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "309165",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "LINAPACAN",
+      "school_name": "Nangalao NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "301786",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Napsan National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Hairdressing (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "301710",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "NARRA",
+      "school_name": "Narra NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Arts and Design",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "403448",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Naujan",
+      "school_name": "Naujan Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301645",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "NAUJAN",
+      "school_name": "Naujan Municipal NHS",
+      "programs": "STEM, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301711",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BUSUANGA",
+      "school_name": "New Busuanga NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "309108",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "SAN VICENTE",
+      "school_name": "New Canipo NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "301713",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "EL NIDO (BACUIT)",
+      "school_name": "New Ibajay NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Carpentry (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "403476",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "San Teodoro",
+      "school_name": "Northern Mindoro Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301593",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "MAMBURAO (Capital)",
+      "school_name": "Occidental Mindoro NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "406231",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "San Jose",
+      "school_name": "Occidental Mindoro State College-Labangan Campus",
+      "programs": "ABM, STEM, HUMSS, Sports, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Caregiving, Cookery, Food and Beverage Services, Front Office Services, Housekeeping, Local Guiding Services, Tourism Promotion Services, Travel Services, Computer Hardware Servicing, Animation, Computer Programming, Medical Transcription, Automotive Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "406251",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "Mamburao (Capital)",
+      "school_name": "Occidental Mindoro State College-Mamburao Campus",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Animation, Computer Programming, Medical Transcription"
+    },
+    {
+      "school_id": "406239",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "San Jose",
+      "school_name": "Occidental Mindoro State College-Murtha Campus",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Agricultural Crops Production, Animal Production, Food Processing"
+    },
+    {
+      "school_id": "406249",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "Sablayan",
+      "school_name": "Occidental Mindoro State College-Sablayan Campus",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Animation, Computer Programming, Medical Transcription"
+    },
+    {
+      "school_id": "301769",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "ODIONGAN",
+      "school_name": "Odiongan, National High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Arts and Design, Sports",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Hairdressing (NC II), Food and Beverage Services (NC II),  Computer Programming (NC IV), Animation (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II),  Organic Agriculture (NC II), Landscape Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403485",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Victoria",
+      "school_name": "Oriental Mindoro Academy",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Agricultural Crops Production, Computer Programming, Animation"
+    },
+    {
+      "school_id": "301800",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "CITY OF CALAPAN (Capital)",
+      "school_name": "Oriental Mindoro National High School",
+      "programs": "STEM, ABM, GAS, TVL, Arts and Design, Sports",
+      "tvl_specializations": "Attractions and Theme Parks (NC II), Housekeeping (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "403397",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "Torrijos",
+      "school_name": "Our Mother of Perpetual Succor Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "308804",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "GASAN",
+      "school_name": "Paciano A. Sena Mem. HS (Tabionan NHS)",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "309019",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BANSUD",
+      "school_name": "Pag-asa NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "403499",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Narra",
+      "school_name": "Palawan Adventist Academy",
+      "programs": "GAS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403536",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "Palawan Hope Christian School",
+      "programs": "ABM, GAS, HUMSS, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "309301",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Palawan National School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Arts and Design, Sports",
+      "tvl_specializations": "Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II),  Tailoring (NC II), Animation (NC II),  Wellness Massage (NC II), Food and Beverage Services (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "403537",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "Palawan Polytechnic College, Inc",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bartending, Commercial Cooking, Food and Beverage Services, Bread and Pastry Production, Housekeeping, Local Guiding Services, Tourism Promotion Services, Handicraft (Fashion Accessories, Paper Craft), Automotive Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "600306",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "Palawan State University-Cuyo",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Masonry, Tile Setting, Bread and Pastry Production, Food and Beverage Services, Dressmaking, Beauty/ Nail Care"
+    },
+    {
+      "school_id": "600051",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "Palawan State University-Main Campus",
+      "programs": "ABM, STEM, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Tailoring, Caregiving, Food and Beverage Services, Bread and Pastry Production, Local Guiding Services, Tourism Promotion Services, Computer Programming, Automotive Servicing, Electrical Installation and Maintenance, Carpentry, Plumbing"
+    },
+    {
+      "school_id": "600231",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Narra",
+      "school_name": "Palawan State University-Narra",
+      "programs": "ABM, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600232",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Roxas",
+      "school_name": "Palawan State University-Roxas",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Housekeeping, Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "600233",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Taytay",
+      "school_name": "Palawan State University-Taytay",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Local Guiding Services, Tourism Promotion Services, Bread and Pastry Production, Food and Beverage Services"
+    },
+    {
+      "school_id": "407632",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "Palawan Technological College, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Bartending, Bread and Pastry Production, Food and Beverage Services, Front Office Services, Local Guiding Services, Tourism Promotion Services, Housekeeping, Events Management Services, Contact Center Services, Animation"
+    },
+    {
+      "school_id": "301594",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "PALUAN",
+      "school_name": "Paluan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301646",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "PINAMALAYAN",
+      "school_name": "Pambisan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301718",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "NARRA",
+      "school_name": "Panacan NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "309146",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "RIZAL (MARCOS)",
+      "school_name": "Panalingaan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "309107",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "TAYTAY",
+      "school_name": "Pancol Bgy HS- Banbanan Ext.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "301613",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "VICTORIA",
+      "school_name": "Aurelio Arago MNHS",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Housekeeping (NC II), Tourism Promotion Services (NC II), Local Guiding Services (NC II), Attractions and Theme Parks (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301614",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "NAUJAN",
+      "school_name": "Aurora Nhs",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301719",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "SOFRONIO ESPAÑOLA",
+      "school_name": "Panitian NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301720",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BUSUANGA",
+      "school_name": "Panlaitan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "430019",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Roxas",
+      "school_name": "Paradigm Colleges of Science and Technology",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Automotive Servicing, Motorcycle/Small Engine Servicing, Driving, Electronic Products Assembly and Servicing, Computer Systems Servicing, Caregiving, Cookery, Bartending, Food and Beverage Services, Housekeeping, Front Office Services"
+    },
+    {
+      "school_id": "301582",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SABLAYAN",
+      "school_name": "Paulino Legaspi, Sr. Mem. NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301592",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SAN JOSE",
+      "school_name": "Pedro T. Mendiola Sr. Mem. NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, Sports",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "429509",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "San Jose",
+      "school_name": "Philippine Central Islands College",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Bartending, Food and Beverage Services, Front Office Services, Local Guiding Services, Computer Programming, Computer Systems Servicing, Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "301647",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "PINAMALAYAN",
+      "school_name": "Pili NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "402380",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Pinamalayan",
+      "school_name": "Pinamalayan Maritime Foundation and Technological College, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Front Office Services, Commercial Cooking, Computer Hardware Servicing, Contact Center Services, Driving, Automotive Servicing"
+    },
+    {
+      "school_id": "301722",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "ABORLAN",
+      "school_name": "PLARIDEL NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Carpentry (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "308801",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "TORRIJOS",
+      "school_name": "Poctoy NHS (Bonliw NHS-Poctoy Annex)",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "403461",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Pola",
+      "school_name": "Pola Catholic School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301648",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "NAUJAN",
+      "school_name": "Porfirio Comia MNHS",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301723",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "SAN VICENTE",
+      "school_name": "Port Barton NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "309002",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "GLORIA",
+      "school_name": "President Diosdado Macapagal MNHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "403463",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Puerto Galera",
+      "school_name": "Prince of Peace College Inc.",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Front Office Services, Housekeeping, Food and Beverage Services"
+    },
+    {
+      "school_id": "301724",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "NARRA",
+      "school_name": "Princess Urduja NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Medical Transcription (NC II), Computer Programming (NC IV),  Rice Machinery Operation (NC II), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "301791",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Pto. Princesa City Nat. Sci. HS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Animation (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "403464",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Puerto Galera",
+      "school_name": "Puerto Galera Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "309004",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "PUERTO GALERA",
+      "school_name": "Puerto Galera NHS",
+      "programs": "STEM, ABM, Arts and Design",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "309035",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "PUERTO GALERA",
+      "school_name": "Puerto Galera NHS - San Isidro Ext.",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Tourism Promotion Services (NC II), Housekeeping (NC II), Attractions and Theme Parks (NC II), Local Guiding Services (NC II)"
+    },
+    {
+      "school_id": "402370",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "ACLC College of Calapan",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Technical Drafting"
+    },
+    {
+      "school_id": "301787",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Babuyan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "309109",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "DUMARAN",
+      "school_name": "Bacao NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "403430",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Baco",
+      "school_name": "Baco Catholic School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "402376",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Baco",
+      "school_name": "Baco Community College",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "301616",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BACO",
+      "school_name": "Baco NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Handicraft- Woodcraft, Leathercraft , Handicraft- Basketry, Macrame, Handicraft- Needlecraft, Handicraft- Fashion Accessories, Paper Craft"
+    },
+    {
+      "school_id": "309008",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BACO",
+      "school_name": "Baco NHS - Dulangan II Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "301725",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "SOFRONIO ESPAÑOLA",
+      "school_name": "Pulot NHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Ruminants (NC II),  Animation (NC II), Illustration (NC II),  Caregiving (NC II),  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Hairdressing (NC II), Wellness Massage (NC II), Beauty/ Nail Care (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "301560",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Punong NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301727",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "QUEZON",
+      "school_name": "Quezon - Aramaywan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "301726",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "QUEZON",
+      "school_name": "Quezon NHS",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Housekeeping (NC II), Wellness Massage (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301728",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "QUEZON",
+      "school_name": "Quezon-Panitian NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "403388",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "Mogpog",
+      "school_name": "Quezon-Roxas High School of Marinduque, Inc.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "301649",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "PINAMALAYAN",
+      "school_name": "Quinabigan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301729",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "QUEZON",
+      "school_name": "Quinlogan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "301730",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BATARAZA",
+      "school_name": "Rio Tuba NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Consumer Electronics Servicing (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301595",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "RIZAL",
+      "school_name": "RIZAL NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Food (Fish) Processing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "308904",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "RIZAL",
+      "school_name": "Rizal NHS - Manoot Ext.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301779",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Bacungan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Hairdressing (NC II), Housekeeping (NC II),  Food and Beverage Services (NC II), Tourism Promotion Services (NC II), Handicraft- Woodcraft, Leathercraft , Local Guiding Services (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "403526",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "San Agustin",
+      "school_name": "Badajoz Tablas College",
+      "programs": "GAS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301770",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "ROMBLON (Capital)",
+      "school_name": "Romblon NHS, Romblon",
+      "programs": "STEM, ABM, GAS, HUMSS, Arts and Design, Sports",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600053",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "Odiongan",
+      "school_name": "Romblon State University",
+      "programs": "GAS, ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Animal Production, Aquaculture, Artificial Insemination (Large Ruminants), Artificial Insemination (Swine), Agricultural Crops Production, Food Processing, Horticulture, Organic Agriculture, Pest Management, Rice Machinery Operations, Computer Hardware Servicing, Animation, Computer Programming, Contact Center Services, Illustration, Technical Drafting"
+    },
+    {
+      "school_id": "301731",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "ROXAS",
+      "school_name": "Roxas National Comprehensive HS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Carpentry (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "403473",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Roxas",
+      "school_name": "Roxas Seventh-Day Adventist Academy",
+      "programs": "GAS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301596",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SABLAYAN",
+      "school_name": "Sablayan CNHS",
+      "programs": "STEM, ABM, GAS, TVL, Arts and Design",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Consumer Electronics Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Masonry (NC II), Tile Setting (NC II)"
+    },
+    {
+      "school_id": "301597",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SABLAYAN",
+      "school_name": "Sablayan NHS - Claudio Salgado Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301598",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SABLAYAN",
+      "school_name": "Sablayan NHS - Pag-Asa Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "407523",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Gloria",
+      "school_name": "Sacred Heart Academy",
+      "programs": "STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Cookery, Tailoring, Dressmaking, Beauty/Nail Care, Wellness Massage, Hairdressing, Animation, Computer Programming, Contact Center Services"
+    },
+    {
+      "school_id": "403491",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Brooke's Point",
+      "school_name": "Sacred Heart of Jesus High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403505",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Taytay",
+      "school_name": "Saint Ezekiel Moreno High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation, Computer Programming"
+    },
+    {
+      "school_id": "403493",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Cuyo",
+      "school_name": "Saint Joseph Academy",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403379",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "Boac (Capital)",
+      "school_name": "Saint Mary's College of Marinduque",
+      "programs": "GAS, ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Food and Beverage Services, Front Office Services, Housekeeping, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "301734",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BUSUANGA",
+      "school_name": "Salvacion Nhs",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bartending (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Front Office Services (NC II), Travel Services (NC II), Tourism Promotion Services (NC II), Local Guiding Services (NC II)"
+    },
+    {
+      "school_id": "309170",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BUSUANGA",
+      "school_name": "Salvacion NHS- Concepcion Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Front Office Services (NC II), Travel Services (NC II), Local Guiding Services (NC II), Tourism Promotion Services (NC II)"
+    },
+    {
+      "school_id": "301651",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "NAUJAN",
+      "school_name": "San Agustin NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Tourism Promotion Services (NC II), Housekeeping (NC II), Attractions and Theme Parks (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "301771",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "SAN ANDRES",
+      "school_name": "San Andres NHS",
+      "programs": "STEM, ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403500",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Narra",
+      "school_name": "San Francisco Javier College",
+      "programs": "GAS, HUMSS, ABM, STEM, TVL",
+      "tvl_specializations": "Front Office Services, Local Guiding Services, Beauty/Nail Care, Dressmaking, Commercial Cooking, Animation, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "301732",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "ROXAS",
+      "school_name": "San Jose (Roxas) NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "403428",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "San Jose",
+      "school_name": "San Jose Adventist Academy",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301772",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "SAN JOSE",
+      "school_name": "San Jose Agricultural HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Aquaculture (NC II),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Carpentry (NC II),  Commercial Cooking (NC III), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "308901",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SAN JOSE",
+      "school_name": "San Jose NAIHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Landscape Installation and Maintenance (NC II),  Animal Production (NC II), Artificial Insemination- Ruminants (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Technical Drafting (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "308908",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SAN JOSE",
+      "school_name": "San Jose NAIHS - Mangarin Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301793",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "San Jose Nhs",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Hairdressing (NC II),  Carpentry (NC II),  Hairdressing (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "301599",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SAN JOSE",
+      "school_name": "San Jose Nhs",
+      "programs": "STEM, ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301652",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "ROXAS",
+      "school_name": "San Mariano NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301737",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "LINAPACAN",
+      "school_name": "San Miguel NHS(Gaudencio Abordo NHS)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "403399",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "Abra de Ilog",
+      "school_name": "San Rafael High School",
+      "programs": "GAS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301795",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "San Rafael National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Housekeeping (NC II), Attractions and Theme Parks (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Local Guiding Services (NC II), Tourism Promotion Services (NC II)"
+    },
+    {
+      "school_id": "301622",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BULALACAO (SAN PEDRO)",
+      "school_name": "San Roque Nhs",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "301780",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Bahile NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Horticulture (NC II),  Housekeeping (NC II), Food and Beverage Services (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "301666",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BALABAC",
+      "school_name": "Balabac NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Carpentry (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "301530",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "MOGPOG",
+      "school_name": "Balanacan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Front Office Services (NC II), Local Guiding Services (NC II), Housekeeping (NC II)"
+    },
+    {
+      "school_id": "301653",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "SAN TEODORO",
+      "school_name": "San Teodoro NHS",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301738",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "SAN VICENTE",
+      "school_name": "San Vicente NHS",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Front Office Services (NC II), Travel Services (NC II), Tourism Promotion Services (NC II), Local Guiding Services (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "301601",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SABLAYAN",
+      "school_name": "San Vicente NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301602",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SABLAYAN",
+      "school_name": "San Vicente NHS -  Yapang Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301683",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "TAYTAY",
+      "school_name": "Sandoval NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Landscape Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "301739",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "NARRA",
+      "school_name": "Sandoval NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Illustration (NC II),  Artificial Insemination- Swine (NC II), Animal Production (NC II),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Electrical Installation and Maintenance (NC II),  Housekeeping (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "403395",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "Santa Cruz",
+      "school_name": "Santa Cruz Institute (Marinduque), Inc.",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing, Computer Hardware Servicing, Technical Drafting, Illustration, Computer Programming"
+    },
+    {
+      "school_id": "301774",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "SANTA MARIA (IMELDA)",
+      "school_name": "Santa Maria NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403475",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Roxas",
+      "school_name": "Santo Niño School of Roxas",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403541",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "Seminario De San Jose",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Housekeeping, Automotive Servicing"
+    },
+    {
+      "school_id": "342797",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "SHS in Puerto Princesa City",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Local Guiding Services (NC II),  Animation (NC II), Bread and Pastry Production (NC II), Hairdressing (NC II),  Carpentry (NC II),  Food (Fish) Processing (NC II),  Hairdressing (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "342752",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "TAYTAY",
+      "school_name": "SHS in Taytay, Palawan",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Animation (NC II), Illustration (NC II),  Caregiving (NC II),  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Food (Fish) Processing (NC II),  Housekeeping (NC II),  Local Guiding Services (NC II), Travel Services (NC II), Tourism Promotion Services (NC II), Front Office Services (NC II),  Technical Drafting (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "342646",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "TORRIJOS",
+      "school_name": "SHS IN Torrijos, Marinduque",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Landscape Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "309127",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BALABAC",
+      "school_name": "Sibaring NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301562",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "TORRIJOS",
+      "school_name": "Sibuyao NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "301796",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Sicsican NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Tailoring (NC II),  Bread and Pastry Production (NC II), Tailoring (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Organic Agriculture (NC II), Landscape Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "309302",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Simpucan NHS (Napsan NHS - Simpucan Annex)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Housekeeping (NC II), Local Guiding Services (NC II)"
+    },
+    {
+      "school_id": "309129",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BATARAZA",
+      "school_name": "Southern Bataraza NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "403550",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "Southfields Educational Philippines, Inc",
+      "programs": "GAS, ABM, TVL",
+      "tvl_specializations": "Housekeeping, Front Office Services, Tourism Promotion Services, Travel Services, Local Guiding Services, Caregiving, Carpentry, Masonry, Tile Setting, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "406959",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Pinamalayan",
+      "school_name": "Southwestern Institute of Business and Technology",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Bread and Pastry Production, Front Office Services, Local Guiding Services, Computer Hardware Servicing, Computer Programming, Animation, Consumer Electronics Servicing, Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "402371",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "Southwestern Luzon Maritime Institute Foundation",
+      "programs": "TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Front Office Services, Electrical Installation and Maintenance, Plumbing, Masonry, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "432007",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "St. Anthony College of Calapan City, Inc.",
+      "programs": "GAS, ABM, STEM, TVL",
+      "tvl_specializations": "Caregiving, Housekeeping, Front Office Services, Food and Beverage Services, Tourism Promotion Services, Animation, Computer Hardware Servicing, Computer Programming, Consumer Electronics Servicing, Contact Center Services, Illustration, Masonry, Plumbing (NC I), Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Tile Setting, Shielded Metal Arc Welding (NC I),  Electrical Installation and Maintenance, Automotive Servicing (NC I), Carpentry"
+    },
+    {
+      "school_id": "403492",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Coron",
+      "school_name": "St. Augustine's Academy",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301617",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "MANSALAY",
+      "school_name": "Balugo NHS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403438",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Bongabong",
+      "school_name": "St. Joseph Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301531",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "GASAN",
+      "school_name": "Bangbang NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II),  Housekeeping (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301603",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Sta. Cruz NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301604",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Sta. Cruz NHS - Pinagturilan Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301763",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "SANTA FE",
+      "school_name": "Sta. Fe Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301790",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Sta. Lourdes NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Housekeeping (NC II), Animation (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "301605",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "MAGSAYSAY",
+      "school_name": "Sta. Teresa NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301740",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "DUMARAN",
+      "school_name": "Sta. Teresita NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Computer Programming (NC IV), Computer Hardware Servicing (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403402",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "Lubang",
+      "school_name": "Stella Maris School",
+      "programs": "STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403431",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Bansud",
+      "school_name": "Bansud Institute, Inc.",
+      "programs": "GAS, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "402388",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "STI College - Puerto Princesa",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Local Guiding Services, Tourism Promotion Services, Bartending, Travel Services, Cookery, Commercial Cooking, Housekeeping, Front Office Services, Computer Programming, Computer Hardware Servicing, Animation, Illustration"
+    },
+    {
+      "school_id": "309115",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BATARAZA",
+      "school_name": "Sumbiling NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Rice Machinery Operation (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "309149",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "RIZAL (MARCOS)",
+      "school_name": "Taburi NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405456",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "ACLC College of Puerto Princesa",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation, Computer Hardware Servicing, Computer Programming, Contact Center Services, Consumer Electronics Servicing, Bread and Pastry Production, Food and Beverage Services, Housekeeping, Local Guiding Services, Tourism Promotion Services, Bartending, Events Management Services"
+    },
+    {
+      "school_id": "403481",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Victoria",
+      "school_name": "ACMCL College",
+      "programs": "GAS, ABM, STEM, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Front Office Services, Computer Hardware Servicing, Computer Programming, Consumer Electronics Servicing, Electronic Products Assembly and Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "301618",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BANSUD",
+      "school_name": "Bansud NHS - Regional Science High School",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301750",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "BANTON",
+      "school_name": "Banton NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Masonry (NC II), Shielded Metal Arc Welding (NC II),  Wellness Massage (NC II), Housekeeping (NC II), Beauty/ Nail Care (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "301573",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Barahan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301743",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "QUEZON",
+      "school_name": "Tagusao NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animal Production (NC II), Artificial Insemination- Swine (NC II)"
+    },
+    {
+      "school_id": "301606",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "CALINTAAN",
+      "school_name": "Tanyag NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301565",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "GASAN",
+      "school_name": "Tapuyan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Housekeeping (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "309126",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BATARAZA",
+      "school_name": "Tarusan NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Dressmaking (NC II), Wellness Massage (NC II),  Carpentry (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "301667",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "EL NIDO (BACUIT)",
+      "school_name": "Barotuan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II),  Housekeeping (NC II), Front Office Services (NC II), Attractions and Theme Parks (NC II), Travel Services (NC II)"
+    },
+    {
+      "school_id": "301566",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "TORRIJOS",
+      "school_name": "Tigwi NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Technical Drafting (NC II)"
+    },
+    {
+      "school_id": "301745",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "ROXAS",
+      "school_name": "Tumarbong NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "301654",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BONGABONG",
+      "school_name": "Vicente B. Ylagan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "301609",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SABLAYAN",
+      "school_name": "Victoria NHS - Ilvita Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301655",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BANSUD",
+      "school_name": "Villapagasa NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403523",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "Odiongan",
+      "school_name": "Virginia Centurione Bracelli School",
+      "programs": "GAS, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301668",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BATARAZA",
+      "school_name": "Bataraza NHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "301669",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "TAYTAY",
+      "school_name": "Bato NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403408",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "Mamburao (Capital)",
+      "school_name": "West Mindoro Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600230",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Aborlan",
+      "school_name": "Western Philippines University-Main",
+      "programs": "ABM, STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301568",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "BUENAVISTA",
+      "school_name": "Yook NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301619",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "SOCORRO",
+      "school_name": "Bayuin NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "309114",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "QUEZON",
+      "school_name": "Berong NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "403419",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "San Jose",
+      "school_name": "Bethany School of Technology and Humanities, Inc.",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405432",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "Advanced Skills Training and Education Services, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/Nail Care, Food and Beverage Services, Hairdressing, Housekeeping"
+    },
+    {
+      "school_id": "403515",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "Odiongan",
+      "school_name": "Adventist Mission Academy of Romblon (AMAR) Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301532",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "GASAN",
+      "school_name": "Bognuyan NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Caregiving (NC II)"
+    },
+    {
+      "school_id": "301533",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "TORRIJOS",
+      "school_name": "Bonliw NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301685",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "CORON",
+      "school_name": "Borac NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Housekeeping (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "309168",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "CORON",
+      "school_name": "Borac NHS- Decalachao Ext.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Housekeeping (NC II), Front Office Services (NC II), Wellness Massage (NC II), Beauty/ Nail Care (NC II)"
+    },
+    {
+      "school_id": "301534",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "SANTA CRUZ",
+      "school_name": "Botilao NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301671",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BROOKE'S POINT",
+      "school_name": "Brooke's Point NHS- Pangobilian",
+      "programs": "STEM, ABM, GAS, TVL, Sports",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "301535",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "BUENAVISTA",
+      "school_name": "Buenavista NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301536",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Marinduque",
+      "municipality": "BUENAVISTA",
+      "school_name": "Buenavista NHS - Bagacay Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "309113",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BALABAC",
+      "school_name": "Bugsuk NHS- Bancalaan Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Landscape Installation and Maintenance (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301674",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BALABAC",
+      "school_name": "Bugsuk NHS-Mangsee Annex",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "301620",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BULALACAO (SAN PEDRO)",
+      "school_name": "Bulalacao NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "309128",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "LINAPACAN",
+      "school_name": "Bulawit NHS(Gaudencio Abordo NHS)",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Housekeeping (NC II), Front Office Services (NC II), Attractions and Theme Parks (NC II), Travel Services (NC II)"
+    },
+    {
+      "school_id": "301623",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "GLORIA",
+      "school_name": "Bulbugan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301781",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "PUERTO PRINCESA CITY (Capital)",
+      "school_name": "Cabayugan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Housekeeping (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Local Guiding Services (NC II)"
+    },
+    {
+      "school_id": "301677",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "CAGAYANCILLO",
+      "school_name": "Cagayancillo NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "301752",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "CAJIDIOCAN",
+      "school_name": "Cajidiocan National High School",
+      "programs": "STEM, ABM, HUMSS, TVL, Arts and Design",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "301678",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "ARACELI",
+      "school_name": "Calandagan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "309201",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "CALATRAVA",
+      "school_name": "Calatrava NHS",
+      "programs": "STEM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301574",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "CALINTAAN",
+      "school_name": "Calintaan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Landscape Installation and Maintenance (NC II),  Agricultural Crops Production (NC I), Rice Machinery Operation (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "301755",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "CAJIDIOCAN",
+      "school_name": "Cambalo NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Computer Hardware Servicing (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "301680",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "RIZAL (MARCOS)",
+      "school_name": "Candawaga NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animation (NC II), Computer Hardware Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "309160",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "RIZAL (MARCOS)",
+      "school_name": "Canipaan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "301798",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "CITY OF CALAPAN (Capital)",
+      "school_name": "Canubing National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Wellness Massage (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "309140",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "CUYO",
+      "school_name": "Caponayan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405436",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "San Jose",
+      "school_name": "Capt. Lawrence A. Cooper Technical College, Inc.-San Jose",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Motorcycle/Small Engine Servicing, Bread and Pastry Production, Cookery, Food and Beverage Services, Housekeeping, Bartending"
+    },
+    {
+      "school_id": "309205",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "SAN AGUSTIN",
+      "school_name": "Carmen NHS (Cabolutan NHS Ext.)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "309006",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BONGABONG",
+      "school_name": "Carmundo NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301681",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "SAN VICENTE",
+      "school_name": "Caruray NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "301682",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "TAYTAY",
+      "school_name": "Casian NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Hairdressing (NC II), Wellness Massage (NC II), Beauty/ Nail Care (NC II)"
+    },
+    {
+      "school_id": "403446",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Naujan",
+      "school_name": "Agustin Gutierrez Memorial Academy",
+      "programs": "GAS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301624",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "BONGABONG",
+      "school_name": "Cawayan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "431511",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "Puerto Princesa City (Capital)",
+      "school_name": "Center for Positive Futures, Inc. (Puerto Princesa City)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Local Guiding Services, Tourism Promotion Services, Computer Programming"
+    },
+    {
+      "school_id": "301600",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "SAN JOSE",
+      "school_name": "Central NHS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "309134",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "BUSUANGA",
+      "school_name": "Cheey NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bartending (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Local Guiding Services (NC II), Front Office Services (NC II), Travel Services (NC II), Tourism Promotion Services (NC II)"
+    },
+    {
+      "school_id": "406200",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "City of Calapan (Capital)",
+      "school_name": "City College of Calapan",
+      "programs": "ABM, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403466",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "Roxas",
+      "school_name": "Clarendon College",
+      "programs": "ABM, HUMSS, STEM, GAS, TVL",
+      "tvl_specializations": "Cookery, Housekeeping, Food and Beverage Services, Local Guiding Services, Animation, Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "403410",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Occidental Mindoro",
+      "municipality": "Sablayan",
+      "school_name": "Colegio de San Sebastian",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Caregiving, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "431013",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "Odiongan",
+      "school_name": "Colegio de Tablas",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301797",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Oriental Mindoro",
+      "municipality": "CITY OF CALAPAN (Capital)",
+      "school_name": "Community Vocational High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "301756",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "CONCEPCION",
+      "school_name": "Concepcion NHS (Main)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "309120",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "AGUTAYA",
+      "school_name": "Concepion NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "301757",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Romblon",
+      "municipality": "CORCUERA",
+      "school_name": "Corcuera NHS",
+      "programs": "STEM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "301684",
+      "region": "Region IV-B",
+      "region_name": "MIMAROPA (Region IV-B)",
+      "province": "Palawan",
+      "municipality": "CORON",
+      "school_name": "Coron School of Fisheries",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Food (Fish) Processing (NC II)"
+    }
+  ],
+  "meta": {
+    "title": "Mga Senior High School - MIMAROPA (Region IV-B) - Libreng download",
+    "description": "Mga Senior High School (SHS) sa MIMAROPA (Region IV-B) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (343 paaralan.) Naglalaman ng 343 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Senior High School - MIMAROPA (Region IV-B) | ListBase",
+    "seo_description": "I-download Mga Senior High School - MIMAROPA (Region IV-B) — 343 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 343 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/nedpals/k12-shs-api"
+    ]
+  }
+}

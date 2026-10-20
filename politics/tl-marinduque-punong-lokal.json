@@ -1,0 +1,148 @@
+{
+  "id": "tl-marinduque-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Marinduque",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Marinduque",
+  "description": "Direktoryo ng 6 lungsod at bayan sa lalawigan ng Marinduque (Mimaropa (Region IV-B)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Marinduque` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Boac",
+      "uri": "Bayan",
+      "lalawigan": "MARINDUQUE",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "4900",
+      "punong_bayan": "ARMI DC. CARRION",
+      "kontak_punong_bayan": "(042) 332-0023",
+      "pangalawang_punong_bayan": "MARK ANTHONY E. SEÑO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Buenavista",
+      "uri": "Bayan",
+      "lalawigan": "MARINDUQUE",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "4904",
+      "punong_bayan": "EDUARD L. SIENA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DAVID G. VITTO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Gasan",
+      "uri": "Bayan",
+      "lalawigan": "MARINDUQUE",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "4905",
+      "punong_bayan": "ROLANDO O. TOLENTINO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LIDANY A. BALDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Mogpog",
+      "uri": "Bayan",
+      "lalawigan": "MARINDUQUE",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "4901",
+      "punong_bayan": "AUGUSTO LEO M. LIVELO",
+      "kontak_punong_bayan": "(042) 332-3489",
+      "pangalawang_punong_bayan": "JONATHAN FELIPE M. GARCIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Santa Cruz",
+      "uri": "Bayan",
+      "lalawigan": "MARINDUQUE",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "4902",
+      "punong_bayan": "MARISA R. MARTINEZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MEDWIN R. MANUEL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Torrijos",
+      "uri": "Bayan",
+      "lalawigan": "MARINDUQUE",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "4903",
+      "punong_bayan": "LORNA Q. VELASCO",
+      "kontak_punong_bayan": "(042) 754-0875",
+      "pangalawang_punong_bayan": "RICARDO R. DE GALICIA",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Marinduque - Libreng download",
+    "description": "Direktoryo ng 6 lungsod at bayan sa lalawigan ng Marinduque (Mimaropa (Region IV-B)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Marinduque` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Marinduque | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Marinduque — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

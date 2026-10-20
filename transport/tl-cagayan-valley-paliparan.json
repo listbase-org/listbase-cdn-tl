@@ -1,0 +1,166 @@
+{
+  "id": "tl-cagayan-valley-paliparan",
+  "name": "Mga Paliparan — Lambak ng Cagayan",
+  "title": "Mga Paliparan — Lambak ng Cagayan",
+  "description": "Mga paliparan at landing strip sa Lambak ng Cagayan (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Cagayan-Valley`. (Airports in Cagayan Valley (Region II), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RPLN",
+      "iata": "",
+      "name": "Palanan Municipal Airport",
+      "city": "Palanan",
+      "subdivision": "Cagayan-Valley",
+      "subdivision_native": "Cagayan-Valley",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 52,
+      "latitude": 17.06567,
+      "longitude": 122.42767,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUO",
+      "iata": "BSO",
+      "name": "Basco Airport",
+      "city": "Basco",
+      "subdivision": "Cagayan-Valley",
+      "subdivision_native": "Cagayan-Valley",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 291,
+      "latitude": 20.4513,
+      "longitude": 121.98,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUT",
+      "iata": "TUG",
+      "name": "Tuguegarao Airport",
+      "city": "Tuguegarao City",
+      "subdivision": "Cagayan-Valley",
+      "subdivision_native": "Cagayan-Valley",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 70,
+      "latitude": 17.64337,
+      "longitude": 121.73315,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUY",
+      "iata": "CYZ",
+      "name": "Cauayan Airport",
+      "city": "Cauayan City",
+      "subdivision": "Cagayan-Valley",
+      "subdivision_native": "Cagayan-Valley",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 200,
+      "latitude": 16.9299,
+      "longitude": 121.753,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUZ",
+      "iata": "",
+      "name": "Bagabag Airport",
+      "city": "",
+      "subdivision": "Cagayan-Valley",
+      "subdivision_native": "Cagayan-Valley",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 820,
+      "latitude": 16.6192,
+      "longitude": 121.252,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — Lambak ng Cagayan - Libreng download",
+    "description": "Mga paliparan at landing strip sa Lambak ng Cagayan (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Cagayan-Valley`. (Airports in Cagayan Valley (Region II), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 5 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — Lambak ng Cagayan | ListBase",
+    "seo_description": "I-download Mga Paliparan — Lambak ng Cagayan — 5 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 5 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

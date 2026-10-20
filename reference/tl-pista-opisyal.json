@@ -1,0 +1,1348 @@
+{
+  "id": "tl-pista-opisyal",
+  "name": "Mga Pista Opisyal ng Pilipinas (2020–2026)",
+  "title": "Mga Pista Opisyal ng Pilipinas (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 143,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "name_tl": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-01-25",
+      "year": 2020,
+      "name_tl": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 1,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-02-25",
+      "year": 2020,
+      "name_tl": "EDSA People Power Revolution Anniversary",
+      "name_en": "EDSA People Power Revolution Anniversary",
+      "month": 2,
+      "day": 25,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-04-09",
+      "year": 2020,
+      "name_tl": "Day of Valor; Maundy Thursday",
+      "name_en": "Day of Valor; Maundy Thursday",
+      "month": 4,
+      "day": 9,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-04-10",
+      "year": 2020,
+      "name_tl": "Good Friday",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-04-11",
+      "year": 2020,
+      "name_tl": "Black Saturday",
+      "name_en": "Black Saturday",
+      "month": 4,
+      "day": 11,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "name_tl": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-05-25",
+      "year": 2020,
+      "name_tl": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-06-12",
+      "year": 2020,
+      "name_tl": "Independence Day",
+      "name_en": "Independence Day",
+      "month": 6,
+      "day": 12,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-07-31",
+      "year": 2020,
+      "name_tl": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 31,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-08-21",
+      "year": 2020,
+      "name_tl": "Ninoy Aquino Day",
+      "name_en": "Ninoy Aquino Day",
+      "month": 8,
+      "day": 21,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-08-31",
+      "year": 2020,
+      "name_tl": "National Heroes Day",
+      "name_en": "National Heroes Day",
+      "month": 8,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-11-01",
+      "year": 2020,
+      "name_tl": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-11-02",
+      "year": 2020,
+      "name_tl": "Additional special (non-working) day",
+      "name_en": "Additional special (non-working) day",
+      "month": 11,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-11-30",
+      "year": 2020,
+      "name_tl": "Bonifacio Day",
+      "name_en": "Bonifacio Day",
+      "month": 11,
+      "day": 30,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-12-08",
+      "year": 2020,
+      "name_tl": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-12-24",
+      "year": 2020,
+      "name_tl": "Additional special (non-working) day",
+      "name_en": "Additional special (non-working) day",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-12-25",
+      "year": 2020,
+      "name_tl": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-12-30",
+      "year": 2020,
+      "name_tl": "Rizal Day",
+      "name_en": "Rizal Day",
+      "month": 12,
+      "day": 30,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-12-31",
+      "year": 2020,
+      "name_tl": "New Year's Eve",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "name_tl": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-02-12",
+      "year": 2021,
+      "name_tl": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 2,
+      "day": 12,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-02-25",
+      "year": 2021,
+      "name_tl": "EDSA People Power Revolution Anniversary",
+      "name_en": "EDSA People Power Revolution Anniversary",
+      "month": 2,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-04-01",
+      "year": 2021,
+      "name_tl": "Maundy Thursday",
+      "name_en": "Maundy Thursday",
+      "month": 4,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-04-02",
+      "year": 2021,
+      "name_tl": "Good Friday",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 2,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-04-03",
+      "year": 2021,
+      "name_tl": "Black Saturday",
+      "name_en": "Black Saturday",
+      "month": 4,
+      "day": 3,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-04-09",
+      "year": 2021,
+      "name_tl": "Day of Valor",
+      "name_en": "Day of Valor",
+      "month": 4,
+      "day": 9,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "name_tl": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-13",
+      "year": 2021,
+      "name_tl": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 13,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-06-12",
+      "year": 2021,
+      "name_tl": "Independence Day",
+      "name_en": "Independence Day",
+      "month": 6,
+      "day": 12,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-07-20",
+      "year": 2021,
+      "name_tl": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 20,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-08-21",
+      "year": 2021,
+      "name_tl": "Ninoy Aquino Day",
+      "name_en": "Ninoy Aquino Day",
+      "month": 8,
+      "day": 21,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-08-30",
+      "year": 2021,
+      "name_tl": "National Heroes Day",
+      "name_en": "National Heroes Day",
+      "month": 8,
+      "day": 30,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-11-01",
+      "year": 2021,
+      "name_tl": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-11-30",
+      "year": 2021,
+      "name_tl": "Bonifacio Day",
+      "name_en": "Bonifacio Day",
+      "month": 11,
+      "day": 30,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-12-08",
+      "year": 2021,
+      "name_tl": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-12-25",
+      "year": 2021,
+      "name_tl": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-12-30",
+      "year": 2021,
+      "name_tl": "Rizal Day",
+      "name_en": "Rizal Day",
+      "month": 12,
+      "day": 30,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "name_tl": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-02-01",
+      "year": 2022,
+      "name_tl": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 2,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-02-25",
+      "year": 2022,
+      "name_tl": "EDSA People Power Revolution Anniversary",
+      "name_en": "EDSA People Power Revolution Anniversary",
+      "month": 2,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-04-09",
+      "year": 2022,
+      "name_tl": "Day of Valor",
+      "name_en": "Day of Valor",
+      "month": 4,
+      "day": 9,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-04-14",
+      "year": 2022,
+      "name_tl": "Maundy Thursday",
+      "name_en": "Maundy Thursday",
+      "month": 4,
+      "day": 14,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-04-15",
+      "year": 2022,
+      "name_tl": "Good Friday",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-04-16",
+      "year": 2022,
+      "name_tl": "Black Saturday",
+      "name_en": "Black Saturday",
+      "month": 4,
+      "day": 16,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "name_tl": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-05-03",
+      "year": 2022,
+      "name_tl": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 5,
+      "day": 3,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-05-09",
+      "year": 2022,
+      "name_tl": "Elections special (non-working) day",
+      "name_en": "Elections special (non-working) day",
+      "month": 5,
+      "day": 9,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-06-12",
+      "year": 2022,
+      "name_tl": "Independence Day",
+      "name_en": "Independence Day",
+      "month": 6,
+      "day": 12,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-07-09",
+      "year": 2022,
+      "name_tl": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 7,
+      "day": 9,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-08-21",
+      "year": 2022,
+      "name_tl": "Ninoy Aquino Day",
+      "name_en": "Ninoy Aquino Day",
+      "month": 8,
+      "day": 21,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-08-29",
+      "year": 2022,
+      "name_tl": "National Heroes Day",
+      "name_en": "National Heroes Day",
+      "month": 8,
+      "day": 29,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-10-31",
+      "year": 2022,
+      "name_tl": "Additional special (non-working) day",
+      "name_en": "Additional special (non-working) day",
+      "month": 10,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-11-01",
+      "year": 2022,
+      "name_tl": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-11-30",
+      "year": 2022,
+      "name_tl": "Bonifacio Day",
+      "name_en": "Bonifacio Day",
+      "month": 11,
+      "day": 30,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-12-08",
+      "year": 2022,
+      "name_tl": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-12-25",
+      "year": 2022,
+      "name_tl": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-12-30",
+      "year": 2022,
+      "name_tl": "Rizal Day",
+      "name_en": "Rizal Day",
+      "month": 12,
+      "day": 30,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "name_tl": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-01-02",
+      "year": 2023,
+      "name_tl": "Additional special (non-working) day",
+      "name_en": "Additional special (non-working) day",
+      "month": 1,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-02-24",
+      "year": 2023,
+      "name_tl": "EDSA People Power Revolution Anniversary",
+      "name_en": "EDSA People Power Revolution Anniversary",
+      "month": 2,
+      "day": 24,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-06",
+      "year": 2023,
+      "name_tl": "Maundy Thursday",
+      "name_en": "Maundy Thursday",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-04-07",
+      "year": 2023,
+      "name_tl": "Good Friday",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 7,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-08",
+      "year": 2023,
+      "name_tl": "Black Saturday",
+      "name_en": "Black Saturday",
+      "month": 4,
+      "day": 8,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-04-10",
+      "year": 2023,
+      "name_tl": "Day of Valor",
+      "name_en": "Day of Valor",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-04-21",
+      "year": 2023,
+      "name_tl": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 21,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-05-01",
+      "year": 2023,
+      "name_tl": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-06-12",
+      "year": 2023,
+      "name_tl": "Independence Day",
+      "name_en": "Independence Day",
+      "month": 6,
+      "day": 12,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-06-28",
+      "year": 2023,
+      "name_tl": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 28,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-08-21",
+      "year": 2023,
+      "name_tl": "Ninoy Aquino Day",
+      "name_en": "Ninoy Aquino Day",
+      "month": 8,
+      "day": 21,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-08-28",
+      "year": 2023,
+      "name_tl": "National Heroes Day",
+      "name_en": "National Heroes Day",
+      "month": 8,
+      "day": 28,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-10-30",
+      "year": 2023,
+      "name_tl": "Elections special (non-working) day",
+      "name_en": "Elections special (non-working) day",
+      "month": 10,
+      "day": 30,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-11-01",
+      "year": 2023,
+      "name_tl": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-11-02",
+      "year": 2023,
+      "name_tl": "Additional special (non-working) day",
+      "name_en": "Additional special (non-working) day",
+      "month": 11,
+      "day": 2,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-11-27",
+      "year": 2023,
+      "name_tl": "Bonifacio Day",
+      "name_en": "Bonifacio Day",
+      "month": 11,
+      "day": 27,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-12-08",
+      "year": 2023,
+      "name_tl": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-12-25",
+      "year": 2023,
+      "name_tl": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-12-26",
+      "year": 2023,
+      "name_tl": "Additional special (non-working) day",
+      "name_en": "Additional special (non-working) day",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-12-30",
+      "year": 2023,
+      "name_tl": "Rizal Day",
+      "name_en": "Rizal Day",
+      "month": 12,
+      "day": 30,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-12-31",
+      "year": 2023,
+      "name_tl": "New Year's Eve",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "name_tl": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-02-09",
+      "year": 2024,
+      "name_tl": "Additional special (non-working) day",
+      "name_en": "Additional special (non-working) day",
+      "month": 2,
+      "day": 9,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-02-10",
+      "year": 2024,
+      "name_tl": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 2,
+      "day": 10,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-03-28",
+      "year": 2024,
+      "name_tl": "Maundy Thursday",
+      "name_en": "Maundy Thursday",
+      "month": 3,
+      "day": 28,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-03-29",
+      "year": 2024,
+      "name_tl": "Good Friday",
+      "name_en": "Good Friday",
+      "month": 3,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-03-30",
+      "year": 2024,
+      "name_tl": "Black Saturday",
+      "name_en": "Black Saturday",
+      "month": 3,
+      "day": 30,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-04-09",
+      "year": 2024,
+      "name_tl": "Day of Valor",
+      "name_en": "Day of Valor",
+      "month": 4,
+      "day": 9,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-04-10",
+      "year": 2024,
+      "name_tl": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-05-01",
+      "year": 2024,
+      "name_tl": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-06-12",
+      "year": 2024,
+      "name_tl": "Independence Day",
+      "name_en": "Independence Day",
+      "month": 6,
+      "day": 12,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-06-17",
+      "year": 2024,
+      "name_tl": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 17,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-08-23",
+      "year": 2024,
+      "name_tl": "Ninoy Aquino Day",
+      "name_en": "Ninoy Aquino Day",
+      "month": 8,
+      "day": 23,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-08-26",
+      "year": 2024,
+      "name_tl": "National Heroes Day",
+      "name_en": "National Heroes Day",
+      "month": 8,
+      "day": 26,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-11-01",
+      "year": 2024,
+      "name_tl": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-11-02",
+      "year": 2024,
+      "name_tl": "Additional special (non-working) day",
+      "name_en": "Additional special (non-working) day",
+      "month": 11,
+      "day": 2,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-11-30",
+      "year": 2024,
+      "name_tl": "Bonifacio Day",
+      "name_en": "Bonifacio Day",
+      "month": 11,
+      "day": 30,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-12-08",
+      "year": 2024,
+      "name_tl": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-12-24",
+      "year": 2024,
+      "name_tl": "Additional special (non-working) day",
+      "name_en": "Additional special (non-working) day",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-12-25",
+      "year": 2024,
+      "name_tl": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-12-30",
+      "year": 2024,
+      "name_tl": "Rizal Day",
+      "name_en": "Rizal Day",
+      "month": 12,
+      "day": 30,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-12-31",
+      "year": 2024,
+      "name_tl": "New Year's Eve",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "name_tl": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-01-29",
+      "year": 2025,
+      "name_tl": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 1,
+      "day": 29,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-04-01",
+      "year": 2025,
+      "name_tl": "Eid al-Fitr",
+      "name_en": "Eid al-Fitr",
+      "month": 4,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-04-09",
+      "year": 2025,
+      "name_tl": "Day of Valor",
+      "name_en": "Day of Valor",
+      "month": 4,
+      "day": 9,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-04-17",
+      "year": 2025,
+      "name_tl": "Maundy Thursday",
+      "name_en": "Maundy Thursday",
+      "month": 4,
+      "day": 17,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-04-18",
+      "year": 2025,
+      "name_tl": "Good Friday",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 18,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-04-19",
+      "year": 2025,
+      "name_tl": "Black Saturday",
+      "name_en": "Black Saturday",
+      "month": 4,
+      "day": 19,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-05-01",
+      "year": 2025,
+      "name_tl": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-05-12",
+      "year": 2025,
+      "name_tl": "Elections special (non-working) day",
+      "name_en": "Elections special (non-working) day",
+      "month": 5,
+      "day": 12,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-06-06",
+      "year": 2025,
+      "name_tl": "Eid al-Adha",
+      "name_en": "Eid al-Adha",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-06-12",
+      "year": 2025,
+      "name_tl": "Independence Day",
+      "name_en": "Independence Day",
+      "month": 6,
+      "day": 12,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-07-27",
+      "year": 2025,
+      "name_tl": "Additional special (non-working) day",
+      "name_en": "Additional special (non-working) day",
+      "month": 7,
+      "day": 27,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-08-21",
+      "year": 2025,
+      "name_tl": "Ninoy Aquino Day",
+      "name_en": "Ninoy Aquino Day",
+      "month": 8,
+      "day": 21,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-08-25",
+      "year": 2025,
+      "name_tl": "National Heroes Day",
+      "name_en": "National Heroes Day",
+      "month": 8,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-10-31",
+      "year": 2025,
+      "name_tl": "All Saints' Day Eve",
+      "name_en": "All Saints' Day Eve",
+      "month": 10,
+      "day": 31,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-11-01",
+      "year": 2025,
+      "name_tl": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-11-30",
+      "year": 2025,
+      "name_tl": "Bonifacio Day",
+      "name_en": "Bonifacio Day",
+      "month": 11,
+      "day": 30,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-12-08",
+      "year": 2025,
+      "name_tl": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-12-24",
+      "year": 2025,
+      "name_tl": "Christmas Eve",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-12-25",
+      "year": 2025,
+      "name_tl": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-12-30",
+      "year": 2025,
+      "name_tl": "Rizal Day",
+      "name_en": "Rizal Day",
+      "month": 12,
+      "day": 30,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-12-31",
+      "year": 2025,
+      "name_tl": "New Year's Eve",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "name_tl": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-02-17",
+      "year": 2026,
+      "name_tl": "Chinese New Year",
+      "name_en": "Chinese New Year",
+      "month": 2,
+      "day": 17,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-03-20",
+      "year": 2026,
+      "name_tl": "Eid al-Fitr (estimated)",
+      "name_en": "Eid al-Fitr (estimated)",
+      "month": 3,
+      "day": 20,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-04-02",
+      "year": 2026,
+      "name_tl": "Maundy Thursday",
+      "name_en": "Maundy Thursday",
+      "month": 4,
+      "day": 2,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-04-03",
+      "year": 2026,
+      "name_tl": "Good Friday",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 3,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-04-04",
+      "year": 2026,
+      "name_tl": "Black Saturday",
+      "name_en": "Black Saturday",
+      "month": 4,
+      "day": 4,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-04-09",
+      "year": 2026,
+      "name_tl": "Day of Valor",
+      "name_en": "Day of Valor",
+      "month": 4,
+      "day": 9,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-05-01",
+      "year": 2026,
+      "name_tl": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-05-27",
+      "year": 2026,
+      "name_tl": "Eid al-Adha (estimated)",
+      "name_en": "Eid al-Adha (estimated)",
+      "month": 5,
+      "day": 27,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-06-12",
+      "year": 2026,
+      "name_tl": "Independence Day",
+      "name_en": "Independence Day",
+      "month": 6,
+      "day": 12,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-08-21",
+      "year": 2026,
+      "name_tl": "Ninoy Aquino Day",
+      "name_en": "Ninoy Aquino Day",
+      "month": 8,
+      "day": 21,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-08-31",
+      "year": 2026,
+      "name_tl": "National Heroes Day",
+      "name_en": "National Heroes Day",
+      "month": 8,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-11-01",
+      "year": 2026,
+      "name_tl": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-11-02",
+      "year": 2026,
+      "name_tl": "All Souls' Day",
+      "name_en": "All Souls' Day",
+      "month": 11,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-11-30",
+      "year": 2026,
+      "name_tl": "Bonifacio Day",
+      "name_en": "Bonifacio Day",
+      "month": 11,
+      "day": 30,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-12-08",
+      "year": 2026,
+      "name_tl": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-12-24",
+      "year": 2026,
+      "name_tl": "Christmas Eve",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-12-25",
+      "year": 2026,
+      "name_tl": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-12-30",
+      "year": 2026,
+      "name_tl": "Rizal Day",
+      "name_en": "Rizal Day",
+      "month": 12,
+      "day": 30,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-12-31",
+      "year": 2026,
+      "name_tl": "New Year's Eve",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Thursday"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pista Opisyal ng Pilipinas (2020–2026) - Libreng download",
+    "description": "Public holidays 2020-2026 with native and English names Naglalaman ng 143 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Pista Opisyal ng Pilipinas (2020–2026) | ListBase",
+    "seo_description": "I-download Mga Pista Opisyal ng Pilipinas (2020–2026) — 143 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 143 talaan / 7 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

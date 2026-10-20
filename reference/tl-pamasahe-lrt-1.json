@@ -1,0 +1,2851 @@
+{
+  "id": "tl-pamasahe-lrt-1",
+  "name": "Mga Pamasahe sa LRT-1 (Light Rail Transit Line 1)",
+  "title": "Mga Pamasahe sa LRT-1 (Light Rail Transit Line 1)",
+  "description": "Pamasahe sa LRT Line 1 (Yellow Line) mula Roosevelt hanggang Baclaran sa Metro Manila. Para sa bawat origin-destination pair ipinapakita ang single-journey ticket (SJT) at stored-value ticket (Beep card) na halaga. 20 istasyon. (LRT-1 fare matrix between any two stations, showing both Single Journey Ticket and Stored Value Beep card prices. 20 stations from Roosevelt in Quezon City to Baclaran in Pasay.)",
+  "category": "reference",
+  "source": "https://github.com/sakayph/fares",
+  "source_url": "https://github.com/sakayph/fares",
+  "updated": "2026-04",
+  "record_count": 400,
+  "columns": [
+    {
+      "key": "origin",
+      "label": "Origin",
+      "type": "string"
+    },
+    {
+      "key": "destination",
+      "label": "Destination",
+      "type": "string"
+    },
+    {
+      "key": "fare_single_journey_php",
+      "label": "Fare Single Journey Php",
+      "type": "number"
+    },
+    {
+      "key": "fare_stored_value_php",
+      "label": "Fare Stored Value Php",
+      "type": "number"
+    },
+    {
+      "key": "currency",
+      "label": "Currency",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "origin": "Baclaran",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "EDSA",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Libertad",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Quirino",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Central",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Bambang",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Monumento",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 27,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Baclaran",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 29,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "EDSA",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Libertad",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Quirino",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Central",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Bambang",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Monumento",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 27,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 29,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "EDSA",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Libertad",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Quirino",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Central",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Bambang",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Monumento",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 26,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Libertad",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 28,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "EDSA",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Libertad",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Quirino",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Central",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Bambang",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Monumento",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gil Puyat",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 27,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "EDSA",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Libertad",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Quirino",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Central",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Bambang",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Monumento",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 26,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "EDSA",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Libertad",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Quirino",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Central",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Bambang",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Monumento",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quirino",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "EDSA",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Libertad",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Quirino",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Central",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Bambang",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Monumento",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pedro Gil",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "EDSA",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Libertad",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Quirino",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Central",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Bambang",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Monumento",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "UN Ave.",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "EDSA",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Libertad",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Quirino",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Central",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Bambang",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Monumento",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Central",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "EDSA",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Libertad",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Quirino",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Central",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Bambang",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Monumento",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Carriedo",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "EDSA",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Libertad",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Quirino",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Central",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Bambang",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Monumento",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Doroteo Jose",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "EDSA",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Libertad",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Quirino",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Central",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Bambang",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Monumento",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bambang",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "EDSA",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Libertad",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Quirino",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Central",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Bambang",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Monumento",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tayuman",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "EDSA",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Libertad",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Quirino",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Central",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Bambang",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Monumento",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "EDSA",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Libertad",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Quirino",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Central",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Bambang",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Monumento",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Abad Santos",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "EDSA",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Libertad",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Quirino",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Central",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Bambang",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Monumento",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "R. Papa",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "EDSA",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Libertad",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Quirino",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Central",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Bambang",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Monumento",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "5th Avenue",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "EDSA",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Libertad",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Quirino",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Central",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Bambang",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Monumento",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Monumento",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 27,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "EDSA",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 27,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Libertad",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 26,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Quirino",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Central",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Bambang",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Monumento",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Balintawak",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Baclaran",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 29,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "EDSA",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 29,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Libertad",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 28,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Gil Puyat",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 27,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Vito Cruz",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 26,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Quirino",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Pedro Gil",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "UN Ave.",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Central",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Carriedo",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Doroteo Jose",
+      "fare_single_journey_php": 30,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Bambang",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Tayuman",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Blumentritt",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Abad Santos",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "R. Papa",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "5th Avenue",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Monumento",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Balintawak",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Roosevelt",
+      "destination": "Roosevelt",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pamasahe sa LRT-1 (Light Rail Transit Line 1) - Libreng download",
+    "description": "Pamasahe sa LRT Line 1 (Yellow Line) mula Roosevelt hanggang Baclaran sa Metro Manila. Para sa bawat origin-destination pair ipinapakita ang single-journey ticket (SJT) at stored-value ticket (Beep card) na halaga. 20 istasyon. (LRT-1 fare matrix between any two stations, showing both Single Journey Ticket and Stored Value Beep card prices. 20 stations from Roosevelt in Quezon City to Baclaran in Pasay.) Naglalaman ng 400 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Pamasahe sa LRT-1 (Light Rail Transit Line 1) | ListBase",
+    "seo_description": "I-download Mga Pamasahe sa LRT-1 (Light Rail Transit Line 1) — 400 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 400 talaan / 5 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/sakayph/fares"
+    ]
+  }
+}

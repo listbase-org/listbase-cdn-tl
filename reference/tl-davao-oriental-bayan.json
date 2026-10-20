@@ -1,0 +1,136 @@
+{
+  "id": "tl-davao-oriental-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Davao Oriental",
+  "title": "Mga Bayan ng Lalawigan ng Davao Oriental",
+  "description": "Listahan ng 10 munisipalidad (bayan) sa lalawigan ng Davao Oriental, REGION XI (DAVAO REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "112501000",
+      "name": "BAGANGA",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 56241,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "112502000",
+      "name": "BANAYBANAY",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 41117,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "112503000",
+      "name": "BOSTON",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 13535,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "112504000",
+      "name": "CARAGA",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 40379,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "112505000",
+      "name": "CATEEL",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 40704,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "112506000",
+      "name": "GOVERNOR GENEROSO",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 55109,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "112507000",
+      "name": "LUPON",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 65785,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "112508000",
+      "name": "MANAY",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 42690,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "112510000",
+      "name": "SAN ISIDRO",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 36032,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "112511000",
+      "name": "TARRAGONA",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 26225,
+      "income_classification": "3rd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Davao Oriental - Libreng download",
+    "description": "Listahan ng 10 munisipalidad (bayan) sa lalawigan ng Davao Oriental, REGION XI (DAVAO REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 10 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Davao Oriental | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Davao Oriental — 10 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 10 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

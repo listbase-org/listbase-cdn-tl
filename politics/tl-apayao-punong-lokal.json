@@ -1,0 +1,160 @@
+{
+  "id": "tl-apayao-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Apayao",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Apayao",
+  "description": "Direktoryo ng 7 lungsod at bayan sa lalawigan ng Apayao (Rehiyong Administratibo ng Cordillera (CAR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Apayao` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Calanasan",
+      "uri": "Bayan",
+      "lalawigan": "APAYAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3814",
+      "punong_bayan": "SHAMIR M. BULUT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARTIN LUCERO B. LAWAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Conner",
+      "uri": "Bayan",
+      "lalawigan": "APAYAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3807",
+      "punong_bayan": "JORICO F. BAYAUA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALEXANDER M. ASWIGUE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Flora",
+      "uri": "Bayan",
+      "lalawigan": "APAYAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3810",
+      "punong_bayan": "RODOLFO B. JUAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JEOFREY T. BLAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Kabugao",
+      "uri": "Bayan",
+      "lalawigan": "APAYAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3809",
+      "punong_bayan": "BENSMAR B. LIGWANG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FABULOUS B. TUCJANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Luna",
+      "uri": "Bayan",
+      "lalawigan": "APAYAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3813",
+      "punong_bayan": "JOSEPHINE M. BANGSIL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MANOLITO M. BULLAOIT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Pudtol",
+      "uri": "Bayan",
+      "lalawigan": "APAYAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3812",
+      "punong_bayan": "HECTOR REUEL D. PASCUA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RANDY A. LAOAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Santa Marcela",
+      "uri": "Bayan",
+      "lalawigan": "APAYAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3811",
+      "punong_bayan": "EVELYN B. MARTINEZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROLLY U. GUIANG",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Apayao - Libreng download",
+    "description": "Direktoryo ng 7 lungsod at bayan sa lalawigan ng Apayao (Rehiyong Administratibo ng Cordillera (CAR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Apayao` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 7 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Apayao | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Apayao — 7 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 7 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

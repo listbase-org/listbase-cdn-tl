@@ -1,0 +1,220 @@
+{
+  "id": "tl-basilan-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Basilan",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Basilan",
+  "description": "Direktoryo ng 12 lungsod at bayan sa lalawigan ng Basilan (Bangsamoro (BARMM), Tangway ng Zamboanga (Region IX)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Basilan` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Akbar",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7307",
+      "punong_bayan": "ALIH A. SALI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAIZA A. SALI-SAKKALAHUL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Al-barka",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7308",
+      "punong_bayan": "JAYDEEFAR J. LAJID",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MIDZFAR J. LAJID",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Hadji Mohammad Ajul",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7309",
+      "punong_bayan": "TALIB G. PAWAKI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAIMAR S. TOTOH",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Hadji Muhtamad",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7310",
+      "punong_bayan": "ARSINA K. NANOH",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NADZRA S. HASIM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Isabela",
+      "uri": "Lungsod",
+      "lalawigan": "Basilan",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "",
+      "punong_bayan": "SITTI DJALIA A. HATAMAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JHUL KIFLI L. SALLIMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Lantawan",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7301",
+      "punong_bayan": "NURSIYA I. ISMAEL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUSTAM M. ISMAEL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Maluso",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7303",
+      "punong_bayan": "HANIE A. BUD",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AL-MASHOR A. YASIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Sumisip",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7305",
+      "punong_bayan": "JUL-ADNAN P. HATAMAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GULAM S. SALLIMAN-HATAMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Tabuan-Lasa",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7312",
+      "punong_bayan": "MONER S. MANISAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ISNIRUL S. AHALUL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Tipo-Tipo",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7304",
+      "punong_bayan": "ARCAM P. ISTARUL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "INGATUN G. ISTARUL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Tuburan",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7306",
+      "punong_bayan": "JHABER S. KALLAHAL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROGER C. LATIP",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Ungkaya Pukan",
+      "uri": "Bayan",
+      "lalawigan": "Basilan",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "7311",
+      "punong_bayan": "JOMAR M. MATURAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AHMADIN T. BARAHIM",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Basilan - Libreng download",
+    "description": "Direktoryo ng 12 lungsod at bayan sa lalawigan ng Basilan (Bangsamoro (BARMM), Tangway ng Zamboanga (Region IX)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Basilan` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 12 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Basilan | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Basilan — 12 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 12 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

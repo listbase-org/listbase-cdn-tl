@@ -1,0 +1,208 @@
+{
+  "id": "tl-la-union-bayan",
+  "name": "Mga Bayan ng Lalawigan ng La Union",
+  "title": "Mga Bayan ng Lalawigan ng La Union",
+  "description": "Listahan ng 19 munisipalidad (bayan) sa lalawigan ng La Union, REGION I (ILOCOS REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "013301000",
+      "name": "AGOO",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 63692,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "013302000",
+      "name": "ARINGAY",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 47458,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "013303000",
+      "name": "BACNOTAN",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 42078,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "013304000",
+      "name": "BAGULIN",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 13456,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "013305000",
+      "name": "BALAOAN",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 39188,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "013306000",
+      "name": "BANGAR",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 35947,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "013307000",
+      "name": "BAUANG",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 75032,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "013308000",
+      "name": "BURGOS",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 8067,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "013309000",
+      "name": "CABA",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 22039,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "013310000",
+      "name": "LUNA",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 35802,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "013311000",
+      "name": "NAGUILIAN",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 54221,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "013312000",
+      "name": "PUGO",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 19690,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "013313000",
+      "name": "ROSARIO",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 55458,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "013315000",
+      "name": "SAN GABRIEL",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 18172,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "013316000",
+      "name": "SAN JUAN",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 37188,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "013317000",
+      "name": "SANTO TOMAS",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 39092,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "013318000",
+      "name": "SANTOL",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 12476,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "013319000",
+      "name": "SUDIPEN",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 17056,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "013320000",
+      "name": "TUBAO",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 28729,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng La Union - Libreng download",
+    "description": "Listahan ng 19 munisipalidad (bayan) sa lalawigan ng La Union, REGION I (ILOCOS REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 19 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng La Union | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng La Union — 19 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 19 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

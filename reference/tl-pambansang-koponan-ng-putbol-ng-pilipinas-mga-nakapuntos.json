@@ -1,0 +1,423 @@
+{
+  "id": "tl-pambansang-koponan-ng-putbol-ng-pilipinas-mga-nakapuntos",
+  "name": "Pambansang koponan ng putbol ng Pilipinas — mga gol at nakapuntos 2001–2024 (32)",
+  "title": "Pambansang koponan ng putbol ng Pilipinas — mga gol at nakapuntos 2001–2024 (32)",
+  "description": "Mga indibidwal na gol — Pambansang koponan ng putbol ng Pilipinas — ayon sa goalscorers.csv: petsa, laro, kalaban, nakapuntos, minuto, sariling gol (ng manlalaro ng kalaban), gol mula sa penalty. Walang nakapuntos ang pinagmulan para sa bawat laro — bahagya lamang ang saklaw (lalo na sa mga friendly). Mga pangalan gaya sa pinagmulan. Hindi kasama ang mga gol sa penalty shootout.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "petsa",
+      "label": "Petsa",
+      "type": "date"
+    },
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "host",
+      "label": "Host",
+      "type": "string"
+    },
+    {
+      "key": "bisita",
+      "label": "Bisita",
+      "type": "string"
+    },
+    {
+      "key": "kalaban",
+      "label": "Kalaban",
+      "type": "string"
+    },
+    {
+      "key": "nakapuntos",
+      "label": "Nakapuntos",
+      "type": "string"
+    },
+    {
+      "key": "minuto",
+      "label": "Minuto",
+      "type": "number"
+    },
+    {
+      "key": "sariling_gol",
+      "label": "Sariling Gol",
+      "type": "boolean"
+    },
+    {
+      "key": "penalty",
+      "label": "Penalty",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "petsa": "2001-05-04",
+      "taon": 2001,
+      "host": "Syria",
+      "bisita": "Philippines",
+      "kalaban": "Syria",
+      "nakapuntos": "Yanti Barsales",
+      "minuto": 59,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2001-05-26",
+      "taon": 2001,
+      "host": "Philippines",
+      "bisita": "Laos",
+      "kalaban": "Laos",
+      "nakapuntos": "Jimmy Doña",
+      "minuto": 20,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2011-06-29",
+      "taon": 2011,
+      "host": "Sri Lanka",
+      "bisita": "Philippines",
+      "kalaban": "Sri Lanka",
+      "nakapuntos": "Nate Burkey",
+      "minuto": 50,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2011-07-03",
+      "taon": 2011,
+      "host": "Philippines",
+      "bisita": "Sri Lanka",
+      "kalaban": "Sri Lanka",
+      "nakapuntos": "Emelio Caligdong",
+      "minuto": 20,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2011-07-03",
+      "taon": 2011,
+      "host": "Philippines",
+      "bisita": "Sri Lanka",
+      "kalaban": "Sri Lanka",
+      "nakapuntos": "Phil Younghusband",
+      "minuto": 43,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2011-07-03",
+      "taon": 2011,
+      "host": "Philippines",
+      "bisita": "Sri Lanka",
+      "kalaban": "Sri Lanka",
+      "nakapuntos": "Ángel Guirado",
+      "minuto": 50,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2011-07-03",
+      "taon": 2011,
+      "host": "Philippines",
+      "bisita": "Sri Lanka",
+      "kalaban": "Sri Lanka",
+      "nakapuntos": "Phil Younghusband",
+      "minuto": 57,
+      "sariling_gol": false,
+      "penalty": true
+    },
+    {
+      "petsa": "2011-07-28",
+      "taon": 2011,
+      "host": "Philippines",
+      "bisita": "Kuwait",
+      "kalaban": "Kuwait",
+      "nakapuntos": "Stephan Schröck",
+      "minuto": 45,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2015-06-11",
+      "taon": 2015,
+      "host": "Philippines",
+      "bisita": "Bahrain",
+      "kalaban": "Bahrain",
+      "nakapuntos": "Misagh Bahadoran",
+      "minuto": 50,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2015-06-11",
+      "taon": 2015,
+      "host": "Philippines",
+      "bisita": "Bahrain",
+      "kalaban": "Bahrain",
+      "nakapuntos": "Javier Patiño",
+      "minuto": 60,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2015-06-16",
+      "taon": 2015,
+      "host": "Yemen",
+      "bisita": "Philippines",
+      "kalaban": "Yemen",
+      "nakapuntos": "Misagh Bahadoran",
+      "minuto": 52,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2015-06-16",
+      "taon": 2015,
+      "host": "Yemen",
+      "bisita": "Philippines",
+      "kalaban": "Yemen",
+      "nakapuntos": "Iain Ramsay",
+      "minuto": 74,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2015-09-08",
+      "taon": 2015,
+      "host": "Philippines",
+      "bisita": "Uzbekistan",
+      "kalaban": "Uzbekistan",
+      "nakapuntos": "Stephan Schröck",
+      "minuto": 68,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2016-03-29",
+      "taon": 2016,
+      "host": "Philippines",
+      "bisita": "North Korea",
+      "kalaban": "North Korea",
+      "nakapuntos": "Misagh Bahadoran",
+      "minuto": 43,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2016-03-29",
+      "taon": 2016,
+      "host": "Philippines",
+      "bisita": "North Korea",
+      "kalaban": "North Korea",
+      "nakapuntos": "Manuel Ott",
+      "minuto": 84,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2016-03-29",
+      "taon": 2016,
+      "host": "Philippines",
+      "bisita": "North Korea",
+      "kalaban": "North Korea",
+      "nakapuntos": "Iain Ramsay",
+      "minuto": 90,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2019-01-16",
+      "taon": 2019,
+      "host": "Kyrgyzstan",
+      "bisita": "Philippines",
+      "kalaban": "Kyrgyzstan",
+      "nakapuntos": "Stephan Schröck",
+      "minuto": 80,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2019-09-05",
+      "taon": 2019,
+      "host": "Philippines",
+      "bisita": "Syria",
+      "kalaban": "Syria",
+      "nakapuntos": "Javier Patiño",
+      "minuto": 6,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2019-09-05",
+      "taon": 2019,
+      "host": "Philippines",
+      "bisita": "Syria",
+      "kalaban": "Syria",
+      "nakapuntos": "Mike Ott",
+      "minuto": 83,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2019-09-10",
+      "taon": 2019,
+      "host": "Guam",
+      "bisita": "Philippines",
+      "kalaban": "Guam",
+      "nakapuntos": "Ángel Guirado",
+      "minuto": 7,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2019-09-10",
+      "taon": 2019,
+      "host": "Guam",
+      "bisita": "Philippines",
+      "kalaban": "Guam",
+      "nakapuntos": "Patrick Reichelt",
+      "minuto": 12,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2019-09-10",
+      "taon": 2019,
+      "host": "Guam",
+      "bisita": "Philippines",
+      "kalaban": "Guam",
+      "nakapuntos": "Stephan Schröck",
+      "minuto": 71,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2019-09-10",
+      "taon": 2019,
+      "host": "Guam",
+      "bisita": "Philippines",
+      "kalaban": "Guam",
+      "nakapuntos": "John-Patrick Strauß",
+      "minuto": 81,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2019-11-14",
+      "taon": 2019,
+      "host": "Maldives",
+      "bisita": "Philippines",
+      "kalaban": "Maldives",
+      "nakapuntos": "Iain Ramsay",
+      "minuto": 52,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2019-11-14",
+      "taon": 2019,
+      "host": "Maldives",
+      "bisita": "Philippines",
+      "kalaban": "Maldives",
+      "nakapuntos": "John-Patrick Strauß",
+      "minuto": 68,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2021-06-11",
+      "taon": 2021,
+      "host": "Philippines",
+      "bisita": "Guam",
+      "kalaban": "Guam",
+      "nakapuntos": "Ángel Guirado",
+      "minuto": 12,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2021-06-11",
+      "taon": 2021,
+      "host": "Philippines",
+      "bisita": "Guam",
+      "kalaban": "Guam",
+      "nakapuntos": "Marcus Lopez",
+      "minuto": 60,
+      "sariling_gol": true,
+      "penalty": false
+    },
+    {
+      "petsa": "2021-06-11",
+      "taon": 2021,
+      "host": "Philippines",
+      "bisita": "Guam",
+      "kalaban": "Guam",
+      "nakapuntos": "Mark Hartmann",
+      "minuto": 88,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2021-06-15",
+      "taon": 2021,
+      "host": "Philippines",
+      "bisita": "Maldives",
+      "kalaban": "Maldives",
+      "nakapuntos": "Ángel Guirado",
+      "minuto": 19,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2023-11-21",
+      "taon": 2023,
+      "host": "Philippines",
+      "bisita": "Indonesia",
+      "kalaban": "Indonesia",
+      "nakapuntos": "Patrick Reichelt",
+      "minuto": 23,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2024-06-06",
+      "taon": 2024,
+      "host": "Vietnam",
+      "bisita": "Philippines",
+      "kalaban": "Vietnam",
+      "nakapuntos": "Patrick Reichelt",
+      "minuto": 62,
+      "sariling_gol": false,
+      "penalty": false
+    },
+    {
+      "petsa": "2024-06-06",
+      "taon": 2024,
+      "host": "Vietnam",
+      "bisita": "Philippines",
+      "kalaban": "Vietnam",
+      "nakapuntos": "Kevin Ingreso",
+      "minuto": 89,
+      "sariling_gol": false,
+      "penalty": false
+    }
+  ],
+  "meta": {
+    "title": "Pambansang koponan ng putbol ng Pilipinas — mga gol at nakapuntos 2001–2024 (32) - Libreng download",
+    "description": "Mga indibidwal na gol — Pambansang koponan ng putbol ng Pilipinas — ayon sa goalscorers.csv: petsa, laro, kalaban, nakapuntos, minuto, sariling gol (ng manlalaro ng kalaban), gol mula sa penalty. Walang nakapuntos ang pinagmulan para sa bawat laro — bahagya lamang ang saklaw (lalo na sa mga friendly). Mga pangalan gaya sa pinagmulan. Hindi kasama ang mga gol sa penalty shootout. Naglalaman ng 32 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Pambansang koponan ng putbol ng Pilipinas — mga gol at nakapuntos 2001–2024 (32) | ListBase",
+    "seo_description": "I-download Pambansang koponan ng putbol ng Pilipinas — mga gol at nakapuntos 2001–2024 (32) — 32 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 32 talaan / 9 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

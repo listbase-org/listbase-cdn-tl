@@ -1,0 +1,178 @@
+{
+  "id": "tl-caraga-bantayog-pangkasaysayan",
+  "name": "Makasaysayang Pananda ng NHCP — Caraga (Region XIII)",
+  "title": "Makasaysayang Pananda ng NHCP — Caraga (Region XIII)",
+  "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Caraga (Region XIII). Filtered subset ng pambansang tl-bantayog-pangkasaysayan (3 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Caraga (Region XIII) — filtered subset of the national NHCP marker inventory, 3 of 1235 nationally.)",
+  "category": "culture",
+  "source": "https://github.com/seav/pananda",
+  "source_url": "https://github.com/seav/pananda",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regions",
+      "label": "Regions",
+      "type": "string"
+    },
+    {
+      "key": "macro_address",
+      "label": "Macro Address",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "title_en",
+      "label": "Title En",
+      "type": "string"
+    },
+    {
+      "key": "subtitle_en",
+      "label": "Subtitle En",
+      "type": "string"
+    },
+    {
+      "key": "inscription_en",
+      "label": "Inscription En",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_articles",
+      "label": "Wikipedia Articles",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "title_tl",
+      "label": "Title Tl",
+      "type": "string"
+    },
+    {
+      "key": "subtitle_tl",
+      "label": "Subtitle Tl",
+      "type": "string"
+    },
+    {
+      "key": "inscription_tl",
+      "label": "Inscription Tl",
+      "type": "string"
+    },
+    {
+      "key": "inscription_photo",
+      "label": "Inscription Photo",
+      "type": "string"
+    },
+    {
+      "key": "location_description",
+      "label": "Location Description",
+      "type": "string"
+    },
+    {
+      "key": "location_photo",
+      "label": "Location Photo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wikidata_qid": "Q28923408",
+      "name": "The Raising of the Philippine Flag in Mindanao",
+      "region": "Caraga",
+      "regions": "Caraga",
+      "macro_address": "Butuan",
+      "address": "Guingona Park, Jose S. Aquino Avenue cor. Ester Luna Street, Butuan",
+      "date": "1999-01-19",
+      "latitude": 8.94768,
+      "longitude": 125.54342,
+      "title_en": "The Raising of the Philippine Flag in Mindanao",
+      "subtitle_en": "",
+      "inscription_en": "<p>In this place on January 17, 1899, Governor Wenceslao Gonzales of the Tercio Distrito of Surigao, Fr. Francisco Nebot, S.J. and the principal residents of Butuan formally lowered the Vatican flag and officially raised the Philippine flag accompanied by the playing of the Himno Nacional de Filipinas by the local bands of Butuan, Tubay and Cabadbaran. The event marked the formal establishment of the authority of the Philippine Revolutionary Government in Mindanao.</p>",
+      "wikipedia_articles": "flag of the Philippines: Flag of the Philippines; Revolutionary Government of the Philippines: Revolutionary Government of the Philippines (1898–1899)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28923408"
+    },
+    {
+      "wikidata_qid": "Q28923507",
+      "name": "Pook ng Unang Pagtataas ng Watawat ng Pilipinas sa Mindanao",
+      "region": "Caraga",
+      "regions": "Caraga",
+      "macro_address": "Surigao City, Surigao del Norte",
+      "address": "Surigao City Hall, Borromeo Street, Surigao City, Surigao del Norte",
+      "date": "2000",
+      "latitude": 9.79104,
+      "longitude": 125.49334,
+      "title_tl": "Pook ng Unang Pagtataas ng Watawat ng Pilipinas sa Mindanao",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Sa Casa Real ng bayan ng Surigao, ang kabisera ng lalawigan ng Surigao (dating Caraga), si Alejandro “Jantoy” Gonzalez, pangulo ng Panlalawigang Hunta ng Surigao, at ang iba pang mga pinuno ng Ikatlong Distrito ng Mindanao, ay opisal na itinaas sa kauna-unahang pagkakataon, noong umaga ng Disyembre 26, 1898, ang watawat ng Pilipinas sa Mindanao. Ay opisyal na itinaas sa kauna unahang pagkakataon noong umaga ng Disyembre 26, 1898 ang watawat ng Pilipinas sa Mindanao.</p>",
+      "inscription_photo": "width: 2048; credit: Roel Balingit {CC BY‑SA 4.0}; file: First Raising of the Philippine Flag in Mindanao historical marker.jpg; height: 2792",
+      "location_description": "The historical marker is located at the flagpole in front of the Surigao City Hall.",
+      "location_photo": "credit: Roel Balingit {CC BY‑SA 4.0}; file: First Raising of the Philippine Flag in Mindanao historical marker 2.jpg; width: 2848; height: 4272",
+      "wikipedia_articles": "flag of the Philippines: Flag of the Philippines",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28923507"
+    },
+    {
+      "wikidata_qid": "Q106197222",
+      "name": "Gibusong",
+      "region": "Caraga",
+      "regions": "Caraga",
+      "macro_address": "Loreto, Dinagat Islands",
+      "address": "Loreto, Dinagat Islands",
+      "date": "2021-03-25",
+      "latitude": 10.44179,
+      "longitude": 125.50009,
+      "title_tl": "Gibusong",
+      "subtitle_tl": "Ruta ng Ekspedisyong Magallanes–Elcano sa Pilipinas",
+      "inscription_tl": "<p>Buhat sa katubigan ng Hinunangan (bahagi ngayon ng Southern Leyte), tinahak ng ekspedisyon ang patimog na ruta. Nadaanan nila ang katubigan ng Gibusong (bahagi ngayon ng Loreto, Dinagat Islands), bilang pagpapatuloy sa kanilang paghahanap sa Maluku, noo’y kilalang pinagmumulan ng mga pampalasa (bahagi ngayon ng Indonesya), 25 Marso 1521.</p><p>Ang panandang pangkasaysayang ito ay pinasinayaan bilang ambag sa paggunita sa ika-500 anibersaryo ng unang pag-ikot sa daigdig.</p>",
+      "location_description": "The historical marker is located on the side of the Gibusong quincentennial memorial facing away from the sea.",
+      "wikipedia_articles": "Hibuson Island: Hibuson; Magellan–Elcano expedition: Magellan's circumnavigation",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106197222"
+    }
+  ],
+  "meta": {
+    "title": "Makasaysayang Pananda ng NHCP — Caraga (Region XIII) - Libreng download",
+    "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Caraga (Region XIII). Filtered subset ng pambansang tl-bantayog-pangkasaysayan (3 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Caraga (Region XIII) — filtered subset of the national NHCP marker inventory, 3 of 1235 nationally.) Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Makasaysayang Pananda ng NHCP — Caraga (Region XIII) | ListBase",
+    "seo_description": "I-download Makasaysayang Pananda ng NHCP — Caraga (Region XIII) — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 20 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/seav/pananda"
+    ]
+  }
+}

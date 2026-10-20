@@ -1,0 +1,484 @@
+{
+  "id": "tl-ilocos-sur-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ilocos Sur",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ilocos Sur",
+  "description": "Direktoryo ng 34 lungsod at bayan sa lalawigan ng Ilocos Sur (Rehiyon ng Ilocos (Region I)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Ilocos Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Alilem",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2716",
+      "punong_bayan": "VELMOR P. SUMABAT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MAR RUEL P. SUMABAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Banayoyo",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2708",
+      "punong_bayan": "VIRGILIO G. GALANGA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "OSCAR S. GANDALERA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Bantay",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2727",
+      "punong_bayan": "SAMUEL C. PARILLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SAMUEL G. PARILLA II",
+      "kontak_pangalawang_punong_bayan": "(077) 604-4265"
+    },
+    {
+      "id": 4,
+      "lgu": "Burgos",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2724",
+      "punong_bayan": "NATHANIEL D. ESCOBAR",
+      "kontak_punong_bayan": "(077) 946-5587",
+      "pangalawang_punong_bayan": "RIOLITA R. BALBALAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Cabugao",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2732",
+      "punong_bayan": "JOSH EDWARD S. COBANGBANG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDGARDO S. COBANGBANG JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Candon",
+      "uri": "Lungsod",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "",
+      "punong_bayan": "ERIC D. SINGSON",
+      "kontak_punong_bayan": "(077) 742-6136",
+      "pangalawang_punong_bayan": "KRISTELLE G. SINGSON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Caoayan",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2702",
+      "punong_bayan": "GERMELINA S. GOULART",
+      "kontak_punong_bayan": "(077) 722-6099",
+      "pangalawang_punong_bayan": "JUAN PAOLO S. ANCHETA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Cervantes",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2718",
+      "punong_bayan": "PABLITO BENJAMIN P. MAGGAY II",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARMANDO P. GABURNO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Galimuyod",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2709",
+      "punong_bayan": "JESSIE B. BALINGSAT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "KULAPU R. TRINIDAD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Gregorio del Pilar",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2720",
+      "punong_bayan": "HENRY S. GALLARDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROLANDO P. ONIE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Lidlidda",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2723",
+      "punong_bayan": "SHERWIN P. TOMAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAMES S. SACAYANAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Magsingal",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2730",
+      "punong_bayan": "ALRICO A. FAVIS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VICTORIA INA P. FAVIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Nagbukel",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2725",
+      "punong_bayan": "TIMOTEO M. CABRERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RANDOLF JOHN C. CABRERA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Narvacan",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2704",
+      "punong_bayan": "PABLITO V. SANIDAD SR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CARLOS C. VALERA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Quirino",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2721",
+      "punong_bayan": "ALLEN L. NIMO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RODOLFO A. ACIONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Salcedo",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2711",
+      "punong_bayan": "GRAZIELLE F. GIRONELLA-ITCHON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEONOFRE G. GIRONELLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "San Emilio",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2722",
+      "punong_bayan": "JOEY WARREN A. BRAGADO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HONESTO S. FORONDA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "San Esteban",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2706",
+      "punong_bayan": "RAY M. ELAYDO II",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIA DIVINA GRACIA E. ETALIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "San Ildefonso",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2728",
+      "punong_bayan": "CHRISTIAN DANIEL A. PURISIMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROBERT R. RIEGO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "San Juan",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2731",
+      "punong_bayan": "MA. ELAINE A. SARMIENTO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BENJAMIN D. SARMIENTO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "San Vicente",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2726",
+      "punong_bayan": "JONAN D. TABANDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSE C. TABANDA III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Santa",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2703",
+      "punong_bayan": "JESUS B. BUENO JR.",
+      "kontak_punong_bayan": "(077) 604-0934",
+      "pangalawang_punong_bayan": "JEREMY JESUS D. BUENO III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Santa Catalina",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2701",
+      "punong_bayan": "EDGAR R. RAPANUT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NIÑO R. REALIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Santa Cruz",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2713",
+      "punong_bayan": "TERESITA C. VALLE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VIRGILIO J. VALLE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "Santa Lucia",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2712",
+      "punong_bayan": "JOSEPH SIMON B. VALDEZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDUARDO A. TOQUERO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 26,
+      "lgu": "Santa Maria",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2705",
+      "punong_bayan": "MICHAEL S. FLORENDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REMA PAZVIA D. CABATU",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 27,
+      "lgu": "Santiago",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2707",
+      "punong_bayan": "MICHAEL S. MIRANDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSEFINO E. MIRANDA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 28,
+      "lgu": "Santo Domingo",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2729",
+      "punong_bayan": "BRYAN DEXTER V. TADENA",
+      "kontak_punong_bayan": "(077) 726-4036",
+      "pangalawang_punong_bayan": "EDWIN MARIBERT M. TACBAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 29,
+      "lgu": "Sigay",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2719",
+      "punong_bayan": "CARLO CRISANTO P. PEREDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DIONISIO M. LANG-AY JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 30,
+      "lgu": "Sinait",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2733",
+      "punong_bayan": "GLENN B. GUZMAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SHEE-AN C. GUZMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 31,
+      "lgu": "Sugpon",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2717",
+      "punong_bayan": "DANIEL C. LAÑO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RENE CRISANTO L. LUBRIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 32,
+      "lgu": "Suyo",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2715",
+      "punong_bayan": "MARIO B. SUBAGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SAMUEL B. SUBAGAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 33,
+      "lgu": "Tagudin",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2714",
+      "punong_bayan": "ROQUE S. VERZOSA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EVANGELINE I. VERZOSA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 34,
+      "lgu": "Vigan",
+      "uri": "Lungsod",
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "",
+      "punong_bayan": "JOSE C. SINGSON",
+      "kontak_punong_bayan": "(077) 722-3335; 722-2466",
+      "pangalawang_punong_bayan": "RANDOLF V. SINGSON",
+      "kontak_pangalawang_punong_bayan": "(077) 604-0518"
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ilocos Sur - Libreng download",
+    "description": "Direktoryo ng 34 lungsod at bayan sa lalawigan ng Ilocos Sur (Rehiyon ng Ilocos (Region I)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Ilocos Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 34 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ilocos Sur | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ilocos Sur — 34 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 34 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

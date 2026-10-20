@@ -1,0 +1,216 @@
+{
+  "id": "tl-bukidnon-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Bukidnon",
+  "title": "Mga Bayan ng Lalawigan ng Bukidnon",
+  "description": "Listahan ng 20 munisipalidad (bayan) sa lalawigan ng Bukidnon, REGION X (NORTHERN MINDANAO), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "101301000",
+      "name": "BAUNGON",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 34336,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "101322000",
+      "name": "CABANGLASAN",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 33997,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "101302000",
+      "name": "DAMULOG",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 30302,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "101303000",
+      "name": "DANGCAGAN",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 23723,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "101304000",
+      "name": "DON CARLOS",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 66959,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "101305000",
+      "name": "IMPASUG-ONG",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 47859,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "101306000",
+      "name": "KADINGILAN",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 33778,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "101307000",
+      "name": "KALILANGAN",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 41601,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "101308000",
+      "name": "KIBAWE",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 39612,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "101309000",
+      "name": "KITAOTAO",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 50260,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "101310000",
+      "name": "LANTAPAN",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 61776,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "101311000",
+      "name": "LIBONA",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 43969,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "101313000",
+      "name": "MALITBOG",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 24453,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "101314000",
+      "name": "MANOLO FORTICH",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 100210,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "101315000",
+      "name": "MARAMAG",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 102089,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "101316000",
+      "name": "PANGANTUCAN",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 53126,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "101317000",
+      "name": "QUEZON",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 104116,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "101318000",
+      "name": "SAN FERNANDO",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 56138,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "101319000",
+      "name": "SUMILAO",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 27660,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "101320000",
+      "name": "TALAKAG",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 71644,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Bukidnon - Libreng download",
+    "description": "Listahan ng 20 munisipalidad (bayan) sa lalawigan ng Bukidnon, REGION X (NORTHERN MINDANAO), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 20 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Bukidnon | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Bukidnon — 20 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 20 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

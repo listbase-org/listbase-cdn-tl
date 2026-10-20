@@ -1,0 +1,328 @@
+{
+  "id": "tl-isabela-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Isabela",
+  "title": "Mga Bayan ng Lalawigan ng Isabela",
+  "description": "Listahan ng 34 munisipalidad (bayan) sa lalawigan ng Isabela, REGION II (CAGAYAN VALLEY), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "023101000",
+      "name": "ALICIA",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 71504,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "023102000",
+      "name": "ANGADANAN",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 43061,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "023103000",
+      "name": "AURORA",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 35017,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "023104000",
+      "name": "BENITO SOLIVEN",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 29624,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023105000",
+      "name": "BURGOS",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 23784,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023106000",
+      "name": "CABAGAN",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 50174,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "023107000",
+      "name": "CABATUAN",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 39413,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "023109000",
+      "name": "CORDON",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 42926,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "023118000",
+      "name": "DELFIN ALBANO (MAGSAYSAY)",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 26614,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023110000",
+      "name": "DINAPIGUE",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 5005,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "023111000",
+      "name": "DIVILACAN",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 5687,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "023112000",
+      "name": "ECHAGUE",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 79094,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "023113000",
+      "name": "GAMU",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 29904,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023115000",
+      "name": "JONES",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 45666,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "023116000",
+      "name": "LUNA",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 19326,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "023117000",
+      "name": "MACONACON",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 4253,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "023119000",
+      "name": "MALLIG",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 30459,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023120000",
+      "name": "NAGUILIAN",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 31902,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023121000",
+      "name": "PALANAN",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 17260,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "023122000",
+      "name": "QUEZON",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 25860,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023123000",
+      "name": "QUIRINO",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 24501,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023124000",
+      "name": "RAMON",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 52707,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "023125000",
+      "name": "REINA MERCEDES",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 26998,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023126000",
+      "name": "ROXAS",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 61773,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "023127000",
+      "name": "SAN AGUSTIN",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 22880,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "023128000",
+      "name": "SAN GUILLERMO",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 20200,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023129000",
+      "name": "SAN ISIDRO",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 24861,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "023130000",
+      "name": "SAN MANUEL",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 31896,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023131000",
+      "name": "SAN MARIANO",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 55370,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "023132000",
+      "name": "SAN MATEO",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 64505,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "023133000",
+      "name": "SAN PABLO",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 25384,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "023134000",
+      "name": "SANTA MARIA",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 25382,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023136000",
+      "name": "SANTO TOMAS",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 23005,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "023137000",
+      "name": "TUMAUINI",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 67650,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Isabela - Libreng download",
+    "description": "Listahan ng 34 munisipalidad (bayan) sa lalawigan ng Isabela, REGION II (CAGAYAN VALLEY), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 34 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Isabela | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Isabela — 34 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 34 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

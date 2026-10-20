@@ -1,0 +1,104 @@
+{
+  "id": "tl-batanes-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Batanes",
+  "title": "Mga Bayan ng Lalawigan ng Batanes",
+  "description": "Listahan ng 6 munisipalidad (bayan) sa lalawigan ng Batanes, REGION II (CAGAYAN VALLEY), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "020901000",
+      "name": "BASCO (Capital)",
+      "province": "BATANES",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 8579,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "020902000",
+      "name": "ITBAYAT",
+      "province": "BATANES",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 2867,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "020903000",
+      "name": "IVANA",
+      "province": "BATANES",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 1327,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "020904000",
+      "name": "MAHATAO",
+      "province": "BATANES",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 1555,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "020905000",
+      "name": "SABTANG",
+      "province": "BATANES",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 1621,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "020906000",
+      "name": "UYUGAN",
+      "province": "BATANES",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 1297,
+      "income_classification": "6th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Batanes - Libreng download",
+    "description": "Listahan ng 6 munisipalidad (bayan) sa lalawigan ng Batanes, REGION II (CAGAYAN VALLEY), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Batanes | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Batanes — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

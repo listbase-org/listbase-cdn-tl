@@ -1,0 +1,272 @@
+{
+  "id": "tl-nueva-ecija-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Nueva Ecija",
+  "title": "Mga Bayan ng Lalawigan ng Nueva Ecija",
+  "description": "Listahan ng 27 munisipalidad (bayan) sa lalawigan ng Nueva Ecija, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "034901000",
+      "name": "ALIAGA",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 63543,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "034902000",
+      "name": "BONGABON",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 64173,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "034904000",
+      "name": "CABIAO",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 79007,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "034905000",
+      "name": "CARRANGLAN",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 41131,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "034906000",
+      "name": "CUYAPO",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 65039,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "034907000",
+      "name": "GABALDON (BITULOK & SABANI)",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 35383,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "034909000",
+      "name": "GENERAL MAMERTO NATIVIDAD",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 41656,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "034910000",
+      "name": "GENERAL TINIO (PAPAYA)",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 47865,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "034911000",
+      "name": "GUIMBA",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 118655,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "034912000",
+      "name": "JAEN",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 73184,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "034913000",
+      "name": "LAUR",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 35656,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "034914000",
+      "name": "LICAB",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 28254,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "034915000",
+      "name": "LLANERA",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 39701,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "034916000",
+      "name": "LUPAO",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 43788,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "034918000",
+      "name": "NAMPICUAN",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 14954,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "034920000",
+      "name": "PANTABANGAN",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 29925,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "034921000",
+      "name": "PEÑARANDA",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 29882,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "034922000",
+      "name": "QUEZON",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 40592,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "034923000",
+      "name": "RIZAL",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 64087,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "034924000",
+      "name": "SAN ANTONIO",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 77836,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "034925000",
+      "name": "SAN ISIDRO",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 51612,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "034927000",
+      "name": "SAN LEONARDO",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 65299,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "034928000",
+      "name": "SANTA ROSA",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 69467,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "034929000",
+      "name": "SANTO DOMINGO",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 57943,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "034930000",
+      "name": "TALAVERA",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 124829,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "034931000",
+      "name": "TALUGTUG",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 23817,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "034932000",
+      "name": "ZARAGOZA",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 49387,
+      "income_classification": "3rd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Nueva Ecija - Libreng download",
+    "description": "Listahan ng 27 munisipalidad (bayan) sa lalawigan ng Nueva Ecija, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 27 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Nueva Ecija | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Nueva Ecija — 27 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 27 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

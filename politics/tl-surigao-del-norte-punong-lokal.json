@@ -1,0 +1,328 @@
+{
+  "id": "tl-surigao-del-norte-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Surigao del Norte",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Surigao del Norte",
+  "description": "Direktoryo ng 21 lungsod at bayan sa lalawigan ng Surigao del Norte (Caraga (Region XIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Surigao del Norte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Alegria",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8425",
+      "punong_bayan": "RENE G. ESMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DOMINADOR G. ESMA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bacuag",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8408",
+      "punong_bayan": "FELICISIMO C. CEBEDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SHEILA MAE O. CEBEDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Burgos",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8424",
+      "punong_bayan": "ANGIE B. ARCENA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANIELYN B. NOGUERRAZA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Claver",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8410",
+      "punong_bayan": "GEORGIA D. GOKIANGKEE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEAH D. PATAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Dapa",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8417",
+      "punong_bayan": "ELIZABETH T. MATUGAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GERRY M. ABEJO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Del Carmen",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8418",
+      "punong_bayan": "ALFREDO M. CORO II",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RENATO L. DULGUIME",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "General Luna",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8419",
+      "punong_bayan": "SOL F. MATUGAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMINA R. SAJULGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Gigaquit",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8409",
+      "punong_bayan": "CHANDRU T. BONITE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JENNIFER B. BONITE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Mainit",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8407",
+      "punong_bayan": "CRISANTA O. MONDANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMON B. MONDANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Malimono",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8402",
+      "punong_bayan": "WALLACE R. SINACA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARNEL S. AMALLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Pilar",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8420",
+      "punong_bayan": "MARIA LIZA G. RESURRECCION",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JEASA C. GONZALES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Placer",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8405",
+      "punong_bayan": "JOVYMARIE C. VILLAZON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RYAN FEL B. NAPULI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "San Benito",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8423",
+      "punong_bayan": "MA. GINA S. MENIL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "WELLYBEL A. REQUIRME",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "San Francisco",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8401",
+      "punong_bayan": "VAL P. PINAT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MA. LUZ B. PINAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "San Isidro",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8421",
+      "punong_bayan": "LAMBERTO E. DOMIÑOS JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NORBERTO C. DULPINA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Santa Monica",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8422",
+      "punong_bayan": "ARWELA A. DOLAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FERNANDO N. DOLAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Sison",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8404",
+      "punong_bayan": "KARISSA R. FETALVERO-PARONIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "WILLIAM E. AVILA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Socorro",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8416",
+      "punong_bayan": "RIZA RAFONSELLE T. TIMCANG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GEMMA L. OCON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Surigao",
+      "uri": "Lungsod",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "",
+      "punong_bayan": "JOHN M. DALIPE",
+      "kontak_punong_bayan": "(062) 991-2295; 991-4525; 991-6403",
+      "pangalawang_punong_bayan": "JOSEPHINE E. PAREJA",
+      "kontak_pangalawang_punong_bayan": "(062) 992-3137; 992-2385; 992-3813"
+    },
+    {
+      "id": 20,
+      "lgu": "Tagana-an",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8403",
+      "punong_bayan": "CESAR B. DIAZ JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CESAR IAN A. DIAZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Tubod",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8406",
+      "punong_bayan": "RICHELLE B. ROMARATE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHARLITO A. IGNALIG",
+      "kontak_pangalawang_punong_bayan": "(086) 813-1705"
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Surigao del Norte - Libreng download",
+    "description": "Direktoryo ng 21 lungsod at bayan sa lalawigan ng Surigao del Norte (Caraga (Region XIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Surigao del Norte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 21 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Surigao del Norte | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Surigao del Norte — 21 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 21 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

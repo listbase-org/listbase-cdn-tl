@@ -1,0 +1,432 @@
+{
+  "id": "tl-bohol-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Bohol",
+  "title": "Mga Bayan ng Lalawigan ng Bohol",
+  "description": "Listahan ng 47 munisipalidad (bayan) sa lalawigan ng Bohol, REGION VII (CENTRAL VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "071201000",
+      "name": "ALBURQUERQUE",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 10540,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071202000",
+      "name": "ALICIA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 23517,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071203000",
+      "name": "ANDA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 16462,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071204000",
+      "name": "ANTEQUERA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 14425,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071205000",
+      "name": "BACLAYON",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 20591,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071206000",
+      "name": "BALILIHAN",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 17903,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071207000",
+      "name": "BATUAN",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 12767,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071248000",
+      "name": "BIEN UNIDO",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 27115,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071208000",
+      "name": "BILAR",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 17590,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071209000",
+      "name": "BUENAVISTA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 27261,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071210000",
+      "name": "CALAPE",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 30863,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "071211000",
+      "name": "CANDIJAY",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 29475,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071212000",
+      "name": "CARMEN",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 46306,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "071213000",
+      "name": "CATIGBIAN",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 22675,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071214000",
+      "name": "CLARIN",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 20301,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071215000",
+      "name": "CORELLA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 8479,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071216000",
+      "name": "CORTES",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 16954,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071217000",
+      "name": "DAGOHOY",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 19158,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071218000",
+      "name": "DANAO",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 17890,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "071219000",
+      "name": "DAUIS",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 45663,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071220000",
+      "name": "DIMIAO",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 14364,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071221000",
+      "name": "DUERO",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 17876,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071222000",
+      "name": "GARCIA HERNANDEZ",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 24194,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071226000",
+      "name": "GETAFE",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 30955,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "071223000",
+      "name": "GUINDULMAN",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 32408,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071224000",
+      "name": "INABANGA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 45880,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "071225000",
+      "name": "JAGNA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 33892,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "071227000",
+      "name": "LILA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 12257,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071228000",
+      "name": "LOAY",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 16691,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071229000",
+      "name": "LOBOC",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 15993,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071230000",
+      "name": "LOON",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 43034,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "071231000",
+      "name": "MABINI",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 27171,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071232000",
+      "name": "MARIBOJOC",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 20688,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071233000",
+      "name": "PANGLAO",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 33553,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071234000",
+      "name": "PILAR",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 27256,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071235000",
+      "name": "PRES. CARLOS P. GARCIA (PITOGO)",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 23356,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071236000",
+      "name": "SAGBAYAN (BORJA)",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 22339,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071237000",
+      "name": "SAN ISIDRO",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 8744,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "071238000",
+      "name": "SAN MIGUEL",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 24135,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "071239000",
+      "name": "SEVILLA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 10661,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071240000",
+      "name": "SIERRA BULLONES",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 24745,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "071241000",
+      "name": "SIKATUNA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 6726,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "071243000",
+      "name": "TALIBON",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 66969,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "071244000",
+      "name": "TRINIDAD",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 31956,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "071245000",
+      "name": "TUBIGON",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 45893,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "071246000",
+      "name": "UBAY",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 73712,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "071247000",
+      "name": "VALENCIA",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 27126,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Bohol - Libreng download",
+    "description": "Listahan ng 47 munisipalidad (bayan) sa lalawigan ng Bohol, REGION VII (CENTRAL VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 47 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Bohol | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Bohol — 47 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 47 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

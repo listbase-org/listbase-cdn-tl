@@ -1,0 +1,364 @@
+{
+  "id": "tl-samar-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Samar",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Samar",
+  "description": "Direktoryo ng 24 lungsod at bayan sa lalawigan ng Samar (Silangang Visayas (Region VIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Samar` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Almagro",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6724",
+      "punong_bayan": "AMELIA P. CANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "KATHLEEN S. PRUDENCIADO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Basey",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6720",
+      "punong_bayan": "LUZ C. PONFERRADA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HONESTO M. ZETA",
+      "kontak_pangalawang_punong_bayan": "(053) 522-6413"
+    },
+    {
+      "id": 3,
+      "lgu": "Calbiga",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6715",
+      "punong_bayan": "RED L. NACARIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EVA L. CASTILLO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Daram",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6722",
+      "punong_bayan": "PHILIP MARTIN L. ASTORGA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LUCIA L. ASTORGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Gandara",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6706",
+      "punong_bayan": "WARREN T. AGUILAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELIAS C. DELECTOR SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Hinabangan",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6713",
+      "punong_bayan": "CLARITO P. ROSAL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARTHUR A. ABAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Jiabong",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6701",
+      "punong_bayan": "JULIE U. CERENO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOCELYN U. DE JESUS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Marabut",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6721",
+      "punong_bayan": "PERCIVAL A. ORTILLO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIA JUDITH O. MARKS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Matuguinao",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6708",
+      "punong_bayan": "ARAN DC. BOLLER",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CLEOFE DC. BELONIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Motiong",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6702",
+      "punong_bayan": "RENATO T. CABAEL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "IMELDA U. BACAY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Pagsanghan",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6705",
+      "punong_bayan": "SED HENDRIX C. TAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RENATO L. PEDRITA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Paranas",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6703",
+      "punong_bayan": "EUNICE U. BABALCON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "YOLANDA T. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Pinabacdao",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6716",
+      "punong_bayan": "TEODORICO A. MABAG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDGAR M. TONELETE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "San Jorge",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6707",
+      "punong_bayan": "LEONCIO U. DE GUIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAY G. BISNAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "San Jose de Buan",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6723",
+      "punong_bayan": "JOAQUIN R. ELIZALDE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CRISTAL JEAN R. ELIZALDE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "San Sebastian",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6714",
+      "punong_bayan": "FERDINAND T. GAVIOLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LALEINE N. BABON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Santa Margarita",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6709",
+      "punong_bayan": "FELIX R. PANGANORON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ERDIE L. DE LOS SANTOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Santa Rita",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6718",
+      "punong_bayan": "JADE KIE R. TIU",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOVEN P. TIU",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Santo Niño",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6711",
+      "punong_bayan": "MARINELL A. APOLONIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LILIA A. COÑEJOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Tagapul-an",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6712",
+      "punong_bayan": "VICENTE M. LIMPIADO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ERNA L. GOC-ONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Talalora",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6719",
+      "punong_bayan": "ROSABEL O. COSTELO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEONILO T. COSTELO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Tarangnan",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6704",
+      "punong_bayan": "DANILO V. TAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARNEL R. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Villareal",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6717",
+      "punong_bayan": "CARLO R. LATORRE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AVELINO A. LABABO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Zumarraga",
+      "uri": "Bayan",
+      "lalawigan": "Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6725",
+      "punong_bayan": "MYRNA O. TAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANALYN M. OJEDA",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Samar - Libreng download",
+    "description": "Direktoryo ng 24 lungsod at bayan sa lalawigan ng Samar (Silangang Visayas (Region VIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Samar` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 24 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Samar | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Samar — 24 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 24 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

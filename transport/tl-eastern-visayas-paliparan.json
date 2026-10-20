@@ -1,0 +1,241 @@
+{
+  "id": "tl-eastern-visayas-paliparan",
+  "name": "Mga Paliparan — Silangang Visayas",
+  "title": "Mga Paliparan — Silangang Visayas",
+  "description": "Mga paliparan at landing strip sa Silangang Visayas (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Eastern Visayas`. (Airports in Eastern Visayas (Region VIII), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RP15",
+      "iata": "",
+      "name": "Pasar Airport",
+      "city": "",
+      "subdivision": "Eastern Visayas",
+      "subdivision_native": "Eastern Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 16,
+      "latitude": 10.9121,
+      "longitude": 124.437,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPSM",
+      "iata": "",
+      "name": "Maasin Airport",
+      "city": "",
+      "subdivision": "Eastern Visayas",
+      "subdivision_native": "Eastern Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 328,
+      "latitude": 10.1873,
+      "longitude": 124.782,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVA",
+      "iata": "TAC",
+      "name": "Daniel Z. Romualdez Airport",
+      "city": "Tacloban City",
+      "subdivision": "Eastern Visayas",
+      "subdivision_native": "Eastern Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 10,
+      "latitude": 11.2276,
+      "longitude": 125.028,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVC",
+      "iata": "CYP",
+      "name": "Calbayog Airport",
+      "city": "Calbayog City",
+      "subdivision": "Eastern Visayas",
+      "subdivision_native": "Eastern Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 12,
+      "latitude": 12.0727,
+      "longitude": 124.545,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVF",
+      "iata": "CRM",
+      "name": "Catarman National Airport",
+      "city": "Catarman",
+      "subdivision": "Eastern Visayas",
+      "subdivision_native": "Eastern Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 6,
+      "latitude": 12.5024,
+      "longitude": 124.636,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVG",
+      "iata": "",
+      "name": "Guiuan Airport",
+      "city": "Guiuan",
+      "subdivision": "Eastern Visayas",
+      "subdivision_native": "Eastern Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 7,
+      "latitude": 11.0355,
+      "longitude": 125.742,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVH",
+      "iata": "",
+      "name": "Hilongos Airport",
+      "city": "Hilongos",
+      "subdivision": "Eastern Visayas",
+      "subdivision_native": "Eastern Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 12,
+      "latitude": 10.38,
+      "longitude": 124.743,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVO",
+      "iata": "OMC",
+      "name": "Ormoc Airport",
+      "city": "Ormoc City",
+      "subdivision": "Eastern Visayas",
+      "subdivision_native": "Eastern Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 83,
+      "latitude": 11.058,
+      "longitude": 124.565,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVW",
+      "iata": "BPR",
+      "name": "Borongan Airport",
+      "city": "Borongan City",
+      "subdivision": "Eastern Visayas",
+      "subdivision_native": "Eastern Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 7,
+      "latitude": 11.6743,
+      "longitude": 125.479,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVY",
+      "iata": "",
+      "name": "Catbalogan Airport",
+      "city": "",
+      "subdivision": "Eastern Visayas",
+      "subdivision_native": "Eastern Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 0,
+      "latitude": 11.81,
+      "longitude": 124.83,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — Silangang Visayas - Libreng download",
+    "description": "Mga paliparan at landing strip sa Silangang Visayas (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Eastern Visayas`. (Airports in Eastern Visayas (Region VIII), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 10 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — Silangang Visayas | ListBase",
+    "seo_description": "I-download Mga Paliparan — Silangang Visayas — 10 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 10 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

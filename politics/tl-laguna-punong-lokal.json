@@ -1,0 +1,436 @@
+{
+  "id": "tl-laguna-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Laguna",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Laguna",
+  "description": "Direktoryo ng 30 lungsod at bayan sa lalawigan ng Laguna (Calabarzon (Region IV-A)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Laguna` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Alaminos",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4001",
+      "punong_bayan": "GLENN P. FLORES",
+      "kontak_punong_bayan": "(049) 567-1999",
+      "pangalawang_punong_bayan": "VICTOR L. MITRA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bay",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4033",
+      "punong_bayan": "JOSE O. PADRID",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOHN PAUL C. VILLEGAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Biñan",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "WALFREDO R. DIMAGUILA JR.",
+      "kontak_punong_bayan": "(049) 523-5419; 513-500",
+      "pangalawang_punong_bayan": "ANGELO B. ALONTE",
+      "kontak_pangalawang_punong_bayan": "(049) 523-5431; 513-5006"
+    },
+    {
+      "id": 4,
+      "lgu": "Cabuyao",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "DENNIS FELIPE C. HAIN",
+      "kontak_punong_bayan": "(049) 502-1192",
+      "pangalawang_punong_bayan": "LEIF LAIGLON A. OPIÑA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Calamba",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "ROSELLER H. RIZAL",
+      "kontak_punong_bayan": "(049) 545-6789 loc. 8309",
+      "pangalawang_punong_bayan": "ANGELITO S. LAZARO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Calauan",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4012",
+      "punong_bayan": "ROSELLER G. CARATIHAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALLAN JUN V. SANCHEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Cavinti",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4013",
+      "punong_bayan": "ARRANTLEE R. ARROYO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MILBERT L. OLIVEROS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Famy",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4021",
+      "punong_bayan": "LORENZO B. RELLOSA",
+      "kontak_punong_bayan": "(049) 501-7733",
+      "pangalawang_punong_bayan": "WILFREDO M. VALOIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Kalayaan",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4015",
+      "punong_bayan": "SANDY P. LAGANAPAN",
+      "kontak_punong_bayan": "(049) 501-7771",
+      "pangalawang_punong_bayan": "CHRISTOPER P. RAMIRO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Liliw",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4004",
+      "punong_bayan": "ILDEFONSO D. MONLEON",
+      "kontak_punong_bayan": "(049) 563-1001",
+      "pangalawang_punong_bayan": "ERICSON J. SULIBIT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Los Baños",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4030",
+      "punong_bayan": "ANTHONY F. GENUINO",
+      "kontak_punong_bayan": "(049) 530-2585",
+      "pangalawang_punong_bayan": "JOSEPHINE S. EVANGELISTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Luisiana",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4032",
+      "punong_bayan": "JOMAPHER U. ALVAREZ",
+      "kontak_punong_bayan": "(049) 555-4538",
+      "pangalawang_punong_bayan": "LUIBIC R. JACOB",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Lumban",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4014",
+      "punong_bayan": "ROLANDO G. UBATAY",
+      "kontak_punong_bayan": "(049) 557-1113",
+      "pangalawang_punong_bayan": "BELEN B. RAGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Mabitac",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4020",
+      "punong_bayan": "ALBERTO S. REYES",
+      "kontak_punong_bayan": "(049) 501-0881",
+      "pangalawang_punong_bayan": "RONALD I. SANA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Magdalena",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4007",
+      "punong_bayan": "PEDRO C. BUCAL",
+      "kontak_punong_bayan": "(049) 503-4212",
+      "pangalawang_punong_bayan": "MAXIMO B. SOTOMAYOR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Majayjay",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4005",
+      "punong_bayan": "ROMEO P. AMORADO",
+      "kontak_punong_bayan": "(049) 502-5065",
+      "pangalawang_punong_bayan": "JUAN ARIEL A. ARGAÑOSA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Nagcarlan",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4002",
+      "punong_bayan": "ELMOR V. VITA",
+      "kontak_punong_bayan": "(049) 563-1202",
+      "pangalawang_punong_bayan": "REXON V. AREVALO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Paete",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4016",
+      "punong_bayan": "RONALD B. COSICO",
+      "kontak_punong_bayan": "(049) 557-0001",
+      "pangalawang_punong_bayan": "VIRGILIO L. MARIDEJOS JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Pagsanjan",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4008",
+      "punong_bayan": "CESAR V. AREZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "TERRYL G. TALABONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Pakil",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4017",
+      "punong_bayan": "VINCENT L. SORIANO",
+      "kontak_punong_bayan": "(049) 557-1766",
+      "pangalawang_punong_bayan": "VIPOPS CHARLES D. MARTINEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Pangil",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4018",
+      "punong_bayan": "GERALD A. ARITAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DIVINE GRACE G. ASTOVEZA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Pila",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4010",
+      "punong_bayan": "EDGARDO A. RAMOS",
+      "kontak_punong_bayan": "(049) 831-8360",
+      "pangalawang_punong_bayan": "REGGIE MHAR M. BOTE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Rizal",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4003",
+      "punong_bayan": "VENER P. MUÑOZ",
+      "kontak_punong_bayan": "(049) 521-0672",
+      "pangalawang_punong_bayan": "ANTONINO A. AURELIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "San Pablo",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "VICENTE B. AMANTE",
+      "kontak_punong_bayan": "(049) 521-0307",
+      "pangalawang_punong_bayan": "JUSTIN G. COLAGO",
+      "kontak_pangalawang_punong_bayan": "(049) 562-1575; 562-1286"
+    },
+    {
+      "id": 25,
+      "lgu": "San Pedro",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "ART JOSEPH FRANCIS MERCADO",
+      "kontak_punong_bayan": "(02) 8808-2020 loc. 401",
+      "pangalawang_punong_bayan": "DIVINA D. OLIVAREZ",
+      "kontak_pangalawang_punong_bayan": "(02) 8808-2020 loc. 323; 8292-8227"
+    },
+    {
+      "id": 26,
+      "lgu": "Santa Cruz",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4009",
+      "punong_bayan": "EDGAR S. SAN LUIS",
+      "kontak_punong_bayan": "(049) 501-1008",
+      "pangalawang_punong_bayan": "LAARNI A. MALIBIRAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 27,
+      "lgu": "Santa Maria",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4022",
+      "punong_bayan": "MA. ROCELLE V. CAROLINO",
+      "kontak_punong_bayan": "(049) 501-1611",
+      "pangalawang_punong_bayan": "NORLITO C. BRIONES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 28,
+      "lgu": "Santa Rosa",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "ARLENE B. ARCILLAS",
+      "kontak_punong_bayan": "(049) 530-0015 loc. 5021; 534-1024",
+      "pangalawang_punong_bayan": "ARNOLD B. ARCILLAS",
+      "kontak_pangalawang_punong_bayan": "(049) 530-0015 loc. 1402; 534-1024"
+    },
+    {
+      "id": 29,
+      "lgu": "Siniloan",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4019",
+      "punong_bayan": "RAINIER A. LEOPANDO",
+      "kontak_punong_bayan": "(049) 523-1921",
+      "pangalawang_punong_bayan": "CARLA ANGELA S. VALDERRAMA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 30,
+      "lgu": "Victoria",
+      "uri": "Bayan",
+      "lalawigan": "LAGUNA",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4011",
+      "punong_bayan": "DWIGHT C. KAMPITAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RECTO D. KAMPITAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Laguna - Libreng download",
+    "description": "Direktoryo ng 30 lungsod at bayan sa lalawigan ng Laguna (Calabarzon (Region IV-A)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Laguna` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 30 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Laguna | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Laguna — 30 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 30 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

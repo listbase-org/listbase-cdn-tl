@@ -1,0 +1,592 @@
+{
+  "id": "tl-leyte-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Leyte",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Leyte",
+  "description": "Direktoryo ng 43 lungsod at bayan sa lalawigan ng Leyte (Silangang Visayas (Region VIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Leyte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Abuyog",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6510",
+      "punong_bayan": "LEMUEL GIN K. TRAYA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAMES L. BOHOL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Alangalang",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6517",
+      "punong_bayan": "LOVELL ANNE M. YU",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIO V. BAGUE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Albuera",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6542",
+      "punong_bayan": "SIXTO B. DELA VICTORIA",
+      "kontak_punong_bayan": "(053) 562-0020",
+      "pangalawang_punong_bayan": "IMELDA A. FADUL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Babatngon",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6520",
+      "punong_bayan": "ELEONOR B. LUGNASIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROSARY PEARL G. CATUDIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Barugo",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6519",
+      "punong_bayan": "ARON C. BALAIS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSEPHINE C. TIU",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Bato",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6525",
+      "punong_bayan": "NATHANIEL B. GERTOS",
+      "kontak_punong_bayan": "(053) 520-7934",
+      "pangalawang_punong_bayan": "BRYAN NILE A. GERTOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Baybay",
+      "uri": "Lungsod",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "",
+      "punong_bayan": "JOSE CARLOS L. CARI",
+      "kontak_punong_bayan": "(053) 335-2405",
+      "pangalawang_punong_bayan": "EMMANUEL T. TIU SONCO",
+      "kontak_pangalawang_punong_bayan": "(055) 560-9766"
+    },
+    {
+      "id": 8,
+      "lgu": "Burauen",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6516",
+      "punong_bayan": "JUANITO E. RENOMERON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NOEL P. ALPINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Calubian",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6534",
+      "punong_bayan": "MARCIANO A. BATIANCELA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANNA LOVE O. VELOSO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Capoocan",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6530",
+      "punong_bayan": "FE CLAIRE C. PARAGATOS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FEDERICO H. CAROLINO SR.",
+      "kontak_pangalawang_punong_bayan": "(053) 548-1300; 331-6001"
+    },
+    {
+      "id": 11,
+      "lgu": "Carigara",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6529",
+      "punong_bayan": "EDUARDO T. ONG JR.",
+      "kontak_punong_bayan": "(053) 888-2093",
+      "pangalawang_punong_bayan": "JIMMY A. CAMPOSANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Dagami",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6515",
+      "punong_bayan": "ANGELITA M. DELUSA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HOMOBONO U. BARDILLON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Dulag",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6505",
+      "punong_bayan": "MILDRED JOY P. QUE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JADE A. AGULLO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Hilongos",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6524",
+      "punong_bayan": "MANUEL R. VILLAHERMOSA",
+      "kontak_punong_bayan": "(053) 567-9715",
+      "pangalawang_punong_bayan": "ALBERT R. VILLAHERMOSA",
+      "kontak_pangalawang_punong_bayan": "(053) 567-8608"
+    },
+    {
+      "id": 15,
+      "lgu": "Hindang",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6523",
+      "punong_bayan": "BETTY A. CABAL",
+      "kontak_punong_bayan": "(053) 839-2473",
+      "pangalawang_punong_bayan": "ELPIDIO B. CABAL JR.",
+      "kontak_pangalawang_punong_bayan": "(053) 839-2473"
+    },
+    {
+      "id": 16,
+      "lgu": "Inopacan",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6522",
+      "punong_bayan": "ROJELIO D. PUA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SANDERS C. LUMARDA",
+      "kontak_pangalawang_punong_bayan": "(053) 565-0071"
+    },
+    {
+      "id": 17,
+      "lgu": "Isabel",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6539",
+      "punong_bayan": "EDGARDO C. CORDEÑO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ADAM A. FUENTES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Jaro",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6527",
+      "punong_bayan": "JASSIE LOU TAÑALA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RODRIGO C. ARBAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Javier",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6511",
+      "punong_bayan": "MICHAEL DRAGON T. JAVIER",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EMMA M. ABUEVA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Julita",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6506",
+      "punong_bayan": "PERCIVAL S. CAÑA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GERMAN J. MACASO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Kananga",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6531",
+      "punong_bayan": "MANUEL VICENTE M. TORRES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MIGUEL JORGE P. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "La Paz",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6508",
+      "punong_bayan": "ANGEL A. SIA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LYNDO A. QUIÑA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Leyte",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6533",
+      "punong_bayan": "ARNOLD JAMES M. YSIDORO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARMANDO M. YSIDORO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "MacArthur",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6509",
+      "punong_bayan": "RUDIN T. BABANTE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JESUS A. BARANDA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "Mahaplag",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6512",
+      "punong_bayan": "RONALDO T. LLEVE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MYRA P. SOLIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 26,
+      "lgu": "Matag-ob",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6532",
+      "punong_bayan": "BERNANDINO G. TACOY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VINCENT LYNBERN P. TACOY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 27,
+      "lgu": "Matalom",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6526",
+      "punong_bayan": "ERIC S. PAJULIO",
+      "kontak_punong_bayan": "(053) 569-9077",
+      "pangalawang_punong_bayan": "RIKRIK JAY S. PAJULIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 28,
+      "lgu": "Mayorga",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6507",
+      "punong_bayan": "ALEXANDER S. DE PAZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SERGIO I. ZABALA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 29,
+      "lgu": "Merida",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6540",
+      "punong_bayan": "ROLANDO M. VILLASENCIO",
+      "kontak_punong_bayan": "(053) 557-9588",
+      "pangalawang_punong_bayan": "RODRIGO M. WENCESLAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 30,
+      "lgu": "Ormoc",
+      "uri": "Lungsod",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "",
+      "punong_bayan": "LUCY TORRES-GOMEZ",
+      "kontak_punong_bayan": "(053) 832-8888",
+      "pangalawang_punong_bayan": "ERNESTO M. BUTAWAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 31,
+      "lgu": "Palo",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6501",
+      "punong_bayan": "REMDIOS L. PETILLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JONATHAN P. CHIQUILLO",
+      "kontak_pangalawang_punong_bayan": "(053) 832-1399"
+    },
+    {
+      "id": 32,
+      "lgu": "Palompon",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6538",
+      "punong_bayan": "FERDINAND T. DELA CALZADA",
+      "kontak_punong_bayan": "(053) 555-0292; 555-0564",
+      "pangalawang_punong_bayan": "BURT MARI M. BREGAUDIT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 33,
+      "lgu": "Pastrana",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6514",
+      "punong_bayan": "MARITESS C. MARCOS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHITO C. CAYACO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 34,
+      "lgu": "San Isidro",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6535",
+      "punong_bayan": "REMEDIO B. VELOSO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CECILIO DC. ECALLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 35,
+      "lgu": "San Miguel",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6518",
+      "punong_bayan": "NORMAN D. SABDAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PROTACIO Q. BRAZIL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 36,
+      "lgu": "Santa Fe",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6513",
+      "punong_bayan": "AMPARO H. MONTEZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDUARDO N. TOREROS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 37,
+      "lgu": "Tabango",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6536",
+      "punong_bayan": "BERNARD JONATHAN M. REMANDABAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROSLIE E. OMEGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 38,
+      "lgu": "Tabontabon",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6504",
+      "punong_bayan": "EFREN D. REDOÑA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PONCIANO R. JUSTIMBASTE JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 39,
+      "lgu": "Tacloban",
+      "uri": "Lungsod",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "",
+      "punong_bayan": "ALFRED S. ROMUALDEZ",
+      "kontak_punong_bayan": "(053) 321-2934",
+      "pangalawang_punong_bayan": "LEO CARMELO J. LOCSIN SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 40,
+      "lgu": "Tanauan",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6502",
+      "punong_bayan": "MA. GINA E. MERILO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARCHIE LAWRENCE R. KAPUNAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 41,
+      "lgu": "Tolosa",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6503",
+      "punong_bayan": "ERWIN C. OCAÑA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MENARDO M. MATE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 42,
+      "lgu": "Tunga",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6528",
+      "punong_bayan": "REINBERT C. COSTELO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EGIDIO G. BAAC",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 43,
+      "lgu": "Villaba",
+      "uri": "Bayan",
+      "lalawigan": "Leyte",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6537",
+      "punong_bayan": "CARLOS G. VELOSO",
+      "kontak_punong_bayan": "(053) 552-9161",
+      "pangalawang_punong_bayan": "DENNIS L. SY",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Leyte - Libreng download",
+    "description": "Direktoryo ng 43 lungsod at bayan sa lalawigan ng Leyte (Silangang Visayas (Region VIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Leyte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 43 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Leyte | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Leyte — 43 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 43 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

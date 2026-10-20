@@ -1,0 +1,4102 @@
+{
+  "id": "tl-pamasahe-pnr",
+  "name": "Mga Pamasahe sa PNR (Philippine National Railways Commuter Line)",
+  "title": "Mga Pamasahe sa PNR (Philippine National Railways Commuter Line)",
+  "description": "Listahan ng pamasahe (fare) sa pagitan ng bawat istasyon ng PNR commuter line mula Tutuban hanggang Calamba, Laguna. Ang bawat record ay nagpapakita ng origin station, destination station, at pamasahe sa Philippine peso (PHP). 26 na istasyon, ginagamit para sa PNR Metro Commuter Line at South Commuter Line. (Inter-station fare matrix for the Philippine National Railways commuter line connecting Metro Manila to Calamba, Laguna. Each record gives origin, destination, and fare in PHP. 26 stations.)",
+  "category": "reference",
+  "source": "https://github.com/sakayph/fares",
+  "source_url": "https://github.com/sakayph/fares",
+  "updated": "2026-04",
+  "record_count": 676,
+  "columns": [
+    {
+      "key": "origin",
+      "label": "Origin",
+      "type": "string"
+    },
+    {
+      "key": "destination",
+      "label": "Destination",
+      "type": "string"
+    },
+    {
+      "key": "fare_php",
+      "label": "Fare Php",
+      "type": "number"
+    },
+    {
+      "key": "currency",
+      "label": "Currency",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "origin": "Tutuban",
+      "destination": "Tutuban",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Nichols",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "FTI",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Bicutan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Sucat",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Alabang",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Muntinlupa",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "San Pedro",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Pacita Main Gate",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Golden City 1",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Biñan",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Sta. Rosa",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Cabuyao",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Mamatid",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Tutuban",
+      "destination": "Calamba",
+      "fare_php": 60,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Blumentritt",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Bicutan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Sucat",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Alabang",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Muntinlupa",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "San Pedro",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Pacita Main Gate",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Golden City 1",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Biñan",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Sta. Rosa",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Cabuyao",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Mamatid",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Blumentritt",
+      "destination": "Calamba",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Laon Laan",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Bicutan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Sucat",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Alabang",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Muntinlupa",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "San Pedro",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Pacita Main Gate",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Golden City 1",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Biñan",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Sta. Rosa",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Cabuyao",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Mamatid",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Laon Laan",
+      "destination": "Calamba",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "España",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Bicutan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Sucat",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Alabang",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Muntinlupa",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "San Pedro",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Pacita Main Gate",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Golden City 1",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Biñan",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Sta. Rosa",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Cabuyao",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Mamatid",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "España",
+      "destination": "Calamba",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Sta. Mesa",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Sucat",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Alabang",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Muntinlupa",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "San Pedro",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Pacita Main Gate",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Golden City 1",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Biñan",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Sta. Rosa",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Cabuyao",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Mamatid",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Mesa",
+      "destination": "Calamba",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Pandacan",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Sucat",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Alabang",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Muntinlupa",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "San Pedro",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Pacita Main Gate",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Golden City 1",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Biñan",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Sta. Rosa",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Cabuyao",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Mamatid",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pandacan",
+      "destination": "Calamba",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Paco",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Alabang",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Muntinlupa",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "San Pedro",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Pacita Main Gate",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Golden City 1",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Biñan",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Sta. Rosa",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Cabuyao",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Mamatid",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Paco",
+      "destination": "Calamba",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "San Andres",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Alabang",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Muntinlupa",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "San Pedro",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Pacita Main Gate",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Golden City 1",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Biñan",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Sta. Rosa",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Cabuyao",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Mamatid",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Andres",
+      "destination": "Calamba",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Vito Cruz",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Alabang",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Muntinlupa",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "San Pedro",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Pacita Main Gate",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Golden City 1",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Biñan",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Sta. Rosa",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Cabuyao",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Mamatid",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Vito Cruz",
+      "destination": "Calamba",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Buendia",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Alabang",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Muntinlupa",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "San Pedro",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Pacita Main Gate",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Golden City 1",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Biñan",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Sta. Rosa",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Cabuyao",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Mamatid",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Calamba",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Pasay Road",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Muntinlupa",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "San Pedro",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Pacita Main Gate",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Golden City 1",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Biñan",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Sta. Rosa",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Cabuyao",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Mamatid",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pasay Road",
+      "destination": "Calamba",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Tutuban",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "EDSA",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Muntinlupa",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "San Pedro",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Pacita Main Gate",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Golden City 1",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Biñan",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Sta. Rosa",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Cabuyao",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Mamatid",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "EDSA",
+      "destination": "Calamba",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Tutuban",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Nichols",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "San Pedro",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Pacita Main Gate",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Golden City 1",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Biñan",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Sta. Rosa",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Cabuyao",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Mamatid",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Nichols",
+      "destination": "Calamba",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Tutuban",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Blumentritt",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Laon Laan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "España",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "FTI",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "San Pedro",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Pacita Main Gate",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Golden City 1",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Biñan",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Sta. Rosa",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Cabuyao",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Mamatid",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "FTI",
+      "destination": "Calamba",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Tutuban",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Blumentritt",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Laon Laan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "España",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Sta. Mesa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Pandacan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Bicutan",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "San Pedro",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Pacita Main Gate",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Golden City 1",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Biñan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Sta. Rosa",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Cabuyao",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Mamatid",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Bicutan",
+      "destination": "Calamba",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Tutuban",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Blumentritt",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Laon Laan",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "España",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Sta. Mesa",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Pandacan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Paco",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "San Andres",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Vito Cruz",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Buendia",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Sucat",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "San Pedro",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Pacita Main Gate",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Golden City 1",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Biñan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Sta. Rosa",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Cabuyao",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Mamatid",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sucat",
+      "destination": "Calamba",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Tutuban",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Blumentritt",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Laon Laan",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "España",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Sta. Mesa",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Pandacan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Paco",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "San Andres",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Vito Cruz",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Buendia",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Pasay Road",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "EDSA",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Alabang",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "San Pedro",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Pacita Main Gate",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Golden City 1",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Biñan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Sta. Rosa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Cabuyao",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Mamatid",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Alabang",
+      "destination": "Calamba",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Tutuban",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Blumentritt",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Laon Laan",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "España",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Sta. Mesa",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Pandacan",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Paco",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "San Andres",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Vito Cruz",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Buendia",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Pasay Road",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "EDSA",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Nichols",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "FTI",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Muntinlupa",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "San Pedro",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Pacita Main Gate",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Golden City 1",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Biñan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Sta. Rosa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Cabuyao",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Mamatid",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Muntinlupa",
+      "destination": "Calamba",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Tutuban",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Blumentritt",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Laon Laan",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "España",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Sta. Mesa",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Pandacan",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Paco",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "San Andres",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Vito Cruz",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Buendia",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Pasay Road",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "EDSA",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Nichols",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "FTI",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Bicutan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "San Pedro",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Pacita Main Gate",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Golden City 1",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Biñan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Sta. Rosa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Cabuyao",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Mamatid",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "San Pedro",
+      "destination": "Calamba",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Tutuban",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Blumentritt",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Laon Laan",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "España",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Sta. Mesa",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Pandacan",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Paco",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "San Andres",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Vito Cruz",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Buendia",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Pasay Road",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "EDSA",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Nichols",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "FTI",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Bicutan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "San Pedro",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Pacita Main Gate",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Golden City 1",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Biñan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Sta. Rosa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Cabuyao",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Mamatid",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pacita Main Gate",
+      "destination": "Calamba",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Tutuban",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Blumentritt",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Laon Laan",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "España",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Sta. Mesa",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Pandacan",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Paco",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "San Andres",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Vito Cruz",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Buendia",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Pasay Road",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "EDSA",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Nichols",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "FTI",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Bicutan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "San Pedro",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Pacita Main Gate",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Golden City 1",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Biñan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Sta. Rosa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Cabuyao",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Mamatid",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Golden City 1",
+      "destination": "Calamba",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Tutuban",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Blumentritt",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Laon Laan",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "España",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Sta. Mesa",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Pandacan",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Paco",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "San Andres",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Vito Cruz",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Buendia",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Pasay Road",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "EDSA",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Nichols",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "FTI",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Bicutan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Sucat",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "San Pedro",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Pacita Main Gate",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Golden City 1",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Biñan",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Sta. Rosa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Cabuyao",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Mamatid",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Biñan",
+      "destination": "Calamba",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Tutuban",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Blumentritt",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Laon Laan",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "España",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Sta. Mesa",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Pandacan",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Paco",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "San Andres",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Vito Cruz",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Buendia",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Pasay Road",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "EDSA",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Nichols",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "FTI",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Bicutan",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Sucat",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Alabang",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "San Pedro",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Pacita Main Gate",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Golden City 1",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Biñan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Sta. Rosa",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Cabuyao",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Mamatid",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Sta. Rosa",
+      "destination": "Calamba",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Tutuban",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Blumentritt",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Laon Laan",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "España",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Sta. Mesa",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Pandacan",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Paco",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "San Andres",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Vito Cruz",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Buendia",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Pasay Road",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "EDSA",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Nichols",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "FTI",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Bicutan",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Sucat",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Alabang",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Muntinlupa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "San Pedro",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Pacita Main Gate",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Golden City 1",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Biñan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Sta. Rosa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Cabuyao",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Mamatid",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cabuyao",
+      "destination": "Calamba",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Tutuban",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Blumentritt",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Laon Laan",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "España",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Sta. Mesa",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Pandacan",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Paco",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "San Andres",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Vito Cruz",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Buendia",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Pasay Road",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "EDSA",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Nichols",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "FTI",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Bicutan",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Sucat",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Alabang",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Muntinlupa",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "San Pedro",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Pacita Main Gate",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Golden City 1",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Biñan",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Sta. Rosa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Cabuyao",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Mamatid",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Mamatid",
+      "destination": "Calamba",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Tutuban",
+      "fare_php": 60,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Blumentritt",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Laon Laan",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "España",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Sta. Mesa",
+      "fare_php": 55,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Pandacan",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Paco",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "San Andres",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Vito Cruz",
+      "fare_php": 50,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Buendia",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Pasay Road",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "EDSA",
+      "fare_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Nichols",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "FTI",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Bicutan",
+      "fare_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Sucat",
+      "fare_php": 35,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Alabang",
+      "fare_php": 30,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Muntinlupa",
+      "fare_php": 25,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "San Pedro",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Pacita Main Gate",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Golden City 1",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Biñan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Sta. Rosa",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Cabuyao",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Mamatid",
+      "fare_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Calamba",
+      "destination": "Calamba",
+      "fare_php": 0,
+      "currency": "PHP"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pamasahe sa PNR (Philippine National Railways Commuter Line) - Libreng download",
+    "description": "Listahan ng pamasahe (fare) sa pagitan ng bawat istasyon ng PNR commuter line mula Tutuban hanggang Calamba, Laguna. Ang bawat record ay nagpapakita ng origin station, destination station, at pamasahe sa Philippine peso (PHP). 26 na istasyon, ginagamit para sa PNR Metro Commuter Line at South Commuter Line. (Inter-station fare matrix for the Philippine National Railways commuter line connecting Metro Manila to Calamba, Laguna. Each record gives origin, destination, and fare in PHP. 26 stations.) Naglalaman ng 676 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Pamasahe sa PNR (Philippine National Railways Commuter Line) | ListBase",
+    "seo_description": "I-download Mga Pamasahe sa PNR (Philippine National Railways Commuter Line) — 676 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 676 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/sakayph/fares"
+    ]
+  }
+}

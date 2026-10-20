@@ -1,0 +1,136 @@
+{
+  "id": "tl-south-cotabato-bayan",
+  "name": "Mga Bayan ng Lalawigan ng South Cotabato",
+  "title": "Mga Bayan ng Lalawigan ng South Cotabato",
+  "description": "Listahan ng 10 munisipalidad (bayan) sa lalawigan ng South Cotabato, REGION XII (SOCCSKSARGEN), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "126302000",
+      "name": "BANGA",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 83989,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126319000",
+      "name": "LAKE SEBU",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 87442,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126311000",
+      "name": "NORALA",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 46642,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "126312000",
+      "name": "POLOMOLOK",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 152589,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126318000",
+      "name": "SANTO NIÑO",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 40947,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "126313000",
+      "name": "SURALLAH",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 84539,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126316000",
+      "name": "T'BOLI",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 91453,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126314000",
+      "name": "TAMPAKAN",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 39525,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "126315000",
+      "name": "TANTANGAN",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 43245,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "126317000",
+      "name": "TUPI",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 69976,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng South Cotabato - Libreng download",
+    "description": "Listahan ng 10 munisipalidad (bayan) sa lalawigan ng South Cotabato, REGION XII (SOCCSKSARGEN), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 10 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng South Cotabato | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng South Cotabato — 10 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 10 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

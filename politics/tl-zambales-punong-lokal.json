@@ -1,0 +1,244 @@
+{
+  "id": "tl-zambales-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zambales",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zambales",
+  "description": "Direktoryo ng 14 lungsod at bayan sa lalawigan ng Zambales (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Zambales` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Botolan",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2202",
+      "punong_bayan": "JUN OMAR C. EBDANE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DORIS D. LADINES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Cabangan",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2203",
+      "punong_bayan": "RONALDO F. APOSTOL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEO F. BRINGAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Candelaria",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2212",
+      "punong_bayan": "BYRON JONES E. EDQUILANG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GILBERT A. HERMOSO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Castillejos",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2208",
+      "punong_bayan": "JEFFREY D. KHONGHUN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTIAN T. ESPOSO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Iba",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2201",
+      "punong_bayan": "IRENEA M. BINAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOAN D. BALLESTEROS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Masinloc",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2211",
+      "punong_bayan": "ARSENIA J. LIM",
+      "kontak_punong_bayan": "(047) 271-5289",
+      "pangalawang_punong_bayan": "PEDRO O. ENCISO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Olongapo",
+      "uri": "Lungsod",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2200",
+      "punong_bayan": "Rolen C. Paulino Jr.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Kaye Ann S. Legaspi",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Palauig",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2210",
+      "punong_bayan": "BILLY M. ACERON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTIAN DANIEL H. ACERON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "San Antonio",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2206",
+      "punong_bayan": "EDZEL L. LONZANIDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSEPH JONATHAN A. BACTAD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "San Felipe",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2204",
+      "punong_bayan": "REINHARD E. JERESANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARY ANN R. QUIBA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "San Marcelino",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2207",
+      "punong_bayan": "ELMER R. SORIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTOPHER R. GONGORA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "San Narciso",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2205",
+      "punong_bayan": "La Rainne Abad-Sarmiento",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Lance Ritual",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Santa Cruz",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2209",
+      "punong_bayan": "Consolacion M. Marty",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Miguel M. Maniago, Jr.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Subic",
+      "uri": "Bayan",
+      "lalawigan": "ZAMBALES PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2213",
+      "punong_bayan": "Jonathan John Khonghun",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Lauro B. Simbol",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zambales - Libreng download",
+    "description": "Direktoryo ng 14 lungsod at bayan sa lalawigan ng Zambales (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Zambales` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 14 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zambales | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zambales — 14 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 14 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

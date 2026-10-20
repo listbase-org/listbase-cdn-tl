@@ -1,0 +1,240 @@
+{
+  "id": "tl-palawan-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Palawan",
+  "title": "Mga Bayan ng Lalawigan ng Palawan",
+  "description": "Listahan ng 23 munisipalidad (bayan) sa lalawigan ng Palawan, MIMAROPA REGION, Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "175301000",
+      "name": "ABORLAN",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 35091,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175302000",
+      "name": "AGUTAYA",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 12545,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175303000",
+      "name": "ARACELI",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 14909,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "175304000",
+      "name": "BALABAC",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 40142,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "175305000",
+      "name": "BATARAZA",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 75468,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175306000",
+      "name": "BROOKE'S POINT",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 66374,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175307000",
+      "name": "BUSUANGA",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 22046,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "175308000",
+      "name": "CAGAYANCILLO",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 6285,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "175309000",
+      "name": "CORON",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 51803,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175322000",
+      "name": "CULION",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 20139,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "175310000",
+      "name": "CUYO",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 22360,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "175311000",
+      "name": "DUMARAN",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 23734,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "175312000",
+      "name": "EL NIDO (BACUIT)",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 41606,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175321000",
+      "name": "KALAYAAN",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 184,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175313000",
+      "name": "LINAPACAN",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 15668,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175314000",
+      "name": "MAGSAYSAY",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 12196,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175315000",
+      "name": "NARRA",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 73212,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175317000",
+      "name": "QUEZON",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 60980,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175323000",
+      "name": "RIZAL (MARCOS)",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 50096,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175318000",
+      "name": "ROXAS",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 65358,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175319000",
+      "name": "SAN VICENTE",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 31232,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175324000",
+      "name": "SOFRONIO ESPAÑOLA",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 32876,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "175320000",
+      "name": "TAYTAY",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 75165,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Palawan - Libreng download",
+    "description": "Listahan ng 23 munisipalidad (bayan) sa lalawigan ng Palawan, MIMAROPA REGION, Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 23 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Palawan | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Palawan — 23 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 23 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "id": "tl-ilocos-norte-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ilocos Norte",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ilocos Norte",
+  "description": "Direktoryo ng 22 lungsod at bayan sa lalawigan ng Ilocos Norte (Rehiyon ng Ilocos (Region I)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Ilocos Norte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Adams",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2922",
+      "punong_bayan": "HOMER M. DOMINGO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ERIC T. BAWINGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bacarra",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2916",
+      "punong_bayan": "NICOMEDES C. DELA CRUZ JR.",
+      "kontak_punong_bayan": "(077) 670-3100",
+      "pangalawang_punong_bayan": "DEREK B. VELASCO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Badoc",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2904",
+      "punong_bayan": "VIRGILIO M. CALAJATE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GLENND GEORGE G. CAJIGAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Bangui",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2920",
+      "punong_bayan": "DENTON LAWRENCE G. GARVIDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSEPH T. SALES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Banna",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2908",
+      "punong_bayan": "MARY CHRISLYN C. ABADILLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CARLITO A. ABADILLA II",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Batac",
+      "uri": "Lungsod",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "",
+      "punong_bayan": "MARK CHRISTIAN “MARKEE” R. CHUA",
+      "kontak_punong_bayan": "671-1725; 677-2877",
+      "pangalawang_punong_bayan": "ALBERT D. CHUA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Burgos",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2918",
+      "punong_bayan": "CRESCENTE N. GARCIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUSSELL JENALD N. GARCIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Carasi",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2911",
+      "punong_bayan": "ROBELLA G. GASPAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "WILSON T. BULIL-LIT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Currimao",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2903",
+      "punong_bayan": "EDWARD JENELL T. QUILALA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JUDITH B. QUILALA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Dingras",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2913",
+      "punong_bayan": "JOEMELLE ERNESTI S. GO SY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ERDIO E. VALENZUELA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Dumalneg",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2921",
+      "punong_bayan": "FRANCISCO R. ESPIRITU JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FRAINCESS KWYN G. ESPIRITU",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Marcos",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2907",
+      "punong_bayan": "ANTONIO V. MARIANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RHONEL ALLAN M. COLOMA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Nueva Era",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2909",
+      "punong_bayan": "ALDRIN R. GARVIDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CAROLINE A. GARVIDA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Pagudpud",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2919",
+      "punong_bayan": "RAFAEL RALPH L. BENEMERITO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MELVYN B. CALVAN II",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Paoay",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2902",
+      "punong_bayan": "SHIELLA A. GALANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEAH R. BUDUAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Pasuquin",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2917",
+      "punong_bayan": "ROBERT D. AGUINALDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HARRY KITT V. AGUINALDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Piddig",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2912",
+      "punong_bayan": "GEORGINA S. GUILLEN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDWIN E. SALAZAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Pinili",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2905",
+      "punong_bayan": "ROMMEL T. LABASAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MAYNARD FRANCIS R. BUMANGLAG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "San Nicolas",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2901",
+      "punong_bayan": "ED MAR VINCENT L. BONOAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NAPOLEON L. HERNANDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Sarrat",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2914",
+      "punong_bayan": "RALPH CONRAD F. MEDRANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REMIGIO B. MEDRANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Solsona",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2910",
+      "punong_bayan": "JOSEPH E. DE LARA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JONATHAN L. DE LARA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Vintar",
+      "uri": "Bayan",
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2915",
+      "punong_bayan": "RICHARD A. DEGALA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIBEL A. ALBANO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ilocos Norte - Libreng download",
+    "description": "Direktoryo ng 22 lungsod at bayan sa lalawigan ng Ilocos Norte (Rehiyon ng Ilocos (Region I)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Ilocos Norte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 22 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ilocos Norte | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ilocos Norte — 22 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 22 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

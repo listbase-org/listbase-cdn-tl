@@ -1,0 +1,208 @@
+{
+  "id": "tl-davao-de-oro-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao de Oro",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao de Oro",
+  "description": "Direktoryo ng 11 lungsod at bayan sa lalawigan ng Davao de Oro (Rehiyon ng Davao (Region XI)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Davao de Oro` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Compostela",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8803",
+      "punong_bayan": "LEVY S. EBDAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RICKY P. HECHANOVA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Laak",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8810",
+      "punong_bayan": "ANTONIO L. LIBUANGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARK ANTHONY S. LIBUANGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Mabini",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8807",
+      "punong_bayan": "EMERSON M. LUEGO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HALIMA B. MUÑOZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Maco",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8806",
+      "punong_bayan": "ARTHUR CARLOS VOLTAIRE R. RIMANDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALVERA VERONICA R. RIMANDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Maragusan",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8808",
+      "punong_bayan": "ANGELITO J. CABALQUINTO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CESAR C. COLINA SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Mawab",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8802",
+      "punong_bayan": "RUPERTO S. GONZAGA III",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUPRIO S. GONZAGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Monkayo",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8805",
+      "punong_bayan": "MANUEL E. ZAMORA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MANUEL B. BRILLANTES JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Montevista",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8801",
+      "punong_bayan": "CYREX L. BASALO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOEL C. LUNGTAD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Nabunturan",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8800",
+      "punong_bayan": "MYROCEL C. BALILI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RODEL G. BALILI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "New Bataan",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8804",
+      "punong_bayan": "GERALDFORD N. BALBIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LARIE B. PAGALAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Pantukan",
+      "uri": "Bayan",
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8809",
+      "punong_bayan": "LEONEL D. CENIZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CIRILA A. ENGBINO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao de Oro - Libreng download",
+    "description": "Direktoryo ng 11 lungsod at bayan sa lalawigan ng Davao de Oro (Rehiyon ng Davao (Region XI)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Davao de Oro` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 11 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao de Oro | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao de Oro — 11 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 11 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

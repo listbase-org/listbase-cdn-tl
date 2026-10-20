@@ -1,0 +1,264 @@
+{
+  "id": "tl-zamboanga-del-sur-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Zamboanga Del Sur",
+  "title": "Mga Bayan ng Lalawigan ng Zamboanga Del Sur",
+  "description": "Listahan ng 26 munisipalidad (bayan) sa lalawigan ng Zamboanga Del Sur, REGION IX (ZAMBOANGA PENINSULA), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "097302000",
+      "name": "AURORA",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 50755,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "097303000",
+      "name": "BAYOG",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 33591,
+      "income_classification": "3rd*"
+    },
+    {
+      "psgc_code": "097305000",
+      "name": "DIMATALING",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 30081,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097306000",
+      "name": "DINAS",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 35504,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097307000",
+      "name": "DUMALINAO",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 32013,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097308000",
+      "name": "DUMINGAG",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 47485,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "097343000",
+      "name": "GUIPOS",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 20729,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097337000",
+      "name": "JOSEFINA",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 11799,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "097311000",
+      "name": "KUMALARANG",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 28469,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "097312000",
+      "name": "LABANGAN",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 41790,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "097333000",
+      "name": "LAKEWOOD",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 20374,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097313000",
+      "name": "LAPUYAN",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 27264,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "097315000",
+      "name": "MAHAYAG",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 46516,
+      "income_classification": "3rd*"
+    },
+    {
+      "psgc_code": "097317000",
+      "name": "MARGOSATUBIG",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 37873,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "097318000",
+      "name": "MIDSALIP",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 32075,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "097319000",
+      "name": "MOLAVE",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 52006,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "097338000",
+      "name": "PITOGO",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 27057,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097323000",
+      "name": "RAMON MAGSAYSAY (LIARGO)",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 26606,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "097324000",
+      "name": "SAN MIGUEL",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 19205,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097325000",
+      "name": "SAN PABLO",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 26106,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "097340000",
+      "name": "SOMINOT (DON MARIANO MARCOS)",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 18537,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "097327000",
+      "name": "TABINA",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 25061,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097328000",
+      "name": "TAMBULIG",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 36160,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "097344000",
+      "name": "TIGBAO",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 20979,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "097330000",
+      "name": "TUKURAN",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 39820,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "097341000",
+      "name": "VINCENZO A. SAGUN",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 23759,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Zamboanga Del Sur - Libreng download",
+    "description": "Listahan ng 26 munisipalidad (bayan) sa lalawigan ng Zamboanga Del Sur, REGION IX (ZAMBOANGA PENINSULA), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 26 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Zamboanga Del Sur | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Zamboanga Del Sur — 26 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 26 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

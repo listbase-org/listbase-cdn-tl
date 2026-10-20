@@ -1,0 +1,88 @@
+{
+  "id": "tl-batangas-bangko",
+  "name": "Mga Bangko sa City of Batangas",
+  "title": "Mga Bangko sa City of Batangas",
+  "description": "Listahan ng 4 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Batangas (source city string: \"CITY OF BATANGAS\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "KARUPHM1",
+      "name": "BANGKO KABAYAN (A RURAL BANK) INC.",
+      "name_titlecase": "Bangko Kabayan (a Rural BANK) INC.",
+      "city": "CITY OF BATANGAS",
+      "city_titlecase": "City of Batangas",
+      "branch": ""
+    },
+    {
+      "swift_code": "CLRAPH21",
+      "name": "CLASSIC RURAL BANK, INC.",
+      "name_titlecase": "Classic Rural BANK, INC.",
+      "city": "CITY OF BATANGAS",
+      "city_titlecase": "City of Batangas",
+      "branch": ""
+    },
+    {
+      "swift_code": "LIRRPHM1",
+      "name": "LIMCOMA RURAL BANK INC.",
+      "name_titlecase": "Limcoma Rural BANK INC.",
+      "city": "CITY OF BATANGAS",
+      "city_titlecase": "City of Batangas",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUODPHM1",
+      "name": "MANOR BANK - A RURAL BANK CORP",
+      "name_titlecase": "Manor BANK - a Rural BANK CORP",
+      "city": "CITY OF BATANGAS",
+      "city_titlecase": "City of Batangas",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Batangas - Libreng download",
+    "description": "Listahan ng 4 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Batangas (source city string: \"CITY OF BATANGAS\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 4 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Batangas | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Batangas — 4 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 4 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

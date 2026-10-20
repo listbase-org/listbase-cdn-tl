@@ -1,0 +1,112 @@
+{
+  "id": "tl-apayao-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Apayao",
+  "title": "Mga Bayan ng Lalawigan ng Apayao",
+  "description": "Listahan ng 7 munisipalidad (bayan) sa lalawigan ng Apayao, CORDILLERA ADMINISTRATIVE REGION (CAR), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "148101000",
+      "name": "CALANASAN (BAYAG)",
+      "province": "APAYAO",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 12604,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "148102000",
+      "name": "CONNER",
+      "province": "APAYAO",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 26051,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "148103000",
+      "name": "FLORA",
+      "province": "APAYAO",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 17391,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "148104000",
+      "name": "KABUGAO (Capital)",
+      "province": "APAYAO",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 15537,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "148105000",
+      "name": "LUNA",
+      "province": "APAYAO",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 19063,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "148106000",
+      "name": "PUDTOL",
+      "province": "APAYAO",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 14925,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "148107000",
+      "name": "SANTA MARCELA",
+      "province": "APAYAO",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 13613,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Apayao - Libreng download",
+    "description": "Listahan ng 7 munisipalidad (bayan) sa lalawigan ng Apayao, CORDILLERA ADMINISTRATIVE REGION (CAR), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 7 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Apayao | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Apayao — 7 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 7 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

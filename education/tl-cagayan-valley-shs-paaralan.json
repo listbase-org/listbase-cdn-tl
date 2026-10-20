@@ -1,0 +1,4316 @@
+{
+  "id": "tl-cagayan-valley-shs-paaralan",
+  "name": "Mga Senior High School - Cagayan Valley (Region II)",
+  "title": "Mga Senior High School - Cagayan Valley (Region II)",
+  "description": "Mga Senior High School (SHS) sa Cagayan Valley (Region II) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (425 paaralan.)",
+  "category": "education",
+  "source": "https://github.com/nedpals/k12-shs-api",
+  "source_url": "https://github.com/nedpals/k12-shs-api",
+  "updated": "2026-04",
+  "record_count": 425,
+  "columns": [
+    {
+      "key": "school_id",
+      "label": "School Id",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "school_name",
+      "label": "School Name",
+      "type": "string"
+    },
+    {
+      "key": "programs",
+      "label": "Programs",
+      "type": "string"
+    },
+    {
+      "key": "tvl_specializations",
+      "label": "Tvl Specializations",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "school_id": "300418",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ABULUG",
+      "school_name": "Abulug NRVHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "300419",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ABULUG",
+      "school_name": "Abulug SOF",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "300421",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ALCALA",
+      "school_name": "Alcala Rural School",
+      "programs": "TVL",
+      "tvl_specializations": "Organic Agriculture (NC II), Pest Management (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "300422",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ALCALA",
+      "school_name": "Alcala Rural School - Baybayog Annex",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Cookery (NC II), Bread and Pastry Production (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "400521",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Solano",
+      "school_name": "Aldersgate College",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Housekeeping, Local Guiding Services, Tourism Promotion Services, Caregiving, Electrical Installation and Maintenance, Consumer Electronics Servicing, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "400459",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "San Mariano",
+      "school_name": "Alejandrino Family Learning Center",
+      "programs": "STEM, ABM, HUMSS, GAS, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Tailoring, Dressmaking, Housekeeping, Local Guiding Services, Tourism Promotion Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Fish Wharf Operation, Food Processing, Animal Production, Artificial Insemination (Large Ruminants), Artificial Insemination (Swine), Slaughtering Operations (Hog/Swine/Pig), Horticulture, Landscape Installation and Maintenance, Organic Agriculture, Pest Management, Consumer Electronics Servicing, Electrical Installation and Maintenance, Computer Programming, Medical Transcription, Animation"
+    },
+    {
+      "school_id": "500088",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "TUMAUINI",
+      "school_name": "Cumabao IS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "300518",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN AGUSTIN",
+      "school_name": "Dabubu HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500097",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "QUEZON",
+      "school_name": "Dagupan Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400404",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Alicia",
+      "school_name": "Dalton Academy",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306137",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN MARIANO",
+      "school_name": "Daragutan East NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300454",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "PAMPLONA",
+      "school_name": "David M. Puzon MNHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Beauty/ Nail Care (NC II),  Computer Hardware Servicing (NC II), Medical Transcription (NC II),  Wellness Massage (NC II), Beauty/ Nail Care (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "300615",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "ALFONSO CASTAÑEDA",
+      "school_name": "Alfonso Castañeda NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "306207",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "ALFONSO CASTAÑEDA",
+      "school_name": "Alfonso Castaneda NHS - Annex (Brgy. Abuyo)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300521",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CABAGAN",
+      "school_name": "Alfreda Albano NHS - Magassi, Cabagan",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Animation (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "300593",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN MARIANO",
+      "school_name": "Alibadbad NHS (San Mariano HS - Alibadabad Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500115",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "AGLIPAY",
+      "school_name": "Alicia Integrated School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "300500",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ALICIA",
+      "school_name": "Alicia National High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Automotive Servicing (NC I),  Computer Programming (NC IV), Computer Hardware Servicing (NC II),  Wellness Massage (NC II), Beauty/ Nail Care (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "300499",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ALICIA",
+      "school_name": "Alicia Vocational School",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Programming (NC IV), Animation (NC II),  Consumer Electronics Servicing (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "300423",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ALLACAPAN",
+      "school_name": "Alig Valley NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300522",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CABAGAN",
+      "school_name": "Delfin Albano HS - San Juan Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "300520",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CABAGAN",
+      "school_name": "Delfin Albano HS-Main",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II),  Plumbing (NC I), Plumbing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "300627",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "DIADI",
+      "school_name": "Diadi NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Consumer Electronics Servicing (NC II)"
+    },
+    {
+      "school_id": "300523",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CORDON",
+      "school_name": "Diadi Region HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300524",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "JONES",
+      "school_name": "Dibuluan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300657",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "DIFFUN",
+      "school_name": "Diffun HS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300526",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "DINAPIGUE",
+      "school_name": "Dinapigue NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300549",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "DIVILICAN",
+      "school_name": "Divilacan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400331",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Abulug",
+      "school_name": "Divine Word High School - Dana-ili Campus",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "400386",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Sanchez-Mira",
+      "school_name": "Divine Word High School - Sanchez Mira",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300528",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF SANTIAGO",
+      "school_name": "Divisoria High School",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300455",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "GATTARAN",
+      "school_name": "Don Mariano Marcos NHS",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "300529",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ECHAGUE",
+      "school_name": "Don Mariano Marcos NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Animation (NC II)"
+    },
+    {
+      "school_id": "300456",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "PEÑABLANCA",
+      "school_name": "Don Severino Pagalilauan National High School",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "342077",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "AURORA",
+      "school_name": "Dona Aurora Senior High School",
+      "programs": "STEM, HUMSS, TVL, Arts and Design",
+      "tvl_specializations": "Automotive Servicing (NC I),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Computer Programming (NC IV), Animation (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "300532",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CORDON",
+      "school_name": "Dona Josefa E. Marcos HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300533",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ECHAGUE",
+      "school_name": "DOÑA MAGDALENA H. GAFFUD HIGH SCHOOL",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400336",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Allacapan",
+      "school_name": "Allacapan Institute",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300424",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ALLACAPAN",
+      "school_name": "Allacapan VHS",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Carpentry (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II),  Refrigeration and Air-Conditioning- Packaged Air-Conditioning Unit [PACU]/ Commercial Refrigeration Equipment [CRE] Servicing (NC II),  Technical Drafting (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "500112",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "MADDELA",
+      "school_name": "Dumabato Integrated School",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "306206",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "DUPAX DEL NORTE",
+      "school_name": "DUPAX DEL NORTE NATIONAL HIGH SCHOOL-ANNEX",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "300635",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "DUPAX DEL NORTE",
+      "school_name": "Dupax del Norte NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "300628",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "DUPAX DEL SUR",
+      "school_name": "Dupax del Sur NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "404153",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "East Asia International Systems College",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Programming, Computer Hardware Servicing, Housekeeping"
+    },
+    {
+      "school_id": "306208",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KASIBU",
+      "school_name": "Eastern Nueva Vizcaya National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300612",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ECHAGUE",
+      "school_name": "Echague National High School",
+      "programs": "STEM, GAS, Arts and Design",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300458",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ENRILE",
+      "school_name": "Enrile Vocational High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "415538",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Ramon",
+      "school_name": "Alvarez-Ramales School Foundation, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400460",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "San Mateo",
+      "school_name": "Eveland Christian College. Inc.",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Housekeeping, Carpentry, Computer Programming"
+    },
+    {
+      "school_id": "417010",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "F. L. Vargas College",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Automotive Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Animation"
+    },
+    {
+      "school_id": "415024",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Abulug",
+      "school_name": "F.L. Vargas College",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Food and Beverage Services, Automotive Servicing, Electrical Installation and Maintenance, Consumer Electronics Servicing, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "300460",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "CAMALANIUGAN",
+      "school_name": "Felipe Tuzon Agr'l. School",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Slaughtering Operation (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "306109",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "TUMAUINI",
+      "school_name": "Fermeldy NHS (Tumauini NHS - Ferneldy Annex)",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "300461",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SOLANA",
+      "school_name": "Gadu NHS",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306424",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SOLANA",
+      "school_name": "Gadu NHS- Nangalisan Extension",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I)"
+    },
+    {
+      "school_id": "306001",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "IGUIG",
+      "school_name": "Gammad National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300537",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "GAMU",
+      "school_name": "Gamu Rural School-Main",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Ruminants (NC II),  Automotive Servicing (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "300629",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "DUPAX DEL SUR",
+      "school_name": "Ganao National HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300538",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "Gappal HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animal Production (NC II), Artificial Insemination- Swine (NC II)"
+    },
+    {
+      "school_id": "300462",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "GATTARAN",
+      "school_name": "Gattaran NTS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC II),  Consumer Electronics Servicing (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II),  Tailoring (NC II), Dressmaking (NC II),  Tile Setting (NC II), Masonry (NC II)"
+    },
+    {
+      "school_id": "500087",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "Gayong-Gayong IS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Cookery (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "300572",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "RAMON",
+      "school_name": "Gen. Emilio Aguinaldo NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "401777",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Santiago",
+      "school_name": "AMA Computer College-Santiago City",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Programming, Computer Hardware Servicing, Contact Center Services"
+    },
+    {
+      "school_id": "401785",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "AMA Computer College-Tuguegarao City",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing, Contact Center Services, Computer Programming, Animation"
+    },
+    {
+      "school_id": "500106",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "NAGTIPUNAN",
+      "school_name": "Giayan Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300483",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "GONZAGA",
+      "school_name": "Gonzaga National High School",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "300671",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUGUEGARAO CITY(Capital)",
+      "school_name": "Gosi HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Caregiving (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "300432",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BAGGAO",
+      "school_name": "Hacienda Intal NHS",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "401773",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Tumauini",
+      "school_name": "HG Baquiran College",
+      "programs": "TVL",
+      "tvl_specializations": "Housekeeping, Commercial Cooking, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "300539",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ECHAGUE",
+      "school_name": "Highway Region NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300617",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "AMBAGUIO",
+      "school_name": "Ambaguio NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "300464",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "RIZAL",
+      "school_name": "Illuru NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Cookery (NC II),  Tile Setting (NC II), Masonry (NC II)"
+    },
+    {
+      "school_id": "300541",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ECHAGUE",
+      "school_name": "Imelda Marcos HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400464",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Santiago",
+      "school_name": "Infant Jesus Montessori School, Inc.",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300425",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "AMULUNG",
+      "school_name": "Amulung NHS",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "306008",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "AMULUNG",
+      "school_name": "Amulung NHS - Baculud Ext.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306017",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "AMULUNG",
+      "school_name": "Amulung NHS - Dadda Ext.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300546",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "BENITO SOLIVEN",
+      "school_name": "Andabuen National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300426",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SOLANA",
+      "school_name": "Andarayan NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Cookery (NC II),  Consumer Electronics Servicing (NC II)"
+    },
+    {
+      "school_id": "407150",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "International School of Asia and the Pacific - Atulayan",
+      "programs": "GAS, HUMSS, ABM, STEM, TVL",
+      "tvl_specializations": "Carpentry, Masonry, Tile Setting, Plumbing, Shielded Metal Arc Welding, Bread and Pastry Production, Caregiving, Cookery, Food and Beverage Services, Housekeeping, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "415063",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Peñablanca",
+      "school_name": "International School of Asia and the Pacific-Cagayan",
+      "programs": "GAS, ABM, HUMSS, STEM, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Housekeeping, Caregiving, Cookery, Shielded Metal Arc Welding, Computer Programming"
+    },
+    {
+      "school_id": "300465",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "GONZAGA",
+      "school_name": "Ipil National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Housekeeping (NC II),  Computer Programming (NC IV), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "400355",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "Isabela College of Arts and Technology",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Front Office Services, Housekeeping, Bread and Pastry Production"
+    },
+    {
+      "school_id": "400422",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "Isabela Colleges Inc.",
+      "programs": "ABM, STEM, HUMSS, GAS, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Tailoring, Housekeeping, Local Guiding Services, Tourism Promotion Services, Attractions and Theme Parks with Ecotourism Operation with Ecotourism, Handicraft, Fish Wharf Operation, Food Processing, Animal Production, Artificial Insemination (Large Ruminants), Artificial Insemination (Swine), Slaughtering Operations (Hog/Swine/Pig), Horticulture, Landscaping Installation and Maintenance, Organic Agriculture, Pest Management, Consumer Electronics Servicing, Electrical Installation and Maintenance, Carpentry, Tile Setting, Computer Programming, Medical Transcription, Animation"
+    },
+    {
+      "school_id": "300542",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "Isabela National High School",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306149",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "Isabela School of Arts & Trades - Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Cookery (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "306105",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "Isabela School of Arts & Trades - Main",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Cookery (NC II), Dressmaking (NC II),  Dressmaking (NC II), Cookery (NC II),  Electrical Installation and Maintenance (NC II),  Housekeeping (NC II), Hairdressing (NC II), Beauty/ Nail Care (NC II),  Refrigeration and Air-Conditioning- Packaged Air-Conditioning Unit [PACU]/ Commercial Refrigeration Equipment [CRE] Servicing (NC II)"
+    },
+    {
+      "school_id": "300554",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "PALANAN",
+      "school_name": "Isabela SF",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Carpentry (NC II),  Food (Fish) Processing (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "342078",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "Isabela Sports Senior High School",
+      "programs": "Sports",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300466",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUAO",
+      "school_name": "Itawes Nat'l. Agr'l. & Tech'l. School",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Hairdressing (NC II), Wellness Massage (NC II), Beauty/ Nail Care (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I),  Slaughtering Operation (NC II), Animal Production (NC II)"
+    },
+    {
+      "school_id": "300468",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUAO",
+      "school_name": "Itawes Nat'l.l Agr'l. & Tech'l. School - Bagumbayan Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II),  Food and Beverage Services (NC II), Cookery (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "300467",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUAO",
+      "school_name": "Itawes National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Hairdressing (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300414",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Batanes",
+      "municipality": "ITBAYAT",
+      "school_name": "ITBAYAT NAT'L. AGRICULTURAL HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animal Production (NC II), Slaughtering Operation (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "500062",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Batanes",
+      "municipality": "UYUGAN",
+      "school_name": "ITBUD INTEGRAED SCHOOL",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300415",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Batanes",
+      "municipality": "IVANA",
+      "school_name": "IVANA NAT'L. HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400453",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Ramon",
+      "school_name": "JET Montessori of Ramon, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "417001",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "John Wesley College",
+      "programs": "STEM, ABM, GAS, Arts and Design",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300555",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "JONES",
+      "school_name": "Jones Rural School - Main",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Ruminants (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Organic Agriculture (NC II), Pest Management (NC II)"
+    },
+    {
+      "school_id": "300501",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ANGADANAN",
+      "school_name": "Angadanan HS",
+      "programs": "STEM, ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300630",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KASIBU",
+      "school_name": "Kakiduguen NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300631",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KASIBU",
+      "school_name": "Kasibu Nat'l. Agr'l. School",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animal Production (NC II), Slaughtering Operation (NC II),  Carpentry (NC II),  Food and Beverage Services (NC II), Cookery (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "300632",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KAYAPA",
+      "school_name": "Kayapa HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "407151",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "Khan's Maritime Academy of the Philippines",
+      "programs": "TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Commercial Cooking, Front Office Services"
+    },
+    {
+      "school_id": "401775",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Bambang",
+      "school_name": "King's College of the Philippines, Inc.",
+      "programs": "STEM, GAS, ABM, HUMSS, TVL",
+      "tvl_specializations": "Cookery, Housekeeping, Local Guiding Services, Bread and Pastry Production, Front Office Services, Food and Beverage Services, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Automotive Servicing (NC I), Automotive Servicing (NC II), Computer Hardware Servicing"
+    },
+    {
+      "school_id": "300634",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KASIBU",
+      "school_name": "Kongkong Valley NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "306114",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CABATUAN",
+      "school_name": "La Paz NHS (Cabatuan NHS - La Paz Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400410",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Aurora",
+      "school_name": "La Salette of Aurora, Inc.",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400416",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Cabatuan",
+      "school_name": "La Salette of Cabatuan",
+      "programs": "HUMSS, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400444",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Jones",
+      "school_name": "La Salette of Jones, Inc.",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400452",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Quezon",
+      "school_name": "La Salette of Quezon, Inc",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400454",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Ramon",
+      "school_name": "La Salette of Ramon, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400455",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Roxas",
+      "school_name": "La Salette of Roxas College, Inc.",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400462",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "San Mateo",
+      "school_name": "La Salette of San Mateo",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300469",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "LAL-LO",
+      "school_name": "LAL-LO NATIONAL HIGH SCHOOL",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Arts and Design",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Carpentry (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "306003",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "LAL-LO",
+      "school_name": "Lal-lo NHS - Cabayabasan Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "300556",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "TUMAUINI",
+      "school_name": "Lalauanan HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300551",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "TUMAUINI",
+      "school_name": "Lanna NHS (Isabela NHS - Lanna Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400377",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Lasam",
+      "school_name": "Lasam Academy Incorporated",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300472",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ENRILE",
+      "school_name": "Lemu NHS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300473",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ABULUG",
+      "school_name": "Libertad NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "300474",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BUGUEY",
+      "school_name": "Licerio Antiporda Sr. NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II),  Tourism Promotion Services (NC II), Local Guiding Services (NC II), Travel Services (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "306005",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BUGUEY",
+      "school_name": "Licerio Antiporda Sr. NHS - Sta. Isabel Ext.",
+      "programs": "TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II)"
+    },
+    {
+      "school_id": "300670",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUGUEGARAO CITY(Capital)",
+      "school_name": "Linao NHS",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "300475",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "LAL-LO",
+      "school_name": "Logac National High School",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Carpentry (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "415508",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Ramon",
+      "school_name": "Lord Reigns Christian Academy",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306013",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SANTA TERESITA",
+      "school_name": "Luga Nat'l High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306115",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CABATUAN",
+      "school_name": "Luis-Fe Gomez Diamantina NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300471",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "APARRI",
+      "school_name": "Aparri East National High School",
+      "programs": "ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300428",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "APARRI",
+      "school_name": "Aparri SAT",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "300470",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "APARRI",
+      "school_name": "Aparri West National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "306150",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "LUNA",
+      "school_name": "Luna General Comprehensive High School (formerly Luna NHS-Mambabanga Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300558",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "LUNA",
+      "school_name": "Luna NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Automotive Servicing (NC II),  Computer Programming (NC IV), Computer Hardware Servicing (NC II),  Cookery (NC II), Dressmaking (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "500080",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "Lupigue Integrated School",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I)"
+    },
+    {
+      "school_id": "400332",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Abulug",
+      "school_name": "Lyceum of Abulug",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400334",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Alcala",
+      "school_name": "Lyceum of Alcala, Inc.",
+      "programs": "GAS, STEM, TVL",
+      "tvl_specializations": "Technical Drafting, Computer Hardware Servicing, Driving"
+    },
+    {
+      "school_id": "400345",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Aparri",
+      "school_name": "Lyceum of Aparri",
+      "programs": "STEM, ABM, HUMSS, GAS, Arts and Design, TVL",
+      "tvl_specializations": "Caregiving, Food and Beverage Services, Housekeeping, Local Guiding Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Tourism Promotion Services, Horticulture, Organic Agriculture, Animal Production (Swine), Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Carpentry, Computer Hardware Servicing, Technical Drafting"
+    },
+    {
+      "school_id": "400360",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Camalaniugan",
+      "school_name": "Lyceum of Camalaniugan",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400357",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Calayan",
+      "school_name": "Lyceum of Camiguin",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400375",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Lal-lo",
+      "school_name": "Lyceum of Lal-lo",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400399",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuao",
+      "school_name": "Lyceum of Tuao",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Computer Programming"
+    },
+    {
+      "school_id": "300559",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "GAMU",
+      "school_name": "Mabini NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300560",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "MACONACON",
+      "school_name": "Maconacon NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300660",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "MADDELA",
+      "school_name": "Maddela CHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "416501",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "Maddela",
+      "school_name": "Maddela Marvelous Grace Christian School, Inc.",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300476",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ENRILE",
+      "school_name": "Magalalag National High School",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "306004",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "LAL-LO",
+      "school_name": "Magapit NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "400446",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Delfin Albano (Magsaysay)",
+      "school_name": "Magsaysay Memorial High School",
+      "programs": "ABM, STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300661",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "DIFFUN",
+      "school_name": "Magsaysay Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300416",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Batanes",
+      "municipality": "MAHATAO",
+      "school_name": "MAHATAO NAT'L. HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "401787",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "Maila Rosario College",
+      "programs": "TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Automotive Servicing, Electrical Installation and Maintenance, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "300636",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KASIBU",
+      "school_name": "Malabing Valley NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Tourism Promotion Services (NC II), Local Guiding Services (NC II), Travel Services (NC II), Attractions and Theme Parks (NC II)"
+    },
+    {
+      "school_id": "300513",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN MANUEL",
+      "school_name": "Malalinta NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300561",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "MALLIG",
+      "school_name": "Mallig NHS (formerly Mallig NHS - Main)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400448",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Mallig",
+      "school_name": "Mallig Plains College",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Cookery, Local Guiding Services, Bread and Pastry Production, Bartending, Computer Hardware Servicing, Technical Drafting, Illustration, Medical Transcription, Contact Center Services, Animation, Automotive Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "500078",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "Manaring Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300618",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "ARITAO",
+      "school_name": "Aritao HS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300633",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KAYAPA",
+      "school_name": "Martinez Cuyangan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300477",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ALLACAPAN",
+      "school_name": "Matucay National High School",
+      "programs": "STEM, ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306135",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ROXAS",
+      "school_name": "Matusalem National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300478",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "RIZAL",
+      "school_name": "Mauanan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "400423",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "Merry Sunshine Montessori School",
+      "programs": "ABM, Arts and Design, TVL",
+      "tvl_specializations": "Computer Programming, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "400418",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "Metropolitan Bible Baptist Learning Center, Inc.",
+      "programs": "Arts and Design, TVL",
+      "tvl_specializations": "Cookery, Bread and Pastry Production, Food and Beverage Services, Domestic Refrigeration and Air-Conditioning (DOMRAC) Servicing, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "415547",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Ilagan City (Capital)",
+      "school_name": "Miracle Light Christian Academy",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/Nail Care"
+    },
+    {
+      "school_id": "306111",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ROXAS",
+      "school_name": "Monico Rarama NHS (Munoz HS -San Pedro Extension)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300637",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "DUPAX DEL NORTE",
+      "school_name": "Munguia NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300562",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ROXAS",
+      "school_name": "Munoz HS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300638",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "BAGABAG",
+      "school_name": "Murong NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300439",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "LASAM",
+      "school_name": "Nabannagan National High School",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "300662",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "NAGTIPUNAN",
+      "school_name": "Nagtipunan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "300563",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "NAGUILIAN",
+      "school_name": "Naguillian National High School",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Bartending (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Computer Programming (NC IV), Animation (NC II)"
+    },
+    {
+      "school_id": "400387",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Sanchez-Mira",
+      "school_name": "Namuac Academy",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Hairdressing, Tailoring, Caregiving, Food and Beverage Services, Bread and Pastry Production, Horticulture, Landscape Installation and Maintenance, Electrical Installation and Maintenance, Carpentry, Plumbing, Tile Setting, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Computer Programming, Medical Transcription, Animation"
+    },
+    {
+      "school_id": "306425",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SANTO NIÑO (FAIRE)",
+      "school_name": "Namuccayan Integrated School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "400424",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "Nan Sing School of Cauayan City, Inc.",
+      "programs": "ABM, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300639",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KAYAPA",
+      "school_name": "Nansiakan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "500024",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KAYAPA",
+      "school_name": "Napo-Tuyak Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400406",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Alicia",
+      "school_name": "Northeast Luzon Adventist College",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Automotive Servicing, Consumer Electronics Servicing, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "400356",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Buguey",
+      "school_name": "Northeastern Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400470",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Santiago",
+      "school_name": "Northeastern College",
+      "programs": "GAS, ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Housekeeping, Local Guiding Services, Tourism Promotion Services, Computer Programming"
+    },
+    {
+      "school_id": "400353",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Ballesteros",
+      "school_name": "Northern Cagayan Colleges Foundation, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400476",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Santo Tomas",
+      "school_name": "Northern Isabela Academy, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400366",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Gattaran",
+      "school_name": "Northern Philippines Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "416003",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Bayombong (Capital)",
+      "school_name": "Nueva Vizcaya Bright Child School, Inc.",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300641",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "BAYOMBONG (Capital)",
+      "school_name": "Nueva Vizcaya Gen. CHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Arts and Design, Sports",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Commercial Cooking (NC III),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "400483",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Aritao",
+      "school_name": "Nueva Vizcaya Institute",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Tailoring, Caregiving, Food and Beverage Services, Bread and Pastry Production, Local Guiding Services, Tourism Promotion Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Animal Production, Artificial Insemination, Horticulture, Landscape Installation and Maintenance, Fish Wharf Operation, Slaughtering Operations (Hog/Swine/Pig), Automotive Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Carpentry, Plumbing, Tile Setting"
+    },
+    {
+      "school_id": "600014",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Bayombong (Capital)",
+      "school_name": "Nueva Vizcaya State University",
+      "programs": "ABM, STEM, HUMSS, GAS, Sports, TVL",
+      "tvl_specializations": "Agricultural Crops Production, Animal Production, Food Production, Animation, Computer Systems Servicing, Computer Programming, Contact Center Services, Illustration, Technical Drafting, Telecom OSP and Subscriber Line Installation (Copper Cable/POTS and DSL), Telecom OSP Installation (Fiber Optic Cable)"
+    },
+    {
+      "school_id": "600015",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Bambang",
+      "school_name": "Nueva Vizcaya State University",
+      "programs": "HUMSS, STEM, ABM, GAS, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Bartending, Beauty/Nail Care, Bread and Pastry Production, Cookery, Dressmaking, Food and Beverage Services, Front Office Services, Hairdressing,  Handicraft (Fashion Accessories, Paper Craft, Handicraft (Needlecraft), Housekeeping, Local Guiding Services, Automotive Servicing, Carpentry, Consumer Electronics Servicing, Electrical Installation and Maintenance, Masonry, Plumbing (NC I), Plumbing (NC II), Tile Setting, Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II), Animation, Computer Hardware Servicing, Computer Programming, Technical Drafting"
+    },
+    {
+      "school_id": "400536",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Villaverde",
+      "school_name": "Our Lady of Fatima School of Villaverde",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "407322",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Bayombong (Capital)",
+      "school_name": "Our Lady of Peace and Good Voyage Institute of Technology, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Bartending, Food and Beverage Services, Front Office Services, Commercial Cooking, Shielded Metal Arc Welding, Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "400383",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Piat",
+      "school_name": "Our Lady of Piat High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400364",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Enrile",
+      "school_name": "Our Lady of Snows Academy, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400426",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "Our Lady of the Pillar College-Cauayan City",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Bartending, Medical Transcription, Computer Hardware Servicing, Computer Programming, Technical Drafting"
+    },
+    {
+      "school_id": "415599",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "San Manuel",
+      "school_name": "Our Lady of the Pillar College-San Manuel",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Bartending, Medical Transcription, Computer Hardware Servicing, Computer Programming, Technical Drafting"
+    },
+    {
+      "school_id": "400339",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Amulung",
+      "school_name": "Our Lady of Victories Academy",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services"
+    },
+    {
+      "school_id": "300642",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "BAYOMBONG (Capital)",
+      "school_name": "PAIMA NATIONAL HIGH SCHOOL",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300564",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "PALANAN",
+      "school_name": "Palanan HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300565",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ALICIA",
+      "school_name": "Palayan Region HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400379",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Pamplona",
+      "school_name": "Pamplona Institute",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300479",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "PAMPLONA",
+      "school_name": "Pamplona National School of Fisheries",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Food (Fish) Processing (NC II),  Food and Beverage Services (NC II), Cookery (NC II), Bread and Pastry Production (NC II),  Organic Agriculture (NC II), Pest Management (NC II)"
+    },
+    {
+      "school_id": "300566",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ECHAGUE",
+      "school_name": "Pangal Sur HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300643",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "BAGABAG",
+      "school_name": "Paniki High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "401783",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Santiago",
+      "school_name": "Patria Sable Corpus College",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing, Automotive Servicing, Electrical Installation and Maintenance, Food and Beverage Services, Housekeeping, Cookery, Computer Hardware Servicing, Animation"
+    },
+    {
+      "school_id": "300480",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BUGUEY",
+      "school_name": "Pattao NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "306012",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BUGUEY",
+      "school_name": "Pattao NHS - Maddalero Ext.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300457",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "PEÑABLANCA",
+      "school_name": "Penablanca East NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "300445",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "PEÑABLANCA",
+      "school_name": "Penablanca National High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Bread and Pastry Production (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "400417",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Cabatuan",
+      "school_name": "Philippine Yuh Chiau School",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400384",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Piat",
+      "school_name": "Piat Academy",
+      "programs": "STEM, ABM, HUMSS, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Hairdressing, Caregiving, Tailoring, Housekeeping, Food and Beverage Services, Bread and Pastry Production, Local Guiding Services, Tourism Promotion Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Automotive Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Plumbing, Tile Setting, Carpentry, Computer Programming, Medical Transcription, Animation"
+    },
+    {
+      "school_id": "300481",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "PIAT",
+      "school_name": "Piat National HS",
+      "programs": "STEM, ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300663",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "AGLIPAY",
+      "school_name": "Pinaripad NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "300567",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "Pinoma NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "416026",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Bayombong (Capital)",
+      "school_name": "PLT College, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Beauty/Nail Care, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Bread and Pastry Production, Caregiving, Cookery, Dressmaking, Food and Beverage Services, Front Office Services, Hairdressing, Handicraft (Basketry, Macrame), Handicraft (Fashion Accessories, Paper Craft), Handicraft (Needlecraft), Handicraft (Woodcraft, Leathercraft), Housekeeping, Tailoring, Local Guiding Services, Tourism Promotion Services, Travel Services, Wellness Massage, Automotive Servicing, Carpentry, Consumer Electronics Servicing, Electrical Installation and Maintenance, Masonry, Plumbing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Shielded Metal Arc Welding, Tile Setting, Computer Hardware Servicing, Animation, Computer Programming, Contact Center Services, Illustration, Medical Transcription, Technical Drafting, Animal Production, Aquaculture, Artificial Insemination (Large Ruminants), Artificial Insemination (Swine), Agricultural Crops Production, Fish Wharf Operation, Food Processing, Horticulture, Landscape Installation and Maintenance, Organic Agriculture, Pest Management, Rice Machinery Operations, Slaughtering Operations (Hog/Swine/Pig)"
+    },
+    {
+      "school_id": "400362",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Claveria",
+      "school_name": "Academy of St. Joseph",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500064",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "CALAYAN",
+      "school_name": "Babuyan Claro Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400354",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Ballesteros",
+      "school_name": "Quezon Colleges of the North",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production, Animal Production, Horticulture, Landscape Installation and Maintenance, Fish Wharf Operation, Animal Production, Artificial Insemination (Large Ruminants), Artificial Insemination (Swine), Slaughtering Operations (Hog/Swine/Pig), Computer Programming, Hairdressing, Tailoring, Caregiving, Housekeeping, Food and Beverage Services, Bread and Pastry Production, Local Guiding Services, Tourism Promotion Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Automotive Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Carpentry, Plumbing, Tile Setting"
+    },
+    {
+      "school_id": "300568",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "QUEZON",
+      "school_name": "Quezon HS - Main",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Ruminants (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "300644",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "QUEZON",
+      "school_name": "Quezon NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "300664",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "CABARROGUIS (Capital)",
+      "school_name": "Quirino General HS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "300569",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "QUIRINO",
+      "school_name": "Quirino NHS - Main",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "600016",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "Diffun",
+      "school_name": "Quirino State University-Main Campus, Diffun",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Food and Beverage Services, Cookery, Commercial Cooking, Caregiving, Agricultural Crops Production, Animal Production, Horticulture, Animation, Medical Transcription, Technical Drafting"
+    },
+    {
+      "school_id": "500063",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Batanes",
+      "municipality": "ITBAYAT",
+      "school_name": "RAELE INTEGRATED SCHOOL",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300587",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "DELFIN ALBANO (MAGSAYSAY)",
+      "school_name": "Ragan Sur NHS (San Antonio HS - Ragan Sur Annex)",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300571",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "RAMON",
+      "school_name": "Ramon NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500021",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "Rang-ayan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300574",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "RAMON",
+      "school_name": "Raniag HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300482",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "GONZAGA",
+      "school_name": "Rebecca NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Organic Agriculture (NC II), Landscape Installation and Maintenance (NC II),  Tile Setting (NC II), Masonry (NC II)"
+    },
+    {
+      "school_id": "300610",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "TUMAUINI",
+      "school_name": "Regional Science High School for Region II",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300575",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "REINA MERCEDES",
+      "school_name": "Reina Mercedes Vocational and Industrial School",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Fashion Design (NC III),  Refrigeration and Air-Conditioning- Packaged Air-Conditioning Unit [PACU]/ Commercial Refrigeration Equipment [CRE] Servicing (NC II),  Technical Drafting (NC II), Illustration (NC II)"
+    },
+    {
+      "school_id": "306116",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "REINA MERCEDES",
+      "school_name": "Reina Mercedes Vocational High School",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "500022",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN GUILLERMO",
+      "school_name": "Rizal Integrated School, San Guillermo",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300578",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF SANTIAGO",
+      "school_name": "Rizal National High School",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "300576",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ALICIA",
+      "school_name": "Rizal Region NHS , Alicia, Isabela",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300619",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "BAGABAG",
+      "school_name": "Bagabag NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300579",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ROXAS",
+      "school_name": "Roxas NHS-Main",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Carpentry (NC II),  Computer Programming (NC IV), Animation (NC II)"
+    },
+    {
+      "school_id": "306204",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "QUEZON",
+      "school_name": "Runruno National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300417",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Batanes",
+      "municipality": "SABTANG",
+      "school_name": "SABTANG NAT'L. SCHOOL OF FISHERIES",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "300665",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "SAGUDAY",
+      "school_name": "Saguday NHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "400499",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Bambang",
+      "school_name": "Saint Catherine's School",
+      "programs": "STEM, HUMSS, GAS, Arts and Design, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "415501",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "Saint Clare College of Region 02, Inc.",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Caregiving, Technical Drafting, Computer Programming"
+    },
+    {
+      "school_id": "407483",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Santa Teresita",
+      "school_name": "Saint Francis Academy",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "407484",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Rizal",
+      "school_name": "Saint Francis Academy-Rizal",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "415008",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Iguig",
+      "school_name": "Saint James Academy of Iguig, Inc.",
+      "programs": "STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400491",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Bagabag",
+      "school_name": "Saint Jerome's Academy",
+      "programs": "STEM, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400509",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Diadi",
+      "school_name": "Saint Joseph School",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "400532",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Solano",
+      "school_name": "Saint Louis School of Solano",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Cookery, Commercial Cooking, Bread and Pastry Production, Electrical Installation and Maintenance, Technical Drafting"
+    },
+    {
+      "school_id": "400540",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "Cabarroguis (Capital)",
+      "school_name": "Saint Mark's School",
+      "programs": "HUMSS, GAS, TVL",
+      "tvl_specializations": "Technical Drafting"
+    },
+    {
+      "school_id": "400543",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "Diffun",
+      "school_name": "Saint Mary's Academy",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300429",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BAGGAO",
+      "school_name": "Baggao NAS",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animal Production (NC II), Slaughtering Operation (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "306002",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BAGGAO",
+      "school_name": "Baggao NAS - Sta. Margarita Annex",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "300430",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BAGGAO",
+      "school_name": "Baggao National School of Arts & Trades",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "300431",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BAGGAO",
+      "school_name": "Baggao NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "306020",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BAGGAO",
+      "school_name": "Baggao NHS - Agaman Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "400506",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Bayombong (Capital)",
+      "school_name": "Saint Mary's University",
+      "programs": "STEM, ABM, HUMSS, GAS, Sports, Arts and Design, TVL",
+      "tvl_specializations": "Tourism Promotion Services, Food and Beverage Services, Housekeeping, Caregiving, Computer Hardware Servicing, Animation, Computer Programming"
+    },
+    {
+      "school_id": "415516",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "San Mariano",
+      "school_name": "Saint Thomas Montessori De San Mariano, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400546",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "Maddela",
+      "school_name": "Saint Vincent School",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300645",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "BAMBANG",
+      "school_name": "Salinas High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300581",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN MATEO",
+      "school_name": "Salinungan NHS",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300484",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SOLANA",
+      "school_name": "Sampaguita NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300582",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN AGUSTIN",
+      "school_name": "San Agustin NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300511",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "BURGOS",
+      "school_name": "San Antonino NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300589",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "San Antonio National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "300583",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "San Antonio National Industrial Vocational High School",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Tailoring (NC II),  Bread and Pastry Production (NC II), Beauty/ Nail Care (NC II), Cookery (NC II),  Caregiving (NC II)"
+    },
+    {
+      "school_id": "300585",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "DELFIN ALBANO (MAGSAYSAY)",
+      "school_name": "San Antonio NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "300590",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN GUILLERMO",
+      "school_name": "San Guillermo Voc'l & Ind'l High Sch.",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "300591",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN ISIDRO",
+      "school_name": "San Isidro NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "400381",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Peñablanca",
+      "school_name": "San Jacinto Seminary",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306110",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "MALLIG",
+      "school_name": "San Jose NHS (formerly Mallig HS -San Jose Norte Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500018",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "San Lorenzo Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400378",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Lasam",
+      "school_name": "San Lorenzo Ruiz Educational Institute, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300592",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN MARIANO",
+      "school_name": "San Mariano HS - Main",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Animal Production (NC II),  Artificial Insemination- Ruminants (NC II),  Computer Programming (NC IV), Animation (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Masonry (NC II), Plumbing (NC II)"
+    },
+    {
+      "school_id": "500105",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "MADDELA",
+      "school_name": "San Martin Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300596",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN MATEO",
+      "school_name": "San Mateo Voc'l. & Industrial High School-Main",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC III),  Automotive Servicing (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Electronic Products Assembly and Servicing (NC II),  Fashion Design (NC III),  Organic Agriculture (NC II), Pest Management (NC II)"
+    },
+    {
+      "school_id": "500092",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "RAMON",
+      "school_name": "San Miguel IS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300597",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN PABLO",
+      "school_name": "San Pablo NHS (St. Paul Voc'l. & Ind'l. HS Annex)",
+      "programs": "STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300584",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "San Rafael National Vocational High School",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Beauty/ Nail Care (NC II), Hairdressing (NC II),  Carpentry (NC II),  Dressmaking (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "500081",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "RAMON",
+      "school_name": "San Sebastian Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400394",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Solana",
+      "school_name": "San Vicente Institute of Solana, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Beauty/Nail Care, Dressmaking, Tailoring, Cookery, Computer Hardware Servicing, Computer Programming, Animation"
+    },
+    {
+      "school_id": "300485",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SANCHEZ-MIRA",
+      "school_name": "Sanchez Mira NHS",
+      "programs": "ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300486",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SANCHEZ-MIRA",
+      "school_name": "Sanchez Mira SAT",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Consumer Electronics Servicing (NC II),  Dressmaking (NC II), Tailoring (NC II),  Food and Beverage Services (NC II), Cookery (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "300514",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN MANUEL",
+      "school_name": "Sandiat NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500100",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "NAGTIPUNAN",
+      "school_name": "Sangbay Integrated School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300649",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "SANTA FE",
+      "school_name": "Santa Fe National High School",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II),  Handicraft- Woodcraft, Leathercraft , Handicraft- Basketry, Macrame, Handicraft- Fashion Accessories, Paper Craft, Handicraft- Needlecraft"
+    },
+    {
+      "school_id": "300603",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SANTA MARIA",
+      "school_name": "Santa Maria High School",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "300599",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF SANTIAGO",
+      "school_name": "Santiago City National High School",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "325202",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF SANTIAGO",
+      "school_name": "Santiago City National High School-Sagana Extension",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "325201",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF SANTIAGO",
+      "school_name": "Santiago City National High School-Sinsayon Extension",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400473",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Santiago",
+      "school_name": "Santiago Cultural Institute",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500111",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "NAGTIPUNAN",
+      "school_name": "Scala Integrated School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "400407",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Alicia",
+      "school_name": "School of Our Lady of Atocha",
+      "programs": "ABM, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400477",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Tumauini",
+      "school_name": "School of Saint Matthias",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400450",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Naguilian",
+      "school_name": "School of St. Joseph (Naguilian, Isabela), Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400431",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Echague",
+      "school_name": "School of St. Joseph the Worker-Echague",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300600",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "JONES",
+      "school_name": "Sgt. Prospero Bello HS - Main",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "401776",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Bayombong (Capital)",
+      "school_name": "Sierra College",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Bartending, Commercial Cooking, Food and Beverage Services, Front Office Services, Housekeeping, Local Guiding Services, Consumer Electronics Servicing, Electrical Installation and Maintenance, Automotive Servicing, Driving, Computer Hardware Servicing, Animation, Technical Drafting"
+    },
+    {
+      "school_id": "306118",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "Sillawit National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "306132",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN PABLO",
+      "school_name": "Simanu National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500094",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ROXAS",
+      "school_name": "Simimbaan Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400830",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Santiago",
+      "school_name": "Sistech College of Santiago City, Inc.",
+      "programs": "GAS, ABM, HUMSS, TVL",
+      "tvl_specializations": "Computer Programming, Computer Hardware Servicing, Animation"
+    },
+    {
+      "school_id": "300487",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SOLANA",
+      "school_name": "Solana Fresh Water Fishery School",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Pest Management (NC II), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "300646",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "SOLANO",
+      "school_name": "Solano High School",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300434",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "BALLESTEROS",
+      "school_name": "Ballesteros NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Caregiving (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "300654",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "MADDELA",
+      "school_name": "Balligui HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "404176",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Aritao",
+      "school_name": "Southern Cagayan Valley School of Technology, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Programming, Electrical Installation and Maintenance, Consumer Electronics Servicing, Automotive Servicing, Housekeeping, Food and Beverage Services"
+    },
+    {
+      "school_id": "400458",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "San Guillermo",
+      "school_name": "Southern Isabela Academy, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400370",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Gonzaga",
+      "school_name": "St. Anthony's Academy - Gonzaga",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400391",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Santa Ana",
+      "school_name": "St. Anthony's College",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Local Guiding Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Tourism Promotion Services"
+    },
+    {
+      "school_id": "400368",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Gattaran",
+      "school_name": "St. Catherine's Academy",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400432",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Echague",
+      "school_name": "St. Dominic Human Development Center, Inc.",
+      "programs": "GAS, ABM, HUMSS, STEM, TVL",
+      "tvl_specializations": "Housekeeping, Hairdressing, Tailoring, Caregiving, Carpentry, Shielded Metal Arc Welding, Plumbing, Computer Programming"
+    },
+    {
+      "school_id": "400414",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Cabagan",
+      "school_name": "St. Ferdinand College, Inc. - Cabagan",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "400440",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Ilagan City (Capital)",
+      "school_name": "St. Ferdinand College, Inc. - Ilagan Campus",
+      "programs": "ABM, STEM, HUMSS, GAS, Sports, TVL",
+      "tvl_specializations": "Housekeeping, Commercial Cooking, Food and Beverage Services, Front Office Services, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "400429",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Cordon",
+      "school_name": "St. John Berchmans High School Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300620",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "BAMBANG",
+      "school_name": "Bambang NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "400350",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Baggao",
+      "school_name": "St. Joseph's College of Baggao, Inc.",
+      "programs": "STEM, HUMSS, GAS, Arts and Design, TVL",
+      "tvl_specializations": "Beauty/Nail Care, Carpentry, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "400349",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Aparri",
+      "school_name": "St. Paul School of Aparri",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400562",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "St. Paul University Philippines",
+      "programs": "ABM, STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300601",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN PABLO",
+      "school_name": "St. Paul Voc'l. & Ind'l. HS-Main",
+      "programs": "TVL",
+      "tvl_specializations": "Animation (NC II),  Technical Drafting (NC II),  Consumer Electronics Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Plumbing (NC II), Tile Setting (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "400335",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Alcala",
+      "school_name": "St. Philomene of Alcala, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400484",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Aritao",
+      "school_name": "St. Teresita's Academy of Aritao, Inc.",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Commercial Cooking, Electrical Installation and Maintenance, Technical Drafting"
+    },
+    {
+      "school_id": "300488",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SANTA ANA",
+      "school_name": "Sta. Ana Fishery National High School",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Carpentry (NC II),  Food (Fish) Processing (NC II),  Organic Agriculture (NC II), Pest Management (NC II)"
+    },
+    {
+      "school_id": "300647",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "ARITAO",
+      "school_name": "Sta. Clara HS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "300648",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KAYAPA",
+      "school_name": "Sta. Cruz Pingkian HS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "300602",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ILAGAN (Capital)",
+      "school_name": "Sta. Isabel NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Caregiving (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "300489",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SANTA PRAXEDES",
+      "school_name": "Sta. Praxedes HS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Handicraft- Needlecraft, Handicraft- Basketry, Macrame, Handicraft- Fashion Accessories, Paper Craft, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "300490",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SANTA TERESITA",
+      "school_name": "Sta. Teresita NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "401768",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "STI - Cauayan",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Housekeeping, Front Office Services, Bartending, Travel Services, Cookery, Commercial Cooking, Local Guiding Services, Computer Programming, Computer Hardware Servicing, Contact Center Services, Broadband Installation (Fixed Wireless Systems)"
+    },
+    {
+      "school_id": "401784",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Santiago",
+      "school_name": "STI College - Santiago",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Tourism Promotion Services, Housekeeping, Bartending, Travel Services, Front Office Services, Cookery, Commercial Cooking, Bread and Pastry Production, Local Guiding Services, Computer Programming, Computer Hardware Servicing, Broadband Installation (Fixed Wireless Systems)"
+    },
+    {
+      "school_id": "401790",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "STI College - Tuguegarao",
+      "programs": "ABM, STEM, GAS, TVL",
+      "tvl_specializations": "Computer Programming, Computer Hardware Servicing, Broadband Installation (Fixed Wireless Systems)"
+    },
+    {
+      "school_id": "401771",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Ilagan City (Capital)",
+      "school_name": "STI Ilagan",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Bartending, Travel Services, Front Office Services, Housekeeping, Cookery, Commercial Cooking, Local Guiding Services, Computer Programming, Computer Hardware Servicing, Contact Center Services, Broadband Installation (Fixed Wireless Systems)"
+    },
+    {
+      "school_id": "300606",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SANTO TOMAS",
+      "school_name": "Sto Tomas NHS",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Carpentry (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "500082",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "QUIRINO",
+      "school_name": "Sto. Domingo IS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500023",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ANGADANAN",
+      "school_name": "Sto. Niño Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300491",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SANTO NIÑO (FAIRE)",
+      "school_name": "Sto. Nino NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "306112",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "QUEZON",
+      "school_name": "BARUCBOC NATIONAL HIGH SCHOOL",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Animation (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "400389",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Sanchez-Mira",
+      "school_name": "Thoburn Memorial Academy",
+      "programs": "TVL",
+      "tvl_specializations": "Hairdressing, Bread and Pastry Production, Caregiving, Organic Agriculture, Carpentry, Plumbing, Masonry, Electrical Installation and Maintenance, Driving, Computer Hardware Servicing, Animation"
+    },
+    {
+      "school_id": "415590",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Alicia",
+      "school_name": "Top Achievers Private School, Inc.",
+      "programs": "HUMSS, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300650",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "BAGABAG",
+      "school_name": "Tuao HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300492",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUAO",
+      "school_name": "Tuao Voc'l. and Tech'l. School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "300493",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUAO",
+      "school_name": "Tuao Voc'l. and Tech'l. School - Culung Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "306019",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUAO",
+      "school_name": "Tuao Voc'l. and Tech'l. School - Malummin Annex",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Cookery (NC II), Bread and Pastry Production (NC II),  Housekeeping (NC II), Hairdressing (NC II), Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "300494",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUAO",
+      "school_name": "Tuao Voc'l. and Tech'l. School - Pata Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300666",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "CABARROGUIS (Capital)",
+      "school_name": "Tucod HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306401",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUGUEGARAO CITY(Capital)",
+      "school_name": "Tuguegarao City Science High School",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300609",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "TUMAUINI",
+      "school_name": "Tumauini NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "300651",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "SOLANO",
+      "school_name": "Uddiawan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "300595",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN MARIANO",
+      "school_name": "Ueg NHS (San Mariano HS - Ueg Extension)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300611",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ECHAGUE",
+      "school_name": "Ugad HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "300621",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "SOLANO",
+      "school_name": "Bascaran NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "400548",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "University of Cagayan Valley",
+      "programs": "ABM, STEM, HUMSS, GAS, Sports, TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Automotive Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Computer Programming"
+    },
+    {
+      "school_id": "400475",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Santiago",
+      "school_name": "University of La Salette, Inc.",
+      "programs": "ABM, STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "415527",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "University of Perpetual Help System Laguna-JONELTA",
+      "programs": "ABM, STEM, HUMSS, GAS, Arts and Design, TVL",
+      "tvl_specializations": "Caregiving, Wellness Massage, Food and Beverage Services, Events Management Services, Bartending, Travel Services, Tourism Promotion Services, Local Guiding Services, Front Office Services, Consumer Electronics Servicing, Machining, Electrical Installation and Maintenance, Contact Center Services, Animation"
+    },
+    {
+      "school_id": "400561",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "University of Saint Louis",
+      "programs": "ABM, STEM, HUMSS, GAS, Arts and Design, Sports",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500009",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ALLACAPAN",
+      "school_name": "Utan IS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400361",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Santo Niño (Faire)",
+      "school_name": "Veridiano Academy Foundation",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Dressmaking"
+    },
+    {
+      "school_id": "300463",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "IGUIG",
+      "school_name": "Vicente D. Trinidad High School",
+      "programs": "STEM, ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306421",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "IGUIG",
+      "school_name": "Vicente D. Trinidad NHS - Sta. Rosa Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300653",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "AGLIPAY",
+      "school_name": "Victoria HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "500068",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "QUIRINO",
+      "school_name": "Villa Cacho Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300613",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "Villa Concepcion HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II),  Automotive Servicing (NC I),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "323903",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "Villa Concepcion HS - Rogus Ext.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300614",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "Villaluna NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II)"
+    },
+    {
+      "school_id": "300413",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Batanes",
+      "municipality": "UYUGAN",
+      "school_name": "BATANES GEN. COMP. HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300411",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Batanes",
+      "municipality": "BASCO (Capital)",
+      "school_name": "BATANES NAT'L. SCIENCE HS",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306107",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "West Tabacal Region National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "300497",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "LASAM",
+      "school_name": "Western Cagayan SAT",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "300459",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ENRILE",
+      "school_name": "Western Enrile Vocational High School",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "500073",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CORDON",
+      "school_name": "Wigan Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "415534",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Quirino",
+      "school_name": "Wonderful Grace Learning Center",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Computer Programming, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "300435",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "GONZAGA",
+      "school_name": "Baua HS",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "306423",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "GONZAGA",
+      "school_name": "Baua HS- Cabiraoan Annex",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "306009",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "AMULUNG",
+      "school_name": "Bayabat NHS - La Suerte Ext.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300622",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "DUPAX DEL NORTE",
+      "school_name": "Belance HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "300503",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "BENITO SOLIVEN",
+      "school_name": "Benito Soliven NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300436",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "PAMPLONA",
+      "school_name": "Bidduang National High School",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500077",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "MALLIG",
+      "school_name": "Bimonton Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500096",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "KAYAPA",
+      "school_name": "Binalian Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "415509",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Tumauini",
+      "school_name": "Advance Montessori Education Center of Isabela",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300623",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "VILLAVERDE",
+      "school_name": "Bintawan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "306202",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "BAYOMBONG (Capital)",
+      "school_name": "Bonfal National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "300605",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SANTA MARIA",
+      "school_name": "Buenaventura G. Masigan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Computer Hardware Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Beauty/ Nail Care (NC II)"
+    },
+    {
+      "school_id": "300624",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "DUPAX DEL NORTE",
+      "school_name": "Bugkalot NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300437",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "APARRI",
+      "school_name": "Bukig National Agr'l. and Tech. School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Slaughtering Operation (NC II), Animal Production (NC II)"
+    },
+    {
+      "school_id": "300420",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "ALCALA",
+      "school_name": "Afusing NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "300652",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "AGLIPAY",
+      "school_name": "Aglipay NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "300656",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Quirino",
+      "municipality": "CABARROGUIS (Capital)",
+      "school_name": "Cabarroguis NSAT",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Dressmaking (NC II), Tailoring (NC II),  Food (Fish) Processing (NC II),  Masonry (NC II), Plumbing (NC II),  Refrigeration and Air-Conditioning- Packaged Air-Conditioning Unit [PACU]/ Commercial Refrigeration Equipment [CRE] Servicing (NC II),  Travel Services (NC II), Local Guiding Services (NC II), Tourism Promotion Services (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "306157",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "NAGUILIAN",
+      "school_name": "Cabaruan Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300438",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "LASAM",
+      "school_name": "Cabatacan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "300504",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CABATUAN",
+      "school_name": "Cabatuan NHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "300446",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "PEÑABLANCA",
+      "school_name": "Cabbo NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "300505",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF SANTIAGO",
+      "school_name": "Cabulay High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300506",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "ANGADANAN",
+      "school_name": "Cadaloria HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306143",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CORDON",
+      "school_name": "Cagasat HS-Magsasay Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300508",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CORDON",
+      "school_name": "CAGASAT NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "407148",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "Cagayan Metropolitan Institute of Technology, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing, Electronic Products Assembly and Servicing, Housekeeping, Front Office Services, Travel Services, Bartending"
+    },
+    {
+      "school_id": "300668",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUGUEGARAO CITY(Capital)",
+      "school_name": "Cagayan NHS",
+      "programs": "STEM, GAS, TVL, Sports",
+      "tvl_specializations": "Automotive Servicing (NC I),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Consumer Electronics Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II),  Refrigeration and Air-Conditioning- Packaged Air-Conditioning Unit [PACU]/ Commercial Refrigeration Equipment [CRE] Servicing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "401782",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Santiago",
+      "school_name": "Cagayan Valley Computer & Information Technology College (CVCITC)",
+      "programs": "ABM, STEM, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Bread and Pastry Production, Food and Beverage Services, Bartending, Cookery, Computer Hardware Servicing, Contact Center Services"
+    },
+    {
+      "school_id": "400344",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Aparri",
+      "school_name": "Cagayan Valley Institute",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306101",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SANTO TOMAS",
+      "school_name": "Calanigan NHS (Sto. Tomas Annex)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Animation (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "306422",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "GATTARAN",
+      "school_name": "Calaoagan Dackel National High School-Capissayan Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "300440",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "GATTARAN",
+      "school_name": "Calaoagan Dackel NHS",
+      "programs": "STEM, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300441",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "CALAYAN",
+      "school_name": "Calayan HS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "300509",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "BURGOS",
+      "school_name": "Caliguian NHS-Main",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Commercial Cooking (NC III)"
+    },
+    {
+      "school_id": "300512",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "SAN MANUEL",
+      "school_name": "Callang NHS - Main",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Tile Setting (NC II), Plumbing (NC II),  Wellness Massage (NC II), Beauty/ Nail Care (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "300444",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "CAMALANIUGAN",
+      "school_name": "Camalaniugan NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Masonry (NC II), Plumbing (NC I),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "400515",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "Dupax del Norte",
+      "school_name": "Camella SNV School",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "306205",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "SANTA FE",
+      "school_name": "Canabuan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300625",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "DUPAX DEL SUR",
+      "school_name": "Carolotan High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400435",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Ilagan City (Capital)",
+      "school_name": "Casa Del Niño Montessori School of Ilagan",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "415553",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Roxas",
+      "school_name": "Casa Del Niño Montessori School of Roxas",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300447",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "SANTA ANA",
+      "school_name": "Casambalangan NHS",
+      "programs": "STEM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300626",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "BAYOMBONG (Capital)",
+      "school_name": "Casat NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300616",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Nueva Vizcaya",
+      "municipality": "ALFONSO CASTAÑEDA",
+      "school_name": "Casecnan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300669",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "TUGUEGARAO CITY(Capital)",
+      "school_name": "Cataggaman National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "300516",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "Cauayan City NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Arts and Design",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Caregiving (NC II),  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Food (Fish) Processing (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "323902",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "Cauayan City NHS - Cabaruan Ext.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Slaughtering Operation (NC II), Animal Production (NC II)"
+    },
+    {
+      "school_id": "323901",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "CITY OF CAUAYAN",
+      "school_name": "Cauayan City NHS - Research Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Caregiving (NC II)"
+    },
+    {
+      "school_id": "400436",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Ilagan City (Capital)",
+      "school_name": "Central Isabela Christian Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400420",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "Centro De Cultura",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "415533",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Santiago",
+      "school_name": "Children First School",
+      "programs": "ABM, STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "415528",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "Children of Lourdes Academy-Cauayan Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Hairdressing, Tailoring, Caregiving, Food and Beverage Services, Cookery, Bread and Pastry Production, Tourism Promotion Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Animal Production, Aquaculture, Agricultural Crops Production, Food Processing, Carpentry, Masonry, Tile Setting, Shielded Metal Arc Welding, Animation, Medical Transcription, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "400443",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "Jones",
+      "school_name": "Children's Learning and Development Center Foundation, Incorporation",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Cookery"
+    },
+    {
+      "school_id": "404185",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "Tuguegarao City (Capital)",
+      "school_name": "City Technological Institute",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing, Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "300450",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "CLAVERIA",
+      "school_name": "Claveria RVS",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Horticulture (NC II),  Slaughtering Operation (NC II), Animal Production (NC II)"
+    },
+    {
+      "school_id": "300451",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "CLAVERIA",
+      "school_name": "Claveria SAT",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Hairdressing (NC II)"
+    },
+    {
+      "school_id": "404150",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Isabela",
+      "municipality": "City of Cauayan",
+      "school_name": "College of Business Education Science and Technology, Inc",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Computer Programming, Front Office Services, Housekeeping"
+    },
+    {
+      "school_id": "306010",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "AMULUNG",
+      "school_name": "Cordova National High School Extension Classes",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "300452",
+      "region": "Region II",
+      "region_name": "Cagayan Valley (Region II)",
+      "province": "Cagayan",
+      "municipality": "AMULUNG",
+      "school_name": "Cordova NHS",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Horticulture (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    }
+  ],
+  "meta": {
+    "title": "Mga Senior High School - Cagayan Valley (Region II) - Libreng download",
+    "description": "Mga Senior High School (SHS) sa Cagayan Valley (Region II) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (425 paaralan.) Naglalaman ng 425 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Senior High School - Cagayan Valley (Region II) | ListBase",
+    "seo_description": "I-download Mga Senior High School - Cagayan Valley (Region II) — 425 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 425 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/nedpals/k12-shs-api"
+    ]
+  }
+}

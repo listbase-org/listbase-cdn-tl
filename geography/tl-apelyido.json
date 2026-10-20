@@ -1,0 +1,401 @@
+{
+  "id": "tl-apelyido",
+  "name": "Mga Sikat na Apelyido sa Pilipinas (Popular Filipino Surnames)",
+  "title": "Mga Sikat na Apelyido sa Pilipinas (Popular Filipino Surnames)",
+  "description": "Pinakaginagamit na apelyido sa Pilipinas; isama ang bilang ng mga indibidwal na may apelyido (kapag may datos), batay sa Forebears global frequency dataset.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "PH-1",
+      "rank": 1,
+      "localized": "",
+      "romanized": "dela Cruz",
+      "count": 625640
+    },
+    {
+      "name_group": "PH-2",
+      "rank": 2,
+      "localized": "",
+      "romanized": "Garcia",
+      "count": 441075
+    },
+    {
+      "name_group": "PH-3",
+      "rank": 3,
+      "localized": "",
+      "romanized": "Reyes",
+      "count": 412750
+    },
+    {
+      "name_group": "PH-4",
+      "rank": 4,
+      "localized": "",
+      "romanized": "Ramos",
+      "count": 375999
+    },
+    {
+      "name_group": "PH-5",
+      "rank": 5,
+      "localized": "",
+      "romanized": "Mendoza",
+      "count": 372042
+    },
+    {
+      "name_group": "PH-6",
+      "rank": 6,
+      "localized": "",
+      "romanized": "Santos",
+      "count": 342746
+    },
+    {
+      "name_group": "PH-7",
+      "rank": 7,
+      "localized": "",
+      "romanized": "Flores",
+      "count": 312187
+    },
+    {
+      "name_group": "PH-8",
+      "rank": 8,
+      "localized": "",
+      "romanized": "Gonzales",
+      "count": 293787
+    },
+    {
+      "name_group": "PH-9",
+      "rank": 9,
+      "localized": "",
+      "romanized": "Bautista",
+      "count": 287625
+    },
+    {
+      "name_group": "PH-10",
+      "rank": 10,
+      "localized": "",
+      "romanized": "Villanueva",
+      "count": 277730
+    },
+    {
+      "name_group": "PH-11",
+      "rank": 11,
+      "localized": "",
+      "romanized": "Fernandez",
+      "count": 269820
+    },
+    {
+      "name_group": "PH-12",
+      "rank": 12,
+      "localized": "",
+      "romanized": "Cruz",
+      "count": 262822
+    },
+    {
+      "name_group": "PH-13",
+      "rank": 13,
+      "localized": "",
+      "romanized": "de Guzman",
+      "count": 249319
+    },
+    {
+      "name_group": "PH-14",
+      "rank": 14,
+      "localized": "",
+      "romanized": "Lopez",
+      "count": 230958
+    },
+    {
+      "name_group": "PH-15",
+      "rank": 15,
+      "localized": "",
+      "romanized": "Perez",
+      "count": 220113
+    },
+    {
+      "name_group": "PH-16",
+      "rank": 16,
+      "localized": "",
+      "romanized": "Castillo",
+      "count": 211405
+    },
+    {
+      "name_group": "PH-17",
+      "rank": 17,
+      "localized": "",
+      "romanized": "Francisco",
+      "count": 207840
+    },
+    {
+      "name_group": "PH-18",
+      "rank": 18,
+      "localized": "",
+      "romanized": "Rivera",
+      "count": 184543
+    },
+    {
+      "name_group": "PH-19",
+      "rank": 19,
+      "localized": "",
+      "romanized": "Aquino",
+      "count": 183088
+    },
+    {
+      "name_group": "PH-20",
+      "rank": 20,
+      "localized": "",
+      "romanized": "Castro",
+      "count": 173686
+    },
+    {
+      "name_group": "PH-21",
+      "rank": 21,
+      "localized": "",
+      "romanized": "Sanchez",
+      "count": 162886
+    },
+    {
+      "name_group": "PH-22",
+      "rank": 22,
+      "localized": "",
+      "romanized": "Torres",
+      "count": 162353
+    },
+    {
+      "name_group": "PH-23",
+      "rank": 23,
+      "localized": "",
+      "romanized": "de Leon",
+      "count": 156637
+    },
+    {
+      "name_group": "PH-24",
+      "rank": 24,
+      "localized": "",
+      "romanized": "Domingo",
+      "count": 147652
+    },
+    {
+      "name_group": "PH-25",
+      "rank": 25,
+      "localized": "",
+      "romanized": "Martinez",
+      "count": 143359
+    },
+    {
+      "name_group": "PH-26",
+      "rank": 26,
+      "localized": "",
+      "romanized": "Rodriguez",
+      "count": 143072
+    },
+    {
+      "name_group": "PH-27",
+      "rank": 27,
+      "localized": "",
+      "romanized": "Santiago",
+      "count": 140475
+    },
+    {
+      "name_group": "PH-28",
+      "rank": 28,
+      "localized": "",
+      "romanized": "Soriano",
+      "count": 140203
+    },
+    {
+      "name_group": "PH-29",
+      "rank": 29,
+      "localized": "",
+      "romanized": "delos Santos",
+      "count": 139229
+    },
+    {
+      "name_group": "PH-30",
+      "rank": 30,
+      "localized": "",
+      "romanized": "Diaz",
+      "count": 136449
+    },
+    {
+      "name_group": "PH-31",
+      "rank": 31,
+      "localized": "",
+      "romanized": "Hernandez",
+      "count": 135744
+    },
+    {
+      "name_group": "PH-32",
+      "rank": 32,
+      "localized": "",
+      "romanized": "Tolentino",
+      "count": 133010
+    },
+    {
+      "name_group": "PH-33",
+      "rank": 33,
+      "localized": "",
+      "romanized": "Valdez",
+      "count": 132416
+    },
+    {
+      "name_group": "PH-34",
+      "rank": 34,
+      "localized": "",
+      "romanized": "Ramirez",
+      "count": 131829
+    },
+    {
+      "name_group": "PH-35",
+      "rank": 35,
+      "localized": "",
+      "romanized": "Morales",
+      "count": 129957
+    },
+    {
+      "name_group": "PH-36",
+      "rank": 36,
+      "localized": "",
+      "romanized": "Mercado",
+      "count": 125314
+    },
+    {
+      "name_group": "PH-37",
+      "rank": 37,
+      "localized": "",
+      "romanized": "Tan",
+      "count": 123290
+    },
+    {
+      "name_group": "PH-38",
+      "rank": 38,
+      "localized": "",
+      "romanized": "Aguilar",
+      "count": 121635
+    },
+    {
+      "name_group": "PH-39",
+      "rank": 39,
+      "localized": "",
+      "romanized": "Navarro",
+      "count": 113992
+    },
+    {
+      "name_group": "PH-40",
+      "rank": 40,
+      "localized": "",
+      "romanized": "Manalo",
+      "count": 111336
+    },
+    {
+      "name_group": "PH-41",
+      "rank": 41,
+      "localized": "",
+      "romanized": "Gomez",
+      "count": 108844
+    },
+    {
+      "name_group": "PH-42",
+      "rank": 42,
+      "localized": "",
+      "romanized": "Dizon",
+      "count": 106507
+    },
+    {
+      "name_group": "PH-43",
+      "rank": 43,
+      "localized": "",
+      "romanized": "del Rosario",
+      "count": 105210
+    },
+    {
+      "name_group": "PH-44",
+      "rank": 44,
+      "localized": "",
+      "romanized": "Javier",
+      "count": 104515
+    },
+    {
+      "name_group": "PH-45",
+      "rank": 45,
+      "localized": "",
+      "romanized": "Corpuz",
+      "count": 104026
+    },
+    {
+      "name_group": "PH-46",
+      "rank": 46,
+      "localized": "",
+      "romanized": "Gutierrez",
+      "count": 103352
+    },
+    {
+      "name_group": "PH-47",
+      "rank": 47,
+      "localized": "",
+      "romanized": "Salvador",
+      "count": 103117
+    },
+    {
+      "name_group": "PH-48",
+      "rank": 48,
+      "localized": "",
+      "romanized": "Velasco",
+      "count": 101375
+    },
+    {
+      "name_group": "PH-49",
+      "rank": 49,
+      "localized": "",
+      "romanized": "Miranda",
+      "count": 101258
+    },
+    {
+      "name_group": "PH-50",
+      "rank": 50,
+      "localized": "",
+      "romanized": "David",
+      "count": 100641
+    }
+  ],
+  "meta": {
+    "title": "Mga Sikat na Apelyido sa Pilipinas (Popular Filipino Surnames) - Libreng download",
+    "description": "Pinakaginagamit na apelyido sa Pilipinas; isama ang bilang ng mga indibidwal na may apelyido (kapag may datos), batay sa Forebears global frequency dataset. Naglalaman ng 50 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Sikat na Apelyido sa Pilipinas (Popular Filipino Surnames) | ListBase",
+    "seo_description": "I-download Mga Sikat na Apelyido sa Pilipinas (Popular Filipino Surnames) — 50 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 50 talaan / 5 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "tl-caraga-simbahan",
+  "name": "Mga Simbahan - Caraga",
+  "title": "Mga Simbahan - Caraga",
+  "description": "Mga simbahan sa rehiyong Caraga, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Caraga, Philippines.)",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "denominasyon",
+      "label": "Denominasyon",
+      "type": "string"
+    },
+    {
+      "key": "taon_itinatag",
+      "label": "Taon Itinatag",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "bayan",
+      "label": "Bayan",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q134501987",
+      "name_tl": "Cathedral of St. Michael",
+      "name_en": "Cathedral of St. Michael",
+      "denominasyon": "Catholicism",
+      "taon_itinatag": "",
+      "rehiyon": "Caraga",
+      "lalawigan": "",
+      "bayan": "Prosperidad",
+      "latitude": 8.60406,
+      "longitude": 125.91394,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q105806358",
+      "name_tl": "Katedral ng Butuan",
+      "name_en": "Butuan Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Caraga",
+      "lalawigan": "",
+      "bayan": "Butuan",
+      "latitude": 8.947806,
+      "longitude": 125.542556,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q67864242",
+      "name_tl": "Katedral ng Surigao",
+      "name_en": "Surigao Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Caraga",
+      "lalawigan": "",
+      "bayan": "Surigao City",
+      "latitude": 9.789722,
+      "longitude": 125.49375,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q105806506",
+      "name_tl": "Katedral ng Tandag",
+      "name_en": "Tandag Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Caraga",
+      "lalawigan": "",
+      "bayan": "Tandag",
+      "latitude": 9.079361,
+      "longitude": 126.197528,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q130655561",
+      "name_tl": "Saint Michael the Archangel Parish Church",
+      "name_en": "Saint Michael the Archangel Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Caraga",
+      "lalawigan": "",
+      "bayan": "Nasipit",
+      "latitude": 8.988458,
+      "longitude": 125.340486,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q137858645",
+      "name_tl": "Simbahan ng Del Carmen",
+      "name_en": "Del Carmen Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Caraga",
+      "lalawigan": "",
+      "bayan": "Del Carmen",
+      "latitude": 9.8697,
+      "longitude": 125.9712,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Simbahan - Caraga - Libreng download",
+    "description": "Mga simbahan sa rehiyong Caraga, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Caraga, Philippines.) Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Simbahan - Caraga | ListBase",
+    "seo_description": "I-download Mga Simbahan - Caraga — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 12 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

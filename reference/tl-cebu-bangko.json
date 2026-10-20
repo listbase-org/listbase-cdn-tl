@@ -1,0 +1,128 @@
+{
+  "id": "tl-cebu-bangko",
+  "name": "Mga Bangko sa City of Cebu",
+  "title": "Mga Bangko sa City of Cebu",
+  "description": "Listahan ng 9 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Cebu (source city string: \"CITY OF CEBU\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "ABTZPH21",
+      "name": "ABOITIZ EQUITY VENTURES INC.",
+      "name_titlecase": "Aboitiz Equity Ventures INC.",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "RURLPHM2",
+      "name": "BANKWAYS, INC. (A RURAL BANK)",
+      "name_titlecase": "Bankways, INC. (a Rural BANK)",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "CITIPHMXCBU",
+      "name": "CITIBANK,N.A., MANILA BRANCH",
+      "name_titlecase": "Citibank,n.a., Manila Branch",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "CIVAPHM1",
+      "name": "CITY SAVINGS BANK",
+      "name_titlecase": "City Savings BANK",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "PCBAPHM10MC",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": "CEBU BRANCH"
+    },
+    {
+      "swift_code": "TLBPPHM10MC",
+      "name": "LAND BANK OF THE PHILIPPINES",
+      "name_titlecase": "Land BANK of the Philippines",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "PRBPPH21",
+      "name": "PRIME MEDIA HOLDINGS, INC.",
+      "name_titlecase": "Prime Media Holdings, INC.",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "HSBCPHMMCEB",
+      "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "name_titlecase": "The Hongkong and Shanghai Banking Corporation LTD - Philippine Branch",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": "CEBU BRANCH"
+    },
+    {
+      "swift_code": "WEDVPHM1",
+      "name": "WEALTH DEVELOPMENT BANK",
+      "name_titlecase": "Wealth Development BANK",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Cebu - Libreng download",
+    "description": "Listahan ng 9 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Cebu (source city string: \"CITY OF CEBU\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 9 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Cebu | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Cebu — 9 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 9 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

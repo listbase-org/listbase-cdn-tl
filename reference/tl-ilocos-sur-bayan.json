@@ -1,0 +1,312 @@
+{
+  "id": "tl-ilocos-sur-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Ilocos Sur",
+  "title": "Mga Bayan ng Lalawigan ng Ilocos Sur",
+  "description": "Listahan ng 32 munisipalidad (bayan) sa lalawigan ng Ilocos Sur, REGION I (ILOCOS REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "012901000",
+      "name": "ALILEM",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 6695,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012902000",
+      "name": "BANAYOYO",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 7748,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012903000",
+      "name": "BANTAY",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 35731,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012904000",
+      "name": "BURGOS",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 12224,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012905000",
+      "name": "CABUGAO",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 37501,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "012907000",
+      "name": "CAOAYAN",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 19861,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012908000",
+      "name": "CERVANTES",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 17211,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012909000",
+      "name": "GALIMUYOD",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 10748,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012910000",
+      "name": "GREGORIO DEL PILAR (CONCEPCION)",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 4875,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012911000",
+      "name": "LIDLIDDA",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 4647,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012912000",
+      "name": "MAGSINGAL",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 30792,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012913000",
+      "name": "NAGBUKEL",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 5259,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012914000",
+      "name": "NARVACAN",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 44006,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "012915000",
+      "name": "QUIRINO (ANGKAKI)",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 8573,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012916000",
+      "name": "SALCEDO (BAUGEN)",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 11288,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012917000",
+      "name": "SAN EMILIO",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 7407,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012918000",
+      "name": "SAN ESTEBAN",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 8349,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012919000",
+      "name": "SAN ILDEFONSO",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 7787,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012920000",
+      "name": "SAN JUAN (LAPOG)",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 26411,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012921000",
+      "name": "SAN VICENTE",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 12758,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012922000",
+      "name": "SANTA",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 15340,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012923000",
+      "name": "SANTA CATALINA",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 13945,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012924000",
+      "name": "SANTA CRUZ",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 39868,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "012925000",
+      "name": "SANTA LUCIA",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 25402,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012926000",
+      "name": "SANTA MARIA",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 30321,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012927000",
+      "name": "SANTIAGO",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 18759,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012928000",
+      "name": "SANTO DOMINGO",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 27975,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012929000",
+      "name": "SIGAY",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 2737,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012930000",
+      "name": "SINAIT",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 25640,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "012931000",
+      "name": "SUGPON",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 4585,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "012932000",
+      "name": "SUYO",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 11446,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "012933000",
+      "name": "TAGUDIN",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 39277,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Ilocos Sur - Libreng download",
+    "description": "Listahan ng 32 munisipalidad (bayan) sa lalawigan ng Ilocos Sur, REGION I (ILOCOS REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 32 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Ilocos Sur | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Ilocos Sur — 32 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 32 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

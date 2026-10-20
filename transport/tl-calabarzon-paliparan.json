@@ -1,0 +1,181 @@
+{
+  "id": "tl-calabarzon-paliparan",
+  "name": "Mga Paliparan — Calabarzon",
+  "title": "Mga Paliparan — Calabarzon",
+  "description": "Mga paliparan at landing strip sa Calabarzon (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Calabarzon`. (Airports in Calabarzon (Region IV-A), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RP12",
+      "iata": "",
+      "name": "Pagbilao Grande Island Airport",
+      "city": "",
+      "subdivision": "Calabarzon",
+      "subdivision_native": "Calabarzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 13,
+      "latitude": 13.9002,
+      "longitude": 121.744,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPLJ",
+      "iata": "",
+      "name": "Jomalig Island Airport",
+      "city": "Jomalig",
+      "subdivision": "Calabarzon",
+      "subdivision_native": "Calabarzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 36,
+      "latitude": 14.704,
+      "longitude": 122.331,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPLS",
+      "iata": "SGL",
+      "name": "Sangley Point Air Base",
+      "city": "Cavite City",
+      "subdivision": "Calabarzon",
+      "subdivision_native": "Calabarzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 8,
+      "latitude": 14.4954,
+      "longitude": 120.904,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPLY",
+      "iata": "",
+      "name": "Alabat Island Airport",
+      "city": "Alabat Island",
+      "subdivision": "Calabarzon",
+      "subdivision_native": "Calabarzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 6,
+      "latitude": 14.232,
+      "longitude": 121.929,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUE",
+      "iata": "",
+      "name": "Lucena Airport",
+      "city": "Lucena",
+      "subdivision": "Calabarzon",
+      "subdivision_native": "Calabarzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 39,
+      "latitude": 13.929,
+      "longitude": 121.602,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUL",
+      "iata": "",
+      "name": "Fernando Air Base",
+      "city": "",
+      "subdivision": "Calabarzon",
+      "subdivision_native": "Calabarzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 1220,
+      "latitude": 13.955,
+      "longitude": 121.125,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — Calabarzon - Libreng download",
+    "description": "Mga paliparan at landing strip sa Calabarzon (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Calabarzon`. (Airports in Calabarzon (Region IV-A), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — Calabarzon | ListBase",
+    "seo_description": "I-download Mga Paliparan — Calabarzon — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

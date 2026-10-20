@@ -1,0 +1,172 @@
+{
+  "id": "tl-bilirian-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bilirian",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bilirian",
+  "description": "Direktoryo ng 8 lungsod at bayan sa lalawigan ng Bilirian (Silangang Visayas (Region VIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Bilirian` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Almeria",
+      "uri": "Bayan",
+      "lalawigan": "Bilirian",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6544",
+      "punong_bayan": "RICHARD D. JAGUROS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARYGIE E. TACOY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Biliran",
+      "uri": "Bayan",
+      "lalawigan": "Bilirian",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6549",
+      "punong_bayan": "MYRA A. CABRALES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BENEDICTO E. CORPIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Cabucgayan",
+      "uri": "Bayan",
+      "lalawigan": "Bilirian",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6550",
+      "punong_bayan": "GEMMA G. ADOBO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NAZARIO REY A. TALACAY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Caibiran",
+      "uri": "Bayan",
+      "lalawigan": "Bilirian",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6548",
+      "punong_bayan": "RHODESSA D. REVITA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LINDA V. BALEYOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Culaba",
+      "uri": "Bayan",
+      "lalawigan": "Bilirian",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6547",
+      "punong_bayan": "HUMPHREY B. OLIMBA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ENRICO B. UYVICO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Kawayan",
+      "uri": "Bayan",
+      "lalawigan": "Bilirian",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6545",
+      "punong_bayan": "MANOLO D. RUBI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAKE S. ESPINA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Maripipi",
+      "uri": "Bayan",
+      "lalawigan": "Bilirian",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6546",
+      "punong_bayan": "JOSEPH C. CAINGCOY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GETULIO A. CASIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Naval",
+      "uri": "Bayan",
+      "lalawigan": "Bilirian",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6543",
+      "punong_bayan": "GRETCHEN STEPHANIE M. ESPINA",
+      "kontak_punong_bayan": "(053) 500-0487",
+      "pangalawang_punong_bayan": "VICENTE V. CURSO JR.",
+      "kontak_pangalawang_punong_bayan": "(053) 500-3083"
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bilirian - Libreng download",
+    "description": "Direktoryo ng 8 lungsod at bayan sa lalawigan ng Bilirian (Silangang Visayas (Region VIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Bilirian` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 8 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bilirian | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bilirian — 8 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 8 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

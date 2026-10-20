@@ -1,0 +1,280 @@
+{
+  "id": "tl-surigao-del-sur-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Surigao del Sur",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Surigao del Sur",
+  "description": "Direktoryo ng 17 lungsod at bayan sa lalawigan ng Surigao del Sur (Caraga (Region XIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Surigao del Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Barobo",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8309",
+      "punong_bayan": "JOEY S. PAMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALLAN C. BERNAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bayabas",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8303",
+      "punong_bayan": "APOLONIO B. LOZADA",
+      "kontak_punong_bayan": "(086) 214-6109",
+      "pangalawang_punong_bayan": "MARIA CLARITA G. LIMBARO",
+      "kontak_pangalawang_punong_bayan": "(086) 852-0353"
+    },
+    {
+      "id": 3,
+      "lgu": "Cagwait",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8304",
+      "punong_bayan": "GLENN G. BATIANCILA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MELCHIE C. TUSCANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Cantilan",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8317",
+      "punong_bayan": "PHILIP A. PICHAY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RODRIGO L. ELEAZAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Carmen",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8315",
+      "punong_bayan": "JANE V. PLAZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HARVEY S. MANAWATAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Carrascal",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8318",
+      "punong_bayan": "VICENTE H. PIMENTEL III",
+      "kontak_punong_bayan": "(086) 212-8359",
+      "pangalawang_punong_bayan": "JESIE JAMES T. VALLE",
+      "kontak_pangalawang_punong_bayan": "(086) 212-8015"
+    },
+    {
+      "id": 7,
+      "lgu": "Cortes",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8313",
+      "punong_bayan": "JOSIE M. BONIFACIO",
+      "kontak_punong_bayan": "(086) 214-5021",
+      "pangalawang_punong_bayan": "CHERRY B. DARAMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Hinatuan",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8310",
+      "punong_bayan": "SHEM G. GARAY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "TITO A. CAÑEDO III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Lanuza",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8314",
+      "punong_bayan": "MARVIN T. AZARCON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHARLYN L. LITERATO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Lianga",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8307",
+      "punong_bayan": "NOVELITA M. SARMEN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DIORY C. LAMIGO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Lingig",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8312",
+      "punong_bayan": "ELMER P. EVANGELIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDGAR L. ACDOG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Madrid",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8316",
+      "punong_bayan": "JUAN PAOLO L. LOPEZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PHILIP Y. URQUIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Marihatag",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8306",
+      "punong_bayan": "JUSTIN MARC L. PELENIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOVITA S. UMAPAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "San Agustin",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8305",
+      "punong_bayan": "NICOLAS O. ALAMEDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALEX L. DE GUZMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "San Miguel",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8301",
+      "punong_bayan": "MICHAEL T. CORILLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REYNALDO F. DEMOTO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Tagbina",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8308",
+      "punong_bayan": "GLAIZA JANE P. LANETE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GENEROSO L. NARAISO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Tago",
+      "uri": "Bayan",
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8302",
+      "punong_bayan": "BETTY E. PIMENTEL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HENRICH M. PIMENTEL",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Surigao del Sur - Libreng download",
+    "description": "Direktoryo ng 17 lungsod at bayan sa lalawigan ng Surigao del Sur (Caraga (Region XIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Surigao del Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Surigao del Sur | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Surigao del Sur — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

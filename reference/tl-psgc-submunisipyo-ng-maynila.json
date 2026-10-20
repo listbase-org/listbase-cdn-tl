@@ -1,0 +1,168 @@
+{
+  "id": "tl-psgc-submunisipyo-ng-maynila",
+  "name": "Mga Sub-Munisipyo ng Lungsod ng Maynila (PSGC)",
+  "title": "Mga Sub-Munisipyo ng Lungsod ng Maynila (PSGC)",
+  "description": "Listahan ng 14 sub-munisipyo (submunicipalities) ng Lungsod ng Maynila mula sa Philippine Standard Geographic Code (PSGC), bersyon 2026-04-13. Ang Maynila lamang ang lungsod sa Pilipinas na nahahati sa sub-munisipyo (Tondo, Binondo, Quiapo, San Nicolas, Sta. Cruz, Sampaloc, San Miguel, Ermita, Intramuros, Malate, Paco, Pandacan, Port Area, Sta. Ana).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "psgc_id",
+      "label": "Psgc Id",
+      "type": "number"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "parent_psgc_id",
+      "label": "Parent Psgc Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_name",
+      "label": "Parent Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "slug": "tondo-i-ii",
+      "psgc_id": "1380601000",
+      "name_en": "Tondo I/II",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 2,
+      "slug": "binondo",
+      "psgc_id": "1380602000",
+      "name_en": "Binondo",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 3,
+      "slug": "quiapo",
+      "psgc_id": "1380603000",
+      "name_en": "Quiapo",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 4,
+      "slug": "san-nicolas",
+      "psgc_id": "1380604000",
+      "name_en": "San Nicolas",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 5,
+      "slug": "santa-cruz",
+      "psgc_id": "1380605000",
+      "name_en": "Santa Cruz",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 6,
+      "slug": "sampaloc",
+      "psgc_id": "1380606000",
+      "name_en": "Sampaloc",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 7,
+      "slug": "san-miguel",
+      "psgc_id": "1380607000",
+      "name_en": "San Miguel",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 8,
+      "slug": "ermita",
+      "psgc_id": "1380608000",
+      "name_en": "Ermita",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 9,
+      "slug": "intramuros",
+      "psgc_id": "1380609000",
+      "name_en": "Intramuros",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 10,
+      "slug": "malate",
+      "psgc_id": "1380610000",
+      "name_en": "Malate",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 11,
+      "slug": "paco",
+      "psgc_id": "1380611000",
+      "name_en": "Paco",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 12,
+      "slug": "pandacan",
+      "psgc_id": "1380612000",
+      "name_en": "Pandacan",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 13,
+      "slug": "port-area",
+      "psgc_id": "1380613000",
+      "name_en": "Port Area",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    },
+    {
+      "id": 14,
+      "slug": "santa-ana",
+      "psgc_id": "1380614000",
+      "name_en": "Santa Ana",
+      "parent_psgc_id": "1380600000",
+      "parent_name": "City of Manila"
+    }
+  ],
+  "meta": {
+    "title": "Mga Sub-Munisipyo ng Lungsod ng Maynila (PSGC) - Libreng download",
+    "description": "Listahan ng 14 sub-munisipyo (submunicipalities) ng Lungsod ng Maynila mula sa Philippine Standard Geographic Code (PSGC), bersyon 2026-04-13. Ang Maynila lamang ang lungsod sa Pilipinas na nahahati sa sub-munisipyo (Tondo, Binondo, Quiapo, San Nicolas, Sta. Cruz, Sampaloc, San Miguel, Ermita, Intramuros, Malate, Paco, Pandacan, Port Area, Sta. Ana). Naglalaman ng 14 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Sub-Munisipyo ng Lungsod ng Maynila (PSGC) | ListBase",
+    "seo_description": "I-download Mga Sub-Munisipyo ng Lungsod ng Maynila (PSGC) — 14 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 14 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

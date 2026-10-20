@@ -1,0 +1,968 @@
+{
+  "id": "tl-pamantasang-pampamahalaan",
+  "name": "Mga Pamantasan at Kolehiyong Pampamahalaan (State Universities and Colleges) ng Pilipinas",
+  "title": "Mga Pamantasan at Kolehiyong Pampamahalaan (State Universities and Colleges) ng Pilipinas",
+  "description": "Mga pamantasan at kolehiyong pampamahalaan ng Pilipinas (State Universities and Colleges, SUCs), may pangalan, tirahan, trunkline, at website.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "paglalarawan",
+      "label": "Paglalarawan",
+      "type": "string"
+    },
+    {
+      "key": "tirahan",
+      "label": "Tirahan",
+      "type": "string"
+    },
+    {
+      "key": "trunkline",
+      "label": "Trunkline",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "EULOGIO \"AMANG\" RODRIGUEZ INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Nagtahan St., Sta. Mesa, Manila",
+      "trunkline": "",
+      "website": "earist.edu.ph"
+    },
+    {
+      "pangalan": "MINDANAO STATE UNIVERSITY - ILIGAN INSTITUTE OF TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Andres Bonifacio Avenue, Tibanga, 9200 Iligan City",
+      "trunkline": "",
+      "website": "www.msuiit.edu.ph"
+    },
+    {
+      "pangalan": "MARIKINA POLYTECHNIC COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Mayor Juan Chanyungco St., Sta Elena, Marikina City",
+      "trunkline": "",
+      "website": "mpc.edu.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE NORMAL UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Taft Avenue, Manila",
+      "trunkline": "",
+      "website": "www.pnu.edu.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE STATE COLLEGE OF AERONAUTICS",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Piccio Garden, Villamor Air Base, Pasay City",
+      "trunkline": "",
+      "website": "www.philsca.edu.ph"
+    },
+    {
+      "pangalan": "POLYTECHNIC UNIVERSITY OF THE PHILIPPINES",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "A. Mabini Campus, Anonas St., Sta. Mesa, Manila",
+      "trunkline": "",
+      "website": "www.pup.edu.ph"
+    },
+    {
+      "pangalan": "RIZAL TECHNOLOGICAL UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Boni Avenue, Mandaluyong City",
+      "trunkline": "",
+      "website": "www.rtu.edu.ph"
+    },
+    {
+      "pangalan": "TECHNOLOGICAL UNIVERSITY OF THE PHILIPPINES",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Ayala Boulevard, Ermita, Manila",
+      "trunkline": "",
+      "website": "www.tup.edu.ph"
+    },
+    {
+      "pangalan": "UNIVERSITY OF THE PHILIPPINES",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Diliman, Quezon City",
+      "trunkline": "",
+      "website": "up.edu.ph"
+    },
+    {
+      "pangalan": "UNIVERSITY OF ABRA",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Lagangilang, Abra",
+      "trunkline": "",
+      "website": "www.asist.edu.ph"
+    },
+    {
+      "pangalan": "APAYAO STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Conner, Apayao",
+      "trunkline": "",
+      "website": "www.asc.edu.ph"
+    },
+    {
+      "pangalan": "BENGUET STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "La Trinidad, Benguet",
+      "trunkline": "",
+      "website": "www.bsu.edu.ph"
+    },
+    {
+      "pangalan": "IFUGAO STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Lamut, Ifugao",
+      "trunkline": "",
+      "website": "www.ifsu.edu.ph"
+    },
+    {
+      "pangalan": "KALINGA STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Tabuk, Kalinga, Apayao",
+      "trunkline": "",
+      "website": "www.ksu.edu.ph"
+    },
+    {
+      "pangalan": "MOUNTAIN PROVINCE STATE POLYTECHNIC COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Bontoc, Mountain Province",
+      "trunkline": "",
+      "website": "mpsu.edu.ph"
+    },
+    {
+      "pangalan": "DON MARIANO MARCOS MEMORIAL STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Bacnotan, La Union",
+      "trunkline": "",
+      "website": "www.dmmmsu.edu.ph"
+    },
+    {
+      "pangalan": "ILOCOS SUR POLYTECHNIC STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Sta. Maria, Ilocos Sur",
+      "trunkline": "",
+      "website": "www.ispsc.edu.ph"
+    },
+    {
+      "pangalan": "MARIANO MARCOS STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "City of Batac, Ilocos Norte",
+      "trunkline": "",
+      "website": "www.mmsu.edu.ph"
+    },
+    {
+      "pangalan": "PANGASINAN STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Alvear St., Lingayen, Pangasinan",
+      "trunkline": "",
+      "website": "www.psu.edu.ph"
+    },
+    {
+      "pangalan": "UNIVERSITY OF NORTHERN PHILIPPINES",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Tamag, Vigan City, Ilocos Sur",
+      "trunkline": "",
+      "website": "unp.edu.ph"
+    },
+    {
+      "pangalan": "BATANES STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Washington Ave., San Antonio, Basco, Batanes",
+      "trunkline": "",
+      "website": "www.bscbatanes.edu.ph"
+    },
+    {
+      "pangalan": "CAGAYAN STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Caritan Sur, Tuguegarao City, Cagayan",
+      "trunkline": "",
+      "website": "www.csu.edu.ph"
+    },
+    {
+      "pangalan": "ISABELA STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "San Fabian, Echague, Isabela",
+      "trunkline": "",
+      "website": "www.isu.edu.ph"
+    },
+    {
+      "pangalan": "NUEVA VIZCAYA STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Quezon St., Bayombong, Nueva Vizcaya",
+      "trunkline": "",
+      "website": "www.nvsu.edu.ph"
+    },
+    {
+      "pangalan": "QUIRINO STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Diffun, Quirino Province",
+      "trunkline": "",
+      "website": "www.qsu.edu.ph"
+    },
+    {
+      "pangalan": "AURORA STATE COLLEGE OF TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Baler, Aurora",
+      "trunkline": "",
+      "website": "www.ascot.edu.ph"
+    },
+    {
+      "pangalan": "BATAAN PENINSULA STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Balanga City, Bataan",
+      "trunkline": "",
+      "website": "www.bpsu.edu.ph"
+    },
+    {
+      "pangalan": "BULACAN AGRICULTURAL STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "San Ildefonso, Bulacan",
+      "trunkline": "",
+      "website": "www.basc.edu.ph"
+    },
+    {
+      "pangalan": "BULACAN STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Guinhawa, City of Malolos, Bulacan",
+      "trunkline": "",
+      "website": "www.bulsu.edu.ph"
+    },
+    {
+      "pangalan": "CENTRAL LUZON STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Science City of Muñoz, Nueva Ecija",
+      "trunkline": "",
+      "website": "www.clsu.edu.ph"
+    },
+    {
+      "pangalan": "PAMPANGA STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Cabambangan, Bacolor, Pampanga",
+      "trunkline": "",
+      "website": "www.dhvsu.edu.ph"
+    },
+    {
+      "pangalan": "NUEVA ECIJA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Gen. Tinio Street, Brgy. Quezon District, Cabanatuan City, Nueva Ecija",
+      "trunkline": "",
+      "website": "www.neust.edu.ph"
+    },
+    {
+      "pangalan": "PAMPANGA STATE AGRICULTURAL UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Magalang, Pampanga",
+      "trunkline": "",
+      "website": "www.psau.edu.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE MERCHANT MARINE ACADEMY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "New PMMA-Complex Site, San Narciso, Zambales",
+      "trunkline": "",
+      "website": "www.pmma.edu.ph"
+    },
+    {
+      "pangalan": "PRESIDENT RAMON MAGSAYSAY STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Palanginan, Iba, Zambales",
+      "trunkline": "",
+      "website": "www.prmsu.edu.ph"
+    },
+    {
+      "pangalan": "TARLAC AGRICULTURAL UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Camiling, Tarlac",
+      "trunkline": "",
+      "website": "www.tau.edu.ph"
+    },
+    {
+      "pangalan": "TARLAC STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Romulo Boulevard, San Vicente, Tarlac City, Tarlac",
+      "trunkline": "",
+      "website": "www.tsu.edu.ph"
+    },
+    {
+      "pangalan": "BATANGAS STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Rizal Avenue Extension, Batangas",
+      "trunkline": "",
+      "website": "www.batstate-u.edu.ph"
+    },
+    {
+      "pangalan": "CAVITE STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Indang, Cavite",
+      "trunkline": "",
+      "website": "cvsu.edu.ph"
+    },
+    {
+      "pangalan": "LAGUNA STATE POLYTECHNIC UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Los Baños, Laguna",
+      "trunkline": "",
+      "website": "lspu.edu.ph"
+    },
+    {
+      "pangalan": "SOUTHERN LUZON STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Lucban, Quezon",
+      "trunkline": "",
+      "website": "www.slsu.edu.ph"
+    },
+    {
+      "pangalan": "UNIVERSITY OF RIZAL SYSTEM",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Morong, Rizal",
+      "trunkline": "",
+      "website": "www.urs.edu.ph"
+    },
+    {
+      "pangalan": "MARINDUQUE STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Boac, Marinduque",
+      "trunkline": "",
+      "website": "www.mscmarinduque.edu.ph"
+    },
+    {
+      "pangalan": "MINDORO STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Alcate, Victoria, Oriental Mindoro",
+      "trunkline": "",
+      "website": "www.minsu.edu.ph"
+    },
+    {
+      "pangalan": "OCCIDENTAL MINDORO STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "San Jose, Occidental Mindoro",
+      "trunkline": "",
+      "website": "www.omsc.edu.ph"
+    },
+    {
+      "pangalan": "PALAWAN STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Puerto Princesa City, Palawan",
+      "trunkline": "",
+      "website": "www.psu.palawan.edu.ph"
+    },
+    {
+      "pangalan": "ROMBLON STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Liwanag, Odiongan, Romblon",
+      "trunkline": "",
+      "website": "www.rsu.edu.ph"
+    },
+    {
+      "pangalan": "WESTERN PHILIPPINES UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Aborlan, Palawan",
+      "trunkline": "",
+      "website": "wpu.edu.ph"
+    },
+    {
+      "pangalan": "BICOL STATE COLLEGE OF APPLIED SCIENCES AND TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Peñafrancia Avenue, Naga City",
+      "trunkline": "",
+      "website": "www.biscast.edu.ph"
+    },
+    {
+      "pangalan": "BICOL UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Rizal St., Legazpi City, Albay",
+      "trunkline": "",
+      "website": "www.bicol-u.edu.ph"
+    },
+    {
+      "pangalan": "CAMARINES NORTE STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Daet, Camarines Norte",
+      "trunkline": "",
+      "website": "www.cnsc.edu.ph"
+    },
+    {
+      "pangalan": "CAMARINES SUR POLYTECHNIC COLLEGES",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "San Miguel, Nabua, Camarines Sur",
+      "trunkline": "",
+      "website": "www.cspc.edu.ph"
+    },
+    {
+      "pangalan": "CATANDUANES STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Virac, Catanduanes",
+      "trunkline": "",
+      "website": "catsu.edu.ph"
+    },
+    {
+      "pangalan": "CENTRAL BICOL STATE UNIVERSITY OF AGRICULTURE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Pili, Camarines Sur",
+      "trunkline": "",
+      "website": "www.cbsua.edu.ph"
+    },
+    {
+      "pangalan": "DR. EMILIO B. ESPINOSA SR. MEMORIAL STATE COLLEGE OF AGRICULTURE AND TECHONOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Mandaon, Masbate",
+      "trunkline": "",
+      "website": "www.debesmscat.edu.ph"
+    },
+    {
+      "pangalan": "PARTIDO STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "San Juan Bautista St., Goa, Camarines Sur",
+      "trunkline": "",
+      "website": "www.parsu.edu.ph"
+    },
+    {
+      "pangalan": "SORSOGON STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Sorsogon City",
+      "trunkline": "",
+      "website": "www.sorsu.edu.ph"
+    },
+    {
+      "pangalan": "AKLAN STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Bacan, Banga, Aklan",
+      "trunkline": "",
+      "website": "www.asu.edu.ph"
+    },
+    {
+      "pangalan": "CAPIZ STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Fuentes Drive, Roxas City, Capiz",
+      "trunkline": "",
+      "website": "www.capsu.edu.ph"
+    },
+    {
+      "pangalan": "CARLOS HILADO MEMORIAL STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Talisay City, Negros Occidental",
+      "trunkline": "",
+      "website": "chmsu.edu.ph"
+    },
+    {
+      "pangalan": "CENTRAL PHILIPPINES STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Brgy. Camingawan, Kabankalan City. Negros Occidental",
+      "trunkline": "",
+      "website": "www.cpsu.edu.ph"
+    },
+    {
+      "pangalan": "GUIMARAS STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Buenavista, Guimaras",
+      "trunkline": "",
+      "website": "www.gsu.edu.ph"
+    },
+    {
+      "pangalan": "ILOILO STATE UNIVERSITY OF FISHERIES SCIENCE AND TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Barangay Tiwi, Barotac Nuevo, Iloilo",
+      "trunkline": "",
+      "website": "www.isufst.edu.ph"
+    },
+    {
+      "pangalan": "ILOILO SCIENCE AND TECHNOLOGY UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Burgos St., La Paz, Iloilo City",
+      "trunkline": "",
+      "website": "www.isatu.edu.ph"
+    },
+    {
+      "pangalan": "NORTHERN ILOILO STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Estancia, Iloilo",
+      "trunkline": "",
+      "website": "www.nisu.edu.ph"
+    },
+    {
+      "pangalan": "STATE UNIVERSITY OF NORTHERN NEGROS",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Brgy. Rizal, Sagay City, Negros Occidental",
+      "trunkline": "",
+      "website": "www.sunn.edu.ph"
+    },
+    {
+      "pangalan": "UNIVERSITY OF ANTIQUE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Sibalom, Antique",
+      "trunkline": "",
+      "website": "www.antiquespride.edu.ph"
+    },
+    {
+      "pangalan": "WEST VISAYAS STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Luna St., La Paz, Iloilo City",
+      "trunkline": "",
+      "website": "www.wvsu.edu.ph"
+    },
+    {
+      "pangalan": "BOHOL ISLAND STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Tagbilaran City, Bohol",
+      "trunkline": "",
+      "website": "bisu.edu.ph"
+    },
+    {
+      "pangalan": "CEBU NORMAL UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Osmeña Boulevard, Cebu City",
+      "trunkline": "",
+      "website": "www.cnu.edu.ph"
+    },
+    {
+      "pangalan": "CEBU TECHNOLOGICAL UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "M.J. Cuenco Ave. cor. R. Palma St., Cebu City",
+      "trunkline": "",
+      "website": "www.ctu.edu.ph"
+    },
+    {
+      "pangalan": "NEGROS ORIENTAL STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Kagawasan Ave., Capitol Area, Dumaguete City",
+      "trunkline": "",
+      "website": "www.norsu.edu.ph"
+    },
+    {
+      "pangalan": "SIQUIJOR STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Larena, Siquijor",
+      "trunkline": "",
+      "website": "www.siquijorstate.edu.ph"
+    },
+    {
+      "pangalan": "EASTERN SAMAR STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Brgy. Maypangdan, Borongan City, Eastern Samar",
+      "trunkline": "",
+      "website": "www.essu.edu.ph"
+    },
+    {
+      "pangalan": "EASTERN VISAYAS STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Archbishop Lino R. Gonzaga Ave., Tacloban City",
+      "trunkline": "",
+      "website": "www.evsu.edu.ph"
+    },
+    {
+      "pangalan": "LEYTE NORMAL UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "P. Paterno St., Brgy. 50, Tacloban City, Leyte",
+      "trunkline": "",
+      "website": "www.lnu.edu.ph"
+    },
+    {
+      "pangalan": "BILIRAN PROVINCE STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Naval, Biliran",
+      "trunkline": "",
+      "website": "www.bipsu.edu.ph"
+    },
+    {
+      "pangalan": "NORTHWEST SAMAR STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Calbayog City",
+      "trunkline": "",
+      "website": "www.nwssu.edu.ph"
+    },
+    {
+      "pangalan": "PALOMPON INSTITUTE OF TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Brgy. Guiwan II, Palompon, Leyte",
+      "trunkline": "",
+      "website": "www.pit.edu.ph"
+    },
+    {
+      "pangalan": "SAMAR STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Catbalogan, Samar",
+      "trunkline": "",
+      "website": "www.ssu.edu.ph"
+    },
+    {
+      "pangalan": "SOUTHERN LEYTE STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Sogod, Southern Leyte",
+      "trunkline": "",
+      "website": "www.southernleytestateu.edu.ph"
+    },
+    {
+      "pangalan": "UNIVERSITY OF EASTERN PHILIPPINES",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Catarman, Northern Samar",
+      "trunkline": "",
+      "website": "www.uep.edu.ph"
+    },
+    {
+      "pangalan": "VISAYAS STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Baybay City, Leyte",
+      "trunkline": "",
+      "website": "www.vsu.edu.ph"
+    },
+    {
+      "pangalan": "BASILAN STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Isabela City, Basilan",
+      "trunkline": "",
+      "website": "www.bassc.edu.ph"
+    },
+    {
+      "pangalan": "J. H. CERILLES STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "San Miguel, Zamboanga del Sur",
+      "trunkline": "",
+      "website": "www.jhcsc.edu.ph"
+    },
+    {
+      "pangalan": "JOSE RIZAL MEMORIAL STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Gov. Guading Adaza St., Sta. Cruz, Dapitan City, Zamboanga del Norte",
+      "trunkline": "",
+      "website": "www.jrmsu.edu.ph"
+    },
+    {
+      "pangalan": "WESTERN MINDANAO STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Normal Road, Baliwasan, Zamboanga City",
+      "trunkline": "",
+      "website": "www.wmsu.edu.ph"
+    },
+    {
+      "pangalan": "ZAMBOANGA PENINSULA POLYTECHNIC STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "R.T. Lim Boulevard, Baliwasan, Zamboanga City",
+      "trunkline": "",
+      "website": "zppsu.edu.ph"
+    },
+    {
+      "pangalan": "ZAMBOANGA STATE COLLEGE OF MARINE SCIENCES AND TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Fort Pilar, Zamboanga City",
+      "trunkline": "",
+      "website": "www.zscmst.edu.ph"
+    },
+    {
+      "pangalan": "BUKIDNON STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Malaybalay City, Bukidnon",
+      "trunkline": "",
+      "website": "buksu.edu.ph"
+    },
+    {
+      "pangalan": "CAMIGUIN POLYTECHNIC STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Balbagon, Mambajao, Camiguin",
+      "trunkline": "",
+      "website": "www.cpsc.ph"
+    },
+    {
+      "pangalan": "CENTRAL MINDANAO UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Musuan, Maramag, Bukidnon",
+      "trunkline": "",
+      "website": "www.cmu.edu.ph"
+    },
+    {
+      "pangalan": "NORTHWESTERN MINDANAO STATE COLLEGE OF SCIENCE AND TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Labuyo, Tangub City",
+      "trunkline": "",
+      "website": "www.nmsc.edu.ph"
+    },
+    {
+      "pangalan": "NORTHERN BUKIDNON STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Manolo Fortich, Bukidnon",
+      "trunkline": "",
+      "website": "www.nbsc.edu.ph"
+    },
+    {
+      "pangalan": "UNIVERSITY OF SCIENCE AND TECHNOLOGY OF SOUTHERN PHILIPPINES",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Claro M. Recto Avenue, Lapasan, Cagayan de Oro City",
+      "trunkline": "",
+      "website": "www.ustp.edu.ph"
+    },
+    {
+      "pangalan": "DAVAO DE ORO STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Poblacion, Compostela, Davao de Oro",
+      "trunkline": "",
+      "website": "www.ddosc.edu.ph"
+    },
+    {
+      "pangalan": "DAVAO DEL NORTE STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "New Visayas, Panabo City",
+      "trunkline": "",
+      "website": "www.dnsc.edu.ph"
+    },
+    {
+      "pangalan": "DAVAO DEL SUR STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Digos City, Davao del Sur",
+      "trunkline": "",
+      "website": "www.dssc.edu.ph"
+    },
+    {
+      "pangalan": "DAVAO ORIENTAL STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Mati, Davao Oriental",
+      "trunkline": "",
+      "website": "www.dorsu.edu.ph"
+    },
+    {
+      "pangalan": "SOUTHERN PHILIPPINES AGRI-BUSINESS, MARINE AND AQUATIC SCHOOL OF TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Malita, Davao del Sur",
+      "trunkline": "",
+      "website": "www.spamast.edu.ph"
+    },
+    {
+      "pangalan": "UNIVERSITY OF SOUTHEASTERN PHILIPPINES",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Davao City",
+      "trunkline": "",
+      "website": "www.usep.edu.ph"
+    },
+    {
+      "pangalan": "COTABATO FOUNDATION COLLEGE OF SCIENCE AND TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Doroluman, Arakan, Cotabato",
+      "trunkline": "",
+      "website": "www.cfcst.edu.ph"
+    },
+    {
+      "pangalan": "SOUTH COTABATO STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Surallah, South Cotabato",
+      "trunkline": "",
+      "website": "scsc.edu.ph"
+    },
+    {
+      "pangalan": "SULTAN KUDARAT STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Tacurong, Sultan Kudarat",
+      "trunkline": "",
+      "website": "www.sksu.edu.ph"
+    },
+    {
+      "pangalan": "UNIVERSITY OF SOUTHERN MINDANAO",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Kabacan, Cotabato",
+      "trunkline": "",
+      "website": "www.usm.edu.ph"
+    },
+    {
+      "pangalan": "AGUSAN DEL SUR STATE COLLEGE OF AGRICULTURE AND TECHNOLOGY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Bunawan, Agusan del Sur",
+      "trunkline": "",
+      "website": "www.asscat.edu.ph"
+    },
+    {
+      "pangalan": "CARAGA STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Ampayon, Butuan City",
+      "trunkline": "",
+      "website": "www.carsu.edu.ph"
+    },
+    {
+      "pangalan": "NORTH EASTERN MINDANAO STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Tandag, Surigao del Sur",
+      "trunkline": "",
+      "website": "nemsu.edu.ph"
+    },
+    {
+      "pangalan": "SURIGAO DEL NORTE STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Surigao City",
+      "trunkline": "",
+      "website": "www.ssct.edu.ph"
+    },
+    {
+      "pangalan": "COTABATO STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Sinsuat Avenue, Cotabato City",
+      "trunkline": "",
+      "website": "www.cotsu.edu.ph"
+    },
+    {
+      "pangalan": "ADIONG MEMORIAL STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Ditsaan-Ramain, Lanao del Sur",
+      "trunkline": "",
+      "website": "amsc-edu.net"
+    },
+    {
+      "pangalan": "MINDANAO STATE UNIVERSITY",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Marawi City, Lanao del Sur",
+      "trunkline": "",
+      "website": "www.msumain.edu.ph"
+    },
+    {
+      "pangalan": "SULU STATE COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Jolo, Sulu",
+      "trunkline": "",
+      "website": "www.sulustatecollege.edu.ph"
+    },
+    {
+      "pangalan": "TAWI-TAWI REGIONAL AGRICULTURAL COLLEGE",
+      "uri": "State Universities and Colleges (SUCs)",
+      "paglalarawan": "",
+      "tirahan": "Bongao, Tawi-Tawi",
+      "trunkline": "",
+      "website": "www.trac.edu.ph"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pamantasan at Kolehiyong Pampamahalaan (State Universities and Colleges) ng Pilipinas - Libreng download",
+    "description": "Mga pamantasan at kolehiyong pampamahalaan ng Pilipinas (State Universities and Colleges, SUCs), may pangalan, tirahan, trunkline, at website. Naglalaman ng 114 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Pamantasan at Kolehiyong Pampamahalaan (State Universities and Colleges) ng Pilipinas | ListBase",
+    "seo_description": "I-download Mga Pamantasan at Kolehiyong Pampamahalaan (State Universities and Colleges) ng Pilipinas — 114 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 114 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

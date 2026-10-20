@@ -1,0 +1,336 @@
+{
+  "id": "tl-camarines-sur-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Camarines Sur",
+  "title": "Mga Bayan ng Lalawigan ng Camarines Sur",
+  "description": "Listahan ng 35 munisipalidad (bayan) sa lalawigan ng Camarines Sur, REGION V (BICOL REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "051701000",
+      "name": "BAAO",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 58849,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051702000",
+      "name": "BALATAN",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 30922,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051703000",
+      "name": "BATO",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 52137,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051704000",
+      "name": "BOMBON",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 16512,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "051705000",
+      "name": "BUHI",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 77143,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "051706000",
+      "name": "BULA",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 69430,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "051707000",
+      "name": "CABUSAO",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 18397,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "051708000",
+      "name": "CALABANGA",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 83033,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "051709000",
+      "name": "CAMALIGAN",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 24109,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "051710000",
+      "name": "CANAMAN",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 34210,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051711000",
+      "name": "CARAMOAN",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 47605,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "051712000",
+      "name": "DEL GALLEGO",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 25397,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051713000",
+      "name": "GAINZA",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 11262,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "051714000",
+      "name": "GARCHITORENA",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 27010,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051715000",
+      "name": "GOA",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 63308,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "051717000",
+      "name": "LAGONOY",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 55465,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "051718000",
+      "name": "LIBMANAN",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 108716,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "051719000",
+      "name": "LUPI",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 32167,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051720000",
+      "name": "MAGARAO",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 25694,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051721000",
+      "name": "MILAOR",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 31150,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051722000",
+      "name": "MINALABAC",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 52390,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051723000",
+      "name": "NABUA",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 83874,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "051725000",
+      "name": "OCAMPO",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 45934,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051726000",
+      "name": "PAMPLONA",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 36390,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051727000",
+      "name": "PASACAO",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 49035,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051728000",
+      "name": "PILI (Capital)",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 89545,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "051729000",
+      "name": "PRESENTACION (PARUBCAN)",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 20996,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051730000",
+      "name": "RAGAY",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 58214,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "051731000",
+      "name": "SAGÑAY",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 34546,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051732000",
+      "name": "SAN FERNANDO",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 35258,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051733000",
+      "name": "SAN JOSE",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 40623,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051734000",
+      "name": "SIPOCOT",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 64855,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "051735000",
+      "name": "SIRUMA",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 17764,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051736000",
+      "name": "TIGAON",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 55272,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051737000",
+      "name": "TINAMBAC",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 67572,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Camarines Sur - Libreng download",
+    "description": "Listahan ng 35 munisipalidad (bayan) sa lalawigan ng Camarines Sur, REGION V (BICOL REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 35 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Camarines Sur | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Camarines Sur — 35 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 35 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "tl-davao-oriental-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao Oriental",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao Oriental",
+  "description": "Direktoryo ng 11 lungsod at bayan sa lalawigan ng Davao Oriental (Rehiyon ng Davao (Region XI)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Davao Oriental` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Baganga",
+      "uri": "Bayan",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8204",
+      "punong_bayan": "RONALD V. LARA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MODESTO V. LAYUPAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Banaybanay",
+      "uri": "Bayan",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8208",
+      "punong_bayan": "LEMUEL IAN M. LARCIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LIEZEL S. TEVES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Boston",
+      "uri": "Bayan",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8206",
+      "punong_bayan": "ROWELL F. ROSIT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOHN PAUL C. LAMPIG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Caraga",
+      "uri": "Bayan",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8203",
+      "punong_bayan": "RONIE S. OSNAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MELODY ANNE S. BENITEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Cateel",
+      "uri": "Bayan",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8205",
+      "punong_bayan": "EMILOU C. NUÑEZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "WILBUR Y. CHUA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Governor Generoso",
+      "uri": "Bayan",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8210",
+      "punong_bayan": "JUANITO C. INOJALES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "KATRINA JOY H. ORENCIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Lupon",
+      "uri": "Bayan",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8207",
+      "punong_bayan": "ERLINDA D. LIM",
+      "kontak_punong_bayan": "(087) 808-5048",
+      "pangalawang_punong_bayan": "SANTOS Q. ALONZO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Manay",
+      "uri": "Bayan",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8202",
+      "punong_bayan": "JON MARCO M. DAYANGHIRANG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALFONSO DC. LAHORA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Mati",
+      "uri": "Lungsod",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "",
+      "punong_bayan": "MICHELLE MARIE DENISE N. RABAT",
+      "kontak_punong_bayan": "(087) 388-3978",
+      "pangalawang_punong_bayan": "LORENZO LEON G. RABAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "San Isidro",
+      "uri": "Bayan",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8209",
+      "punong_bayan": "MARIA ANGELICA T. GO",
+      "kontak_punong_bayan": "(087) 811-0917",
+      "pangalawang_punong_bayan": "PANILYN S. ACIDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Tarragona",
+      "uri": "Bayan",
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8201",
+      "punong_bayan": "SAMUEL L. UY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NESTOR L. UY",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao Oriental - Libreng download",
+    "description": "Direktoryo ng 11 lungsod at bayan sa lalawigan ng Davao Oriental (Rehiyon ng Davao (Region XI)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Davao Oriental` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 11 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao Oriental | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao Oriental — 11 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 11 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

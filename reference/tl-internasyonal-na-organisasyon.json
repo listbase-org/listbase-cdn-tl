@@ -1,0 +1,292 @@
+{
+  "id": "tl-internasyonal-na-organisasyon",
+  "name": "Mga Internasyonal na Organisasyon sa Pilipinas",
+  "title": "Mga Internasyonal na Organisasyon sa Pilipinas",
+  "description": "Mga internasyonal na organisasyon (hal. UN agencies, ADB) na may tanggapan sa Pilipinas, na may pangalan, tirahan, kontak, website, at pinuno. (International organizations with offices in the Philippines.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "bansa",
+      "label": "Bansa",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "uri_en",
+      "label": "Uri En",
+      "type": "string"
+    },
+    {
+      "key": "tirahan",
+      "label": "Tirahan",
+      "type": "string"
+    },
+    {
+      "key": "kontak",
+      "label": "Kontak",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "kinatawan",
+      "label": "Kinatawan",
+      "type": "string"
+    },
+    {
+      "key": "titulo",
+      "label": "Titulo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "ASIAN DEVELOPMENT BANK",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "6 ADB Avenue, Mandaluyong City",
+      "kontak": "8632-4444",
+      "email": "csd-gr@adb.org",
+      "website": "www.adb.org",
+      "kinatawan": "MR. ASAKAWA MASATSUGU",
+      "titulo": "President"
+    },
+    {
+      "pangalan": "FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "UN House Manila, 14/F North Tower, Rockwell Business Center Sheridan, Cor. Sheridan and United Sts., Highway Hills, Mandaluyong City",
+      "kontak": "8638-9886",
+      "email": "FAO-PH@fao.org",
+      "website": "www.fao.org/Philippines",
+      "kinatawan": "MR. LIONEL HENRI VALENTIN DABBADIE",
+      "titulo": "Representative, a.i."
+    },
+    {
+      "pangalan": "INTERNATIONAL COMMITTEE OF THE RED CROSS",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "17/F NEX Tower, 6786 Ayala Avenue, Makati City",
+      "kontak": "8892-8901 to 04; 8819-5997 F",
+      "email": "manila@icrc.org",
+      "website": "www.icrc.org.ph",
+      "kinatawan": "MR. ALEXANDRE FAITE",
+      "titulo": "Head of Delegation"
+    },
+    {
+      "pangalan": "INTERNATIONAL FINANCE CORPORATION",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "23/F One Global Place, 5th Ave. cor. 25th St., Bonifacio Global City, Taguig City",
+      "kontak": "8465-2700; 8465-2747",
+      "email": "yxu1@ifc.org",
+      "website": "www.ifc.org",
+      "kinatawan": "MR. JEAN-MARC CHRISTIAN ARBOGAST",
+      "titulo": "Country Manager/Head of Mission"
+    },
+    {
+      "pangalan": "INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "6 ADB Avenue, Room 1650, Mandaluyong City",
+      "kontak": "8632-4444 loc. 77101",
+      "email": "v.azore@ifad.org",
+      "website": "www.ifad.org",
+      "kinatawan": "MR. UMIT MANSIZ",
+      "titulo": "Country Programme Manager"
+    },
+    {
+      "pangalan": "INTERNATIONAL LABOUR ORGANIZATION",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "19/F Yuchengco Tower, RCBC Plaza, 6819 Ayala Avenue, Makati City",
+      "kontak": "8580-9900; 8856-7597 F",
+      "email": "manila@ilo.org",
+      "website": "www.ilo.org/manila",
+      "kinatawan": "MR. KHALID HASSAN",
+      "titulo": "Director"
+    },
+    {
+      "pangalan": "INTERNATIONAL MONETARY FUND",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "Rm. 407 5-Storey Bldg., BSP Complex, A. Mabini St., Malate, Manila",
+      "kontak": "8708-7484; 8708-7483 F",
+      "email": "RR-PHL@imf.org",
+      "website": "www.imf.org",
+      "kinatawan": "MR. RAGNAR BALDVIN RAGNARSSON GUDMUNDSSON",
+      "titulo": "Resident Representative"
+    },
+    {
+      "pangalan": "INTERNATIONAL ORGANIZATION FOR MIGRATION",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "25/F Tower 6789, 6789 Ayala Ave., Makati City",
+      "kontak": "8230-1999 TL; 8848-1257 F",
+      "email": "mac@iom.int",
+      "website": "www.iom.int",
+      "kinatawan": "MR. ALBERTO BRENES ARRIETA",
+      "titulo": "Head, IOM Philippines and Director, Manila Administrative Centre"
+    },
+    {
+      "pangalan": "INTERNATIONAL RICE RESEARCH INSTITUTE",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "UP College, Los Baños, 4031 Laguna",
+      "kontak": "8580-5600; 8580-5699 F",
+      "email": "imi@cgiar.org",
+      "website": "www.irri.org",
+      "kinatawan": "MR. JEAN BALIE",
+      "titulo": "Director General"
+    },
+    {
+      "pangalan": "THE WORLD BANK",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "26/F One Global Place, 5th Ave. cor. 25th St., Bonifacio Global City, Taguig",
+      "kontak": "8465-2500; 8465-2505 F",
+      "email": "",
+      "website": "www.worldbank.org.ph",
+      "kinatawan": "MR. ZAFER MUSTAFAOĞLU",
+      "titulo": "Country Director"
+    },
+    {
+      "pangalan": "UNITED NATIONS CHILDREN'S FUND",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "UN Mailroom 15/F North Tower, Rockwell Business Center, Sheridan cor. United Sts., Highway Hills, Mandaluyong City",
+      "kontak": "8249-5400",
+      "email": "arosario@unicef.org",
+      "website": "www.unicef.org/philippines",
+      "kinatawan": "MS. OYUNSAIKHAN LUVSAN DENDEVNOROV",
+      "titulo": "Representative"
+    },
+    {
+      "pangalan": "UNITED NATIONS DEVELOPMENT PROGRAMME",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "15/F North Tower, Rockwell Business Center Sheridan, Sheridan St. cor. United St., Highway Hills, Mandaluyong City",
+      "kontak": "9702-9701; 9702-9704",
+      "email": "registry.ph@undp.org",
+      "website": "www.undp.org.ph",
+      "kinatawan": "MR. SELVAKUMARAN RAMACHANDRAN",
+      "titulo": "UNDP Resident Representative"
+    },
+    {
+      "pangalan": "UNITED NATIONS HIGH COMMISSIONER FOR REFUGEES",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "UNHCR Representation in the Philippines, 6/F GC Corporate Plaza, 150 Legaspi St., Legaspi Village, Makati City",
+      "kontak": "8403-2256; 8403-2336; 8818-5521; 8817-4057 F",
+      "email": "phima@unhcr.org",
+      "website": "www.unhcr.org/ph",
+      "kinatawan": "MS. MARIA ERMINA VALDEAVILLA-GALLARDO",
+      "titulo": "Head of National Office"
+    },
+    {
+      "pangalan": "UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "14/F North Tower, Rockwell Business Center Sheridan, cor. Sheridan and United Sts., Mandaluyong City",
+      "kontak": "8902-2566",
+      "email": "office.philippines@unido.org",
+      "website": "www.unido.org",
+      "kinatawan": "MR. TEDDY GO MONROY",
+      "titulo": "Country Representative"
+    },
+    {
+      "pangalan": "UNITED NATIONS POPULATION FUND",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "15/F North Tower Rockwell, Business Center Sheridan, cor. Sheridan and United Sts., Highway Hills, Mandaluyong City",
+      "kontak": "7902-9901",
+      "email": "phl.co@unfpa.org",
+      "website": "www.philippines.unfpa.org",
+      "kinatawan": "MS. LEILA SAIJI EP JOUDANE",
+      "titulo": "Country Representative"
+    },
+    {
+      "pangalan": "WORLD FOOD PROGRAMME",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "11/F Rockwell Business Center Sheridan, cor. Sheridan and United Sts., Highway Hills, Mandaluyong City",
+      "kontak": "8833-6229; 8823-1485 F",
+      "email": "wfp.philippines@wfp.org",
+      "website": "www.wfp.org/countries/Philippines",
+      "kinatawan": "MR. REGIS JOSEPH CHAPMAN",
+      "titulo": "Representative and Country Director"
+    },
+    {
+      "pangalan": "WORLD HEALTH ORGANIZATION",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "WHO Building, UN Avenue, Manila",
+      "kontak": "8528-8001; 8521-1036 F",
+      "email": "wpropostmaster@who.int",
+      "website": "",
+      "kinatawan": "MR. SAIA MAU PIUKALA",
+      "titulo": "Regional Director"
+    },
+    {
+      "pangalan": "WORLD HEALTH ORGANIZATION",
+      "bansa": "",
+      "uri": "Internasyonal na Organisasyon",
+      "uri_en": "International Organization",
+      "tirahan": "G/F Bldg. 3, Department of Health Compound, Sta. Cruz, Manila",
+      "kontak": "8528-8001; 5338-8605",
+      "email": "who@phl.wrpo.who.int",
+      "website": "",
+      "kinatawan": "DR. RUI PAULO DE JESUS",
+      "titulo": "WHO Representative in the Philippines"
+    }
+  ],
+  "meta": {
+    "title": "Mga Internasyonal na Organisasyon sa Pilipinas - Libreng download",
+    "description": "Mga internasyonal na organisasyon (hal. UN agencies, ADB) na may tanggapan sa Pilipinas, na may pangalan, tirahan, kontak, website, at pinuno. (International organizations with offices in the Philippines.) Naglalaman ng 18 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Internasyonal na Organisasyon sa Pilipinas | ListBase",
+    "seo_description": "I-download Mga Internasyonal na Organisasyon sa Pilipinas — 18 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 18 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

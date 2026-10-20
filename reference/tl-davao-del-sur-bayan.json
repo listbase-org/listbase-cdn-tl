@@ -1,0 +1,128 @@
+{
+  "id": "tl-davao-del-sur-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Davao Del Sur",
+  "title": "Mga Bayan ng Lalawigan ng Davao Del Sur",
+  "description": "Listahan ng 9 munisipalidad (bayan) sa lalawigan ng Davao Del Sur, REGION XI (DAVAO REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "112401000",
+      "name": "BANSALAN",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 60440,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "112404000",
+      "name": "HAGONOY",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 53309,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "112406000",
+      "name": "KIBLAWAN",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 48897,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "112407000",
+      "name": "MAGSAYSAY",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 53876,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "112408000",
+      "name": "MALALAG",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 38731,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "112410000",
+      "name": "MATANAO",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 56755,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "112411000",
+      "name": "PADADA",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 26587,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "112412000",
+      "name": "SANTA CRUZ",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 90987,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "112414000",
+      "name": "SULOP",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 33613,
+      "income_classification": "3rd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Davao Del Sur - Libreng download",
+    "description": "Listahan ng 9 munisipalidad (bayan) sa lalawigan ng Davao Del Sur, REGION XI (DAVAO REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 9 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Davao Del Sur | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Davao Del Sur — 9 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 9 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

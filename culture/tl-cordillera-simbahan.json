@@ -1,0 +1,310 @@
+{
+  "id": "tl-cordillera-simbahan",
+  "name": "Mga Simbahan - Cordillera Administrative Region",
+  "title": "Mga Simbahan - Cordillera Administrative Region",
+  "description": "Mga simbahan sa rehiyong Cordillera Administrative Region, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Cordillera Administrative Region, Philippines.)",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "denominasyon",
+      "label": "Denominasyon",
+      "type": "string"
+    },
+    {
+      "key": "taon_itinatag",
+      "label": "Taon Itinatag",
+      "type": "number"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "bayan",
+      "label": "Bayan",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4842156",
+      "name_tl": "Katedral ng Baguio",
+      "name_en": "Baguio Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1936,
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "",
+      "bayan": "",
+      "latitude": 16.412694,
+      "longitude": 120.598556,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Katedral_ng_Baguio"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q105697731",
+      "name_tl": "Katedral ng Tabuk",
+      "name_en": "Tabuk Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "",
+      "bayan": "Tabuk",
+      "latitude": 17.411725,
+      "longitude": 121.445469,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q130540728",
+      "name_tl": "Saint Joseph the Husband of Mary Parish Church",
+      "name_en": "Saint Joseph the Husband of Mary Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "",
+      "bayan": "",
+      "latitude": 16.424794,
+      "longitude": 120.550565,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q105697209",
+      "name_tl": "Katedral ng Bangued",
+      "name_en": "Bangued Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Abra",
+      "bayan": "Bangued",
+      "latitude": 17.595722,
+      "longitude": 120.617083,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q57628447",
+      "name_tl": "Simbahan ng Parokya ng Nuestra Señora del Pilar",
+      "name_en": "Nuestra Señora del Pilar Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Abra",
+      "bayan": "San Isidro",
+      "latitude": 17.464592,
+      "longitude": 120.603046,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q18750569",
+      "name_tl": "Simbahan ng Tayum",
+      "name_en": "Saint Catherine of Alexandria Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1803,
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Abra",
+      "bayan": "Tayum",
+      "latitude": 17.6187,
+      "longitude": 120.654,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q130540611",
+      "name_tl": "Conversion of Saint Paul Parish Church",
+      "name_en": "Conversion of Saint Paul Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Benguet",
+      "bayan": "Tuba",
+      "latitude": 16.391983,
+      "longitude": 120.561942,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q130540667",
+      "name_tl": "Immaculate Conception Parish Church",
+      "name_en": "Immaculate Conception Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Benguet",
+      "bayan": "Bokod",
+      "latitude": 16.490609,
+      "longitude": 120.829616,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q130540686",
+      "name_tl": "Immaculate Conception Parish Church",
+      "name_en": "Immaculate Conception Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Benguet",
+      "bayan": "Sablan",
+      "latitude": 16.494945,
+      "longitude": 120.488445,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q131694639",
+      "name_tl": "Sacred Heart of Jesus Quasi-Parish Church",
+      "name_en": "Sacred Heart of Jesus Quasi-Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Benguet",
+      "bayan": "La Trinidad",
+      "latitude": 16.446522,
+      "longitude": 120.59076,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q65058955",
+      "name_tl": "San Jose the Husband of Mary Parish Church",
+      "name_en": "San Jose the Husband of Mary Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Benguet",
+      "bayan": "La Trinidad",
+      "latitude": 16.46097,
+      "longitude": 120.58672,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q130642707",
+      "name_tl": "Saint Francis of Assisi Parish Church",
+      "name_en": "Saint Francis of Assisi Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Ifugao",
+      "bayan": "Lamut",
+      "latitude": 16.649553,
+      "longitude": 121.223134,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q134383625",
+      "name_tl": "Cathedral of All Saints Episcopal Church",
+      "name_en": "Cathedral of All Saints Episcopal Church",
+      "denominasyon": "Anglicanism",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Mountain Province",
+      "bayan": "Bontoc",
+      "latitude": 17.088889,
+      "longitude": 120.978194,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q105697709",
+      "name_tl": "Katedral ng Bontoc",
+      "name_en": "Bontoc Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Mountain Province",
+      "bayan": "Bontoc",
+      "latitude": 17.0915,
+      "longitude": 120.977139,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q17001755",
+      "name_tl": "Simbahan ng Santa Maria Birhen",
+      "name_en": "Church of St. Mary the Virgin",
+      "denominasyon": "Anglicanism",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Mountain Province",
+      "bayan": "Sagada",
+      "latitude": 17.08366,
+      "longitude": 120.90216,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q134349469",
+      "name_tl": "Simbahang Episkopal ng Saint Michael and All Angel's",
+      "name_en": "Saint Michael and All Angel's Episcopal Church",
+      "denominasyon": "",
+      "taon_itinatag": "",
+      "rehiyon": "Cordillera Administrative Region",
+      "lalawigan": "Mountain Province",
+      "bayan": "Tadian",
+      "latitude": 16.9975,
+      "longitude": 120.82,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Simbahan - Cordillera Administrative Region - Libreng download",
+    "description": "Mga simbahan sa rehiyong Cordillera Administrative Region, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Cordillera Administrative Region, Philippines.) Naglalaman ng 16 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Simbahan - Cordillera Administrative Region | ListBase",
+    "seo_description": "I-download Mga Simbahan - Cordillera Administrative Region — 16 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 16 talaan / 12 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

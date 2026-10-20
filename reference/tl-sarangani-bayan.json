@@ -1,0 +1,112 @@
+{
+  "id": "tl-sarangani-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Sarangani",
+  "title": "Mga Bayan ng Lalawigan ng Sarangani",
+  "description": "Listahan ng 7 munisipalidad (bayan) sa lalawigan ng Sarangani, REGION XII (SOCCSKSARGEN), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "128001000",
+      "name": "ALABEL (Capital)",
+      "province": "SARANGANI",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 80359,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "128002000",
+      "name": "GLAN",
+      "province": "SARANGANI",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 118263,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "128003000",
+      "name": "KIAMBA",
+      "province": "SARANGANI",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 61058,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "128004000",
+      "name": "MAASIM",
+      "province": "SARANGANI",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 59468,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "128005000",
+      "name": "MAITUM",
+      "province": "SARANGANI",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 44595,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "128006000",
+      "name": "MALAPATAN",
+      "province": "SARANGANI",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 76914,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "128007000",
+      "name": "MALUNGON",
+      "province": "SARANGANI",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 103604,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Sarangani - Libreng download",
+    "description": "Listahan ng 7 munisipalidad (bayan) sa lalawigan ng Sarangani, REGION XII (SOCCSKSARGEN), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 7 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Sarangani | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Sarangani — 7 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 7 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

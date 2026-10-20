@@ -1,0 +1,244 @@
+{
+  "id": "tl-oriental-mindoro-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Oriental Mindoro",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Oriental Mindoro",
+  "description": "Direktoryo ng 14 lungsod at bayan sa lalawigan ng Oriental Mindoro (Mimaropa (Region IV-B)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Oriental Mindoro` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Baco",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5201",
+      "punong_bayan": "ALLAN A. ROLDAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REYNALDO A. MARCO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bansud",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5210",
+      "punong_bayan": "RONALDO M. MORADA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RICO B. TOLENTINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Bongabong",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5211",
+      "punong_bayan": "ELEGIO A. MALALUAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RICHARD S. CANDELARIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Bulalacao",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5214",
+      "punong_bayan": "ERNILO C. VILLAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMON G. MAGBANUA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Gloria",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5209",
+      "punong_bayan": "GERMAN D. RODEGERIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMEO EDWARD P. ALVAREZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Mansalay",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5213",
+      "punong_bayan": "FERDINAND M. MALIWANAG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SHERNAN F. GAMOL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Naujan",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5204",
+      "punong_bayan": "HENRY JOEL C. TEVES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GREAT M. DELOS REYES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Pinamalayan",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5208",
+      "punong_bayan": "ARISTEO A. BALDOS JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RODOLFO R. MAGSINO",
+      "kontak_pangalawang_punong_bayan": "(043) 284-3327"
+    },
+    {
+      "id": 9,
+      "lgu": "Pola",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5206",
+      "punong_bayan": "JENNIFER M. CRUZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARVIN T. RIVERA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Puerto Galera",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5203",
+      "punong_bayan": "ROCKY D. ILAGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARLON L. LOPEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Roxas",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5212",
+      "punong_bayan": "LEO G. CUSI SR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JERWIN S. DIMAPILIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "San Teodoro",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5202",
+      "punong_bayan": "SALVADOR R. PY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NEWTON JOHN S. MORENO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Socorro",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5207",
+      "punong_bayan": "NEMMEN O. PEREZ",
+      "kontak_punong_bayan": "(043) 351-2132",
+      "pangalawang_punong_bayan": "ROY A. DE CLARO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Victoria",
+      "uri": "Bayan",
+      "lalawigan": "ORIENTAL MINDORO",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5205",
+      "punong_bayan": "JOSELITO C. MALABANAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARLO V. NUARIN",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Oriental Mindoro - Libreng download",
+    "description": "Direktoryo ng 14 lungsod at bayan sa lalawigan ng Oriental Mindoro (Mimaropa (Region IV-B)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Oriental Mindoro` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 14 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Oriental Mindoro | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Oriental Mindoro — 14 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 14 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

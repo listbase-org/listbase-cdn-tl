@@ -1,0 +1,88 @@
+{
+  "id": "tl-pasay-bangko",
+  "name": "Mga Bangko sa City of Pasay",
+  "title": "Mga Bangko sa City of Pasay",
+  "description": "Listahan ng 4 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Pasay (source city string: \"CITY OF PASAY\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "ATDBPHM10M7",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF PASAY",
+      "city_titlecase": "City of Pasay",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRBFPHM1",
+      "name": "TRADERS ROYAL BANK",
+      "name_titlecase": "Traders Royal BANK",
+      "city": "CITY OF PASAY",
+      "city_titlecase": "City of Pasay",
+      "branch": ""
+    },
+    {
+      "swift_code": "HENEPHM1",
+      "name": "YU HENG SECURITIES INC.",
+      "name_titlecase": "Yu Heng Securities INC.",
+      "city": "CITY OF PASAY",
+      "city_titlecase": "City of Pasay",
+      "branch": ""
+    },
+    {
+      "swift_code": "ZBTEPHM2",
+      "name": "ZYBI TECH INC.",
+      "name_titlecase": "Zybi Tech INC.",
+      "city": "CITY OF PASAY",
+      "city_titlecase": "City of Pasay",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Pasay - Libreng download",
+    "description": "Listahan ng 4 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Pasay (source city string: \"CITY OF PASAY\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 4 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Pasay | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Pasay — 4 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 4 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

@@ -1,0 +1,1072 @@
+{
+  "id": "tl-makati-bangko",
+  "name": "Mga Bangko sa City of Makati",
+  "title": "Mga Bangko sa City of Makati",
+  "description": "Listahan ng 127 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Makati (source city string: \"CITY OF MAKATI\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 127,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "AASQPHM1",
+      "name": "AAA SOUTHEAST EQUITIES INC.",
+      "name_titlecase": "Aaa Southeast Equities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CAVPPHM1",
+      "name": "AB CAPITAL AND INVESTMENT CORPORATION",
+      "name_titlecase": "Ab Capital and Investment Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "AIACPHMM",
+      "name": "AIA PHILIPPINES",
+      "name_titlecase": "AIA Philippines",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "AIIPPHM1",
+      "name": "AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES",
+      "name_titlecase": "Al-amanah Islamic Investment BANK of the Philippines",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "AIIPPHMM",
+      "name": "AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES",
+      "name_titlecase": "Al-amanah Islamic Investment BANK of the Philippines",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ALSGPHM1",
+      "name": "ALLIED SAVINGS BANK",
+      "name_titlecase": "Allied Savings BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ALPCPHM1",
+      "name": "ALPHA SECURITIES CORP.",
+      "name_titlecase": "Alpha Securities CORP.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "AMONPHM1",
+      "name": "AMON SECURITIES CORP.",
+      "name_titlecase": "Amon Securities CORP.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ASISPHM1",
+      "name": "ASI SECURITIES INC.",
+      "name_titlecase": "Asi Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ANZBPHMX",
+      "name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+      "name_titlecase": "Australia and New Zealand Banking Group Limited",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "AYCOPHMM",
+      "name": "AYALA CORPORATION",
+      "name_titlecase": "Ayala Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BFSRPHM2",
+      "name": "BANANA FINTECH SERVICES CORPORATION",
+      "name_titlecase": "Banana Fintech Services Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BNNNPH22",
+      "name": "BANCNET, INC.",
+      "name_titlecase": "Bancnet, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BNNNPHM2",
+      "name": "BANCNET, INC.",
+      "name_titlecase": "Bancnet, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ORSIPHM1",
+      "name": "BANCO DE ORO SAVINGS BANK, INC.",
+      "name_titlecase": "Banco de Oro Savings BANK, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BKKBPHMM",
+      "name": "BANGKOK BANK PUBLIC COMPANY LIMITED, MANILA BRANCH",
+      "name_titlecase": "Bangkok BANK Public Company Limited, Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BOFAPH2X",
+      "name": "BANK OF AMERICA, N.A. MANILA",
+      "name_titlecase": "BANK of America, N.a. Manila",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "COBMPHM1",
+      "name": "BANK OF COMMERCE",
+      "name_titlecase": "BANK of Commerce",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MKRUPHM1",
+      "name": "BANK OF MAKATI (A SAVINGS BANK), INC.",
+      "name_titlecase": "BANK of Makati (a Savings BANK), INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BOPIPHMM",
+      "name": "BANK OF THE PHILIPPINE ISLANDS",
+      "name_titlecase": "BANK of the Philippine Islands",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BOPIPHMMTRY",
+      "name": "BANK OF THE PHILIPPINE ISLANDS",
+      "name_titlecase": "BANK of the Philippine Islands",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": "TREASURY GROUP"
+    },
+    {
+      "swift_code": "BROXPHM1",
+      "name": "BARCELON ROXAS SECURITIES INC.",
+      "name_titlecase": "Barcelon Roxas Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BOPBPHMM",
+      "name": "BDO PRIVATE BANK INC.",
+      "name_titlecase": "BDO Private BANK INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BDSCPHM1",
+      "name": "BDO SECURITIES CORPORATION",
+      "name_titlecase": "BDO Securities Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BNORPHMM",
+      "name": "BDO UNIBANK, INC.",
+      "name_titlecase": "BDO Unibank, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BFSCPHM1",
+      "name": "BFE FINANCIAL SVCS. AND CONSULTANCY, INC.",
+      "name_titlecase": "Bfe Financial Svcs. and Consultancy, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPPSPHM1",
+      "name": "BNP PARIBAS PEREGRINE SECURITIES, INC",
+      "name_titlecase": "BNP Paribas Peregrine Securities, INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BNPAPHMM",
+      "name": "BNP PARIBAS, MANILA OFFSHORE BRANCH",
+      "name_titlecase": "BNP Paribas, Manila Offshore Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPCNPHM1",
+      "name": "BPI CARD FINANCE",
+      "name_titlecase": "BPI Card Finance",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPDIPHM1",
+      "name": "BPI DIRECT",
+      "name_titlecase": "BPI Direct",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPFSPHM1",
+      "name": "BPI FAMILY SAVINGS BANK",
+      "name_titlecase": "BPI Family Savings BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPGOPHM1",
+      "name": "BPI GLOBE BANKO INC.",
+      "name_titlecase": "BPI Globe Banko INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CALAPHM10M2",
+      "name": "CAMPOS, LANUZA AND CO. INC.",
+      "name_titlecase": "Campos, Lanuza and CO. INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "UWCBPHMM",
+      "name": "CATHAY UNITED BANK CO., LTD. MANILA BRANCH",
+      "name_titlecase": "Cathay United BANK CO., LTD. Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CCBCPHMM",
+      "name": "CHANG HWA COMMERCIAL BANK,LTD. MANILA BRANCH",
+      "name_titlecase": "Chang Hwa Commercial Bank,ltd. Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHSVPHM1",
+      "name": "CHINA BANK SAVINGS, INC.",
+      "name_titlecase": "China BANK Savings, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHBKPHMM",
+      "name": "CHINA BANKING CORPORATION",
+      "name_titlecase": "China Banking Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CLSAPHM1",
+      "name": "CLSA PHILIPPINES, INC.",
+      "name_titlecase": "Clsa Philippines, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CRESPHM1",
+      "name": "CREDIT SUISSE SECURITIES (PHILIPPINES) INC.",
+      "name_titlecase": "Credit Suisse Securities (philippines) INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CRSEPHM1",
+      "name": "CROSBY SECURITIES (PHILS) INC.",
+      "name_titlecase": "Crosby Securities (phils) INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "DBSHPHM1",
+      "name": "DBP-DAIWA CAPITAL MARKETS PHILIPPINES, INC.",
+      "name_titlecase": "Dbp-daiwa Capital Markets Philippines, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "DBSPPHM1",
+      "name": "DBS SECURITIES (PHILS) INC",
+      "name_titlecase": "DBS Securities (phils) INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MGPSPHM1",
+      "name": "DEUTSCHE REGIS PARTNERS, INC.",
+      "name_titlecase": "Deutsche Regis Partners, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "DBPHPHMM",
+      "name": "DEVELOPMENT BANK OF THE PHILIPPINES",
+      "name_titlecase": "Development BANK of the Philippines",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "DHSPPHM1",
+      "name": "DHARMALA INTL. PHILS. INC.",
+      "name_titlecase": "Dharmala Intl. Phils. INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "EWBCPHMM",
+      "name": "EAST WEST BANKING CORPORATION",
+      "name_titlecase": "East West Banking Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "EQSNPHM1",
+      "name": "EQUICOM SAVINGS BANK, INC.",
+      "name_titlecase": "Equicom Savings BANK, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "FCBKPHMM",
+      "name": "FIRST COMMERCIAL BANK, LTD., MANILA BRANCH",
+      "name_titlecase": "First Commercial BANK, LTD., Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "FMSOPHM1",
+      "name": "FIRST METRO SECURITIES BROKERAGE CORPORATION",
+      "name_titlecase": "First Metro Securities Brokerage Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "FIOSPHM1",
+      "name": "FIRST ORIENT SECURITIES INC",
+      "name_titlecase": "First Orient Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "TANNPHM1",
+      "name": "G.D. TAN AND CO INC",
+      "name_titlecase": "G.d. Tan and CO INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "GKGSPHM1",
+      "name": "G.K. GOH SECURITIES (PHILIPPINES) INC.",
+      "name_titlecase": "G.k. Goh Securities (philippines) INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "GUISPHM1",
+      "name": "GUILD SECURITIES INC",
+      "name_titlecase": "Guild Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "GUSPPHM1",
+      "name": "GUOCO SECURITIES (PHILS) INC",
+      "name_titlecase": "Guoco Securities (phils) INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "HDISPHM1",
+      "name": "HDI SECURITIES INC",
+      "name_titlecase": "Hdi Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "HNBKPHMM",
+      "name": "HUA NAN COMMERCIAL BANK, LTD. MANILA BRANCH",
+      "name_titlecase": "Hua Nan Commercial BANK, LTD. Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ACKEPHM1",
+      "name": "I. ACKERMAN AND CO INC",
+      "name_titlecase": "I. Ackerman and CO INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "IGCSPHM1",
+      "name": "IGC SECURITIES, INC.",
+      "name_titlecase": "Igc Securities, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "IMGAPHM1",
+      "name": "IMPERIAL DE GUZMAN, ABALOS AND CO INC.",
+      "name_titlecase": "Imperial de Guzman, Abalos and CO INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "WICAPHM1",
+      "name": "INDOSUEZ W.I. CARR SECURITIES (PHILIPPINES) INC.",
+      "name_titlecase": "Indosuez W.i. Carr Securities (philippines) INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "IFIPPHM2",
+      "name": "INFOSERVE INCORPORATED",
+      "name_titlecase": "Infoserve Incorporated",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "INIEPHM1",
+      "name": "INTRA-INVEST SECURITIES INC",
+      "name_titlecase": "Intra-invest Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "INVUPHM1",
+      "name": "INVESTORS SECURITIES INC",
+      "name_titlecase": "Investors Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ISTHPHM1",
+      "name": "ISLA BANK (A THRIFT BANK), INC.",
+      "name_titlecase": "Isla BANK (a Thrift BANK), INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHASPHS1",
+      "name": "J.P. MORGAN SECURITIES PHILIPPINES INC.",
+      "name_titlecase": "J.P. Morgan Securities Philippines INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHASPHMMOBU",
+      "name": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+      "name_titlecase": "Jpmorgan Chase BANK, N.a., Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": "OFFHORE BANKING UNIT"
+    },
+    {
+      "swift_code": "KOEXPHMM",
+      "name": "KEB HANA BANK",
+      "name_titlecase": "Keb Hana BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "LARCPHM1",
+      "name": "LARRGO SECURITIES CO INC",
+      "name_titlecase": "Larrgo Securities CO INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "LOLLPHM1",
+      "name": "LOPEZ, LOCSIN, LEDESMA AND CO INC",
+      "name_titlecase": "Lopez, Locsin, Ledesma and CO INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MAARPHM1",
+      "name": "MALAYAN BANK SAVINGS AND MORTGAGE BANK",
+      "name_titlecase": "Malayan BANK Savings and Mortgage BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MABCPHM1",
+      "name": "MANILA BANKING CORP.",
+      "name_titlecase": "Manila Banking CORP.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MAIEPHM1",
+      "name": "MARIAN SECURITIES INC",
+      "name_titlecase": "Marian Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MAKCPHM1",
+      "name": "MARK SECURITIES CORP",
+      "name_titlecase": "Mark Securities CORP",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATSCPHM1",
+      "name": "MAYBANK ATR KIM ENG SECURITIES, INC.",
+      "name_titlecase": "Maybank Atr Kim Eng Securities, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "KMESPHM1",
+      "name": "MAYBANK ATR KIM ENG SECURITIES, INC.",
+      "name_titlecase": "Maybank Atr Kim Eng Securities, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PESPPHM1",
+      "name": "MAYBANK ATR KIM ENG SECURITIES, INC.",
+      "name_titlecase": "Maybank Atr Kim Eng Securities, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ICBCPHMM",
+      "name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., MANILA BRANCH",
+      "name_titlecase": "Mega International Commercial BANK CO., LTD., Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MERUPHM1",
+      "name": "MERCANTILE SECURITIES CORP",
+      "name_titlecase": "Mercantile Securities CORP",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MSLSPHM1",
+      "name": "MERCHANTS SAVINGS AND LOAN ASSOCIATION, INC.",
+      "name_titlecase": "Merchants Savings and Loan Association, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MLSPPHM1",
+      "name": "MERRILL LYNCH SECURITIES PHILIPPINES INC.",
+      "name_titlecase": "Merrill Lynch Securities Philippines INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MEOPPHM2",
+      "name": "METRO SOUTH COOPERATIVE BANK",
+      "name_titlecase": "Metro South Cooperative BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MCCEPHM1",
+      "name": "METROBANK CARD CORPORATION (A FINANCE CO.)",
+      "name_titlecase": "Metrobank Card Corporation (a Finance CO.)",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MBTCPHMM",
+      "name": "METROPOLITAN BANK AND TRUST CO.",
+      "name_titlecase": "Metropolitan BANK and Trust CO.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MHCBPHMM",
+      "name": "MIZUHO BANK, LTD., MANILA BRANCH",
+      "name_titlecase": "MIZUHO BANK, LTD., Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BOTKPHMM",
+      "name": "MUFG BANK, LTD., MANILA BRANCH",
+      "name_titlecase": "MUFG BANK, LTD., Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": "MANILA BRANCH"
+    },
+    {
+      "swift_code": "MUIAPHM1",
+      "name": "MULTINATIONAL INVESTMENT BANCORPORATION",
+      "name_titlecase": "Multinational Investment Bancorporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "OMNPPHM2",
+      "name": "OMNIPAY, INC.",
+      "name_titlecase": "Omnipay, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "OMLFPHM1",
+      "name": "ORIX METRO LEASING AND FINANCE CORPORATION",
+      "name_titlecase": "Orix Metro Leasing and Finance Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PATPPHM1",
+      "name": "PACIFIC ASIAN ATLANTIC CAPITAL INC.",
+      "name_titlecase": "Pacific Asian Atlantic Capital INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PSBOPHM1",
+      "name": "PCCI SECURITIES BROKERS CORPORATION",
+      "name_titlecase": "Pcci Securities Brokers Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CPHIPHMM",
+      "name": "PHILIPPINE BANK OF COMMUNICATIONS",
+      "name_titlecase": "Philippine BANK of Communications",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCCPHM1",
+      "name": "PHILIPPINE COMMERCIAL CAPITAL, INC.",
+      "name_titlecase": "Philippine Commercial Capital, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCDPHM1",
+      "name": "PHILIPPINE DEPOSITORY AND TRUST CORP",
+      "name_titlecase": "Philippine Depository and Trust CORP",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PDTUPHM1",
+      "name": "PHILIPPINE DEPOSITORY AND TRUST CORP. (CUSTODY)",
+      "name_titlecase": "Philippine Depository and Trust CORP. (custody)",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PDTDPHM1",
+      "name": "PHILIPPINE DEPOSITORY AND TRUST CORP. (DEPOSITORY)",
+      "name_titlecase": "Philippine Depository and Trust CORP. (depository)",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PDTCPHM1",
+      "name": "PHILIPPINE DEPOSITORY AND TRUST CORPORATION",
+      "name_titlecase": "Philippine Depository and Trust Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PEQPPHM1",
+      "name": "PHILIPPINE EQUITY PARTNERS INC.",
+      "name_titlecase": "Philippine Equity Partners INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHSBPHMM",
+      "name": "PHILIPPINE SAVINGS BANK",
+      "name_titlecase": "Philippine Savings BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHVBPHMM",
+      "name": "PHILIPPINE VETERANS BANK",
+      "name_titlecase": "Philippine Veterans BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PLAIPHM1",
+      "name": "PLATINUM SECURITIES INC.",
+      "name_titlecase": "Platinum Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PNSAPHM1",
+      "name": "PNB SAVINGS BANK",
+      "name_titlecase": "PNB Savings BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PRDEPHM1",
+      "name": "PREMIERE DEVELOPMENT BANK",
+      "name_titlecase": "Premiere Development BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "QWBSPHM2",
+      "name": "QWIKWIRE BILLING SYSTEMS INC",
+      "name_titlecase": "Qwikwire Billing Systems INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "RCCOPHM1",
+      "name": "RCBC CAPITAL CORPORATION",
+      "name_titlecase": "RCBC Capital Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "RCSAPHM1",
+      "name": "RCBC SAVINGS BANK, INC.",
+      "name_titlecase": "RCBC Savings BANK, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "RCBCPH21",
+      "name": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "name_titlecase": "Rizal Commercial Banking Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": "FOREIGN CURRENCY DEPOSIT UNIT - FCDU"
+    },
+    {
+      "swift_code": "RTGCPHM1",
+      "name": "RTG AND CO. INC.",
+      "name_titlecase": "Rtg and CO. INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PUBLPHM1",
+      "name": "SALISBURY BKT SECURITIES CORPORATION (FORMERLY: PUBLIC SECURITIES CORPORATION)",
+      "name_titlecase": "Salisbury Bkt Securities Corporation (formerly: Public Securities Corporation)",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SAPPPHM1",
+      "name": "SAPPHIRE SECURITIES INC.",
+      "name_titlecase": "Sapphire Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "EQICPHM1",
+      "name": "SB EQUITIES INCORPORATED",
+      "name_titlecase": "Sb Equities Incorporated",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SETCPHMM",
+      "name": "SECURITY BANK CORPORATION",
+      "name_titlecase": "Security BANK Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SGSEPHM1",
+      "name": "SG SECURITIES (PHILIPPINES),INC.",
+      "name_titlecase": "Sg Securities (philippines),inc.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SCBLPHMM",
+      "name": "STANDARD CHARTERED BANK",
+      "name_titlecase": "Standard Chartered BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SCBLPHMMEQI",
+      "name": "STANDARD CHARTERED BANK",
+      "name_titlecase": "Standard Chartered BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": "CUSTODIAL DEPARTMENT"
+    },
+    {
+      "swift_code": "SMBCPHMM",
+      "name": "SUMITOMO MITSUI BANKING CORPORATION MANILA BRANCH",
+      "name_titlecase": "Sumitomo Mitsui Banking Corporation Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SSSTPHM1",
+      "name": "SYSTEMS STANDARDS INC.",
+      "name_titlecase": "Systems Standards INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "TAGCPHM2",
+      "name": "TAGCASH LTD. INC.",
+      "name_titlecase": "Tagcash LTD. INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MFCTPHMM",
+      "name": "THE MANUFACTURERS LIFE INSURANCE CO. (PHILS.), INC.",
+      "name_titlecase": "The Manufacturers Life Insurance CO. (phils.), INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "TOKTPHM2",
+      "name": "TOKTOKWALLET INC.",
+      "name_titlecase": "Toktokwallet INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "TFSHPHM1",
+      "name": "TOYOTA FINANCIAL SERVICES PHILIPPINES, CORP.",
+      "name_titlecase": "Toyota Financial Services Philippines, CORP.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "UBPPPHM1",
+      "name": "UBP SECURITIES INC.",
+      "name_titlecase": "Ubp Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SWDEPHM1",
+      "name": "UBS SECURITIES PHILIPPINES INC",
+      "name_titlecase": "UBS Securities Philippines INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "UCSVPHM1",
+      "name": "UCPB SAVINGS BANK, INC.",
+      "name_titlecase": "UCPB Savings BANK, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CPBBPHM1",
+      "name": "UCPB SECURITIES INC.",
+      "name_titlecase": "UCPB Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "UCSEPHM1",
+      "name": "UNICAPITAL SECURITIES,INC.",
+      "name_titlecase": "Unicapital Securities,inc.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "UOVBPHMM",
+      "name": "UNITED OVERSEAS BANK LIMITED - MANILA BRANCH",
+      "name_titlecase": "United Overseas BANK Limited - Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "UKHCPHM1",
+      "name": "UOB-KAY HIAN SECURITIES (PHILIPPINES), INC.",
+      "name_titlecase": "Uob-kay Hian Securities (philippines), INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Makati - Libreng download",
+    "description": "Listahan ng 127 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Makati (source city string: \"CITY OF MAKATI\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 127 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Makati | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Makati — 127 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 127 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

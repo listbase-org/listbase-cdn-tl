@@ -1,0 +1,232 @@
+{
+  "id": "tl-lanao-del-norte-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Lanao Del Norte",
+  "title": "Mga Bayan ng Lalawigan ng Lanao Del Norte",
+  "description": "Listahan ng 22 munisipalidad (bayan) sa lalawigan ng Lanao Del Norte, REGION X (NORTHERN MINDANAO), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "103501000",
+      "name": "BACOLOD",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 23034,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "103502000",
+      "name": "BALOI",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 58383,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "103503000",
+      "name": "BAROY",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 22600,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "103505000",
+      "name": "KAPATAGAN",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 62853,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "103507000",
+      "name": "KAUSWAGAN",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 26278,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "103508000",
+      "name": "KOLAMBUGAN",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 27005,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "103509000",
+      "name": "LALA",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 67727,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "103510000",
+      "name": "LINAMON",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 20341,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "103511000",
+      "name": "MAGSAYSAY",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 19019,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "103512000",
+      "name": "MAIGO",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 21666,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "103513000",
+      "name": "MATUNGAO",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 13975,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "103514000",
+      "name": "MUNAI",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 32973,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "103515000",
+      "name": "NUNUNGAN",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 18367,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "103516000",
+      "name": "PANTAO RAGAT",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 27866,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "103523000",
+      "name": "PANTAR",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 21773,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "103517000",
+      "name": "POONA PIAGAPO",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 27018,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "103518000",
+      "name": "SALVADOR",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 31845,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "103519000",
+      "name": "SAPAD",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 21309,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "103506000",
+      "name": "SULTAN NAGA DIMAPORO (KAROMATAN)",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 56764,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "103520000",
+      "name": "TAGOLOAN",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 13253,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "103521000",
+      "name": "TANGCAL",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 15181,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "103522000",
+      "name": "TUBOD (Capital)",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 47165,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Lanao Del Norte - Libreng download",
+    "description": "Listahan ng 22 munisipalidad (bayan) sa lalawigan ng Lanao Del Norte, REGION X (NORTHERN MINDANAO), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 22 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Lanao Del Norte | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Lanao Del Norte — 22 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 22 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

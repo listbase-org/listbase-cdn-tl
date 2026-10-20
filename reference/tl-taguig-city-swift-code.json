@@ -1,0 +1,82 @@
+{
+  "id": "tl-taguig-city-swift-code",
+  "name": "Mga SWIFT/BIC code — Taguig City",
+  "title": "Mga SWIFT/BIC code — Taguig City",
+  "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 6 institusyon na nakalista sa pinagkunan sa lungsod na \"TAGUIG CITY\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BDO ELITE SAVINGS BANK, INC.",
+      "city": "TAGUIG CITY",
+      "branch": "",
+      "swift_code": "BDESPHM1"
+    },
+    {
+      "bank": "COUNTRY BUILDERS BANK INC. (A RURAL BANK)",
+      "city": "TAGUIG CITY",
+      "branch": "",
+      "swift_code": "COUKPHM1"
+    },
+    {
+      "bank": "CTBC BANK (PHILIPPINES) CORP.",
+      "city": "TAGUIG CITY",
+      "branch": "",
+      "swift_code": "CTCBPHMM"
+    },
+    {
+      "bank": "INSULAR SAVERS BANK, INC. (A RURAL BANK)",
+      "city": "TAGUIG CITY",
+      "branch": "",
+      "swift_code": "ISVBPHM1"
+    },
+    {
+      "bank": "SHINHAN BANK MANILA BRANCH",
+      "city": "TAGUIG CITY",
+      "branch": "",
+      "swift_code": "SHBKPHMM"
+    },
+    {
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "city": "TAGUIG CITY",
+      "branch": "",
+      "swift_code": "HSBCPHMM"
+    }
+  ],
+  "meta": {
+    "title": "Mga SWIFT/BIC code — Taguig City - Libreng download",
+    "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 6 institusyon na nakalista sa pinagkunan sa lungsod na \"TAGUIG CITY\". Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga SWIFT/BIC code — Taguig City | ListBase",
+    "seo_description": "I-download Mga SWIFT/BIC code — Taguig City — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

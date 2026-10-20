@@ -1,0 +1,263 @@
+{
+  "id": "tl-pilipinas-sa-olimpiyada-medalya",
+  "name": "Pilipinas sa Olimpiyada — mga nagwagi ng medalya 1928–2020 (14)",
+  "title": "Pilipinas sa Olimpiyada — mga nagwagi ng medalya 1928–2020 (14)",
+  "description": "Lahat ng puwestong may medalya ng mga atletang kumatawan sa Pilipinas (code PHI) sa Summer at Winter Olympics ayon sa olympedia.org: taon, uri ng palaro, isport, kaganapan, atleta, koponan/kapareha, puwesto at medalya. Isang tala = isang atleta sa isang kaganapan. Saklaw hanggang 2022 (wala pa sa pinagmulan ang Paris 2024, kaya hindi kasama ang dalawang gintong medalya ni Carlos Yulo). Ang mga pangalan ng isport, kaganapan at koponan pati ang mga code ng puwesto ay iniwan gaya ng nasa pinagmulan (Ingles). Hindi kasama: Youth Olympics at mga exhibition event na walang medalya.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "uri_ng_palaro",
+      "label": "Uri Ng Palaro",
+      "type": "string"
+    },
+    {
+      "key": "palaro_pinagmulan",
+      "label": "Palaro Pinagmulan",
+      "type": "string"
+    },
+    {
+      "key": "isport",
+      "label": "Isport",
+      "type": "string"
+    },
+    {
+      "key": "kaganapan",
+      "label": "Kaganapan",
+      "type": "string"
+    },
+    {
+      "key": "atleta",
+      "label": "Atleta",
+      "type": "string"
+    },
+    {
+      "key": "id_ng_atleta",
+      "label": "Id Ng Atleta",
+      "type": "number"
+    },
+    {
+      "key": "koponan_o_kapareha",
+      "label": "Koponan O Kapareha",
+      "type": "string"
+    },
+    {
+      "key": "puwesto",
+      "label": "Puwesto",
+      "type": "number"
+    },
+    {
+      "key": "tabla_sa_puwesto",
+      "label": "Tabla Sa Puwesto",
+      "type": "boolean"
+    },
+    {
+      "key": "medalya",
+      "label": "Medalya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "taon": 1928,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "1928 Summer Olympics",
+      "isport": "Swimming (Aquatics)",
+      "kaganapan": "200 metres Breaststroke, Men (Olympic)",
+      "atleta": "Teófilo Yldefonso",
+      "id_ng_atleta": 49748,
+      "koponan_o_kapareha": "",
+      "puwesto": "3",
+      "tabla_sa_puwesto": false,
+      "medalya": "Tanso"
+    },
+    {
+      "taon": 1932,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "1932 Summer Olympics",
+      "isport": "Athletics",
+      "kaganapan": "High Jump, Men (Olympic)",
+      "atleta": "Simeon Toribio",
+      "id_ng_atleta": 74549,
+      "koponan_o_kapareha": "",
+      "puwesto": "3",
+      "tabla_sa_puwesto": false,
+      "medalya": "Tanso"
+    },
+    {
+      "taon": 1932,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "1932 Summer Olympics",
+      "isport": "Boxing",
+      "kaganapan": "Bantamweight, Men (Olympic)",
+      "atleta": "José Luis Villanueva",
+      "id_ng_atleta": 7681,
+      "koponan_o_kapareha": "",
+      "puwesto": "3",
+      "tabla_sa_puwesto": false,
+      "medalya": "Tanso"
+    },
+    {
+      "taon": 1932,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "1932 Summer Olympics",
+      "isport": "Swimming (Aquatics)",
+      "kaganapan": "200 metres Breaststroke, Men (Olympic)",
+      "atleta": "Teófilo Yldefonso",
+      "id_ng_atleta": 49748,
+      "koponan_o_kapareha": "",
+      "puwesto": "3",
+      "tabla_sa_puwesto": false,
+      "medalya": "Tanso"
+    },
+    {
+      "taon": 1936,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "1936 Summer Olympics",
+      "isport": "Athletics",
+      "kaganapan": "400 metres Hurdles, Men (Olympic)",
+      "atleta": "Miguel White",
+      "id_ng_atleta": 74553,
+      "koponan_o_kapareha": "",
+      "puwesto": "3",
+      "tabla_sa_puwesto": false,
+      "medalya": "Tanso"
+    },
+    {
+      "taon": 1964,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "1964 Summer Olympics",
+      "isport": "Boxing",
+      "kaganapan": "Featherweight, Men (Olympic)",
+      "atleta": "Anthony Villanueva",
+      "id_ng_atleta": 7680,
+      "koponan_o_kapareha": "",
+      "puwesto": "2",
+      "tabla_sa_puwesto": false,
+      "medalya": "Pilak"
+    },
+    {
+      "taon": 1988,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "1988 Summer Olympics",
+      "isport": "Boxing",
+      "kaganapan": "Light-Flyweight, Men (Olympic)",
+      "atleta": "Leopoldo Serantes",
+      "id_ng_atleta": 7670,
+      "koponan_o_kapareha": "",
+      "puwesto": "=3",
+      "tabla_sa_puwesto": true,
+      "medalya": "Tanso"
+    },
+    {
+      "taon": 1992,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "1992 Summer Olympics",
+      "isport": "Boxing",
+      "kaganapan": "Light-Flyweight, Men (Olympic)",
+      "atleta": "Roel Velasco",
+      "id_ng_atleta": 7676,
+      "koponan_o_kapareha": "",
+      "puwesto": "=3",
+      "tabla_sa_puwesto": true,
+      "medalya": "Tanso"
+    },
+    {
+      "taon": 1996,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "1996 Summer Olympics",
+      "isport": "Boxing",
+      "kaganapan": "Light-Flyweight, Men (Olympic)",
+      "atleta": "Mansueto Velasco",
+      "id_ng_atleta": 7675,
+      "koponan_o_kapareha": "",
+      "puwesto": "2",
+      "tabla_sa_puwesto": false,
+      "medalya": "Pilak"
+    },
+    {
+      "taon": 2016,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "2016 Summer Olympics",
+      "isport": "Weightlifting",
+      "kaganapan": "Featherweight, Women (Olympic)",
+      "atleta": "Hidilyn Diaz",
+      "id_ng_atleta": 116263,
+      "koponan_o_kapareha": "",
+      "puwesto": "2",
+      "tabla_sa_puwesto": false,
+      "medalya": "Pilak"
+    },
+    {
+      "taon": 2020,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "2020 Summer Olympics",
+      "isport": "Boxing",
+      "kaganapan": "Featherweight, Women (Olympic)",
+      "atleta": "Nesthy Petecio",
+      "id_ng_atleta": 145878,
+      "koponan_o_kapareha": "",
+      "puwesto": "2",
+      "tabla_sa_puwesto": false,
+      "medalya": "Pilak"
+    },
+    {
+      "taon": 2020,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "2020 Summer Olympics",
+      "isport": "Boxing",
+      "kaganapan": "Flyweight, Men (Olympic)",
+      "atleta": "Carlo Paalam",
+      "id_ng_atleta": 145885,
+      "koponan_o_kapareha": "",
+      "puwesto": "2",
+      "tabla_sa_puwesto": false,
+      "medalya": "Pilak"
+    },
+    {
+      "taon": 2020,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "2020 Summer Olympics",
+      "isport": "Boxing",
+      "kaganapan": "Middleweight, Men (Olympic)",
+      "atleta": "Eumir Marcial",
+      "id_ng_atleta": 145886,
+      "koponan_o_kapareha": "",
+      "puwesto": "=3",
+      "tabla_sa_puwesto": true,
+      "medalya": "Tanso"
+    },
+    {
+      "taon": 2020,
+      "uri_ng_palaro": "Tag-init",
+      "palaro_pinagmulan": "2020 Summer Olympics",
+      "isport": "Weightlifting",
+      "kaganapan": "Featherweight, Women (Olympic)",
+      "atleta": "Hidilyn Diaz",
+      "id_ng_atleta": 116263,
+      "koponan_o_kapareha": "",
+      "puwesto": "1",
+      "tabla_sa_puwesto": false,
+      "medalya": "Ginto"
+    }
+  ],
+  "meta": {
+    "title": "Pilipinas sa Olimpiyada — mga nagwagi ng medalya 1928–2020 (14) - Libreng download",
+    "description": "Lahat ng puwestong may medalya ng mga atletang kumatawan sa Pilipinas (code PHI) sa Summer at Winter Olympics ayon sa olympedia.org: taon, uri ng palaro, isport, kaganapan, atleta, koponan/kapareha, puwesto at medalya. Isang tala = isang atleta sa isang kaganapan. Saklaw hanggang 2022 (wala pa sa pinagmulan ang Paris 2024, kaya hindi kasama ang dalawang gintong medalya ni Carlos Yulo). Ang mga pangalan ng isport, kaganapan at koponan pati ang mga code ng puwesto ay iniwan gaya ng nasa pinagmulan (Ingles). Hindi kasama: Youth Olympics at mga exhibition event na walang medalya. Naglalaman ng 14 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Pilipinas sa Olimpiyada — mga nagwagi ng medalya 1928–2020 (14) | ListBase",
+    "seo_description": "I-download Pilipinas sa Olimpiyada — mga nagwagi ng medalya 1928–2020 (14) — 14 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 14 talaan / 11 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

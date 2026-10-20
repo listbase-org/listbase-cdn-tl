@@ -1,0 +1,124 @@
+{
+  "id": "tl-pambansang-liwasan",
+  "name": "Mga Pambansang Liwasan ng Pilipinas",
+  "title": "Mga Pambansang Liwasan ng Pilipinas",
+  "description": "Listahan ng mga pambansang liwasan / pambansang parke (national parks) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint, kabilang ang Pambansang Liwasang Ilog sa Ilalim ng Lupa ng Puerto Princesa at Hundred Islands National Park. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, sukat sa kilometro kuwadrado, taon ng pagkakatatag, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Inayos ayon sa sukat (pababa). Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "number"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q824602",
+      "name_tl": "Pambansang Liwasang Ilog sa Ilalim ng Lupa ng Puerto Princesa",
+      "name_en": "Pambansang Liwasang Ilog sa Ilalim ng Lupa ng Puerto Princesa",
+      "area_km2": 222.02,
+      "established": 1971,
+      "located_in_at": "Puerto Princesa",
+      "latitude": 10.166667,
+      "longitude": 118.916667,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Pambansang_Liwasang_Ilog_sa_Ilalim_ng_Lupa_ng_Puerto_Princesa"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1155369",
+      "name_tl": "Hundred Islands National Park",
+      "name_en": "Hundred Islands National Park",
+      "area_km2": "",
+      "established": 1940,
+      "located_in_at": "Pangasinan",
+      "latitude": 16.2,
+      "longitude": 120.033333,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Hundred_Islands_National_Park"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q18157528",
+      "name_tl": "Pagdating sa Leyte",
+      "name_en": "Pagdating sa Leyte",
+      "area_km2": "",
+      "established": 1977,
+      "located_in_at": "Palo",
+      "latitude": 11.172222,
+      "longitude": 125.012222,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Pagdating_sa_Leyte"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q23074013",
+      "name_tl": "Pambansang Parke ng Pagsanjan Gorge",
+      "name_en": "Pambansang Parke ng Pagsanjan Gorge",
+      "area_km2": "",
+      "established": 1904,
+      "located_in_at": "",
+      "latitude": 14.266806,
+      "longitude": 121.463694,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Pambansang_Parke_ng_Pagsanjan_Gorge"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pambansang Liwasan ng Pilipinas - Libreng download",
+    "description": "Listahan ng mga pambansang liwasan / pambansang parke (national parks) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint, kabilang ang Pambansang Liwasang Ilog sa Ilalim ng Lupa ng Puerto Princesa at Hundred Islands National Park. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, sukat sa kilometro kuwadrado, taon ng pagkakatatag, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Inayos ayon sa sukat (pababa). Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Naglalaman ng 4 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Pambansang Liwasan ng Pilipinas | ListBase",
+    "seo_description": "I-download Mga Pambansang Liwasan ng Pilipinas — 4 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 4 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

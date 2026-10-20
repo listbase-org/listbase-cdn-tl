@@ -1,0 +1,96 @@
+{
+  "id": "tl-camiguin-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Camiguin",
+  "title": "Mga Bayan ng Lalawigan ng Camiguin",
+  "description": "Listahan ng 5 munisipalidad (bayan) sa lalawigan ng Camiguin, REGION X (NORTHERN MINDANAO), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "101801000",
+      "name": "CATARMAN",
+      "province": "CAMIGUIN",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 16798,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "101802000",
+      "name": "GUINSILIBAN",
+      "province": "CAMIGUIN",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 6281,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "101803000",
+      "name": "MAHINOG",
+      "province": "CAMIGUIN",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 14038,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "101804000",
+      "name": "MAMBAJAO (Capital)",
+      "province": "CAMIGUIN",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 38735,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "101805000",
+      "name": "SAGAY",
+      "province": "CAMIGUIN",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 12626,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Camiguin - Libreng download",
+    "description": "Listahan ng 5 munisipalidad (bayan) sa lalawigan ng Camiguin, REGION X (NORTHERN MINDANAO), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 5 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Camiguin | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Camiguin — 5 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 5 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

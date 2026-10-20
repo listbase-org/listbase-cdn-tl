@@ -1,0 +1,364 @@
+{
+  "id": "tl-bulacan-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bulacan",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bulacan",
+  "description": "Direktoryo ng 24 lungsod at bayan sa lalawigan ng Bulacan (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Bulacan` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Angat",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3012",
+      "punong_bayan": "REYNANTE S. BAUTISTA",
+      "kontak_punong_bayan": "(044) 769-1208 loc. 101",
+      "pangalawang_punong_bayan": "ARVIN L. AGUSTIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Balagtas",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3016",
+      "punong_bayan": "ELADIO E. GONZALES JR.",
+      "kontak_punong_bayan": "(044) 693-7950",
+      "pangalawang_punong_bayan": "ARIEL C. VALDERAMA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Baliuag",
+      "uri": "Lungsod",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3006",
+      "punong_bayan": "Sonia V. Estrella",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Ferdinand “Ferdie” V. Estrella",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Bocaue",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3018",
+      "punong_bayan": "EDUARDO J. VILLANUEVA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SHERWIN N. TUGNA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Bulacan",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3017",
+      "punong_bayan": "VERGEL C. MENESES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REINA RICA C. SANCHEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Bustos",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3007",
+      "punong_bayan": "FRANCIS ALBERT G. JUAN",
+      "kontak_punong_bayan": "(044) 766-2543",
+      "pangalawang_punong_bayan": "MARTIN SJ. ANGELES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Calumpit",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3003",
+      "punong_bayan": "GLORIME M. FAUSTINO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ZACARIAS C. CANDELARIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Doña Remedios Trinidad",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3009",
+      "punong_bayan": "RONALDO T. FLORES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARITA L. FLORES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Guiguinto",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3015",
+      "punong_bayan": "AGATHA PAULA A. CRUZ",
+      "kontak_punong_bayan": "(044) 919-8260 loc. 241",
+      "pangalawang_punong_bayan": "BANJO S. ESTRELLA",
+      "kontak_pangalawang_punong_bayan": "919-8260 loc. 216"
+    },
+    {
+      "id": 10,
+      "lgu": "Hagonoy",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3002",
+      "punong_bayan": "FLORDELIZA C. MANLAPAZ",
+      "kontak_punong_bayan": "(044) 794-4445 loc. 1030",
+      "pangalawang_punong_bayan": "MA. ROSARIO R. SY-ALVARADO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Malolos",
+      "uri": "Lungsod",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3000",
+      "punong_bayan": "Christian D. Natividad",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Gilbert T. Gatchalian",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Marilao",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3019",
+      "punong_bayan": "HENRY R. LUTAO",
+      "kontak_punong_bayan": "(044) 919-1010",
+      "pangalawang_punong_bayan": "JUN BOB J. DELA CRUZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Meycauayan",
+      "uri": "Lungsod",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3020",
+      "punong_bayan": "Henry R. Villarica",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Josefina O. Violago",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Norzagaray",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3013",
+      "punong_bayan": "MARIA ELENA L. GERMAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PATRICIO I. GENER",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Obando",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3021",
+      "punong_bayan": "LEONARDO D. VALEDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARVIN E. DELA CRUZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Pandi",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3014",
+      "punong_bayan": "ENRICO A. ROQUE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LUISA P. SEBASTIAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Paombong",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3001",
+      "punong_bayan": "MARYANNE P. MARCOS",
+      "kontak_punong_bayan": "(044) 760-5044",
+      "pangalawang_punong_bayan": "ALFREDO JC. CASTRO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Plaridel",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3004",
+      "punong_bayan": "JOCELL AIMEE R. VISTAN-CASAJE",
+      "kontak_punong_bayan": "(044) 794-0119 loc. 1001",
+      "pangalawang_punong_bayan": "LORIE C. VINTA",
+      "kontak_pangalawang_punong_bayan": "794-0119 loc. 1004"
+    },
+    {
+      "id": 19,
+      "lgu": "Pulilan",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3005",
+      "punong_bayan": "MARIA ROSARIO O. MONTEJO",
+      "kontak_punong_bayan": "(044) 764-0100",
+      "pangalawang_punong_bayan": "ROLANDO S. PERALTA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "San Ildefonso",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3010",
+      "punong_bayan": "Fernando S. Galvez Jr.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Chariz G. Cabande",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "San Jose Del Monte",
+      "uri": "Lungsod",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3023",
+      "punong_bayan": "Florida P. Robes",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Arlene B. Arciaga",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "San Miguel",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3011",
+      "punong_bayan": "RODERICK DG. TIONGSON",
+      "kontak_punong_bayan": "(044) 764-2125",
+      "pangalawang_punong_bayan": "JOHN A. ALVAREZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "San Rafael",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3008",
+      "punong_bayan": "MARK CHOLO I. VIOLAGO",
+      "kontak_punong_bayan": "(044) 764-5457 loc. 130",
+      "pangalawang_punong_bayan": "MARILYN S. VENERACION",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Santa Maria",
+      "uri": "Bayan",
+      "lalawigan": "BULACAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3022",
+      "punong_bayan": "BARTOLOME D. RAMOS",
+      "kontak_punong_bayan": "(044) 641-1601",
+      "pangalawang_punong_bayan": "PABLO L. JUAN",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bulacan - Libreng download",
+    "description": "Direktoryo ng 24 lungsod at bayan sa lalawigan ng Bulacan (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Bulacan` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 24 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bulacan | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bulacan — 24 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 24 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "id": "tl-pangasinan-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Pangasinan",
+  "title": "Mga Bayan ng Lalawigan ng Pangasinan",
+  "description": "Listahan ng 44 munisipalidad (bayan) sa lalawigan ng Pangasinan, REGION I (ILOCOS REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "015501000",
+      "name": "AGNO",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 28052,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015502000",
+      "name": "AGUILAR",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 41463,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015504000",
+      "name": "ALCALA",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 43402,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015505000",
+      "name": "ANDA",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 39504,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015506000",
+      "name": "ASINGAN",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 57355,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "015507000",
+      "name": "BALUNGAO",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 31106,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "015508000",
+      "name": "BANI",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 50306,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "015509000",
+      "name": "BASISTA",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 32959,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "015510000",
+      "name": "BAUTISTA",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 32307,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "015511000",
+      "name": "BAYAMBANG",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 118205,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015512000",
+      "name": "BINALONAN",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 54555,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015513000",
+      "name": "BINMALEY",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 83052,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015514000",
+      "name": "BOLINAO",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 82084,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015515000",
+      "name": "BUGALLON",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 67348,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "015516000",
+      "name": "BURGOS",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 21637,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "015517000",
+      "name": "CALASIAO",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 95154,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015519000",
+      "name": "DASOL",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 29110,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015520000",
+      "name": "INFANTA",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 24584,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015521000",
+      "name": "LABRADOR",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 23201,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "015548000",
+      "name": "LAOAC",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 31497,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "015522000",
+      "name": "LINGAYEN (Capital)",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 103278,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015523000",
+      "name": "MABINI",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 24765,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015524000",
+      "name": "MALASIQUI",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 130275,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015525000",
+      "name": "MANAOAG",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 69497,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015526000",
+      "name": "MANGALDAN",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 106331,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015527000",
+      "name": "MANGATAREM",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 73241,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015528000",
+      "name": "MAPANDAN",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 37059,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015529000",
+      "name": "NATIVIDAD",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 24299,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "015530000",
+      "name": "POZORRUBIO",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 69555,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015531000",
+      "name": "ROSALES",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 63081,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015533000",
+      "name": "SAN FABIAN",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 83025,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015534000",
+      "name": "SAN JACINTO",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 40848,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015535000",
+      "name": "SAN MANUEL",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 52939,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015536000",
+      "name": "SAN NICOLAS",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 35574,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015537000",
+      "name": "SAN QUINTIN",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 32945,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015538000",
+      "name": "SANTA BARBARA",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 82012,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015539000",
+      "name": "SANTA MARIA",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 33038,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "015540000",
+      "name": "SANTO TOMAS",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 15022,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "015541000",
+      "name": "SISON",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 47518,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015542000",
+      "name": "SUAL",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 34149,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015543000",
+      "name": "TAYUG",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 43149,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015544000",
+      "name": "UMINGAN",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 73252,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "015545000",
+      "name": "URBIZTONDO",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 50170,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "015547000",
+      "name": "VILLASIS",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 62333,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Pangasinan - Libreng download",
+    "description": "Listahan ng 44 munisipalidad (bayan) sa lalawigan ng Pangasinan, REGION I (ILOCOS REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 44 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Pangasinan | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Pangasinan — 44 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 44 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

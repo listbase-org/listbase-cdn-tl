@@ -1,0 +1,214 @@
+{
+  "id": "tl-makati-city-swift-code",
+  "name": "Mga SWIFT/BIC code — Makati City",
+  "title": "Mga SWIFT/BIC code — Makati City",
+  "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 28 institusyon na nakalista sa pinagkunan sa lungsod na \"MAKATI CITY\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "AIIPPHM1"
+    },
+    {
+      "bank": "ALLIED SAVINGS BANK",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "ALSGPHM1"
+    },
+    {
+      "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "ANZBPHMX"
+    },
+    {
+      "bank": "AYALA LAND, INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "AYALPH22"
+    },
+    {
+      "bank": "BANCO DE ORO SAVINGS BANK, INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "ORSIPHM1"
+    },
+    {
+      "bank": "BANK OF MAKATI (A SAVINGS BANK), INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "MKRUPHM1"
+    },
+    {
+      "bank": "BDO SECURITIES CORPORATION",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "BDSCPHM1"
+    },
+    {
+      "bank": "BPI GLOBE BANKO INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "BPGOPHM1"
+    },
+    {
+      "bank": "CHINA BANK SAVINGS, INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "CHSVPHM1"
+    },
+    {
+      "bank": "EQUICOM SAVINGS BANK, INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "EQSNPHM1"
+    },
+    {
+      "bank": "FIRST COMMERCIAL BANK, LTD., MANILA BRANCH",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "FCBKPHMM"
+    },
+    {
+      "bank": "HUA NAN COMMERCIAL BANK, LTD. MANILA BRANCH",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "HNBKPHMM"
+    },
+    {
+      "bank": "KEB HANA BANK",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "KOEXPHMM"
+    },
+    {
+      "bank": "MERCHANTS SAVINGS AND LOAN ASSOCIATION, INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "MSLSPHM1"
+    },
+    {
+      "bank": "METROBANK CARD CORPORATION (A FINANCE CO.)",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "MCCEPHM1"
+    },
+    {
+      "bank": "ORIX METRO LEASING AND FINANCE CORPORATION",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "OMLFPHM1"
+    },
+    {
+      "bank": "PACIFIC ASIAN ATLANTIC CAPITAL INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "PATPPHM1"
+    },
+    {
+      "bank": "PCCI SECURITIES BROKERS CORPORATION",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "PSBOPHM1"
+    },
+    {
+      "bank": "PHILIPPINE COMMERCIAL CAPITAL, INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "PHCCPHM1"
+    },
+    {
+      "bank": "PHILIPPINE DEPOSITORY AND TRUST CORP. (CUSTODY)",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "PDTUPHM1"
+    },
+    {
+      "bank": "PHILIPPINE DEPOSITORY AND TRUST CORP. (DEPOSITORY)",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "PDTDPHM1"
+    },
+    {
+      "bank": "PHILIPPINE DEPOSITORY AND TRUST CORPORATION",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "PDTCPHM1"
+    },
+    {
+      "bank": "RCBC SAVINGS BANK, INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "RCSAPHM1"
+    },
+    {
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "SCBLPHMM"
+    },
+    {
+      "bank": "SUMITOMO MITSUI BANKING CORPORATION MANILA BRANCH",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "SMBCPHMM"
+    },
+    {
+      "bank": "THE MANUFACTURERS LIFE INSURANCE CO. (PHILS.), INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "MFCTPHMM"
+    },
+    {
+      "bank": "TOYOTA FINANCIAL SERVICES PHILIPPINES, CORP.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "TFSHPHM1"
+    },
+    {
+      "bank": "UCPB SAVINGS BANK, INC.",
+      "city": "MAKATI CITY",
+      "branch": "",
+      "swift_code": "UCSVPHM1"
+    }
+  ],
+  "meta": {
+    "title": "Mga SWIFT/BIC code — Makati City - Libreng download",
+    "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 28 institusyon na nakalista sa pinagkunan sa lungsod na \"MAKATI CITY\". Naglalaman ng 28 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga SWIFT/BIC code — Makati City | ListBase",
+    "seo_description": "I-download Mga SWIFT/BIC code — Makati City — 28 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 28 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

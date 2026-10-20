@@ -1,0 +1,144 @@
+{
+  "id": "tl-basilan-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Basilan",
+  "title": "Mga Bayan ng Lalawigan ng Basilan",
+  "description": "Listahan ng 11 munisipalidad (bayan) sa lalawigan ng Basilan, AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "150708000",
+      "name": "AKBAR",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 17531,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "150709000",
+      "name": "AL-BARKA",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 20905,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "150710000",
+      "name": "HADJI MOHAMMAD AJUL",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 19307,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "150712000",
+      "name": "HADJI MUHTAMAD",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25085,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "150703000",
+      "name": "LANTAWAN",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 24594,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "150704000",
+      "name": "MALUSO",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 40646,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "150705000",
+      "name": "SUMISIP",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 41730,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "150713000",
+      "name": "TABUAN-LASA",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 24188,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "150706000",
+      "name": "TIPO-TIPO",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 19163,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "150707000",
+      "name": "TUBURAN",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 20207,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "150711000",
+      "name": "UNGKAYA PUKAN",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 18441,
+      "income_classification": "-"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Basilan - Libreng download",
+    "description": "Listahan ng 11 munisipalidad (bayan) sa lalawigan ng Basilan, AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 11 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Basilan | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Basilan — 11 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 11 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

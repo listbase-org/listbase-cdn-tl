@@ -1,0 +1,192 @@
+{
+  "id": "tl-aklan-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Aklan",
+  "title": "Mga Bayan ng Lalawigan ng Aklan",
+  "description": "Listahan ng 17 munisipalidad (bayan) sa lalawigan ng Aklan, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "060401000",
+      "name": "ALTAVAS",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 24619,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060402000",
+      "name": "BALETE",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 28920,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060403000",
+      "name": "BANGA",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 39505,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "060404000",
+      "name": "BATAN",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 32032,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060405000",
+      "name": "BURUANGA",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 19003,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "060406000",
+      "name": "IBAJAY",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 49564,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "060407000",
+      "name": "KALIBO (Capital)",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 80605,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "060408000",
+      "name": "LEZO",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 15224,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "060409000",
+      "name": "LIBACAO",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 28241,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "060410000",
+      "name": "MADALAG",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 18389,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060411000",
+      "name": "MAKATO",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 27262,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060412000",
+      "name": "MALAY",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 52973,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "060413000",
+      "name": "MALINAO",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 23194,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060414000",
+      "name": "NABAS",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 36435,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060415000",
+      "name": "NEW WASHINGTON",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 45007,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "060416000",
+      "name": "NUMANCIA",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 31934,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060417000",
+      "name": "TANGALAN",
+      "province": "AKLAN",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 21916,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Aklan - Libreng download",
+    "description": "Listahan ng 17 munisipalidad (bayan) sa lalawigan ng Aklan, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Aklan | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Aklan — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

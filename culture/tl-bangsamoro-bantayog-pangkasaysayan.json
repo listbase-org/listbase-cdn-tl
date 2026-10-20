@@ -1,0 +1,277 @@
+{
+  "id": "tl-bangsamoro-bantayog-pangkasaysayan",
+  "name": "Makasaysayang Pananda ng NHCP — Bangsamoro (BARMM)",
+  "title": "Makasaysayang Pananda ng NHCP — Bangsamoro (BARMM)",
+  "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Bangsamoro (BARMM). Filtered subset ng pambansang tl-bantayog-pangkasaysayan (9 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) — filtered subset of the national NHCP marker inventory, 9 of 1235 nationally.)",
+  "category": "culture",
+  "source": "https://github.com/seav/pananda",
+  "source_url": "https://github.com/seav/pananda",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regions",
+      "label": "Regions",
+      "type": "string"
+    },
+    {
+      "key": "macro_address",
+      "label": "Macro Address",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "title_tl",
+      "label": "Title Tl",
+      "type": "string"
+    },
+    {
+      "key": "subtitle_tl",
+      "label": "Subtitle Tl",
+      "type": "string"
+    },
+    {
+      "key": "inscription_tl",
+      "label": "Inscription Tl",
+      "type": "string"
+    },
+    {
+      "key": "inscription_photo",
+      "label": "Inscription Photo",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "location_description",
+      "label": "Location Description",
+      "type": "string"
+    },
+    {
+      "key": "location_photo",
+      "label": "Location Photo",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_articles",
+      "label": "Wikipedia Articles",
+      "type": "string"
+    },
+    {
+      "key": "title_en",
+      "label": "Title En",
+      "type": "string"
+    },
+    {
+      "key": "subtitle_en",
+      "label": "Subtitle En",
+      "type": "string"
+    },
+    {
+      "key": "inscription_en",
+      "label": "Inscription En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wikidata_qid": "Q28922986",
+      "name": "Simbahang Inmaculada Concepcion ng Tamontaka",
+      "region": "Bangsamoro",
+      "regions": "Bangsamoro",
+      "macro_address": "Cotabato City",
+      "address": "Tamontaka Church, Cotabato City",
+      "date": "2004",
+      "latitude": 7.18353,
+      "longitude": 124.22226,
+      "title_tl": "Simbahang Inmaculada Concepcion ng Tamontaka",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Unang ipinatayo ng mga paring Heswita sa pampang ng panlahatan sa ilog Tamontaka noong 1872 bilang bahagi ng misyong Tamontaka upang pangalagaan ang kapakanan ng mga kabataan at palaganapin ang ebanghelyo sa rehiyon ng Cotabato. Ipinatayo ang paaralan para sa mga kabataang lalaki sa pangangasiwa ng mga Heswita at paaralan para sa mga kabataang babae sa pangangalaga ng mga Beata ng San Ignacio (ngayo’y Religious of the Virgin Mary o RVM). Inilipat sa kasalukuyang kinatatayuan nito, 1879 at naging sentro ng misyong Heswita. Nilisan ng mga paring Heswita, 1899 at inilagay sa pangangalaga ng mga Heswita ng Zamboanga. Pinangasiwaan ng mga paring Oblates of Mary Immaculate at naging bahagi ng kanilang misyon sa Cotabato, 1939. Nasira ng lindol, 17 Agosto 1976. Muling itinayo, 1978. Nasunog, 11 Mayo 1994, at isinaayos nang taon ding iyon. Ipinahayag ang pook na Pambansang Palatandaang Makasaysayan, 19 Hulyo 2004.</p>",
+      "inscription_photo": "file: Church of the Immaculate Conception of Tamontaka Seal.JPG; credit: Erichmercado {CC BY‑SA 3.0}; width: 1088; height: 1582",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28922986"
+    },
+    {
+      "wikidata_qid": "Q28937549",
+      "name": "Notre Dame Archdiocesan Seminary",
+      "region": "Bangsamoro",
+      "regions": "Bangsamoro",
+      "macro_address": "Sultan Kudarat, Maguindanao",
+      "address": "Notre Dame Archdiocesan Seminary, Quezon Avenue, Sultan Kudarat, Maguindanao",
+      "date": "2010-12-12",
+      "latitude": 7.25855,
+      "longitude": 124.27805,
+      "title_tl": "Notre Dame Archdiocesan Seminary",
+      "subtitle_tl": "Archdiocese of Cotabato",
+      "inscription_tl": "<p>Itinatag ni Arsobispo Gerard Mongeau, OMI, DD, sa Kidapawan, 1960. Fr. William McGrath, OMI, unang rector. Inilipat sa Rebuken, Sultan Kudarat, Maguindanao, 1963. Binasbasan ni Rufino J. Cardinal Santos, 1964. Kilala rin bilang Nuling Seminary. Makaraan ang “missionary era” nagpatuloy na tumulong upang makapagpatapos ng mga lokal na pari na maglilingkod sa Archdiocese of Cotabato, Diocese of Kidapawan at sa iba pang panig ng mundo. Naging instrumento sa pagpapalaganap ng Kristiyanismo at pagkakawanggawa sa mga maralita sa Mindanao.</p>",
+      "inscription_photo": "height: 517; width: 399; file: Notre Dame Archdiocesan Seminary historical marker.jpg; credit: National Historical Commission of the Philippines (NHCP)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28937549"
+    },
+    {
+      "wikidata_qid": "Q28942441",
+      "name": "Sultan Dipatuan Kudarat",
+      "region": "Bangsamoro",
+      "regions": "Bangsamoro",
+      "macro_address": "Cotabato City",
+      "address": "Tantawan Park, Sinsuat Avenue, Cotabato City",
+      "date": "2004-12-19",
+      "latitude": 7.22146,
+      "longitude": 124.24599,
+      "title_tl": "Sultan Dipatuan Kudarat",
+      "subtitle_tl": "c. 1590–1671",
+      "inscription_tl": "<p>Ikapitong Sultan ng Maguindanao. Kilala sa mga tala ng Espanyol bilang Corralat. Namuno mula 1619 hanggang 1671. Pinagbuklod ang mga pinunong Muslim at nakipagkaisa sa Sultanato ng Sulu. Lumaban sa mga Espanyol, 1635–1645. Naging tanging pinuno ng malawak na bahagi ng Mindanao kabilang ang Davao, Cotabato at Zamboanga. Nilagdaan ang kasunduang pangkapayapaan na nagbunga ng ilang taong katiwasayan sa Mindanao, 1645. Kinilala na walang takot na tagapagtanggol ng pananampalatayang Islam at umuusbong na kalayaan ng Pilipinas. Namatay, 1671.</p>",
+      "inscription_photo": "width: 535; file: Sultan Kudarat historical marker.jpg; credit: National Historical Commission of the Philippines (NHCP); height: 699",
+      "location_description": "The historical marker is located at the pedestal of the statue of Sultan Kudarat.",
+      "location_photo": "width: 4340; credit: Jahwulf935 {CC BY‑SA 4.0}; file: Sultan Dipatuan Kudarat - Cotabato City.jpg; height: 2875",
+      "wikipedia_articles": "Muhammad Kudarat: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28942441"
+    },
+    {
+      "wikidata_qid": "Q28942505",
+      "name": "Salipada K. Pendatun",
+      "region": "Bangsamoro",
+      "regions": "Bangsamoro",
+      "macro_address": "Parang, Maguindanao",
+      "address": "Camp Brigadier General Salipada K. Pendatun, Parang, Maguindanao",
+      "date": "2014-04-02",
+      "latitude": 7.38708,
+      "longitude": 124.25917,
+      "title_tl": "Salipada K. Pendatun",
+      "subtitle_tl": "(1912–1985)",
+      "inscription_tl": "<p>Isinilang sa Pikit, Cotabato, 3 Disyembre 1912. Nagtapos ng abogasya sa Unibersidad ng Pilipinas at pumasa sa Philippine Bar, 1938. Hinirang bilang kasapi ng Lupong Panlalawigan ng Cotabato, 1938; nahalal, 1940. Nakomisyon bilang 3<sup>rd</sup> Lieutenant, Philippine Army Reserve Force at napabilang sa USAFFE bago sumiklab ang Ikalawang Digmaang Pandaigdig. Kasama si Datu Udtog Matalam, nagtatag ng isang puwersang gerilya laban sa mga Hapon sa Cotabato. Hinirang bilang Gobernador ng Cotabato pagkatapos ng digmaan. Nahalal bilang senador, 1946–1949; tagapayo, administrasyong Quirino, 1950–1953; kinatawan ng lalawigan ng Cotabato sa Kongreso, 1958–1961; 1962–1965; 1966–1969; 1970–1972; Speaker Pro Tempore, 1962–1967; kinatawan ng Maguindanao sa Regular Batasang Pambansa at Speaker Pro Tempore, 1984–1985. Yumao, 27 Enero 1985.</p>",
+      "wikipedia_articles": "Salipada Pendatun: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28942505"
+    },
+    {
+      "wikidata_qid": "Q28942530",
+      "name": "Labanan sa Bud Dajo",
+      "region": "Bangsamoro",
+      "regions": "Bangsamoro",
+      "macro_address": "Jolo, Sulu",
+      "address": "Capitol Site, Jolo, Sulu",
+      "date": "2004",
+      "latitude": 6.05122,
+      "longitude": 121.01664,
+      "title_tl": "Labanan sa Bud Dajo",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Labanan sa pagitan ng mga Muslim at hukbong Amerikano mula 6 Marso hanggang 8 Marso 1906, bilang pagtutol ng mga Muslim sa pamamalakad at pagpataw ng buwis ng mga Amerikano. Nang matapos ang labanan, may isang libong mandirigmang Muslim ang napatay kabilang ang mga babae at bata samantalang 21 ang napatay sa panig ng mga Amerikano. Dito nagtapos ang serye ng mga labnana na nagsimula noong 1903 sa pamumuno ni Panglima Hassan, pagpapatunay ng pagmamahal ng mga Muslim sa kalayaan.</p>",
+      "wikipedia_articles": "First Battle of Bud Dajo: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28942530"
+    },
+    {
+      "wikidata_qid": "Q28942537",
+      "name": "Prinsesa Tarhata Kiram",
+      "region": "Bangsamoro",
+      "regions": "Bangsamoro",
+      "macro_address": "Jolo, Sulu",
+      "address": "Taglibi Road, Jolo, Sulu",
+      "date": "1984",
+      "latitude": 6.06542,
+      "longitude": 121.0096,
+      "title_tl": "Prinsesa Tarhata Kiram",
+      "subtitle_tl": "",
+      "inscription_tl": "",
+      "wikipedia_articles": "Princess Tarhata Kiram: Tarhata Kiram",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28942537"
+    },
+    {
+      "wikidata_qid": "Q28942552",
+      "name": "Sheik Makhdum Mosque",
+      "region": "Bangsamoro",
+      "regions": "Bangsamoro",
+      "macro_address": "Simunul, Tawi-Tawi",
+      "address": "Sheik Karimol Makhdum Mosque, Brgy. Tubig Indangan, Simunul, Tawi-Tawi",
+      "date": "1980-11-07",
+      "latitude": 4.89805,
+      "longitude": 119.84925,
+      "title_tl": "Sheik Makhdum Mosque",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Sinasabi ng mga mananalaysay na ang Islam ay pinalakas sa Pilipinas ni Sheik Makhdum, isang misyonerong Arabe, unang lumunsad sa Tubig-Indangan, Simunul sa pulo ng Tawi-Tawi noong 1380. Dito niya ipinatayo ang kauna-unahang simbahang Muslim sa kapuluan ng Pilipinas na hangang sa kasalukuyan ay nakatayo bilang bahagi ng muling ipinagawang “Tahanan ni Allah.” Pinaniniwalaang ang orihinal na simbahan ay nagtagal ng humigit-kumulan sa 500 taon. Ang orihinal na haligi ay yari sa ipil at pinangangalagaan hanggang sa kasalukuyan.</p>",
+      "inscription_photo": "height: 1600; credit: National Historical Commission of the Philippines (NHCP); file: Sheik Makhdum Mosque historical marker.jpg; width: 1116",
+      "wikipedia_articles": "Sheik Karimol Makhdum Mosque: true; Makhdum Karim: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28942552"
+    },
+    {
+      "wikidata_qid": "Q44640888",
+      "name": "Turtle Islands",
+      "region": "Bangsamoro",
+      "regions": "Bangsamoro",
+      "macro_address": "Turtle Islands, Tawi-Tawi",
+      "address": "Turtle Islands Municipal Hall, Taganak Island, Turtle Islands, Tawi-Tawi",
+      "date": "1969",
+      "latitude": 6.07322,
+      "longitude": 118.31266,
+      "title_tl": "Turtle Islands",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Ang mga pulong ito ay pinaupahan ng Sultan ng Sulu sa British North Borneo Company noong 22 Enero 1878. Naging bahagi ng Pilipinas noong 10 Disyembre 1898 ayon sa Kasunduan ng Paris na nilagdaan ng Espanya at Estados Unidos. Patuloy na pinamahalaan ng British North Borneo Company ayon sa kasunduang nilagdaan noong 1932 ng Estados Unidos at Gran Bretanya. Pinagkayarian ding ibabalik sa may-ari pagkatapos mapagpatalastasan ang nangungupahan sa loob ng isang taon. Inilipat sa Republika ng Pilipinas noong 16 Oktubre 1947.</p>",
+      "title_en": "Turtle Islands",
+      "subtitle_en": "",
+      "inscription_en": "<p>These islets were leased by the Sultan of Sulu on 22 January 1878 to the British North Borneo Company. Became part of the Philippines by virtue of the Treaty of Paris, 10 December 1898, between Spain and the United States. Lessee continued administering them under the 1932 United States–Great Britain treaty to be relinquished to owner upon a year’s notice. Transferred to the Republic of the Philippines, 16 October 1947.</p>",
+      "wikipedia_articles": "Turtle Islands: Turtle Islands, Tawi-Tawi",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q44640888"
+    },
+    {
+      "wikidata_qid": "Q80927415",
+      "name": "Salipada K. Pendatun",
+      "region": "Bangsamoro",
+      "regions": "Bangsamoro",
+      "macro_address": "General Salipada K. Pendatun, Maguindanao",
+      "address": "Salipada K. Pendatun tomb, General Salipada K. Pendatun, Maguindanao",
+      "date": "2012",
+      "latitude": 6.826,
+      "longitude": 124.75526,
+      "title_tl": "Salipada K. Pendatun",
+      "subtitle_tl": "(1912–1985)",
+      "inscription_tl": "<p>Isinilang sa Pikit, Cotabato, 3 Disyembre 1912. Nagtapos ng abogasya sa Unibersidad ng Pilipinas at pumasa sa Philippine Bar, 1938. Hinirang bilang kasapi ng Lupong Panlalawigan ng Cotabato, 1938; nahalal, 1940. Nakomisyon bilang 3<sup>rd</sup> Lieutenant, Philippine Army Reserve Force at napabilang sa USAFFE bago sumiklab ang Ikalawang Digmaang Pandaigdig. Kasama si Datu Udtog Matalam, nagtatag ng isang puwersang gerilya laban sa mga Hapon sa Cotabato. Hinirang bilang Gobernador ng Cotabato pagkatapos ng digmaan. Nahalal bilang senador, 1946–1949; tagapayo, administrasyong Quirino, 1950–1953; kinatawan ng lalawigan ng Cotabato sa Kongreso, 1958–1961; 1962–1965; 1966–1969; 1970–1972; Speaker Pro Tempore, 1962–1967; kinatawan ng Maguindanao sa Regular Batasang Pambansa at Speaker Pro Tempore, 1984–1985. Yumao, 27 Enero 1985.</p>",
+      "wikipedia_articles": "Salipada Pendatun: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q80927415"
+    }
+  ],
+  "meta": {
+    "title": "Makasaysayang Pananda ng NHCP — Bangsamoro (BARMM) - Libreng download",
+    "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Bangsamoro (BARMM). Filtered subset ng pambansang tl-bantayog-pangkasaysayan (9 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) — filtered subset of the national NHCP marker inventory, 9 of 1235 nationally.) Naglalaman ng 9 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Makasaysayang Pananda ng NHCP — Bangsamoro (BARMM) | ListBase",
+    "seo_description": "I-download Makasaysayang Pananda ng NHCP — Bangsamoro (BARMM) — 9 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 9 talaan / 20 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/seav/pananda"
+    ]
+  }
+}

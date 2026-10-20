@@ -1,0 +1,148 @@
+{
+  "id": "tl-siquijor-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Siquijor",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Siquijor",
+  "description": "Direktoryo ng 6 lungsod at bayan sa lalawigan ng Siquijor (Rehiyon ng Pulo ng Negros (NIR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Siquijor` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Enrique Villanueva",
+      "uri": "Bayan",
+      "lalawigan": "SIQUIJOR PROVINCE",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6230",
+      "punong_bayan": "NALE VINCENT J. MASAYON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUTH B. AQUE",
+      "kontak_pangalawang_punong_bayan": "(035) 542-6148"
+    },
+    {
+      "id": 2,
+      "lgu": "Larena",
+      "uri": "Bayan",
+      "lalawigan": "SIQUIJOR PROVINCE",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6226",
+      "punong_bayan": "CYRUS VINCENT M. CALIBO",
+      "kontak_punong_bayan": "(035) 542-6029",
+      "pangalawang_punong_bayan": "JAN DEAN O. VILLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Lazi",
+      "uri": "Bayan",
+      "lalawigan": "SIQUIJOR PROVINCE",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6228",
+      "punong_bayan": "PHIL MOORE D. LARGO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROSE MAE B. DALAYGON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Maria",
+      "uri": "Bayan",
+      "lalawigan": "SIQUIJOR PROVINCE",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6229",
+      "punong_bayan": "ROSELYN T. ASOK",
+      "kontak_punong_bayan": "(032) 542-6539",
+      "pangalawang_punong_bayan": "MEYNARD R. ASOK",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "San Juan",
+      "uri": "Bayan",
+      "lalawigan": "SIQUIJOR PROVINCE",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6227",
+      "punong_bayan": "WILFREDO Q. CAPUNDAG JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUBILYN M. RAGAY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Siquijor",
+      "uri": "Bayan",
+      "lalawigan": "SIQUIJOR PROVINCE",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6225",
+      "punong_bayan": "RICHARD C. QUEZON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "TEODORO G. JUMAWAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Siquijor - Libreng download",
+    "description": "Direktoryo ng 6 lungsod at bayan sa lalawigan ng Siquijor (Rehiyon ng Pulo ng Negros (NIR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Siquijor` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Siquijor | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Siquijor — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

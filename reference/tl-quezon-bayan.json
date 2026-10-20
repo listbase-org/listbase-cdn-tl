@@ -1,0 +1,368 @@
+{
+  "id": "tl-quezon-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Quezon",
+  "title": "Mga Bayan ng Lalawigan ng Quezon",
+  "description": "Listahan ng 39 munisipalidad (bayan) sa lalawigan ng Quezon, REGION IV-A (CALABARZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "045601000",
+      "name": "AGDANGAN",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 12851,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "045602000",
+      "name": "ALABAT",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 15630,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "045603000",
+      "name": "ATIMONAN",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 63432,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045605000",
+      "name": "BUENAVISTA",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 30047,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045606000",
+      "name": "BURDEOS",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 26760,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045607000",
+      "name": "CALAUAG",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 73139,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045608000",
+      "name": "CANDELARIA",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 117434,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045610000",
+      "name": "CATANAUAN",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 71073,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045615000",
+      "name": "DOLORES",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 28891,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045616000",
+      "name": "GENERAL LUNA",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 26494,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045617000",
+      "name": "GENERAL NAKAR",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 29705,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045618000",
+      "name": "GUINAYANGAN",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 45155,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "045619000",
+      "name": "GUMACA",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 73877,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045620000",
+      "name": "INFANTA",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 69079,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045621000",
+      "name": "JOMALIG",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 7417,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "045622000",
+      "name": "LOPEZ",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 95167,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045623000",
+      "name": "LUCBAN",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 51475,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "045625000",
+      "name": "MACALELON",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 28188,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045627000",
+      "name": "MAUBAN",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 63819,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045628000",
+      "name": "MULANAY",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 53123,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045629000",
+      "name": "PADRE BURGOS",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 22460,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045630000",
+      "name": "PAGBILAO",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 75023,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045631000",
+      "name": "PANUKULAN",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 13546,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045632000",
+      "name": "PATNANUNGAN",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 14606,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "045633000",
+      "name": "PEREZ",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 12173,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "045634000",
+      "name": "PITOGO",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 23019,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045635000",
+      "name": "PLARIDEL",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 10935,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "045636000",
+      "name": "POLILLO",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 30582,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "045637000",
+      "name": "QUEZON",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 15228,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "045638000",
+      "name": "REAL",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 35979,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045639000",
+      "name": "SAMPALOC",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 13907,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "045640000",
+      "name": "SAN ANDRES",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 35780,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045641000",
+      "name": "SAN ANTONIO",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 33467,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045642000",
+      "name": "SAN FRANCISCO (AURORA)",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 61473,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "045644000",
+      "name": "SAN NARCISO",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 48461,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "045645000",
+      "name": "SARIAYA",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 148980,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045646000",
+      "name": "TAGKAWAYAN",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 51832,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045648000",
+      "name": "TIAONG",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 99712,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045649000",
+      "name": "UNISAN",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 26884,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Quezon - Libreng download",
+    "description": "Listahan ng 39 munisipalidad (bayan) sa lalawigan ng Quezon, REGION IV-A (CALABARZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 39 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Quezon | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Quezon — 39 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 39 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

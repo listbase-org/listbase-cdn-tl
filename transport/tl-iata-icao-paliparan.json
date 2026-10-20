@@ -1,0 +1,754 @@
+{
+  "id": "tl-iata-icao-paliparan",
+  "name": "Mga IATA/ICAO code ng mga paliparan sa Pilipinas",
+  "title": "Mga IATA/ICAO code ng mga paliparan sa Pilipinas",
+  "description": "Listahan ng mga paliparan sa Pilipinas na may IATA (3 character) at ICAO code (4 character) ayon sa IP2Location database.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "airport",
+      "label": "Airport",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country_code": "PH",
+      "region_name": "Agusan del Norte",
+      "iata": "BXU",
+      "icao": "RPME",
+      "airport": "Bancasi Airport",
+      "latitude": 8.9515,
+      "longitude": 125.479
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Aklan",
+      "iata": "KLO",
+      "icao": "RPVK",
+      "airport": "Kalibo International Airport",
+      "latitude": 11.6794,
+      "longitude": 122.376
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Aklan",
+      "iata": "MPH",
+      "icao": "RPVE",
+      "airport": "Godofredo P. Ramos Airport (Caticlan Airport)",
+      "latitude": 11.9245,
+      "longitude": 121.954
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Albay",
+      "iata": "DRP",
+      "icao": "RPLK",
+      "airport": "Bicol International Airport",
+      "latitude": 13.1115,
+      "longitude": 123.6814
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Albay",
+      "iata": "LGP",
+      "icao": "RPLP",
+      "airport": "Legazpi International Airport",
+      "latitude": 13.1575,
+      "longitude": 123.735
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Antique",
+      "iata": "EUQ",
+      "icao": "RPVS",
+      "airport": "Evelio Javier Airport (Antique Airport)",
+      "latitude": 10.766,
+      "longitude": 121.933
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Aurora",
+      "iata": "BQA",
+      "icao": "RPUR",
+      "airport": "Dr. Juan C. Angara Airport",
+      "latitude": 15.7293,
+      "longitude": 121.5
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Aurora",
+      "iata": "CGG",
+      "icao": "",
+      "airport": "Casiguran Airport",
+      "latitude": 16.1941,
+      "longitude": 122.065
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Bataan",
+      "iata": "SFS",
+      "icao": "RPLB",
+      "airport": "Subic Bay International Airport",
+      "latitude": 14.7944,
+      "longitude": 120.271
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Batanes",
+      "iata": "BSO",
+      "icao": "RPUO",
+      "airport": "Basco Airport",
+      "latitude": 20.4513,
+      "longitude": 121.98
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Benguet",
+      "iata": "BAG",
+      "icao": "RPUB",
+      "airport": "Loakan Airport",
+      "latitude": 16.3751,
+      "longitude": 120.62
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Bohol",
+      "iata": "TAG",
+      "icao": "RPVT",
+      "airport": "Tagbilaran Airport",
+      "latitude": 9.66544,
+      "longitude": 123.854
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Bukidnon",
+      "iata": "XMA",
+      "icao": "",
+      "airport": "Maramag Airport",
+      "latitude": 7.7538,
+      "longitude": 125.033
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Cagayan",
+      "iata": "LLC",
+      "icao": "RPLH",
+      "airport": "Cagayan North International Airport (Lal-lo Airport)",
+      "latitude": 18.1811,
+      "longitude": 121.745
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Cagayan",
+      "iata": "TUG",
+      "icao": "RPUT",
+      "airport": "Tuguegarao Airport",
+      "latitude": 17.6434,
+      "longitude": 121.733
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Camarines Norte",
+      "iata": "DTE",
+      "icao": "RPUD",
+      "airport": "Bagasbas Airport",
+      "latitude": 14.1292,
+      "longitude": 122.98
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Camarines Sur",
+      "iata": "WNP",
+      "icao": "RPUN",
+      "airport": "Naga Airport",
+      "latitude": 13.5849,
+      "longitude": 123.27
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Camiguin",
+      "iata": "CGM",
+      "icao": "RPMH",
+      "airport": "Camiguin Airport",
+      "latitude": 9.25352,
+      "longitude": 124.707
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Capiz",
+      "iata": "RXS",
+      "icao": "RPVR",
+      "airport": "Roxas Airport",
+      "latitude": 11.5977,
+      "longitude": 122.752
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Catanduanes",
+      "iata": "VRC",
+      "icao": "RPUV",
+      "airport": "Virac Airport",
+      "latitude": 13.5764,
+      "longitude": 124.206
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Cavite",
+      "iata": "SGL",
+      "icao": "RPLS",
+      "airport": "Danilo Atienza Air Base",
+      "latitude": 14.4954,
+      "longitude": 120.904
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Cebu",
+      "iata": "CEB",
+      "icao": "RPVM",
+      "airport": "Mactan-Cebu International Airport",
+      "latitude": 10.3075,
+      "longitude": 123.979
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Compostela Valley",
+      "iata": "MXI",
+      "icao": "RPMQ",
+      "airport": "Mati Airport (Imelda R. Marcos Airport)",
+      "latitude": 6.94909,
+      "longitude": 126.274
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Davao del Sur",
+      "iata": "DVO",
+      "icao": "RPMD",
+      "airport": "Francisco Bangoy International Airport",
+      "latitude": 7.12552,
+      "longitude": 125.646
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Eastern Samar",
+      "iata": "BPA",
+      "icao": "",
+      "airport": "Borongan Airport",
+      "latitude": 11.6756,
+      "longitude": 125.4783
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Eastern Samar",
+      "iata": "DSG",
+      "icao": "",
+      "airport": "Dilasag Airport",
+      "latitude": 16.4458,
+      "longitude": 122.207
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Ilocos Norte",
+      "iata": "LAO",
+      "icao": "RPLI",
+      "airport": "Laoag International Airport",
+      "latitude": 18.1781,
+      "longitude": 120.532
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Iloilo",
+      "iata": "ICO",
+      "icao": "RPSG",
+      "airport": "Sicogon Airport",
+      "latitude": 11.4595,
+      "longitude": 123.251
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Iloilo",
+      "iata": "ILO",
+      "icao": "RPVI",
+      "airport": "Iloilo International Airport",
+      "latitude": 10.833,
+      "longitude": 122.493
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Isabela",
+      "iata": "CYZ",
+      "icao": "RPUY",
+      "airport": "Cauayan Airport",
+      "latitude": 16.9299,
+      "longitude": 121.753
+    },
+    {
+      "country_code": "PH",
+      "region_name": "La Union",
+      "iata": "SFE",
+      "icao": "RPUS",
+      "airport": "San Fernando Airport",
+      "latitude": 16.5956,
+      "longitude": 120.303
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Lanao del Norte",
+      "iata": "IGN",
+      "icao": "RPMI",
+      "airport": "Maria Cristina Airport (Iligan Airport)",
+      "latitude": 8.13049,
+      "longitude": 124.215
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Leyte",
+      "iata": "OMC",
+      "icao": "RPVO",
+      "airport": "Ormoc Airport",
+      "latitude": 11.058,
+      "longitude": 124.565
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Leyte",
+      "iata": "TAC",
+      "icao": "RPVA",
+      "airport": "Daniel Z. Romualdez Airport",
+      "latitude": 11.228,
+      "longitude": 125.028
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Maguindanao",
+      "iata": "CBO",
+      "icao": "RPMC",
+      "airport": "Awang Airport",
+      "latitude": 7.16524,
+      "longitude": 124.21
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Maguindanao",
+      "iata": "MLP",
+      "icao": "RPMM",
+      "airport": "Malabang Airport",
+      "latitude": 7.61722,
+      "longitude": 124.059
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Marinduque",
+      "iata": "MRQ",
+      "icao": "RPUW",
+      "airport": "Marinduque Airport",
+      "latitude": 13.361,
+      "longitude": 121.826
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Masbate",
+      "iata": "MBT",
+      "icao": "RPVJ",
+      "airport": "Moises R. Espinosa Airport (Masbate Airport)",
+      "latitude": 12.3697,
+      "longitude": 123.63
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Mindoro Occidental",
+      "iata": "LBX",
+      "icao": "RPLU",
+      "airport": "Lubang Airport",
+      "latitude": 13.8554,
+      "longitude": 120.105
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Mindoro Occidental",
+      "iata": "MBO",
+      "icao": "RPUM",
+      "airport": "Mamburao Airport",
+      "latitude": 13.2081,
+      "longitude": 120.605
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Mindoro Occidental",
+      "iata": "SJI",
+      "icao": "RPUH",
+      "airport": "San Jose Airport",
+      "latitude": 12.3615,
+      "longitude": 121.047
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Misamis Oriental",
+      "iata": "CGY",
+      "icao": "RPMY",
+      "airport": "Laguindingan Airport",
+      "latitude": 8.6122,
+      "longitude": 124.456
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Misamis Oriental",
+      "iata": "OZC",
+      "icao": "RPMO",
+      "airport": "Labo Airport",
+      "latitude": 8.17851,
+      "longitude": 123.842
+    },
+    {
+      "country_code": "PH",
+      "region_name": "National Capital Region",
+      "iata": "MNL",
+      "icao": "RPLL",
+      "airport": "Ninoy Aquino International Airport / Villamor Air Base",
+      "latitude": 14.5086,
+      "longitude": 121.02
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Negros Occidental",
+      "iata": "AAV",
+      "icao": "RPMA",
+      "airport": "Allah Valley Airport",
+      "latitude": 6.36682,
+      "longitude": 124.751
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Negros Occidental",
+      "iata": "BCD",
+      "icao": "RPVB",
+      "airport": "Bacolod-Silay International Airport",
+      "latitude": 10.7764,
+      "longitude": 123.015
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Negros Occidental",
+      "iata": "DGT",
+      "icao": "RPVD",
+      "airport": "Sibulan Airport (Dumaguete Airport)",
+      "latitude": 9.33371,
+      "longitude": 123.3
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Northern Samar",
+      "iata": "CRM",
+      "icao": "RPVF",
+      "airport": "Catarman National Airport",
+      "latitude": 12.5024,
+      "longitude": 124.636
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Palawan",
+      "iata": "CUJ",
+      "icao": "",
+      "airport": "Culion Airport",
+      "latitude": 11.8553,
+      "longitude": 119.938
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Palawan",
+      "iata": "CYU",
+      "icao": "RPLO",
+      "airport": "Cuyo Airport",
+      "latitude": 10.8581,
+      "longitude": 121.069
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Palawan",
+      "iata": "ENI",
+      "icao": "RPEN",
+      "airport": "El Nido Airport",
+      "latitude": 11.2024,
+      "longitude": 119.416
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Palawan",
+      "iata": "PPS",
+      "icao": "RPVP",
+      "airport": "Puerto Princesa International Airport",
+      "latitude": 9.74212,
+      "longitude": 118.759
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Palawan",
+      "iata": "RZP",
+      "icao": "RPSD",
+      "airport": "Cesar Lim Rodriguez Airport",
+      "latitude": 10.8187,
+      "longitude": 119.508
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Palawan",
+      "iata": "SWL",
+      "icao": "RPSV",
+      "airport": "San Vicente Airport",
+      "latitude": 10.525,
+      "longitude": 119.274
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Palawan",
+      "iata": "USU",
+      "icao": "RPVV",
+      "airport": "Francisco B. Reyes Airport",
+      "latitude": 12.1215,
+      "longitude": 120.1
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Palawan",
+      "iata": "XCN",
+      "icao": "",
+      "airport": "Coron Airport",
+      "latitude": 12.1211,
+      "longitude": 120.099
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Pampanga",
+      "iata": "CRK",
+      "icao": "RPLC",
+      "airport": "Clark International Airport",
+      "latitude": 15.186,
+      "longitude": 120.56
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Quezon",
+      "iata": "BSI",
+      "icao": "RPLE",
+      "airport": "Balesin Airport",
+      "latitude": 14.4194,
+      "longitude": 122.039
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Romblon",
+      "iata": "TBH",
+      "icao": "RPVU",
+      "airport": "Tugdan Airport",
+      "latitude": 12.311,
+      "longitude": 122.085
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Samar",
+      "iata": "CYP",
+      "icao": "RPVC",
+      "airport": "Calbayog Airport",
+      "latitude": 12.0727,
+      "longitude": 124.545
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Samar",
+      "iata": "TGB",
+      "icao": "",
+      "airport": "Tagbita Airport",
+      "latitude": 12.0721,
+      "longitude": 124.546
+    },
+    {
+      "country_code": "PH",
+      "region_name": "South Cotabato",
+      "iata": "GES",
+      "icao": "RPMR",
+      "airport": "General Santos International Airport (Tambler Airport)",
+      "latitude": 6.058,
+      "longitude": 125.096
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Sultan Kudarat",
+      "iata": "LWA",
+      "icao": "",
+      "airport": "Lebak Airport",
+      "latitude": 6.6739,
+      "longitude": 124.058
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Sulu",
+      "iata": "JOL",
+      "icao": "RPMJ",
+      "airport": "Jolo Airport",
+      "latitude": 6.05367,
+      "longitude": 121.011
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Sulu",
+      "iata": "SSV",
+      "icao": "",
+      "airport": "Siasi Airport",
+      "latitude": 5.558,
+      "longitude": 120.833
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Surigao del Norte",
+      "iata": "IAO",
+      "icao": "RPNS",
+      "airport": "Sayak Airport (Siargao Airport)",
+      "latitude": 9.8591,
+      "longitude": 126.014
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Surigao del Norte",
+      "iata": "SUG",
+      "icao": "RPMS",
+      "airport": "Surigao Airport",
+      "latitude": 9.75584,
+      "longitude": 125.481
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Surigao del Sur",
+      "iata": "BNQ",
+      "icao": "",
+      "airport": "Baganga Airport",
+      "latitude": 7.61194,
+      "longitude": 126.569
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Surigao del Sur",
+      "iata": "BPH",
+      "icao": "RPMF",
+      "airport": "Bislig Airport",
+      "latitude": 8.19595,
+      "longitude": 126.322
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Surigao del Sur",
+      "iata": "TDG",
+      "icao": "RPMW",
+      "airport": "Tandag Airport",
+      "latitude": 9.07211,
+      "longitude": 126.171
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Tawi-Tawi",
+      "iata": "CDY",
+      "icao": "RPMU",
+      "airport": "Cagayan de Sulu Airport",
+      "latitude": 7.014,
+      "longitude": 118.496
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Tawi-Tawi",
+      "iata": "TWT",
+      "icao": "RPMN",
+      "airport": "Sanga-Sanga Airport",
+      "latitude": 5.04699,
+      "longitude": 119.743
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Zamboanga Sibugay",
+      "iata": "IPE",
+      "icao": "RPMV",
+      "airport": "Ipil Airport",
+      "latitude": 7.78556,
+      "longitude": 122.602
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Zamboanga del Norte",
+      "iata": "DPL",
+      "icao": "RPMG",
+      "airport": "Dipolog Airport",
+      "latitude": 8.60198,
+      "longitude": 123.342
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Zamboanga del Norte",
+      "iata": "XSO",
+      "icao": "PRNO",
+      "airport": "Siocon Airport",
+      "latitude": 7.71048,
+      "longitude": 122.161
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Zamboanga del Sur",
+      "iata": "PAG",
+      "icao": "RPMP",
+      "airport": "Pagadian Airport",
+      "latitude": 7.83073,
+      "longitude": 123.461
+    },
+    {
+      "country_code": "PH",
+      "region_name": "Zamboanga del Sur",
+      "iata": "ZAM",
+      "icao": "RPMZ",
+      "airport": "Zamboanga International Airport",
+      "latitude": 6.92242,
+      "longitude": 122.06
+    }
+  ],
+  "meta": {
+    "title": "Mga IATA/ICAO code ng mga paliparan sa Pilipinas - Libreng download",
+    "description": "Listahan ng mga paliparan sa Pilipinas na may IATA (3 character) at ICAO code (4 character) ayon sa IP2Location database. Naglalaman ng 77 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga IATA/ICAO code ng mga paliparan sa Pilipinas | ListBase",
+    "seo_description": "I-download Mga IATA/ICAO code ng mga paliparan sa Pilipinas — 77 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 77 talaan / 7 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

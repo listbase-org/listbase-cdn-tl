@@ -1,0 +1,220 @@
+{
+  "id": "tl-sultan-kudarat-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sultan Kudarat",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sultan Kudarat",
+  "description": "Direktoryo ng 12 lungsod at bayan sa lalawigan ng Sultan Kudarat (Soccsksargen (Region XII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Sultan Kudarat` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Bagumbayan",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9810",
+      "punong_bayan": "JONALETTE E. DE PEDRO",
+      "kontak_punong_bayan": "(064) 471-7082",
+      "pangalawang_punong_bayan": "ERNESTO M. SEGURA SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Columbio",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9801",
+      "punong_bayan": "TONDATU M. MANGUDADATU",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NAILA M. MAMALINTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Esperanza",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9806",
+      "punong_bayan": "CHARLES FEDERIC R. PLOTEÑA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LALAINE V. SUHANDA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Isulan",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9805",
+      "punong_bayan": "ARNOLD H. ARMADA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CARLO F. APIADO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Kalamansig",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9808",
+      "punong_bayan": "JOAQUIN T. CONCHA",
+      "kontak_punong_bayan": "(064) 204-6239",
+      "pangalawang_punong_bayan": "ROLANDO P. GARCIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Lambayong",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9802",
+      "punong_bayan": "FERDINAND G. AGDUMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FRANCIS ERIC E. RECINTO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Lebak",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9807",
+      "punong_bayan": "FREDERICK F. CELESTIAL",
+      "kontak_punong_bayan": "(064) 205-3132",
+      "pangalawang_punong_bayan": "MELCHOR B. ALARCON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Lutayan",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9803",
+      "punong_bayan": "DATU PAX S. MANGUDADATU",
+      "kontak_punong_bayan": "(064) 228-1521",
+      "pangalawang_punong_bayan": "PRINCE RADEN M. SAKALURAN",
+      "kontak_pangalawang_punong_bayan": "(064) 228-1521"
+    },
+    {
+      "id": 9,
+      "lgu": "Palimbang",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9809",
+      "punong_bayan": "JOENIME B. KAPINA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MOSABAN P. ALIDING",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "President Quirino",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9804",
+      "punong_bayan": "MA. KATRINA BUENA F. SANDIGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MERIS D. ARADANAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Senator Ninoy Aquino",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9811",
+      "punong_bayan": "RANDY L. ECIJA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAFAEL GEORGE L. FLAUTA III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Tacurong",
+      "uri": "Lungsod",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "",
+      "punong_bayan": "JOSEPH GEORGE L. LECHONSITO",
+      "kontak_punong_bayan": "(064) 200-6615",
+      "pangalawang_punong_bayan": "LINA O. MONTILLA",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sultan Kudarat - Libreng download",
+    "description": "Direktoryo ng 12 lungsod at bayan sa lalawigan ng Sultan Kudarat (Soccsksargen (Region XII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Sultan Kudarat` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 12 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sultan Kudarat | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sultan Kudarat — 12 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 12 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

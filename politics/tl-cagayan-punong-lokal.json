@@ -1,0 +1,412 @@
+{
+  "id": "tl-cagayan-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Cagayan",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Cagayan",
+  "description": "Direktoryo ng 28 lungsod at bayan sa lalawigan ng Cagayan (Lambak ng Cagayan (Region II)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Cagayan` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Abulug",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3517",
+      "punong_bayan": "JESUS EMMANUEL P. VARGAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JESUS FLORENCIO A. VARGAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Alcala",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3507",
+      "punong_bayan": "CRISTINA I. ANTONIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOY C. DURUIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Allacapan",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3523",
+      "punong_bayan": "HARRY D. FLORIDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "YVONNE KATHRINA S. FLORIDA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Amulung",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3505",
+      "punong_bayan": "ELPIDIO R. RENDON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDWARD M. ANTONIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Aparri",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3515",
+      "punong_bayan": "BRYAN DALE G. CHAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "IRENEO R. CHAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Baggao",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3506",
+      "punong_bayan": "LEONARDO C. PATTUNG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROWEL B. GAZMEN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Ballesteros",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3516",
+      "punong_bayan": "VINCENT G. UNITE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VIOLETA V. UNITE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Buguey",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3511",
+      "punong_bayan": "LICERIO M. ANTIPORDA III",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LLOYD M. ANTIPORDA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Calayan",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3520",
+      "punong_bayan": "JOSEPH M. LLOPIS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDMUND B. ESCALANTE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Camalaniugan",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3510",
+      "punong_bayan": "ISIDRO T. CABADDU",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAMUEL O. ROSARIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Claveria",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3519",
+      "punong_bayan": "LUCILLE ANGELUS G. YAPO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FREDELINO D. AGPULDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Enrile",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3501",
+      "punong_bayan": "MIGUEL B. DECENA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTINA G. MAGBITANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Gattaran",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3508",
+      "punong_bayan": "SAMUEL G. SIDDAYAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MATTHEW C. NOLASCO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Gonzaga",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3513",
+      "punong_bayan": "MARILYN S. PENTECOSTES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JESSIE G. GASPAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Iguig",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3504",
+      "punong_bayan": "FERDINAND B. TRINIDAD",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JUDITAS L. TRINIDAD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Lal-lo",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3509",
+      "punong_bayan": "FLORANTE C. PASCUAL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIA OLIVIA B. PASCUAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Lasam",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3524",
+      "punong_bayan": "DANTE DEXTER A. AGATEP JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RANDY C. CAMBE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Pamplona",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3522",
+      "punong_bayan": "DIGNA P. ANTONIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARNIE ANGELICA P. SAMPAGA-FERNANDEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Peñablanca",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3502",
+      "punong_bayan": "WASHINGTON M. TAGUINOD",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARILYN J. TAGUINOD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Piat",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3527",
+      "punong_bayan": "LEONEL C. GUZMAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REYMUNDO E. VILLACETE III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Rizal",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3526",
+      "punong_bayan": "JOEL A. RUMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BRENDA B. RUMA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Sanchez-Mira",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3518",
+      "punong_bayan": "ABRAHAM B. BAGASIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ASELA B. SACRAMED",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Santa Ana",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3514",
+      "punong_bayan": "NELSON P. ROBINION",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CATHERINE J. LADRIDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Santa Praxedes",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3521",
+      "punong_bayan": "ESTERLINA A. AGUINALDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RENE D. ESTABILLO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "Santa Teresita",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3512",
+      "punong_bayan": "RODRIGO P. DE GRACIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUBEN P. FAGELA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 26,
+      "lgu": "Santo Niño",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3525",
+      "punong_bayan": "VICENTE G. PAGURAYAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANDREW VINCENT R. PAGURAYAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 27,
+      "lgu": "Solana",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3503",
+      "punong_bayan": "JENALYN P. CARAG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MEYNARD Z. CARAG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 28,
+      "lgu": "Tuao",
+      "uri": "Bayan",
+      "lalawigan": "CAGAYAN PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3528",
+      "punong_bayan": "WILLIAM N. MAMBA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FRANCISCO N. MAMBA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Cagayan - Libreng download",
+    "description": "Direktoryo ng 28 lungsod at bayan sa lalawigan ng Cagayan (Lambak ng Cagayan (Region II)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Cagayan` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 28 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Cagayan | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Cagayan — 28 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 28 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

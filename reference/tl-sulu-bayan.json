@@ -1,0 +1,208 @@
+{
+  "id": "tl-sulu-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Sulu",
+  "title": "Mga Bayan ng Lalawigan ng Sulu",
+  "description": "Listahan ng 19 munisipalidad (bayan) sa lalawigan ng Sulu, AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "156606000",
+      "name": "HADJI PANGLIMA TAHIL (MARUNGGAS)",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 6375,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "156601000",
+      "name": "INDANAN",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 80883,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "156602000",
+      "name": "JOLO (Capital)",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 125564,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "156603000",
+      "name": "KALINGALAN CALUANG",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 31567,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "156617000",
+      "name": "LUGUS",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 21897,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "156604000",
+      "name": "LUUK",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 32162,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "156605000",
+      "name": "MAIMBUNG",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 37914,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "156607000",
+      "name": "OLD PANAMAO",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 40998,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "156619000",
+      "name": "OMAR",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25116,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "156618000",
+      "name": "PANDAMI",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25885,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "156616000",
+      "name": "PANGLIMA ESTINO (NEW PANAMAO)",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 28817,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "156608000",
+      "name": "PANGUTARAN",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 30613,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "156609000",
+      "name": "PARANG",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 62172,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "156610000",
+      "name": "PATA",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 22163,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "156611000",
+      "name": "PATIKUL",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 62287,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "156612000",
+      "name": "SIASI",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 67705,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "156613000",
+      "name": "TALIPAO",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 80255,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "156614000",
+      "name": "TAPUL",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 18197,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "156615000",
+      "name": "TONGKIL",
+      "province": "SULU",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 24161,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Sulu - Libreng download",
+    "description": "Listahan ng 19 munisipalidad (bayan) sa lalawigan ng Sulu, AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 19 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Sulu | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Sulu — 19 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 19 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "tl-antipolo-bangko",
+  "name": "Mga Bangko sa City of Antipolo",
+  "title": "Mga Bangko sa City of Antipolo",
+  "description": "Listahan ng 6 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Antipolo (source city string: \"CITY OF ANTIPOLO\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "ATDBPHM10M2",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM10M5",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": "MASINAG BRANCH"
+    },
+    {
+      "swift_code": "BIUUPHM1",
+      "name": "BINANGONAN RURAL BANK, INC",
+      "name_titlecase": "Binangonan Rural BANK, INC",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "FRUNPHM1",
+      "name": "FILIDIAN RURAL BANK OF ANTIPOLO,INC",
+      "name_titlecase": "Filidian Rural BANK of Antipolo,inc",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "IORUPHM1",
+      "name": "INNOVATIVE BANK, INC.  (A RURAL BANK)",
+      "name_titlecase": "Innovative BANK, INC.  (a Rural BANK)",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUMTPHM2",
+      "name": "RURAL BANK OF MONTALBAN, INC.",
+      "name_titlecase": "Rural BANK of Montalban, INC.",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Antipolo - Libreng download",
+    "description": "Listahan ng 6 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Antipolo (source city string: \"CITY OF ANTIPOLO\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Antipolo | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Antipolo — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

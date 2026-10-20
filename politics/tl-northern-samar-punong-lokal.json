@@ -1,0 +1,364 @@
+{
+  "id": "tl-northern-samar-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Northern Samar",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Northern Samar",
+  "description": "Direktoryo ng 24 lungsod at bayan sa lalawigan ng Northern Samar (Silangang Visayas (Region VIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Northern Samar` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Allen",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6405",
+      "punong_bayan": "JOSE ARTURO D. SUAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTIAN G. LAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Biri",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6410",
+      "punong_bayan": "AMELITA B. DELOS REYES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANA B. ARAOJO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Bobon",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6401",
+      "punong_bayan": "RENY A. CELESPARA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LIGAYA T. UY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Capul",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6408",
+      "punong_bayan": "ISIDRO S. BANDAL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "IRENE C. ABAYON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Catarman",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6400",
+      "punong_bayan": "FRANCISCO AURELIO E. ROSALES III",
+      "kontak_punong_bayan": "(055) 251-8428; 500-0712",
+      "pangalawang_punong_bayan": "FRANCISCO C. ROSALES JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Catubig",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6418",
+      "punong_bayan": "SOLOMON G. VICENCIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GALAHAD O. VICENCIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Gamay",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6422",
+      "punong_bayan": "RAQUEL T. CAPOQUIAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CLARITA P. GOMBA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Laoang",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6411",
+      "punong_bayan": "HECTOR L. ONG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MIGUEL L. SARMIENTO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Lapinig",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6423",
+      "punong_bayan": "MA. LUISA A. MENZON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FLORA S. QUILICOL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Las Navas",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6420",
+      "punong_bayan": "ARLITO A. TAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MINDA M. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Lavezares",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6404",
+      "punong_bayan": "EDITO B. SALUDAGA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEONARDO G. TIOZON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Lope de Vega",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6403",
+      "punong_bayan": "BOBBY C. SALUDARIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "KATHLEEN C. BANDAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Mapanas",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6412",
+      "punong_bayan": "RONN MICHAEL L. TEJANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MA. LUISA BARBARA L. TEJANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Mondragon",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6417",
+      "punong_bayan": "LERMA H. MADERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MYLA D. MARQUITA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Palapag",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6421",
+      "punong_bayan": "FLORENCIO A. BATULA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MELVIC L. CHY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Pambujan",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6413",
+      "punong_bayan": "FELIPE A. SOSING",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RONIL A. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Rosario",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6416",
+      "punong_bayan": "DAVID A. BIDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VICENTE B. ARILLO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "San Antonio",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6407",
+      "punong_bayan": "GARY M. LAVIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUDY S. BAGUIOSO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "San Isidro",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6409",
+      "punong_bayan": "FERDINAND C. AVILA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CONRADO G. AVILA SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "San Jose",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6402",
+      "punong_bayan": "DAMIAN T. LUZON JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GOLDA S. BALLESTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "San Roque",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6415",
+      "punong_bayan": "MARIA ANA G. ABALON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ETHEL O. RAMIREZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "San Vicente",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6419",
+      "punong_bayan": "EDGAR T. CATARONGAN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "TITO M. LUNEZA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Silvino Lobos",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6414",
+      "punong_bayan": "LEO L. JARITO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REMEDIOS T. ESPINAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Victoria",
+      "uri": "Bayan",
+      "lalawigan": "Northern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6406",
+      "punong_bayan": "JOSE G. ARDALES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANSELMO P. ALILUYA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Northern Samar - Libreng download",
+    "description": "Direktoryo ng 24 lungsod at bayan sa lalawigan ng Northern Samar (Silangang Visayas (Region VIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Northern Samar` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 24 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Northern Samar | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Northern Samar — 24 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 24 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

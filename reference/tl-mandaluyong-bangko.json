@@ -1,0 +1,120 @@
+{
+  "id": "tl-mandaluyong-bangko",
+  "name": "Mga Bangko sa City of Mandaluyong",
+  "title": "Mga Bangko sa City of Mandaluyong",
+  "description": "Listahan ng 8 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Mandaluyong (source city string: \"CITY OF MANDALUYONG\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "ALKBPHM2",
+      "name": "ALLBANK (A THRIFT BANK) INC",
+      "name_titlecase": "Allbank (a Thrift BANK) INC",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "ASDBPHMM",
+      "name": "ASIAN DEVELOPMENT BANK",
+      "name_titlecase": "Asian Development BANK",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "PABIPHMM",
+      "name": "BANK OF COMMERCE",
+      "name_titlecase": "BANK of Commerce",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "CBSLPHM1",
+      "name": "COMMONWEALTH BANK/SAVINGS AND LOAN",
+      "name_titlecase": "Commonwealth Bank/savings and Loan",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "MYYAPHM2",
+      "name": "MAYA BANK, INC.",
+      "name_titlecase": "Maya BANK, INC.",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "OPDVPHM1",
+      "name": "OPTIMUM DEVELOPEMENT BANK. INC",
+      "name_titlecase": "Optimum Developement BANK. INC",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "PAPHPHM1",
+      "name": "PAYMAYA PHILIPPINES INC.",
+      "name_titlecase": "Paymaya Philippines INC.",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "STIUPHM1",
+      "name": "STATE INVESTMENT TRUST, INC.",
+      "name_titlecase": "State Investment Trust, INC.",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Mandaluyong - Libreng download",
+    "description": "Listahan ng 8 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Mandaluyong (source city string: \"CITY OF MANDALUYONG\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 8 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Mandaluyong | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Mandaluyong — 8 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 8 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

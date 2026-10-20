@@ -1,0 +1,220 @@
+{
+  "id": "tl-maguindanao-del-norte-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Maguindanao del Norte",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Maguindanao del Norte",
+  "description": "Direktoryo ng 12 lungsod at bayan sa lalawigan ng Maguindanao del Norte (Bangsamoro (BARMM)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Maguindanao del Norte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Barira",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9614",
+      "punong_bayan": "ABDUL RAUF D. TOMAWIS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BAHRAIN M. DAGALANGIT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Buldon",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9615",
+      "punong_bayan": "PAHMIA A. MANALAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ABOLAIS A. MANALAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Datu Blah T. Sinsuat",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9623",
+      "punong_bayan": "DATU MARSHALL I. SINSUAT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAIDA T. SINSUAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Datu Odin Sinsuat",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9601",
+      "punong_bayan": "LESTER S. SINSUAT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DATU SAJID S. SINSUAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Kabuntalan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9606",
+      "punong_bayan": "SALABAN G. DIOCOLANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DATU RAHAF D. DIOCOLANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Matanog",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9613",
+      "punong_bayan": "ZOHRIA S. BANSIL-GURO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SANAIRA I. ALI-IMAM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Northern Kabuntalan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9630",
+      "punong_bayan": "DATU UMBRA B. DILANGALEN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DATU MOHAMMAD SHAFFIE C. BAYAM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Parang",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9604",
+      "punong_bayan": "CAHAR P. IBAY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ADNAN C. BIRUAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Sultan Kudarat",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9605",
+      "punong_bayan": "DATU TUCAO O. MASTURA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DATU SHAMEEM B. MASTURA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Sultan Mastura",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9636",
+      "punong_bayan": "ZULFICAR H. PANDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANDY Z. AMIR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Talitay",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9637",
+      "punong_bayan": "SIDIK S. AMIRIL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FAHAD J. MIDTIMBANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Upi",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9602",
+      "punong_bayan": "MA. RONA CRISTINA P. FLORES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "WILFREDO T. IBAÑEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Maguindanao del Norte - Libreng download",
+    "description": "Direktoryo ng 12 lungsod at bayan sa lalawigan ng Maguindanao del Norte (Bangsamoro (BARMM)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Maguindanao del Norte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 12 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Maguindanao del Norte | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Maguindanao del Norte — 12 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 12 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

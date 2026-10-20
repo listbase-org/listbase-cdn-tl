@@ -1,0 +1,151 @@
+{
+  "id": "tl-zamboanga-peninsula-paliparan",
+  "name": "Mga Paliparan — Tangway ng Zamboanga",
+  "title": "Mga Paliparan — Tangway ng Zamboanga",
+  "description": "Mga paliparan at landing strip sa Tangway ng Zamboanga (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Zamboanga-Peninsula`. (Airports in Zamboanga Peninsula (Region IX), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RPMG",
+      "iata": "DPL",
+      "name": "Dipolog Airport",
+      "city": "Dipolog City",
+      "subdivision": "Zamboanga-Peninsula",
+      "subdivision_native": "Zamboanga-Peninsula",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 12,
+      "latitude": 8.60198,
+      "longitude": 123.34188,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPMP",
+      "iata": "PAG",
+      "name": "Pagadian Airport",
+      "city": "Pagadian City",
+      "subdivision": "Zamboanga-Peninsula",
+      "subdivision_native": "Zamboanga-Peninsula",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 5,
+      "latitude": 7.83073,
+      "longitude": 123.46118,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPMV",
+      "iata": "IPE",
+      "name": "Ipil Airport",
+      "city": "Ipil",
+      "subdivision": "Zamboanga-Peninsula",
+      "subdivision_native": "Zamboanga-Peninsula",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 0,
+      "latitude": 7.78556,
+      "longitude": 122.602,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPMZ",
+      "iata": "ZAM",
+      "name": "Zamboanga International Airport",
+      "city": "Zamboanga City",
+      "subdivision": "Zamboanga-Peninsula",
+      "subdivision_native": "Zamboanga-Peninsula",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 33,
+      "latitude": 6.92242,
+      "longitude": 122.06,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — Tangway ng Zamboanga - Libreng download",
+    "description": "Mga paliparan at landing strip sa Tangway ng Zamboanga (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Zamboanga-Peninsula`. (Airports in Zamboanga Peninsula (Region IX), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 4 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — Tangway ng Zamboanga | ListBase",
+    "seo_description": "I-download Mga Paliparan — Tangway ng Zamboanga — 4 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 4 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

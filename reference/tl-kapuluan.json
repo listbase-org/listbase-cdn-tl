@@ -1,0 +1,146 @@
+{
+  "id": "tl-kapuluan",
+  "name": "Mga Kapuluan ng Pilipinas (Philippine Archipelagos)",
+  "title": "Mga Kapuluan ng Pilipinas (Philippine Archipelagos)",
+  "description": "Listahan ng mga kapuluan (archipelagos) na may kaugnayan sa Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Naiiba sa tl-pulo (mga indibidwal na pulo).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1025708",
+      "name_tl": "Kapuluan ng Cagayan",
+      "name_en": "Cagayan Islands",
+      "located_in_at": "Cagayancillo",
+      "latitude": 9.6,
+      "longitude": 121.24,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q19911854",
+      "name_tl": "Kapuluan ng Dinagat",
+      "name_en": "Dinagat Islands",
+      "located_in_at": "Caraga",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1061195",
+      "name_tl": "Kapuluan ng Sulu",
+      "name_en": "Sulu Archipelago",
+      "located_in_at": "",
+      "latitude": 6,
+      "longitude": 121,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q797807",
+      "name_tl": "Kapuluang Babuyan",
+      "name_en": "Babuyan Islands",
+      "located_in_at": "Cagayan",
+      "latitude": 19.1,
+      "longitude": 121.6,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kapuluang_Babuyan"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1146733",
+      "name_tl": "Kapuluang Cuyo",
+      "name_en": "Cuyo Archipelago",
+      "located_in_at": "Palawan",
+      "latitude": 10.844722,
+      "longitude": 121.038889,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q208643",
+      "name_tl": "Kapuluang Malay",
+      "name_en": "Malay Archipelago",
+      "located_in_at": "",
+      "latitude": -2.080582,
+      "longitude": 126.546887,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kapuluang_Malay"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q928",
+      "name_tl": "Pilipinas",
+      "name_en": "Philippines",
+      "located_in_at": "",
+      "latitude": 12,
+      "longitude": 123,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Pilipinas"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q18783",
+      "name_tl": "Singsing ng Apoy ng Pasipiko",
+      "name_en": "Pacific Ring of Fire",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Singsing_ng_Apoy_ng_Pasipiko"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kapuluan ng Pilipinas (Philippine Archipelagos) - Libreng download",
+    "description": "Listahan ng mga kapuluan (archipelagos) na may kaugnayan sa Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Naiiba sa tl-pulo (mga indibidwal na pulo). Naglalaman ng 8 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Kapuluan ng Pilipinas (Philippine Archipelagos) | ListBase",
+    "seo_description": "I-download Mga Kapuluan ng Pilipinas (Philippine Archipelagos) — 8 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 8 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

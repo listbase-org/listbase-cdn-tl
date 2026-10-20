@@ -1,0 +1,2256 @@
+{
+  "id": "tl-armm-shs-paaralan",
+  "name": "Mga Senior High School - Autonomous Region in Muslim Mindanao (ARMM)",
+  "title": "Mga Senior High School - Autonomous Region in Muslim Mindanao (ARMM)",
+  "description": "Mga Senior High School (SHS) sa Autonomous Region in Muslim Mindanao (ARMM) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (219 paaralan.)",
+  "category": "education",
+  "source": "https://github.com/nedpals/k12-shs-api",
+  "source_url": "https://github.com/nedpals/k12-shs-api",
+  "updated": "2026-04",
+  "record_count": 219,
+  "columns": [
+    {
+      "key": "school_id",
+      "label": "School Id",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "school_name",
+      "label": "School Name",
+      "type": "string"
+    },
+    {
+      "key": "programs",
+      "label": "Programs",
+      "type": "string"
+    },
+    {
+      "key": "tvl_specializations",
+      "label": "Tvl Specializations",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "school_id": "406089",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Dansalan College Foundation",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Cookery, Wellness Massage, Handicraft (Woodcraft), Handicraft (Fashion Accessories, Paper Craft), Bread and Pastry Production, Computer Systems Servicing, Animal Production, Agricultural Crops Production, Driving, Automotive Servicing, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "318601",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MARAWI CITY",
+      "school_name": "Dansalan NHS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304985",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "PUALAS",
+      "school_name": "Danugan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "318322",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "AMPATUAN",
+      "school_name": "Datu Abdula M. Camino MNHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Housekeeping (NC II),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "318309",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU ODIN SINSUAT (DINAIG)",
+      "school_name": "Datu Arnel Datukon NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "478021",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Datu Blo Umpar Adiong (BUAD) Agricultural School Foundation, Inc.",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Horticulture"
+    },
+    {
+      "school_id": "304963",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MARANTAO",
+      "school_name": "Datu Calaca MNCHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "406673",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Datu Paglas",
+      "school_name": "Datu Ibrahim Paglas Memorial College",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Bread and Pastry Production, Motorcycle/Small Engine Servicing, Shielded Metal Arc Welding, Driving, Plumbing, Computer Systems Servicing, Agricultural Crops Production"
+    },
+    {
+      "school_id": "324302",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "BARIRA",
+      "school_name": "Datu Malambut Limokin NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "318305",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "SULTAN SA BARONGIS (LAMBAYONG)",
+      "school_name": "Datu Mamalo MNHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC II),  Computer Hardware Servicing (NC II), Animal Production (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "324601",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "BUBONG",
+      "school_name": "Datu Mamintal Adiong Mem. Nat. High School",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Tailoring (NC II),  Computer Programming (NC IV), Computer Hardware Servicing (NC II),  Handicraft- Fashion Accessories, Paper Craft, Cookery (NC II), Beauty/ Nail Care (NC II)"
+    },
+    {
+      "school_id": "305004",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU PAGLAS",
+      "school_name": "Datu Paglas NHS",
+      "programs": "STEM, TVL, Sports",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304965",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "TAMPARAN",
+      "school_name": "Datu Palawan Disomimba MNHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "305005",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU PIANG",
+      "school_name": "Datu Piang NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "324712",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MADALUM",
+      "school_name": "Datu Raquib Zainodin National Highschool",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "318315",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU SAUDI-AMPATUAN",
+      "school_name": "Datu Saudi Uy Ampatuan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Illustration (NC II)"
+    },
+    {
+      "school_id": "318312",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "MAMASAPANO",
+      "school_name": "Datu Tahir Ampatuan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "305006",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PAGALUNGAN",
+      "school_name": "Datu Udtog Matalam Sr. MNHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Horticulture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "318323",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU UNSAY",
+      "school_name": "Datu Unsay NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "318220",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "LUMBATAN",
+      "school_name": "DILAUSAN NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Caregiving (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "305007",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "BULDON",
+      "school_name": "Dinganen-Buldon NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II),  Cookery (NC II), Beauty/ Nail Care (NC II), Bread and Pastry Production (NC II),  Organic Agriculture (NC II), Dressmaking (NC II),  Rice Machinery Operation (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "318116",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "BUBONG",
+      "school_name": "East Bayabao Integrated NHS of Vocational Technology",
+      "programs": "TVL",
+      "tvl_specializations": "Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "476520",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Buluan",
+      "school_name": "Eastern Kutawato Islamic Institute, Inc.",
+      "programs": "HUMSS, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Driving, Agricultural Crops Production"
+    },
+    {
+      "school_id": "476002",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Malabang",
+      "school_name": "Felix A. Panganiban (FAP) Academy of the Philippines, Inc.",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "478019",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Fountain Harvest Islamic Academy",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery, Dressmaking, Computer Programming"
+    },
+    {
+      "school_id": "324709",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "GANASSI",
+      "school_name": "Ganassi NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Fashion Design (NC III)"
+    },
+    {
+      "school_id": "406070",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Datu Piang",
+      "school_name": "Gani L. Abpi College, Inc.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Computer Programming, Bread and Pastry Production, Tailoring, Cookery, Caregiving, Carpentry, Masonry, Consumer Electronics Servicing, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "305008",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "KABUNTALAN (TUMBAO)",
+      "school_name": "Gayonga NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "305009",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "GEN. S. K. PENDATUN",
+      "school_name": "Gen. Salipada K. Pendatun NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "318318",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "GUINDULUNGAN",
+      "school_name": "Guindulungan NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Handicraft- Basketry, Macrame, Handicraft- Fashion Accessories, Paper Craft, Handicraft- Needlecraft, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "318504",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "SIMUNUL",
+      "school_name": "Hadji Omarsani Tambut NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "406921",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "City of Lamitan",
+      "school_name": "Hardam Furigay Colleges Foundation, Inc.",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "304962",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "BUMBARAN",
+      "school_name": "Amai Manabilang NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Consumer Electronics Servicing (NC II)"
+    },
+    {
+      "school_id": "305017",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PARANG",
+      "school_name": "Amir Bara Lidasan NHS",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "406091",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "IBN Siena Integrated School Foundation",
+      "programs": "STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318402",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "INDANAN",
+      "school_name": "Indanan National High School (Annex Pasil)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318403",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "INDANAN",
+      "school_name": "Indanan National High School (Annex Timbangan)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304979",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "LUMBATAN",
+      "school_name": "Andong NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Dressmaking (NC II), Handicraft- Basketry, Macrame, Handicraft- Needlecraft"
+    },
+    {
+      "school_id": "478018",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Jamiatu Marawi Al-Islamia Foundation",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406093",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Jamiatu Muslim Mindanao",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Programming, Animation"
+    },
+    {
+      "school_id": "406008",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Jamiatul Philippine Al-Islamia",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Computer Systems Servicing"
+    },
+    {
+      "school_id": "305030",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "INDANAN",
+      "school_name": "Jolo Agricultural School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "318410",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "JOLO (Capital)",
+      "school_name": "Jolo Agricultural School (Annex Bato bato)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305032",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "JOLO (Capital)",
+      "school_name": "Jolo School of Fisheries",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "305011",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "KABUNTALAN (TUMBAO)",
+      "school_name": "Kabuntalan NHS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305033",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "KALINGALAN CALUANG",
+      "school_name": "Kalingalan Caluang National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "324706",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "KAPATAGAN",
+      "school_name": "KAPATAGAN NATIONAL HIGH SCHOOL",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "305012",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "AMPATUAN",
+      "school_name": "Kauran NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "318308",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PAGALUNGAN",
+      "school_name": "KILANGAN NATIONAL HIGH SCHOOL",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Horticulture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "304966",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "WAO",
+      "school_name": "Kili-Kili NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "305072",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MARAWI CITY",
+      "school_name": "Angoyao NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "406061",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Wao",
+      "school_name": "La Purisima High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Systems Servicing"
+    },
+    {
+      "school_id": "318602",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MARAWI CITY",
+      "school_name": "Lake Lanao NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "304988",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MADAMBA",
+      "school_name": "Lakitan NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Fashion Design (NC III)"
+    },
+    {
+      "school_id": "407450",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Datu Piang",
+      "school_name": "Lamalan Balis Flash Image Learning Center, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Organic Agriculture, Motorcycle/Small Engine Servicing, Driving, Plumbing, Carpentry, Electrical Installation and Maintenance, Tailoring, Dressmaking, Housekeeping, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "305034",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "SIASI",
+      "school_name": "Laminusa National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "304939",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "CITY OF LAMITAN",
+      "school_name": "Lamitan National High School",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "478011",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Lanao Islamic Paramedical College Foundation, Inc",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Caregiving, Dressmaking, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "318406",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "SIASI",
+      "school_name": "Lapak National School of Fisheries",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "318109",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "TARAKA",
+      "school_name": "Ansano Memorial NHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "305013",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PARANG",
+      "school_name": "Litayen NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Commercial Cooking (NC III), Fish Products Packaging (NC II),  Dressmaking (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "304941",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "HADJI MUHTAMAD",
+      "school_name": "Lubukan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "305035",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "LUGUS",
+      "school_name": "Lugus National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318329",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "SOUTH UPI",
+      "school_name": "Lumao NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "305036",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "LUUK",
+      "school_name": "Luuk National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318124",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "SAGUIARAN",
+      "school_name": "M & S Maito Basak NHS",
+      "programs": "STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "324710",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MADALUM",
+      "school_name": "MADALUM NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Handicraft- Basketry, Macrame, Handicraft- Needlecraft, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "318218",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MADAMBA",
+      "school_name": "Madamba National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Aquaculture (NC II),  Dressmaking (NC II), Fashion Design (NC III)"
+    },
+    {
+      "school_id": "476505",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Buluan",
+      "school_name": "Maguindanao Institute of Technology and Learning Center, Inc.",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Housekeeping, Motorcycle/Small Engine Servicing, Automotive Servicing, Shielded Metal Arc Welding, Driving"
+    },
+    {
+      "school_id": "305014",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "SHARIFF AGUAK (MAGANOY) (Capital)",
+      "school_name": "Maguindanao NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Tailoring (NC II),  Hairdressing (NC II), Tourism Promotion Services (NC II), Local Guiding Services (NC II),  Plumbing (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "477503",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "Bongao",
+      "school_name": "Mahardika Institute of Technology, Inc.",
+      "programs": "HUMSS, ABM, GAS, STEM, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Computer Programming, Bread and Pastry Production, Food and Beverage Services, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Masonry, Automotive Servicing"
+    },
+    {
+      "school_id": "305037",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "MAIMBUNG",
+      "school_name": "Maimbung National High School (Main)",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "318408",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "MAIMBUNG",
+      "school_name": "Maimbung National High School Annex",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "326001",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PARANG",
+      "school_name": "Making Integrated Vocational & Technology High School",
+      "programs": "TVL",
+      "tvl_specializations": "Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "318240",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MALABANG",
+      "school_name": "Malabang NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "304943",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "MALUSO",
+      "school_name": "Maluso NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "305026",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "MAMASAPANO",
+      "school_name": "Mamasapano NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Agricultural Crops Production (NC II),  Technical Drafting (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "304989",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MALABANG",
+      "school_name": "Mananayo NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Landscape Installation and Maintenance (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304952",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "SUMISIP",
+      "school_name": "Mangal NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Shielded Metal Arc Welding (NC I)"
+    },
+    {
+      "school_id": "318334",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "MANGUDADATU",
+      "school_name": "Mangudadatu NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "318332",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU PAGLAS",
+      "school_name": "Manindolo NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "305056",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "SAPA-SAPA",
+      "school_name": "Mantabuan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305057",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "SIMUNUL",
+      "school_name": "Manuk Mangkaw NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406096",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Mapandi Memorial College",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking"
+    },
+    {
+      "school_id": "305015",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PARANG",
+      "school_name": "ARMM Regional Science High School",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406097",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Marawi Capitol College Foundation, Inc.",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305073",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MARAWI CITY",
+      "school_name": "MARAWI CITY NATIONAL HIGH SCHOOL",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Front Office Services (NC II), Travel Services (NC II), Travel Services (NC II), Tourism Promotion Services (NC II)"
+    },
+    {
+      "school_id": "478003",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Marawi Foundation Academy, Inc.",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Local Guiding Services, Tourism Promotion Services"
+    },
+    {
+      "school_id": "478008",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Masiricampo Abantas Memorial Educational Center, Inc.",
+      "programs": "HUMSS, ABM, GAS, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Technical Drafting, Tailoring, Dressmaking, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "318107",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "WAO",
+      "school_name": "Masiricampo Abantas MNHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Computer Systems Servicing (NC II),  Dressmaking (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "305016",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "MATANOG",
+      "school_name": "Matanog NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "475505",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Tamparan",
+      "school_name": "As-salihein Integrated School Foundation, Inc.",
+      "programs": "HUMSS, ABM, STEM, GAS, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Computer Programming, Dressmaking, Bread and Pastry Production, Cookery, Handicraft, Carpentry, Driving, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "318335",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "MAMASAPANO",
+      "school_name": "Maulana NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "318201",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "BAYANG",
+      "school_name": "Mauyag C. Papandayan National High School",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Fashion Design (NC III)"
+    },
+    {
+      "school_id": "318132",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "WAO",
+      "school_name": "Milaya Saripada National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "405839",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "City of Lamitan",
+      "school_name": "Mindanao Autonomous College Foundation, Inc.",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Dressmaking, Food and Beverage Services, Bread and Pastry Production, Cookery, Local Guiding Services, Beauty/Nail Care, Front Office Services, Housekeeping, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Animation, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "600195",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "Jolo (Capital)",
+      "school_name": "Mindanao State University",
+      "programs": "STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600329",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "Mapun",
+      "school_name": "Mindanao State University - Mapun Extension",
+      "programs": "STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600327",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "Sibutu",
+      "school_name": "Mindanao State University - Sibutu Extension",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600328",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "Tandubas",
+      "school_name": "Mindanao State University - Ungus Matata Extension",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600121",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Mindanao State University-LNCAT",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Computer Programming, Computer Hardware Servicing, Agricultural Crops Production, Animal Production, Automotive Servicing, Consumer Electronics Servicing, Bread and Pastry Production, Food and Beverage Services, Dressmaking, Tailoring"
+    },
+    {
+      "school_id": "600194",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Datu Odin Sinsuat",
+      "school_name": "Mindanao State University-Maguindanao",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Cookery, Bread and Pastry Production, Electrical Installation and Maintenance, Food Processing, Aquaculture, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "600122",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Mindanao State University-Marawi",
+      "programs": "STEM, HUMSS, ABM, TVL",
+      "tvl_specializations": "Computer Programming, Computer Hardware Servicing, Organic Agriculture, Pest Management, Animal Production, Agricultural Crops Production, Horticulture,  Aquaculture, Food Processing, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Carpentry, Plumbing, Masonry, Automotive Servicing, Food and Beverage Services, Housekeeping, Bread and Pastry Production, Front Office Services, Cookery"
+    },
+    {
+      "school_id": "600196",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "Bongao",
+      "school_name": "Mindanao State University-Tawi-Tawi",
+      "programs": "STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304971",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MULONDO",
+      "school_name": "Mulondo NHS",
+      "programs": "ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304992",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "LUMBAYANAGUE",
+      "school_name": "Nanagun NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Health Care Management (NC III), Animal Production (NC II),  Pest Management (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "406080",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "Bongao",
+      "school_name": "Notre Dame of Bongao",
+      "programs": "ABM, GAS, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406071",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Datu Piang",
+      "school_name": "Notre Dame of Dulawan",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Housekeeping"
+    },
+    {
+      "school_id": "400857",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "Jolo (Capital)",
+      "school_name": "Notre Dame of Jolo College",
+      "programs": "HUMSS, ABM, GAS, STEM, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Medical Transcription, Bread and Pastry Production, Dressmaking, Caregiving, Bartending, Tourism Promotion Services, Food and Beverage Services, Motorcycle/Small Engine Servicing"
+    },
+    {
+      "school_id": "406072",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Parang",
+      "school_name": "Notre Dame of Parang, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Programming, Animation, Cookery, Food and Beverage Services"
+    },
+    {
+      "school_id": "406073",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Parang",
+      "school_name": "Notre Dame of Sarmiento, Inc",
+      "programs": "HUMSS, ABM, GAS, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Computer Programming"
+    },
+    {
+      "school_id": "406079",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "Siasi",
+      "school_name": "Notre Dame of Siasi",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Medical Transcription, Computer Systems Servicing"
+    },
+    {
+      "school_id": "406074",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Upi",
+      "school_name": "Notre Dame of Upi, Inc.",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406066",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Malabang",
+      "school_name": "Our Lady of Peace High School",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304972",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "WAO",
+      "school_name": "Pagalongan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Consumer Electronics Servicing (NC II)"
+    },
+    {
+      "school_id": "318502",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "BONGAO",
+      "school_name": "Pagasinan NHS",
+      "programs": "GAS, Arts and Design",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318208",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "PAGAYAWAN (TATARIKAN)",
+      "school_name": "Pagayawan NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Dressmaking (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "305010",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PAGLAT",
+      "school_name": "Paglat NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "318405",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "OLD PANAMAO",
+      "school_name": "Panamao National High School (annex lower Patibulan)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318130",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "WAO",
+      "school_name": "Panang NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "305040",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "PANDAMI",
+      "school_name": "Pandami National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318330",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "SOUTH UPI",
+      "school_name": "Pandan NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "305041",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "PANGLIMA ESTINO (NEW PANAMAO)",
+      "school_name": "Panglima Estino National High School (Main)",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305039",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "HADJI PANGLIMA TAHIL (MARUNGGAS)",
+      "school_name": "Panglima Tahil National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305042",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "PANGUTARAN",
+      "school_name": "Pangutaran National High School (Main)",
+      "programs": "STEM, ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305043",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "PARANG",
+      "school_name": "Parang National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305018",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PARANG",
+      "school_name": "Parang NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Bread and Pastry Production (NC II), Cookery (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Masonry (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "304945",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "CITY OF LAMITAN",
+      "school_name": "Parangbasak NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "305044",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "PATA",
+      "school_name": "Pata National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305045",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "PATIKUL",
+      "school_name": "Patikul National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "478020",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "Philippine Engineering and Agro-Industrial College, Inc.",
+      "programs": "HUMSS, STEM, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Computer Programming"
+    },
+    {
+      "school_id": "304973",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "PIAGAPO",
+      "school_name": "Piagapo NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Dressmaking (NC II),  Computer Hardware Servicing (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "304974",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "POONA BAYABAO (GATA)",
+      "school_name": "Pooni-Lomabao MNHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "304994",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "PUALAS",
+      "school_name": "Pualas NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Rice Machinery Operation (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "318221",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "SULTAN DUMALONDONG",
+      "school_name": "Bacayawan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Dressmaking (NC II), Commercial Cooking (NC III)"
+    },
+    {
+      "school_id": "304980",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "BACOLOD-KALAWI (BACOLOD GRANDE)",
+      "school_name": "Bacolod-Kalawi NHS",
+      "programs": "GAS, TVL, Arts and Design",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "318605",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MARAWI CITY",
+      "school_name": "Racman Pimping Maniri NSHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "318111",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "POONA BAYABAO (GATA)",
+      "school_name": "Ragayan NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "478017",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "RC-AKICFI Science Laboratory School",
+      "programs": "STEM, HUMSS, GAS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305020",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU BLAH SINSUAT",
+      "school_name": "Resa NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318313",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PARANG",
+      "school_name": "Ruth Manion Babao Mem. NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Contact Center Services (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304975",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "SAGUIARAN",
+      "school_name": "Saguiaran NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Cookery (NC II)"
+    },
+    {
+      "school_id": "406063",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Balabagan",
+      "school_name": "San Isidro High School of Balabagan",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing"
+    },
+    {
+      "school_id": "324303",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU ODIN SINSUAT (DINAIG)",
+      "school_name": "Bai Hanina Sinsuat NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Handicraft- Woodcraft, Leathercraft , Front Office Services (NC II)"
+    },
+    {
+      "school_id": "400844",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Datu Odin Sinsuat",
+      "school_name": "Bai Malgen Mama College Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Caregiving"
+    },
+    {
+      "school_id": "318232",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "KAPATAGAN",
+      "school_name": "Bakikis NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Caregiving (NC II)"
+    },
+    {
+      "school_id": "318310",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "SULTAN SA BARONGIS (LAMBAYONG)",
+      "school_name": "Sapakan NHS",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC II),  Automotive Servicing (NC I),  Cookery (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "305021",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU ODIN SINSUAT (DINAIG)",
+      "school_name": "Sarilikha NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Cookery (NC II)"
+    },
+    {
+      "school_id": "476503",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Datu Odin Sinsuat",
+      "school_name": "Sharif Awliya Academy",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "345750",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "MAPUN (CAGAYAN DE TAWI-TAWI)",
+      "school_name": "SHS in Mapun",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "345749",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "SOUTH UBIAN",
+      "school_name": "SHS in Tabawan, South Ubian",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304947",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "TUBURAN",
+      "school_name": "Sinangkapan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "305060",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "SITANGKAI",
+      "school_name": "Sipangkot NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "305061",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "SITANGKAI",
+      "school_name": "Sitangkai NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318205",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "BINIDAYAN",
+      "school_name": "Sittie Ayeesha NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "318108",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MASIU",
+      "school_name": "Sitty Amanie Moh. Kiram NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II), Agricultural Crops Production (NC I),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "478015",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Marawi City",
+      "school_name": "SMD Foundation Academy",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Programming, Medical Transcription, Caregiving, Housekeeping, Tailoring, Tourism Promotion Services"
+    },
+    {
+      "school_id": "305050",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "PANGLIMA SUGALA (BALIMBING) (Capital)",
+      "school_name": "Balimbing NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "304958",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "BALINDONG (WATU)",
+      "school_name": "Balindong NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "318233",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "TUGAYA",
+      "school_name": "Balindong Pacalna National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "305022",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "SOUTH UPI",
+      "school_name": "South Upi NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "476525",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Datu Piang",
+      "school_name": "Southern Philippines Academy (SPA) College",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Cookery, Dressmaking, Carpentry, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Driving"
+    },
+    {
+      "school_id": "477001",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "Jolo (Capital)",
+      "school_name": "Southwestern Mindanao Islamic Institute",
+      "programs": "STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406075",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Upi",
+      "school_name": "St. Francis High School",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305001",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PAGALUNGAN",
+      "school_name": "Balungis NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II),  Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "305051",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "SAPA-SAPA",
+      "school_name": "Banaran NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "326501",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "SULTAN MASTURA",
+      "school_name": "Sulon National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304991",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MAROGONG",
+      "school_name": "SULTAN ABDULMADID MARUHOM MEMORIAL NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "476504",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Sultan Kudarat (Nuling)",
+      "school_name": "Sultan Kudarat Islamic Academy Foundation College",
+      "programs": "HUMSS, ABM, STEM, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Contact Center Services, Bread and Pastry Production, Cookery, Housekeeping, Electrical Installation and Maintenance, Carpentry"
+    },
+    {
+      "school_id": "305024",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "SULTAN KUDARAT (NULING)",
+      "school_name": "Sultan Kudarat NHS",
+      "programs": "ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304967",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "MASIU",
+      "school_name": "Sultan Labay Moriatao Bae Technical-Vocational School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "324708",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "BALABAGAN",
+      "school_name": "Sultan Mangalampa Daing NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Caregiving (NC II),  Housekeeping (NC II)"
+    },
+    {
+      "school_id": "477006",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "Jolo (Capital)",
+      "school_name": "Sulu College of Technology, Inc.",
+      "programs": "ABM, HUMSS, GAS, STEM, TVL",
+      "tvl_specializations": "Cookery, Bread and Pastry Production, Food and Beverage Services, Dressmaking, Computer Hardware Servicing, Consumer Electronics Servicing, Shielded Metal Arc Welding (NC I), Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "305046",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "JOLO (Capital)",
+      "school_name": "Sulu High School",
+      "programs": "STEM, ABM, GAS, HUMSS, Arts and Design",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600183",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "Jolo (Capital)",
+      "school_name": "Sulu State College",
+      "programs": "ABM, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305027",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "TALAYAN",
+      "school_name": "Talayan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II),  Food (Fish) Processing (NC II),  Shielded Metal Arc Welding (NC I), Masonry (NC II)"
+    },
+    {
+      "school_id": "305047",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "TALIPAO",
+      "school_name": "Talipao National High School",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318306",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "TALITAY",
+      "school_name": "Talitay NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Driving (NC II),  Shielded Metal Arc Welding (NC I),  Technical Drafting (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "305063",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "SITANGKAI",
+      "school_name": "Tandubanak NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305064",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "TANDUBAS",
+      "school_name": "Tandubas School of Fisheries",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "305048",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "TAPUL",
+      "school_name": "Tapul National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305066",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "BONGAO",
+      "school_name": "Tawi Tawi SAT",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Housekeeping (NC II), Local Guiding Services (NC II),  Shielded Metal Arc Welding (NC I)"
+    },
+    {
+      "school_id": "305067",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "MAPUN (CAGAYAN DE TAWI-TAWI)",
+      "school_name": "Tawi Tawi West Coast Agr'l. HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "600124",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "Bongao",
+      "school_name": "Tawi-Tawi Regional Agricultural College-Main",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Horticulture, Agricultural Crops Production, Food Processing"
+    },
+    {
+      "school_id": "305065",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "BONGAO",
+      "school_name": "Tawi-Tawi School of Fisheries",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "405845",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "Bongao",
+      "school_name": "Tawi-Tawi School of Midwifery, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Caregiving"
+    },
+    {
+      "school_id": "476508",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Parang",
+      "school_name": "The Easter Joy School, Inc.",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "407069",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "City of Lamitan",
+      "school_name": "The Mariam School of Nursing, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Food and Beverage Services, Front Office Services, Housekeeping, Local Guiding Services, Bartending, Events Management Services, Animation, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "304954",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "TIPO-TIPO",
+      "school_name": "Tipo-Tipo NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "305049",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "TONGKIL",
+      "school_name": "Tongkil National High School",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304997",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "TUBARAN",
+      "school_name": "Tubaran NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "305068",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "SIMUNUL",
+      "school_name": "Tubig Indangan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "304998",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "TUGAYA",
+      "school_name": "Tugaya NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Handicraft- Basketry, Macrame, Handicraft- Fashion Accessories, Paper Craft, Handicraft- Needlecraft, Handicraft- Woodcraft, Leathercraft ,  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "305028",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU MONTAWAL (PAGAGAWAN)",
+      "school_name": "Tunggol NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Plumbing (NC I), Masonry (NC II)"
+    },
+    {
+      "school_id": "305069",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "TURTLE ISLANDS",
+      "school_name": "Turtle Island HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318001",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "CITY OF LAMITAN",
+      "school_name": "Ubit NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "305071",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "TANDUBAS",
+      "school_name": "Ungus Matata NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "324301",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "UPI",
+      "school_name": "Upi Agricultural School",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC III),  Organic Agriculture (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "405841",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Ampatuan",
+      "school_name": "VMC Asian College Foundation, Inc.-Kauran Branch",
+      "programs": "TVL",
+      "tvl_specializations": "Motorcycle/Small Engine Servicing, Automotive Servicing, Driving, Electrical Installation and Maintenance, Consumer Electronics Servicing, Cookery"
+    },
+    {
+      "school_id": "305053",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "PANGLIMA SUGALA (BALIMBING) (Capital)",
+      "school_name": "Batu-Batu NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "304982",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "BAYANG",
+      "school_name": "Bayang NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II)"
+    },
+    {
+      "school_id": "405861",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Wao",
+      "school_name": "Adiong Memorial College Foundation, Inc.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "600120",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "Ditsaan-Ramain",
+      "school_name": "Adiong Memorial Polytechnic State College",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Horticulture, Organic Agriculture, Computer Programming, Animation, Tailoring, Food and Beverage Services, Bread and Pastry Production, Housekeeping"
+    },
+    {
+      "school_id": "318505",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Tawi-Tawi",
+      "municipality": "BONGAO",
+      "school_name": "Boloboc Science and Technology High School",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318112",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "PIAGAPO",
+      "school_name": "Bubonga Marantao NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "318307",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "BULUAN",
+      "school_name": "Buluan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "318336",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "PANDAG",
+      "school_name": "Buluan NHS-Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Technical Drafting (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "476519",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "Buluan",
+      "school_name": "Buluan Technical Educational School of Life, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking, Housekeeping, Bread and Pastry Production"
+    },
+    {
+      "school_id": "304983",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "BUTIG",
+      "school_name": "Butig NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "324713",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "CALANOGAS",
+      "school_name": "Aguam-Benito National High School",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animal Production (NC II), Slaughtering Operation (NC II)"
+    },
+    {
+      "school_id": "305003",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Maguindanao",
+      "municipality": "DATU ODIN SINSUAT (DINAIG)",
+      "school_name": "Camp Siongco NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "318404",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "OMAR",
+      "school_name": "Capual National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "477002",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Sulu",
+      "municipality": "Siasi",
+      "school_name": "Central Sulu College",
+      "programs": "HUMSS, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406057",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "City of Lamitan",
+      "school_name": "Claret School of Lamitan",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance, Dressmaking, Front Office Services"
+    },
+    {
+      "school_id": "406059",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "Maluso",
+      "school_name": "Claret School of Maluso",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery, Consumer Electronics Servicing, Shielded Metal Arc Welding, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "406060",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "Sumisip",
+      "school_name": "Claret School of Tumahubong",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Dressmaking, Motorcycle/Small Engine Servicing, Computer Systems Servicing"
+    },
+    {
+      "school_id": "318215",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Lanao Del Sur",
+      "municipality": "SULTAN GUMANDER (PICONG)",
+      "school_name": "Al Hamlan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304935",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "CITY OF LAMITAN",
+      "school_name": "Colony NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Housekeeping (NC II), Bread and Pastry Production (NC II), Cookery (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304936",
+      "region": "ARMM",
+      "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+      "province": "Basilan",
+      "municipality": "LANTAWAN",
+      "school_name": "Concepcion NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Computer Hardware Servicing (NC II),  Electrical Installation and Maintenance (NC II)"
+    }
+  ],
+  "meta": {
+    "title": "Mga Senior High School - Autonomous Region in Muslim Mindanao (ARMM) - Libreng download",
+    "description": "Mga Senior High School (SHS) sa Autonomous Region in Muslim Mindanao (ARMM) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (219 paaralan.) Naglalaman ng 219 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Senior High School - Autonomous Region in Muslim Mindanao (ARMM) | ListBase",
+    "seo_description": "I-download Mga Senior High School - Autonomous Region in Muslim Mindanao (ARMM) — 219 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 219 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/nedpals/k12-shs-api"
+    ]
+  }
+}

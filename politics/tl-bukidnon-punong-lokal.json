@@ -1,0 +1,340 @@
+{
+  "id": "tl-bukidnon-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bukidnon",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bukidnon",
+  "description": "Direktoryo ng 22 lungsod at bayan sa lalawigan ng Bukidnon (Hilagang Mindanao (Region X)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Bukidnon` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Baungon",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8707",
+      "punong_bayan": "ROGELIO D. JARAULA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FELIPE W. RAGUDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Cabanglasan",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8723",
+      "punong_bayan": "LOLITA N. BULLECER",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RENANTE V. INOCANDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Damulog",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8721",
+      "punong_bayan": "MELINO L. BURO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALBERTO G. SALMASAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Dangcagan",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8719",
+      "punong_bayan": "MARK VINCENT B. DANDASAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FRUTO B. DANDASAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Don Carlos",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8712",
+      "punong_bayan": "MA. VICTORIA O. PIZARRO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JUDE D. PALMADA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Impasug-ong",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8702",
+      "punong_bayan": "ANTHONY A. UY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOHNNY A. CHAVEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Kadingilan",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8713",
+      "punong_bayan": "JERRY A. CANOY JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SEGUNDO R. TADEO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Kalilangan",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8718",
+      "punong_bayan": "RAYMON CHARL O. GAMBOA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOEL L. PADSING",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Kibawe",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8720",
+      "punong_bayan": "REYNALDO S. ANG RABANES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAYMUNDO A. BATAO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Kitaotao",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8716",
+      "punong_bayan": "EDWIN P. ABUCAYAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LORENZO A. GAWILAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Lantapan",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8722",
+      "punong_bayan": "ERNIE R. DEVIBAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RICKY JAMES D. BALANSAG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Libona",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8706",
+      "punong_bayan": "AURELIO B. LOPEZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEONARDO GENESIS T. CALINGASAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Malaybalay",
+      "uri": "Lungsod",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "",
+      "punong_bayan": "JAY WARREN R. PABILLARAN",
+      "kontak_punong_bayan": "(088) 813-4726; 813-4761 loc. 107-109",
+      "pangalawang_punong_bayan": "ESTELITO R. MARABE",
+      "kontak_pangalawang_punong_bayan": "(088) 813-5940"
+    },
+    {
+      "id": 14,
+      "lgu": "Malitbog",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8704",
+      "punong_bayan": "GARY D. CASIÑO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CATHERINE D. ARGUELLES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Manolo Fortich",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8703",
+      "punong_bayan": "ROGELIO N. QUIÑO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REYNALDO L. BAGAYAS JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Maramag",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8714",
+      "punong_bayan": "JOSE JOEL P. DOROMAL",
+      "kontak_punong_bayan": "(088) 828-1870",
+      "pangalawang_punong_bayan": "MARIBETH E. LOPEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Pangantucan",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8717",
+      "punong_bayan": "MIGUEL A. SILVA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MANOLITO G. GARCES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Quezon",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8715",
+      "punong_bayan": "PABLO M. LORENZO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSEPH T. DUROTAN SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "San Fernando",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8711",
+      "punong_bayan": "ROGELIO C. YEKE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEVI C. EDMA SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Sumilao",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8701",
+      "punong_bayan": "JOSE ANTONIO A. VILLO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GEORGE JEREMY B. BAULA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Talakag",
+      "uri": "Bayan",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "8708",
+      "punong_bayan": "VERGITO O. FACTURA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AMADO Z. NOBLE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Valencia",
+      "uri": "Lungsod",
+      "lalawigan": "Bukidnon",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "",
+      "punong_bayan": "AZUCENA P. HUERVAS",
+      "kontak_punong_bayan": "(088) 222-2180",
+      "pangalawang_punong_bayan": "TEODORO ROTEO T. PEPITO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bukidnon - Libreng download",
+    "description": "Direktoryo ng 22 lungsod at bayan sa lalawigan ng Bukidnon (Hilagang Mindanao (Region X)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Bukidnon` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 22 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bukidnon | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bukidnon — 22 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 22 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

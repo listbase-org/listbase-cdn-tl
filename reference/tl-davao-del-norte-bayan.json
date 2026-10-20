@@ -1,0 +1,120 @@
+{
+  "id": "tl-davao-del-norte-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Davao Del Norte",
+  "title": "Mga Bayan ng Lalawigan ng Davao Del Norte",
+  "description": "Listahan ng 8 munisipalidad (bayan) sa lalawigan ng Davao Del Norte, REGION XI (DAVAO REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "112301000",
+      "name": "ASUNCION (SAUG)",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 59322,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "112323000",
+      "name": "BRAULIO E. DUJALI",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 30104,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "112303000",
+      "name": "CARMEN",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 74679,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "112305000",
+      "name": "KAPALONG",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 76334,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "112314000",
+      "name": "NEW CORELLA",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 54844,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "112324000",
+      "name": "SAN ISIDRO",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 26651,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "112318000",
+      "name": "SANTO TOMAS",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 118750,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "112322000",
+      "name": "TALAINGOD",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 27482,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Davao Del Norte - Libreng download",
+    "description": "Listahan ng 8 munisipalidad (bayan) sa lalawigan ng Davao Del Norte, REGION XI (DAVAO REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 8 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Davao Del Norte | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Davao Del Norte — 8 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 8 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

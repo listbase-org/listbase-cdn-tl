@@ -1,0 +1,80 @@
+{
+  "id": "tl-san-pablo-bangko",
+  "name": "Mga Bangko sa City of San Pablo",
+  "title": "Mga Bangko sa City of San Pablo",
+  "description": "Listahan ng 3 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng San Pablo (source city string: \"CITY OF SAN PABLO\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "CBMFPHM1",
+      "name": "CARD BANK, INC. (A MICROFINANCE ORIENTED RURAL BANK)",
+      "name_titlecase": "Card BANK, INC. (a Microfinance Oriented Rural BANK)",
+      "city": "CITY OF SAN PABLO",
+      "city_titlecase": "City of San Pablo",
+      "branch": ""
+    },
+    {
+      "swift_code": "ORMQPHM1",
+      "name": "ORMON BANK RB OF MULANAY QUEZON INC.",
+      "name_titlecase": "Ormon BANK Rb of Mulanay Quezon INC.",
+      "city": "CITY OF SAN PABLO",
+      "city_titlecase": "City of San Pablo",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUBYPHM2",
+      "name": "RURAL BANK OF BAY, INC.",
+      "name_titlecase": "Rural BANK of Bay, INC.",
+      "city": "CITY OF SAN PABLO",
+      "city_titlecase": "City of San Pablo",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of San Pablo - Libreng download",
+    "description": "Listahan ng 3 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng San Pablo (source city string: \"CITY OF SAN PABLO\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of San Pablo | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of San Pablo — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

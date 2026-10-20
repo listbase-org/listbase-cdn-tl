@@ -1,0 +1,184 @@
+{
+  "id": "tl-cavite-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Cavite",
+  "title": "Mga Bayan ng Lalawigan ng Cavite",
+  "description": "Listahan ng 16 munisipalidad (bayan) sa lalawigan ng Cavite, REGION IV-A (CALABARZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "042101000",
+      "name": "ALFONSO",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 51839,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "042102000",
+      "name": "AMADEO",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 37649,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "042104000",
+      "name": "CARMONA",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 97557,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "042123000",
+      "name": "GEN. MARIANO ALVAREZ",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 155143,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "042107000",
+      "name": "GENERAL EMILIO AGUINALDO",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 22220,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "042110000",
+      "name": "INDANG",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 65599,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "042111000",
+      "name": "KAWIT",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 83466,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "042112000",
+      "name": "MAGALLANES",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 22727,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "042113000",
+      "name": "MARAGONDON",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 37720,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "042114000",
+      "name": "MENDEZ (MENDEZ-NUÑEZ)",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 31529,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "042115000",
+      "name": "NAIC",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 111454,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "042116000",
+      "name": "NOVELETA",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 45846,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "042117000",
+      "name": "ROSARIO",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 110706,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "042118000",
+      "name": "SILANG",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 248085,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "042120000",
+      "name": "TANZA",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 226188,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "042121000",
+      "name": "TERNATE",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 23157,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Cavite - Libreng download",
+    "description": "Listahan ng 16 munisipalidad (bayan) sa lalawigan ng Cavite, REGION IV-A (CALABARZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 16 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Cavite | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Cavite — 16 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 16 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

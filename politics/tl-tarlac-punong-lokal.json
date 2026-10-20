@@ -1,0 +1,292 @@
+{
+  "id": "tl-tarlac-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Tarlac",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Tarlac",
+  "description": "Direktoryo ng 18 lungsod at bayan sa lalawigan ng Tarlac (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Tarlac` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Anao",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2310",
+      "punong_bayan": "GIAN PIERRE O. DE DIOS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOCELYN C. PUNZALAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bamban",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2317",
+      "punong_bayan": "LEONARDO D. ANUNCIACION",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ERANO D. TIMBANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Camiling",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2306",
+      "punong_bayan": "ERLON C. AGUSTIN",
+      "kontak_punong_bayan": "(045) 934-0164",
+      "pangalawang_punong_bayan": "NOEL B. DELA CRUZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Capas",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2315",
+      "punong_bayan": "ROSELLER B. RODRIGUEZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALEX C. ESPINOSA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Concepcion",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2316",
+      "punong_bayan": "NOEL L. VILLANUEVA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOAN CARLA P. BAUTISTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Gerona",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2302",
+      "punong_bayan": "ELOY C. ECLAR",
+      "kontak_punong_bayan": "(045) 606-5573",
+      "pangalawang_punong_bayan": "RONALD T. GO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "La Paz",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2314",
+      "punong_bayan": "VENUSTIANO D. JORDAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LORNA R. MANALO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Mayantoc",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2304",
+      "punong_bayan": "ILUMINADO E. POBRE JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VENUS R. TOMAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Moncada",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2308",
+      "punong_bayan": "ESTELITA M. AQUINO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMON BENITO M. AQUINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Paniqui",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2307",
+      "punong_bayan": "LEONARDO M. ROXAS",
+      "kontak_punong_bayan": "(045) 931-2161 loc. 101",
+      "pangalawang_punong_bayan": "AIDA BIEN D. ROXAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Pura",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2312",
+      "punong_bayan": "JOHN PAUL M. BALMORES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BEN P. IDMILAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Ramos",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2311",
+      "punong_bayan": "CELSO L. BANAG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DIOSDADO T. REGINALDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "San Clemente",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2305",
+      "punong_bayan": "ELMA L. MACADAMIA",
+      "kontak_punong_bayan": "(045) 934-1244",
+      "pangalawang_punong_bayan": "ROSELLER M. TOLEDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "San Jose",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2318",
+      "punong_bayan": "ROMEO G. CAPITULO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RIZA E. JOAQUIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "San Manuel",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2309",
+      "punong_bayan": "DOÑA CRESENCIA R. TESORO",
+      "kontak_punong_bayan": "(045) 606-0372",
+      "pangalawang_punong_bayan": "SIR BENJAMIN R. TESORO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Santa Ignacia",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2303",
+      "punong_bayan": "NORA T. MODOMO",
+      "kontak_punong_bayan": "(045) 606-3190",
+      "pangalawang_punong_bayan": "NATHANIEL L. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Tarlac City",
+      "uri": "Lungsod",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2300",
+      "punong_bayan": "SUSAN ARENO YAP-SULIT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "KATHERINE THERESE C. ANGELES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Victoria",
+      "uri": "Bayan",
+      "lalawigan": "TARLAC PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2313",
+      "punong_bayan": "REX C. VILLA AGUSTIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "TRISTAN REEVO P. GUIAM",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Tarlac - Libreng download",
+    "description": "Direktoryo ng 18 lungsod at bayan sa lalawigan ng Tarlac (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Tarlac` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 18 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Tarlac | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Tarlac — 18 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 18 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

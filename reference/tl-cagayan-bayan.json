@@ -1,0 +1,280 @@
+{
+  "id": "tl-cagayan-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Cagayan",
+  "title": "Mga Bayan ng Lalawigan ng Cagayan",
+  "description": "Listahan ng 28 munisipalidad (bayan) sa lalawigan ng Cagayan, REGION II (CAGAYAN VALLEY), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "021501000",
+      "name": "ABULUG",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 32497,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "021502000",
+      "name": "ALCALA",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 38883,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "021503000",
+      "name": "ALLACAPAN",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 33571,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "021504000",
+      "name": "AMULUNG",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 47860,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "021505000",
+      "name": "APARRI",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 65649,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "021506000",
+      "name": "BAGGAO",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 82782,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "021507000",
+      "name": "BALLESTEROS",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 34299,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "021508000",
+      "name": "BUGUEY",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 30175,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "021509000",
+      "name": "CALAYAN",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 16702,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "021510000",
+      "name": "CAMALANIUGAN",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 24923,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "021511000",
+      "name": "CLAVERIA",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 29921,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "021512000",
+      "name": "ENRILE",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 35834,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "021513000",
+      "name": "GATTARAN",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 56661,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "021514000",
+      "name": "GONZAGA",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 38892,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "021515000",
+      "name": "IGUIG",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 27862,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "021516000",
+      "name": "LAL-LO",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 44506,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "021517000",
+      "name": "LASAM",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 39135,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "021518000",
+      "name": "PAMPLONA",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 23596,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "021519000",
+      "name": "PEÑABLANCA",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 48584,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "021520000",
+      "name": "PIAT",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 23597,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "021521000",
+      "name": "RIZAL",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 17994,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "021522000",
+      "name": "SANCHEZ-MIRA",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 24541,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "021523000",
+      "name": "SANTA ANA",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 32906,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "021524000",
+      "name": "SANTA PRAXEDES",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 4154,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "021525000",
+      "name": "SANTA TERESITA",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 19038,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "021526000",
+      "name": "SANTO NIÑO (FAIRE)",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 27219,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "021527000",
+      "name": "SOLANA",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 82502,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "021528000",
+      "name": "TUAO",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 61535,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Cagayan - Libreng download",
+    "description": "Listahan ng 28 munisipalidad (bayan) sa lalawigan ng Cagayan, REGION II (CAGAYAN VALLEY), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 28 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Cagayan | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Cagayan — 28 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 28 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

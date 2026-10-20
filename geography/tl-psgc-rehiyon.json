@@ -1,0 +1,223 @@
+{
+  "id": "tl-psgc-rehiyon",
+  "name": "Mga Rehiyon ng Pilipinas (PSGC)",
+  "title": "Mga Rehiyon ng Pilipinas (PSGC)",
+  "description": "Listahan ng 18 rehiyon ng Pilipinas mula sa Philippine Standard Geographic Code (PSGC), bersyon 2026-04-13. Kasama na ang Negros Island Region (NIR) na muling itinatag noong 2024. Bawat rekord ay may 10-digit na PSGC code, pangalan sa Ingles, at abbreviation (hal. BARMM, CAR, NCR, NIR).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "psgc_id",
+      "label": "Psgc Id",
+      "type": "number"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "roman_code",
+      "label": "Roman Code",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "slug": "region-i",
+      "psgc_id": "0100000000",
+      "name_full": "Region I (Ilocos Region)",
+      "name_en": "Ilocos Region",
+      "roman_code": "Region I",
+      "abbreviation": ""
+    },
+    {
+      "id": 2,
+      "slug": "region-ii",
+      "psgc_id": "0200000000",
+      "name_full": "Region II (Cagayan Valley)",
+      "name_en": "Cagayan Valley",
+      "roman_code": "Region II",
+      "abbreviation": ""
+    },
+    {
+      "id": 3,
+      "slug": "region-iii",
+      "psgc_id": "0300000000",
+      "name_full": "Region III (Central Luzon)",
+      "name_en": "Central Luzon",
+      "roman_code": "Region III",
+      "abbreviation": ""
+    },
+    {
+      "id": 4,
+      "slug": "region-iv-a",
+      "psgc_id": "0400000000",
+      "name_full": "Region IV-A (CALABARZON)",
+      "name_en": "CALABARZON",
+      "roman_code": "Region IV-A",
+      "abbreviation": ""
+    },
+    {
+      "id": 5,
+      "slug": "region-v",
+      "psgc_id": "0500000000",
+      "name_full": "Region V (Bicol Region)",
+      "name_en": "Bicol Region",
+      "roman_code": "Region V",
+      "abbreviation": ""
+    },
+    {
+      "id": 6,
+      "slug": "region-vi",
+      "psgc_id": "0600000000",
+      "name_full": "Region VI (Western Visayas)",
+      "name_en": "Western Visayas",
+      "roman_code": "Region VI",
+      "abbreviation": ""
+    },
+    {
+      "id": 7,
+      "slug": "region-vii",
+      "psgc_id": "0700000000",
+      "name_full": "Region VII (Central Visayas)",
+      "name_en": "Central Visayas",
+      "roman_code": "Region VII",
+      "abbreviation": ""
+    },
+    {
+      "id": 8,
+      "slug": "region-viii",
+      "psgc_id": "0800000000",
+      "name_full": "Region VIII (Eastern Visayas)",
+      "name_en": "Eastern Visayas",
+      "roman_code": "Region VIII",
+      "abbreviation": ""
+    },
+    {
+      "id": 9,
+      "slug": "region-ix",
+      "psgc_id": "0900000000",
+      "name_full": "Region IX (Zamboanga Peninsula)",
+      "name_en": "Zamboanga Peninsula",
+      "roman_code": "Region IX",
+      "abbreviation": ""
+    },
+    {
+      "id": 10,
+      "slug": "region-x",
+      "psgc_id": "1000000000",
+      "name_full": "Region X (Northern Mindanao)",
+      "name_en": "Northern Mindanao",
+      "roman_code": "Region X",
+      "abbreviation": ""
+    },
+    {
+      "id": 11,
+      "slug": "region-xi",
+      "psgc_id": "1100000000",
+      "name_full": "Region XI (Davao Region)",
+      "name_en": "Davao Region",
+      "roman_code": "Region XI",
+      "abbreviation": ""
+    },
+    {
+      "id": 12,
+      "slug": "region-xii",
+      "psgc_id": "1200000000",
+      "name_full": "Region XII (SOCCSKSARGEN)",
+      "name_en": "SOCCSKSARGEN",
+      "roman_code": "Region XII",
+      "abbreviation": ""
+    },
+    {
+      "id": 13,
+      "slug": "ncr",
+      "psgc_id": "1300000000",
+      "name_full": "National Capital Region (NCR)",
+      "name_en": "National Capital Region",
+      "roman_code": "",
+      "abbreviation": "NCR"
+    },
+    {
+      "id": 14,
+      "slug": "car",
+      "psgc_id": "1400000000",
+      "name_full": "Cordillera Administrative Region (CAR)",
+      "name_en": "Cordillera Administrative Region",
+      "roman_code": "",
+      "abbreviation": "CAR"
+    },
+    {
+      "id": 15,
+      "slug": "region-xiii",
+      "psgc_id": "1600000000",
+      "name_full": "Region XIII (Caraga)",
+      "name_en": "Caraga",
+      "roman_code": "Region XIII",
+      "abbreviation": ""
+    },
+    {
+      "id": 16,
+      "slug": "mimaropa",
+      "psgc_id": "1700000000",
+      "name_full": "MIMAROPA Region",
+      "name_en": "MIMAROPA Region",
+      "roman_code": "",
+      "abbreviation": "MIMAROPA"
+    },
+    {
+      "id": 17,
+      "slug": "nir",
+      "psgc_id": "1800000000",
+      "name_full": "Negros Island Region (NIR)",
+      "name_en": "Negros Island Region",
+      "roman_code": "",
+      "abbreviation": "NIR"
+    },
+    {
+      "id": 18,
+      "slug": "barmm",
+      "psgc_id": "1900000000",
+      "name_full": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+      "name_en": "Bangsamoro Autonomous Region In Muslim Mindanao",
+      "roman_code": "",
+      "abbreviation": "BARMM"
+    }
+  ],
+  "meta": {
+    "title": "Mga Rehiyon ng Pilipinas (PSGC) - Libreng download",
+    "description": "Listahan ng 18 rehiyon ng Pilipinas mula sa Philippine Standard Geographic Code (PSGC), bersyon 2026-04-13. Kasama na ang Negros Island Region (NIR) na muling itinatag noong 2024. Bawat rekord ay may 10-digit na PSGC code, pangalan sa Ingles, at abbreviation (hal. BARMM, CAR, NCR, NIR). Naglalaman ng 18 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Rehiyon ng Pilipinas (PSGC) | ListBase",
+    "seo_description": "I-download Mga Rehiyon ng Pilipinas (PSGC) — 18 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 18 talaan / 7 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

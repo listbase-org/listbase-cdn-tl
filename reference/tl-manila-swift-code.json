@@ -1,0 +1,1630 @@
+{
+  "id": "tl-manila-swift-code",
+  "name": "Mga SWIFT/BIC code — Manila",
+  "title": "Mga SWIFT/BIC code — Manila",
+  "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 264 institusyon na nakalista sa pinagkunan sa lungsod na \"MANILA\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 264,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "A AND A SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SEUUPHM1"
+    },
+    {
+      "bank": "A.T. DE CASTRO SECURITIES CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CASUPHM1"
+    },
+    {
+      "bank": "AAA SOUTHEAST EQUITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "AASQPHM1"
+    },
+    {
+      "bank": "AB CAPITAL AND INVESTMENT CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CAVPPHM1"
+    },
+    {
+      "bank": "ABACUS SECURITIES CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ABAEPHM1"
+    },
+    {
+      "bank": "AGJ SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "AGJSPHM1"
+    },
+    {
+      "bank": "AIG-PHILAM SAVINGS BANK, INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PHSAPHM1"
+    },
+    {
+      "bank": "ALL ASIA SECURITIES MANAGEMENT CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "AASSPHM10MM"
+    },
+    {
+      "bank": "ALPHA SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ALPCPHM1"
+    },
+    {
+      "bank": "AMETHYST SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "AMECPHM1"
+    },
+    {
+      "bank": "AMON SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "AMONPHM1"
+    },
+    {
+      "bank": "ANGPING AND ASSOCIATES",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ANGPPHM1"
+    },
+    {
+      "bank": "ANSALDO, GODINEZ AND COMPANY, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ANSGPHM1"
+    },
+    {
+      "bank": "ANSCOR-HAGEDORN SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ANSCPHM1"
+    },
+    {
+      "bank": "ARMSTRONG SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ARMEPHM1"
+    },
+    {
+      "bank": "ASI SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ASISPHM1"
+    },
+    {
+      "bank": "ASIAN DEVELOPMENT BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ASDBPHMM"
+    },
+    {
+      "bank": "ASIAN OCEANIC MERIT SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "AOMSPHM1"
+    },
+    {
+      "bank": "ASIASEC EQUITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ASESPHM1"
+    },
+    {
+      "bank": "ASIATRUST BANK",
+      "city": "MANILA",
+      "branch": "(PASONG TAMO BRANCH)",
+      "swift_code": "ATDBPHM10MM"
+    },
+    {
+      "bank": "ASIATRUST BANK",
+      "city": "MANILA",
+      "branch": "(SALCEDO BRANCH)",
+      "swift_code": "ATDBPHM10MB"
+    },
+    {
+      "bank": "ASTRA SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ASTSPHM1"
+    },
+    {
+      "bank": "ATC SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ATCSPHM1"
+    },
+    {
+      "bank": "ATR-KIM ENG SECURITIES, INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ATSCPHM1"
+    },
+    {
+      "bank": "AURORA SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "AURSPHM1"
+    },
+    {
+      "bank": "B. H. CHUA SECURITIES CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BHCHPHM1"
+    },
+    {
+      "bank": "BA SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BATTPHM1"
+    },
+    {
+      "bank": "BANCO FILIPINO SAVINGS AND MORTGAGE BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FIAOPHM1"
+    },
+    {
+      "bank": "BANGKO SENTRAL NG PILIPINAS",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PHCBPHMC"
+    },
+    {
+      "bank": "BANGKO SENTRAL NG PILIPINAS",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PHCBPHMM"
+    },
+    {
+      "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED, MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BKKBPHMM"
+    },
+    {
+      "bank": "BANK DAGANG NASIONAL INDONESIA",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DANIPHM1"
+    },
+    {
+      "bank": "BANK OF AMERICA, N.A. MANILA",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BOFAPH2X"
+    },
+    {
+      "bank": "BANK OF CHINA, MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BKCHPHMM"
+    },
+    {
+      "bank": "BANK OF THE PHILIPPINE ISLANDS",
+      "city": "MANILA",
+      "branch": "(TREASURY GROUP)",
+      "swift_code": "BOPIPHMMTRY"
+    },
+    {
+      "bank": "BANK OF THE PHILIPPINE ISLANDS",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BOPIPHMM"
+    },
+    {
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "MANILA",
+      "branch": "(MANILA BRANCH)",
+      "swift_code": "BOTKPHMM"
+    },
+    {
+      "bank": "BANK ONE SAVINGS AND TRUST CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ONSTPHM1"
+    },
+    {
+      "bank": "BARCELON ROXAS SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BROXPHM1"
+    },
+    {
+      "bank": "BDO PRIVATE BANK INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BOPBPHMM"
+    },
+    {
+      "bank": "BDO UNIBANK, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BNORPHMM"
+    },
+    {
+      "bank": "BELSON SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BELCPHM1"
+    },
+    {
+      "bank": "BENJAMIN CO CA AND CO INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BENJPHM1"
+    },
+    {
+      "bank": "BERNAD SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BEREPHM1"
+    },
+    {
+      "bank": "BFE FINANCIAL SVCS. AND CONSULTANCY, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BFSCPHM1"
+    },
+    {
+      "bank": "BNP PARIBAS PEREGRINE SECURITIES, INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BPPSPHM1"
+    },
+    {
+      "bank": "BNP PARIBAS, MANILA OFFSHORE BRANCH",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BNPAPHMM"
+    },
+    {
+      "bank": "BPI CAPITAL CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BPAPPHM1"
+    },
+    {
+      "bank": "BPI CARD FINANCE",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BPCNPHM1"
+    },
+    {
+      "bank": "BPI DIRECT",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BPDIPHM1"
+    },
+    {
+      "bank": "BPI FAMILY BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BPFFPHM1"
+    },
+    {
+      "bank": "BPI LEASING CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BPLIPHM1"
+    },
+    {
+      "bank": "BPI SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BPISPHM1"
+    },
+    {
+      "bank": "BSP-PFO AMD-PFO HOUSING PROGRAM",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BPFCPHM1"
+    },
+    {
+      "bank": "BSP-PFO CAR PLAN FUND",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BCPFPHM1"
+    },
+    {
+      "bank": "BSP-PFO HOUSING FUND",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BHFUPHM1"
+    },
+    {
+      "bank": "BSP-PFO LONGEVITY TRUST FUND",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BLTFPHM1"
+    },
+    {
+      "bank": "BSP-PFO PROVIDENT FUND",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BPRFPHM1"
+    },
+    {
+      "bank": "BT BROKERAGE (PHILS), INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BRKPPHM1"
+    },
+    {
+      "bank": "BUREAU OF THE TREASURY",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BUTRPHM1"
+    },
+    {
+      "bank": "BZW (ASIA) LTD",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BWWAPHM1"
+    },
+    {
+      "bank": "CAMPOS, LANUZA AND CO. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CALAPHM1"
+    },
+    {
+      "bank": "CAMPOS, LANUZA AND CO. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CALAPHM10M2"
+    },
+    {
+      "bank": "CATHAY SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CATSPHM1"
+    },
+    {
+      "bank": "CENTURY SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CENEPHM1"
+    },
+    {
+      "bank": "CHINA BANKING CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CHBKPHMM"
+    },
+    {
+      "bank": "CITIBANK SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CIVPPHM1"
+    },
+    {
+      "bank": "CITIBANK,N.A., MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "(IBG-TREASURY SERVICES UNIT)",
+      "swift_code": "CITIPHMXTSU"
+    },
+    {
+      "bank": "CITISECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CITSPHM1"
+    },
+    {
+      "bank": "CITYTRUST SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CITRPHM1"
+    },
+    {
+      "bank": "COMMERCIAL BANK OF MANILA",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "COBMPHM1"
+    },
+    {
+      "bank": "COMMONWEALTH BANK/SAVINGS AND LOAN",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CBSLPHM1"
+    },
+    {
+      "bank": "CONNELL SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "COSCPHM1"
+    },
+    {
+      "bank": "CORINTHIAN SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CORCPHM1"
+    },
+    {
+      "bank": "COYIUTO SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "COYIPHM1"
+    },
+    {
+      "bank": "CREDIT LYONNAIS SECURITIES PHILIPPINES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CLSAPHM1"
+    },
+    {
+      "bank": "CREDIT MANILA, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CMANPHM1"
+    },
+    {
+      "bank": "CROSBY SECURITIES (PHILS) INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CRSEPHM1"
+    },
+    {
+      "bank": "CUALOPING SECURITIES CORP",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CUASPHM1"
+    },
+    {
+      "bank": "DAO HENG BANK INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DHBIPHM1"
+    },
+    {
+      "bank": "DAVID GO SECURITIES CORP",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DAVSPHM1"
+    },
+    {
+      "bank": "DBP-DAIWA CAPITAL MARKETS PHILIPPINES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DBSHPHM1"
+    },
+    {
+      "bank": "DBP-DAIWA SECURITIES (PHILS.), INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DSPHPHM1"
+    },
+    {
+      "bank": "DBS SECURITIES (PHILS) INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DBSPPHM1"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DEUTPHMM"
+    },
+    {
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DEUTPHMMGMO"
+    },
+    {
+      "bank": "DEUTSCHE REGIS PARTNERS INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TWENPHM1"
+    },
+    {
+      "bank": "DEVELOPMENT BANK OF THE PHILIPPINES",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DBPHPHMM"
+    },
+    {
+      "bank": "DHARMALA SECURITIES (PHILS) INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DHSPPHM1"
+    },
+    {
+      "bank": "DIVERSIFIED SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "DIVSPHM1"
+    },
+    {
+      "bank": "E. CHUA CHIACO SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CHCSPHM1"
+    },
+    {
+      "bank": "EAST WEST BANKING CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "EWBCPHMM"
+    },
+    {
+      "bank": "EAST WEST CAPITAL CORP",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "EAWCPHM1"
+    },
+    {
+      "bank": "EASTERN SECURITIES DEVELOPMENT CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "EASDPHM1"
+    },
+    {
+      "bank": "EIB SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "EISEPHM1"
+    },
+    {
+      "bank": "EQUITABLE SECURITIES (PHILS.) INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "EQSPPHM1"
+    },
+    {
+      "bank": "EQUITIWORLD SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "EQUSPHM1"
+    },
+    {
+      "bank": "EVERGREEN STOCK BROKERAGE AND SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ESBEPHM1"
+    },
+    {
+      "bank": "F. YAP SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "YAPSPHM1"
+    },
+    {
+      "bank": "FAR EAST BANK AND TRUST CO, FOREIGN CURRENCY DEPOSIT UNIT (FCDU)",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FEBTPHM1"
+    },
+    {
+      "bank": "FINVEST SECURITIES CO INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FINUPHM1"
+    },
+    {
+      "bank": "FIRST INTEGRATED CAPITAL SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FICEPHM1"
+    },
+    {
+      "bank": "FIRST METRO INVESTMENT CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FMICPHM1"
+    },
+    {
+      "bank": "FIRST ORIENT SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FIOSPHM1"
+    },
+    {
+      "bank": "FIRST PENINSULA SECURITIES CORP",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FIPSPHM1"
+    },
+    {
+      "bank": "FIRST RESSOURCES MANAGEMENT AND SECURITIES CORPORATION,THE",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FIRRPHM1"
+    },
+    {
+      "bank": "FORTUNE SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FOTRPHM1"
+    },
+    {
+      "bank": "FPB ASIA LIMITED",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FPASPHM1"
+    },
+    {
+      "bank": "FRANCISCO ORTIGAS SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "FROEPHM1"
+    },
+    {
+      "bank": "G AND L SECURITIES CO., INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SERTPHM1"
+    },
+    {
+      "bank": "G.D. TAN AND CO INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TANNPHM1"
+    },
+    {
+      "bank": "G.K. GOH SECURITIES (PHILIPPINES) INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "GKGSPHM1"
+    },
+    {
+      "bank": "GENESIS GLOBAL SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "GEGSPHM1"
+    },
+    {
+      "bank": "GLOBAL BUSINESS HOLDINGS INC.",
+      "city": "MANILA",
+      "branch": "(DASMARINAS BRANCH)",
+      "swift_code": "PCBAPHM10MB"
+    },
+    {
+      "bank": "GLOBAL BUSINESS HOLDINGS INC.",
+      "city": "MANILA",
+      "branch": "(PORT AREA BRANCH)",
+      "swift_code": "PCBAPHM10MP"
+    },
+    {
+      "bank": "GLOBAL BUSINESS HOLDINGS INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PCBAPHM1"
+    },
+    {
+      "bank": "GLOBALINKS SECURITIES AND STOCKS, INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "GLSTPHM1"
+    },
+    {
+      "bank": "GOLDSTAR SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "GOLCPHM1"
+    },
+    {
+      "bank": "GUILD SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "GUISPHM1"
+    },
+    {
+      "bank": "GUOCO SECURITIES (PHILS) INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "GUSPPHM1"
+    },
+    {
+      "bank": "H.E. BENNETT SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BENCPHM1"
+    },
+    {
+      "bank": "HANG TSUN SECURITIES (PHILS)",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "HTSPPHM1"
+    },
+    {
+      "bank": "HDI SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "HDISPHM1"
+    },
+    {
+      "bank": "HIGHLAND SECURITIES PHILS. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "HISHPHM1"
+    },
+    {
+      "bank": "HK SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SEREPHM1"
+    },
+    {
+      "bank": "HOME SAVINGS BANK AND TRUST CO.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "HSBTPHM1"
+    },
+    {
+      "bank": "I. ACKERMAN AND CO INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ACKEPHM1"
+    },
+    {
+      "bank": "I.B. GIMENEZ SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "GIMSPHM1"
+    },
+    {
+      "bank": "IGC SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "IGCSPHM1"
+    },
+    {
+      "bank": "IMPERIAL DE GUZMAN, ABALOS AND CO INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "IMGAPHM1"
+    },
+    {
+      "bank": "INDOSUEZ W.I. CARR SECURITIES (PHILIPPINES) INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "WICAPHM1"
+    },
+    {
+      "bank": "INDUSTRIAL BANK OF KOREA, MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "IBKOPHMM"
+    },
+    {
+      "bank": "ING BANK N.V.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "INGBPHMM"
+    },
+    {
+      "bank": "INSULAR LIFE SAVINGS AND TRUST CO.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ILSTPHM1"
+    },
+    {
+      "bank": "INTRA-INVEST SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "INIEPHM1"
+    },
+    {
+      "bank": "INVESTORS SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "INVUPHM1"
+    },
+    {
+      "bank": "ISLA BANK (A THRIFT BANK), INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ISTHPHM1"
+    },
+    {
+      "bank": "J.M. BARCELON AND CO INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BARNPHM1"
+    },
+    {
+      "bank": "J.P. MORGAN SECURITIES PHILIPPINES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CHASPHS1"
+    },
+    {
+      "bank": "JARDINE FLEMING",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "JFLEPHM1"
+    },
+    {
+      "bank": "JENN WOEI SECURITIES, INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "JEWSPHM1"
+    },
+    {
+      "bank": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "(OFFHORE BANKING UNIT)",
+      "swift_code": "CHASPHMMOBU"
+    },
+    {
+      "bank": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
+      "swift_code": "CHASPHMMENQ"
+    },
+    {
+      "bank": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "(TEST KEY AND BKE ADMINISTRATION)",
+      "swift_code": "CHASPHMMKEY"
+    },
+    {
+      "bank": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CHASPHMM"
+    },
+    {
+      "bank": "KEPPEL BANK PHILIPPINES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "KEPHPHM1"
+    },
+    {
+      "bank": "KEPPEL SECURITIES PHILIPPINES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "KESPPHM1"
+    },
+    {
+      "bank": "KERRY SECURITIES (PHILS), INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "KERSPHM1"
+    },
+    {
+      "bank": "KEY SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "KEYSPHM1"
+    },
+    {
+      "bank": "KIM ENG SECURITIES PHILIPPINES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "KMESPHM1"
+    },
+    {
+      "bank": "L.M. GARCIA AND ASSOCIATES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "GARSPHM1"
+    },
+    {
+      "bank": "LAND BANK OF THE PHILIPPINES",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TLBPPHMM"
+    },
+    {
+      "bank": "LARRGO SECURITIES CO INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "LARCPHM1"
+    },
+    {
+      "bank": "LITONJUA SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "LITSPHM1"
+    },
+    {
+      "bank": "LOPEZ, LOCSIN, LEDESMA AND CO INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "LOLLPHM1"
+    },
+    {
+      "bank": "LUCKY SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "LUCSPHM1"
+    },
+    {
+      "bank": "LUY'S SECURITIES CO INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "LUYSPHM1"
+    },
+    {
+      "bank": "LUZON DEVELOPMENT BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "LUDVPHM1"
+    },
+    {
+      "bank": "M.D. BONDOC AND CO INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "BONOPHM1"
+    },
+    {
+      "bank": "MACQUARIE CAPITAL SECURITIES (PHILIPPINES) INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "INBLPHM1"
+    },
+    {
+      "bank": "MALAYAN BANK SAVINGS AND MORTGAGE BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MAARPHM1"
+    },
+    {
+      "bank": "MANDARIN SECURITIES CORP",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MANUPHM1"
+    },
+    {
+      "bank": "MANILA BANKING CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MABCPHM1"
+    },
+    {
+      "bank": "MARIAN SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MAIEPHM1"
+    },
+    {
+      "bank": "MARK SECURITIES CORP",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MAKCPHM1"
+    },
+    {
+      "bank": "MARKET CAPITAL AND SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MACCPHM1"
+    },
+    {
+      "bank": "MAYBANK PHILIPPINES, INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MBBEPHMM"
+    },
+    {
+      "bank": "MDR SECURITIES, INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MDRSPHM1"
+    },
+    {
+      "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ICBCPHMM"
+    },
+    {
+      "bank": "MERCANTILE SECURITIES CORP",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MERUPHM1"
+    },
+    {
+      "bank": "MERIDIAN SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MERTPHM1"
+    },
+    {
+      "bank": "MERRILL LYNCH SECURITIES PHILIPPINES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MLSPPHM1"
+    },
+    {
+      "bank": "METROPOLITAN BANK AND TRUST CO.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MBTCPHMM"
+    },
+    {
+      "bank": "MORGAN GRENFELL PHILS SEC. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MGPSPHM1"
+    },
+    {
+      "bank": "MOUNT PEAK SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MOPSPHM1"
+    },
+    {
+      "bank": "MULTINATIONAL INVESTMENT BANCORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "MUIAPHM1"
+    },
+    {
+      "bank": "NESTLE BUSINESS SERVICES AOA INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "NESNPHMN"
+    },
+    {
+      "bank": "NEW WORLD SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "NEWCPHM1"
+    },
+    {
+      "bank": "NIEVES SANCHEZ INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "NIESPHM1"
+    },
+    {
+      "bank": "OCBC SECURITIES (PHILIPPINES) INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "OSPNPHM1"
+    },
+    {
+      "bank": "OPTIMUM SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "OPTMPHM1"
+    },
+    {
+      "bank": "ORIENTRADE SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ORIEPHM1"
+    },
+    {
+      "bank": "OVERSEAS UNION BANK LIMITED, MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "OUBKPHM1"
+    },
+    {
+      "bank": "PACIFIC BASIN SEC. CO. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PACAPHM1"
+    },
+    {
+      "bank": "PAN ASIA SECURITIES CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PANIPHM1"
+    },
+    {
+      "bank": "PAPA SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PAPSPHM1"
+    },
+    {
+      "bank": "PDCP DEVELOPMENT BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PRBPPHM1"
+    },
+    {
+      "bank": "PEREGRINE SECURITIES PHILS INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PESPPHM1"
+    },
+    {
+      "bank": "PHILIPPINE BANK OF COMMUNICATIONS",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CPHIPHMM"
+    },
+    {
+      "bank": "PHILIPPINE CLEARING HOUSE CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PCHCPHM1"
+    },
+    {
+      "bank": "PHILIPPINE DEPOSITORY TRUST CORP",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PHCDPHM1"
+    },
+    {
+      "bank": "PHILIPPINE EQUITY PARTNERS INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PEQPPHM1"
+    },
+    {
+      "bank": "PHILIPPINE NATIONAL BANK",
+      "city": "MANILA",
+      "branch": "(TREASURY OPERATIONS DIVISION)",
+      "swift_code": "PNBMPHMMTOD"
+    },
+    {
+      "bank": "PHILIPPINE NATIONAL BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PNBMPHMM"
+    },
+    {
+      "bank": "PHILIPPINE POSTAL CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PPOSPHM1"
+    },
+    {
+      "bank": "PHILIPPINE POSTAL SAVINGS BANK, INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PHSVPHM1"
+    },
+    {
+      "bank": "PHILIPPINE SAVINGS BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PHSBPHMM"
+    },
+    {
+      "bank": "PHILIPPINE VETERANS BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PHVBPHMM"
+    },
+    {
+      "bank": "PHILIPPINES ASIA EQUITY SEC. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PAESPHM1"
+    },
+    {
+      "bank": "PHILTRUST BANK (PHILIPPINE TRUST COMPANY)",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PHTBPHMM"
+    },
+    {
+      "bank": "PIERCE INTERLINK SEC. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PIEIPHM1"
+    },
+    {
+      "bank": "PLANTERS DEVELOPMENT BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PLDEPHM1"
+    },
+    {
+      "bank": "PLATINUM SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PLAIPHM1"
+    },
+    {
+      "bank": "PNB REPUBLIC BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "RPBAPHM1"
+    },
+    {
+      "bank": "PNB SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PNBBPHM1"
+    },
+    {
+      "bank": "PREMIERE DEVELOPMENT BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PRDEPHM1"
+    },
+    {
+      "bank": "PREMIUM SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PREMPHM1"
+    },
+    {
+      "bank": "PROBITY SECURITIES MANAGEMENT CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "PROTPHM1"
+    },
+    {
+      "bank": "QUALITY INVESTMENT AND SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "QUISPHM1"
+    },
+    {
+      "bank": "R AND L INVESTMENTS, INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "RLINPHM1"
+    },
+    {
+      "bank": "R. NUBLA SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "NUBLPHM1"
+    },
+    {
+      "bank": "R.S. LIM AND CO. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "LIMSPHM1"
+    },
+    {
+      "bank": "RASHIND HUSSAIN SECURITIES (PHILIPPINES) INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "RAHSPHM1"
+    },
+    {
+      "bank": "RBS ASIA SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "HGASPHM1"
+    },
+    {
+      "bank": "RCBC CAPITAL CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "RCCOPHM1"
+    },
+    {
+      "bank": "REGINA CAPITAL DEVELOPMENT CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "REGIPHM1"
+    },
+    {
+      "bank": "RFM CAPITAL LIMITED",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "RFCAPHM1"
+    },
+    {
+      "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "city": "MANILA",
+      "branch": "(FOREIGN CURRENCY DEPOSIT UNIT - FCDU)",
+      "swift_code": "RCBCPH21"
+    },
+    {
+      "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "RCBCPHMM"
+    },
+    {
+      "bank": "RTG AND CO. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "RTGCPHM1"
+    },
+    {
+      "bank": "S.J. ROXAS AND COMPANY, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SJROPHM1"
+    },
+    {
+      "bank": "SAPPHIRE SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SAPPPHM1"
+    },
+    {
+      "bank": "SB EQUITIES INCORPORATED",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "EQICPHM1"
+    },
+    {
+      "bank": "SECURITIES SPECIALISTS INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SECLPHM1"
+    },
+    {
+      "bank": "SECURITY BANK CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SETCPHMM"
+    },
+    {
+      "bank": "SG SECURITIES (PHILIPPINES),INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SGSEPHM1"
+    },
+    {
+      "bank": "SOLAR SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SOLRPHM1"
+    },
+    {
+      "bank": "SQUIRE SECURITIES, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SUIRPHM1"
+    },
+    {
+      "bank": "SSI - SYSTEMS STANDARDS INCORPORATED",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SSSTPHM1"
+    },
+    {
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "MANILA",
+      "branch": "(CUSTODIAL DEPARTMENT)",
+      "swift_code": "SCBLPHMMEQI"
+    },
+    {
+      "bank": "STANDARD SECURITIES CORPORATION",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "STACPHM1"
+    },
+    {
+      "bank": "SUMMA INTERNATIONAL BANK LTD.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "ILBSPHM1"
+    },
+    {
+      "bank": "SUMMIT SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SUMMPHM1"
+    },
+    {
+      "bank": "SUPREME STOCKBROKER INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SUPMPHM1"
+    },
+    {
+      "bank": "TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TACBPHMM"
+    },
+    {
+      "bank": "TANSENGCO AND COMPANY INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TANGPHM1"
+    },
+    {
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "city": "MANILA",
+      "branch": "(CUSTODY AND CLEARING)",
+      "swift_code": "HSBCPHMMSEC"
+    },
+    {
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "city": "MANILA",
+      "branch": "(MNL TREASURY DEPARTMENT)",
+      "swift_code": "HSBCPHMMTRY"
+    },
+    {
+      "bank": "TOWER SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TOWRPHM1"
+    },
+    {
+      "bank": "TRADERS ROYAL BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TRBFPHM1"
+    },
+    {
+      "bank": "TRANS-ASIA SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TRAAPHM1"
+    },
+    {
+      "bank": "TRANSNATIONAL SECURITIES, INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TRAOPHM1"
+    },
+    {
+      "bank": "TRENDLINE SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TRENPHM1"
+    },
+    {
+      "bank": "TRI-STATE SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TRITPHM1"
+    },
+    {
+      "bank": "UBP SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "UBPPPHM1"
+    },
+    {
+      "bank": "UBS SECURITIES PHILIPPINES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "SWDEPHM1"
+    },
+    {
+      "bank": "UCPB SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "CPBBPHM1"
+    },
+    {
+      "bank": "UNICAPITAL SECURITIES,INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "UCSEPHM1"
+    },
+    {
+      "bank": "UNITED COCONUT PLANTERS BANK",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "UCPBPHMM"
+    },
+    {
+      "bank": "UNITED OVERSEAS BANK LIMITED - MANILA BRANCH",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "UOVBPHMM"
+    },
+    {
+      "bank": "UOB-KAY HIAN SECURITIES (PHILIPPINES), INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "UKHCPHM1"
+    },
+    {
+      "bank": "UY-TIOCO AND CO. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TIOCPHM1"
+    },
+    {
+      "bank": "VENTURE SECURITIES INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "VENTPHM1"
+    },
+    {
+      "bank": "VICENTE GOQUIOLAY AND CO., INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "VICGPHM1"
+    },
+    {
+      "bank": "VICSAL SECURITIES AND STOCKBROKERAGE INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "VICAPHM1"
+    },
+    {
+      "bank": "WEALTH SECURITIES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "WEASPHM1"
+    },
+    {
+      "bank": "WESTIN SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "WESNPHM1"
+    },
+    {
+      "bank": "WOLFF AND CO. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "WOLFPHM1"
+    },
+    {
+      "bank": "WONG SECURITIES CORP.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "WONGPHM1"
+    },
+    {
+      "bank": "WORLDSEC INTERNATIONAL SECURITIES PHILIPPINES INC",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "WISPPHM1"
+    },
+    {
+      "bank": "YAO AND ZIALCITA INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "YAOZPHM1"
+    },
+    {
+      "bank": "YAPTINCHAY SEC. INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "YAPTPHM1"
+    },
+    {
+      "bank": "YU AND COMPANY, INC.",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "YUOYPHM1"
+    },
+    {
+      "bank": "YUANTA SAVINGS BANK (FORMERLY TONGYANG SAVINGS BANK)",
+      "city": "MANILA",
+      "branch": "",
+      "swift_code": "TYBKPHMM"
+    }
+  ],
+  "meta": {
+    "title": "Mga SWIFT/BIC code — Manila - Libreng download",
+    "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 264 institusyon na nakalista sa pinagkunan sa lungsod na \"MANILA\". Naglalaman ng 264 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga SWIFT/BIC code — Manila | ListBase",
+    "seo_description": "I-download Mga SWIFT/BIC code — Manila — 264 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 264 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

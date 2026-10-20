@@ -1,0 +1,220 @@
+{
+  "id": "tl-bataan-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bataan",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bataan",
+  "description": "Direktoryo ng 12 lungsod at bayan sa lalawigan ng Bataan (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Bataan` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Abucay",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2114",
+      "punong_bayan": "ERIK MARTEL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROBERTO T. PABUSTAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bagac",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2107",
+      "punong_bayan": "ROMMEL V. DEL ROSARIO",
+      "kontak_punong_bayan": "(047) 612-0424",
+      "pangalawang_punong_bayan": "RON MICHAEL ALEXIS R. DEL ROSARIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Balanga",
+      "uri": "Lungsod",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2100",
+      "punong_bayan": "RAQUEL FRANCIS D. GARCIA",
+      "kontak_punong_bayan": "(047) 237-2256",
+      "pangalawang_punong_bayan": "FRANCIS ANTHONY S. GARCIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Dinalupihan",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2110",
+      "punong_bayan": "GERMAN M. SANTOS JR.",
+      "kontak_punong_bayan": "(047) 636-1202; 612-2099",
+      "pangalawang_punong_bayan": "FERNANDO P. MANALILI",
+      "kontak_pangalawang_punong_bayan": "(047) 240-9040 loc. 303"
+    },
+    {
+      "id": 5,
+      "lgu": "Hermosa",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2111",
+      "punong_bayan": "ANTONIO JOSEPH R. INTON",
+      "kontak_punong_bayan": "(047) 633-1531",
+      "pangalawang_punong_bayan": "PATRICK S. RELLOSA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Limay",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2103",
+      "punong_bayan": "RICHIE JASON D. DAVID",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SARAH V. DAVID",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Mariveles",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2105",
+      "punong_bayan": "ACE JELLO C. CONCEPCION",
+      "kontak_punong_bayan": "(047) 935-1757 loc. 105",
+      "pangalawang_punong_bayan": "ANGELITO S. RUBIA",
+      "kontak_pangalawang_punong_bayan": "935-1757 loc. 104"
+    },
+    {
+      "id": 8,
+      "lgu": "Morong",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2108",
+      "punong_bayan": "CYNTHIA G. LINAO-ESTANISLAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEILA G. LINAO-MUÑOZ",
+      "kontak_pangalawang_punong_bayan": "8477-6691"
+    },
+    {
+      "id": 9,
+      "lgu": "Orani",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2112",
+      "punong_bayan": "EFREN DOMINIC E. PASCUAL JR.",
+      "kontak_punong_bayan": "(047) 431-7950; 638-1330",
+      "pangalawang_punong_bayan": "EMMANUEL R. ROMAN",
+      "kontak_pangalawang_punong_bayan": "(047) 300-2008"
+    },
+    {
+      "id": 10,
+      "lgu": "Orion",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2102",
+      "punong_bayan": "ANTONIO L. RAYMUNDO JR.",
+      "kontak_punong_bayan": "(047) 244-8141; 244-9814",
+      "pangalawang_punong_bayan": "REX JOSEPH R. FUSTER",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Pilar",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2101",
+      "punong_bayan": "CARLOS F. PIZARRO JR.",
+      "kontak_punong_bayan": "(047) 237-4564; 237-2768",
+      "pangalawang_punong_bayan": "CECILIA R. CARCIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Samal",
+      "uri": "Bayan",
+      "lalawigan": "BATAAN PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2113",
+      "punong_bayan": "ALEXANDER C. ACUZAR",
+      "kontak_punong_bayan": "(047) 451-1348",
+      "pangalawang_punong_bayan": "RONALD M. ORTIGUERRA",
+      "kontak_pangalawang_punong_bayan": "(047) 300-8176"
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bataan - Libreng download",
+    "description": "Direktoryo ng 12 lungsod at bayan sa lalawigan ng Bataan (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Bataan` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 12 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bataan | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Bataan — 12 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 12 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

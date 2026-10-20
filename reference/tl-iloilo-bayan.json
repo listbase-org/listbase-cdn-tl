@@ -1,0 +1,392 @@
+{
+  "id": "tl-iloilo-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Iloilo",
+  "title": "Mga Bayan ng Lalawigan ng Iloilo",
+  "description": "Listahan ng 42 munisipalidad (bayan) sa lalawigan ng Iloilo, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "063001000",
+      "name": "AJUY",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 52268,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063002000",
+      "name": "ALIMODIAN",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 38408,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "063003000",
+      "name": "ANILAO",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 28684,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063004000",
+      "name": "BADIANGAN",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 27005,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063005000",
+      "name": "BALASAN",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 33088,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063006000",
+      "name": "BANATE",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 32532,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063007000",
+      "name": "BAROTAC NUEVO",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 54146,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063008000",
+      "name": "BAROTAC VIEJO",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 45808,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "063009000",
+      "name": "BATAD",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 21298,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "063010000",
+      "name": "BINGAWAN",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 15199,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "063012000",
+      "name": "CABATUAN",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 58442,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063013000",
+      "name": "CALINOG",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 60413,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "063014000",
+      "name": "CARLES",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 68160,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063015000",
+      "name": "CONCEPCION",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 43159,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "063016000",
+      "name": "DINGLE",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 45335,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "063017000",
+      "name": "DUEÑAS",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 34242,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063018000",
+      "name": "DUMANGAS",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 69108,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "063019000",
+      "name": "ESTANCIA",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 48546,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063020000",
+      "name": "GUIMBAL",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 33820,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063021000",
+      "name": "IGBARAS",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 32004,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "063023000",
+      "name": "JANIUAY",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 63905,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "063025000",
+      "name": "LAMBUNAO",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 73640,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "063026000",
+      "name": "LEGANES",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 32480,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063027000",
+      "name": "LEMERY",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 30851,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063028000",
+      "name": "LEON",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 49875,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063029000",
+      "name": "MAASIN",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 36922,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "063030000",
+      "name": "MIAGAO",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 67565,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "063031000",
+      "name": "MINA",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 23546,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "063032000",
+      "name": "NEW LUCENA",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 23240,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063034000",
+      "name": "OTON",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 89115,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "063036000",
+      "name": "PAVIA",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 55603,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063037000",
+      "name": "POTOTAN",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 75070,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "063038000",
+      "name": "SAN DIONISIO",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 38775,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063039000",
+      "name": "SAN ENRIQUE",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 33911,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "063040000",
+      "name": "SAN JOAQUIN",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 51892,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063041000",
+      "name": "SAN MIGUEL",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 27686,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063042000",
+      "name": "SAN RAFAEL",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 16532,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "063043000",
+      "name": "SANTA BARBARA",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 60215,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063044000",
+      "name": "SARA",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 52631,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063045000",
+      "name": "TIGBAUAN",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 62706,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "063046000",
+      "name": "TUBUNGAN",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 22449,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "063047000",
+      "name": "ZARRAGA",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 25605,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Iloilo - Libreng download",
+    "description": "Listahan ng 42 munisipalidad (bayan) sa lalawigan ng Iloilo, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 42 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Iloilo | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Iloilo — 42 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 42 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

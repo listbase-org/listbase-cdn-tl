@@ -1,0 +1,76 @@
+{
+  "id": "tl-taguig-swift-code",
+  "name": "Mga SWIFT/BIC code — Taguig",
+  "title": "Mga SWIFT/BIC code — Taguig",
+  "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 5 institusyon na nakalista sa pinagkunan sa lungsod na \"TAGUIG\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "GLOBE TELECOM, INC.",
+      "city": "TAGUIG",
+      "branch": "",
+      "swift_code": "GLTEPHMT"
+    },
+    {
+      "bank": "SAMSUNG ELECTRONICS PHILIPPINES CORP.",
+      "city": "TAGUIG",
+      "branch": "(SEPCO)",
+      "swift_code": "SECTPHM15B0"
+    },
+    {
+      "bank": "SAMSUNG ELECTRONICS PHILIPPINES CORP.",
+      "city": "TAGUIG",
+      "branch": "",
+      "swift_code": "SECTPHM1"
+    },
+    {
+      "bank": "THE PHILIPPINE AMERICAN LIFE AND GENERAL INSURANCECOMPANY",
+      "city": "TAGUIG",
+      "branch": "(GENERAL INVESTMENT OPERATIONS)",
+      "swift_code": "AIACPHM1GIO"
+    },
+    {
+      "bank": "THE PHILIPPINE AMERICAN LIFE AND GENERAL INSURANCECOMPANY",
+      "city": "TAGUIG",
+      "branch": "",
+      "swift_code": "AIACPHMM"
+    }
+  ],
+  "meta": {
+    "title": "Mga SWIFT/BIC code — Taguig - Libreng download",
+    "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 5 institusyon na nakalista sa pinagkunan sa lungsod na \"TAGUIG\". Naglalaman ng 5 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga SWIFT/BIC code — Taguig | ListBase",
+    "seo_description": "I-download Mga SWIFT/BIC code — Taguig — 5 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 5 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

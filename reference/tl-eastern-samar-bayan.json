@@ -1,0 +1,232 @@
+{
+  "id": "tl-eastern-samar-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Eastern Samar",
+  "title": "Mga Bayan ng Lalawigan ng Eastern Samar",
+  "description": "Listahan ng 22 munisipalidad (bayan) sa lalawigan ng Eastern Samar, REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "082601000",
+      "name": "ARTECHE",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 16026,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "082602000",
+      "name": "BALANGIGA",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 14085,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "082603000",
+      "name": "BALANGKAYAN",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 10125,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "082605000",
+      "name": "CAN-AVID",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 21015,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "082606000",
+      "name": "DOLORES",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 42866,
+      "income_classification": "3rd*"
+    },
+    {
+      "psgc_code": "082607000",
+      "name": "GENERAL MACARTHUR",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 14550,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "082608000",
+      "name": "GIPORLOS",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 13308,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "082609000",
+      "name": "GUIUAN",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 52991,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "082610000",
+      "name": "HERNANI",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 8573,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "082611000",
+      "name": "JIPAPAD",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 7885,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "082612000",
+      "name": "LAWAAN",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 12742,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "082613000",
+      "name": "LLORENTE",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 20149,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "082614000",
+      "name": "MASLOG",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 5407,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "082615000",
+      "name": "MAYDOLONG",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 14743,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "082616000",
+      "name": "MERCEDES",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 6070,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "082617000",
+      "name": "ORAS",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 36540,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "082618000",
+      "name": "QUINAPONDAN",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 14779,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "082619000",
+      "name": "SALCEDO",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 22532,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "082620000",
+      "name": "SAN JULIAN",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 14498,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "082621000",
+      "name": "SAN POLICARPO",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 14687,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "082622000",
+      "name": "SULAT",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 15377,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "082623000",
+      "name": "TAFT",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 18915,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Eastern Samar - Libreng download",
+    "description": "Listahan ng 22 munisipalidad (bayan) sa lalawigan ng Eastern Samar, REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 22 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Eastern Samar | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Eastern Samar — 22 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 22 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

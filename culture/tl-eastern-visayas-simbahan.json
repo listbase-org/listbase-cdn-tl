@@ -1,0 +1,394 @@
+{
+  "id": "tl-eastern-visayas-simbahan",
+  "name": "Mga Simbahan - Eastern Visayas",
+  "title": "Mga Simbahan - Eastern Visayas",
+  "description": "Mga simbahan sa rehiyong Eastern Visayas, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Eastern Visayas, Philippines.)",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "denominasyon",
+      "label": "Denominasyon",
+      "type": "string"
+    },
+    {
+      "key": "taon_itinatag",
+      "label": "Taon Itinatag",
+      "type": "number"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "bayan",
+      "label": "Bayan",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q24702378",
+      "name_tl": "Katedral ng Palo",
+      "name_en": "Palo Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "",
+      "bayan": "Palo",
+      "latitude": 11.159444,
+      "longitude": 124.991556,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Katedral_ng_Palo"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q52153519",
+      "name_tl": "Simbahan ng Hilongos",
+      "name_en": "Hilongos Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "",
+      "bayan": "Hilongos",
+      "latitude": 10.3734,
+      "longitude": 124.74767,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q28919775",
+      "name_tl": "Simbahan ng Tanauan",
+      "name_en": "Tanauan Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "",
+      "bayan": "Tanauan",
+      "latitude": 11.112727,
+      "longitude": 125.017395,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q26037343",
+      "name_tl": "Katedral ng Naval",
+      "name_en": "Naval Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Biliran",
+      "bayan": "Naval",
+      "latitude": 11.56142,
+      "longitude": 124.395238,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q130654972",
+      "name_tl": "Diocesan Shrine of Saint Anthony of Padua",
+      "name_en": "Diocesan Shrine of Saint Anthony of Padua",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Eastern Samar",
+      "bayan": "Guiuan",
+      "latitude": 10.935022,
+      "longitude": 125.827011,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q52333927",
+      "name_tl": "Katedral ng Borongan",
+      "name_en": "Borongan Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Eastern Samar",
+      "bayan": "Borongan",
+      "latitude": 11.6072,
+      "longitude": 125.4326,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q130653395",
+      "name_tl": "Saint Lawrence the Martyr Parish Church",
+      "name_en": "Saint Lawrence the Martyr Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Eastern Samar",
+      "bayan": "Balangiga",
+      "latitude": 11.109514,
+      "longitude": 125.385396,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q28944770",
+      "name_tl": "Simbahan ng Balangiga",
+      "name_en": "Balangiga Church",
+      "denominasyon": "Catholicism",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Eastern Samar",
+      "bayan": "Balangiga",
+      "latitude": 11.10948,
+      "longitude": 125.38542,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q18750261",
+      "name_tl": "Simbahan ng Guiuan",
+      "name_en": "Guiuan Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1718,
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Eastern Samar",
+      "bayan": "Guiuan",
+      "latitude": 11.0313,
+      "longitude": 125.7229,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q105672745",
+      "name_tl": "Katedral ng Catarman",
+      "name_en": "Our Lady of the Annunciation Cathedral Parish",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Northern Samar",
+      "bayan": "Catarman",
+      "latitude": 12.498694,
+      "longitude": 124.6365,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q123955376",
+      "name_tl": "Saint Michael the Archangel Parish Church",
+      "name_en": "Saint Michael the Archangel Parish Church",
+      "denominasyon": "Catholicism",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Northern Samar",
+      "bayan": "Laoang",
+      "latitude": 12.569186,
+      "longitude": 125.01119,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q22090331",
+      "name_tl": "Simbahan ng Capul",
+      "name_en": "Capul Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1781,
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Northern Samar",
+      "bayan": "Capul",
+      "latitude": 12.422773,
+      "longitude": 124.182362,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q127258007",
+      "name_tl": "Simbahan ng Catubig",
+      "name_en": "Saint Joseph the Worker Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Northern Samar",
+      "bayan": "Catubig",
+      "latitude": 12.407778,
+      "longitude": 125.054167,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q29018393",
+      "name_tl": "Simbahan ng Palapag",
+      "name_en": "Our Lady of the Assumption Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Northern Samar",
+      "bayan": "Palapag",
+      "latitude": 12.54515,
+      "longitude": 125.1157,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q125635718",
+      "name_tl": "Simbahan ng San Vicente",
+      "name_en": "San Vicente Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Northern Samar",
+      "bayan": "San Vicente",
+      "latitude": 17.59465,
+      "longitude": 120.37424,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q61718839",
+      "name_tl": "Katedral ng Calbayog",
+      "name_en": "Calbayog Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Samar",
+      "bayan": "Calbayog",
+      "latitude": 12.0666,
+      "longitude": 124.5953,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q131353809",
+      "name_tl": "Saint Bartholomew Parish Church",
+      "name_en": "Saint Bartholomew Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Samar",
+      "bayan": "Catbalogan",
+      "latitude": 11.777547,
+      "longitude": 124.8809,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q131353776",
+      "name_tl": "Saint Michael the Archangel Parish Church",
+      "name_en": "Saint Michael the Archangel Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Samar",
+      "bayan": "Basey",
+      "latitude": 11.280992,
+      "longitude": 125.069974,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q120668780",
+      "name_tl": "Saints Peter and Paul Church",
+      "name_en": "Saints Peter and Paul Church",
+      "denominasyon": "Catholicism",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Samar",
+      "bayan": "Paranas",
+      "latitude": 11.766934,
+      "longitude": 125.022337,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q29018466",
+      "name_tl": "Simbahan ng Basey",
+      "name_en": "Basey Church",
+      "denominasyon": "Catholicism",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Samar",
+      "bayan": "Basey",
+      "latitude": 11.28099,
+      "longitude": 125.06999,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q18351204",
+      "name_tl": "Katedral ng Maasin",
+      "name_en": "Maasin Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1968,
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Southern Leyte",
+      "bayan": "Maasin",
+      "latitude": 10.13255,
+      "longitude": 124.83787,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q123860543",
+      "name_tl": "Santo Niño Parish Church",
+      "name_en": "Santo Niño Parish Church",
+      "denominasyon": "Catholicism",
+      "taon_itinatag": "",
+      "rehiyon": "Eastern Visayas",
+      "lalawigan": "Southern Leyte",
+      "bayan": "Malitbog",
+      "latitude": 10.157895,
+      "longitude": 125.000794,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Simbahan - Eastern Visayas - Libreng download",
+    "description": "Mga simbahan sa rehiyong Eastern Visayas, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Eastern Visayas, Philippines.) Naglalaman ng 22 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Simbahan - Eastern Visayas | ListBase",
+    "seo_description": "I-download Mga Simbahan - Eastern Visayas — 22 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 22 talaan / 12 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

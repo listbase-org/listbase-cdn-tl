@@ -1,0 +1,144 @@
+{
+  "id": "tl-catanduanes-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Catanduanes",
+  "title": "Mga Bayan ng Lalawigan ng Catanduanes",
+  "description": "Listahan ng 11 munisipalidad (bayan) sa lalawigan ng Catanduanes, REGION V (BICOL REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "052001000",
+      "name": "BAGAMANOC",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 11551,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "052002000",
+      "name": "BARAS",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 12848,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "052003000",
+      "name": "BATO",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 21279,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "052004000",
+      "name": "CARAMORAN",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 30056,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "052005000",
+      "name": "GIGMOTO",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 8368,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "052006000",
+      "name": "PANDAN",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 20516,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "052007000",
+      "name": "PANGANIBAN (PAYO)",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 9287,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "052008000",
+      "name": "SAN ANDRES (CALOLBON)",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 36779,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "052009000",
+      "name": "SAN MIGUEL",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 15006,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "052010000",
+      "name": "VIGA",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 21624,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "052011000",
+      "name": "VIRAC (Capital)",
+      "province": "CATANDUANES",
+      "region": "REGION V (BICOL REGION)",
+      "population": 73650,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Catanduanes - Libreng download",
+    "description": "Listahan ng 11 munisipalidad (bayan) sa lalawigan ng Catanduanes, REGION V (BICOL REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 11 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Catanduanes | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Catanduanes — 11 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 11 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

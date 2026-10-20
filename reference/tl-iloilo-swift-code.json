@@ -1,0 +1,70 @@
+{
+  "id": "tl-iloilo-swift-code",
+  "name": "Mga SWIFT/BIC code — Iloilo",
+  "title": "Mga SWIFT/BIC code — Iloilo",
+  "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 4 institusyon na nakalista sa pinagkunan sa lungsod na \"ILOILO\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "FIRST MIDLAND RURAL BANK, INC.",
+      "city": "ILOILO",
+      "branch": "",
+      "swift_code": "FRMRPHM1"
+    },
+    {
+      "bank": "LAND BANK OF THE PHILIPPINES",
+      "city": "ILOILO",
+      "branch": "",
+      "swift_code": "TLBPPHM10M3"
+    },
+    {
+      "bank": "QUEEN CITY DEVELOPMENT BANK",
+      "city": "ILOILO",
+      "branch": "",
+      "swift_code": "QCDFPHM1"
+    },
+    {
+      "bank": "VALIANT BANK, INC. ( A RURAL BANK)",
+      "city": "ILOILO",
+      "branch": "",
+      "swift_code": "VARUPHM1"
+    }
+  ],
+  "meta": {
+    "title": "Mga SWIFT/BIC code — Iloilo - Libreng download",
+    "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 4 institusyon na nakalista sa pinagkunan sa lungsod na \"ILOILO\". Naglalaman ng 4 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga SWIFT/BIC code — Iloilo | ListBase",
+    "seo_description": "I-download Mga SWIFT/BIC code — Iloilo — 4 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 4 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

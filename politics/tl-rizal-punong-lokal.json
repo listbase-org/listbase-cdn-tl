@@ -1,0 +1,232 @@
+{
+  "id": "tl-rizal-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Rizal",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Rizal",
+  "description": "Direktoryo ng 13 lungsod at bayan sa lalawigan ng Rizal (Calabarzon (Region IV-A)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Rizal` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Angono",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1930",
+      "punong_bayan": "JERI MAE E. CALDERON",
+      "kontak_punong_bayan": "8651-0062",
+      "pangalawang_punong_bayan": "GERARDO V. CALDERON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Baras",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1970",
+      "punong_bayan": "WILFREDO C. ROBLES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "KATHRINE B. ROBLES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Binangonan",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1940",
+      "punong_bayan": "CESAR M. YNARES",
+      "kontak_punong_bayan": "8713-7371",
+      "pangalawang_punong_bayan": "CECILIO M. YNARES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Cainta",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1900",
+      "punong_bayan": "MARIA ELENITA D. NIETO",
+      "kontak_punong_bayan": "8696-2611",
+      "pangalawang_punong_bayan": "ACE B. SERVILLON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Cardona",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1950",
+      "punong_bayan": "BERNARDO P. SAN JUAN JR.",
+      "kontak_punong_bayan": "8539-2399",
+      "pangalawang_punong_bayan": "GIL F. PANDAC",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Jalajala",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1990",
+      "punong_bayan": "ELMER C. PILLAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JARRY V. AÑAGO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Morong",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1960",
+      "punong_bayan": "SIDNEY B. SORIANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSE FRED R. FELICIANO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Pililla",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1910",
+      "punong_bayan": "DAN V. MASINSIN",
+      "kontak_punong_bayan": "8654-1093",
+      "pangalawang_punong_bayan": "JAIME C. PAZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Rodriguez",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1860",
+      "punong_bayan": "RONNIE S. EVANGELISTA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDGARDO Z. SISON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "San Mateo",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1850",
+      "punong_bayan": "BARTOLOME N. RIVERA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAIME ROMEL M. ROXAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Tanay",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1980",
+      "punong_bayan": "RAFAEL A. TANJUATCO",
+      "kontak_punong_bayan": "8654-1002",
+      "pangalawang_punong_bayan": "REX MANUEL C. TANJUATCO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Taytay",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1920",
+      "punong_bayan": "ALLAN MARTINE S. DE LEON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SOPHIA PRISCILLA L. CABRAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Teresa",
+      "uri": "Bayan",
+      "lalawigan": "RIZAL",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "1880",
+      "punong_bayan": "RODEL N. DELA CRUZ",
+      "kontak_punong_bayan": "8250-6800 loc. 514",
+      "pangalawang_punong_bayan": "FREDDIE L. BONIFACIO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Rizal - Libreng download",
+    "description": "Direktoryo ng 13 lungsod at bayan sa lalawigan ng Rizal (Calabarzon (Region IV-A)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Rizal` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 13 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Rizal | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Rizal — 13 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 13 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

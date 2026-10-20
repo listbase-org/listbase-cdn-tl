@@ -1,0 +1,220 @@
+{
+  "id": "tl-agusan-del-norte-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Agusan del Norte",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Agusan del Norte",
+  "description": "Direktoryo ng 12 lungsod at bayan sa lalawigan ng Agusan del Norte (Caraga (Region XIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Agusan del Norte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Buenavista",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8601",
+      "punong_bayan": "JOSELITO T. ROBLE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMON ALEJANDRO G. BUNGABONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Butuan",
+      "uri": "Lungsod",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "",
+      "punong_bayan": "RONNIE VICENTE C. LAGNADA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LAWRENCE LEMUEL H. FORTUN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Cabadbaran",
+      "uri": "Lungsod",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "",
+      "punong_bayan": "JUDY C. AMANTE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REY G. JAMBOY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Carmen",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8603",
+      "punong_bayan": "RAMON M. CALO",
+      "kontak_punong_bayan": "(085) 808-8892",
+      "pangalawang_punong_bayan": "JOVITTE C. CALO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Jabonga",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8607",
+      "punong_bayan": "NAPOLEON M. MONTERO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DANNY M. MORAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Kitcharao",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8609",
+      "punong_bayan": "JENRY E. MONTANTE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARISTOTLE E. MONTANTE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Las Nieves",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8610",
+      "punong_bayan": "KAREN S. ROSALES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VIRGILIO R. ESCASINAS JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Magallanes",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8604",
+      "punong_bayan": "CESAR C. CUMBA JR.",
+      "kontak_punong_bayan": "(085) 806-0531",
+      "pangalawang_punong_bayan": "MERIAM G. PAGARAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Nasipit",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8602",
+      "punong_bayan": "ROSCOE DEMOCRITO B. PLAZA",
+      "kontak_punong_bayan": "(085) 283-3099",
+      "pangalawang_punong_bayan": "LEONARDO C. BENIGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Remedios T. Romualdez",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8611",
+      "punong_bayan": "RICHARD P. DAQUIPIL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELEUTERIO D. ENRIQUEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Santiago",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8608",
+      "punong_bayan": "ZENAIDA C. LIM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FRANKLIN D. LIM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Tubay",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8606",
+      "punong_bayan": "JIMMY L. BERAY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAQUIM D. CUYOS",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Agusan del Norte - Libreng download",
+    "description": "Direktoryo ng 12 lungsod at bayan sa lalawigan ng Agusan del Norte (Caraga (Region XIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Agusan del Norte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 12 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Agusan del Norte | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Agusan del Norte — 12 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 12 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

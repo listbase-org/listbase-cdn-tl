@@ -1,0 +1,364 @@
+{
+  "id": "tl-maguindanao-del-sur-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Maguindanao del Sur",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Maguindanao del Sur",
+  "description": "Direktoryo ng 24 lungsod at bayan sa lalawigan ng Maguindanao del Sur (Bangsamoro (BARMM)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Maguindanao del Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Ampatuan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9609",
+      "punong_bayan": "BAILEAH G. SANGKI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BAI YASMIN S. SANGKI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Buluan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9616",
+      "punong_bayan": "BABYDATS D. MANGUDADATU",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RHAMLA M. KADALIM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Datu Abdullah Sangki",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9621",
+      "punong_bayan": "SUHARTO AL WALI S. MANGUDADATU",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SAMSODHEN A. SANGKI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Datu Anggal Midtimbang",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9622",
+      "punong_bayan": "MARYJOY ESTEPHANIE U. MIDTIMBANG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DATU JOMAR U. MIDTIMBANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Datu Hoffer Ampatuan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9624",
+      "punong_bayan": "BONGBONG M. AMPATUAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PRINCE SUFFRI NORABBIE M. AMPATUAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Datu Paglas",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9617",
+      "punong_bayan": "ABUBAKAR P. PAGLAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "IBRAHIM P. PAGLAS IV",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Datu Piang",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9607",
+      "punong_bayan": "VICTOR T. SAMAMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MOHAMMAD OMAR A. SAMAMA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Datu Salibo",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9625",
+      "punong_bayan": "SOLAIMAN M. SANDIGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "KHOMINIE B. SANDIGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Datu Saudi Ampatuan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9626",
+      "punong_bayan": "EDRIS A. SINDATOK",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BASSIR B. UTTO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Datu Unsay",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9627",
+      "punong_bayan": "DATU ANDAL S. AMPATUAN V",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BAI ALICIA NICOLE S. AMPATUAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Gen. S. K. Pendatun",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9618",
+      "punong_bayan": "RAFSANJANI P. ALI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NORODIN P. MASUKAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Guindulungan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9628",
+      "punong_bayan": "MIDPANTAO M. MIDTIMBANG JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DATU GUIADZALI M. MIDTIMBANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Mamasapano",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9629",
+      "punong_bayan": "AKMAD A. AMPATUAN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "TAHIRODIN BENZAR A. AMPATUAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Mangudadatu",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9620",
+      "punong_bayan": "FREDDIE G. MANGUDADATU",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELIZABETH M. TAYUAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Pagagawan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9631",
+      "punong_bayan": "OHTO C. MONTAWAL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VICMAN K. MONTAWAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Pagalungan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9610",
+      "punong_bayan": "SALIK P. MAMASABULOD",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ABDILAH G. MAMASABULOD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Paglat",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9632",
+      "punong_bayan": "RAISA P. LANGKUNO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SAGANDINGAN M. GUMONSANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Pandag",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9633",
+      "punong_bayan": "KHADAFEH G. MANGUDADATU",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ZIHAN M. MANGUDADATU",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Rajah Buayan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9634",
+      "punong_bayan": "BAI MARUJA A. MASTURA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JERRY P. MAKALAY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Shariff Aguak",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9608",
+      "punong_bayan": "AKMAD B. AMPATUAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MAROP B. AMPATUAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Shariff S. Mustapha",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9635",
+      "punong_bayan": "SAJID ANDRE S. AMPATUAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DATU SAJID ISLAM U. AMPATUAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "South Upi",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9603",
+      "punong_bayan": "REYNALBERT O. INSULAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALBERTO B. ESTORNINOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Sultan sa Barongis",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9611",
+      "punong_bayan": "ALLANDATU M. ANGAS SR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AL-FIZZAR ALLANDATU M. ANGAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Talayan",
+      "uri": "Bayan",
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9612",
+      "punong_bayan": "TUNGKANG A. MIDTIMBANG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DATU ALI S. MIDTIMBANG JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Maguindanao del Sur - Libreng download",
+    "description": "Direktoryo ng 24 lungsod at bayan sa lalawigan ng Maguindanao del Sur (Bangsamoro (BARMM)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Maguindanao del Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 24 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Maguindanao del Sur | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Maguindanao del Sur — 24 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 24 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

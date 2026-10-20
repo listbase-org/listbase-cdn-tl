@@ -1,0 +1,136 @@
+{
+  "id": "tl-mountain-province-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Mountain Province",
+  "title": "Mga Bayan ng Lalawigan ng Mountain Province",
+  "description": "Listahan ng 10 munisipalidad (bayan) sa lalawigan ng Mountain Province, CORDILLERA ADMINISTRATIVE REGION (CAR), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "144401000",
+      "name": "BARLIG",
+      "province": "MOUNTAIN PROVINCE",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 4819,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "144402000",
+      "name": "BAUKO",
+      "province": "MOUNTAIN PROVINCE",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 31065,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "144403000",
+      "name": "BESAO",
+      "province": "MOUNTAIN PROVINCE",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 7040,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "144404000",
+      "name": "BONTOC (Capital)",
+      "province": "MOUNTAIN PROVINCE",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 24643,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "144405000",
+      "name": "NATONIN",
+      "province": "MOUNTAIN PROVINCE",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 10272,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "144406000",
+      "name": "PARACELIS",
+      "province": "MOUNTAIN PROVINCE",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 28121,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "144407000",
+      "name": "SABANGAN",
+      "province": "MOUNTAIN PROVINCE",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 9315,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "144408000",
+      "name": "SADANGA",
+      "province": "MOUNTAIN PROVINCE",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 8799,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "144409000",
+      "name": "SAGADA",
+      "province": "MOUNTAIN PROVINCE",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 11127,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "144410000",
+      "name": "TADIAN",
+      "province": "MOUNTAIN PROVINCE",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 19389,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Mountain Province - Libreng download",
+    "description": "Listahan ng 10 munisipalidad (bayan) sa lalawigan ng Mountain Province, CORDILLERA ADMINISTRATIVE REGION (CAR), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 10 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Mountain Province | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Mountain Province — 10 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 10 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

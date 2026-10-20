@@ -1,0 +1,64 @@
+{
+  "id": "tl-antipolo-swift-code",
+  "name": "Mga SWIFT/BIC code — Antipolo",
+  "title": "Mga SWIFT/BIC code — Antipolo",
+  "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 3 institusyon na nakalista sa pinagkunan sa lungsod na \"ANTIPOLO\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ASIATRUST BANK",
+      "city": "ANTIPOLO",
+      "branch": "(MASINAG BRANCH)",
+      "swift_code": "ATDBPHM10M5"
+    },
+    {
+      "bank": "ASIATRUST BANK",
+      "city": "ANTIPOLO",
+      "branch": "",
+      "swift_code": "ATDBPHM10M2"
+    },
+    {
+      "bank": "FILIDIAN RURAL BANK OF ANTIPOLO,INC",
+      "city": "ANTIPOLO",
+      "branch": "",
+      "swift_code": "FRUNPHM1"
+    }
+  ],
+  "meta": {
+    "title": "Mga SWIFT/BIC code — Antipolo - Libreng download",
+    "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 3 institusyon na nakalista sa pinagkunan sa lungsod na \"ANTIPOLO\". Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga SWIFT/BIC code — Antipolo | ListBase",
+    "seo_description": "I-download Mga SWIFT/BIC code — Antipolo — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

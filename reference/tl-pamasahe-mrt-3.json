@@ -1,0 +1,1060 @@
+{
+  "id": "tl-pamasahe-mrt-3",
+  "name": "Mga Pamasahe sa MRT-3 (Metro Rail Transit Line 3)",
+  "title": "Mga Pamasahe sa MRT-3 (Metro Rail Transit Line 3)",
+  "description": "Pamasahe sa MRT Line 3 (Blue Line) sa EDSA mula North Avenue hanggang Taft Avenue. Origin-destination fare matrix sa PHP. 13 istasyon. (MRT-3 fare matrix between any two stations along the EDSA Blue Line; 13 stations from North Avenue in Quezon City to Taft Avenue in Pasay.)",
+  "category": "reference",
+  "source": "https://github.com/sakayph/fares",
+  "source_url": "https://github.com/sakayph/fares",
+  "updated": "2026-04",
+  "record_count": 169,
+  "columns": [
+    {
+      "key": "origin",
+      "label": "Origin",
+      "type": "string"
+    },
+    {
+      "key": "destination",
+      "label": "Destination",
+      "type": "string"
+    },
+    {
+      "key": "fare_php",
+      "label": "Fare Php",
+      "type": "number"
+    },
+    {
+      "key": "currency",
+      "label": "Currency",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "origin": "North Ave",
+      "destination": "North Ave",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Quezon Ave",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Kamuning",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Cubao",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Santolan",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Ortigas",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Shaw",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Boni",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Guadalupe",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Buendia",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Ayala",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Magallanes",
+      "fare_php": 28,
+      "currency": "PHP"
+    },
+    {
+      "origin": "North Ave",
+      "destination": "Taft",
+      "fare_php": 28,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "North Ave",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Quezon Ave",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Kamuning",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Cubao",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Santolan",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Ortigas",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Shaw",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Boni",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Guadalupe",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Buendia",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Ayala",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Magallanes",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Quezon Ave",
+      "destination": "Taft",
+      "fare_php": 28,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "North Ave",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Quezon Ave",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Kamuning",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Cubao",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Santolan",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Ortigas",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Shaw",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Boni",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Guadalupe",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Buendia",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Ayala",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Magallanes",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Kamuning",
+      "destination": "Taft",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "North Ave",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Quezon Ave",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Kamuning",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Cubao",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Santolan",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Ortigas",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Shaw",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Boni",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Guadalupe",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Buendia",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Ayala",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Magallanes",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Cubao",
+      "destination": "Taft",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "North Ave",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Quezon Ave",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Kamuning",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Cubao",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Santolan",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Ortigas",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Shaw",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Boni",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Guadalupe",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Buendia",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Ayala",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Magallanes",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Taft",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "North Ave",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Quezon Ave",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Kamuning",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Cubao",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Santolan",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Ortigas",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Shaw",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Boni",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Guadalupe",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Buendia",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Ayala",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Magallanes",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ortigas",
+      "destination": "Taft",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "North Ave",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Quezon Ave",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Kamuning",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Cubao",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Santolan",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Ortigas",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Shaw",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Boni",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Guadalupe",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Buendia",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Ayala",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Magallanes",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Shaw",
+      "destination": "Taft",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "North Ave",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Quezon Ave",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Kamuning",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Cubao",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Santolan",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Ortigas",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Shaw",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Boni",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Guadalupe",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Buendia",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Ayala",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Magallanes",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Boni",
+      "destination": "Taft",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "North Ave",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Quezon Ave",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Kamuning",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Cubao",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Santolan",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Ortigas",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Shaw",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Boni",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Guadalupe",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Buendia",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Ayala",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Magallanes",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Guadalupe",
+      "destination": "Taft",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "North Ave",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Quezon Ave",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Kamuning",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Cubao",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Santolan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Ortigas",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Shaw",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Boni",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Guadalupe",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Buendia",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Ayala",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Magallanes",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Buendia",
+      "destination": "Taft",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "North Ave",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Quezon Ave",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Kamuning",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Cubao",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Santolan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Ortigas",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Shaw",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Boni",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Guadalupe",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Buendia",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Ayala",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Magallanes",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Ayala",
+      "destination": "Taft",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "North Ave",
+      "fare_php": 28,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Quezon Ave",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Kamuning",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Cubao",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Santolan",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Ortigas",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Shaw",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Boni",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Guadalupe",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Buendia",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Ayala",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Magallanes",
+      "fare_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Magallanes",
+      "destination": "Taft",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "North Ave",
+      "fare_php": 28,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Quezon Ave",
+      "fare_php": 28,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Kamuning",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Cubao",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Santolan",
+      "fare_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Ortigas",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Shaw",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Boni",
+      "fare_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Guadalupe",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Buendia",
+      "fare_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Ayala",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Magallanes",
+      "fare_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Taft",
+      "destination": "Taft",
+      "fare_php": 0,
+      "currency": "PHP"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pamasahe sa MRT-3 (Metro Rail Transit Line 3) - Libreng download",
+    "description": "Pamasahe sa MRT Line 3 (Blue Line) sa EDSA mula North Avenue hanggang Taft Avenue. Origin-destination fare matrix sa PHP. 13 istasyon. (MRT-3 fare matrix between any two stations along the EDSA Blue Line; 13 stations from North Avenue in Quezon City to Taft Avenue in Pasay.) Naglalaman ng 169 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Pamasahe sa MRT-3 (Metro Rail Transit Line 3) | ListBase",
+    "seo_description": "I-download Mga Pamasahe sa MRT-3 (Metro Rail Transit Line 3) — 169 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 169 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/sakayph/fares"
+    ]
+  }
+}

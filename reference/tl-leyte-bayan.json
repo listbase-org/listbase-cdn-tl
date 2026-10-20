@@ -1,0 +1,376 @@
+{
+  "id": "tl-leyte-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Leyte",
+  "title": "Mga Bayan ng Lalawigan ng Leyte",
+  "description": "Listahan ng 40 munisipalidad (bayan) sa lalawigan ng Leyte, REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "083701000",
+      "name": "ABUYOG",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 59571,
+      "income_classification": "1st*"
+    },
+    {
+      "psgc_code": "083702000",
+      "name": "ALANGALANG",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 55235,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "083703000",
+      "name": "ALBUERA",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 46332,
+      "income_classification": "3rd*"
+    },
+    {
+      "psgc_code": "083705000",
+      "name": "BABATNGON",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 27797,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "083706000",
+      "name": "BARUGO",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 32745,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "083707000",
+      "name": "BATO",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 38356,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "083710000",
+      "name": "BURAUEN",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 52732,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "083713000",
+      "name": "CALUBIAN",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 31228,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "083714000",
+      "name": "CAPOOCAN",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 33617,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "083715000",
+      "name": "CARIGARA",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 51345,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "083717000",
+      "name": "DAGAMI",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 35147,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "083718000",
+      "name": "DULAG",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 47300,
+      "income_classification": "3rd*"
+    },
+    {
+      "psgc_code": "083719000",
+      "name": "HILONGOS",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 63431,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "083720000",
+      "name": "HINDANG",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 20924,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "083721000",
+      "name": "INOPACAN",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 20550,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "083722000",
+      "name": "ISABEL",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 46915,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "083723000",
+      "name": "JARO",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 43199,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "083724000",
+      "name": "JAVIER (BUGHO)",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 25379,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "083725000",
+      "name": "JULITA",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 15114,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "083726000",
+      "name": "KANANGA",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 56575,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "083728000",
+      "name": "LA PAZ",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 19998,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "083729000",
+      "name": "LEYTE",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 40639,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "083730000",
+      "name": "MACARTHUR",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 21211,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "083731000",
+      "name": "MAHAPLAG",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 27823,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "083733000",
+      "name": "MATAG-OB",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 18373,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "083734000",
+      "name": "MATALOM",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 33121,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "083735000",
+      "name": "MAYORGA",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 17161,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "083736000",
+      "name": "MERIDA",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 29863,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "083739000",
+      "name": "PALO",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 70052,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "083740000",
+      "name": "PALOMPON",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 58108,
+      "income_classification": "2nd*"
+    },
+    {
+      "psgc_code": "083741000",
+      "name": "PASTRANA",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 18002,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "083742000",
+      "name": "SAN ISIDRO",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 31641,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "083743000",
+      "name": "SAN MIGUEL",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 19420,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "083744000",
+      "name": "SANTA FE",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 20439,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "083745000",
+      "name": "TABANGO",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 34195,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "083746000",
+      "name": "TABONTABON",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 11204,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "083748000",
+      "name": "TANAUAN",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 55021,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "083749000",
+      "name": "TOLOSA",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 20978,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "083750000",
+      "name": "TUNGA",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 7584,
+      "income_classification": "6th*"
+    },
+    {
+      "psgc_code": "083751000",
+      "name": "VILLABA",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 41891,
+      "income_classification": "3rd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Leyte - Libreng download",
+    "description": "Listahan ng 40 munisipalidad (bayan) sa lalawigan ng Leyte, REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 40 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Leyte | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Leyte — 40 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 40 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

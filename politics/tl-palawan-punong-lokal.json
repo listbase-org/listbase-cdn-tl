@@ -1,0 +1,352 @@
+{
+  "id": "tl-palawan-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Palawan",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Palawan",
+  "description": "Direktoryo ng 23 lungsod at bayan sa lalawigan ng Palawan (Mimaropa (Region IV-B)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Palawan` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Aborlan",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5302",
+      "punong_bayan": "JAIME M. ORTEGA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARVIN C. MADEJA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Agutaya",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5320",
+      "punong_bayan": "PERLA C. BACUEL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FERNANDO G. ILUSTRISIMO SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Araceli",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5311",
+      "punong_bayan": "SUE S. CUDILLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAFAEL V. ABIOG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Balabac",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5307",
+      "punong_bayan": "SHUAIB J. ASTAMI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AL-HAZNI A. ASTAMI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Bataraza",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5306",
+      "punong_bayan": "ABRAHAM M. IBBA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOHNMAIN A. JAAFAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Brooke's Point",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5305",
+      "punong_bayan": "CESAREO R. BENEDITO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARY JEAN D. FELICIANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Busuanga",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5317",
+      "punong_bayan": "ELIZABETH M. CERVANTES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELVIN D. EDONGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Cagayancillo",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5321",
+      "punong_bayan": "SERGIO S. TAPALLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LOURDES C. LANOY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Coron",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5316",
+      "punong_bayan": "MARIO T. REYES JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ASIAN MANASSEH LORENZO A. PALANCA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Culion",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5315",
+      "punong_bayan": "MA. VIRGINIA N. DE VERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALISTER S. LEYSON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Cuyo",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5318",
+      "punong_bayan": "MARK L. DELOS REYES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDWIN G. TIMBANCAYA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Dumaran",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5310",
+      "punong_bayan": "RICHARD R. HERRERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARNEL T. CAABAY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "El Nido",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5313",
+      "punong_bayan": "EDNA G. LIM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LUNINGNING L. BATOY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Kalayaan",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5322",
+      "punong_bayan": "ROBERTO M. DEL MUNDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BELTZASAR S. ALINDOGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Linapacan",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5314",
+      "punong_bayan": "EMIL NEIL T. NERI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RICKY C. RODRIGUEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Magsaysay",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5319",
+      "punong_bayan": "ROMMEL L. DELA TORRE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALOYSIUS M. QUEJANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Narra",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5303",
+      "punong_bayan": "GERANDY B. DANAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARCELINO D. CALSO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Quezon",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5304",
+      "punong_bayan": "JOSELITO O. AYALA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDWIN F. CAABAY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Rizal",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5323",
+      "punong_bayan": "NORMAN S. ONG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIA GRACIA M. ZAPANTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Roxas",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5308",
+      "punong_bayan": "DENNIS M. SABANDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REYNALDO B. PACHO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "San Vicente",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5309",
+      "punong_bayan": "AMY R. ALVAREZ",
+      "kontak_punong_bayan": "(048) 433-6160",
+      "pangalawang_punong_bayan": "RAMIR R. PABLICO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Sofronio Española",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5324",
+      "punong_bayan": "ABNER RAFAEL N. TESORIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARSITO C. ACOY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Taytay",
+      "uri": "Bayan",
+      "lalawigan": "PALAWAN",
+      "rehiyon": "Mimaropa (Region IV-B)",
+      "zip_code": "5312",
+      "punong_bayan": "CHRISTIAN V. RODRIGUEZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DELMA P. EDEP",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Palawan - Libreng download",
+    "description": "Direktoryo ng 23 lungsod at bayan sa lalawigan ng Palawan (Mimaropa (Region IV-B)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Palawan` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 23 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Palawan | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Palawan — 23 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 23 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

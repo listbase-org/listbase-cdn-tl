@@ -1,0 +1,192 @@
+{
+  "id": "tl-surigao-del-sur-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Surigao Del Sur",
+  "title": "Mga Bayan ng Lalawigan ng Surigao Del Sur",
+  "description": "Listahan ng 17 munisipalidad (bayan) sa lalawigan ng Surigao Del Sur, REGION XIII (Caraga), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "166801000",
+      "name": "BAROBO",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 49730,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "166802000",
+      "name": "BAYABAS",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 8164,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "166804000",
+      "name": "CAGWAIT",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 20384,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "166805000",
+      "name": "CANTILAN",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 31492,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "166806000",
+      "name": "CARMEN",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 10347,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "166807000",
+      "name": "CARRASCAL",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 22479,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "166808000",
+      "name": "CORTES",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 15912,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "166809000",
+      "name": "HINATUAN",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 39842,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "166810000",
+      "name": "LANUZA",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 12001,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "166811000",
+      "name": "LIANGA",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 29493,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "166812000",
+      "name": "LINGIG",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 31485,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "166813000",
+      "name": "MADRID",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 15223,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "166814000",
+      "name": "MARIHATAG",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 18518,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "166815000",
+      "name": "SAN AGUSTIN",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 22779,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "166816000",
+      "name": "SAN MIGUEL",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 39340,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "166817000",
+      "name": "TAGBINA",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 38833,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "166818000",
+      "name": "TAGO",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 35329,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Surigao Del Sur - Libreng download",
+    "description": "Listahan ng 17 munisipalidad (bayan) sa lalawigan ng Surigao Del Sur, REGION XIII (Caraga), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Surigao Del Sur | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Surigao Del Sur — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

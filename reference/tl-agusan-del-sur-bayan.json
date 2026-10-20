@@ -1,0 +1,160 @@
+{
+  "id": "tl-agusan-del-sur-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Agusan Del Sur",
+  "title": "Mga Bayan ng Lalawigan ng Agusan Del Sur",
+  "description": "Listahan ng 13 munisipalidad (bayan) sa lalawigan ng Agusan Del Sur, REGION XIII (Caraga), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "160302000",
+      "name": "BUNAWAN",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 45151,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "160303000",
+      "name": "ESPERANZA",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 54801,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "160304000",
+      "name": "LA PAZ",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 28217,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "160305000",
+      "name": "LORETO",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 42501,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "160306000",
+      "name": "PROSPERIDAD (Capital)",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 82631,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "160307000",
+      "name": "ROSARIO",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 46683,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "160308000",
+      "name": "SAN FRANCISCO",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 74542,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "160309000",
+      "name": "SAN LUIS",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 32109,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "160310000",
+      "name": "SANTA JOSEFA",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 26729,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "160314000",
+      "name": "SIBAGAT",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 30442,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "160311000",
+      "name": "TALACOGON",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 38374,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "160312000",
+      "name": "TRENTO",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 51565,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "160313000",
+      "name": "VERUELA",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 43706,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Agusan Del Sur - Libreng download",
+    "description": "Listahan ng 13 munisipalidad (bayan) sa lalawigan ng Agusan Del Sur, REGION XIII (Caraga), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 13 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Agusan Del Sur | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Agusan Del Sur — 13 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 13 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

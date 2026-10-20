@@ -1,0 +1,280 @@
+{
+  "id": "tl-capiz-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Capiz",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Capiz",
+  "description": "Direktoryo ng 17 lungsod at bayan sa lalawigan ng Capiz (Kanlurang Visayas (Region VI)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Capiz` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Cuartero",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5811",
+      "punong_bayan": "STEPHEN OPENIANO",
+      "kontak_punong_bayan": "(036) 535-1101",
+      "pangalawang_punong_bayan": "ABNER FALCIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Dao",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5810",
+      "punong_bayan": "JOSE JIMBO D. BARRUELA",
+      "kontak_punong_bayan": "(036) 651-0619",
+      "pangalawang_punong_bayan": "DOMINICO A. DAÑOS JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Dumalag",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5813",
+      "punong_bayan": "MARIA CONCEPCION T. CASTRO",
+      "kontak_punong_bayan": "(036) 536-2064",
+      "pangalawang_punong_bayan": "AMADO ERIBERTO V. CASTRO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Dumarao",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5812",
+      "punong_bayan": "MATEO C. HACHUELA",
+      "kontak_punong_bayan": "(036) 658-0193",
+      "pangalawang_punong_bayan": "JOSE BILMAR F. DAMPOG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Ivisan",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5805",
+      "punong_bayan": "FELIPE NERI N. YAP",
+      "kontak_punong_bayan": "(036) 632-0030",
+      "pangalawang_punong_bayan": "JOSE ROMEO U. YAP",
+      "kontak_pangalawang_punong_bayan": "(036) 632-0030"
+    },
+    {
+      "id": 6,
+      "lgu": "Jamindan",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5808",
+      "punong_bayan": "MAC ARTHUR L. VALDEMAR",
+      "kontak_punong_bayan": "(036) 651-8216",
+      "pangalawang_punong_bayan": "LEMUEL V. VESTIDAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Ma-ayon",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5809",
+      "punong_bayan": "RAYMOND D. MALAPAJO",
+      "kontak_punong_bayan": "(036) 651-1092",
+      "pangalawang_punong_bayan": "JOSE C. DAPULAZA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Mambusao",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5807",
+      "punong_bayan": "LEODEGARIO A. LABAO, JR.",
+      "kontak_punong_bayan": "(036) 647-0413",
+      "pangalawang_punong_bayan": "RICHARD L. BUENAVISTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Panay",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5801",
+      "punong_bayan": "VICENTE B. BERMEJO",
+      "kontak_punong_bayan": "(036) 621-2022",
+      "pangalawang_punong_bayan": "ARMINDA A. BERMEJO",
+      "kontak_pangalawang_punong_bayan": "(036) 651-6010"
+    },
+    {
+      "id": 10,
+      "lgu": "Panitan",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5815",
+      "punong_bayan": "KATHERINE D. BELO",
+      "kontak_punong_bayan": "(036) 634-0829",
+      "pangalawang_punong_bayan": "AUDIE L. ADVINCULA",
+      "kontak_pangalawang_punong_bayan": "(036) 634-0175"
+    },
+    {
+      "id": 11,
+      "lgu": "Pilar",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5804",
+      "punong_bayan": "ARNOLD A. PEREZ",
+      "kontak_punong_bayan": "(036) 621-2043",
+      "pangalawang_punong_bayan": "ANTONIO L. BARGO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Pontevedra",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5802",
+      "punong_bayan": "HENRY D. TUMLOS",
+      "kontak_punong_bayan": "(036) 620-0967",
+      "pangalawang_punong_bayan": "FERMIN NEMESIO M. OQUENDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "President Roxas",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5803",
+      "punong_bayan": "RECELISTE L. ESCOLIN",
+      "kontak_punong_bayan": "(036) 658-0136",
+      "pangalawang_punong_bayan": "BRAULIO GODFREY P. ASIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Roxas",
+      "uri": "Lungsod",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "",
+      "punong_bayan": "RONNIE T. DADIVAS",
+      "kontak_punong_bayan": "(036) 621-2049",
+      "pangalawang_punong_bayan": "TERESA H. ALMALBIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Sapi-an",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5806",
+      "punong_bayan": "JOSE O. VILLANUEVA",
+      "kontak_punong_bayan": "(036) 620-3926",
+      "pangalawang_punong_bayan": "RALPH C. ODRUNIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Sigma",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5816",
+      "punong_bayan": "DANTE RIZAL A. ESLABON",
+      "kontak_punong_bayan": "(036) 647-0231",
+      "pangalawang_punong_bayan": "CHRISTOPHER VINCENT T. ANDAYA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Tapaz",
+      "uri": "Bayan",
+      "lalawigan": "Capiz",
+      "rehiyon": "Kanlurang Visayas (Region VI)",
+      "zip_code": "5814",
+      "punong_bayan": "REX DANTE L. PALOMAR",
+      "kontak_punong_bayan": "(036) 538-2011",
+      "pangalawang_punong_bayan": "ROBERTO O. PALOMAR",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Capiz - Libreng download",
+    "description": "Direktoryo ng 17 lungsod at bayan sa lalawigan ng Capiz (Kanlurang Visayas (Region VI)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Capiz` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Capiz | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Capiz — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

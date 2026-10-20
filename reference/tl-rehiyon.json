@@ -1,0 +1,104 @@
+{
+  "id": "tl-rehiyon",
+  "name": "Mga rehiyon ng Pilipinas (17)",
+  "title": "Mga rehiyon ng Pilipinas (17)",
+  "description": "17 rehiyon ng Pilipinas (PSGC 2019)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "01",
+      "name": "REGION I"
+    },
+    {
+      "code": "02",
+      "name": "REGION II"
+    },
+    {
+      "code": "03",
+      "name": "REGION III"
+    },
+    {
+      "code": "4A",
+      "name": "REGION IV-A"
+    },
+    {
+      "code": "4B",
+      "name": "REGION IV-B"
+    },
+    {
+      "code": "05",
+      "name": "REGION V"
+    },
+    {
+      "code": "06",
+      "name": "REGION VI"
+    },
+    {
+      "code": "07",
+      "name": "REGION VII"
+    },
+    {
+      "code": "08",
+      "name": "REGION VIII"
+    },
+    {
+      "code": "09",
+      "name": "REGION IX"
+    },
+    {
+      "code": "10",
+      "name": "REGION X"
+    },
+    {
+      "code": "11",
+      "name": "REGION XI"
+    },
+    {
+      "code": "12",
+      "name": "REGION XII"
+    },
+    {
+      "code": "13",
+      "name": "REGION XIII"
+    },
+    {
+      "code": "BARMM",
+      "name": "BARMM"
+    },
+    {
+      "code": "CAR",
+      "name": "CAR"
+    },
+    {
+      "code": "NCR",
+      "name": "NCR"
+    }
+  ],
+  "meta": {
+    "title": "Mga rehiyon ng Pilipinas (17) - Libreng download",
+    "description": "17 rehiyon ng Pilipinas (PSGC 2019) Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga rehiyon ng Pilipinas (17) | ListBase",
+    "seo_description": "I-download Mga rehiyon ng Pilipinas (17) — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 2 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

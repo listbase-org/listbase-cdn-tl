@@ -1,0 +1,248 @@
+{
+  "id": "tl-northern-samar-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Northern Samar",
+  "title": "Mga Bayan ng Lalawigan ng Northern Samar",
+  "description": "Listahan ng 24 munisipalidad (bayan) sa lalawigan ng Northern Samar, REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "084801000",
+      "name": "ALLEN",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 25469,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "084802000",
+      "name": "BIRI",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 11767,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "084803000",
+      "name": "BOBON",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 23668,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "084804000",
+      "name": "CAPUL",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 12679,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "084805000",
+      "name": "CATARMAN (Capital)",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 94037,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "084806000",
+      "name": "CATUBIG",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 33025,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "084807000",
+      "name": "GAMAY",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 23511,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "084808000",
+      "name": "LAOANG",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 61359,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "084809000",
+      "name": "LAPINIG",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 13020,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "084810000",
+      "name": "LAS NAVAS",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 37947,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "084811000",
+      "name": "LAVEZARES",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 28770,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "084824000",
+      "name": "LOPE DE VEGA",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 14687,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "084812000",
+      "name": "MAPANAS",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 14025,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "084813000",
+      "name": "MONDRAGON",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 38726,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "084814000",
+      "name": "PALAPAG",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 34286,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "084815000",
+      "name": "PAMBUJAN",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 33062,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "084816000",
+      "name": "ROSARIO",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 10520,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "084817000",
+      "name": "SAN ANTONIO",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 9058,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "084818000",
+      "name": "SAN ISIDRO",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 26650,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "084819000",
+      "name": "SAN JOSE",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 17561,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "084820000",
+      "name": "SAN ROQUE",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 30580,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "084821000",
+      "name": "SAN VICENTE",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 7856,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "084822000",
+      "name": "SILVINO LOBOS",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 15299,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "084823000",
+      "name": "VICTORIA",
+      "province": "NORTHERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 14817,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Northern Samar - Libreng download",
+    "description": "Listahan ng 24 munisipalidad (bayan) sa lalawigan ng Northern Samar, REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 24 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Northern Samar | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Northern Samar — 24 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 24 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

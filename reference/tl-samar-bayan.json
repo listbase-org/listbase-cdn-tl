@@ -1,0 +1,248 @@
+{
+  "id": "tl-samar-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Samar (Western Samar)",
+  "title": "Mga Bayan ng Lalawigan ng Samar (Western Samar)",
+  "description": "Listahan ng 24 munisipalidad (bayan) sa lalawigan ng Samar (Western Samar), REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "086001000",
+      "name": "ALMAGRO",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 8942,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086002000",
+      "name": "BASEY",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 55480,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "086004000",
+      "name": "CALBIGA",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 22982,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "086006000",
+      "name": "DARAM",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 42879,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "086007000",
+      "name": "GANDARA",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 34434,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "086008000",
+      "name": "HINABANGAN",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 13673,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "086009000",
+      "name": "JIABONG",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 18342,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086010000",
+      "name": "MARABUT",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 16962,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086011000",
+      "name": "MATUGUINAO",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 7288,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086012000",
+      "name": "MOTIONG",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 15156,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "086026000",
+      "name": "PAGSANGHAN",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 7945,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086022000",
+      "name": "PARANAS (WRIGHT)",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 30557,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "086013000",
+      "name": "PINABACDAO",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 18252,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "086025000",
+      "name": "SAN JORGE",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 17184,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "086014000",
+      "name": "SAN JOSE DE BUAN",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 7769,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "086015000",
+      "name": "SAN SEBASTIAN",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 8057,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "086016000",
+      "name": "SANTA MARGARITA",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 26348,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "086017000",
+      "name": "SANTA RITA",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 41591,
+      "income_classification": "3rd*"
+    },
+    {
+      "psgc_code": "086018000",
+      "name": "SANTO NIÑO",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 12863,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086024000",
+      "name": "TAGAPUL-AN",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 8473,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "086019000",
+      "name": "TALALORA",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 8057,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "086020000",
+      "name": "TARANGNAN",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 24992,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "086021000",
+      "name": "VILLAREAL",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 28230,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "086023000",
+      "name": "ZUMARRAGA",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 16295,
+      "income_classification": "5th*"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Samar (Western Samar) - Libreng download",
+    "description": "Listahan ng 24 munisipalidad (bayan) sa lalawigan ng Samar (Western Samar), REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 24 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Samar (Western Samar) | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Samar (Western Samar) — 24 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 24 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "tl-tawi-tawi-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Tawi-Tawi",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Tawi-Tawi",
+  "description": "Direktoryo ng 11 lungsod at bayan sa lalawigan ng Tawi-Tawi (Tangway ng Zamboanga (Region IX)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Tawi-Tawi` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Bongao",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7500",
+      "punong_bayan": "JIMUEL S. QUE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JASPER S. QUE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Languyan",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7509",
+      "punong_bayan": "ABDUHASAN ISMAEL I. SALI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ABUBASHAR S. MATBA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Mapun",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7508",
+      "punong_bayan": "SURAIDA F. MUKSIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HAMIRIN U. ILANI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Panglima Sugala",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7501",
+      "punong_bayan": "NURBERT M. SAHALI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DAYANG IMAN M. SAHALI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Sapa-Sapa",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7503",
+      "punong_bayan": "RHODESIA M. SALI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HABIB KARIM DARWIS J. MASDAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Sibutu",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7510",
+      "punong_bayan": "NUR-FITRA P. AHAJA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AL-SHEFA J. PAJIJI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Simunul",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7505",
+      "punong_bayan": "WASILAH T. ABDURAHMAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ERSHAD T. ABDURAHMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Sitangkai",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7506",
+      "punong_bayan": "TIBLAN C. AHAJA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SERBIN C. AHAJA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "South Ubian",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7504",
+      "punong_bayan": "HADZRI H. MATBA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ABDEL-AZIZ A. HALUN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Tandubas",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7502",
+      "punong_bayan": "AL-SHALID A. SALIH",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAHIEMA A. SALIH",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Turtle Islands",
+      "uri": "Bayan",
+      "lalawigan": "Tawi-Tawi",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7507",
+      "punong_bayan": "MOHAMMAD FAIZAL H. JAMALUL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SURAIDA B. IBNUSALI",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Tawi-Tawi - Libreng download",
+    "description": "Direktoryo ng 11 lungsod at bayan sa lalawigan ng Tawi-Tawi (Tangway ng Zamboanga (Region IX)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Tawi-Tawi` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 11 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Tawi-Tawi | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Tawi-Tawi — 11 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 11 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tl-guimaras-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Guimaras",
+  "title": "Mga Bayan ng Lalawigan ng Guimaras",
+  "description": "Listahan ng 5 munisipalidad (bayan) sa lalawigan ng Guimaras, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "067901000",
+      "name": "BUENAVISTA",
+      "province": "GUIMARAS",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 50437,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "067902000",
+      "name": "JORDAN (Capital)",
+      "province": "GUIMARAS",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 36096,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "067903000",
+      "name": "NUEVA VALENCIA",
+      "province": "GUIMARAS",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 39810,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "067904000",
+      "name": "SAN LORENZO",
+      "province": "GUIMARAS",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 26112,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "067905000",
+      "name": "SIBUNAG",
+      "province": "GUIMARAS",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 22158,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Guimaras - Libreng download",
+    "description": "Listahan ng 5 munisipalidad (bayan) sa lalawigan ng Guimaras, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 5 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Guimaras | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Guimaras — 5 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 5 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

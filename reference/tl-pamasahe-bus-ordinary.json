@@ -1,0 +1,406 @@
+{
+  "id": "tl-pamasahe-bus-ordinary",
+  "name": "Mga Pamasahe sa Ordinaryong Bus (PUB Ordinary)",
+  "title": "Mga Pamasahe sa Ordinaryong Bus (PUB Ordinary)",
+  "description": "Standard na talaan ng pamasahe ng ordinaryong (non-aircon) Public Utility Bus sa Pilipinas, ayon sa distansya. Regular at discounted (PWD/senior/student) na halaga sa PHP. 60 distansya. (Standard fare table for ordinary / non-aircon public utility buses in the Philippines by kilometre; regular and discounted PHP fares; 60 distance bands.)",
+  "category": "reference",
+  "source": "https://github.com/sakayph/fares",
+  "source_url": "https://github.com/sakayph/fares",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "distance_km",
+      "label": "Distance Km",
+      "type": "number"
+    },
+    {
+      "key": "regular_php",
+      "label": "Regular Php",
+      "type": "number"
+    },
+    {
+      "key": "discounted_php",
+      "label": "Discounted Php",
+      "type": "number"
+    },
+    {
+      "key": "currency",
+      "label": "Currency",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "distance_km": 1,
+      "regular_php": 10,
+      "discounted_php": 8,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 2,
+      "regular_php": 10,
+      "discounted_php": 8,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 3,
+      "regular_php": 10,
+      "discounted_php": 8,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 4,
+      "regular_php": 10,
+      "discounted_php": 8,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 5,
+      "regular_php": 10,
+      "discounted_php": 8,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 6,
+      "regular_php": 11.75,
+      "discounted_php": 9.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 7,
+      "regular_php": 13.75,
+      "discounted_php": 11,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 8,
+      "regular_php": 15.5,
+      "discounted_php": 12.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 9,
+      "regular_php": 17.5,
+      "discounted_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 10,
+      "regular_php": 19.25,
+      "discounted_php": 15.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 11,
+      "regular_php": 21,
+      "discounted_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 12,
+      "regular_php": 23,
+      "discounted_php": 18.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 13,
+      "regular_php": 24.75,
+      "discounted_php": 19.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 14,
+      "regular_php": 26.75,
+      "discounted_php": 21.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 15,
+      "regular_php": 28.5,
+      "discounted_php": 22.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 16,
+      "regular_php": 30.25,
+      "discounted_php": 24.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 17,
+      "regular_php": 32.25,
+      "discounted_php": 25.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 18,
+      "regular_php": 34,
+      "discounted_php": 27.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 19,
+      "regular_php": 36,
+      "discounted_php": 28.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 20,
+      "regular_php": 37.75,
+      "discounted_php": 30.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 21,
+      "regular_php": 39.5,
+      "discounted_php": 31.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 22,
+      "regular_php": 41.5,
+      "discounted_php": 33.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 23,
+      "regular_php": 43.25,
+      "discounted_php": 34.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 24,
+      "regular_php": 45.25,
+      "discounted_php": 36,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 25,
+      "regular_php": 47,
+      "discounted_php": 37.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 26,
+      "regular_php": 48.75,
+      "discounted_php": 39,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 27,
+      "regular_php": 50.75,
+      "discounted_php": 40.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 28,
+      "regular_php": 52.5,
+      "discounted_php": 42,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 29,
+      "regular_php": 54.5,
+      "discounted_php": 43.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 30,
+      "regular_php": 56.25,
+      "discounted_php": 45,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 31,
+      "regular_php": 58,
+      "discounted_php": 46.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 32,
+      "regular_php": 60,
+      "discounted_php": 48,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 33,
+      "regular_php": 61.75,
+      "discounted_php": 49.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 34,
+      "regular_php": 63.75,
+      "discounted_php": 51,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 35,
+      "regular_php": 65.5,
+      "discounted_php": 52.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 36,
+      "regular_php": 67.25,
+      "discounted_php": 54,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 37,
+      "regular_php": 69.25,
+      "discounted_php": 55.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 38,
+      "regular_php": 71,
+      "discounted_php": 56.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 39,
+      "regular_php": 73,
+      "discounted_php": 58.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 40,
+      "regular_php": 74.75,
+      "discounted_php": 59.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 41,
+      "regular_php": 76.5,
+      "discounted_php": 61.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 42,
+      "regular_php": 78.5,
+      "discounted_php": 62.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 43,
+      "regular_php": 80.25,
+      "discounted_php": 64.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 44,
+      "regular_php": 82.25,
+      "discounted_php": 65.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 45,
+      "regular_php": 84,
+      "discounted_php": 67.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 46,
+      "regular_php": 85.75,
+      "discounted_php": 68.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 47,
+      "regular_php": 87.75,
+      "discounted_php": 70.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 48,
+      "regular_php": 89.5,
+      "discounted_php": 71.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 49,
+      "regular_php": 91.5,
+      "discounted_php": 73,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 50,
+      "regular_php": 93.25,
+      "discounted_php": 74.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 51,
+      "regular_php": 95,
+      "discounted_php": 76,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 52,
+      "regular_php": 97,
+      "discounted_php": 77.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 53,
+      "regular_php": 98.75,
+      "discounted_php": 79,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 54,
+      "regular_php": 100.75,
+      "discounted_php": 80.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 55,
+      "regular_php": 102.5,
+      "discounted_php": 82,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 56,
+      "regular_php": 104.25,
+      "discounted_php": 83.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 57,
+      "regular_php": 106.25,
+      "discounted_php": 85,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 58,
+      "regular_php": 108,
+      "discounted_php": 86.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 59,
+      "regular_php": 110,
+      "discounted_php": 88,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 60,
+      "regular_php": 111.75,
+      "discounted_php": 89.5,
+      "currency": "PHP"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pamasahe sa Ordinaryong Bus (PUB Ordinary) - Libreng download",
+    "description": "Standard na talaan ng pamasahe ng ordinaryong (non-aircon) Public Utility Bus sa Pilipinas, ayon sa distansya. Regular at discounted (PWD/senior/student) na halaga sa PHP. 60 distansya. (Standard fare table for ordinary / non-aircon public utility buses in the Philippines by kilometre; regular and discounted PHP fares; 60 distance bands.) Naglalaman ng 60 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Pamasahe sa Ordinaryong Bus (PUB Ordinary) | ListBase",
+    "seo_description": "I-download Mga Pamasahe sa Ordinaryong Bus (PUB Ordinary) — 60 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 60 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/sakayph/fares"
+    ]
+  }
+}

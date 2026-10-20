@@ -1,0 +1,296 @@
+{
+  "id": "tl-negros-island-simbahan",
+  "name": "Mga Simbahan - Negros Island Region",
+  "title": "Mga Simbahan - Negros Island Region",
+  "description": "Mga simbahan sa rehiyong Negros Island Region, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Negros Island Region, Philippines.)",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "denominasyon",
+      "label": "Denominasyon",
+      "type": "string"
+    },
+    {
+      "key": "taon_itinatag",
+      "label": "Taon Itinatag",
+      "type": "number"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "bayan",
+      "label": "Bayan",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q15274948",
+      "name_tl": "Katedral ng San Sebastian",
+      "name_en": "San Sebastian Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1882,
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "",
+      "bayan": "",
+      "latitude": 10.670007,
+      "longitude": 122.946944,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q131540797",
+      "name_tl": "Our Lady of Mount Carmel Parish Church",
+      "name_en": "Our Lady of Mount Carmel Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "",
+      "bayan": "Enrique Villanueva",
+      "latitude": 9.27607,
+      "longitude": 123.646504,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q131540827",
+      "name_tl": "Saint Vincent Ferrer Parish Church",
+      "name_en": "Saint Vincent Ferrer Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "",
+      "bayan": "Larena",
+      "latitude": 9.248904,
+      "longitude": 123.591363,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q18750324",
+      "name_tl": "Simbahan ng Lazi",
+      "name_en": "Lazi Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1884,
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "",
+      "bayan": "Lazi",
+      "latitude": 9.12791,
+      "longitude": 123.634,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q50413518",
+      "name_tl": "Simbahan ng Siquijor",
+      "name_en": "Siquijor Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "",
+      "bayan": "Siquijor",
+      "latitude": 9.21502,
+      "longitude": 123.51396,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q23808517",
+      "name_tl": "Kapilya ni San Jose Obrero",
+      "name_en": "Saint Joseph the Worker Chapel",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "Negros Occidental",
+      "bayan": "Victorias",
+      "latitude": 10.87899,
+      "longitude": 123.06647,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q105801963",
+      "name_tl": "Katedral ng Kabankalan",
+      "name_en": "Kabankalan Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "Negros Occidental",
+      "bayan": "Kabankalan",
+      "latitude": 9.989444,
+      "longitude": 122.814833,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q105802213",
+      "name_tl": "Katedral ng San Carlos",
+      "name_en": "San Carlos Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1935,
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "Negros Occidental",
+      "bayan": "San Carlos",
+      "latitude": 10.481333,
+      "longitude": 123.418278,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q131746542",
+      "name_tl": "Saint John the Baptist Parish Church",
+      "name_en": "Saint John the Baptist Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "Negros Occidental",
+      "bayan": "Bago",
+      "latitude": 10.537119,
+      "longitude": 122.834256,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q7413707",
+      "name_tl": "San Diego Pro-cathedral",
+      "name_en": "San Diego Pro-cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 1927,
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "Negros Occidental",
+      "bayan": "Silay",
+      "latitude": 10.800153,
+      "longitude": 122.975839,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q56887916",
+      "name_tl": "Simbahan ng La Carlota",
+      "name_en": "La Carlota Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "Negros Occidental",
+      "bayan": "La Carlota",
+      "latitude": 10.425906,
+      "longitude": 122.922146,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q105772173",
+      "name_tl": "Katedral ng Dumaguete",
+      "name_en": "Saint Catherine of Alexandria Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "Negros Oriental",
+      "bayan": "",
+      "latitude": 9.305361,
+      "longitude": 123.307028,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q66793648",
+      "name_tl": "Simbahan ng Bacong",
+      "name_en": "Bacong Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "Negros Oriental",
+      "bayan": "",
+      "latitude": 9.24588,
+      "longitude": 123.29582,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q67019897",
+      "name_tl": "Simbahan ng Dauin",
+      "name_en": "Saint Nicholas of Tolentino Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "Negros Oriental",
+      "bayan": "",
+      "latitude": 9.1894,
+      "longitude": 123.26535,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q66988742",
+      "name_tl": "Simbahan ng Zamboanguita",
+      "name_en": "Zamboanguita Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Negros Island Region",
+      "lalawigan": "Negros Oriental",
+      "bayan": "Zamboanguita",
+      "latitude": 9.0999,
+      "longitude": 123.19886,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Simbahan - Negros Island Region - Libreng download",
+    "description": "Mga simbahan sa rehiyong Negros Island Region, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Negros Island Region, Philippines.) Naglalaman ng 15 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Simbahan - Negros Island Region | ListBase",
+    "seo_description": "I-download Mga Simbahan - Negros Island Region — 15 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 15 talaan / 12 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

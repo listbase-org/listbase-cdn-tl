@@ -1,0 +1,88 @@
+{
+  "id": "tl-san-fernando-bangko",
+  "name": "Mga Bangko sa City of San Fernando",
+  "title": "Mga Bangko sa City of San Fernando",
+  "description": "Listahan ng 4 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng San Fernando (source city string: \"CITY OF SAN FERNANDO\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "BORRPHM1",
+      "name": "BOF, INC. (A RURAL BANK)",
+      "name_titlecase": "Bof, INC. (a Rural BANK)",
+      "city": "CITY OF SAN FERNANDO",
+      "city_titlecase": "City of San Fernando",
+      "branch": ""
+    },
+    {
+      "swift_code": "RARLPHM1",
+      "name": "RANG-AY BANK (A RURAL BANK), INC.",
+      "name_titlecase": "Rang-ay BANK (a Rural BANK), INC.",
+      "city": "CITY OF SAN FERNANDO",
+      "city_titlecase": "City of San Fernando",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUBUPHM2",
+      "name": "RURAL BANK OF BAUANG INC",
+      "name_titlecase": "Rural BANK of Bauang INC",
+      "city": "CITY OF SAN FERNANDO",
+      "city_titlecase": "City of San Fernando",
+      "branch": ""
+    },
+    {
+      "swift_code": "RURUPHM2",
+      "name": "RURAL BANK OF ROSARIO (LA UNION)INC",
+      "name_titlecase": "Rural BANK of Rosario (la Union)inc",
+      "city": "CITY OF SAN FERNANDO",
+      "city_titlecase": "City of San Fernando",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of San Fernando - Libreng download",
+    "description": "Listahan ng 4 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng San Fernando (source city string: \"CITY OF SAN FERNANDO\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 4 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of San Fernando | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of San Fernando — 4 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 4 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

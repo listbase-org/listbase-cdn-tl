@@ -1,0 +1,226 @@
+{
+  "id": "tl-central-luzon-paliparan",
+  "name": "Mga Paliparan — Gitnang Luzon",
+  "title": "Mga Paliparan — Gitnang Luzon",
+  "description": "Mga paliparan at landing strip sa Gitnang Luzon (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Central Luzon`. (Airports in Central Luzon (Region III), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RPLB",
+      "iata": "SFS",
+      "name": "Subic Bay International Airport",
+      "city": "Olongapo City",
+      "subdivision": "Central Luzon",
+      "subdivision_native": "Central Luzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 64,
+      "latitude": 14.7944,
+      "longitude": 120.271,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPLC",
+      "iata": "CRK",
+      "name": "Diosdado Macapagal International Airport",
+      "city": "Angeles City",
+      "subdivision": "Central Luzon",
+      "subdivision_native": "Central Luzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 484,
+      "latitude": 15.186,
+      "longitude": 120.56,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPLV",
+      "iata": "",
+      "name": "Fort Magsaysay Airport",
+      "city": "",
+      "subdivision": "Central Luzon",
+      "subdivision_native": "Central Luzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 200,
+      "latitude": 15.4347,
+      "longitude": 121.091,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPLX",
+      "iata": "",
+      "name": "Corregidor Airport",
+      "city": "Corregidor",
+      "subdivision": "Central Luzon",
+      "subdivision_native": "Central Luzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 102,
+      "latitude": 14.3913,
+      "longitude": 120.607,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUF",
+      "iata": "",
+      "name": "Basa Air Base",
+      "city": "",
+      "subdivision": "Central Luzon",
+      "subdivision_native": "Central Luzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 151,
+      "latitude": 14.9865,
+      "longitude": 120.493,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUI",
+      "iata": "",
+      "name": "Iba Airport",
+      "city": "Iba",
+      "subdivision": "Central Luzon",
+      "subdivision_native": "Central Luzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 11,
+      "latitude": 15.32476,
+      "longitude": 119.9695,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUJ",
+      "iata": "",
+      "name": "Castillejos Airport",
+      "city": "Castillejos",
+      "subdivision": "Central Luzon",
+      "subdivision_native": "Central Luzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 200,
+      "latitude": 14.967,
+      "longitude": 120.15,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUR",
+      "iata": "BQA",
+      "name": "Dr.Juan C. Angara Airport",
+      "city": "Baler",
+      "subdivision": "Central Luzon",
+      "subdivision_native": "Central Luzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 108,
+      "latitude": 15.7298,
+      "longitude": 121.5,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUX",
+      "iata": "",
+      "name": "Plaridel Airport",
+      "city": "Plaridel",
+      "subdivision": "Central Luzon",
+      "subdivision_native": "Central Luzon",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 20,
+      "latitude": 14.8931,
+      "longitude": 120.852,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — Gitnang Luzon - Libreng download",
+    "description": "Mga paliparan at landing strip sa Gitnang Luzon (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Central Luzon`. (Airports in Central Luzon (Region III), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 9 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — Gitnang Luzon | ListBase",
+    "seo_description": "I-download Mga Paliparan — Gitnang Luzon — 9 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 9 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

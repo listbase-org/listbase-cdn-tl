@@ -1,0 +1,280 @@
+{
+  "id": "tl-metro-manila-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Metro Manila (NCR)",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Metro Manila (NCR)",
+  "description": "Direktoryo ng 17 lungsod at bayan sa Metro Manila (NCR) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa rehiyong `NATIONAL CAPITAL REGION` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "string"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Caloocan",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "DALE GONZALO R. MALAPITAN",
+      "kontak_punong_bayan": "5310-8531; 8288-8811 loc. 2223, 2224",
+      "pangalawang_punong_bayan": "ANNA KARINA R. TEH-LIMISCO",
+      "kontak_pangalawang_punong_bayan": "5319-5237; 8288-8811 loc. 2290"
+    },
+    {
+      "id": 2,
+      "lgu": "Las Piñas",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "IMELDA T. AGUILAR",
+      "kontak_punong_bayan": "8871-4343; 8871-4345; 8872-1788",
+      "pangalawang_punong_bayan": "APRIL A. NERY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Makati",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "MAR-LEN ABIGAIL S. BINAY",
+      "kontak_punong_bayan": "8898-8989; 8898-8933; 8882-5096",
+      "pangalawang_punong_bayan": "MONIQUE YAZMIN MARIA Q. LAGDAMEO",
+      "kontak_pangalawang_punong_bayan": "8899-8910; 8898-8933; 8810-7039"
+    },
+    {
+      "id": 4,
+      "lgu": "Malabon",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "JEANNIE N. SANDOVAL",
+      "kontak_punong_bayan": "8351-4733; 8281-4999 loc. 1715, 1717",
+      "pangalawang_punong_bayan": "BERNARD C. DELA CRUZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Mandaluyong",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "BENJAMIN S. ABALOS SR.",
+      "kontak_punong_bayan": "8532-4492; 8532-5001 loc. 204",
+      "pangalawang_punong_bayan": "CARMELITA A. ABALOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Manila",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "FRANCISCO MORENO M. DOMAGOSO",
+      "kontak_punong_bayan": "8527-4991",
+      "pangalawang_punong_bayan": "ANGELA LEI I. ATIENZA",
+      "kontak_pangalawang_punong_bayan": "8527-3789"
+    },
+    {
+      "id": 7,
+      "lgu": "Marikina",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "MARCELINO R. TEODORO",
+      "kontak_punong_bayan": "8682-9279; 8646-1634",
+      "pangalawang_punong_bayan": "MARION S. ANDRES",
+      "kontak_pangalawang_punong_bayan": "8646-1632"
+    },
+    {
+      "id": 8,
+      "lgu": "Muntinlupa",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "ROZZANO RUFINO B. BIAZON",
+      "kontak_punong_bayan": "8862-2525 loc. 142, 143",
+      "pangalawang_punong_bayan": "ARTEMIO A. SIMUNDAC",
+      "kontak_pangalawang_punong_bayan": "8840-6513; 8659-0172"
+    },
+    {
+      "id": 9,
+      "lgu": "Navotas",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "JOHN REYNALD M. TIANGCO",
+      "kontak_punong_bayan": "8282-4174 loc. 800, 400",
+      "pangalawang_punong_bayan": "TITO M. SANCHEZ",
+      "kontak_pangalawang_punong_bayan": "8283-7415 loc. 300, 801"
+    },
+    {
+      "id": 10,
+      "lgu": "Parañaque",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "ERIC L. OLIVAREZ",
+      "kontak_punong_bayan": "8805-7963",
+      "pangalawang_punong_bayan": "JOAN A. VILLAFUERTE-DENSING",
+      "kontak_pangalawang_punong_bayan": "8478-5477"
+    },
+    {
+      "id": 11,
+      "lgu": "Pasay",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "IMELDA C. RUBIANO",
+      "kontak_punong_bayan": "8853-9338",
+      "pangalawang_punong_bayan": "WALDETRUDES S. DEL ROSARIO",
+      "kontak_pangalawang_punong_bayan": "8831-0163; 8831-4266"
+    },
+    {
+      "id": 12,
+      "lgu": "Pasig",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "VICTOR MA. REGIS N. SOTTO",
+      "kontak_punong_bayan": "8643-1111 loc. 1801",
+      "pangalawang_punong_bayan": "ROBERT VINCENT JUDE B. JAWORSKI JR.",
+      "kontak_pangalawang_punong_bayan": "8643-1111 loc. 1741 87097622"
+    },
+    {
+      "id": 13,
+      "lgu": "Pateros",
+      "uri": "Bayan",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "GERALD S. GERMAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CARLO UMAGAT SANTOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Quezon",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "MA. JOSEFINA G. BELMONTE",
+      "kontak_punong_bayan": "8988-4242 loc. 8300",
+      "pangalawang_punong_bayan": "GIAN CARLO G. SOTTO",
+      "kontak_pangalawang_punong_bayan": "8988-4242 loc. 8205 82753071"
+    },
+    {
+      "id": 15,
+      "lgu": "San Juan",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "FRANCISCO JAVIER M. ZAMORA",
+      "kontak_punong_bayan": "137-135 loc. 114",
+      "pangalawang_punong_bayan": "JOSE ANGELO RAFAEL E. AGCAOILI",
+      "kontak_pangalawang_punong_bayan": "137-135 loc. 301, 302"
+    },
+    {
+      "id": 16,
+      "lgu": "Taguig",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "MARIA LAARNI L. CAYETANO",
+      "kontak_punong_bayan": "8642-3588",
+      "pangalawang_punong_bayan": "ARVIN IAN V. ALIT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Valenzuela",
+      "uri": "Lungsod",
+      "lalawigan": "",
+      "rehiyon": "Metro Manila (NCR)",
+      "zip_code": "",
+      "punong_bayan": "WESLIE T. GATCHALIAN",
+      "kontak_punong_bayan": "8352-1000 loc. 1142, 1147",
+      "pangalawang_punong_bayan": "LORENA C. NATIVIDAD-BORJA",
+      "kontak_pangalawang_punong_bayan": "8352-1000 loc. 1301, 1303"
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Metro Manila (NCR) - Libreng download",
+    "description": "Direktoryo ng 17 lungsod at bayan sa Metro Manila (NCR) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa rehiyong `NATIONAL CAPITAL REGION` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Metro Manila (NCR) | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Metro Manila (NCR) — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

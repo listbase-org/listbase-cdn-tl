@@ -1,0 +1,853 @@
+{
+  "id": "tl-lalawigan-sukat",
+  "name": "Mga lalawigan/distrito ng Pilipinas - sukat at lawak (88 provinces/districts)",
+  "title": "Mga lalawigan/distrito ng Pilipinas - sukat at lawak (88 provinces/districts)",
+  "description": "Mga 88 lalawigan at espesyal na distrito ng Pilipinas na may opisyal na PSGC code (adm2), sukat ng perimetro (km), lawak (km^2), at kanilang parent rehiyon code. Hinango mula sa PSA shapefile data (4Q-2023 Publication).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 88,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "geo_level",
+      "label": "Geo Level",
+      "type": "string"
+    },
+    {
+      "key": "geo_level_name",
+      "label": "Geo Level Name",
+      "type": "string"
+    },
+    {
+      "key": "region_psgc_code",
+      "label": "Region Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "perimeter_km",
+      "label": "Perimeter Km",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "102800000",
+      "name": "Ilocos Norte",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "100000000",
+      "perimeter_km": 309,
+      "area_km2": 3276
+    },
+    {
+      "psgc_code": "102900000",
+      "name": "Ilocos Sur",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "100000000",
+      "perimeter_km": 452,
+      "area_km2": 2467
+    },
+    {
+      "psgc_code": "103300000",
+      "name": "La Union",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "100000000",
+      "perimeter_km": 262,
+      "area_km2": 1414
+    },
+    {
+      "psgc_code": "105500000",
+      "name": "Pangasinan",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "100000000",
+      "perimeter_km": 789,
+      "area_km2": 5161
+    },
+    {
+      "psgc_code": "200900000",
+      "name": "Batanes",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "200000000",
+      "perimeter_km": 230,
+      "area_km2": 201
+    },
+    {
+      "psgc_code": "201500000",
+      "name": "Cagayan",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "200000000",
+      "perimeter_km": 1135,
+      "area_km2": 8794
+    },
+    {
+      "psgc_code": "203100000",
+      "name": "Isabela",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "200000000",
+      "perimeter_km": 606,
+      "area_km2": 10489
+    },
+    {
+      "psgc_code": "205000000",
+      "name": "Nueva Vizcaya",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "200000000",
+      "perimeter_km": 403,
+      "area_km2": 4126
+    },
+    {
+      "psgc_code": "205700000",
+      "name": "Quirino",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "200000000",
+      "perimeter_km": 323,
+      "area_km2": 2767
+    },
+    {
+      "psgc_code": "300800000",
+      "name": "Bataan",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "300000000",
+      "perimeter_km": 290,
+      "area_km2": 1246
+    },
+    {
+      "psgc_code": "301400000",
+      "name": "Bulacan",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "300000000",
+      "perimeter_km": 357,
+      "area_km2": 2710
+    },
+    {
+      "psgc_code": "304900000",
+      "name": "Nueva Ecija",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "300000000",
+      "perimeter_km": 417,
+      "area_km2": 5506
+    },
+    {
+      "psgc_code": "305400000",
+      "name": "Pampanga",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "300000000",
+      "perimeter_km": 291,
+      "area_km2": 2115
+    },
+    {
+      "psgc_code": "306900000",
+      "name": "Tarlac",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "300000000",
+      "perimeter_km": 275,
+      "area_km2": 2974
+    },
+    {
+      "psgc_code": "307100000",
+      "name": "Zambales",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "300000000",
+      "perimeter_km": 582,
+      "area_km2": 3733
+    },
+    {
+      "psgc_code": "307700000",
+      "name": "Aurora",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "300000000",
+      "perimeter_km": 736,
+      "area_km2": 3029
+    },
+    {
+      "psgc_code": "401000000",
+      "name": "Batangas",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "400000000",
+      "perimeter_km": 654,
+      "area_km2": 3197
+    },
+    {
+      "psgc_code": "402100000",
+      "name": "Cavite",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "400000000",
+      "perimeter_km": 295,
+      "area_km2": 1245
+    },
+    {
+      "psgc_code": "403400000",
+      "name": "Laguna",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "400000000",
+      "perimeter_km": 418,
+      "area_km2": 1802
+    },
+    {
+      "psgc_code": "405600000",
+      "name": "Quezon",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "400000000",
+      "perimeter_km": 2165,
+      "area_km2": 8398
+    },
+    {
+      "psgc_code": "405800000",
+      "name": "Rizal",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "400000000",
+      "perimeter_km": 326,
+      "area_km2": 1200
+    },
+    {
+      "psgc_code": "500500000",
+      "name": "Albay",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "500000000",
+      "perimeter_km": 711,
+      "area_km2": 2467
+    },
+    {
+      "psgc_code": "501600000",
+      "name": "Camarines Norte",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "500000000",
+      "perimeter_km": 670,
+      "area_km2": 2119
+    },
+    {
+      "psgc_code": "501700000",
+      "name": "Camarines Sur",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "500000000",
+      "perimeter_km": 1370,
+      "area_km2": 5280
+    },
+    {
+      "psgc_code": "502000000",
+      "name": "Catanduanes",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "500000000",
+      "perimeter_km": 479,
+      "area_km2": 1460
+    },
+    {
+      "psgc_code": "504100000",
+      "name": "Masbate",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "500000000",
+      "perimeter_km": 1382,
+      "area_km2": 3986
+    },
+    {
+      "psgc_code": "506200000",
+      "name": "Sorsogon",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "500000000",
+      "perimeter_km": 707,
+      "area_km2": 1985
+    },
+    {
+      "psgc_code": "600400000",
+      "name": "Aklan",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "600000000",
+      "perimeter_km": 507,
+      "area_km2": 1683
+    },
+    {
+      "psgc_code": "600600000",
+      "name": "Antique",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "600000000",
+      "perimeter_km": 664,
+      "area_km2": 2735
+    },
+    {
+      "psgc_code": "601900000",
+      "name": "Capiz",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "600000000",
+      "perimeter_km": 427,
+      "area_km2": 2649
+    },
+    {
+      "psgc_code": "603000000",
+      "name": "Iloilo",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "600000000",
+      "perimeter_km": 987,
+      "area_km2": 4716
+    },
+    {
+      "psgc_code": "604500000",
+      "name": "Negros Occidental",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "600000000",
+      "perimeter_km": 985,
+      "area_km2": 7652
+    },
+    {
+      "psgc_code": "607900000",
+      "name": "Guimaras",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "600000000",
+      "perimeter_km": 371,
+      "area_km2": 595
+    },
+    {
+      "psgc_code": "701200000",
+      "name": "Bohol",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "700000000",
+      "perimeter_km": 1069,
+      "area_km2": 3968
+    },
+    {
+      "psgc_code": "702200000",
+      "name": "Cebu",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "700000000",
+      "perimeter_km": 1433,
+      "area_km2": 4867
+    },
+    {
+      "psgc_code": "704600000",
+      "name": "Negros Oriental",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "700000000",
+      "perimeter_km": 586,
+      "area_km2": 5129
+    },
+    {
+      "psgc_code": "706100000",
+      "name": "Siquijor",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "700000000",
+      "perimeter_km": 116,
+      "area_km2": 319
+    },
+    {
+      "psgc_code": "802600000",
+      "name": "Eastern Samar",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "800000000",
+      "perimeter_km": 1220,
+      "area_km2": 4253
+    },
+    {
+      "psgc_code": "803700000",
+      "name": "Leyte",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "800000000",
+      "perimeter_km": 960,
+      "area_km2": 5576
+    },
+    {
+      "psgc_code": "804800000",
+      "name": "Northern Samar",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "800000000",
+      "perimeter_km": 1139,
+      "area_km2": 3441
+    },
+    {
+      "psgc_code": "806000000",
+      "name": "Samar",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "800000000",
+      "perimeter_km": 1460,
+      "area_km2": 5384
+    },
+    {
+      "psgc_code": "806400000",
+      "name": "Southern Leyte",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "800000000",
+      "perimeter_km": 464,
+      "area_km2": 1656
+    },
+    {
+      "psgc_code": "807800000",
+      "name": "Biliran",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "800000000",
+      "perimeter_km": 195,
+      "area_km2": 531
+    },
+    {
+      "psgc_code": "907200000",
+      "name": "Zamboanga del Norte",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "900000000",
+      "perimeter_km": 901,
+      "area_km2": 6279
+    },
+    {
+      "psgc_code": "907300000",
+      "name": "Zamboanga del Sur",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "900000000",
+      "perimeter_km": 1304,
+      "area_km2": 5362
+    },
+    {
+      "psgc_code": "908300000",
+      "name": "Zamboanga Sibugay",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "900000000",
+      "perimeter_km": 993,
+      "area_km2": 2723
+    },
+    {
+      "psgc_code": "990100000",
+      "name": "City of Isabela (Not a Province)",
+      "geo_level": "",
+      "geo_level_name": "",
+      "region_psgc_code": "900000000",
+      "perimeter_km": 136,
+      "area_km2": 219
+    },
+    {
+      "psgc_code": "1001300000",
+      "name": "Bukidnon",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1000000000",
+      "perimeter_km": 554,
+      "area_km2": 9362
+    },
+    {
+      "psgc_code": "1001800000",
+      "name": "Camiguin",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1000000000",
+      "perimeter_km": 77,
+      "area_km2": 242
+    },
+    {
+      "psgc_code": "1003500000",
+      "name": "Lanao del Norte",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1000000000",
+      "perimeter_km": 458,
+      "area_km2": 2637
+    },
+    {
+      "psgc_code": "1004200000",
+      "name": "Misamis Occidental",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1000000000",
+      "perimeter_km": 355,
+      "area_km2": 1869
+    },
+    {
+      "psgc_code": "1004300000",
+      "name": "Misamis Oriental",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1000000000",
+      "perimeter_km": 608,
+      "area_km2": 3379
+    },
+    {
+      "psgc_code": "1102300000",
+      "name": "Davao del Norte",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1100000000",
+      "perimeter_km": 539,
+      "area_km2": 3249
+    },
+    {
+      "psgc_code": "1102400000",
+      "name": "Davao del Sur",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1100000000",
+      "perimeter_km": 536,
+      "area_km2": 4266
+    },
+    {
+      "psgc_code": "1102500000",
+      "name": "Davao Oriental",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1100000000",
+      "perimeter_km": 798,
+      "area_km2": 5001
+    },
+    {
+      "psgc_code": "1108200000",
+      "name": "Davao de Oro",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1100000000",
+      "perimeter_km": 448,
+      "area_km2": 4360
+    },
+    {
+      "psgc_code": "1108600000",
+      "name": "Davao Occidental",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1100000000",
+      "perimeter_km": 484,
+      "area_km2": 1962
+    },
+    {
+      "psgc_code": "1204700000",
+      "name": "Cotabato",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1200000000",
+      "perimeter_km": 767,
+      "area_km2": 5318
+    },
+    {
+      "psgc_code": "1206300000",
+      "name": "South Cotabato",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1200000000",
+      "perimeter_km": 399,
+      "area_km2": 4120
+    },
+    {
+      "psgc_code": "1206500000",
+      "name": "Sultan Kudarat",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1200000000",
+      "perimeter_km": 555,
+      "area_km2": 4224
+    },
+    {
+      "psgc_code": "1208000000",
+      "name": "Sarangani",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1200000000",
+      "perimeter_km": 572,
+      "area_km2": 3702
+    },
+    {
+      "psgc_code": "1303900000",
+      "name": "NCR, City of Manila, First District (Not a Province)",
+      "geo_level": "Dist",
+      "geo_level_name": "District (Distrito)",
+      "region_psgc_code": "1300000000",
+      "perimeter_km": 65,
+      "area_km2": 41
+    },
+    {
+      "psgc_code": "1307400000",
+      "name": "NCR, Second District (Not a Province)",
+      "geo_level": "Dist",
+      "geo_level_name": "District (Distrito)",
+      "region_psgc_code": "1300000000",
+      "perimeter_km": 103,
+      "area_km2": 233
+    },
+    {
+      "psgc_code": "1307500000",
+      "name": "NCR, Third District (Not a Province)",
+      "geo_level": "Dist",
+      "geo_level_name": "District (Distrito)",
+      "region_psgc_code": "1300000000",
+      "perimeter_km": 103,
+      "area_km2": 126
+    },
+    {
+      "psgc_code": "1307600000",
+      "name": "NCR, Fourth District (Not a Province)",
+      "geo_level": "Dist",
+      "geo_level_name": "District (Distrito)",
+      "region_psgc_code": "1300000000",
+      "perimeter_km": 102,
+      "area_km2": 196
+    },
+    {
+      "psgc_code": "1400100000",
+      "name": "Abra",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1400000000",
+      "perimeter_km": 286,
+      "area_km2": 3928
+    },
+    {
+      "psgc_code": "1401100000",
+      "name": "Benguet",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1400000000",
+      "perimeter_km": 239,
+      "area_km2": 2834
+    },
+    {
+      "psgc_code": "1402700000",
+      "name": "Ifugao",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1400000000",
+      "perimeter_km": 241,
+      "area_km2": 2506
+    },
+    {
+      "psgc_code": "1403200000",
+      "name": "Kalinga",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1400000000",
+      "perimeter_km": 271,
+      "area_km2": 2825
+    },
+    {
+      "psgc_code": "1404400000",
+      "name": "Mountain Province",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1400000000",
+      "perimeter_km": 260,
+      "area_km2": 2112
+    },
+    {
+      "psgc_code": "1408100000",
+      "name": "Apayao",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1400000000",
+      "perimeter_km": 348,
+      "area_km2": 3989
+    },
+    {
+      "psgc_code": "1600200000",
+      "name": "Agusan del Norte",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1600000000",
+      "perimeter_km": 405,
+      "area_km2": 2679
+    },
+    {
+      "psgc_code": "1600300000",
+      "name": "Agusan del Sur",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1600000000",
+      "perimeter_km": 576,
+      "area_km2": 8464
+    },
+    {
+      "psgc_code": "1606700000",
+      "name": "Surigao del Norte",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1600000000",
+      "perimeter_km": 1416,
+      "area_km2": 1976
+    },
+    {
+      "psgc_code": "1606800000",
+      "name": "Surigao del Sur",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1600000000",
+      "perimeter_km": 980,
+      "area_km2": 4708
+    },
+    {
+      "psgc_code": "1608500000",
+      "name": "Dinagat Islands",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1600000000",
+      "perimeter_km": 578,
+      "area_km2": 806
+    },
+    {
+      "psgc_code": "1704000000",
+      "name": "Marinduque",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1700000000",
+      "perimeter_km": 313,
+      "area_km2": 922
+    },
+    {
+      "psgc_code": "1705100000",
+      "name": "Occidental Mindoro",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1700000000",
+      "perimeter_km": 851,
+      "area_km2": 5975
+    },
+    {
+      "psgc_code": "1705200000",
+      "name": "Oriental Mindoro",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1700000000",
+      "perimeter_km": 605,
+      "area_km2": 4198
+    },
+    {
+      "psgc_code": "1705300000",
+      "name": "Palawan",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1700000000",
+      "perimeter_km": 6630,
+      "area_km2": 14464
+    },
+    {
+      "psgc_code": "1705900000",
+      "name": "Romblon",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1700000000",
+      "perimeter_km": 625,
+      "area_km2": 1308
+    },
+    {
+      "psgc_code": "1900700000",
+      "name": "Basilan",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1900000000",
+      "perimeter_km": 765,
+      "area_km2": 1133
+    },
+    {
+      "psgc_code": "1903600000",
+      "name": "Lanao del Sur",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1900000000",
+      "perimeter_km": 465,
+      "area_km2": 4103
+    },
+    {
+      "psgc_code": "1906600000",
+      "name": "Sulu",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1900000000",
+      "perimeter_km": 2242,
+      "area_km2": 1516
+    },
+    {
+      "psgc_code": "1907000000",
+      "name": "Tawi-Tawi",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1900000000",
+      "perimeter_km": 1770,
+      "area_km2": 1157
+    },
+    {
+      "psgc_code": "1908700000",
+      "name": "Maguindanao del Norte",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1900000000",
+      "perimeter_km": 459,
+      "area_km2": 2550
+    },
+    {
+      "psgc_code": "1908800000",
+      "name": "Maguindanao del Sur",
+      "geo_level": "Prov",
+      "geo_level_name": "Province (Lalawigan)",
+      "region_psgc_code": "1900000000",
+      "perimeter_km": 459,
+      "area_km2": 2459
+    },
+    {
+      "psgc_code": "1909900000",
+      "name": "",
+      "geo_level": "",
+      "geo_level_name": "",
+      "region_psgc_code": "1900000000",
+      "perimeter_km": 445,
+      "area_km2": 542
+    }
+  ],
+  "meta": {
+    "title": "Mga lalawigan/distrito ng Pilipinas - sukat at lawak (88 provinces/districts) - Libreng download",
+    "description": "Mga 88 lalawigan at espesyal na distrito ng Pilipinas na may opisyal na PSGC code (adm2), sukat ng perimetro (km), lawak (km^2), at kanilang parent rehiyon code. Hinango mula sa PSA shapefile data (4Q-2023 Publication). Naglalaman ng 88 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga lalawigan/distrito ng Pilipinas - sukat at lawak (88 provinces/districts) | ListBase",
+    "seo_description": "I-download Mga lalawigan/distrito ng Pilipinas - sukat at lawak (88 provinces/districts) — 88 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 88 talaan / 7 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "tl-dipolog-bangko",
+  "name": "Mga Bangko sa City of Dipolog",
+  "title": "Mga Bangko sa City of Dipolog",
+  "description": "Listahan ng 4 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Dipolog (source city string: \"CITY OF DIPOLOG\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "BADGPHM1",
+      "name": "BANCODIPOLOG, INC.",
+      "name_titlecase": "Bancodipolog, INC.",
+      "city": "CITY OF DIPOLOG",
+      "city_titlecase": "City of Dipolog",
+      "branch": ""
+    },
+    {
+      "swift_code": "KRBFPHM1",
+      "name": "KATIPUNAN BANK (ZN), INC. A RURAL BANK",
+      "name_titlecase": "Katipunan BANK (zn), INC. a Rural BANK",
+      "city": "CITY OF DIPOLOG",
+      "city_titlecase": "City of Dipolog",
+      "branch": ""
+    },
+    {
+      "swift_code": "KACUPHM2",
+      "name": "KATIPUNAN BANKING CORPORATION 'A RURAL BANK'",
+      "name_titlecase": "Katipunan Banking Corporation 'a Rural BANK'",
+      "city": "CITY OF DIPOLOG",
+      "city_titlecase": "City of Dipolog",
+      "branch": ""
+    },
+    {
+      "swift_code": "LILOPHM1",
+      "name": "RURAL BANK OF LILOY (ZN), INC",
+      "name_titlecase": "Rural BANK of Liloy (zn), INC",
+      "city": "CITY OF DIPOLOG",
+      "city_titlecase": "City of Dipolog",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Dipolog - Libreng download",
+    "description": "Listahan ng 4 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Dipolog (source city string: \"CITY OF DIPOLOG\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 4 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Dipolog | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Dipolog — 4 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 4 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

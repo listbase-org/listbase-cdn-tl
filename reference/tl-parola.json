@@ -1,0 +1,226 @@
+{
+  "id": "tl-parola",
+  "name": "Mga Parola ng Pilipinas (Philippine Lighthouses)",
+  "title": "Mga Parola ng Pilipinas (Philippine Lighthouses)",
+  "description": "Listahan ng mga parola (lighthouses) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q5034595",
+      "name_tl": "Parola ng Cabo Bojeador",
+      "name_en": "Cape Bojeador Lighthouse",
+      "located_in_at": "Ilocos Norte",
+      "latitude": 18.51226,
+      "longitude": 120.5979,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q5034767",
+      "name_tl": "Parola ng Cabo Engaño",
+      "name_en": "Cape Engaño Lighthouse",
+      "located_in_at": "Santa Ana",
+      "latitude": 18.579864,
+      "longitude": 122.137689,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q24882616",
+      "name_tl": "Parola ng Kabo Santiago",
+      "name_en": "Cape Santiago Lighthouse",
+      "located_in_at": "Calatagan",
+      "latitude": 13.771972,
+      "longitude": 120.653111,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q42307197",
+      "name_tl": "Parola ng Pulo ng Capitancillo",
+      "name_en": "Capitancillo Island Lighthouse",
+      "located_in_at": "Odlot",
+      "latitude": 10.99024,
+      "longitude": 124.10388,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q5036092",
+      "name_tl": "Parola ng Pulo ng Capones",
+      "name_en": "Capones Island lighthouse",
+      "located_in_at": "San Antonio",
+      "latitude": 14.91559,
+      "longitude": 120.00902,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q5037127",
+      "name_tl": "Parola ng Pulo ng Capul",
+      "name_en": "Capul Island Lighthouse",
+      "located_in_at": "Capul",
+      "latitude": 12.481497,
+      "longitude": 124.141636,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q107326066",
+      "name_tl": "Parola ng Pulo ng Jintotolo",
+      "name_en": "Jintotolo Island lighthouse",
+      "located_in_at": "Balud",
+      "latitude": 11.84005,
+      "longitude": 123.12067,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q42306949",
+      "name_tl": "Parola ng Pulo ng Pescador",
+      "name_en": "Pescador Island Lighthouse",
+      "located_in_at": "",
+      "latitude": 9.92286,
+      "longitude": 123.34355,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q18387892",
+      "name_tl": "Parola ng Pulo ng Tanguingui",
+      "name_en": "Tanguingui Island Lighthouse",
+      "located_in_at": "Madridejos",
+      "latitude": 11.48698,
+      "longitude": 123.72627,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q4841389",
+      "name_tl": "Parola ng Punta Bagacay",
+      "name_en": "Bagacay Point Lighthouse",
+      "located_in_at": "",
+      "latitude": 10.384167,
+      "longitude": 124.0175,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q107316436",
+      "name_tl": "Parola ng Punta Bagacay",
+      "name_en": "Bagacay Point Lighthouse",
+      "located_in_at": "Cebu",
+      "latitude": 10.383167,
+      "longitude": 124.018556,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4986274",
+      "name_tl": "Parola ng Punta Bugui",
+      "name_en": "Bugui Point Lighthouse",
+      "located_in_at": "Aroroy",
+      "latitude": 12.60015,
+      "longitude": 123.23798,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q109314347",
+      "name_tl": "Parola ng Punta Bugui",
+      "name_en": "Bugui Point Lighthouse",
+      "located_in_at": "Aroroy",
+      "latitude": 12.60031,
+      "longitude": 123.23794,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q24849233",
+      "name_tl": "Parola ng Punta ng Malabrigo",
+      "name_en": "Malabrigo Point Lighthouse",
+      "located_in_at": "Lobo",
+      "latitude": 13.598687,
+      "longitude": 121.262486,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q18343681",
+      "name_tl": "Parola ng Punta ng Poro",
+      "name_en": "Poro Point Lighthouse",
+      "located_in_at": "La Union",
+      "latitude": 16.616667,
+      "longitude": 120.283333,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q42310232",
+      "name_tl": "Parola ng San Bernardino",
+      "name_en": "San Bernardino Lighthouse",
+      "located_in_at": "Bulusan",
+      "latitude": 12.75299,
+      "longitude": 124.28379,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Parola ng Pilipinas (Philippine Lighthouses) - Libreng download",
+    "description": "Listahan ng mga parola (lighthouses) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Naglalaman ng 16 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Parola ng Pilipinas (Philippine Lighthouses) | ListBase",
+    "seo_description": "I-download Mga Parola ng Pilipinas (Philippine Lighthouses) — 16 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 16 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

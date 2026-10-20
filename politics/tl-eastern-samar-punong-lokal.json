@@ -1,0 +1,340 @@
+{
+  "id": "tl-eastern-samar-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Eastern Samar",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Eastern Samar",
+  "description": "Direktoryo ng 22 lungsod at bayan sa lalawigan ng Eastern Samar (Silangang Visayas (Region VIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Eastern Samar` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Arteche",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6822",
+      "punong_bayan": "ROLAND BOIE M. EVARDONE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROLANDO B. EVARDONE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Balangiga",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6812",
+      "punong_bayan": "DANA FLYNCH R. DE LIRA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DANNY VIRGIL B. ABLAY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Balangkayan",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6801",
+      "punong_bayan": "EDITH ANNE T. BASCO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NERAFIE G. CONTADO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Can-avid",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6806",
+      "punong_bayan": "VILMA A. GERMINO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "WILFREDO B. BUSA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Dolores",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6817",
+      "punong_bayan": "RODRIGO C. RIVERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SHONNY NIÑO R. CARPESO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "General MacArthur",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6805",
+      "punong_bayan": "FLORA C. TY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOEL D. BALDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Giporlos",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6811",
+      "punong_bayan": "GILBERT I. GO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTOPHER I. GO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Guiuan",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6809",
+      "punong_bayan": "ANNALIZA G. KWAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VERONICA C. RAMIREZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Hernani",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6804",
+      "punong_bayan": "AMADO DL. CANDIDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CESAR G. TAGON JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Jipapad",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6819",
+      "punong_bayan": "BENJAMIN E. VER",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "OSCAR R. AMIGO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Lawaan",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6813",
+      "punong_bayan": "ATHENE L. MENDROS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAVI PARKER C. INCISO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Llorente",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6803",
+      "punong_bayan": "DANIEL C. BOCO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JONNIE A. CONDRADA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Maslog",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6820",
+      "punong_bayan": "HERACLIO C. SANTIAGO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SEPTEMIO BOK C. SANTIAGO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Maydolong",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6802",
+      "punong_bayan": "GODOFREDO T. GARADO",
+      "kontak_punong_bayan": "(055) 560-2842",
+      "pangalawang_punong_bayan": "LOUIE A. BORJA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Mercedes",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6808",
+      "punong_bayan": "EDWIN B. QUIMINALES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSE P. TALAGTAG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Oras",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6818",
+      "punong_bayan": "ROY C. ADOR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ADOLFO A. MUGAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Quinapondan",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6810",
+      "punong_bayan": "RAFAEL S. ASEBIAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEO JASPER M. CANDIDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Salcedo",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6807",
+      "punong_bayan": "MA. ROCHELLE G. MERGAL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARICRIS D. FABILLAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "San Julian",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6814",
+      "punong_bayan": "DENNIS B. ESTARON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "YURITO M. ACOL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "San Policarpo",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6821",
+      "punong_bayan": "CONRADO U. NICART III",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "THELMA U. NICART",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Sulat",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6815",
+      "punong_bayan": "JAVIER E. ZACATE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DIONESIO L. EVARDONE III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Taft",
+      "uri": "Bayan",
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "Silangang Visayas (Region VIII)",
+      "zip_code": "6816",
+      "punong_bayan": "GINA A. TY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MA. CONCEPCION A. HILARIO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Eastern Samar - Libreng download",
+    "description": "Direktoryo ng 22 lungsod at bayan sa lalawigan ng Eastern Samar (Silangang Visayas (Region VIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Eastern Samar` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 22 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Eastern Samar | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Eastern Samar — 22 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 22 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "tl-western-visayas-paliparan",
+  "name": "Mga Paliparan — Kanlurang Visayas",
+  "title": "Mga Paliparan — Kanlurang Visayas",
+  "description": "Mga paliparan at landing strip sa Kanlurang Visayas (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Western Visayas`. (Airports in Western Visayas (Region VI), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RPVE",
+      "iata": "MPH",
+      "name": "Godofredo P. Ramos Airport",
+      "city": "Malay",
+      "subdivision": "Western Visayas",
+      "subdivision_native": "Western Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 7,
+      "latitude": 11.9245,
+      "longitude": 121.954,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVI",
+      "iata": "ILO",
+      "name": "Iloilo International Airport",
+      "city": "Iloilo City",
+      "subdivision": "Western Visayas",
+      "subdivision_native": "Western Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 27,
+      "latitude": 10.83302,
+      "longitude": 122.49336,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVK",
+      "iata": "KLO",
+      "name": "Kalibo International Airport",
+      "city": "Kalibo",
+      "subdivision": "Western Visayas",
+      "subdivision_native": "Western Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 14,
+      "latitude": 11.6794,
+      "longitude": 122.376,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVR",
+      "iata": "RXS",
+      "name": "Roxas Airport",
+      "city": "Roxas City",
+      "subdivision": "Western Visayas",
+      "subdivision_native": "Western Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 10,
+      "latitude": 11.5977,
+      "longitude": 122.752,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVS",
+      "iata": "EUQ",
+      "name": "Evelio Javier Airport",
+      "city": "San Jose",
+      "subdivision": "Western Visayas",
+      "subdivision_native": "Western Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 23,
+      "latitude": 10.766,
+      "longitude": 121.933,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — Kanlurang Visayas - Libreng download",
+    "description": "Mga paliparan at landing strip sa Kanlurang Visayas (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Western Visayas`. (Airports in Western Visayas (Region VI), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 5 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — Kanlurang Visayas | ListBase",
+    "seo_description": "I-download Mga Paliparan — Kanlurang Visayas — 5 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 5 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

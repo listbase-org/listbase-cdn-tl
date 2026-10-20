@@ -1,0 +1,376 @@
+{
+  "id": "tl-nueva-ecija-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Nueva Ecija",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Nueva Ecija",
+  "description": "Direktoryo ng 25 lungsod at bayan sa lalawigan ng Nueva Ecija (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Nueva Ecija` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Aliaga",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3111",
+      "punong_bayan": "GILBERT G. MORENO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ERWIN DYAN D. JAVALUYAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bongabon",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3128",
+      "punong_bayan": "RICARDO I. PADILLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTIAN P. BINUYA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Cabanatuan",
+      "uri": "Lungsod",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3100",
+      "punong_bayan": "Myca Elizabeth R. Vergara",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Joselito “Bunso” C. Roque",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Cabiao",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3107",
+      "punong_bayan": "RAMIL B. RIVERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARCELINO M. SIMBILLO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Carranglan",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3123",
+      "punong_bayan": "ROGELIO B. ABAD",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RICARDO C. MANUCDOC",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Cuyapo",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3117",
+      "punong_bayan": "FLORIDA P. ESTEBAN",
+      "kontak_punong_bayan": "(044) 951-5597",
+      "pangalawang_punong_bayan": "CINDERELLA E. RAMOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Gabaldon",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3131",
+      "punong_bayan": "JOBBY P. EMATA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VICTORINO V. SABINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Gapan",
+      "uri": "Lungsod",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3108",
+      "punong_bayan": "Emary Joy D. Pascual",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Max Pascual Howley",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "General Mamerto Natividad",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3125",
+      "punong_bayan": "ANITA M. AROCENA",
+      "kontak_punong_bayan": "(044) 803-3654",
+      "pangalawang_punong_bayan": "SAMSON C. CABERTO III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "General Tinio",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3104",
+      "punong_bayan": "ISIDRO T. PAJARILLAGA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MELVIN S. PASCUAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Guimba",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3115",
+      "punong_bayan": "JESULITO E. GALAPON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DARLENE JAHNE ANTOINETTE N. BELTRAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Jaen",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3109",
+      "punong_bayan": "SYLVIA C. AUSTRIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SYLVESTER C. AUSTRIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Laur",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3129",
+      "punong_bayan": "CHRISTOPHER D. DAUS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BENJAMIN A. PADILLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Licab",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3112",
+      "punong_bayan": "EUFEMIA D. DOMINGO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "OLIVER A. VILLAROMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Llanera",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3126",
+      "punong_bayan": "RONNIE ROY G. PASCUAL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HERMOGENES A. TADIAMAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Lupao",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3122",
+      "punong_bayan": "ALEX ROMMEL V. ROMANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GLENDA P. ROMANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Nampicuan",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3116",
+      "punong_bayan": "VICTOR M. BADAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REMEDIOS T. BADAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Palayan",
+      "uri": "Lungsod",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3116",
+      "punong_bayan": "Viandrei Nicole J. Cuevas",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Romaric S. Capinpin",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Pantabangan",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3124",
+      "punong_bayan": "ROBERTO T. AGDIPA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MONALIZA H. AGDIPA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Peñaranda",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3103",
+      "punong_bayan": "JOSELITO A. RAMOS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FERMIN DC. FRANCISCO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Quezon",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3113",
+      "punong_bayan": "MARIANO CRISTINO N. JOSON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIANO NORIEL M. JOSON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Rizal",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3127",
+      "punong_bayan": "HANNA KATRINA L. ANDRES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LITO ANDRES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "San Antonio",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3108",
+      "punong_bayan": "ARVIN C. SALONGA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JULIETA E. MAXWELL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "San Jose",
+      "uri": "Lungsod",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3120",
+      "punong_bayan": "Josel “James” F. Violago",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Evangel Shalom S. Manugue",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "Science City Of Muñoz",
+      "uri": "Lungsod",
+      "lalawigan": "NUEVA ECIJA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3119",
+      "punong_bayan": "Baby Armi L. Alvarez",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Nestor L. Alvarez",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Nueva Ecija - Libreng download",
+    "description": "Direktoryo ng 25 lungsod at bayan sa lalawigan ng Nueva Ecija (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Nueva Ecija` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 25 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Nueva Ecija | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Nueva Ecija — 25 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 25 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

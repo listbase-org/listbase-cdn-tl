@@ -1,0 +1,292 @@
+{
+  "id": "tl-albay-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Albay",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Albay",
+  "description": "Direktoryo ng 18 lungsod at bayan sa lalawigan ng Albay (Rehiyon ng Bicol (Region V)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Albay` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Bacacay",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4509",
+      "punong_bayan": "EDSEL B. BELLEZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROBERT HECTOR B. ARJONA",
+      "kontak_pangalawang_punong_bayan": "(052) 558-3243"
+    },
+    {
+      "id": 2,
+      "lgu": "Camalig",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4502",
+      "punong_bayan": "CARLOS IRWIN G. BALDO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIA AHRDAIL G. BALDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Daraga",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4501",
+      "punong_bayan": "CARLWYN G. BALDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GERRY RAPHAEL Z. JAUCIAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Guinobatan",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4503",
+      "punong_bayan": "PAUL N. GARCIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANN Y. ONGJOCO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Jovellar",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4515",
+      "punong_bayan": "JOREM L. ARCANGEL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CESAR C. ARELLANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Legazpi",
+      "uri": "Lungsod",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "",
+      "punong_bayan": "ALFREDO A. GARBIN, JR.",
+      "kontak_punong_bayan": "(052) 820-1400",
+      "pangalawang_punong_bayan": "OSCAR ROBERT H. CRISTOBAL",
+      "kontak_pangalawang_punong_bayan": "(052) 742-1678"
+    },
+    {
+      "id": 7,
+      "lgu": "Libon",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4507",
+      "punong_bayan": "WILFREDO V. MARONILLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARKGREGOR EDWARD C. SAYSON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Ligao",
+      "uri": "Lungsod",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "",
+      "punong_bayan": "FERNANDO V. GONZALEZ",
+      "kontak_punong_bayan": "(052) 202-0829; 202-0882",
+      "pangalawang_punong_bayan": "JAYPEE M. DAVID",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Malilipot",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4510",
+      "punong_bayan": "CENON B. VOLANTE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROLANDO B. VOLANTE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Malinao",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4512",
+      "punong_bayan": "SHERYL C. BILO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ABNER E. CARGULLO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Manito",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4514",
+      "punong_bayan": "REBECCA D. CHEN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CARLITO J. BELLUDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Oas",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4505",
+      "punong_bayan": "DOMINGO R. ESCOTO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HECTOR R. LOYOLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Pio Duran",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4516",
+      "punong_bayan": "ALAN R. ARANDIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARVIN THOMAS N. QUIROZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Polangui",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4506",
+      "punong_bayan": "RAYMOND ADRIAN E. SALCEDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHERILIE M. SAMPAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Rapu-Rapu",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4517",
+      "punong_bayan": "DICK A. GALICIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMEL A. GALICIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Santo Domingo",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4508",
+      "punong_bayan": "JOSELING B. AGUAS JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARK B. AGUAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Tabaco",
+      "uri": "Lungsod",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "",
+      "punong_bayan": "CIELO KRISEL B. LAGMAN-LUISTRO",
+      "kontak_punong_bayan": "(052) 732-7527 loc. 3031, 3039",
+      "pangalawang_punong_bayan": "NESTOR T. SAN PABLO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Tiwi",
+      "uri": "Bayan",
+      "lalawigan": "Albay",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4513",
+      "punong_bayan": "JAIME C. VILLANUEVA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSE MOREL C. CLIMACO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Albay - Libreng download",
+    "description": "Direktoryo ng 18 lungsod at bayan sa lalawigan ng Albay (Rehiyon ng Bicol (Region V)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Albay` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 18 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Albay | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Albay — 18 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 18 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

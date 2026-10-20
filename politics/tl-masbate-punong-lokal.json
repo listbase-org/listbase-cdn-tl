@@ -1,0 +1,328 @@
+{
+  "id": "tl-masbate-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Masbate",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Masbate",
+  "description": "Direktoryo ng 21 lungsod at bayan sa lalawigan ng Masbate (Rehiyon ng Bicol (Region V)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Masbate` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Aroroy",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5414",
+      "punong_bayan": "ARTURO B. VIRTUCIO",
+      "kontak_punong_bayan": "(056) 578-6372",
+      "pangalawang_punong_bayan": "VALENTIN C. ALONZO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Baleno",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5413",
+      "punong_bayan": "MARITES C. DELA ROSA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMEO C. DELA ROSA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Balud",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5412",
+      "punong_bayan": "RODOLFO O. ESTRELLA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FELIMON C. ABELITA III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Batuan",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5415",
+      "punong_bayan": "CHARMAX JAN A. YUSON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LALAINE A. YUSON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Cataingan",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5405",
+      "punong_bayan": "FELIPE L. CABATAÑA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "THELMA K. ANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Cawayan",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5409",
+      "punong_bayan": "EDGAR S. CONDOR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ESTER C. BINSOL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Claveria",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5419",
+      "punong_bayan": "FROILAN V. ANDUEZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VICENTE R. SABAULAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Dimasalang",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5403",
+      "punong_bayan": "MICHAEL DEMPH D. NAGA",
+      "kontak_punong_bayan": "(056) 578-2128",
+      "pangalawang_punong_bayan": "WILFREDO D. LIM",
+      "kontak_pangalawang_punong_bayan": "(056) 578-2927"
+    },
+    {
+      "id": 9,
+      "lgu": "Esperanza",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5407",
+      "punong_bayan": "FERNANDO P. TALISIC",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RODOLFO P. PEPITO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Mandaon",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5411",
+      "punong_bayan": "KRISTINE SALVE H. KHO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EMILY E. HAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Masbate",
+      "uri": "Lungsod",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "",
+      "punong_bayan": "SOCRATES M. TUASON",
+      "kontak_punong_bayan": "(056) 582-0781",
+      "pangalawang_punong_bayan": "ROWENA R. TUASON",
+      "kontak_pangalawang_punong_bayan": "(056) 333-6165"
+    },
+    {
+      "id": 12,
+      "lgu": "Milagros",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5410",
+      "punong_bayan": "NATIVIDAD ISABEL R. MAGBALON",
+      "kontak_punong_bayan": "(056) 582-3615; 578-2035",
+      "pangalawang_punong_bayan": "OSCAR P. ALBA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Mobo",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5401",
+      "punong_bayan": "RAYMUND OSMUNDO N. SALVACION",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOHN PAUL J. LIM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Monreal",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5418",
+      "punong_bayan": "GLENDA L. VILLAHERMOSA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JEROME M. DUANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Palanas",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5404",
+      "punong_bayan": "ROSCELLE A. ERAMIZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JONATHAN A. ABENIR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Pio V. CorpuZ",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5406",
+      "punong_bayan": "MARK R. ANTONIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROZABETH M. TAYO",
+      "kontak_pangalawang_punong_bayan": "(056) 528-7655"
+    },
+    {
+      "id": 17,
+      "lgu": "Placer",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5408",
+      "punong_bayan": "EUSEBIO P. DUMORAN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARK A. TENEGRA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "San Fernando",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5416",
+      "punong_bayan": "BYRON ANGELO E. BRAVO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FERNANDO V. MOGUEIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "San Jacinto",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5417",
+      "punong_bayan": "FRANCISCO P. ALTAREJOS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LENY A. ARCENAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "San Pascual",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5420",
+      "punong_bayan": "ZACARINA A. LAZARO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MANUEL F. HERMOSA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Uson",
+      "uri": "Bayan",
+      "lalawigan": "Masbate",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "5402",
+      "punong_bayan": "FELIPE U. SANCHEZ",
+      "kontak_punong_bayan": "(056) 582-5864",
+      "pangalawang_punong_bayan": "SCHEDAR O. SANCHEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Masbate - Libreng download",
+    "description": "Direktoryo ng 21 lungsod at bayan sa lalawigan ng Masbate (Rehiyon ng Bicol (Region V)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Masbate` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 21 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Masbate | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Masbate — 21 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 21 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

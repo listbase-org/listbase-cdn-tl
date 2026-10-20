@@ -1,0 +1,120 @@
+{
+  "id": "tl-biliran-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Biliran",
+  "title": "Mga Bayan ng Lalawigan ng Biliran",
+  "description": "Listahan ng 8 munisipalidad (bayan) sa lalawigan ng Biliran, REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "087801000",
+      "name": "ALMERIA",
+      "province": "BILIRAN",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 16951,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "087802000",
+      "name": "BILIRAN",
+      "province": "BILIRAN",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 16882,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "087803000",
+      "name": "CABUCGAYAN",
+      "province": "BILIRAN",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 20788,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "087804000",
+      "name": "CAIBIRAN",
+      "province": "BILIRAN",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 22524,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "087805000",
+      "name": "CULABA",
+      "province": "BILIRAN",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 12325,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "087806000",
+      "name": "KAWAYAN",
+      "province": "BILIRAN",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 20291,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "087807000",
+      "name": "MARIPIPI",
+      "province": "BILIRAN",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 7159,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "087808000",
+      "name": "NAVAL (Capital)",
+      "province": "BILIRAN",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 54692,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Biliran - Libreng download",
+    "description": "Listahan ng 8 munisipalidad (bayan) sa lalawigan ng Biliran, REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 8 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Biliran | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Biliran — 8 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 8 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

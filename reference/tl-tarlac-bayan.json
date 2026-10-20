@@ -1,0 +1,192 @@
+{
+  "id": "tl-tarlac-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Tarlac",
+  "title": "Mga Bayan ng Lalawigan ng Tarlac",
+  "description": "Listahan ng 17 munisipalidad (bayan) sa lalawigan ng Tarlac, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "036901000",
+      "name": "ANAO",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 11528,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "036902000",
+      "name": "BAMBAN",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 69466,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "036903000",
+      "name": "CAMILING",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 83248,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "036904000",
+      "name": "CAPAS",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 140202,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "036905000",
+      "name": "CONCEPCION",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 154188,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "036906000",
+      "name": "GERONA",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 87531,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "036907000",
+      "name": "LA PAZ",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 64017,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "036908000",
+      "name": "MAYANTOC",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 32232,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "036909000",
+      "name": "MONCADA",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 57787,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "036910000",
+      "name": "PANIQUI",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 92606,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "036911000",
+      "name": "PURA",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 23712,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "036912000",
+      "name": "RAMOS",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 21350,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "036913000",
+      "name": "SAN CLEMENTE",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 12657,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "036918000",
+      "name": "SAN JOSE",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 36253,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "036914000",
+      "name": "SAN MANUEL",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 25504,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "036915000",
+      "name": "SANTA IGNACIA",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 47538,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "036917000",
+      "name": "VICTORIA",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 63715,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Tarlac - Libreng download",
+    "description": "Listahan ng 17 munisipalidad (bayan) sa lalawigan ng Tarlac, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Tarlac | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Tarlac — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

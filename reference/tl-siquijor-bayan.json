@@ -1,0 +1,104 @@
+{
+  "id": "tl-siquijor-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Siquijor",
+  "title": "Mga Bayan ng Lalawigan ng Siquijor",
+  "description": "Listahan ng 6 munisipalidad (bayan) sa lalawigan ng Siquijor, REGION VII (CENTRAL VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "076101000",
+      "name": "ENRIQUE VILLANUEVA",
+      "province": "SIQUIJOR",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 6104,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "076102000",
+      "name": "LARENA",
+      "province": "SIQUIJOR",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 13847,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "076103000",
+      "name": "LAZI",
+      "province": "SIQUIJOR",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 20490,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "076104000",
+      "name": "MARIA",
+      "province": "SIQUIJOR",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 13828,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "076105000",
+      "name": "SAN JUAN",
+      "province": "SIQUIJOR",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 14854,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "076106000",
+      "name": "SIQUIJOR (Capital)",
+      "province": "SIQUIJOR",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 26861,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Siquijor - Libreng download",
+    "description": "Listahan ng 6 munisipalidad (bayan) sa lalawigan ng Siquijor, REGION VII (CENTRAL VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Siquijor | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Siquijor — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

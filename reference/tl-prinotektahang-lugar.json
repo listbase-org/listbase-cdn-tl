@@ -1,0 +1,126 @@
+{
+  "id": "tl-prinotektahang-lugar",
+  "name": "Mga Prinotektahang Lugar ng Pilipinas (Philippine Protected Areas)",
+  "title": "Mga Prinotektahang Lugar ng Pilipinas (Philippine Protected Areas)",
+  "description": "Listahan ng mga prinotektahang lugar (protected areas) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint — mga wildlife sanctuary, prinotektadong tanawin, latian at bahura, hindi kasama ang mga pambansang liwasan (national parks, Q46169) na nasa hiwalay na tl-pambansang-liwasan. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q398765",
+      "name_tl": "Agusan Marsh Wildlife Sanctuary",
+      "name_en": "Agusan Marsh Wildlife Sanctuary",
+      "located_in_at": "",
+      "latitude": 8.3236,
+      "longitude": 125.8917,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q927108",
+      "name_tl": "Bahurang Tubbataha",
+      "name_en": "Tubbataha Reef",
+      "located_in_at": "Palawan",
+      "latitude": 8.953333,
+      "longitude": 119.8675,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Bahurang_Tubbataha"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q5031545",
+      "name_tl": "Latian ng Candaba",
+      "name_en": "Candaba Swamp",
+      "located_in_at": "Candaba",
+      "latitude": 15.1662,
+      "longitude": 120.8519,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Latian_ng_Candaba"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q1936204",
+      "name_tl": "Pambansang Liwasan ng Minalungao",
+      "name_en": "Minalungao National Park",
+      "located_in_at": "Heneral Tinio",
+      "latitude": 15.3073,
+      "longitude": 121.144,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Pambansang_Liwasan_ng_Minalungao"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q18386639",
+      "name_tl": "Protektadong Tanawin ng Casecnan",
+      "name_en": "Casecnan Protected Landscape",
+      "located_in_at": "",
+      "latitude": 16.0331,
+      "longitude": 121.449,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q16250729",
+      "name_tl": "Pulo ng Aliguay",
+      "name_en": "Aliguay Island",
+      "located_in_at": "Aliguay",
+      "latitude": 8.746,
+      "longitude": 123.222,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Prinotektahang Lugar ng Pilipinas (Philippine Protected Areas) - Libreng download",
+    "description": "Listahan ng mga prinotektahang lugar (protected areas) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint — mga wildlife sanctuary, prinotektadong tanawin, latian at bahura, hindi kasama ang mga pambansang liwasan (national parks, Q46169) na nasa hiwalay na tl-pambansang-liwasan. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Prinotektahang Lugar ng Pilipinas (Philippine Protected Areas) | ListBase",
+    "seo_description": "I-download Mga Prinotektahang Lugar ng Pilipinas (Philippine Protected Areas) — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

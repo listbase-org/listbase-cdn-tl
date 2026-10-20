@@ -1,0 +1,176 @@
+{
+  "id": "tl-nueva-vizcaya-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Nueva Vizcaya",
+  "title": "Mga Bayan ng Lalawigan ng Nueva Vizcaya",
+  "description": "Listahan ng 15 munisipalidad (bayan) sa lalawigan ng Nueva Vizcaya, REGION II (CAGAYAN VALLEY), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "025015000",
+      "name": "ALFONSO CASTANEDA",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 7940,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "025001000",
+      "name": "AMBAGUIO",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 15250,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "025002000",
+      "name": "ARITAO",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 37225,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "025003000",
+      "name": "BAGABAG",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 35501,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "025004000",
+      "name": "BAMBANG",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 53433,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "025005000",
+      "name": "BAYOMBONG (Capital)",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 61512,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "025006000",
+      "name": "DIADI",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 18122,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "025007000",
+      "name": "DUPAX DEL NORTE",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 27514,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "025008000",
+      "name": "DUPAX DEL SUR",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 19111,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "025009000",
+      "name": "KASIBU",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 37705,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "025010000",
+      "name": "KAYAPA",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 23714,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "025011000",
+      "name": "QUEZON",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 21056,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "025012000",
+      "name": "SANTA FE",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 16180,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "025013000",
+      "name": "SOLANO",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 59517,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "025014000",
+      "name": "VILLAVERDE",
+      "province": "NUEVA VIZCAYA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 18507,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Nueva Vizcaya - Libreng download",
+    "description": "Listahan ng 15 munisipalidad (bayan) sa lalawigan ng Nueva Vizcaya, REGION II (CAGAYAN VALLEY), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 15 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Nueva Vizcaya | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Nueva Vizcaya — 15 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 15 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

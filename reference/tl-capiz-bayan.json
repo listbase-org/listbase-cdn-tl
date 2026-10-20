@@ -1,0 +1,184 @@
+{
+  "id": "tl-capiz-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Capiz",
+  "title": "Mga Bayan ng Lalawigan ng Capiz",
+  "description": "Listahan ng 16 munisipalidad (bayan) sa lalawigan ng Capiz, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "061901000",
+      "name": "CUARTERO",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 27408,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "061902000",
+      "name": "DAO",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 32496,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "061903000",
+      "name": "DUMALAG",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 29466,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "061904000",
+      "name": "DUMARAO",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 46157,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "061905000",
+      "name": "IVISAN",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 29055,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "061906000",
+      "name": "JAMINDAN",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 36677,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "061907000",
+      "name": "MA-AYON",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 38416,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "061908000",
+      "name": "MAMBUSAO",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 39644,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "061909000",
+      "name": "PANAY",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 46114,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "061910000",
+      "name": "PANITAN",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 40289,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "061911000",
+      "name": "PILAR",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 45287,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "061912000",
+      "name": "PONTEVEDRA",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 46428,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "061913000",
+      "name": "PRESIDENT ROXAS",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 29676,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "061915000",
+      "name": "SAPI-AN",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 25821,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "061916000",
+      "name": "SIGMA",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 30134,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "061917000",
+      "name": "TAPAZ",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 51313,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Capiz - Libreng download",
+    "description": "Listahan ng 16 munisipalidad (bayan) sa lalawigan ng Capiz, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 16 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Capiz | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Capiz — 16 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 16 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

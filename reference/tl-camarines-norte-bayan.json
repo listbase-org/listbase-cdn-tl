@@ -1,0 +1,152 @@
+{
+  "id": "tl-camarines-norte-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Camarines Norte",
+  "title": "Mga Bayan ng Lalawigan ng Camarines Norte",
+  "description": "Listahan ng 12 munisipalidad (bayan) sa lalawigan ng Camarines Norte, REGION V (BICOL REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "051601000",
+      "name": "BASUD",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 41017,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051602000",
+      "name": "CAPALONGA",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 32215,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051603000",
+      "name": "DAET (Capital)",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 104799,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "051605000",
+      "name": "JOSE PANGANIBAN",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 59639,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "051606000",
+      "name": "LABO",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 101082,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "051607000",
+      "name": "MERCEDES",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 50841,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "051608000",
+      "name": "PARACALE",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 59149,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051604000",
+      "name": "SAN LORENZO RUIZ (IMELDA)",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 14063,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "051609000",
+      "name": "SAN VICENTE",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 10396,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "051610000",
+      "name": "SANTA ELENA",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 40786,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "051611000",
+      "name": "TALISAY",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 25841,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "051612000",
+      "name": "VINZONS",
+      "province": "CAMARINES NORTE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 43485,
+      "income_classification": "3rd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Camarines Norte - Libreng download",
+    "description": "Listahan ng 12 munisipalidad (bayan) sa lalawigan ng Camarines Norte, REGION V (BICOL REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 12 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Camarines Norte | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Camarines Norte — 12 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 12 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

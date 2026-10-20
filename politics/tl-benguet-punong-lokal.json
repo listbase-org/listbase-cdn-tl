@@ -1,0 +1,244 @@
+{
+  "id": "tl-benguet-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Benguet",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Benguet",
+  "description": "Direktoryo ng 14 lungsod at bayan sa lalawigan ng Benguet (Rehiyong Administratibo ng Cordillera (CAR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Benguet` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Atok",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2612",
+      "punong_bayan": "FRANKLIN L. SMITH",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANGELITO D. GAL-O SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bakun",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2610",
+      "punong_bayan": "BILL Y. RAYMUNDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FAUSTO T. LABINIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Bokod",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2605",
+      "punong_bayan": "THOMAS K. WALES JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ERIK DONN IGNACIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Buguias",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2607",
+      "punong_bayan": "RUBEN L. TINDA-AN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DIONE E. BAUCAS",
+      "kontak_pangalawang_punong_bayan": "(034) 994-4669"
+    },
+    {
+      "id": 5,
+      "lgu": "Itogon",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2604",
+      "punong_bayan": "BERNARD S. WACLIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DANTE ALAIN XAVIER D. GODIO",
+      "kontak_pangalawang_punong_bayan": "(074) 619-1765"
+    },
+    {
+      "id": 6,
+      "lgu": "Kabayan",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2606",
+      "punong_bayan": "FLORANTE B. BANTALES JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MIKE E. BADIVAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Kapangan",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2613",
+      "punong_bayan": "MANNY E. FERMIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MAYO D. ESLAY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Kibungan",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2611",
+      "punong_bayan": "CESAR M. MOLITAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDWIN G. NITRON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "La Trinidad",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2601",
+      "punong_bayan": "ROMEO K. SALDA",
+      "kontak_punong_bayan": "(074) 422-2601",
+      "pangalawang_punong_bayan": "RODERICK C. AWINGAN",
+      "kontak_pangalawang_punong_bayan": "(074) 422-2736"
+    },
+    {
+      "id": 10,
+      "lgu": "Mankayan",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2608",
+      "punong_bayan": "DARIO S. BANARIO SR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JULIO JOEY C. CULLIAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Sablan",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2614",
+      "punong_bayan": "ALFREDO B. DACUMOS JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARTHUR C. BALDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Tuba",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2603",
+      "punong_bayan": "CLARITA P. SAL-ONGAN",
+      "kontak_punong_bayan": "(074) 447-0064",
+      "pangalawang_punong_bayan": "MARIA L. CARANTES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Tublay",
+      "uri": "Bayan",
+      "lalawigan": "BENGUET PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2615",
+      "punong_bayan": "ARMANDO I. LAURO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JUAN L. ESNARA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Baguio",
+      "uri": "Bayan",
+      "lalawigan": "Benguet",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "",
+      "punong_bayan": "BENJAMIN B. MAGALONG",
+      "kontak_punong_bayan": "(074) 442-7820; 442-3939",
+      "pangalawang_punong_bayan": "FAUSTINO A. OLOWAN",
+      "kontak_pangalawang_punong_bayan": "(074) 442-5495; 444-7331"
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Benguet - Libreng download",
+    "description": "Direktoryo ng 14 lungsod at bayan sa lalawigan ng Benguet (Rehiyong Administratibo ng Cordillera (CAR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Benguet` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 14 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Benguet | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Benguet — 14 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 14 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

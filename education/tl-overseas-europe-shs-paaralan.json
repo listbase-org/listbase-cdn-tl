@@ -1,0 +1,76 @@
+{
+  "id": "tl-overseas-europe-shs-paaralan",
+  "name": "Mga Senior High School - Overseas Schools - Europe",
+  "title": "Mga Senior High School - Overseas Schools - Europe",
+  "description": "Mga Senior High School (SHS) sa Overseas Schools - Europe mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (1 paaralan.)",
+  "category": "education",
+  "source": "https://github.com/nedpals/k12-shs-api",
+  "source_url": "https://github.com/nedpals/k12-shs-api",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "school_id",
+      "label": "School Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "school_name",
+      "label": "School Name",
+      "type": "string"
+    },
+    {
+      "key": "programs",
+      "label": "Programs",
+      "type": "string"
+    },
+    {
+      "key": "tvl_specializations",
+      "label": "Tvl Specializations",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "school_id": "",
+      "region": "Europe",
+      "region_name": "Overseas Schools - Europe",
+      "province": "Greece",
+      "municipality": "Greece",
+      "school_name": "Philippine School in Greece",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Senior High School - Overseas Schools - Europe - Libreng download",
+    "description": "Mga Senior High School (SHS) sa Overseas Schools - Europe mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (1 paaralan.) Naglalaman ng 1 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Senior High School - Overseas Schools - Europe | ListBase",
+    "seo_description": "I-download Mga Senior High School - Overseas Schools - Europe — 1 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 1 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/nedpals/k12-shs-api"
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "tl-batangas-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Batangas",
+  "title": "Mga Bayan ng Lalawigan ng Batangas",
+  "description": "Listahan ng 31 munisipalidad (bayan) sa lalawigan ng Batangas, REGION IV-A (CALABARZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "041001000",
+      "name": "AGONCILLO",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 38059,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "041002000",
+      "name": "ALITAGTAG",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 25300,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "041003000",
+      "name": "BALAYAN",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 90699,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041004000",
+      "name": "BALETE",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 22661,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "041006000",
+      "name": "BAUAN",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 91297,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041007000",
+      "name": "CALACA",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 81859,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041008000",
+      "name": "CALATAGAN",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 56449,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "041009000",
+      "name": "CUENCA",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 32783,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "041010000",
+      "name": "IBAAN",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 52970,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "041011000",
+      "name": "LAUREL",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 39444,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "041012000",
+      "name": "LEMERY",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 93157,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041013000",
+      "name": "LIAN",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 52660,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "041015000",
+      "name": "LOBO",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 41504,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "041016000",
+      "name": "MABINI",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 46211,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041017000",
+      "name": "MALVAR",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 56270,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "041018000",
+      "name": "MATAASNAKAHOY",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 29187,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "041019000",
+      "name": "NASUGBU",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 134113,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041020000",
+      "name": "PADRE GARCIA",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 48302,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "041021000",
+      "name": "ROSARIO",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 116764,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041022000",
+      "name": "SAN JOSE",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 76971,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041023000",
+      "name": "SAN JUAN",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 108585,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041024000",
+      "name": "SAN LUIS",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 33149,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "041025000",
+      "name": "SAN NICOLAS",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 22623,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "041026000",
+      "name": "SAN PASCUAL",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 65424,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041027000",
+      "name": "SANTA TERESITA",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 21127,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "041028000",
+      "name": "SANTO TOMAS",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 179844,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "041029000",
+      "name": "TAAL",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 56327,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "041030000",
+      "name": "TALISAY",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 45301,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "041032000",
+      "name": "TAYSAN",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 38007,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "041033000",
+      "name": "TINGLOY",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 17919,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "041034000",
+      "name": "TUY",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 43743,
+      "income_classification": "3rd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Batangas - Libreng download",
+    "description": "Listahan ng 31 munisipalidad (bayan) sa lalawigan ng Batangas, REGION IV-A (CALABARZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 31 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Batangas | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Batangas — 31 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 31 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

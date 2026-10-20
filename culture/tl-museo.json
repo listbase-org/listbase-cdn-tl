@@ -1,0 +1,1744 @@
+{
+  "id": "tl-museo",
+  "name": "Mga museo sa Pilipinas (Museums in the Philippines)",
+  "title": "Mga museo sa Pilipinas (Museums in the Philippines)",
+  "description": "Listahan ng 187 museo sa Pilipinas mula sa OpenStreetMap — pangalan, lungsod, koordinado at website.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 187,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "8 Anchors",
+      "name_en": "",
+      "city": "Bulihan",
+      "country": "Philippines",
+      "latitude": 14.28478,
+      "longitude": 120.983551,
+      "website": ""
+    },
+    {
+      "name": "Adasa Ancestral House",
+      "name_en": "",
+      "city": "Dapitan",
+      "country": "Philippines",
+      "latitude": 8.656835,
+      "longitude": 123.424369,
+      "website": ""
+    },
+    {
+      "name": "Agreda Funeral Services",
+      "name_en": "",
+      "city": "Quezon",
+      "country": "Philippines",
+      "latitude": 7.735054,
+      "longitude": 125.096004,
+      "website": ""
+    },
+    {
+      "name": "Angel Funeral Homes",
+      "name_en": "",
+      "city": "Santa Cruz",
+      "country": "Philippines",
+      "latitude": 6.845869,
+      "longitude": 125.413595,
+      "website": ""
+    },
+    {
+      "name": "Angel Funeral Homes",
+      "name_en": "",
+      "city": "Bansalan",
+      "country": "Philippines",
+      "latitude": 6.775375,
+      "longitude": 125.217788,
+      "website": ""
+    },
+    {
+      "name": "Angel Funeral Homes",
+      "name_en": "",
+      "city": "Montevista",
+      "country": "Philippines",
+      "latitude": 7.714344,
+      "longitude": 125.990613,
+      "website": ""
+    },
+    {
+      "name": "Angel Funeral Homes",
+      "name_en": "",
+      "city": "Compostela",
+      "country": "Philippines",
+      "latitude": 7.669835,
+      "longitude": 126.079729,
+      "website": ""
+    },
+    {
+      "name": "Angel Funeral Homes",
+      "name_en": "",
+      "city": "Digos",
+      "country": "Philippines",
+      "latitude": 6.742554,
+      "longitude": 125.354762,
+      "website": ""
+    },
+    {
+      "name": "Angel Spirit Funeral Home",
+      "name_en": "",
+      "city": "Matangad",
+      "country": "Philippines",
+      "latitude": 8.585602,
+      "longitude": 124.380483,
+      "website": ""
+    },
+    {
+      "name": "Archaelogical Museum",
+      "name_en": "",
+      "city": "Naga",
+      "country": "Philippines",
+      "latitude": 13.628188,
+      "longitude": 123.186284,
+      "website": ""
+    },
+    {
+      "name": "Armed Forces Museum of the Province of Tarlac",
+      "name_en": "",
+      "city": "San Miguel",
+      "country": "Philippines",
+      "latitude": 15.435248,
+      "longitude": 120.598529,
+      "website": ""
+    },
+    {
+      "name": "Arsenio Lopez Ancestral House",
+      "name_en": "",
+      "city": "Binonga",
+      "country": "Philippines",
+      "latitude": 10.798912,
+      "longitude": 122.977103,
+      "website": ""
+    },
+    {
+      "name": "Atiatihan Municipal Library & Museum",
+      "name_en": "",
+      "city": "Kalibo (poblacion)",
+      "country": "Philippines",
+      "latitude": 11.708788,
+      "longitude": 122.362883,
+      "website": ""
+    },
+    {
+      "name": "Ayala Museum",
+      "name_en": "",
+      "city": "Makati City",
+      "country": "Philippines",
+      "latitude": 14.553583,
+      "longitude": 121.023245,
+      "website": ""
+    },
+    {
+      "name": "Baclayon Museum",
+      "name_en": "",
+      "city": "Baclayon",
+      "country": "Philippines",
+      "latitude": 9.622912,
+      "longitude": 123.912565,
+      "website": ""
+    },
+    {
+      "name": "Balay Negrense",
+      "name_en": "",
+      "city": "Binonga",
+      "country": "Philippines",
+      "latitude": 10.799975,
+      "longitude": 122.973122,
+      "website": ""
+    },
+    {
+      "name": "Balay ni Tana Dikang",
+      "name_en": "",
+      "city": "Talisay",
+      "country": "Philippines",
+      "latitude": 10.735728,
+      "longitude": 122.965576,
+      "website": ""
+    },
+    {
+      "name": "Bale Herencia",
+      "name_en": "",
+      "city": "Angeles City",
+      "country": "Philippines",
+      "latitude": 15.133534,
+      "longitude": 120.592071,
+      "website": ""
+    },
+    {
+      "name": "Barasoain Museum",
+      "name_en": "",
+      "city": "Malolos",
+      "country": "Philippines",
+      "latitude": 14.846566,
+      "longitude": 120.81266,
+      "website": ""
+    },
+    {
+      "name": "Ben Cab Museum",
+      "name_en": "",
+      "city": "Tuba",
+      "country": "Philippines",
+      "latitude": 16.411093,
+      "longitude": 120.549628,
+      "website": ""
+    },
+    {
+      "name": "Benguet Provincial Capitol Museum",
+      "name_en": "",
+      "city": "La Trinidad",
+      "country": "Philippines",
+      "latitude": 16.46245,
+      "longitude": 120.587206,
+      "website": ""
+    },
+    {
+      "name": "Binmaley Museum",
+      "name_en": "",
+      "city": "Binmaley",
+      "country": "Philippines",
+      "latitude": 16.028901,
+      "longitude": 120.269091,
+      "website": ""
+    },
+    {
+      "name": "Birth Place of Dr. Pio Valenzuela",
+      "name_en": "",
+      "city": "Obando",
+      "country": "Philippines",
+      "latitude": 14.708558,
+      "longitude": 120.945085,
+      "website": ""
+    },
+    {
+      "name": "Bohol Museum",
+      "name_en": "",
+      "city": "Totolan",
+      "country": "Philippines",
+      "latitude": 9.640533,
+      "longitude": 123.856218,
+      "website": ""
+    },
+    {
+      "name": "Bolinao Museum",
+      "name_en": "",
+      "city": "Bolinao",
+      "country": "Philippines",
+      "latitude": 16.383127,
+      "longitude": 119.893683,
+      "website": ""
+    },
+    {
+      "name": "Bonifacio Trial House",
+      "name_en": "",
+      "city": "Maragondon",
+      "country": "Philippines",
+      "latitude": 14.274246,
+      "longitude": 120.736979,
+      "website": ""
+    },
+    {
+      "name": "Book Museum",
+      "name_en": "",
+      "city": "Calumpang",
+      "country": "Philippines",
+      "latitude": 14.650675,
+      "longitude": 121.119541,
+      "website": ""
+    },
+    {
+      "name": "BPI Museum Cebu",
+      "name_en": "",
+      "city": "Calero",
+      "country": "Philippines",
+      "latitude": 10.293558,
+      "longitude": 123.902501,
+      "website": ""
+    },
+    {
+      "name": "Brgy. Abag Outpost",
+      "name_en": "",
+      "city": "Dapitan",
+      "country": "Philippines",
+      "latitude": 10.279938,
+      "longitude": 123.94448,
+      "website": ""
+    },
+    {
+      "name": "BRIDGE",
+      "name_en": "",
+      "city": "Guadalupe",
+      "country": "Philippines",
+      "latitude": 10.47884,
+      "longitude": 123.400383,
+      "website": ""
+    },
+    {
+      "name": "Bulwagan ng Dangal",
+      "name_en": "",
+      "city": "Quezon City",
+      "country": "Philippines",
+      "latitude": 14.654604,
+      "longitude": 121.071077,
+      "website": ""
+    },
+    {
+      "name": "Bulwagan ng Katarungan",
+      "name_en": "",
+      "city": "Iba",
+      "country": "Philippines",
+      "latitude": 15.312832,
+      "longitude": 119.99657,
+      "website": ""
+    },
+    {
+      "name": "Cagayan de Oro City Museum",
+      "name_en": "",
+      "city": "Cagayan de Oro",
+      "country": "Philippines",
+      "latitude": 8.474758,
+      "longitude": 124.642127,
+      "website": ""
+    },
+    {
+      "name": "Camarín de la Virgen",
+      "name_en": "",
+      "city": "San Juan",
+      "country": "Philippines",
+      "latitude": 14.581768,
+      "longitude": 121.013751,
+      "website": ""
+    },
+    {
+      "name": "Carlos Javelosa Jalandoni Ancestral House",
+      "name_en": "",
+      "city": "Binonga",
+      "country": "Philippines",
+      "latitude": 10.801836,
+      "longitude": 122.97436,
+      "website": ""
+    },
+    {
+      "name": "Casa Gorordo",
+      "name_en": "",
+      "city": "Baugo",
+      "country": "Philippines",
+      "latitude": 10.299863,
+      "longitude": 123.90498,
+      "website": ""
+    },
+    {
+      "name": "Casa Grande (General Aniceto Lacson Ancestral House)",
+      "name_en": "",
+      "city": "Talisay",
+      "country": "Philippines",
+      "latitude": 10.724785,
+      "longitude": 122.969639,
+      "website": ""
+    },
+    {
+      "name": "Casa Manila Museum",
+      "name_en": "",
+      "city": "Port Area",
+      "country": "Philippines",
+      "latitude": 14.589703,
+      "longitude": 120.975263,
+      "website": ""
+    },
+    {
+      "name": "Cata-al WW2 Museum",
+      "name_en": "",
+      "city": "Valencia",
+      "country": "Philippines",
+      "latitude": 9.28361,
+      "longitude": 123.246795,
+      "website": ""
+    },
+    {
+      "name": "Cebu Happyworld Museum",
+      "name_en": "",
+      "city": "Gabi",
+      "country": "Philippines",
+      "latitude": 10.261333,
+      "longitude": 123.959218,
+      "website": ""
+    },
+    {
+      "name": "Center for Kapangpangan",
+      "name_en": "",
+      "city": "Angeles City",
+      "country": "Philippines",
+      "latitude": 15.133148,
+      "longitude": 120.58982,
+      "website": ""
+    },
+    {
+      "name": "City of Bogo Museum",
+      "name_en": "",
+      "city": "Bogo",
+      "country": "Philippines",
+      "latitude": 11.051205,
+      "longitude": 124.003378,
+      "website": ""
+    },
+    {
+      "name": "Clarin Ancestral House and Museum",
+      "name_en": "",
+      "city": "Loay",
+      "country": "Philippines",
+      "latitude": 9.600174,
+      "longitude": 124.011047,
+      "website": ""
+    },
+    {
+      "name": "Clark Museum",
+      "name_en": "",
+      "city": "Santol",
+      "country": "Philippines",
+      "latitude": 15.18218,
+      "longitude": 120.5269,
+      "website": ""
+    },
+    {
+      "name": "Club House",
+      "name_en": "",
+      "city": "Bulaon",
+      "country": "Philippines",
+      "latitude": 15.083992,
+      "longitude": 120.646316,
+      "website": ""
+    },
+    {
+      "name": "Club House",
+      "name_en": "",
+      "city": "Bulaon",
+      "country": "Philippines",
+      "latitude": 15.069395,
+      "longitude": 120.644213,
+      "website": ""
+    },
+    {
+      "name": "Collado Funeral Homes",
+      "name_en": "",
+      "city": "Kidapawan",
+      "country": "Philippines",
+      "latitude": 7.015308,
+      "longitude": 125.091955,
+      "website": ""
+    },
+    {
+      "name": "Collado Memorial Chapel",
+      "name_en": "",
+      "city": "Digos",
+      "country": "Philippines",
+      "latitude": 6.758219,
+      "longitude": 125.350917,
+      "website": ""
+    },
+    {
+      "name": "Culasi Museum & Library",
+      "name_en": "",
+      "city": "Culasi",
+      "country": "Philippines",
+      "latitude": 11.42625,
+      "longitude": 122.055133,
+      "website": ""
+    },
+    {
+      "name": "Dambana ng Kagitingan Museum",
+      "name_en": "",
+      "city": "Parang",
+      "country": "Philippines",
+      "latitude": 14.605658,
+      "longitude": 120.509681,
+      "website": ""
+    },
+    {
+      "name": "Davao City Museum",
+      "name_en": "",
+      "city": "Davao",
+      "country": "Philippines",
+      "latitude": 7.063012,
+      "longitude": 125.609268,
+      "website": ""
+    },
+    {
+      "name": "Davao Oriental Provincial Museum",
+      "name_en": "",
+      "city": "Mati",
+      "country": "Philippines",
+      "latitude": 6.94446,
+      "longitude": 126.248405,
+      "website": ""
+    },
+    {
+      "name": "Dept. Agrarian Reform Provincial Office",
+      "name_en": "",
+      "city": "Iba",
+      "country": "Philippines",
+      "latitude": 15.313618,
+      "longitude": 119.997219,
+      "website": ""
+    },
+    {
+      "name": "Dept. of Trade Industry",
+      "name_en": "",
+      "city": "Angeles City",
+      "country": "Philippines",
+      "latitude": 15.134237,
+      "longitude": 120.587375,
+      "website": ""
+    },
+    {
+      "name": "Dept. Public Works Highway",
+      "name_en": "",
+      "city": "Iba",
+      "country": "Philippines",
+      "latitude": 15.312061,
+      "longitude": 119.995545,
+      "website": ""
+    },
+    {
+      "name": "Destiny Funeral Homes",
+      "name_en": "",
+      "city": "Sinonoc",
+      "country": "Philippines",
+      "latitude": 8.321528,
+      "longitude": 123.85029,
+      "website": ""
+    },
+    {
+      "name": "Divine Shepherd Memorial Chapels",
+      "name_en": "",
+      "city": "Barra",
+      "country": "Philippines",
+      "latitude": 8.503874,
+      "longitude": 124.610081,
+      "website": ""
+    },
+    {
+      "name": "Dizon-Ramos Museum",
+      "name_en": "",
+      "city": "Bacolod City",
+      "country": "Philippines",
+      "latitude": 10.670995,
+      "longitude": 122.951677,
+      "website": ""
+    },
+    {
+      "name": "Doll Museum",
+      "name_en": "",
+      "city": "Calumpang",
+      "country": "Philippines",
+      "latitude": 14.634815,
+      "longitude": 121.099237,
+      "website": ""
+    },
+    {
+      "name": "Dr. Yen's Museum",
+      "name_en": "",
+      "city": "Biga",
+      "country": "Philippines",
+      "latitude": 14.261287,
+      "longitude": 120.976807,
+      "website": ""
+    },
+    {
+      "name": "Eastern Samar Kapitulyu",
+      "name_en": "",
+      "city": "Borongan",
+      "country": "Philippines",
+      "latitude": 11.603231,
+      "longitude": 125.437551,
+      "website": ""
+    },
+    {
+      "name": "Ecclesiastical Museum",
+      "name_en": "",
+      "city": "Malolos",
+      "country": "Philippines",
+      "latitude": 14.846527,
+      "longitude": 120.812645,
+      "website": ""
+    },
+    {
+      "name": "Encarnation Heritage Home",
+      "name_en": "",
+      "city": "Guagua",
+      "country": "Philippines",
+      "latitude": 14.960789,
+      "longitude": 120.63185,
+      "website": ""
+    },
+    {
+      "name": "Enriquez Homes",
+      "name_en": "",
+      "city": "Villasis",
+      "country": "Philippines",
+      "latitude": 15.896322,
+      "longitude": 120.591189,
+      "website": ""
+    },
+    {
+      "name": "Espartero Ancestral House",
+      "name_en": "",
+      "city": "Bayawan",
+      "country": "Philippines",
+      "latitude": 9.367678,
+      "longitude": 122.802943,
+      "website": ""
+    },
+    {
+      "name": "Esperanza Funeral Homes",
+      "name_en": "",
+      "city": "Santa Cruz",
+      "country": "Philippines",
+      "latitude": 6.83684,
+      "longitude": 125.416619,
+      "website": ""
+    },
+    {
+      "name": "Fantonial Funeral Homes",
+      "name_en": "",
+      "city": "Kidapawan",
+      "country": "Philippines",
+      "latitude": 7.024245,
+      "longitude": 125.085091,
+      "website": ""
+    },
+    {
+      "name": "FICCO Funeral Homes",
+      "name_en": "",
+      "city": "Valencia",
+      "country": "Philippines",
+      "latitude": 7.892953,
+      "longitude": 125.073406,
+      "website": ""
+    },
+    {
+      "name": "Filipino War Memorial",
+      "name_en": "",
+      "city": "Cabcaben",
+      "country": "Philippines",
+      "latitude": 14.389232,
+      "longitude": 120.599651,
+      "website": ""
+    },
+    {
+      "name": "First Mass Gallery",
+      "name_en": "",
+      "city": "Padre Burgos",
+      "country": "Philippines",
+      "latitude": 9.907779,
+      "longitude": 125.074891,
+      "website": ""
+    },
+    {
+      "name": "Fonus Cotabato Funeral Home",
+      "name_en": "",
+      "city": "Kidapawan",
+      "country": "Philippines",
+      "latitude": 7.024997,
+      "longitude": 125.077918,
+      "website": ""
+    },
+    {
+      "name": "Franciscan Missionaries of Sacred Heart",
+      "name_en": "",
+      "city": "Calbayog City",
+      "country": "Philippines",
+      "latitude": 12.067274,
+      "longitude": 124.595028,
+      "website": ""
+    },
+    {
+      "name": "Galleria Taal",
+      "name_en": "",
+      "city": "Taal",
+      "country": "Philippines",
+      "latitude": 13.879413,
+      "longitude": 120.919969,
+      "website": ""
+    },
+    {
+      "name": "Gamalinda - Hamoy Funeral House",
+      "name_en": "",
+      "city": "Dapitan",
+      "country": "Philippines",
+      "latitude": 8.644913,
+      "longitude": 123.420172,
+      "website": ""
+    },
+    {
+      "name": "Ganduyan Museum",
+      "name_en": "",
+      "city": "Sagada",
+      "country": "Philippines",
+      "latitude": 17.084663,
+      "longitude": 120.900566,
+      "website": ""
+    },
+    {
+      "name": "Gateway Business Park Museum",
+      "name_en": "",
+      "city": "Javalera",
+      "country": "Philippines",
+      "latitude": 14.264643,
+      "longitude": 120.918929,
+      "website": ""
+    },
+    {
+      "name": "Gen Luna Gallery",
+      "name_en": "",
+      "city": "Davao",
+      "country": "Philippines",
+      "latitude": 7.086054,
+      "longitude": 125.608971,
+      "website": ""
+    },
+    {
+      "name": "German Gaston Ancestral House",
+      "name_en": "",
+      "city": "Binonga",
+      "country": "Philippines",
+      "latitude": 10.802886,
+      "longitude": 122.975595,
+      "website": ""
+    },
+    {
+      "name": "German Locsin Ancestral House",
+      "name_en": "",
+      "city": "Binonga",
+      "country": "Philippines",
+      "latitude": 10.79901,
+      "longitude": 122.976895,
+      "website": ""
+    },
+    {
+      "name": "Girl Scout of the Philippines",
+      "name_en": "",
+      "city": "San Fernando",
+      "country": "Philippines",
+      "latitude": 15.023656,
+      "longitude": 120.686207,
+      "website": ""
+    },
+    {
+      "name": "Gonzales Memorial Homes",
+      "name_en": "",
+      "city": "Villasis",
+      "country": "Philippines",
+      "latitude": 15.902352,
+      "longitude": 120.587018,
+      "website": ""
+    },
+    {
+      "name": "Good Samaritan Funeral Homes",
+      "name_en": "",
+      "city": "Kolambugan",
+      "country": "Philippines",
+      "latitude": 8.114399,
+      "longitude": 123.900817,
+      "website": ""
+    },
+    {
+      "name": "Green House",
+      "name_en": "",
+      "city": "Binonga",
+      "country": "Philippines",
+      "latitude": 10.801445,
+      "longitude": 122.974842,
+      "website": ""
+    },
+    {
+      "name": "Gregoria M. Rivera Memorial Library & Museum",
+      "name_en": "",
+      "city": "Vigan",
+      "country": "Philippines",
+      "latitude": 17.574965,
+      "longitude": 120.386783,
+      "website": ""
+    },
+    {
+      "name": "GSIS Museum",
+      "name_en": "",
+      "city": "Port Area",
+      "country": "Philippines",
+      "latitude": 14.547449,
+      "longitude": 120.984383,
+      "website": ""
+    },
+    {
+      "name": "Guiguinto Municipal Hall",
+      "name_en": "",
+      "city": "Guiguinto",
+      "country": "Philippines",
+      "latitude": 14.827774,
+      "longitude": 120.878851,
+      "website": ""
+    },
+    {
+      "name": "Heaven's Gate Cemetery",
+      "name_en": "",
+      "city": "Antipolo",
+      "country": "Philippines",
+      "latitude": 14.624721,
+      "longitude": 121.146846,
+      "website": ""
+    },
+    {
+      "name": "Hiyas ng Bulacan Museum",
+      "name_en": "",
+      "city": "Malolos",
+      "country": "Philippines",
+      "latitude": 14.855095,
+      "longitude": 120.814726,
+      "website": ""
+    },
+    {
+      "name": "Iglesia Ni Cristo Museum and Gallery",
+      "name_en": "",
+      "city": "Quezon City",
+      "country": "Philippines",
+      "latitude": 14.662991,
+      "longitude": 121.066003,
+      "website": ""
+    },
+    {
+      "name": "Intramuros & Rizal's Light & Sound Museum",
+      "name_en": "",
+      "city": "Port Area",
+      "country": "Philippines",
+      "latitude": 14.586707,
+      "longitude": 120.975325,
+      "website": ""
+    },
+    {
+      "name": "JD Rivera Funeral Homes",
+      "name_en": "",
+      "city": "Mambago",
+      "country": "Philippines",
+      "latitude": 7.099179,
+      "longitude": 125.708024,
+      "website": ""
+    },
+    {
+      "name": "JM Square",
+      "name_en": "",
+      "city": "Santa Maria",
+      "country": "Philippines",
+      "latitude": 14.821087,
+      "longitude": 120.962703,
+      "website": ""
+    },
+    {
+      "name": "Jose Ledesma Ancestral House",
+      "name_en": "",
+      "city": "Binonga",
+      "country": "Philippines",
+      "latitude": 10.798276,
+      "longitude": 122.974085,
+      "website": ""
+    },
+    {
+      "name": "Labajo Funeral Homes",
+      "name_en": "",
+      "city": "Manikling",
+      "country": "Philippines",
+      "latitude": 6.880843,
+      "longitude": 126.101738,
+      "website": ""
+    },
+    {
+      "name": "Laguda Funeral Homes",
+      "name_en": "",
+      "city": "Mambusao",
+      "country": "Philippines",
+      "latitude": 11.428996,
+      "longitude": 122.599914,
+      "website": ""
+    },
+    {
+      "name": "Lake Shore Guard House",
+      "name_en": "",
+      "city": "Malino",
+      "country": "Philippines",
+      "latitude": 15.10964,
+      "longitude": 120.662335,
+      "website": ""
+    },
+    {
+      "name": "Leonardo Da Vinci Mausoleo",
+      "name_en": "",
+      "city": "Calbayog City",
+      "country": "Philippines",
+      "latitude": 12.066496,
+      "longitude": 124.594739,
+      "website": ""
+    },
+    {
+      "name": "Lizares Mansion",
+      "name_en": "",
+      "city": "Talisay",
+      "country": "Philippines",
+      "latitude": 10.738121,
+      "longitude": 122.966518,
+      "website": ""
+    },
+    {
+      "name": "Lopez Memorial Museum and Library",
+      "name_en": "",
+      "city": "Pasig City",
+      "country": "Philippines",
+      "latitude": 14.582565,
+      "longitude": 121.062793,
+      "website": "http://www.lopez-museum.org/"
+    },
+    {
+      "name": "Loreta Razon Heritage",
+      "name_en": "",
+      "city": "Guagua",
+      "country": "Philippines",
+      "latitude": 14.961816,
+      "longitude": 120.630818,
+      "website": ""
+    },
+    {
+      "name": "Los Baños Museum",
+      "name_en": "",
+      "city": "Los Baños",
+      "country": "Philippines",
+      "latitude": 14.181837,
+      "longitude": 121.224512,
+      "website": ""
+    },
+    {
+      "name": "M. L. Descallar Funeral Home",
+      "name_en": "",
+      "city": "Sapang Dalaga",
+      "country": "Philippines",
+      "latitude": 8.518201,
+      "longitude": 123.543368,
+      "website": ""
+    },
+    {
+      "name": "Mansion El Arioch",
+      "name_en": "",
+      "city": "Imus",
+      "country": "Philippines",
+      "latitude": 14.407537,
+      "longitude": 120.937007,
+      "website": ""
+    },
+    {
+      "name": "Marinduque Museum",
+      "name_en": "",
+      "city": "Boac",
+      "country": "Philippines",
+      "latitude": 13.447698,
+      "longitude": 121.839989,
+      "website": ""
+    },
+    {
+      "name": "Maturan Memorial Home",
+      "name_en": "",
+      "city": "Oroquieta",
+      "country": "Philippines",
+      "latitude": 8.47352,
+      "longitude": 123.806512,
+      "website": ""
+    },
+    {
+      "name": "Meralco Museum",
+      "name_en": "",
+      "city": "Pasig City",
+      "country": "Philippines",
+      "latitude": 14.589443,
+      "longitude": 121.065995,
+      "website": ""
+    },
+    {
+      "name": "Montano Funeral Homes",
+      "name_en": "",
+      "city": "Babak",
+      "country": "Philippines",
+      "latitude": 7.131917,
+      "longitude": 125.696677,
+      "website": ""
+    },
+    {
+      "name": "Museo de Catanduanes",
+      "name_en": "",
+      "city": "Virac",
+      "country": "Philippines",
+      "latitude": 13.584565,
+      "longitude": 124.235132,
+      "website": ""
+    },
+    {
+      "name": "Museo de La Salle",
+      "name_en": "",
+      "city": "Bacolod City",
+      "country": "Philippines",
+      "latitude": 10.678904,
+      "longitude": 122.96177,
+      "website": ""
+    },
+    {
+      "name": "Museo de Loboc",
+      "name_en": "",
+      "city": "Loboc",
+      "country": "Philippines",
+      "latitude": 9.636041,
+      "longitude": 124.031031,
+      "website": ""
+    },
+    {
+      "name": "Museo de Oro",
+      "name_en": "",
+      "city": "Cagayan de Oro",
+      "country": "Philippines",
+      "latitude": 8.475826,
+      "longitude": 124.645938,
+      "website": ""
+    },
+    {
+      "name": "Museo de San Pablo",
+      "name_en": "",
+      "city": "San Pablo",
+      "country": "Philippines",
+      "latitude": 14.074538,
+      "longitude": 121.324922,
+      "website": ""
+    },
+    {
+      "name": "Museo Franciscano",
+      "name_en": "",
+      "city": "Del Monte",
+      "country": "Philippines",
+      "latitude": 14.636707,
+      "longitude": 121.012498,
+      "website": ""
+    },
+    {
+      "name": "Museo Iloko",
+      "name_en": "",
+      "city": "Agoo",
+      "country": "Philippines",
+      "latitude": 16.323359,
+      "longitude": 120.366883,
+      "website": ""
+    },
+    {
+      "name": "Museum of a History of Ideas",
+      "name_en": "",
+      "city": "Port Area",
+      "country": "Philippines",
+      "latitude": 14.578651,
+      "longitude": 120.984282,
+      "website": ""
+    },
+    {
+      "name": "Museum of philippine History",
+      "name_en": "",
+      "city": "Baugo",
+      "country": "Philippines",
+      "latitude": 10.30398,
+      "longitude": 123.906702,
+      "website": ""
+    },
+    {
+      "name": "Museum Sugbo",
+      "name_en": "",
+      "city": "Baugo",
+      "country": "Philippines",
+      "latitude": 10.303778,
+      "longitude": 123.906435,
+      "website": ""
+    },
+    {
+      "name": "Naomis Bottle Museum",
+      "name_en": "",
+      "city": "Basdiot",
+      "country": "Philippines",
+      "latitude": 9.950352,
+      "longitude": 123.366889,
+      "website": ""
+    },
+    {
+      "name": "National Food Authority",
+      "name_en": "",
+      "city": "Iba",
+      "country": "Philippines",
+      "latitude": 15.314166,
+      "longitude": 119.996135,
+      "website": ""
+    },
+    {
+      "name": "National Museum",
+      "name_en": "",
+      "city": "Baugo",
+      "country": "Philippines",
+      "latitude": 10.303763,
+      "longitude": 123.906761,
+      "website": ""
+    },
+    {
+      "name": "National Museum Balangay Shrine",
+      "name_en": "",
+      "city": "Libertad",
+      "country": "Philippines",
+      "latitude": 8.954057,
+      "longitude": 125.496294,
+      "website": ""
+    },
+    {
+      "name": "Nido Fortified Science Discovery Center",
+      "name_en": "",
+      "city": "Port Area",
+      "country": "Philippines",
+      "latitude": 14.533627,
+      "longitude": 120.980765,
+      "website": ""
+    },
+    {
+      "name": "Old Municipal Hall",
+      "name_en": "",
+      "city": "Balilihan",
+      "country": "Philippines",
+      "latitude": 9.754946,
+      "longitude": 123.971814,
+      "website": ""
+    },
+    {
+      "name": "Our Lady of Lourdes Funeral Homes",
+      "name_en": "",
+      "city": "Dapitan",
+      "country": "Philippines",
+      "latitude": 8.631829,
+      "longitude": 123.409869,
+      "website": ""
+    },
+    {
+      "name": "P.M.A. Museum",
+      "name_en": "",
+      "city": "Tuding",
+      "country": "Philippines",
+      "latitude": 16.361306,
+      "longitude": 120.62048,
+      "website": ""
+    },
+    {
+      "name": "Padilla Funeral Homes",
+      "name_en": "",
+      "city": "Tagum",
+      "country": "Philippines",
+      "latitude": 7.441401,
+      "longitude": 125.805213,
+      "website": ""
+    },
+    {
+      "name": "Paete Cultural Center",
+      "name_en": "",
+      "city": "Paete",
+      "country": "Philippines",
+      "latitude": 14.358014,
+      "longitude": 121.484738,
+      "website": ""
+    },
+    {
+      "name": "Palawan Museum",
+      "name_en": "",
+      "city": "Puerto Princesa",
+      "country": "Philippines",
+      "latitude": 9.739682,
+      "longitude": 118.737016,
+      "website": ""
+    },
+    {
+      "name": "Panabo Funeraria",
+      "name_en": "",
+      "city": "Lasang",
+      "country": "Philippines",
+      "latitude": 7.268546,
+      "longitude": 125.666928,
+      "website": ""
+    },
+    {
+      "name": "Panlilio Heritage Home",
+      "name_en": "",
+      "city": "Pias",
+      "country": "Philippines",
+      "latitude": 15.016745,
+      "longitude": 120.579642,
+      "website": ""
+    },
+    {
+      "name": "Paskuhan Village",
+      "name_en": "",
+      "city": "Del Pilar",
+      "country": "Philippines",
+      "latitude": 15.050378,
+      "longitude": 120.692659,
+      "website": ""
+    },
+    {
+      "name": "Pearl Farm Resort Conference Hall",
+      "name_en": "",
+      "city": "Kaputian",
+      "country": "Philippines",
+      "latitude": 7.006988,
+      "longitude": 125.726791,
+      "website": ""
+    },
+    {
+      "name": "Presentation of Mary Information Center",
+      "name_en": "",
+      "city": "Davao",
+      "country": "Philippines",
+      "latitude": 7.063612,
+      "longitude": 125.553109,
+      "website": ""
+    },
+    {
+      "name": "Presidential Museum and Library",
+      "name_en": "",
+      "city": "Quiapo",
+      "country": "Philippines",
+      "latitude": 14.594551,
+      "longitude": 120.994602,
+      "website": "http://www.malacanang.gov.ph"
+    },
+    {
+      "name": "Quezon City Memorial Shrine Museum",
+      "name_en": "",
+      "city": "Quezon City",
+      "country": "Philippines",
+      "latitude": 14.650808,
+      "longitude": 121.048252,
+      "website": ""
+    },
+    {
+      "name": "Ramon Magsaysay Heritage house",
+      "name_en": "",
+      "city": "Castillejos",
+      "country": "Philippines",
+      "latitude": 14.937465,
+      "longitude": 120.196171,
+      "website": ""
+    },
+    {
+      "name": "Riceworld",
+      "name_en": "",
+      "city": "Masaya",
+      "country": "Philippines",
+      "latitude": 14.168444,
+      "longitude": 121.254548,
+      "website": ""
+    },
+    {
+      "name": "Rivera Funeral Homes",
+      "name_en": "",
+      "city": "Babak",
+      "country": "Philippines",
+      "latitude": 7.14333,
+      "longitude": 125.661213,
+      "website": ""
+    },
+    {
+      "name": "Rivera Funeral Homes",
+      "name_en": "",
+      "city": "Lasang",
+      "country": "Philippines",
+      "latitude": 7.258199,
+      "longitude": 125.651464,
+      "website": ""
+    },
+    {
+      "name": "Rivera Funeral Homes",
+      "name_en": "",
+      "city": "Santo Niño",
+      "country": "Philippines",
+      "latitude": 7.328656,
+      "longitude": 125.692974,
+      "website": ""
+    },
+    {
+      "name": "Rizal Monument",
+      "name_en": "",
+      "city": "Pagsanjan",
+      "country": "Philippines",
+      "latitude": 14.272945,
+      "longitude": 121.455901,
+      "website": ""
+    },
+    {
+      "name": "Rizal Shrine",
+      "name_en": "",
+      "city": "Dapitan",
+      "country": "Philippines",
+      "latitude": 8.667444,
+      "longitude": 123.41728,
+      "website": ""
+    },
+    {
+      "name": "Sablayan Museum",
+      "name_en": "",
+      "city": "Sablayan",
+      "country": "Philippines",
+      "latitude": 12.847356,
+      "longitude": 120.779426,
+      "website": ""
+    },
+    {
+      "name": "Saint Peter Chapels",
+      "name_en": "",
+      "city": "Malandag",
+      "country": "Philippines",
+      "latitude": 6.372592,
+      "longitude": 125.26768,
+      "website": ""
+    },
+    {
+      "name": "Saint Peter's Funeral Homes",
+      "name_en": "",
+      "city": "Kisolon",
+      "country": "Philippines",
+      "latitude": 8.342579,
+      "longitude": 124.976745,
+      "website": ""
+    },
+    {
+      "name": "San Agustin Museum",
+      "name_en": "",
+      "city": "Port Area",
+      "country": "Philippines",
+      "latitude": 14.588942,
+      "longitude": 120.974933,
+      "website": ""
+    },
+    {
+      "name": "Shrine of the Divine Mercy",
+      "name_en": "",
+      "city": "Loma de Gato",
+      "country": "Philippines",
+      "latitude": 14.778651,
+      "longitude": 120.975247,
+      "website": ""
+    },
+    {
+      "name": "Silliman Anthropology Museum",
+      "name_en": "",
+      "city": "Dumaguete City",
+      "country": "Philippines",
+      "latitude": 9.310781,
+      "longitude": 123.30874,
+      "website": ""
+    },
+    {
+      "name": "Somo Funeral Homes",
+      "name_en": "",
+      "city": "Manticao",
+      "country": "Philippines",
+      "latitude": 8.400267,
+      "longitude": 124.292756,
+      "website": ""
+    },
+    {
+      "name": "Spanish Museum",
+      "name_en": "",
+      "city": "Cabcaben",
+      "country": "Philippines",
+      "latitude": 14.379755,
+      "longitude": 120.576836,
+      "website": ""
+    },
+    {
+      "name": "Sports Museum",
+      "name_en": "",
+      "city": "Port Area",
+      "country": "Philippines",
+      "latitude": 14.562326,
+      "longitude": 120.992095,
+      "website": ""
+    },
+    {
+      "name": "St. Peter Chapels",
+      "name_en": "",
+      "city": "Bato",
+      "country": "Philippines",
+      "latitude": 7.008044,
+      "longitude": 125.486976,
+      "website": ""
+    },
+    {
+      "name": "St. Peter chapels",
+      "name_en": "",
+      "city": "Pines",
+      "country": "Philippines",
+      "latitude": 8.467944,
+      "longitude": 123.805487,
+      "website": ""
+    },
+    {
+      "name": "St. Peter Chapels",
+      "name_en": "",
+      "city": "Barra",
+      "country": "Philippines",
+      "latitude": 8.503069,
+      "longitude": 124.600376,
+      "website": ""
+    },
+    {
+      "name": "St. Peter Chapels",
+      "name_en": "",
+      "city": "Manolo Fortich",
+      "country": "Philippines",
+      "latitude": 8.367718,
+      "longitude": 124.863332,
+      "website": ""
+    },
+    {
+      "name": "St. Peter Chapels",
+      "name_en": "",
+      "city": "Saguing",
+      "country": "Philippines",
+      "latitude": 6.967326,
+      "longitude": 125.084604,
+      "website": ""
+    },
+    {
+      "name": "St. Peter Chapels",
+      "name_en": "",
+      "city": "Libungan",
+      "country": "Philippines",
+      "latitude": 7.218727,
+      "longitude": 124.532467,
+      "website": ""
+    },
+    {
+      "name": "St. Peter Chapels",
+      "name_en": "",
+      "city": "Tarlac City",
+      "country": "Philippines",
+      "latitude": 15.483622,
+      "longitude": 120.623177,
+      "website": ""
+    },
+    {
+      "name": "Sta. Barbara Centennial Museum and Convention Center",
+      "name_en": "",
+      "city": "Santa Barbara",
+      "country": "Philippines",
+      "latitude": 10.827576,
+      "longitude": 122.531679,
+      "website": ""
+    },
+    {
+      "name": "Sta. Theresa Funeral Homes",
+      "name_en": "",
+      "city": "Panabo",
+      "country": "Philippines",
+      "latitude": 7.292365,
+      "longitude": 125.676864,
+      "website": ""
+    },
+    {
+      "name": "Sta. Therese Funeral Homes",
+      "name_en": "",
+      "city": "Lasang",
+      "country": "Philippines",
+      "latitude": 7.239511,
+      "longitude": 125.646588,
+      "website": ""
+    },
+    {
+      "name": "Sulyap Museum",
+      "name_en": "",
+      "city": "San Pablo",
+      "country": "Philippines",
+      "latitude": 14.07652,
+      "longitude": 121.312417,
+      "website": ""
+    },
+    {
+      "name": "Surigao-Luneta Mini Museum",
+      "name_en": "",
+      "city": "Surigao",
+      "country": "Philippines",
+      "latitude": 9.790622,
+      "longitude": 125.49416,
+      "website": ""
+    },
+    {
+      "name": "Syquia Mansion",
+      "name_en": "",
+      "city": "Vigan",
+      "country": "Philippines",
+      "latitude": 17.571071,
+      "longitude": 120.389904,
+      "website": ""
+    },
+    {
+      "name": "Tacub Public Cemetery",
+      "name_en": "",
+      "city": "Tacub",
+      "country": "Philippines",
+      "latitude": 8.182772,
+      "longitude": 124.114197,
+      "website": ""
+    },
+    {
+      "name": "TCC Funeral Home",
+      "name_en": "",
+      "city": "Bato",
+      "country": "Philippines",
+      "latitude": 7.008169,
+      "longitude": 125.486483,
+      "website": ""
+    },
+    {
+      "name": "Techico Funeral Homes",
+      "name_en": "",
+      "city": "Burgos",
+      "country": "Philippines",
+      "latitude": 15.730082,
+      "longitude": 120.572168,
+      "website": ""
+    },
+    {
+      "name": "Temporary Rural Health Unit",
+      "name_en": "",
+      "city": "Aloguinsan",
+      "country": "Philippines",
+      "latitude": 10.221899,
+      "longitude": 123.54913,
+      "website": ""
+    },
+    {
+      "name": "The Aquino Center",
+      "name_en": "",
+      "city": "San Miguel",
+      "country": "Philippines",
+      "latitude": 15.434521,
+      "longitude": 120.601927,
+      "website": ""
+    },
+    {
+      "name": "The Padilla Art Gallery",
+      "name_en": "",
+      "city": "Quiapo",
+      "country": "Philippines",
+      "latitude": 14.598366,
+      "longitude": 120.985895,
+      "website": ""
+    },
+    {
+      "name": "The Treasures of Maitum",
+      "name_en": "",
+      "city": "Maitum",
+      "country": "Philippines",
+      "latitude": 6.061272,
+      "longitude": 124.495661,
+      "website": ""
+    },
+    {
+      "name": "The Whitehouse",
+      "name_en": "",
+      "city": "Taal",
+      "country": "Philippines",
+      "latitude": 13.87809,
+      "longitude": 120.925388,
+      "website": ""
+    },
+    {
+      "name": "Topaz Memorial Homes",
+      "name_en": "",
+      "city": "Tagum",
+      "country": "Philippines",
+      "latitude": 7.440984,
+      "longitude": 125.805067,
+      "website": ""
+    },
+    {
+      "name": "Tuguegarao City's Memorial Park",
+      "name_en": "",
+      "city": "Tuguegarao City",
+      "country": "Philippines",
+      "latitude": 17.63537,
+      "longitude": 121.727033,
+      "website": ""
+    },
+    {
+      "name": "University Museum",
+      "name_en": "",
+      "city": "Santa Rosa",
+      "country": "Philippines",
+      "latitude": 15.445236,
+      "longitude": 120.939609,
+      "website": ""
+    },
+    {
+      "name": "University of Nueva Caceres Museum",
+      "name_en": "",
+      "city": "Naga",
+      "country": "Philippines",
+      "latitude": 13.625167,
+      "longitude": 123.18347,
+      "website": ""
+    },
+    {
+      "name": "UPV Museum of Natural Sciences",
+      "name_en": "",
+      "city": "Miagao",
+      "country": "Philippines",
+      "latitude": 10.640448,
+      "longitude": 122.229004,
+      "website": ""
+    },
+    {
+      "name": "UST Museum",
+      "name_en": "",
+      "city": "Manila",
+      "country": "Philippines",
+      "latitude": 14.610162,
+      "longitude": 120.989171,
+      "website": "http://ustmuseum.ust.edu.ph/"
+    },
+    {
+      "name": "Villa Corazon Multi Purpose Hall",
+      "name_en": "",
+      "city": "Magliman",
+      "country": "Philippines",
+      "latitude": 15.044742,
+      "longitude": 120.668724,
+      "website": ""
+    },
+    {
+      "name": "Villa Escudero Museum",
+      "name_en": "",
+      "city": "Lalig",
+      "country": "Philippines",
+      "latitude": 13.99584,
+      "longitude": 121.341961,
+      "website": ""
+    },
+    {
+      "name": "Villa Funeral Home",
+      "name_en": "",
+      "city": "Cotabato",
+      "country": "Philippines",
+      "latitude": 7.200962,
+      "longitude": 124.239098,
+      "website": ""
+    },
+    {
+      "name": "Villa Funeral Homes",
+      "name_en": "",
+      "city": "Panabo",
+      "country": "Philippines",
+      "latitude": 7.3117,
+      "longitude": 125.685063,
+      "website": ""
+    },
+    {
+      "name": "Villa Funeraria",
+      "name_en": "",
+      "city": "Bato",
+      "country": "Philippines",
+      "latitude": 7.025073,
+      "longitude": 125.505339,
+      "website": ""
+    },
+    {
+      "name": "Villa Jusa Funeral Home",
+      "name_en": "",
+      "city": "Kidapawan",
+      "country": "Philippines",
+      "latitude": 7.002384,
+      "longitude": 125.086585,
+      "website": ""
+    },
+    {
+      "name": "Visitors' Center",
+      "name_en": "",
+      "city": "San Isidro",
+      "country": "Philippines",
+      "latitude": 14.017667,
+      "longitude": 121.118905,
+      "website": ""
+    },
+    {
+      "name": "Whale Bones Museum",
+      "name_en": "",
+      "city": "Dumaguete City",
+      "country": "Philippines",
+      "latitude": 9.330786,
+      "longitude": 123.309539,
+      "website": ""
+    },
+    {
+      "name": "Zambales Provincial Convention Center",
+      "name_en": "",
+      "city": "Iba",
+      "country": "Philippines",
+      "latitude": 15.324867,
+      "longitude": 119.981083,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga museo sa Pilipinas (Museums in the Philippines) - Libreng download",
+    "description": "Listahan ng 187 museo sa Pilipinas mula sa OpenStreetMap — pangalan, lungsod, koordinado at website. Naglalaman ng 187 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga museo sa Pilipinas (Museums in the Philippines) | ListBase",
+    "seo_description": "I-download Mga museo sa Pilipinas (Museums in the Philippines) — 187 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 187 talaan / 7 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

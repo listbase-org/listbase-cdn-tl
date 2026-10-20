@@ -1,0 +1,160 @@
+{
+  "id": "tl-dinagat-islands-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Dinagat Islands",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Dinagat Islands",
+  "description": "Direktoryo ng 7 lungsod at bayan sa lalawigan ng Dinagat Islands (Caraga (Region XIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Dinagat Islands` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Basilisa",
+      "uri": "Bayan",
+      "lalawigan": "Dinagat Islands",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8413",
+      "punong_bayan": "OZZY REUBEN M. ECLEO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MANUELITO N. PIODO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Cagdianao",
+      "uri": "Bayan",
+      "lalawigan": "Dinagat Islands",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8411",
+      "punong_bayan": "MARC ADELSON D. LONGOS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUFINO P. FERMILAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Dinagat",
+      "uri": "Bayan",
+      "lalawigan": "Dinagat Islands",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8412",
+      "punong_bayan": "SIMPLICIO S. LEYRAN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PETNEL O. SOMBRADO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Libjo",
+      "uri": "Bayan",
+      "lalawigan": "Dinagat Islands",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8414",
+      "punong_bayan": "MELODY L. COMPASIVO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ZOLTAN ARNEL S. EDERA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Loreto",
+      "uri": "Bayan",
+      "lalawigan": "Dinagat Islands",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8415",
+      "punong_bayan": "DOANDRE BILL A. LADAGA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RICHARD C. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "San Jose",
+      "uri": "Bayan",
+      "lalawigan": "Dinagat Islands",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8427",
+      "punong_bayan": "YNGWIE HERO B. ECLEO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUBEN J D. ZUNIEGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Tubajon",
+      "uri": "Bayan",
+      "lalawigan": "Dinagat Islands",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8426",
+      "punong_bayan": "SIMPLICIA P. PEDRABLANCA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARVIN M. LASCO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Dinagat Islands - Libreng download",
+    "description": "Direktoryo ng 7 lungsod at bayan sa lalawigan ng Dinagat Islands (Caraga (Region XIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Dinagat Islands` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 7 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Dinagat Islands | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Dinagat Islands — 7 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 7 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

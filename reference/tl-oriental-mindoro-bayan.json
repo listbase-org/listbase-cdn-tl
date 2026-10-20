@@ -1,0 +1,168 @@
+{
+  "id": "tl-oriental-mindoro-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Oriental Mindoro",
+  "title": "Mga Bayan ng Lalawigan ng Oriental Mindoro",
+  "description": "Listahan ng 14 munisipalidad (bayan) sa lalawigan ng Oriental Mindoro, MIMAROPA REGION, Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "175201000",
+      "name": "BACO",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 37215,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "175202000",
+      "name": "BANSUD",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 40992,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "175203000",
+      "name": "BONGABONG",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 72073,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175204000",
+      "name": "BULALACAO (SAN PEDRO)",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 39107,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "175206000",
+      "name": "GLORIA",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 45073,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "175207000",
+      "name": "MANSALAY",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 54533,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "175208000",
+      "name": "NAUJAN",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 102998,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175209000",
+      "name": "PINAMALAYAN",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 86172,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175210000",
+      "name": "POLA",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 34701,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "175211000",
+      "name": "PUERTO GALERA",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 36606,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "175212000",
+      "name": "ROXAS",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 53201,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "175213000",
+      "name": "SAN TEODORO",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 17904,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "175214000",
+      "name": "SOCORRO",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 39099,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "175215000",
+      "name": "VICTORIA",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 50492,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Oriental Mindoro - Libreng download",
+    "description": "Listahan ng 14 munisipalidad (bayan) sa lalawigan ng Oriental Mindoro, MIMAROPA REGION, Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 14 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Oriental Mindoro | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Oriental Mindoro — 14 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 14 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

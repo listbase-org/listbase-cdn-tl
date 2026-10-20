@@ -1,0 +1,472 @@
+{
+  "id": "tl-batangas-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Batangas",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Batangas",
+  "description": "Direktoryo ng 33 lungsod at bayan sa lalawigan ng Batangas (Calabarzon (Region IV-A)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Batangas` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Agoncillo",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4211",
+      "punong_bayan": "CINDERELLA Y. VALENTON-REYES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DANIEL D. REYES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Alitagtag",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4205",
+      "punong_bayan": "EDILBERTO G. PONGGOS",
+      "kontak_punong_bayan": "(043) 706-8915",
+      "pangalawang_punong_bayan": "MANUEL E. ABRIGO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Balayan",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4213",
+      "punong_bayan": "EMMANUEL SALVADOR P. FRONDA II",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EFREN R. CHAVEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Balete",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4219",
+      "punong_bayan": "WILSON V. MARALIT",
+      "kontak_punong_bayan": "(043) 740-9638",
+      "pangalawang_punong_bayan": "ALVIN T. PAYO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Bauan",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4201",
+      "punong_bayan": "RYANH M. DOLOR",
+      "kontak_punong_bayan": "(043) 727-1253",
+      "pangalawang_punong_bayan": "RONALD E. CRUZAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Calaca",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "SOFRONIO C. ONA JR.",
+      "kontak_punong_bayan": "(043) 223-4627 loc 128, 129, 143",
+      "pangalawang_punong_bayan": "JERRY RAPHAEL I. KATIGBAK",
+      "kontak_pangalawang_punong_bayan": "(043) 223-4627 loc 125"
+    },
+    {
+      "id": 7,
+      "lgu": "Calatagan",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4215",
+      "punong_bayan": "PETER OLIVER M. PALACIO",
+      "kontak_punong_bayan": "(043) 419-0150",
+      "pangalawang_punong_bayan": "ROGELIO H. ZARRAGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Cuenca",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4222",
+      "punong_bayan": "ALEXANDER M. MAGPANTAY",
+      "kontak_punong_bayan": "(043) 740-4674",
+      "pangalawang_punong_bayan": "AUREA P. PANTAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Ibaan",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4230",
+      "punong_bayan": "EDRALYN JOY A. SALVAME",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JUVY M. MENDOZA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Laurel",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4221",
+      "punong_bayan": "LYNDON M. BRUCE",
+      "kontak_punong_bayan": "(043) 741-4031 loc. 117",
+      "pangalawang_punong_bayan": "CELSO ARISTOTLE M. PARRILLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Lemery",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4209",
+      "punong_bayan": "IAN KENNETH M. ALILIO",
+      "kontak_punong_bayan": "(043)740-0157",
+      "pangalawang_punong_bayan": "GERALDINE C. ORNALES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Lian",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4216",
+      "punong_bayan": "JOSEPH V. PEJI",
+      "kontak_punong_bayan": "(043) 416-2534",
+      "pangalawang_punong_bayan": "ROBERTO ANTONIO S. LEVISTE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Lipa",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "ERIC B. AFRICA",
+      "kontak_punong_bayan": "(043) 774-5169",
+      "pangalawang_punong_bayan": "CAMILLE ANGELINE M. LOPEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Lobo",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4229",
+      "punong_bayan": "GERONIMO C. ALFILER",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANGELITO H. ABIERA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Mabini",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4202",
+      "punong_bayan": "NILO M. VILLANUEVA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEONIDO M. BANTUGON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Malvar",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4233",
+      "punong_bayan": "CRISTETA C. REYES",
+      "kontak_punong_bayan": "(043) 778-5101",
+      "pangalawang_punong_bayan": "ALBERTO C. LAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Mataas na Kahoy",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4223",
+      "punong_bayan": "JANET M. ILAGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAY M. ILAGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Nasugbu",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4231",
+      "punong_bayan": "ANTONIO JOSE A. BARCELON",
+      "kontak_punong_bayan": "(043) 462-5378",
+      "pangalawang_punong_bayan": "MILDRED B. SANCHEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Padre Garcia",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4224",
+      "punong_bayan": "CELSA B. RIVERA",
+      "kontak_punong_bayan": "(043) 515-9207",
+      "pangalawang_punong_bayan": "MICKO ANGELO B. RIVERA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Rosario",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4225",
+      "punong_bayan": "LEOVIGILDO K. MORPE",
+      "kontak_punong_bayan": "(043) 726-0329 loc. 1002",
+      "pangalawang_punong_bayan": "ATANACIO G. ZARA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "San Jose",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4227",
+      "punong_bayan": "VALENTINO R. PATRON",
+      "kontak_punong_bayan": "(043) 779-8550",
+      "pangalawang_punong_bayan": "RENJI A. ARCILLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "San Juan",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4226",
+      "punong_bayan": "ILDEBRANDO D. SALUD",
+      "kontak_punong_bayan": "(043) 575-3210",
+      "pangalawang_punong_bayan": "OCTAVIO ANTONIO L. MARASIGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "San Luis",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4210",
+      "punong_bayan": "OSCARLITO M. HERNANDEZ",
+      "kontak_punong_bayan": "(043) 774-6774",
+      "pangalawang_punong_bayan": "MA-AN M. DE GRACIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "San Nicolas",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4207",
+      "punong_bayan": "LESTER D. DE SAGUN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NAPOLEON V. ARCEA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "San Pascual",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4204",
+      "punong_bayan": "ANTONIO A. DIMAYUGA",
+      "kontak_punong_bayan": "(043) 980-0117",
+      "pangalawang_punong_bayan": "ANGELINA LYNN D. CASTILLO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 26,
+      "lgu": "Santa Teresita",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4206",
+      "punong_bayan": "NORBERTO A. SEGUNIAL JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MA. AUREA V. SEGUNIAL",
+      "kontak_pangalawang_punong_bayan": "(043) 786-8387"
+    },
+    {
+      "id": 27,
+      "lgu": "Sto. Tomas",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "ARTH JHUN A. MARASIGAN",
+      "kontak_punong_bayan": "(043) 784-8022",
+      "pangalawang_punong_bayan": "CATHERINE J. PEREZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 28,
+      "lgu": "Taal",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4208",
+      "punong_bayan": "FULGENCIO I. MERCADO",
+      "kontak_punong_bayan": "(043) 408-0577",
+      "pangalawang_punong_bayan": "MICHAEL REY A. VILLANO",
+      "kontak_pangalawang_punong_bayan": "(043) 786-8387"
+    },
+    {
+      "id": 29,
+      "lgu": "Talisay",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4220",
+      "punong_bayan": "NESTOR D. NATANAUAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FRANCIS M. MAGSINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 30,
+      "lgu": "Tanauan",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "NELSON P. COLLANTES",
+      "kontak_punong_bayan": "(043) 728-9800",
+      "pangalawang_punong_bayan": "HERMINIGILDO G. TRINIDAD JR.",
+      "kontak_pangalawang_punong_bayan": "(043) 781-6349"
+    },
+    {
+      "id": 31,
+      "lgu": "Taysan",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4228",
+      "punong_bayan": "EDILBERTO T. ABADAY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LUIS C. FAVORITO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 32,
+      "lgu": "Tingloy",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4203",
+      "punong_bayan": "LAURO F. ALVAREZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DAWN ERIKA E. ALVAREZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 33,
+      "lgu": "Tuy",
+      "uri": "Bayan",
+      "lalawigan": "Batangas",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4214",
+      "punong_bayan": "JOSE JECERELL C. CERRADO",
+      "kontak_punong_bayan": "(043) 276-0121",
+      "pangalawang_punong_bayan": "ARMANDO P. AFABLE",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Batangas - Libreng download",
+    "description": "Direktoryo ng 33 lungsod at bayan sa lalawigan ng Batangas (Calabarzon (Region IV-A)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Batangas` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 33 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Batangas | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Batangas — 33 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 33 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,1992 @@
+{
+  "id": "tl-kodigo-ng-telepono",
+  "name": "Mga kodigo ng telepono ng bansa",
+  "title": "Mga kodigo ng telepono ng bansa",
+  "description": "Internasyonal na mga kodigo ng telepono (E.164 country calling codes) para sa 242 bansa at teritoryo, batay sa ISO 3166-1 alpha-2. Para sa bawat tala: pangalan ng bansa (Ingles), kodigo ng pagtawag, kodigo ng lugar para sa NANP (Hilagang Amerika +1) na mga teritoryo, at emoji-bandila. Nakuha mula sa repositoryo euvl/country-phone-number-codes (MIT).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 242,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "country_name_en",
+      "label": "Country Name En",
+      "type": "string"
+    },
+    {
+      "key": "dial_code",
+      "label": "Dial Code",
+      "type": "string"
+    },
+    {
+      "key": "country_calling_code",
+      "label": "Country Calling Code",
+      "type": "number"
+    },
+    {
+      "key": "nanp_area_code",
+      "label": "Nanp Area Code",
+      "type": "number"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "CA",
+      "country_name_en": "Canada",
+      "dial_code": "+1",
+      "country_calling_code": 1,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "US",
+      "country_name_en": "United States",
+      "dial_code": "+1",
+      "country_calling_code": 1,
+      "nanp_area_code": "",
+      "emoji_flag": "🇺🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "BS",
+      "country_name_en": "Bahamas",
+      "dial_code": "+1 242",
+      "country_calling_code": 1,
+      "nanp_area_code": 242,
+      "emoji_flag": "🇧🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "BB",
+      "country_name_en": "Barbados",
+      "dial_code": "+1 246",
+      "country_calling_code": 1,
+      "nanp_area_code": 246,
+      "emoji_flag": "🇧🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "AI",
+      "country_name_en": "Anguilla",
+      "dial_code": "+1 264",
+      "country_calling_code": 1,
+      "nanp_area_code": 264,
+      "emoji_flag": "🇦🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "VG",
+      "country_name_en": "Virgin Islands, British",
+      "dial_code": "+1 284",
+      "country_calling_code": 1,
+      "nanp_area_code": 284,
+      "emoji_flag": "🇻🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "VI",
+      "country_name_en": "Virgin Islands, U.S.",
+      "dial_code": "+1 340",
+      "country_calling_code": 1,
+      "nanp_area_code": 340,
+      "emoji_flag": "🇻🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "KY",
+      "country_name_en": "Cayman Islands",
+      "dial_code": "+ 345",
+      "country_calling_code": 1,
+      "nanp_area_code": 345,
+      "emoji_flag": "🇰🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "BM",
+      "country_name_en": "Bermuda",
+      "dial_code": "+1 441",
+      "country_calling_code": 1,
+      "nanp_area_code": 441,
+      "emoji_flag": "🇧🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "GD",
+      "country_name_en": "Grenada",
+      "dial_code": "+1 473",
+      "country_calling_code": 1,
+      "nanp_area_code": 473,
+      "emoji_flag": "🇬🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "TC",
+      "country_name_en": "Turks and Caicos Islands",
+      "dial_code": "+1 649",
+      "country_calling_code": 1,
+      "nanp_area_code": 649,
+      "emoji_flag": "🇹🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "MP",
+      "country_name_en": "Northern Mariana Islands",
+      "dial_code": "+1 670",
+      "country_calling_code": 1,
+      "nanp_area_code": 670,
+      "emoji_flag": "🇲🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "GU",
+      "country_name_en": "Guam",
+      "dial_code": "+1 671",
+      "country_calling_code": 1,
+      "nanp_area_code": 671,
+      "emoji_flag": "🇬🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "AS",
+      "country_name_en": "AmericanSamoa",
+      "dial_code": "+1 684",
+      "country_calling_code": 1,
+      "nanp_area_code": 684,
+      "emoji_flag": "🇦🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "LC",
+      "country_name_en": "Saint Lucia",
+      "dial_code": "+1 758",
+      "country_calling_code": 1,
+      "nanp_area_code": 758,
+      "emoji_flag": "🇱🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "DM",
+      "country_name_en": "Dominica",
+      "dial_code": "+1 767",
+      "country_calling_code": 1,
+      "nanp_area_code": 767,
+      "emoji_flag": "🇩🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "VC",
+      "country_name_en": "Saint Vincent and the Grenadines",
+      "dial_code": "+1 784",
+      "country_calling_code": 1,
+      "nanp_area_code": 784,
+      "emoji_flag": "🇻🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "DO",
+      "country_name_en": "Dominican Republic",
+      "dial_code": "+1 849",
+      "country_calling_code": 1,
+      "nanp_area_code": 849,
+      "emoji_flag": "🇩🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "TT",
+      "country_name_en": "Trinidad and Tobago",
+      "dial_code": "+1 868",
+      "country_calling_code": 1,
+      "nanp_area_code": 868,
+      "emoji_flag": "🇹🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "KN",
+      "country_name_en": "Saint Kitts and Nevis",
+      "dial_code": "+1 869",
+      "country_calling_code": 1,
+      "nanp_area_code": 869,
+      "emoji_flag": "🇰🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "JM",
+      "country_name_en": "Jamaica",
+      "dial_code": "+1 876",
+      "country_calling_code": 1,
+      "nanp_area_code": 876,
+      "emoji_flag": "🇯🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "PR",
+      "country_name_en": "Puerto Rico",
+      "dial_code": "+1 939",
+      "country_calling_code": 1,
+      "nanp_area_code": 939,
+      "emoji_flag": "🇵🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "RU",
+      "country_name_en": "Russia",
+      "dial_code": "+7",
+      "country_calling_code": 7,
+      "nanp_area_code": "",
+      "emoji_flag": "🇷🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "KZ",
+      "country_name_en": "Kazakhstan",
+      "dial_code": "+7 7",
+      "country_calling_code": 7,
+      "nanp_area_code": "",
+      "emoji_flag": "🇰🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "EG",
+      "country_name_en": "Egypt",
+      "dial_code": "+20",
+      "country_calling_code": 20,
+      "nanp_area_code": "",
+      "emoji_flag": "🇪🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZA",
+      "country_name_en": "South Africa",
+      "dial_code": "+27",
+      "country_calling_code": 27,
+      "nanp_area_code": "",
+      "emoji_flag": "🇿🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "GR",
+      "country_name_en": "Greece",
+      "dial_code": "+30",
+      "country_calling_code": 30,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "NL",
+      "country_name_en": "Netherlands",
+      "dial_code": "+31",
+      "country_calling_code": 31,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "BE",
+      "country_name_en": "Belgium",
+      "dial_code": "+32",
+      "country_calling_code": 32,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "FR",
+      "country_name_en": "France",
+      "dial_code": "+33",
+      "country_calling_code": 33,
+      "nanp_area_code": "",
+      "emoji_flag": "🇫🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "ES",
+      "country_name_en": "Spain",
+      "dial_code": "+34",
+      "country_calling_code": 34,
+      "nanp_area_code": "",
+      "emoji_flag": "🇪🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "HU",
+      "country_name_en": "Hungary",
+      "dial_code": "+36",
+      "country_calling_code": 36,
+      "nanp_area_code": "",
+      "emoji_flag": "🇭🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "IT",
+      "country_name_en": "Italy",
+      "dial_code": "+39",
+      "country_calling_code": 39,
+      "nanp_area_code": "",
+      "emoji_flag": "🇮🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "RO",
+      "country_name_en": "Romania",
+      "dial_code": "+40",
+      "country_calling_code": 40,
+      "nanp_area_code": "",
+      "emoji_flag": "🇷🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "CH",
+      "country_name_en": "Switzerland",
+      "dial_code": "+41",
+      "country_calling_code": 41,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "AT",
+      "country_name_en": "Austria",
+      "dial_code": "+43",
+      "country_calling_code": 43,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "GB",
+      "country_name_en": "United Kingdom",
+      "dial_code": "+44",
+      "country_calling_code": 44,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "GG",
+      "country_name_en": "Guernsey",
+      "dial_code": "+44",
+      "country_calling_code": 44,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "IM",
+      "country_name_en": "Isle of Man",
+      "dial_code": "+44",
+      "country_calling_code": 44,
+      "nanp_area_code": "",
+      "emoji_flag": "🇮🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "JE",
+      "country_name_en": "Jersey",
+      "dial_code": "+44",
+      "country_calling_code": 44,
+      "nanp_area_code": "",
+      "emoji_flag": "🇯🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "DK",
+      "country_name_en": "Denmark",
+      "dial_code": "+45",
+      "country_calling_code": 45,
+      "nanp_area_code": "",
+      "emoji_flag": "🇩🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "SE",
+      "country_name_en": "Sweden",
+      "dial_code": "+46",
+      "country_calling_code": 46,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "NO",
+      "country_name_en": "Norway",
+      "dial_code": "+47",
+      "country_calling_code": 47,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "SJ",
+      "country_name_en": "Svalbard and Jan Mayen",
+      "dial_code": "+47",
+      "country_calling_code": 47,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "PL",
+      "country_name_en": "Poland",
+      "dial_code": "+48",
+      "country_calling_code": 48,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "DE",
+      "country_name_en": "Germany",
+      "dial_code": "+49",
+      "country_calling_code": 49,
+      "nanp_area_code": "",
+      "emoji_flag": "🇩🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "PE",
+      "country_name_en": "Peru",
+      "dial_code": "+51",
+      "country_calling_code": 51,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "MX",
+      "country_name_en": "Mexico",
+      "dial_code": "+52",
+      "country_calling_code": 52,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "CU",
+      "country_name_en": "Cuba",
+      "dial_code": "+53",
+      "country_calling_code": 53,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "AR",
+      "country_name_en": "Argentina",
+      "dial_code": "+54",
+      "country_calling_code": 54,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "BR",
+      "country_name_en": "Brazil",
+      "dial_code": "+55",
+      "country_calling_code": 55,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "CL",
+      "country_name_en": "Chile",
+      "dial_code": "+56",
+      "country_calling_code": 56,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "CO",
+      "country_name_en": "Colombia",
+      "dial_code": "+57",
+      "country_calling_code": 57,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "VE",
+      "country_name_en": "Venezuela, Bolivarian Republic of Venezuela",
+      "dial_code": "+58",
+      "country_calling_code": 58,
+      "nanp_area_code": "",
+      "emoji_flag": "🇻🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "MY",
+      "country_name_en": "Malaysia",
+      "dial_code": "+60",
+      "country_calling_code": 60,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "AU",
+      "country_name_en": "Australia",
+      "dial_code": "+61",
+      "country_calling_code": 61,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "CC",
+      "country_name_en": "Cocos (Keeling) Islands",
+      "dial_code": "+61",
+      "country_calling_code": 61,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "CX",
+      "country_name_en": "Christmas Island",
+      "dial_code": "+61",
+      "country_calling_code": 61,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "ID",
+      "country_name_en": "Indonesia",
+      "dial_code": "+62",
+      "country_calling_code": 62,
+      "nanp_area_code": "",
+      "emoji_flag": "🇮🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "PH",
+      "country_name_en": "Philippines",
+      "dial_code": "+63",
+      "country_calling_code": 63,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "NZ",
+      "country_name_en": "New Zealand",
+      "dial_code": "+64",
+      "country_calling_code": 64,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "SG",
+      "country_name_en": "Singapore",
+      "dial_code": "+65",
+      "country_calling_code": 65,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "TH",
+      "country_name_en": "Thailand",
+      "dial_code": "+66",
+      "country_calling_code": 66,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "JP",
+      "country_name_en": "Japan",
+      "dial_code": "+81",
+      "country_calling_code": 81,
+      "nanp_area_code": "",
+      "emoji_flag": "🇯🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "KR",
+      "country_name_en": "Korea, Republic of South Korea",
+      "dial_code": "+82",
+      "country_calling_code": 82,
+      "nanp_area_code": "",
+      "emoji_flag": "🇰🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "VN",
+      "country_name_en": "Vietnam",
+      "dial_code": "+84",
+      "country_calling_code": 84,
+      "nanp_area_code": "",
+      "emoji_flag": "🇻🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "CN",
+      "country_name_en": "China",
+      "dial_code": "+86",
+      "country_calling_code": 86,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "TR",
+      "country_name_en": "Turkey",
+      "dial_code": "+90",
+      "country_calling_code": 90,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "IN",
+      "country_name_en": "India",
+      "dial_code": "+91",
+      "country_calling_code": 91,
+      "nanp_area_code": "",
+      "emoji_flag": "🇮🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "PK",
+      "country_name_en": "Pakistan",
+      "dial_code": "+92",
+      "country_calling_code": 92,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "AF",
+      "country_name_en": "Afghanistan",
+      "dial_code": "+93",
+      "country_calling_code": 93,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "LK",
+      "country_name_en": "Sri Lanka",
+      "dial_code": "+94",
+      "country_calling_code": 94,
+      "nanp_area_code": "",
+      "emoji_flag": "🇱🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "MM",
+      "country_name_en": "Myanmar",
+      "dial_code": "+95",
+      "country_calling_code": 95,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "IR",
+      "country_name_en": "Iran, Islamic Republic of Persian Gulf",
+      "dial_code": "+98",
+      "country_calling_code": 98,
+      "nanp_area_code": "",
+      "emoji_flag": "🇮🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "MA",
+      "country_name_en": "Morocco",
+      "dial_code": "+212",
+      "country_calling_code": 212,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "DZ",
+      "country_name_en": "Algeria",
+      "dial_code": "+213",
+      "country_calling_code": 213,
+      "nanp_area_code": "",
+      "emoji_flag": "🇩🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "TN",
+      "country_name_en": "Tunisia",
+      "dial_code": "+216",
+      "country_calling_code": 216,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "LY",
+      "country_name_en": "Libyan Arab Jamahiriya",
+      "dial_code": "+218",
+      "country_calling_code": 218,
+      "nanp_area_code": "",
+      "emoji_flag": "🇱🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "GM",
+      "country_name_en": "Gambia",
+      "dial_code": "+220",
+      "country_calling_code": 220,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "SN",
+      "country_name_en": "Senegal",
+      "dial_code": "+221",
+      "country_calling_code": 221,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "MR",
+      "country_name_en": "Mauritania",
+      "dial_code": "+222",
+      "country_calling_code": 222,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "ML",
+      "country_name_en": "Mali",
+      "dial_code": "+223",
+      "country_calling_code": 223,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "GN",
+      "country_name_en": "Guinea",
+      "dial_code": "+224",
+      "country_calling_code": 224,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "CI",
+      "country_name_en": "Cote d'Ivoire",
+      "dial_code": "+225",
+      "country_calling_code": 225,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "BF",
+      "country_name_en": "Burkina Faso",
+      "dial_code": "+226",
+      "country_calling_code": 226,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "NE",
+      "country_name_en": "Niger",
+      "dial_code": "+227",
+      "country_calling_code": 227,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "TG",
+      "country_name_en": "Togo",
+      "dial_code": "+228",
+      "country_calling_code": 228,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "BJ",
+      "country_name_en": "Benin",
+      "dial_code": "+229",
+      "country_calling_code": 229,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "MU",
+      "country_name_en": "Mauritius",
+      "dial_code": "+230",
+      "country_calling_code": 230,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "LR",
+      "country_name_en": "Liberia",
+      "dial_code": "+231",
+      "country_calling_code": 231,
+      "nanp_area_code": "",
+      "emoji_flag": "🇱🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "SL",
+      "country_name_en": "Sierra Leone",
+      "dial_code": "+232",
+      "country_calling_code": 232,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "GH",
+      "country_name_en": "Ghana",
+      "dial_code": "+233",
+      "country_calling_code": 233,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "NG",
+      "country_name_en": "Nigeria",
+      "dial_code": "+234",
+      "country_calling_code": 234,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "TD",
+      "country_name_en": "Chad",
+      "dial_code": "+235",
+      "country_calling_code": 235,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "CF",
+      "country_name_en": "Central African Republic",
+      "dial_code": "+236",
+      "country_calling_code": 236,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "CM",
+      "country_name_en": "Cameroon",
+      "dial_code": "+237",
+      "country_calling_code": 237,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "CV",
+      "country_name_en": "Cape Verde",
+      "dial_code": "+238",
+      "country_calling_code": 238,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "ST",
+      "country_name_en": "Sao Tome and Principe",
+      "dial_code": "+239",
+      "country_calling_code": 239,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "GQ",
+      "country_name_en": "Equatorial Guinea",
+      "dial_code": "+240",
+      "country_calling_code": 240,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "GA",
+      "country_name_en": "Gabon",
+      "dial_code": "+241",
+      "country_calling_code": 241,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "CG",
+      "country_name_en": "Congo",
+      "dial_code": "+242",
+      "country_calling_code": 242,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "CD",
+      "country_name_en": "Congo, The Democratic Republic of the Congo",
+      "dial_code": "+243",
+      "country_calling_code": 243,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "AO",
+      "country_name_en": "Angola",
+      "dial_code": "+244",
+      "country_calling_code": 244,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "GW",
+      "country_name_en": "Guinea-Bissau",
+      "dial_code": "+245",
+      "country_calling_code": 245,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "IO",
+      "country_name_en": "British Indian Ocean Territory",
+      "dial_code": "+246",
+      "country_calling_code": 246,
+      "nanp_area_code": "",
+      "emoji_flag": "🇮🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "SC",
+      "country_name_en": "Seychelles",
+      "dial_code": "+248",
+      "country_calling_code": 248,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "SD",
+      "country_name_en": "Sudan",
+      "dial_code": "+249",
+      "country_calling_code": 249,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "RW",
+      "country_name_en": "Rwanda",
+      "dial_code": "+250",
+      "country_calling_code": 250,
+      "nanp_area_code": "",
+      "emoji_flag": "🇷🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "ET",
+      "country_name_en": "Ethiopia",
+      "dial_code": "+251",
+      "country_calling_code": 251,
+      "nanp_area_code": "",
+      "emoji_flag": "🇪🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "SO",
+      "country_name_en": "Somalia",
+      "dial_code": "+252",
+      "country_calling_code": 252,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "DJ",
+      "country_name_en": "Djibouti",
+      "dial_code": "+253",
+      "country_calling_code": 253,
+      "nanp_area_code": "",
+      "emoji_flag": "🇩🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "KE",
+      "country_name_en": "Kenya",
+      "dial_code": "+254",
+      "country_calling_code": 254,
+      "nanp_area_code": "",
+      "emoji_flag": "🇰🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "TZ",
+      "country_name_en": "Tanzania, United Republic of Tanzania",
+      "dial_code": "+255",
+      "country_calling_code": 255,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "UG",
+      "country_name_en": "Uganda",
+      "dial_code": "+256",
+      "country_calling_code": 256,
+      "nanp_area_code": "",
+      "emoji_flag": "🇺🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "BI",
+      "country_name_en": "Burundi",
+      "dial_code": "+257",
+      "country_calling_code": 257,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "MZ",
+      "country_name_en": "Mozambique",
+      "dial_code": "+258",
+      "country_calling_code": 258,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZM",
+      "country_name_en": "Zambia",
+      "dial_code": "+260",
+      "country_calling_code": 260,
+      "nanp_area_code": "",
+      "emoji_flag": "🇿🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "MG",
+      "country_name_en": "Madagascar",
+      "dial_code": "+261",
+      "country_calling_code": 261,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "RE",
+      "country_name_en": "Reunion",
+      "dial_code": "+262",
+      "country_calling_code": 262,
+      "nanp_area_code": "",
+      "emoji_flag": "🇷🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "YT",
+      "country_name_en": "Mayotte",
+      "dial_code": "+262",
+      "country_calling_code": 262,
+      "nanp_area_code": "",
+      "emoji_flag": "🇾🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZW",
+      "country_name_en": "Zimbabwe",
+      "dial_code": "+263",
+      "country_calling_code": 263,
+      "nanp_area_code": "",
+      "emoji_flag": "🇿🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "NA",
+      "country_name_en": "Namibia",
+      "dial_code": "+264",
+      "country_calling_code": 264,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "MW",
+      "country_name_en": "Malawi",
+      "dial_code": "+265",
+      "country_calling_code": 265,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "LS",
+      "country_name_en": "Lesotho",
+      "dial_code": "+266",
+      "country_calling_code": 266,
+      "nanp_area_code": "",
+      "emoji_flag": "🇱🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "BW",
+      "country_name_en": "Botswana",
+      "dial_code": "+267",
+      "country_calling_code": 267,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "SZ",
+      "country_name_en": "Swaziland",
+      "dial_code": "+268",
+      "country_calling_code": 268,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "KM",
+      "country_name_en": "Comoros",
+      "dial_code": "+269",
+      "country_calling_code": 269,
+      "nanp_area_code": "",
+      "emoji_flag": "🇰🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "SH",
+      "country_name_en": "Saint Helena, Ascension and Tristan Da Cunha",
+      "dial_code": "+290",
+      "country_calling_code": 290,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "ER",
+      "country_name_en": "Eritrea",
+      "dial_code": "+291",
+      "country_calling_code": 291,
+      "nanp_area_code": "",
+      "emoji_flag": "🇪🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "AW",
+      "country_name_en": "Aruba",
+      "dial_code": "+297",
+      "country_calling_code": 297,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "FO",
+      "country_name_en": "Faroe Islands",
+      "dial_code": "+298",
+      "country_calling_code": 298,
+      "nanp_area_code": "",
+      "emoji_flag": "🇫🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "GL",
+      "country_name_en": "Greenland",
+      "dial_code": "+299",
+      "country_calling_code": 299,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "GI",
+      "country_name_en": "Gibraltar",
+      "dial_code": "+350",
+      "country_calling_code": 350,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "PT",
+      "country_name_en": "Portugal",
+      "dial_code": "+351",
+      "country_calling_code": 351,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "LU",
+      "country_name_en": "Luxembourg",
+      "dial_code": "+352",
+      "country_calling_code": 352,
+      "nanp_area_code": "",
+      "emoji_flag": "🇱🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "IE",
+      "country_name_en": "Ireland",
+      "dial_code": "+353",
+      "country_calling_code": 353,
+      "nanp_area_code": "",
+      "emoji_flag": "🇮🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "IS",
+      "country_name_en": "Iceland",
+      "dial_code": "+354",
+      "country_calling_code": 354,
+      "nanp_area_code": "",
+      "emoji_flag": "🇮🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "AL",
+      "country_name_en": "Albania",
+      "dial_code": "+355",
+      "country_calling_code": 355,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "MT",
+      "country_name_en": "Malta",
+      "dial_code": "+356",
+      "country_calling_code": 356,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "CY",
+      "country_name_en": "Cyprus",
+      "dial_code": "+357",
+      "country_calling_code": 357,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "AX",
+      "country_name_en": "Aland Islands",
+      "dial_code": "+358",
+      "country_calling_code": 358,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "FI",
+      "country_name_en": "Finland",
+      "dial_code": "+358",
+      "country_calling_code": 358,
+      "nanp_area_code": "",
+      "emoji_flag": "🇫🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "BG",
+      "country_name_en": "Bulgaria",
+      "dial_code": "+359",
+      "country_calling_code": 359,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "LT",
+      "country_name_en": "Lithuania",
+      "dial_code": "+370",
+      "country_calling_code": 370,
+      "nanp_area_code": "",
+      "emoji_flag": "🇱🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "LV",
+      "country_name_en": "Latvia",
+      "dial_code": "+371",
+      "country_calling_code": 371,
+      "nanp_area_code": "",
+      "emoji_flag": "🇱🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "EE",
+      "country_name_en": "Estonia",
+      "dial_code": "+372",
+      "country_calling_code": 372,
+      "nanp_area_code": "",
+      "emoji_flag": "🇪🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "MD",
+      "country_name_en": "Moldova",
+      "dial_code": "+373",
+      "country_calling_code": 373,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "AM",
+      "country_name_en": "Armenia",
+      "dial_code": "+374",
+      "country_calling_code": 374,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "BY",
+      "country_name_en": "Belarus",
+      "dial_code": "+375",
+      "country_calling_code": 375,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "AD",
+      "country_name_en": "Andorra",
+      "dial_code": "+376",
+      "country_calling_code": 376,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "MC",
+      "country_name_en": "Monaco",
+      "dial_code": "+377",
+      "country_calling_code": 377,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "SM",
+      "country_name_en": "San Marino",
+      "dial_code": "+378",
+      "country_calling_code": 378,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "VA",
+      "country_name_en": "Holy See (Vatican City State)",
+      "dial_code": "+379",
+      "country_calling_code": 379,
+      "nanp_area_code": "",
+      "emoji_flag": "🇻🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "UA",
+      "country_name_en": "Ukraine",
+      "dial_code": "+380",
+      "country_calling_code": 380,
+      "nanp_area_code": "",
+      "emoji_flag": "🇺🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "RS",
+      "country_name_en": "Serbia",
+      "dial_code": "+381",
+      "country_calling_code": 381,
+      "nanp_area_code": "",
+      "emoji_flag": "🇷🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "ME",
+      "country_name_en": "Montenegro",
+      "dial_code": "+382",
+      "country_calling_code": 382,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "XK",
+      "country_name_en": "Kosovo",
+      "dial_code": "+383",
+      "country_calling_code": 383,
+      "nanp_area_code": "",
+      "emoji_flag": "🇽🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "HR",
+      "country_name_en": "Croatia",
+      "dial_code": "+385",
+      "country_calling_code": 385,
+      "nanp_area_code": "",
+      "emoji_flag": "🇭🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "SI",
+      "country_name_en": "Slovenia",
+      "dial_code": "+386",
+      "country_calling_code": 386,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "BA",
+      "country_name_en": "Bosnia and Herzegovina",
+      "dial_code": "+387",
+      "country_calling_code": 387,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "MK",
+      "country_name_en": "Macedonia",
+      "dial_code": "+389",
+      "country_calling_code": 389,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "CZ",
+      "country_name_en": "Czech Republic",
+      "dial_code": "+420",
+      "country_calling_code": 420,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "SK",
+      "country_name_en": "Slovakia",
+      "dial_code": "+421",
+      "country_calling_code": 421,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "LI",
+      "country_name_en": "Liechtenstein",
+      "dial_code": "+423",
+      "country_calling_code": 423,
+      "nanp_area_code": "",
+      "emoji_flag": "🇱🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "FK",
+      "country_name_en": "Falkland Islands (Malvinas)",
+      "dial_code": "+500",
+      "country_calling_code": 500,
+      "nanp_area_code": "",
+      "emoji_flag": "🇫🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "GS",
+      "country_name_en": "South Georgia and the South Sandwich Islands",
+      "dial_code": "+500",
+      "country_calling_code": 500,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "BZ",
+      "country_name_en": "Belize",
+      "dial_code": "+501",
+      "country_calling_code": 501,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "GT",
+      "country_name_en": "Guatemala",
+      "dial_code": "+502",
+      "country_calling_code": 502,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "SV",
+      "country_name_en": "El Salvador",
+      "dial_code": "+503",
+      "country_calling_code": 503,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "HN",
+      "country_name_en": "Honduras",
+      "dial_code": "+504",
+      "country_calling_code": 504,
+      "nanp_area_code": "",
+      "emoji_flag": "🇭🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "NI",
+      "country_name_en": "Nicaragua",
+      "dial_code": "+505",
+      "country_calling_code": 505,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "CR",
+      "country_name_en": "Costa Rica",
+      "dial_code": "+506",
+      "country_calling_code": 506,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "PA",
+      "country_name_en": "Panama",
+      "dial_code": "+507",
+      "country_calling_code": 507,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "PM",
+      "country_name_en": "Saint Pierre and Miquelon",
+      "dial_code": "+508",
+      "country_calling_code": 508,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "HT",
+      "country_name_en": "Haiti",
+      "dial_code": "+509",
+      "country_calling_code": 509,
+      "nanp_area_code": "",
+      "emoji_flag": "🇭🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "BL",
+      "country_name_en": "Saint Barthelemy",
+      "dial_code": "+590",
+      "country_calling_code": 590,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "GP",
+      "country_name_en": "Guadeloupe",
+      "dial_code": "+590",
+      "country_calling_code": 590,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "MF",
+      "country_name_en": "Saint Martin",
+      "dial_code": "+590",
+      "country_calling_code": 590,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "BO",
+      "country_name_en": "Bolivia, Plurinational State of",
+      "dial_code": "+591",
+      "country_calling_code": 591,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "EC",
+      "country_name_en": "Ecuador",
+      "dial_code": "+593",
+      "country_calling_code": 593,
+      "nanp_area_code": "",
+      "emoji_flag": "🇪🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "GF",
+      "country_name_en": "French Guiana",
+      "dial_code": "+594",
+      "country_calling_code": 594,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "GY",
+      "country_name_en": "Guyana",
+      "dial_code": "+595",
+      "country_calling_code": 595,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "PY",
+      "country_name_en": "Paraguay",
+      "dial_code": "+595",
+      "country_calling_code": 595,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "MQ",
+      "country_name_en": "Martinique",
+      "dial_code": "+596",
+      "country_calling_code": 596,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "SR",
+      "country_name_en": "Suriname",
+      "dial_code": "+597",
+      "country_calling_code": 597,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "UY",
+      "country_name_en": "Uruguay",
+      "dial_code": "+598",
+      "country_calling_code": 598,
+      "nanp_area_code": "",
+      "emoji_flag": "🇺🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "AN",
+      "country_name_en": "Netherlands Antilles",
+      "dial_code": "+599",
+      "country_calling_code": 599,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "TL",
+      "country_name_en": "Timor-Leste",
+      "dial_code": "+670",
+      "country_calling_code": 670,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "country_name_en": "Antarctica",
+      "dial_code": "+672",
+      "country_calling_code": 672,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "NF",
+      "country_name_en": "Norfolk Island",
+      "dial_code": "+672",
+      "country_calling_code": 672,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "BN",
+      "country_name_en": "Brunei Darussalam",
+      "dial_code": "+673",
+      "country_calling_code": 673,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "NR",
+      "country_name_en": "Nauru",
+      "dial_code": "+674",
+      "country_calling_code": 674,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "PG",
+      "country_name_en": "Papua New Guinea",
+      "dial_code": "+675",
+      "country_calling_code": 675,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "TO",
+      "country_name_en": "Tonga",
+      "dial_code": "+676",
+      "country_calling_code": 676,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "SB",
+      "country_name_en": "Solomon Islands",
+      "dial_code": "+677",
+      "country_calling_code": 677,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "VU",
+      "country_name_en": "Vanuatu",
+      "dial_code": "+678",
+      "country_calling_code": 678,
+      "nanp_area_code": "",
+      "emoji_flag": "🇻🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "FJ",
+      "country_name_en": "Fiji",
+      "dial_code": "+679",
+      "country_calling_code": 679,
+      "nanp_area_code": "",
+      "emoji_flag": "🇫🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "PW",
+      "country_name_en": "Palau",
+      "dial_code": "+680",
+      "country_calling_code": 680,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "WF",
+      "country_name_en": "Wallis and Futuna",
+      "dial_code": "+681",
+      "country_calling_code": 681,
+      "nanp_area_code": "",
+      "emoji_flag": "🇼🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "CK",
+      "country_name_en": "Cook Islands",
+      "dial_code": "+682",
+      "country_calling_code": 682,
+      "nanp_area_code": "",
+      "emoji_flag": "🇨🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "NU",
+      "country_name_en": "Niue",
+      "dial_code": "+683",
+      "country_calling_code": 683,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "WS",
+      "country_name_en": "Samoa",
+      "dial_code": "+685",
+      "country_calling_code": 685,
+      "nanp_area_code": "",
+      "emoji_flag": "🇼🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "KI",
+      "country_name_en": "Kiribati",
+      "dial_code": "+686",
+      "country_calling_code": 686,
+      "nanp_area_code": "",
+      "emoji_flag": "🇰🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "NC",
+      "country_name_en": "New Caledonia",
+      "dial_code": "+687",
+      "country_calling_code": 687,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "TV",
+      "country_name_en": "Tuvalu",
+      "dial_code": "+688",
+      "country_calling_code": 688,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "PF",
+      "country_name_en": "French Polynesia",
+      "dial_code": "+689",
+      "country_calling_code": 689,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "TK",
+      "country_name_en": "Tokelau",
+      "dial_code": "+690",
+      "country_calling_code": 690,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "FM",
+      "country_name_en": "Micronesia, Federated States of Micronesia",
+      "dial_code": "+691",
+      "country_calling_code": 691,
+      "nanp_area_code": "",
+      "emoji_flag": "🇫🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "MH",
+      "country_name_en": "Marshall Islands",
+      "dial_code": "+692",
+      "country_calling_code": 692,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "KP",
+      "country_name_en": "Korea, Democratic People's Republic of Korea",
+      "dial_code": "+850",
+      "country_calling_code": 850,
+      "nanp_area_code": "",
+      "emoji_flag": "🇰🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "HK",
+      "country_name_en": "Hong Kong",
+      "dial_code": "+852",
+      "country_calling_code": 852,
+      "nanp_area_code": "",
+      "emoji_flag": "🇭🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "MO",
+      "country_name_en": "Macao",
+      "dial_code": "+853",
+      "country_calling_code": 853,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "KH",
+      "country_name_en": "Cambodia",
+      "dial_code": "+855",
+      "country_calling_code": 855,
+      "nanp_area_code": "",
+      "emoji_flag": "🇰🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "LA",
+      "country_name_en": "Laos",
+      "dial_code": "+856",
+      "country_calling_code": 856,
+      "nanp_area_code": "",
+      "emoji_flag": "🇱🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "PN",
+      "country_name_en": "Pitcairn",
+      "dial_code": "+872",
+      "country_calling_code": 872,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "BD",
+      "country_name_en": "Bangladesh",
+      "dial_code": "+880",
+      "country_calling_code": 880,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "TW",
+      "country_name_en": "Taiwan",
+      "dial_code": "+886",
+      "country_calling_code": 886,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "MV",
+      "country_name_en": "Maldives",
+      "dial_code": "+960",
+      "country_calling_code": 960,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "LB",
+      "country_name_en": "Lebanon",
+      "dial_code": "+961",
+      "country_calling_code": 961,
+      "nanp_area_code": "",
+      "emoji_flag": "🇱🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "JO",
+      "country_name_en": "Jordan",
+      "dial_code": "+962",
+      "country_calling_code": 962,
+      "nanp_area_code": "",
+      "emoji_flag": "🇯🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "SY",
+      "country_name_en": "Syrian Arab Republic",
+      "dial_code": "+963",
+      "country_calling_code": 963,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "IQ",
+      "country_name_en": "Iraq",
+      "dial_code": "+964",
+      "country_calling_code": 964,
+      "nanp_area_code": "",
+      "emoji_flag": "🇮🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "KW",
+      "country_name_en": "Kuwait",
+      "dial_code": "+965",
+      "country_calling_code": 965,
+      "nanp_area_code": "",
+      "emoji_flag": "🇰🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "SA",
+      "country_name_en": "Saudi Arabia",
+      "dial_code": "+966",
+      "country_calling_code": 966,
+      "nanp_area_code": "",
+      "emoji_flag": "🇸🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "YE",
+      "country_name_en": "Yemen",
+      "dial_code": "+967",
+      "country_calling_code": 967,
+      "nanp_area_code": "",
+      "emoji_flag": "🇾🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "OM",
+      "country_name_en": "Oman",
+      "dial_code": "+968",
+      "country_calling_code": 968,
+      "nanp_area_code": "",
+      "emoji_flag": "🇴🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "PS",
+      "country_name_en": "Palestinian Territory, Occupied",
+      "dial_code": "+970",
+      "country_calling_code": 970,
+      "nanp_area_code": "",
+      "emoji_flag": "🇵🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "AE",
+      "country_name_en": "United Arab Emirates",
+      "dial_code": "+971",
+      "country_calling_code": 971,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "IL",
+      "country_name_en": "Israel",
+      "dial_code": "+972",
+      "country_calling_code": 972,
+      "nanp_area_code": "",
+      "emoji_flag": "🇮🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "BH",
+      "country_name_en": "Bahrain",
+      "dial_code": "+973",
+      "country_calling_code": 973,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "QA",
+      "country_name_en": "Qatar",
+      "dial_code": "+974",
+      "country_calling_code": 974,
+      "nanp_area_code": "",
+      "emoji_flag": "🇶🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "BT",
+      "country_name_en": "Bhutan",
+      "dial_code": "+975",
+      "country_calling_code": 975,
+      "nanp_area_code": "",
+      "emoji_flag": "🇧🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "MN",
+      "country_name_en": "Mongolia",
+      "dial_code": "+976",
+      "country_calling_code": 976,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "NP",
+      "country_name_en": "Nepal",
+      "dial_code": "+977",
+      "country_calling_code": 977,
+      "nanp_area_code": "",
+      "emoji_flag": "🇳🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "TJ",
+      "country_name_en": "Tajikistan",
+      "dial_code": "+992",
+      "country_calling_code": 992,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "TM",
+      "country_name_en": "Turkmenistan",
+      "dial_code": "+993",
+      "country_calling_code": 993,
+      "nanp_area_code": "",
+      "emoji_flag": "🇹🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "AZ",
+      "country_name_en": "Azerbaijan",
+      "dial_code": "+994",
+      "country_calling_code": 994,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "GE",
+      "country_name_en": "Georgia",
+      "dial_code": "+995",
+      "country_calling_code": 995,
+      "nanp_area_code": "",
+      "emoji_flag": "🇬🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "KG",
+      "country_name_en": "Kyrgyzstan",
+      "dial_code": "+996",
+      "country_calling_code": 996,
+      "nanp_area_code": "",
+      "emoji_flag": "🇰🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "UZ",
+      "country_name_en": "Uzbekistan",
+      "dial_code": "+998",
+      "country_calling_code": 998,
+      "nanp_area_code": "",
+      "emoji_flag": "🇺🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "AG",
+      "country_name_en": "Antigua and Barbuda",
+      "dial_code": "+1268",
+      "country_calling_code": 1268,
+      "nanp_area_code": "",
+      "emoji_flag": "🇦🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "MS",
+      "country_name_en": "Montserrat",
+      "dial_code": "+1664",
+      "country_calling_code": 1664,
+      "nanp_area_code": "",
+      "emoji_flag": "🇲🇸"
+    }
+  ],
+  "meta": {
+    "title": "Mga kodigo ng telepono ng bansa - Libreng download",
+    "description": "Internasyonal na mga kodigo ng telepono (E.164 country calling codes) para sa 242 bansa at teritoryo, batay sa ISO 3166-1 alpha-2. Para sa bawat tala: pangalan ng bansa (Ingles), kodigo ng pagtawag, kodigo ng lugar para sa NANP (Hilagang Amerika +1) na mga teritoryo, at emoji-bandila. Nakuha mula sa repositoryo euvl/country-phone-number-codes (MIT). Naglalaman ng 242 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga kodigo ng telepono ng bansa | ListBase",
+    "seo_description": "I-download Mga kodigo ng telepono ng bansa — 242 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 242 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

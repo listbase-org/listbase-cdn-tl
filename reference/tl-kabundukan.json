@@ -1,0 +1,106 @@
+{
+  "id": "tl-kabundukan",
+  "name": "Mga Kabundukan ng Pilipinas (Philippine Mountain Ranges)",
+  "title": "Mga Kabundukan ng Pilipinas (Philippine Mountain Ranges)",
+  "description": "Listahan ng mga kabundukan (mountain ranges) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Naiiba sa tl-mga-bundok (mga indibidwal na bundok).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q6921979",
+      "name_tl": "Bulubundukin ng Malepunyo",
+      "name_en": "Malepunyo Mountain Range",
+      "located_in_at": "",
+      "latitude": 13.9633,
+      "longitude": 121.24,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Bulubundukin_ng_Malepunyo"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q2087864",
+      "name_tl": "Kabundukan ng Cordillera",
+      "name_en": "Cordillera Central",
+      "located_in_at": "",
+      "latitude": 17.333333,
+      "longitude": 120.95,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kabundukan_ng_Cordillera"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q145442",
+      "name_tl": "Kabundukan ng Zambales",
+      "name_en": "Zambales Mountains",
+      "located_in_at": "Tarlac",
+      "latitude": 15.481,
+      "longitude": 120.121,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kabundukan_ng_Zambales"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q2166028",
+      "name_tl": "Sierra Madre",
+      "name_en": "Sierra Madre",
+      "located_in_at": "",
+      "latitude": 16.333333,
+      "longitude": 122,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Sierra_Madre_(Pilipinas)"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kabundukan ng Pilipinas (Philippine Mountain Ranges) - Libreng download",
+    "description": "Listahan ng mga kabundukan (mountain ranges) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Naiiba sa tl-mga-bundok (mga indibidwal na bundok). Naglalaman ng 4 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Kabundukan ng Pilipinas (Philippine Mountain Ranges) | ListBase",
+    "seo_description": "I-download Mga Kabundukan ng Pilipinas (Philippine Mountain Ranges) — 4 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 4 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "tl-albay-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Albay",
+  "title": "Mga Bayan ng Lalawigan ng Albay",
+  "description": "Listahan ng 15 munisipalidad (bayan) sa lalawigan ng Albay, REGION V (BICOL REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "050501000",
+      "name": "BACACAY",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 68906,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "050502000",
+      "name": "CAMALIG",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 66904,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "050503000",
+      "name": "DARAGA (LOCSIN)",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 126595,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "050504000",
+      "name": "GUINOBATAN",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 82361,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "050505000",
+      "name": "JOVELLAR",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 17308,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "050507000",
+      "name": "LIBON",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 75172,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "050509000",
+      "name": "MALILIPOT",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 37785,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "050510000",
+      "name": "MALINAO",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 45301,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "050511000",
+      "name": "MANITO",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 24707,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "050512000",
+      "name": "OAS",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 67960,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "050513000",
+      "name": "PIO DURAN",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 46693,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "050514000",
+      "name": "POLANGUI",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 88221,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "050515000",
+      "name": "RAPU-RAPU",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 36920,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "050516000",
+      "name": "SANTO DOMINGO (LIBOG)",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 34967,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "050518000",
+      "name": "TIWI",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 53120,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Albay - Libreng download",
+    "description": "Listahan ng 15 munisipalidad (bayan) sa lalawigan ng Albay, REGION V (BICOL REGION), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 15 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Albay | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Albay — 15 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 15 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,4946 @@
+{
+  "id": "tl-western-visayas-shs-paaralan",
+  "name": "Mga Senior High School - Western Visayas (Region VI)",
+  "title": "Mga Senior High School - Western Visayas (Region VI)",
+  "description": "Mga Senior High School (SHS) sa Western Visayas (Region VI) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (488 paaralan.)",
+  "category": "education",
+  "source": "https://github.com/nedpals/k12-shs-api",
+  "source_url": "https://github.com/nedpals/k12-shs-api",
+  "updated": "2026-04",
+  "record_count": 488,
+  "columns": [
+    {
+      "key": "school_id",
+      "label": "School Id",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "school_name",
+      "label": "School Name",
+      "type": "string"
+    },
+    {
+      "key": "programs",
+      "label": "Programs",
+      "type": "string"
+    },
+    {
+      "key": "tvl_specializations",
+      "label": "Tvl Specializations",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "school_id": "302444",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CALINOG",
+      "school_name": "Alcarde Gustilo Mem. National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "302425",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "SIBUNAG",
+      "school_name": "Alegria NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "302445",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "MIAGAO",
+      "school_name": "Alejandro Firmeza MNHS",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500180",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BALETE",
+      "school_name": "Cortes IS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "302396",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "CUARTERO",
+      "school_name": "Cuartero NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302758",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Culasi National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302486",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "AJUY",
+      "school_name": "Culasi NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Medical Transcription (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "439001",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Panitan",
+      "school_name": "Daile's Franciscan Learning Institute Inc.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production"
+    },
+    {
+      "school_id": "302306",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BANGA",
+      "school_name": "Daja Sur NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Tailoring (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "500181",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "LIBACAO",
+      "school_name": "Dalagsaan IS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "311028",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ALIMODIAN",
+      "school_name": "Dalid National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "403965",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Tobias Fornier (Dao)",
+      "school_name": "Dao Catholic High School, Inc.",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Animation, Technical Drafting, Commercial Cooking, Food and Beverage Services"
+    },
+    {
+      "school_id": "310802",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DAO",
+      "school_name": "Dao National High School",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302488",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "TIGBAUAN",
+      "school_name": "Dapdap NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Handicraft- Basketry, Macrame, Handicraft- Fashion Accessories, Paper Craft, Handicraft- Needlecraft, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "302397",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "MAMBUSAO",
+      "school_name": "David Moises MHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302489",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BANATE",
+      "school_name": "De La Paz National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310617",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "LIBACAO",
+      "school_name": "Alfonso XII NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302446",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ALIMODIAN",
+      "school_name": "Alimodian NCHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Tailoring (NC II),  Carpentry (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403934",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Dela Cruz Institute of Business & Industry",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Cookery, Caregiving, Wellness Massage, Bread and Pastry Production, Front Office Services, Local Guiding Services, Carpentry, Masonry, Tile Setting, Electrical Installation and Maintenance, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "302429",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "SIBUNAG",
+      "school_name": "Desiderio C. Gange NHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Housekeeping (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "302353",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "TOBIAS FORNIER (DAO)",
+      "school_name": "Diclum NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Contact Center Services (NC II)"
+    },
+    {
+      "school_id": "302490",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "DINGLE",
+      "school_name": "Dingle NHS",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Technical Drafting (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II),  Hairdressing (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "438504",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Caluya",
+      "school_name": "Divine Word School of Semirara Island, Inc",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Automotive Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "404172",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Doane Christian Academy Foundation, Inc.",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302494",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CARLES",
+      "school_name": "Don Casimero Andrada NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302495",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SAN JOAQUIN",
+      "school_name": "Don Felix Serra NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Tailoring (NC II),  Carpentry (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "311704",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Don Ynocencio Del Rosario National High School",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "442503",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Alphacrest Academy, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403198",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Altavas",
+      "school_name": "Altavas College",
+      "programs": "ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302286",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "ALTAVAS",
+      "school_name": "Altavas NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Animation (NC II),  Consumer Electronics Servicing (NC II),  Cookery (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Food and Beverage Services (NC II), Housekeeping (NC II), Tourism Promotion Services (NC II), Attractions and Theme Parks (NC II),  Plumbing (NC I), Tile Setting (NC II)"
+    },
+    {
+      "school_id": "302437",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "SAN LORENZO",
+      "school_name": "Dr. Catalino Gallego Nava Memorial High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Organic Agriculture (NC II), Pest Management (NC II)"
+    },
+    {
+      "school_id": "310710",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SIBALOM",
+      "school_name": "Dr. Luis E. Baraquia NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302298",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MAKATO",
+      "school_name": "Dr. Ramon B. Legaspi, Sr. NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Handicraft- Fashion Accessories, Paper Craft"
+    },
+    {
+      "school_id": "302497",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "DUEÑAS",
+      "school_name": "Duenas GCHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Animation (NC II),  Organic Agriculture (NC II), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302400",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PILAR",
+      "school_name": "Dulangan NHS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310806",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DUMALAG",
+      "school_name": "Dumalag Central NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "302498",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "DUMANGAS",
+      "school_name": "Dumangas NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II),  Hairdressing (NC II), Tailoring (NC II),  Refrigeration and Air-Conditioning- Packaged Air-Conditioning Unit [PACU]/ Commercial Refrigeration Equipment [CRE] Servicing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302759",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Dumolog National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "302430",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "BUENAVISTA",
+      "school_name": "East Valencia National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302412",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "MA-AYON",
+      "school_name": "East Villaflores NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310708",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "LAUA-AN",
+      "school_name": "Eastern Laua-an NHS (Maria NHS)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302806",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CITY OF PASSI",
+      "school_name": "Efraim Santibanez National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302354",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SIBALOM",
+      "school_name": "Egaña NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Masonry (NC II), Tile Setting (NC II)"
+    },
+    {
+      "school_id": "403984",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "President Roxas",
+      "school_name": "Elizalde Academy Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302499",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SAN JOAQUIN",
+      "school_name": "Escalantera NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302500",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ESTANCIA",
+      "school_name": "Estancia National High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Computer Programming (NC IV),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302402",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DUMARAO",
+      "school_name": "Estefania Montemayor NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "404030",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Sara",
+      "school_name": "Eucharistic King Academy",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302307",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BALETE",
+      "school_name": "Father Julian C. Rago Memorial NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Medical Transcription (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302398",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PANAY",
+      "school_name": "Felix Balgos MNHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "443503",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Roxas City (Capital)",
+      "school_name": "Filamer Christian University",
+      "programs": "ABM, STEM, HUMSS, GAS, Arts and Design, TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Front Office Services, Housekeeping, Local Guiding Services, Tourism Promotion Services, Carpentry, Consumer Electronics Servicing, Electrical Installation and Maintenance, Plumbing, Tile Setting, Computer Hardware Servicing, Technical Drafting, Computer Programming, Contact Center Services, Illustration, Medical Transcription, Animation, Organic Agriculture, Horticulture, Agricultural Crops Production, Animal Production, Landscape Installation and Maintenance"
+    },
+    {
+      "school_id": "404173",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Filipino-American School Town, Inc.",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Cookery, Housekeeping, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "302404",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "MA-AYON",
+      "school_name": "Florentina B. Degala NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302737",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "Fort San pedro National High School",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302355",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "TOBIAS FORNIER (DAO)",
+      "school_name": "Gamad-Sto. Tomas NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Medical Transcription (NC II)"
+    },
+    {
+      "school_id": "440052",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Zarraga",
+      "school_name": "Gamot Cogon Institute",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "438053",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Garcia College of Technology, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Front Office Services, Housekeeping, Automotive Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Plumbing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Shielded Metal Arc Welding, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "302323",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "KALIBO (Capital)",
+      "school_name": "Gaudencio L. Vega NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Caregiving (NC II)"
+    },
+    {
+      "school_id": "302803",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CITY OF PASSI",
+      "school_name": "Gemumua Agahon National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310704",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "HAMTIC",
+      "school_name": "Gen. Leandro Fullon NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC II), Driving (NC II), Motorcycle/ Small Engine Servicing (NC II),  Cookery (NC II), Commercial Cooking (NC III),  Fashion Design (NC III), Tailoring (NC II)"
+    },
+    {
+      "school_id": "302502",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BAROTAC VIEJO",
+      "school_name": "GEN. LUNA NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "403120",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "AMA Computer College-Iloilo City",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Wellness Massage, Consumer Electronics Servicing, Computer Hardware Servicing, Animation, Computer Programming (.Net Technology), Computer Programming (Java), Computer Programming (Oracle Database), Contact Center Services"
+    },
+    {
+      "school_id": "440043",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Oton",
+      "school_name": "Georgia International Academy, Inc.",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302431",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "BUENAVISTA",
+      "school_name": "Getulio NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302357",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SAN REMIGIO",
+      "school_name": "Gideon M. Cabigunda MS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "302503",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ALIMODIAN",
+      "school_name": "Gines NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "403989",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "Buenavista",
+      "school_name": "Good Shepherd's Fold Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310707",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SAN REMIGIO",
+      "school_name": "Gov. Evelio B. Javier MNHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302356",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "HAMTIC",
+      "school_name": "Gov. Julian Fullon Pacificador NS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Bartending (NC II),  Plumbing (NC II), Tile Setting (NC II)"
+    },
+    {
+      "school_id": "302358",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "HAMTIC",
+      "school_name": "Gov. Julio V. Macuja MCHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Caregiving (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "404800",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "Buenavista",
+      "school_name": "Grace Baptist Academy",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Local Guiding Services, Tourism Promotion Services, Travel Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism"
+    },
+    {
+      "school_id": "302505",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CARLES",
+      "school_name": "GRANADA NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "311009",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CARLES",
+      "school_name": "Granada NHS-Ballesteros Campus",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Housekeeping (NC II), Local Guiding Services (NC II), Tourism Promotion Services (NC II), Attractions and Theme Parks (NC II)"
+    },
+    {
+      "school_id": "302311",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "LIBACAO",
+      "school_name": "Guadalupe NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Housekeeping (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Beauty/ Nail Care (NC II)"
+    },
+    {
+      "school_id": "439501",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "Jordan (Capital)",
+      "school_name": "Guimaras Baptist Academy, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600238",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "Buenavista",
+      "school_name": "Guimaras State College",
+      "programs": "ABM, HUMSS, STEM, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Local Guiding Services, Tourism Promotion Services, Organic Agriculture, Agricultural Crops Production, Computer Programming, Animation, Automotive Servicing, Consumer Electronics Servicing, Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II), Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "302506",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "GUIMBAL",
+      "school_name": "Guimbal NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Caregiving (NC II),  Hairdressing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "310701",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "HAMTIC",
+      "school_name": "Guintas NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500182",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BURUANGA",
+      "school_name": "Habana IS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "443520",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Roxas City (Capital)",
+      "school_name": "Hercor College, Inc",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Cookery, Bread and Pastry Production, Housekeeping, Computer Systems Servicing, Computer Programming"
+    },
+    {
+      "school_id": "302405",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PONTEVEDRA",
+      "school_name": "Hipona NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "403992",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "Nueva Valencia",
+      "school_name": "Holy Rosary Academy - Guimaras, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "404174",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Holy Rosary Academy, Inc.",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Computer Programming, Animation"
+    },
+    {
+      "school_id": "404177",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Hua Siong College of Iloilo, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403925",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Ibajay",
+      "school_name": "Ibajay Academy, Inc.",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Cookery"
+    },
+    {
+      "school_id": "302330",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "IBAJAY",
+      "school_name": "Ibajay NHS",
+      "programs": "GAS, Arts and Design",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302447",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CABATUAN",
+      "school_name": "Ambrosio Maido MNHS",
+      "programs": "TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302507",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "IGBARAS",
+      "school_name": "Igbaras NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302359",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "PATNONGON",
+      "school_name": "Igburi NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302360",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "TOBIAS FORNIER (DAO)",
+      "school_name": "Igcado NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302361",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "ANINI-Y",
+      "school_name": "Igpalge NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403997",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Barotac Nuevo",
+      "school_name": "Iloilo Christian School of Barotac Nuevo, Inc.",
+      "programs": "STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302738",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "Iloilo City National High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Housekeeping (NC II), Bread and Pastry Production (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "403130",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Iloilo Doctor's College",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Caregiving, Front Office Services, Wellness Massage, Computer Hardware Servicing, Animation"
+    },
+    {
+      "school_id": "404014",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Estancia",
+      "school_name": "Iloilo King of Glory Christian Academy Inc.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Tailoring, Dressmaking, Computer Hardware Servicing, Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "407064",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Pavia",
+      "school_name": "Iloilo Merchant Marine School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Programming, Computer Systems Servicing, Food and Beverage Services, Bartending, Housekeeping"
+    },
+    {
+      "school_id": "302509",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "Iloilo NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Arts and Design, Sports",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Tailoring (NC II),  Computer Programming (NC IV), Animation (NC II),  Tailoring (NC II), Housekeeping (NC II)"
+    },
+    {
+      "school_id": "442519",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Iloilo Scholastic Academy",
+      "programs": "STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600240",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Barotac Nuevo",
+      "school_name": "Iloilo Science and Technology University-Barotac Nuevo",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Hairdressing, Tailoring, Handicraft [Fashion Accessories, Paper Craft], Handicraft [Woodcraft, Leathercraft], Cookery, Food and Beverage Services, Bread and Pastry Production, Housekeeping, Automotive Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Carpentry, Plumbing, Tile Setting, Masonry, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "600245",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Dumangas",
+      "school_name": "Iloilo Science and Technology University-Dumangas",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Bread and Pastry Production, Housekeeping, Automotive Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "600252",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Iloilo Science and Technology University-La Paz",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Hairdressing, Housekeeping, Dressmaking, Tailoring, Beauty Care, Bread and Pastry Production, Local Guiding Services, Automotive Servicing, Refrigeration and Air-conditioning Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Computer Hardware Servicing, Computer Programming, Animation"
+    },
+    {
+      "school_id": "600248",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Miagao",
+      "school_name": "Iloilo Science and Technology University-Miag-ao",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Hairdressing, Housekeeping, Handicraft [Basketry, Macrame], Handicraft [Fashion Accessories, Paper Craft], Handicraft [Needlecraft], Handicraft [Woodcraft, Leathercraft], Automotive Servicing, Refrigeration and Air-conditioning Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "600239",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Barotac Nuevo",
+      "school_name": "Iloilo State College of Fisheries- Barotac Nuevo",
+      "programs": "STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Housekeeping, Electrical Installation and Maintenance, Automotive Servicing, Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "600251",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "San Enrique",
+      "school_name": "Iloilo State College of Fisheries- San Enrique",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Animal Production, Agricultural Crops Production, Food and Beverage Services, Housekeeping, Computer Hardware Servicing, Electrical Installation and Maintenance, Automotive Servicing"
+    },
+    {
+      "school_id": "600241",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Barotac Nuevo",
+      "school_name": "Iloilo State College of Fisheries-Main (Tiwi)",
+      "programs": "STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403990",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "Jordan (Capital)",
+      "school_name": "Immaculate Heart of Mary Academy of Guimaras",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "407531",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Infant Jesus Academy",
+      "programs": "GAS, STEM, HUMSS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403935",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Infant Jesus School",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Local Guiding Services, Bread and Pastry Production, Food and Beverage Services, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "403953",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Numancia",
+      "school_name": "Irao Institute",
+      "programs": "TVL",
+      "tvl_specializations": "Travel Services, Tourism Promotion Services, Beauty/Nail Care, Hairdressing, Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "302406",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "IVISAN",
+      "school_name": "Ivisan NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Consumer Electronics Servicing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302408",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "JAMINDAN",
+      "school_name": "Jagnaya NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302742",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "Jalandoni Memorial National High School",
+      "programs": "ABM, GAS, HUMSS, TVL, Sports",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Masonry (NC II)"
+    },
+    {
+      "school_id": "302409",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "JAMINDAN",
+      "school_name": "Jamindan NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Shielded Metal Arc Welding (NC II), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302512",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "JANIUAY",
+      "school_name": "Janiuay NCHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Automotive Servicing (NC I),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Animation (NC II),  Caregiving (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302744",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "Jaro National High School",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Local Guiding Services (NC II), Tourism Promotion Services (NC II)"
+    },
+    {
+      "school_id": "500183",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "TANGALAN",
+      "school_name": "Jawili IS",
+      "programs": "TVL",
+      "tvl_specializations": "Housekeeping (NC II), Front Office Services (NC II), Contact Center Services (NC II)"
+    },
+    {
+      "school_id": "311003",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "LAMBUNAO",
+      "school_name": "Jayobo NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "302513",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "NEW LUCENA",
+      "school_name": "Jelicuon-Cabugao NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "403959",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Pandan",
+      "school_name": "Jinalinan Academy, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Caregiving"
+    },
+    {
+      "school_id": "407634",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "John B. Lacson Foundation Maritime University - Arevalo, Inc.",
+      "programs": "GAS, Sports",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "442572",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "John B. Lacson Foundation Maritime University-Molo, Inc",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Food and Beverage Services, Front Office Services, Local Guiding Services, Tourism Promotion Services, Animation, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "302432",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "JORDAN (Capital)",
+      "school_name": "Jordan NHS",
+      "programs": "STEM, GAS, TVL, Arts and Design",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Local Guiding Services (NC II), Tourism Promotion Services (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "302308",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BALETE",
+      "school_name": "Jose Borromeo Legaspi NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Technical Drafting (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "302309",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BALETE",
+      "school_name": "Jose F. Meñez Memorial NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Housekeeping (NC II), Dressmaking (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302514",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "POTOTAN",
+      "school_name": "Jose Facultad MNHS",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "438010",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Joselito Alba Vocational and Technical School",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Housekeeping"
+    },
+    {
+      "school_id": "311025",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BINGAWAN",
+      "school_name": "Jovita Alfaras Rivera NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "404163",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Angelicum School",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302287",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "ALTAVAS",
+      "school_name": "Justicia Morales Young NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Organic Agriculture (NC II), Landscape Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403923",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Batan",
+      "school_name": "Kalantiaw Institute",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403936",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Kalibo Institute, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500179",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "KALIBO (Capital)",
+      "school_name": "Kalibo Integrated Special Education Center",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Technical Drafting (NC II)"
+    },
+    {
+      "school_id": "404020",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Miagao",
+      "school_name": "Kaunlaran Integrated School Foundation, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500175",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MALINAO",
+      "school_name": "Kinalangay Viejo IS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302515",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "MIAGAO",
+      "school_name": "Kirayan NHS",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302516",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SAN MIGUEL",
+      "school_name": "L.S. Salapantan NHS",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Tailoring (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302449",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ANILAO",
+      "school_name": "Anilao NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "302747",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "La Paz National high School",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "310603",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MALAY",
+      "school_name": "Lamberto H. Tirol NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302517",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "LAMBUNAO",
+      "school_name": "Lambunao NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Computer Programming (NC IV),  Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "311005",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "TUBUNGAN",
+      "school_name": "Lanag Norte NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Tailoring (NC II),  Carpentry (NC II),  Masonry (NC II), Tile Setting (NC II)"
+    },
+    {
+      "school_id": "302362",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "LAUA-AN",
+      "school_name": "Laua-an NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "302520",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "LEGANES",
+      "school_name": "Leganes National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302521",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "LEMERY",
+      "school_name": "Lemery National High School",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302410",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PANITAN",
+      "school_name": "Leodegario D. Deocampo Sr. NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302522",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "LEON",
+      "school_name": "Leon NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Tailoring (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "446002",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "City of Passi",
+      "school_name": "Academia de San Guillermo",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302305",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MAKATO",
+      "school_name": "Anselmo B. Legaspi NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "302341",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SAN JOSE (Capital)",
+      "school_name": "Antique NS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Arts and Design, Sports",
+      "tvl_specializations": "Animation (NC II), Medical Transcription (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II),  Tailoring (NC II), Fashion Design (NC III)"
+    },
+    {
+      "school_id": "302342",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "BUGASONG",
+      "school_name": "Antique VS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC II), Motorcycle/ Small Engine Servicing (NC II), Driving (NC II),  Barbering (NC II),  Commercial Cooking (NC III), Bartending (NC II),  Electrical Installation and Maintenance (NC II),  Masonry (NC II), Tile Setting (NC II),  Tailoring (NC II), Fashion Design (NC III)"
+    },
+    {
+      "school_id": "500171",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "LEZO",
+      "school_name": "Lezo IS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Housekeeping (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Local Guiding Services (NC II)"
+    },
+    {
+      "school_id": "403942",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Lezo",
+      "school_name": "Lezo Technical College",
+      "programs": "TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services"
+    },
+    {
+      "school_id": "302310",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "LIBACAO",
+      "school_name": "Libacao National Forestry Vocational HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Technical Drafting (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Housekeeping (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Tailoring (NC II),  Wellness Massage (NC II), Artificial Insemination- Swine (NC II), Slaughtering Operation (NC II), Artificial Insemination- Ruminants (NC II)"
+    },
+    {
+      "school_id": "302363",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "LIBERTAD",
+      "school_name": "Libertad NVS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Commercial Cooking (NC III),  Fashion Design (NC III), Tailoring (NC II),  Hairdressing (NC III),  Instrumentation and Control Servicing (NC II), Mechatronics Servicing (NC II)"
+    },
+    {
+      "school_id": "302312",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MALINAO",
+      "school_name": "Liloan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302313",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "KALIBO (Capital)",
+      "school_name": "Linabuan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Housekeeping (NC II), Attractions and Theme Parks (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "302288",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "ALTAVAS",
+      "school_name": "Linayasan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Caregiving (NC II)"
+    },
+    {
+      "school_id": "302364",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "PATNONGON",
+      "school_name": "Lirio M. Escaño, Sr. NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Front Office Services (NC II), Local Guiding Services (NC II), Travel Services (NC II), Tourism Promotion Services (NC II)"
+    },
+    {
+      "school_id": "302314",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "LIBACAO",
+      "school_name": "Loctuga NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310810",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "SAPI-AN",
+      "school_name": "Lonoy National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "311007",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CONCEPCION",
+      "school_name": "Loong NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "302411",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "JAMINDAN",
+      "school_name": "Lucero NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302415",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DAO",
+      "school_name": "Luis Escutin NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310601",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "ALTAVAS",
+      "school_name": "Lupo NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II)"
+    },
+    {
+      "school_id": "302524",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "MAASIN",
+      "school_name": "Maasin NCHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Animation (NC II),  Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Hairdressing (NC II), Wellness Massage (NC II), Beauty/ Nail Care (NC II)"
+    },
+    {
+      "school_id": "302413",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "MA-AYON",
+      "school_name": "Maayon NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "302407",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "JAMINDAN",
+      "school_name": "Macario Delfin Bermejo NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302315",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MADALAG",
+      "school_name": "Madalag NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "403954",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Numancia",
+      "school_name": "Madyaas Institute Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302365",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "PANDAN",
+      "school_name": "Mag-aba NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "310804",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "CUARTERO",
+      "school_name": "Maindang NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500172",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MAKATO",
+      "school_name": "Makato IS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Local Guiding Services (NC II), Food and Beverage Services (NC II), Beauty/ Nail Care (NC II), Tourism Promotion Services (NC II)"
+    },
+    {
+      "school_id": "302317",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MALAY",
+      "school_name": "Malay NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Housekeeping (NC II), Wellness Massage (NC II), Tourism Promotion Services (NC II),  Carpentry (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "302319",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MALINAO",
+      "school_name": "Malinao School for Phil. Craftsmen",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "302526",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CALINOG",
+      "school_name": "Malitbog NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC II), Plumbing (NC II)"
+    },
+    {
+      "school_id": "302320",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "IBAJAY",
+      "school_name": "Maloco NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV),  Carpentry (NC II),  Dressmaking (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302414",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DAO",
+      "school_name": "MALONOY NATIONAL HIGH SCHOOL (DAO)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animal Production (NC II), Artificial Insemination- Swine (NC II)"
+    },
+    {
+      "school_id": "302527",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "DUEÑAS",
+      "school_name": "Malusgod NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Consumer Electronics Servicing (NC II)"
+    },
+    {
+      "school_id": "310813",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "MAMBUSAO",
+      "school_name": "Mambusao East NHS (ext. of David Moises)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310805",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "MAMBUSAO",
+      "school_name": "MAMBUSAO NATIONAL HIGH SCHOOL",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302749",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "Mandurriao National High School",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Handicraft- Basketry, Macrame, Cookery (NC II),  Handicraft- Fashion Accessories, Paper Craft, Food and Beverage Services (NC II), Handicraft- Needlecraft, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "310602",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BANGA",
+      "school_name": "Mangan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Housekeeping (NC II), Attractions and Theme Parks (NC II)"
+    },
+    {
+      "school_id": "302416",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DUMARAO",
+      "school_name": "Manuel F. Onato NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302419",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PILAR",
+      "school_name": "Marciano M. Patricio (Pilar)",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "500193",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Marcos Fuentes Integrated School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "404001",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Calinog",
+      "school_name": "Mary Immaculate Academy",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Computer Programming"
+    },
+    {
+      "school_id": "407532",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Dingle",
+      "school_name": "Mater Carmeli School",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302385",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DAO",
+      "school_name": "Arturo Jugo NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500185",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MADALAG",
+      "school_name": "Medina IS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "403927",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Ibajay",
+      "school_name": "Melchor Memorial School, Inc.",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302531",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "MIAGAO",
+      "school_name": "Miagao NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Tailoring (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "310815",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "SIGMA",
+      "school_name": "Mianay NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "302532",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "LEMERY",
+      "school_name": "Milan NHS",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302760",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Milibili National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302533",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "MINA",
+      "school_name": "Mina NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Food (Fish) Processing (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "407421",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Asian College of Aeronautics, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Masonry"
+    },
+    {
+      "school_id": "438027",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "New Washington",
+      "school_name": "Montfort Technical Institute",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/Nail Care, Wellness Massage, Dressmaking, Hairdressing, Barbering, Automotive Servicing, Consumer Electronics Servicing, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "302366",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "HAMTIC",
+      "school_name": "Moscoso-Rios NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Housekeeping (NC II)"
+    },
+    {
+      "school_id": "302804",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CITY OF PASSI",
+      "school_name": "Mulapula National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Housekeeping (NC II), Handicraft- Needlecraft"
+    },
+    {
+      "school_id": "302321",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "IBAJAY",
+      "school_name": "Naile NS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "302322",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "IBAJAY",
+      "school_name": "Naisud NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Dressmaking (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "500176",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BATAN",
+      "school_name": "NAPTI IS",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "302325",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MALINAO",
+      "school_name": "Navitas NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Hairdressing (NC II), Handicraft- Basketry, Macrame, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "302539",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "NEW LUCENA",
+      "school_name": "New Lucena National Comprehensive High School",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Caregiving (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302540",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "NEW LUCENA",
+      "school_name": "New Lucena NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "302303",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "NEW WASHINGTON",
+      "school_name": "New Washington NCHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Hairdressing (NC II),  Carpentry (NC II),  Computer Programming (NC IV), Animation (NC II)"
+    },
+    {
+      "school_id": "302541",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SAN DIONISIO",
+      "school_name": "Nicomedes R. Tubar Sr. NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Caregiving (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "302367",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "CULASI",
+      "school_name": "Northern Antique VS",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC II), Driving (NC II), Motorcycle/ Small Engine Servicing (NC II),  Bartending (NC II), Events Management Services (NC III),  Carpentry (NC III), Plumbing (NC I),  Cookery (NC II), Commercial Cooking (NC III),  Electric Power Distribution Line Construction (NC II), Carpentry (NC III),  Electrical Installation and Maintenance (NC II),  Gas Metal Arc Welding- GMAW (NC II), Gas Tungsten Arc Welding- GTAW (NC II),  Mechatronics Servicing (NC II), Instrumentation and Control Servicing (NC II),  Telecom OSP and Subscriber Line Installation- Copper Cable/ POTS and DSL (NC II), Telecom OSP Installation- Fiber Optic Cable (NC II)"
+    },
+    {
+      "school_id": "302368",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "BUGASONG",
+      "school_name": "Northern Bugasong NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310709",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "BUGASONG",
+      "school_name": "Northern Bugasong NHS Annex - Pangalcagan Campus",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600066",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Estancia",
+      "school_name": "Northern Iloilo Polytechnic State University",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Automotive Servicing, Electrical Installation and Maintenance, Computer Programming"
+    },
+    {
+      "school_id": "403938",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Northwestern Visayan Colleges",
+      "programs": "STEM, ABM, HUMSS, GAS, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Arts and Design Track, Sports Track, TVL, Hairdressing, Bread and Pastry Production, Food and Beverage Services, Local Guiding Services, Tourism Promotion Services, Housekeeping, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Horticulture, Organic Agriculture, Aquaculture, Carpentry, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Computer Hardware Servicing, Animation, Computer Programming"
+    },
+    {
+      "school_id": "439502",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "Sibunag",
+      "school_name": "Notre Dame Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302434",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "NUEVA VALENCIA",
+      "school_name": "Nueva Valencia National High School",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Wellness Massage (NC II), Beauty/ Nail Care (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "500035",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "NUMANCIA",
+      "school_name": "Numancia IS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Bread and Pastry Production (NC II), Housekeeping (NC II)"
+    },
+    {
+      "school_id": "302327",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "NUMANCIA",
+      "school_name": "Numancia Nat'l School of Fisheries",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Contact Center Services (NC II), Cookery (NC II),  Technical Drafting (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "302328",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "NEW WASHINGTON",
+      "school_name": "Ochando NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302329",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "IBAJAY",
+      "school_name": "Ondoy NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Masonry (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "500174",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "LIBACAO",
+      "school_name": "Ortega IS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403127",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Assumption School Iloilo",
+      "programs": "STEM, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "404231",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "City of Passi",
+      "school_name": "Assumption School-Passi",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302542",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "OTON",
+      "school_name": "Oton National High School",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Hairdressing (NC II),  Computer Programming (NC IV), Animation (NC II),  Electrical Installation and Maintenance (NC II),  Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Attractions and Theme Parks (NC II)"
+    },
+    {
+      "school_id": "403975",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Dao",
+      "school_name": "Our Lady of Fatima Academy",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Programming, Animation"
+    },
+    {
+      "school_id": "404194",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Roxas City (Capital)",
+      "school_name": "Our Lady of Grace Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403065",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Dumarao",
+      "school_name": "Our Lady of Snows Institute",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "311006",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "DUMANGAS",
+      "school_name": "P.D. Monfort National Science HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302543",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "DUMANGAS",
+      "school_name": "Pagdugue NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "302546",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "POTOTAN",
+      "school_name": "Palanguia National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Cookery (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "403939",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Nabas",
+      "school_name": "Panay Technological College",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Consumer Electronics Servicing, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "302331",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "TANGALAN",
+      "school_name": "Panayakan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Masonry (NC II), Plumbing (NC I)"
+    },
+    {
+      "school_id": "404188",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Ateneo de Iloilo",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302343",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "PATNONGON",
+      "school_name": "Aureliana NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403968",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Pandan",
+      "school_name": "Pandan Bay Institute, Inc.",
+      "programs": "STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Animation, Computer Systems Servicing"
+    },
+    {
+      "school_id": "302369",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "PANDAN",
+      "school_name": "Pandan NVHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "302370",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SIBALOM",
+      "school_name": "Pangpang NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Cookery (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302418",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PANITAN",
+      "school_name": "Panitan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302548",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "TIGBAUAN",
+      "school_name": "Parara NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "404190",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "PAREF Westbridge School, Inc.",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403981",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Ponteverde",
+      "school_name": "Parish School of Saint Isidore-High School Department, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302549",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "GUIMBAL",
+      "school_name": "Particion NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302371",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "TOBIAS FORNIER (DAO)",
+      "school_name": "Pascual M. Osuyos MS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "446007",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "City of Passi",
+      "school_name": "Passi Montessori International School, Inc.",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302805",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CITY OF PASSI",
+      "school_name": "Passi National High School",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Motorcycle/ Small Engine Servicing (NC II), Plumbing (NC I)"
+    },
+    {
+      "school_id": "302372",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "PANDAN",
+      "school_name": "Patria NS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Plumbing (NC I), Plumbing (NC II)"
+    },
+    {
+      "school_id": "302550",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "PAVIA",
+      "school_name": "Pavia National High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Computer Programming (NC IV),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "310812",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PANAY",
+      "school_name": "Pawa National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "302551",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SANTA BARBARA",
+      "school_name": "Payao NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302290",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BANGA",
+      "school_name": "Pedronilo C. Ibadlit NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403249",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "Nueva Valencia",
+      "school_name": "Philippine College of Business and Accountancy",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310901",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "SIBUNAG",
+      "school_name": "Ayangan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302552",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "AJUY",
+      "school_name": "Pili NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Animation (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "500186",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "NEW WASHINGTON",
+      "school_name": "Pinamuk-an IS",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "302373",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SIBALOM",
+      "school_name": "Pis-anan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Food and Beverage Services (NC II), Hairdressing (NC II),  Consumer Electronics Servicing (NC II)"
+    },
+    {
+      "school_id": "302555",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CONCEPCION",
+      "school_name": "Polopiña NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403982",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Pontevedra",
+      "school_name": "Pontevedra Christian School, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302420",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PONTEVEDRA",
+      "school_name": "Pontevedra NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "302556",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "POTOTAN",
+      "school_name": "Pototan National Comprehensive High School",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Masonry (NC II), Tile Setting (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "310814",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DUMARAO",
+      "school_name": "Presentacion Diez Gregorio NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403132",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Professional Electronics Institute, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Bread and Pastry Production, Cookery, Consumer Electronics Servicing, Automotive Servicing, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "302289",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BANGA",
+      "school_name": "Bacan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Handicraft- Basketry, Macrame, Handicraft- Woodcraft, Leathercraft , Tailoring (NC II),  Shielded Metal Arc Welding (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302421",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "CUARTERO",
+      "school_name": "Putian NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "440019",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Tigbauan",
+      "school_name": "Queen of Heaven Mission School, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302559",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "MAASIN",
+      "school_name": "Quiling NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC II), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302560",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "JANIUAY",
+      "school_name": "Quipot National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302417",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DUMARAO",
+      "school_name": "Ramon A. Benjamin Sr. NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302750",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "Ramon Avancena National High School",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Contact Center Services (NC II), Computer Programming (NC IV),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "302332",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "KALIBO (Capital)",
+      "school_name": "Regional Science High School",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310809",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "TAPAZ",
+      "school_name": "REV. TOMAS CONEJAR NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302746",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "RG Hechanova Memorial National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302333",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BATAN",
+      "school_name": "Rizal J. Rodriguez, Sr. NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Technical Drafting (NC II)"
+    },
+    {
+      "school_id": "302484",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CONCEPCION",
+      "school_name": "Roberto H. Tirol NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "302452",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BADIANGAN",
+      "school_name": "Badiangan NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "302334",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MALINAO",
+      "school_name": "Rosario NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "311702",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Roxas City School for Philippine Craftsmen",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Gas Metal Arc Welding- GMAW (NC II), Gas Tungsten Arc Welding- GTAW (NC II),  Hairdressing (NC II), Barbering (NC II),  Tailoring (NC II), Handicraft- Fashion Accessories, Paper Craft, Handicraft- Needlecraft"
+    },
+    {
+      "school_id": "311008",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "DINGLE",
+      "school_name": "Rufino G. Palabrica, Sr. NHS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "404034",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Zarraga",
+      "school_name": "Sacred Heart Academy, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Bread and Pastry Production, Cookery, Food and Beverage Services, Housekeeping, Animation, Computer Programming"
+    },
+    {
+      "school_id": "403067",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Mambusao",
+      "school_name": "Saint Catherine Academy",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403940",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Saint Gabriel College, Inc.",
+      "programs": "ABM, STEM, GAS, TVL",
+      "tvl_specializations": "Wellness Massage, Beauty/Nail Care, Hairdressing, Caregiving"
+    },
+    {
+      "school_id": "403007",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Bugasong",
+      "school_name": "Saint Joseph Academy",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Animation, Computer Programming"
+    },
+    {
+      "school_id": "403068",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "President Roxas",
+      "school_name": "Saint Joseph Diocesan School, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405996",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Dumalag",
+      "school_name": "Saint Martin Academy, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "404196",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Roxas City (Capital)",
+      "school_name": "Saint Mary's Academy of Capiz",
+      "programs": "STEM, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "311024",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "TIGBAUAN",
+      "school_name": "Bagacay National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302755",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Bago National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310801",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "TAPAZ",
+      "school_name": "Bagong Barrio NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302807",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CITY OF PASSI",
+      "school_name": "Salngan National High School",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Handicraft- Needlecraft, Tailoring (NC II)"
+    },
+    {
+      "school_id": "302436",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "NUEVA VALENCIA",
+      "school_name": "Salvacion Nhs",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "310808",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "CUARTERO",
+      "school_name": "San Antonio National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302564",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SAN ENRIQUE",
+      "school_name": "San Enrique NCHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Hairdressing (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "302565",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CARLES",
+      "school_name": "San Fernando NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302566",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SAN JOAQUIN",
+      "school_name": "SAN JOAQUIN SCHOOL OF FISHERIES",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Rice Machinery Operation (NC II),  Aquaculture (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Computer Programming (NC IV),  Consumer Electronics Servicing (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "404031",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Sara",
+      "school_name": "San Juan Academy, Inc",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302439",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "SAN LORENZO",
+      "school_name": "San Lorenzo NHS - Suclaran Annex",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302422",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PILAR",
+      "school_name": "San Nicolas NHS (Pilar)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302423",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "TAPAZ",
+      "school_name": "San Nicolas NHS (Tapaz)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302375",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SAN JOSE (Capital)",
+      "school_name": "San Pedro NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302569",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SAN RAFAEL",
+      "school_name": "San Rafael NHS (San Rafael)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Consumer Electronics Servicing (NC II),  Horticulture (NC II),  Housekeeping (NC II), Wellness Massage (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "302376",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "ANINI-Y",
+      "school_name": "San Roque-Ezpeleta NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Front Office Services (NC II), Housekeeping (NC II), Local Guiding Services (NC II), Travel Services (NC II)"
+    },
+    {
+      "school_id": "404186",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Santa Clarita International School, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "404187",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Santa Isabel International School, Inc.",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "311004",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BAROTAC VIEJO",
+      "school_name": "Santiago NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "302424",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "SAPI-AN",
+      "school_name": "Sapian National High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Contact Center Services (NC II),  Cookery (NC II), Commercial Cooking (NC III)"
+    },
+    {
+      "school_id": "302570",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SARA",
+      "school_name": "Sara NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Computer Programming (NC IV),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "302377",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SEBASTE",
+      "school_name": "Sebaste HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Slaughtering Operation (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "403963",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Caluya",
+      "school_name": "Semirara Adventist Academy Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "310705",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "CALUYA",
+      "school_name": "Semirara NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Commercial Cooking (NC III),  Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "302454",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BALASAN",
+      "school_name": "Balasan NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Shielded Metal Arc Welding (NC II),  Carpentry (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403919",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Balete",
+      "school_name": "Balete Academy, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310703",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SIBALOM",
+      "school_name": "Sibalom NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Hairdressing (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "310706",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "CALUYA",
+      "school_name": "Sibay NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302378",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SIBALOM",
+      "school_name": "Sido-San Juan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302433",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "NUEVA VALENCIA",
+      "school_name": "Simeon J. Jabasa NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302571",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SAN JOAQUIN",
+      "school_name": "Sinogbuhan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302335",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "NABAS",
+      "school_name": "Solido NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Cookery (NC II), Housekeeping (NC II)"
+    },
+    {
+      "school_id": "302756",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Balijuagan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302379",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "BUGASONG",
+      "school_name": "Southern Bugasong NHS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "311501",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "SPED-ISEC Integrated School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403957",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Anini-y",
+      "school_name": "St. Andrew's High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "438029",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Nabas",
+      "school_name": "St. Anne Business Institute, Inc.",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Cookery, Bread and Pastry Production, Food and Beverage Services, Housekeeping, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "406705",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "St. Anne Montessori School Kalibo Aklan, Inc.",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403182",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Roxas City (Capital)",
+      "school_name": "St. Anthony College of Roxas City, Inc.",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Caregiving"
+    },
+    {
+      "school_id": "438501",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "San Jose",
+      "school_name": "St. Anthony's College",
+      "programs": "ABM, HUMSS, STEM, GAS, Sports, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Technical Drafting, Animation, Food and Beverage Services, Commercial Cooking"
+    },
+    {
+      "school_id": "403960",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Barbaza",
+      "school_name": "St. Anthony's High School of Barbaza, Inc.",
+      "programs": "ABM, STEM, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Housekeeping, Animation, Computer Systems Servicing"
+    },
+    {
+      "school_id": "404011",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Dumangas",
+      "school_name": "St. Augustine Catholic School",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Programming, Computer Systems Servicing"
+    },
+    {
+      "school_id": "403138",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "St. Augustine School of Nursing-Iloilo City",
+      "programs": "ABM, STEM, TVL",
+      "tvl_specializations": "Tourism Promotion Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Consumer Electronics Servicing, Animation"
+    },
+    {
+      "school_id": "403969",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Patnongon",
+      "school_name": "St. Augustine's Academy of Patnongon, Inc.",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403972",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Sebaste",
+      "school_name": "St. Blaise High School",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "404018",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Leon",
+      "school_name": "St. Catherine Parochial School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403991",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "Jordan (Capital)",
+      "school_name": "St. Joseph School-Hijas de Jesus, Incorporated",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Contact Center Services, Computer Systems Servicing"
+    },
+    {
+      "school_id": "403194",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Malinao",
+      "school_name": "St. Joseph's Academy of Malinao, Aklan, Inc.",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "439007",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Panitan",
+      "school_name": "St. Lawrence Parochial School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "440046",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Dumangas",
+      "school_name": "St. Louis de Montfort Academy",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Housekeeping"
+    },
+    {
+      "school_id": "404021",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Miagao",
+      "school_name": "St. Louise de Marillac School of Miagao",
+      "programs": "STEM, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403974",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Valderrama",
+      "school_name": "St. Luke's Academy, Inc",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403009",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Culasi",
+      "school_name": "St. Michael High School of Culasi, Inc.",
+      "programs": "ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403999",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Barotac Viejo",
+      "school_name": "St. Paul School, Barotac Viejo, Iloilo, Inc.",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403108",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Barotac Nuevo",
+      "school_name": "St. Paul School-Barotac Nuevo",
+      "programs": "STEM, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "442600",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "St. Paul University Iloilo",
+      "programs": "ABM, STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Caregiving, Tailoring, Bread and Pastry Production, Local Guiding Services, Housekeeping, Food and Beverage Services, Tourism Promotion Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Cookery, Dressmaking, Computer Programming, Animation, Computer Systems Servicing, Medical Transcription"
+    },
+    {
+      "school_id": "443502",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Roxas City (Capital)",
+      "school_name": "St. Pius X Seminary",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "442580",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "St. Robert's International Academy, Inc.",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Computer Programming, Contact Center Services"
+    },
+    {
+      "school_id": "442612",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "St. Therese - MTC Colleges-Jalandoni, Inc.",
+      "programs": "ABM, HUMSS, STEM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Cookery, Housekeeping, Shielded Metal Arc Welding, Animation, Computer Hardware Servicing, Computer Programming, Medical Transcription"
+    },
+    {
+      "school_id": "302455",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BANATE",
+      "school_name": "Banate NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Computer Programming (NC IV),  Consumer Electronics Servicing (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "311017",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ALIMODIAN",
+      "school_name": "Bancal NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Housekeeping (NC II), Attractions and Theme Parks (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "407660",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "St. Therese - MTC Colleges-Tigbauan, Inc.",
+      "programs": "STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Caregiving, Cookery, Food and Beverage Services, Housekeeping, Bartending, Shielded Metal Arc Welding, Computer Hardware Servicing, Animation, Computer Programming, Medical Transcription"
+    },
+    {
+      "school_id": "403958",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Anini-y",
+      "school_name": "St. Therese's High School, Inc.",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Cookery"
+    },
+    {
+      "school_id": "403140",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "St. Therese-MTC Colleges-La Fiesta",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Caregiving, Food and Beverage Services, Front Office Services, Housekeeping, Local Guiding Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Travel Services, Tourism Promotion Services"
+    },
+    {
+      "school_id": "442573",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "St. Vincent Ferrer Seminary",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403971",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "San Remigio",
+      "school_name": "St. Vincent's High School of San Remegio, Inc.",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302380",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "PANDAN",
+      "school_name": "Sta. Ana NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "302573",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SANTA BARBARA",
+      "school_name": "Sta. Barbara NCHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Hairdressing (NC II), Tailoring (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302381",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "TIBIAO",
+      "school_name": "Sta. Justa NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Technical Drafting (NC II)"
+    },
+    {
+      "school_id": "438011",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Starglow Center for Academics and Arts, Inc.",
+      "programs": "GAS, ABM, STEM, Arts and Design",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "439004",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Pontevedra",
+      "school_name": "Step by Step Christian Academy",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403149",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "STI College - Iloilo",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Programming, Computer Hardware Servicing, Broadband Installation (Fixed Wireless Systems)"
+    },
+    {
+      "school_id": "402999",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "STI College - Kalibo",
+      "programs": "GAS, ABM, STEM, TVL",
+      "tvl_specializations": "Bartending, Local Guiding Services, Travel Services, Tourism Promotion Services, Front Office Services, Cookery, Commercial Cooking, Computer Programming, Computer Hardware Servicing, Broadband Installation (Fixed Wireless Systems)"
+    },
+    {
+      "school_id": "403956",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Numancia",
+      "school_name": "Sto. Niño Seminary",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "404189",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Sun Yat Sen High School of Iloilo, Inc.",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "310902",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "BUENAVISTA",
+      "school_name": "Supang National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Consumer Electronics Servicing (NC II)"
+    },
+    {
+      "school_id": "311013",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "MIAGAO",
+      "school_name": "Supt. Arsenio M. Napud MHS",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "500187",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BATAN",
+      "school_name": "Tabon IS",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "311021",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "LEON",
+      "school_name": "TACUYONG SUR NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II),  Landscape Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403116",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "ACLC College of Iloilo",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Computer Programming"
+    },
+    {
+      "school_id": "405880",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "ACSI College Iloilo, Inc.",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "302344",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "SAN REMIGIO",
+      "school_name": "Barangbang NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "302577",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CARLES",
+      "school_name": "Talingting NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "500173",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "TANGALAN",
+      "school_name": "Tamalagon IS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Technical Drafting (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "311012",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CONCEPCION",
+      "school_name": "Tambaliza NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Attractions and Theme Parks (NC II), Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "302336",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "TANGALAN",
+      "school_name": "Tangalan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Dressmaking (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "302761",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Tanque National High School",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "310803",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "TAPAZ",
+      "school_name": "Tapaz NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "310702",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "TIBIAO",
+      "school_name": "Tario Lim MHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "302345",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "TOBIAS FORNIER (DAO)",
+      "school_name": "Barasanan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "302346",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "BARBAZA",
+      "school_name": "Barbaza NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Technical Drafting (NC II),  Caregiving (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302457",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BAROTAC NUEVO",
+      "school_name": "Barotac Nuevo National Comprehensive High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302458",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BAROTAC VIEJO",
+      "school_name": "Barotac Viejo NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Consumer Electronics Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302578",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "TIGBAUAN",
+      "school_name": "Tigbauan NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Tailoring (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302580",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BADIANGAN",
+      "school_name": "Tina National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "302382",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "CALUYA",
+      "school_name": "Tinogboc NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500191",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ILOILO CITY (Capital)",
+      "school_name": "Tiu Cho Tec-Ana Ros F.I. S.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302337",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "NABAS",
+      "school_name": "Toledo NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Housekeeping (NC II), Tourism Promotion Services (NC II),  Computer Hardware Servicing (NC II), Technical Drafting (NC II)"
+    },
+    {
+      "school_id": "302338",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BANGA",
+      "school_name": "Torralba NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "302438",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "JORDAN (Capital)",
+      "school_name": "Trinidad V. Canja-Sta. Teresa NHS",
+      "programs": "ABM, GAS, TVL, Sports",
+      "tvl_specializations": "Animation (NC II), Agricultural Crops Production (NC I),  Automotive Servicing (NC I),  Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Wellness Massage (NC II), Housekeeping (NC II)"
+    },
+    {
+      "school_id": "302583",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "TUBUNGAN",
+      "school_name": "Tubungan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "302403",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "MA-AYON",
+      "school_name": "Tuburan NHS",
+      "programs": "STEM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302339",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "NABAS",
+      "school_name": "Unidos NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "302383",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "LIBERTAD",
+      "school_name": "Union NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I)"
+    },
+    {
+      "school_id": "302340",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "NABAS",
+      "school_name": "Union NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Housekeeping (NC II), Hairdressing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "310807",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "IVISAN",
+      "school_name": "Basiao NHS (formerly Ext. of Ivisan NHS)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600021",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Sibalom",
+      "school_name": "University of Antique-Main Campus",
+      "programs": "ABM, STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600038",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Tibiao",
+      "school_name": "University of Antique-Tario Lim Memorial Campus",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Food and Beverage Services, Handicraft (Needlecraft), Handicraft (Woodcraft, Leathercraft), Handicraft (Fashion Accessories, Paper Craft), Dressmaking, Tailoring, Computer Programming, Computer Hardware Servicing, Animation, Illustration, Technical Drafting, Automotive Servicing, Consumer Electronics Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Plumbing, Masonry"
+    },
+    {
+      "school_id": "442568",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "University of Iloilo",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Commercial Cooking, Bread and Pastry Production, Food and Beverage Services, Housekeeping, Caregiving, Wellness Massage, Local Guiding Services, Tourism Promotion Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Consumer Electronics Servicing, Plumbing, Carpentry, Masonry, Computer Hardware Servicing, Illustration, Computer Programming, Animation"
+    },
+    {
+      "school_id": "442574",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "University of San Agustin",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600249",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Miagao",
+      "school_name": "University of the Philippines - Visayas",
+      "programs": "ABM, STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302384",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "VALDERRAMA",
+      "school_name": "Valderrama NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "311001",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BATAD",
+      "school_name": "Valerio P. Palmares NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Caregiving (NC II)"
+    },
+    {
+      "school_id": "438065",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Verde Grande College, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Bread and Pastry Production, Housekeeping, Bartending"
+    },
+    {
+      "school_id": "302399",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "SIGMA",
+      "school_name": "Vicente Andaya Sr. NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "438012",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Wadeford School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302460",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BATAD",
+      "school_name": "Batad NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302291",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BATAN",
+      "school_name": "Batan Academy (A Nat'l School)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Programming (NC IV), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "404027",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Pototan",
+      "school_name": "West Visayan Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600067",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "West Visayas State University",
+      "programs": "STEM, GAS, HUMSS, ABM, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Commercial Cooking, Housekeeping, Bartending, Food and Beverage Services, Front Office Services, Bread and Pastry Production, Food Processing, Horticulture, Agricultural Crops Production, Slaughtering Operations (Hog/Swine/Pig), Rice Machinery Operations, Artificial Insemination (Large Ruminants), Organic Agriculture"
+    },
+    {
+      "school_id": "600247",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Lambunao",
+      "school_name": "West Visayas State University-Lambunao",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Commercial Cooking, Housekeeping, Bartending, Food and Beverage Services, Front Office Services, Automotive Servicing, Electrical Installation and Maintenance, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "600250",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Pototan",
+      "school_name": "West Visayas State University-Pototan",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Automotive Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "403951",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Nabas",
+      "school_name": "Western Aklan Academy, Inc.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "403157",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Western Institute of Technology",
+      "programs": "STEM, ABM, HUMSS, GAS, Sports, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Servicing, Cookery, Housekeeping, Computer Programming, Animation"
+    },
+    {
+      "school_id": "405993",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "San Jose",
+      "school_name": "Wright Technological College of Antique",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Housekeeping, Computer Systems Servicing, Animation"
+    },
+    {
+      "school_id": "403011",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "Sibalom",
+      "school_name": "Wright Technological College of Antique (Wright Tech)",
+      "programs": "TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Cookery, Animation, Computer Hardware Servicing, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "310811",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PILAR",
+      "school_name": "YATING NATIONAL HIGH SCHOOL",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302585",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ZARRAGA",
+      "school_name": "Zarraga NHS",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "302294",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BATAN",
+      "school_name": "Bay-Ang Magpag-ong NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Technical Drafting (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302461",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "AJUY",
+      "school_name": "Bay-ang NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302462",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ESTANCIA",
+      "school_name": "Bayas National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302347",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "BELISON",
+      "school_name": "Belison NS",
+      "programs": "STEM, GAS, TVL, Arts and Design",
+      "tvl_specializations": "Animation (NC II), Technical Drafting (NC II),  Food and Beverage Services (NC II), Housekeeping (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "311011",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "ALIMODIAN",
+      "school_name": "Adriano Cabardo NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "403000",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "San Jose",
+      "school_name": "Advanced Central College Discovery High School",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Caregiving, Cookery, Food and Beverage Services, Housekeeping, Computer Systems Servicing"
+    },
+    {
+      "school_id": "302465",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "BINGAWAN",
+      "school_name": "Bingawan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Animation (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II),  Tailoring (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "302348",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "CULASI",
+      "school_name": "Bitadton NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406004",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Sara",
+      "school_name": "BJ Institute of Technology Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "403945",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Malay",
+      "school_name": "Bloomfield Integrated Academy Inc",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Housekeeping, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "302466",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "NEW LUCENA",
+      "school_name": "Bololacao NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "438023",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Malay",
+      "school_name": "Boracay Island Global Academy",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Cookery, Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "302295",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MALAY",
+      "school_name": "Boracay NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Contact Center Services (NC II), Hairdressing (NC II),  Local Guiding Services (NC II), Tourism Promotion Services (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "310611",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MALAY",
+      "school_name": "Boracay NHS - Manoc Manoc Ext.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Beauty/ Nail Care (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "302467",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "OTON",
+      "school_name": "Botong-Cabanbanan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302426",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "BUENAVISTA",
+      "school_name": "Buenavista NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "302470",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "LEON",
+      "school_name": "Buga National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "302349",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "HAMTIC",
+      "school_name": "Buhang NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Housekeeping (NC II)"
+    },
+    {
+      "school_id": "302386",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DUMARAO",
+      "school_name": "Bungsuan NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "403924",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Buruanga",
+      "school_name": "Buruanga Academy, Inc.",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302318",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BURUANGA",
+      "school_name": "Buruanga NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302297",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BURUANGA",
+      "school_name": "Buruanga Vocational School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "302428",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "NUEVA VALENCIA",
+      "school_name": "Cabalagnan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "407075",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Cabalum Western College",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Cookery"
+    },
+    {
+      "school_id": "302473",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CABATUAN",
+      "school_name": "Cabatuan NCHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Landscape Installation and Maintenance (NC II),  Animal Production (NC II), Artificial Insemination- Swine (NC II),  Animation (NC II), Computer Programming (NC IV),  Automotive Servicing (NC I),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Tailoring (NC II),  Carpentry (NC II),  Food (Fish) Processing (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II),  Technical Drafting (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "302388",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PRESIDENT ROXAS",
+      "school_name": "Cabugcabug NHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Tourism Promotion Services (NC II), Housekeeping (NC II), Front Office Services (NC II), Local Guiding Services (NC II)"
+    },
+    {
+      "school_id": "302435",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "NUEVA VALENCIA",
+      "school_name": "Calaya National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302427",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Guimaras",
+      "municipality": "BUENAVISTA",
+      "school_name": "Agsanayan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "310616",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MADALAG",
+      "school_name": "Agtughangin NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "500170",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BANGA",
+      "school_name": "Aguinaldo T. Repiedad, Sr. IS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC II), Housekeeping (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302477",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CALINOG",
+      "school_name": "Calinog NCHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302299",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BALETE",
+      "school_name": "Calizo NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Dressmaking (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302350",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "CALUYA",
+      "school_name": "Caluya NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "404015",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Janiuay",
+      "school_name": "Calvario Memorial Christian School (Janiuay, Iloilo), Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302300",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BATAN",
+      "school_name": "Camaligan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "302301",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "BATAN",
+      "school_name": "Camanci NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302479",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "GUIMBAL",
+      "school_name": "Camangahan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302389",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "TAPAZ",
+      "school_name": "Camburanan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302302",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "NEW WASHINGTON",
+      "school_name": "Candelaria NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Housekeeping (NC II), Tourism Promotion Services (NC II)"
+    },
+    {
+      "school_id": "302390",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "TAPAZ",
+      "school_name": "Candelaria NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "311705",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "TAPAZ",
+      "school_name": "Candelaria NHS- Roxas Ext.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "311020",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "LAMBUNAO",
+      "school_name": "Caninguan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302391",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Capiz National High School",
+      "programs": "STEM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600063",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Mambusao",
+      "school_name": "Capiz State University-Burias",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Agricultural Crops Production, Animal Production"
+    },
+    {
+      "school_id": "600069",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Roxas City (Capital)",
+      "school_name": "Capiz State University-Main",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Beauty/Nail Care, Cookery, Dressmaking, Automotive Servicing, Electrical Installation and Maintenance, Domestic Refrigeration and Air-Conditioning (DOMRAC) Servicing, Shielded Metal Arc Welding, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "302493",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "SAN DIONISIO",
+      "school_name": "Carlos Lopez NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302392",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PILAR",
+      "school_name": "Casanayan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302443",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "AJUY",
+      "school_name": "Ajuy NHS",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403928",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Aklan Academy",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Housekeeping"
+    },
+    {
+      "school_id": "403929",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Aklan Catholic College",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Commercial Cooking, Local Guiding Services, Tourism Promotion Services, Front Office Services, Computer Programming, Animation"
+    },
+    {
+      "school_id": "403943",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Makato",
+      "school_name": "Aklan Central Institute, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Cookery, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "302324",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "KALIBO (Capital)",
+      "school_name": "Aklan National High School for Arts and Trades",
+      "programs": "TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Cookery (NC II), Beauty/ Nail Care (NC II),  Hairdressing (NC II), Tailoring (NC II),  Plumbing (NC II), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "302304",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "LEZO",
+      "school_name": "Catalino M. Prado NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "438064",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Malay",
+      "school_name": "Caticlan Academy Foundation, Inc.",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500178",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "ALTAVAS",
+      "school_name": "Catmon IS",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Bread and Pastry Production (NC II), Handicraft- Basketry, Macrame"
+    },
+    {
+      "school_id": "302482",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "CARLES",
+      "school_name": "Cawayan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Hairdressing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "440002",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Janiuay",
+      "school_name": "CenterPhil Montessori Learning Center, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Food and Beverage Services"
+    },
+    {
+      "school_id": "438006",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Central Panay College of Science and Technology, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Cookery"
+    },
+    {
+      "school_id": "442564",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Central Philippine University",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403921",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Banga",
+      "school_name": "Central Visayan Institute of Aklan, Inc",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403933",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Christ the King School Kalibo, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302296",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MALINAO",
+      "school_name": "Ciriaco L. Icamina, Sr. NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "403932",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Aklan Polytechnic College",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Local Guiding Services, Caregiving, Tourism Promotion Services, Travel Services"
+    },
+    {
+      "school_id": "600062",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Banga",
+      "school_name": "Aklan State University-Main, College of Teacher Education, Kalibo, Banga, Laboratory High School",
+      "programs": "TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Organic Agriculture, Pest Management, Animal Production"
+    },
+    {
+      "school_id": "438005",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Kalibo (Capital)",
+      "school_name": "Aklan Valley High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302316",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "MADALAG",
+      "school_name": "Alaminos NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "302393",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "TAPAZ",
+      "school_name": "Col. Patrocinio Artuz NHS",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302351",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "LAUA-AN",
+      "school_name": "Col. Ruperto Abellon NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "443501",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Roxas City (Capital)",
+      "school_name": "Colegio de la Purisima Concepcion",
+      "programs": "STEM, ABM, HUMSS, GAS, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Front Office Services, Travel Services, Local Guiding Services, Tourism Promotion Services, Events Management Services, Cookery, Bread and Pastry Production, Food and Beverage Services, Bartending, Housekeeping, Computer Hardware Servicing, Animation, Computer Programming, Carpentry, Consumer Electronics Servicing, Electrical Installation and Maintenance, Plumbing, Instrumentation and Control Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Masonry, Shielding Metal Arc Welding, Machining"
+    },
+    {
+      "school_id": "404170",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Colegio de las Hijas de Jesus",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "442570",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Colegio De San Jose",
+      "programs": "ABM, STEM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Food and Beverage Services, Computer Systems Servicing, Contact Center Services"
+    },
+    {
+      "school_id": "442565",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Iloilo",
+      "municipality": "Iloilo City (Capital)",
+      "school_name": "Colegio del Sagrado Corazon de Jesus",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Housekeeping, Local Guiding Services"
+    },
+    {
+      "school_id": "404197",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "Roxas City (Capital)",
+      "school_name": "College of St. John-Roxas",
+      "programs": "ABM, STEM, GAS, TVL",
+      "tvl_specializations": "Caregiving"
+    },
+    {
+      "school_id": "302395",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "PANAY",
+      "school_name": "Comsr. Luis R. Asis NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "302401",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "DUMALAG",
+      "school_name": "Concepcion Castro Garcia NHS (Dumalag NHS) Sta. Cruz",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "302352",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Antique",
+      "municipality": "TOBIAS FORNIER (DAO)",
+      "school_name": "Concepcion L. Cazeñas MS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "302757",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Capiz",
+      "municipality": "ROXAS CITY (Capital)",
+      "school_name": "Congressman Ramon A. Arnaldo High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Consumer Electronics Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "403948",
+      "region": "Region VI",
+      "region_name": "Western Visayas (Region VI)",
+      "province": "Aklan",
+      "municipality": "Malay",
+      "school_name": "Conperey Integrated Learning School",
+      "programs": "STEM, ABM, GAS",
+      "tvl_specializations": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Senior High School - Western Visayas (Region VI) - Libreng download",
+    "description": "Mga Senior High School (SHS) sa Western Visayas (Region VI) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (488 paaralan.) Naglalaman ng 488 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Senior High School - Western Visayas (Region VI) | ListBase",
+    "seo_description": "I-download Mga Senior High School - Western Visayas (Region VI) — 488 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 488 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/nedpals/k12-shs-api"
+    ]
+  }
+}

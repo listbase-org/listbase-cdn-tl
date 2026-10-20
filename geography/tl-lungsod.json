@@ -1,0 +1,1366 @@
+{
+  "id": "tl-lungsod",
+  "name": "Mga Lungsod ng Pilipinas",
+  "title": "Mga Lungsod ng Pilipinas",
+  "description": "Listahan ng mga lungsod (cities) ng Pilipinas batay sa Philippine Standard Geographic Code (PSGC). 145 lungsod na nakauri ayon sa city class (Component City, Independent Component City, Highly Urbanized City). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Source: xemasiv/psgc2 (CC-BY-4.0), PSGC publication 2018-Q1.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 145,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    },
+    {
+      "key": "city_class",
+      "label": "City Class",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "012805000",
+      "name": "CITY OF BATAC",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 55201,
+      "income_classification": "5th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "012812000",
+      "name": "CITY OF LAOAG (Capital)",
+      "province": "ILOCOS NORTE",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 111125,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "012906000",
+      "name": "CITY OF CANDON",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 60623,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "012934000",
+      "name": "CITY OF VIGAN (Capital)",
+      "province": "ILOCOS SUR",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 53879,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "013314000",
+      "name": "CITY OF SAN FERNANDO (Capital)",
+      "province": "LA UNION",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 121812,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "015503000",
+      "name": "CITY OF ALAMINOS",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 89708,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "015518000",
+      "name": "CITY OF DAGUPAN",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 171271,
+      "income_classification": "2nd",
+      "city_class": "ICC"
+    },
+    {
+      "psgc_code": "015532000",
+      "name": "CITY OF SAN CARLOS",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 188571,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "015546000",
+      "name": "CITY OF URDANETA",
+      "province": "PANGASINAN",
+      "region": "REGION I (ILOCOS REGION)",
+      "population": 132940,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "021529000",
+      "name": "TUGUEGARAO CITY (Capital)",
+      "province": "CAGAYAN",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 153502,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "023108000",
+      "name": "CITY OF CAUAYAN",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 129523,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "023114000",
+      "name": "CITY OF ILAGAN (Capital)",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 145568,
+      "income_classification": "1st (as Mun)",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "023135000",
+      "name": "CITY OF SANTIAGO",
+      "province": "ISABELA",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 134830,
+      "income_classification": "1st",
+      "city_class": "ICC"
+    },
+    {
+      "psgc_code": "030803000",
+      "name": "CITY OF BALANGA (Capital)",
+      "province": "BATAAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 96061,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "031410000",
+      "name": "CITY OF MALOLOS (Capital)",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 252074,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "031412000",
+      "name": "CITY OF MEYCAUAYAN",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 209083,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "031420000",
+      "name": "CITY OF SAN JOSE DEL MONTE",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 574089,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "034903000",
+      "name": "CITY OF CABANATUAN",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 302231,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "034908000",
+      "name": "CITY OF GAPAN",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 110303,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "034917000",
+      "name": "SCIENCE CITY OF MUÑOZ",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 81483,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "034919000",
+      "name": "CITY OF PALAYAN (Capital)",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 41041,
+      "income_classification": "5th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "034926000",
+      "name": "SAN JOSE CITY",
+      "province": "NUEVA ECIJA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 139738,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "035401000",
+      "name": "CITY OF ANGELES",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 411634,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "035409000",
+      "name": "MABALACAT CITY",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 250799,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "035416000",
+      "name": "CITY OF SAN FERNANDO (Capital)",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 306659,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "036916000",
+      "name": "CITY OF TARLAC (Capital)",
+      "province": "TARLAC",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 342493,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "037107000",
+      "name": "CITY OF OLONGAPO",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 233040,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "041005000",
+      "name": "BATANGAS CITY (Capital)",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 329874,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "041014000",
+      "name": "CITY OF LIPA",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 332386,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "041031000",
+      "name": "CITY OF TANAUAN",
+      "province": "BATANGAS",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 173366,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "042103000",
+      "name": "CITY OF BACOOR",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 600609,
+      "income_classification": "1st (as Mun)",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "042105000",
+      "name": "CITY OF CAVITE",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 102806,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "042106000",
+      "name": "CITY OF DASMARIÑAS",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 659019,
+      "income_classification": "1st (as Mun)",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "042108000",
+      "name": "CITY OF GENERAL TRIAS",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 314303,
+      "income_classification": "1st (as Mun)",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "042109000",
+      "name": "CITY OF IMUS",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 403785,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "042119000",
+      "name": "CITY OF TAGAYTAY",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 71181,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "042122000",
+      "name": "CITY OF TRECE MARTIRES (Capital)",
+      "province": "CAVITE",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 155713,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "043403000",
+      "name": "CITY OF BIÑAN",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 333028,
+      "income_classification": "1st (as Mun)",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "043404000",
+      "name": "CITY OF CABUYAO",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 308745,
+      "income_classification": "1st (as Mun)",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "043405000",
+      "name": "CITY OF CALAMBA",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 454486,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "043424000",
+      "name": "CITY OF SAN PABLO",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 266068,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "043425000",
+      "name": "CITY OF SAN PEDRO",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 325809,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "043428000",
+      "name": "CITY OF SANTA ROSA",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 353767,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "045624000",
+      "name": "CITY OF LUCENA (Capital)",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 266248,
+      "income_classification": "2nd",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "045647000",
+      "name": "CITY OF TAYABAS",
+      "province": "QUEZON",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 99779,
+      "income_classification": "6th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "045802000",
+      "name": "CITY OF ANTIPOLO (Capital)",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 776386,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "175205000",
+      "name": "CITY OF CALAPAN (Capital)",
+      "province": "ORIENTAL MINDORO",
+      "region": "MIMAROPA REGION",
+      "population": 133893,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "175316000",
+      "name": "CITY OF PUERTO PRINCESA (Capital)",
+      "province": "PALAWAN",
+      "region": "MIMAROPA REGION",
+      "population": 255116,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "050506000",
+      "name": "CITY OF LEGAZPI (Capital)",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 196639,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "050508000",
+      "name": "CITY OF LIGAO",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 111399,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "050517000",
+      "name": "CITY OF TABACO",
+      "province": "ALBAY",
+      "region": "REGION V (BICOL REGION)",
+      "population": 133868,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "051716000",
+      "name": "CITY OF IRIGA",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 111757,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "051724000",
+      "name": "CITY OF NAGA",
+      "province": "CAMARINES SUR",
+      "region": "REGION V (BICOL REGION)",
+      "population": 196003,
+      "income_classification": "2nd",
+      "city_class": "ICC"
+    },
+    {
+      "psgc_code": "054111000",
+      "name": "CITY OF MASBATE (Capital)",
+      "province": "MASBATE",
+      "region": "REGION V (BICOL REGION)",
+      "population": 95389,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "056216000",
+      "name": "CITY OF SORSOGON (Capital)",
+      "province": "SORSOGON",
+      "region": "REGION V (BICOL REGION)",
+      "population": 168110,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "061914000",
+      "name": "CITY OF ROXAS (Capital)",
+      "province": "CAPIZ",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 167003,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "063022000",
+      "name": "CITY OF ILOILO (Capital)",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 447992,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "063035000",
+      "name": "CITY OF PASSI",
+      "province": "ILOILO",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 80544,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064501000",
+      "name": "CITY OF BACOLOD (Capital)",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 561875,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "064502000",
+      "name": "CITY OF BAGO",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 170981,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064504000",
+      "name": "CITY OF CADIZ",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 154723,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064509000",
+      "name": "CITY OF ESCALANTE",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 94070,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064510000",
+      "name": "CITY OF HIMAMAYLAN",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 106880,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064515000",
+      "name": "CITY OF KABANKALAN",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 181977,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064516000",
+      "name": "CITY OF LA CARLOTA",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 64469,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064523000",
+      "name": "CITY OF SAGAY",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 146264,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064524000",
+      "name": "CITY OF SAN CARLOS",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 132536,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064526000",
+      "name": "CITY OF SILAY",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 126930,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064527000",
+      "name": "CITY OF SIPALAY",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 70070,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064528000",
+      "name": "CITY OF TALISAY",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 102214,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "064531000",
+      "name": "CITY OF VICTORIAS",
+      "province": "NEGROS OCCIDENTAL",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 87933,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "071242000",
+      "name": "CITY OF TAGBILARAN (Capital)",
+      "province": "BOHOL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 105051,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "072211000",
+      "name": "CITY OF BOGO",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 78120,
+      "income_classification": "6th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "072214000",
+      "name": "CITY OF CARCAR",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 119664,
+      "income_classification": "5th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "072217000",
+      "name": "CITY OF CEBU (Capital)",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 922611,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "072223000",
+      "name": "DANAO CITY",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 136471,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "072226000",
+      "name": "CITY OF LAPU-LAPU (OPON)",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 408112,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "072230000",
+      "name": "CITY OF MANDAUE",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 362654,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "072234000",
+      "name": "CITY OF NAGA",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 115750,
+      "income_classification": "5th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "072250000",
+      "name": "CITY OF TALISAY",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 227645,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "072251000",
+      "name": "CITY OF TOLEDO",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 170335,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "074604000",
+      "name": "CITY OF BAIS",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 76291,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "074606000",
+      "name": "CITY OF BAYAWAN (TULONG)",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 117900,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "074608000",
+      "name": "CITY OF CANLAON",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 54509,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "074610000",
+      "name": "CITY OF DUMAGUETE (Capital)",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 131377,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "074611000",
+      "name": "CITY OF GUIHULNGAN",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 95969,
+      "income_classification": "5th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "074621000",
+      "name": "CITY OF TANJAY",
+      "province": "NEGROS ORIENTAL",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 80532,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "082604000",
+      "name": "CITY OF BORONGAN (Capital)",
+      "province": "EASTERN SAMAR",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 69297,
+      "income_classification": "1st (as Mun)",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "083708000",
+      "name": "CITY OF BAYBAY",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 109432,
+      "income_classification": "1st (as Mun)",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "083738000",
+      "name": "ORMOC CITY",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 215031,
+      "income_classification": "1st",
+      "city_class": "ICC"
+    },
+    {
+      "psgc_code": "083747000",
+      "name": "CITY OF TACLOBAN (Capital)",
+      "province": "LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 242089,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "086003000",
+      "name": "CITY OF CALBAYOG",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 183851,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "086005000",
+      "name": "CITY OF CATBALOGAN (Capital)",
+      "province": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 103879,
+      "income_classification": "5th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "086407000",
+      "name": "CITY OF MAASIN (Capital)",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 85560,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "097201000",
+      "name": "CITY OF DAPITAN",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 82418,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "097202000",
+      "name": "CITY OF DIPOLOG (Capital)",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 130759,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "097322000",
+      "name": "CITY OF PAGADIAN (Capital)",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 199060,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "097332000",
+      "name": "CITY OF ZAMBOANGA",
+      "province": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 861799,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "099701000",
+      "name": "CITY OF ISABELA",
+      "province": "CITY OF ISABELA (Not a Province)",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 112788,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "101312000",
+      "name": "CITY OF MALAYBALAY (Capital)",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 174625,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "101321000",
+      "name": "CITY OF VALENCIA",
+      "province": "BUKIDNON",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 192993,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "103504000",
+      "name": "CITY OF ILIGAN",
+      "province": "LANAO DEL NORTE",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 342618,
+      "income_classification": "1st* (reclass 2005)",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "104209000",
+      "name": "CITY OF OROQUIETA (Capital)",
+      "province": "MISAMIS OCCIDENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 70757,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "104210000",
+      "name": "CITY OF OZAMIZ",
+      "province": "MISAMIS OCCIDENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 141828,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "104215000",
+      "name": "CITY OF TANGUB",
+      "province": "MISAMIS OCCIDENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 63011,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "104305000",
+      "name": "CITY OF CAGAYAN DE ORO (Capital)",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 675950,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "104307000",
+      "name": "CITY OF EL SALVADOR",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 50204,
+      "income_classification": "6th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "104308000",
+      "name": "CITY OF GINGOOG",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 124648,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "112315000",
+      "name": "CITY OF PANABO",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 184599,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "112317000",
+      "name": "ISLAND GARDEN CITY OF SAMAL",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 104123,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "112319000",
+      "name": "CITY OF TAGUM (Capital)",
+      "province": "DAVAO DEL NORTE",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 259444,
+      "income_classification": "1st",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "112402000",
+      "name": "CITY OF DAVAO",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 1632991,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "112403000",
+      "name": "CITY OF DIGOS (Capital)",
+      "province": "DAVAO DEL SUR",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 169393,
+      "income_classification": "2nd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "112509000",
+      "name": "CITY OF MATI (Capital)",
+      "province": "DAVAO ORIENTAL",
+      "region": "REGION XI (DAVAO REGION)",
+      "population": 141141,
+      "income_classification": "5th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "124704000",
+      "name": "CITY OF KIDAPAWAN (Capital)",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 140195,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "126303000",
+      "name": "CITY OF GENERAL SANTOS (DADIANGAS)",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 594446,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "126306000",
+      "name": "CITY OF KORONADAL (Capital)",
+      "province": "SOUTH COTABATO",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 174942,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "126511000",
+      "name": "CITY OF TACURONG",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 98316,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "129804000",
+      "name": "CITY OF COTABATO",
+      "province": "COTABATO CITY (Not a Province)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 299438,
+      "income_classification": "3rd",
+      "city_class": "ICC"
+    },
+    {
+      "psgc_code": "133900000",
+      "name": "CITY OF MANILA",
+      "province": "NCR, CITY OF MANILA, FIRST DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 1780148,
+      "income_classification": "Special",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137401000",
+      "name": "CITY OF MANDALUYONG",
+      "province": "NCR, SECOND DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 386276,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137402000",
+      "name": "CITY OF MARIKINA",
+      "province": "NCR, SECOND DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 450741,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137403000",
+      "name": "CITY OF PASIG",
+      "province": "NCR, SECOND DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 755300,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137404000",
+      "name": "QUEZON CITY",
+      "province": "NCR, SECOND DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 2936116,
+      "income_classification": "Special",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137405000",
+      "name": "CITY OF SAN JUAN",
+      "province": "NCR, SECOND DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 122180,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137501000",
+      "name": "CITY OF CALOOCAN",
+      "province": "NCR, THIRD DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 1583978,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137502000",
+      "name": "CITY OF MALABON",
+      "province": "NCR, THIRD DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 365525,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137503000",
+      "name": "CITY OF NAVOTAS",
+      "province": "NCR, THIRD DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 249463,
+      "income_classification": "2nd",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137504000",
+      "name": "CITY OF VALENZUELA",
+      "province": "NCR, THIRD DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 620422,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137601000",
+      "name": "CITY OF LAS PIÑAS",
+      "province": "NCR, FOURTH DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 588894,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137602000",
+      "name": "CITY OF MAKATI",
+      "province": "NCR, FOURTH DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 582602,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137603000",
+      "name": "CITY OF MUNTINLUPA",
+      "province": "NCR, FOURTH DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 504509,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137604000",
+      "name": "CITY OF PARAÑAQUE",
+      "province": "NCR, FOURTH DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 665822,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137605000",
+      "name": "PASAY CITY",
+      "province": "NCR, FOURTH DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 416522,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "137607000",
+      "name": "CITY OF TAGUIG",
+      "province": "NCR, FOURTH DISTRICT (Not a Province)",
+      "region": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 804915,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "141102000",
+      "name": "CITY OF BAGUIO",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 345366,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "143213000",
+      "name": "CITY OF TABUK (Capital)",
+      "province": "KALINGA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 110642,
+      "income_classification": "5th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "150702000",
+      "name": "CITY OF LAMITAN (Capital)",
+      "province": "BASILAN",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 74782,
+      "income_classification": "6th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "153617000",
+      "name": "CITY OF MARAWI (Capital)",
+      "province": "LANAO DEL SUR",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 201785,
+      "income_classification": "4th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "160202000",
+      "name": "CITY OF BUTUAN (Capital)",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 337063,
+      "income_classification": "1st",
+      "city_class": "HUC"
+    },
+    {
+      "psgc_code": "160203000",
+      "name": "CITY OF CABADBARAN",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 73639,
+      "income_classification": "6th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "160301000",
+      "name": "CITY OF BAYUGAN",
+      "province": "AGUSAN DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 103202,
+      "income_classification": "5th",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "166724000",
+      "name": "CITY OF SURIGAO (Capital)",
+      "province": "SURIGAO DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 154137,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "166803000",
+      "name": "CITY OF BISLIG",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 94535,
+      "income_classification": "3rd",
+      "city_class": "CC"
+    },
+    {
+      "psgc_code": "166819000",
+      "name": "CITY OF TANDAG (Capital)",
+      "province": "SURIGAO DEL SUR",
+      "region": "REGION XIII (Caraga)",
+      "population": 56364,
+      "income_classification": "5th",
+      "city_class": "CC"
+    }
+  ],
+  "meta": {
+    "title": "Mga Lungsod ng Pilipinas - Libreng download",
+    "description": "Listahan ng mga lungsod (cities) ng Pilipinas batay sa Philippine Standard Geographic Code (PSGC). 145 lungsod na nakauri ayon sa city class (Component City, Independent Component City, Highly Urbanized City). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Source: xemasiv/psgc2 (CC-BY-4.0), PSGC publication 2018-Q1. Naglalaman ng 145 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Lungsod ng Pilipinas | ListBase",
+    "seo_description": "I-download Mga Lungsod ng Pilipinas — 145 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 145 talaan / 7 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

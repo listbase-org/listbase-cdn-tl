@@ -1,0 +1,408 @@
+{
+  "id": "tl-cebu-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Cebu",
+  "title": "Mga Bayan ng Lalawigan ng Cebu",
+  "description": "Listahan ng 44 munisipalidad (bayan) sa lalawigan ng Cebu, REGION VII (CENTRAL VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "072201000",
+      "name": "ALCANTARA",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 15160,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "072202000",
+      "name": "ALCOY",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 16979,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "072203000",
+      "name": "ALEGRIA",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 23300,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "072204000",
+      "name": "ALOGUINSAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 32100,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "072205000",
+      "name": "ARGAO",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 72366,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "072206000",
+      "name": "ASTURIAS",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 47857,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "072207000",
+      "name": "BADIAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 37912,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "072208000",
+      "name": "BALAMBAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 87177,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "072209000",
+      "name": "BANTAYAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 79084,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "072210000",
+      "name": "BARILI",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 73862,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "072212000",
+      "name": "BOLJOON",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 16344,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "072213000",
+      "name": "BORBON",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 35526,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "072215000",
+      "name": "CARMEN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 51325,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "072216000",
+      "name": "CATMON",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 30471,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "072218000",
+      "name": "COMPOSTELA",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 47898,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "072219000",
+      "name": "CONSOLACION",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 131528,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "072220000",
+      "name": "CORDOVA",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 59712,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "072221000",
+      "name": "DAANBANTAYAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 84430,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "072222000",
+      "name": "DALAGUETE",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 67497,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "072224000",
+      "name": "DUMANJUG",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 51210,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "072225000",
+      "name": "GINATILAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 15919,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "072227000",
+      "name": "LILOAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 118753,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "072228000",
+      "name": "MADRIDEJOS",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 36429,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "072229000",
+      "name": "MALABUYOC",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 19373,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "072231000",
+      "name": "MEDELLIN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 55332,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "072232000",
+      "name": "MINGLANILLA",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 132135,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "072233000",
+      "name": "MOALBOAL",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 31130,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "072235000",
+      "name": "OSLOB",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 27893,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "072236000",
+      "name": "PILAR",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 11308,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "072237000",
+      "name": "PINAMUNGAHAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 65955,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "072238000",
+      "name": "PORO",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 25212,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "072239000",
+      "name": "RONDA",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 20360,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "072240000",
+      "name": "SAMBOAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 20884,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "072241000",
+      "name": "SAN FERNANDO",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 66280,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "072242000",
+      "name": "SAN FRANCISCO",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 55180,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "072243000",
+      "name": "SAN REMIGIO",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 57557,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "072244000",
+      "name": "SANTA FE",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 28603,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "072245000",
+      "name": "SANTANDER",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 17857,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "072246000",
+      "name": "SIBONGA",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 48186,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "072247000",
+      "name": "SOGOD",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 35108,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "072248000",
+      "name": "TABOGON",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 39013,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "072249000",
+      "name": "TABUELAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 25630,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "072252000",
+      "name": "TUBURAN",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 63866,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "072253000",
+      "name": "TUDELA",
+      "province": "CEBU",
+      "region": "REGION VII (CENTRAL VISAYAS)",
+      "population": 11296,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Cebu - Libreng download",
+    "description": "Listahan ng 44 munisipalidad (bayan) sa lalawigan ng Cebu, REGION VII (CENTRAL VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 44 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Cebu | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Cebu — 44 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 44 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

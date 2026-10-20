@@ -1,0 +1,280 @@
+{
+  "id": "tl-sulu-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sulu",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sulu",
+  "description": "Direktoryo ng 17 lungsod at bayan sa lalawigan ng Sulu (Tangway ng Zamboanga (Region IX)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Sulu` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Banguingui",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7406",
+      "punong_bayan": "WHIDZFAR I. SAHIDULLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DENRASHER A. ABDILLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Jolo",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7400",
+      "punong_bayan": "KERKHAR S. TAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EZZEDDIN SOUD L. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Kalingalan Caluang",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7416",
+      "punong_bayan": "NURSHAMIER A. HALUN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AL-RAZHMIE A. HALUN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Lugus",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7411",
+      "punong_bayan": "HADAR M. HAJIRI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALMEDZAR A. HAJIRI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Luuk",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7404",
+      "punong_bayan": "MARYAM N. ARBISON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARNEL N. ARBISON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Maimbung",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7409",
+      "punong_bayan": "SHIHLA T. HAYUDINI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AIMAN T. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Omar",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7404",
+      "punong_bayan": "ABDULBAKI J. AJIBON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JUDDIN-NUR K. PANTASAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Panamao",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7402",
+      "punong_bayan": "AL-FRAZIER S. ABDURAJAK",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RENDEN H. ABDURAJAK",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Pandami",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7400",
+      "punong_bayan": "NURHAN S. BERTO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAKIB P. PULAHONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Panglima Estino",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7415",
+      "punong_bayan": "MUNIB S. ESTINO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MORSID M. ESTINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Pangutaran",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7414",
+      "punong_bayan": "ASRI S. TAIB",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AL-RADZMIN A. NANOH",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Parang",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7408",
+      "punong_bayan": "ALKHADAR T. LOONG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MADZHAR T. LOONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Pata",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7405",
+      "punong_bayan": "ABDURAUF C. BURAHAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANTON J. BURAHAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Patikul",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7401",
+      "punong_bayan": "KABIR E. HAYUDINI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PULAUS A. TARSUM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Siasi",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7412",
+      "punong_bayan": "BEN-SAYEED M. MUKSAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARNASHRIF M. MUKSAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Talipao",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7403",
+      "punong_bayan": "NIVOCADNEZAR I. TULAWIE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ZULFICAR T. TULAWIE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Tapul",
+      "uri": "Bayan",
+      "lalawigan": "Sulu",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7410",
+      "punong_bayan": "NASSER T. DAUD JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DORNIE T. DAUD",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sulu - Libreng download",
+    "description": "Direktoryo ng 17 lungsod at bayan sa lalawigan ng Sulu (Tangway ng Zamboanga (Region IX)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Sulu` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sulu | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sulu — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

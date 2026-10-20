@@ -1,0 +1,4696 @@
+{
+  "id": "tl-caraga-shs-paaralan",
+  "name": "Mga Senior High School - Caraga (Region XIII)",
+  "title": "Mga Senior High School - Caraga (Region XIII)",
+  "description": "Mga Senior High School (SHS) sa Caraga (Region XIII) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (463 paaralan.)",
+  "category": "education",
+  "source": "https://github.com/nedpals/k12-shs-api",
+  "source_url": "https://github.com/nedpals/k12-shs-api",
+  "updated": "2026-04",
+  "record_count": 463,
+  "columns": [
+    {
+      "key": "school_id",
+      "label": "School Id",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "school_name",
+      "label": "School Name",
+      "type": "string"
+    },
+    {
+      "key": "programs",
+      "label": "Programs",
+      "type": "string"
+    },
+    {
+      "key": "tvl_specializations",
+      "label": "Tvl Specializations",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "school_id": "304808",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "LIBJO (ALBOR)",
+      "school_name": "ALBOR NHS",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304793",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Alegria NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317607",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SANTA MONICA (SAPAO)",
+      "school_name": "Alegria NHS Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317422",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Corpuz Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317906",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "MARIHATAG",
+      "school_name": "Cresencio S. Lago Nat'l HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304825",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "SAN JOSE (Capital)",
+      "school_name": "CUARENTA NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "317308",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "NASIPIT",
+      "school_name": "Culit NHS (Nasipit National Vocational School Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304678",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "JABONGA",
+      "school_name": "Cuyago NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317808",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SISON",
+      "school_name": "Dakung Patag NHS - Annex (TS PSMHS)",
+      "programs": "TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304879",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Dante Luib Osano Maputi NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II)"
+    },
+    {
+      "school_id": "304774",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "DAPA",
+      "school_name": "Dapa NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Local Guiding Services (NC II), Housekeeping (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304747",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ROSARIO",
+      "school_name": "Datu Lipus Makapandong National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304803",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Day-asan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "406036",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "City of Bislig",
+      "school_name": "De La Salle John Bosco College",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Caregiving, Housekeeping, Front Office Services, Automotive Servicing, Consumer Electronics Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Computer Systems Servicing"
+    },
+    {
+      "school_id": "304783",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "DEL CARMEN",
+      "school_name": "Del Carmen NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "304710",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Del Monte NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Housekeeping (NC II), Front Office Services (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "304816",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "CAGDIANAO",
+      "school_name": "DEL PILAR NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "317307",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "CITY OF CABADBARAN",
+      "school_name": "Del Pilar NHS (Calamba NHS Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304711",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN FRANCISCO",
+      "school_name": "Democrito O. Plaza MHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317411",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Desamparados Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "406045",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Lianga",
+      "school_name": "Diatagon Catholic High School",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Caregiving, Cookery, Food and Beverage Services, Bread and Pastry Production, Beauty/Nail Care, Hairdressing, Wellness Massage, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "304822",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "DINAGAT",
+      "school_name": "DINAGAT SOF",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "472021",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "Bunawan",
+      "school_name": "Divine Word Manobo Cultural Development Academy Foundation, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Shielded Metal Arc Welding, Computer Hardware Servicing, Agricultural Crops Production"
+    },
+    {
+      "school_id": "400834",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "San Jose",
+      "school_name": "Don Jose Ecleo Memorial Foundation College of Science and Technology",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Caregiving"
+    },
+    {
+      "school_id": "304824",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "SAN JOSE (Capital)",
+      "school_name": "DON RUBEN EDERA ECLEO SR MNHS",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Hairdressing (NC II), Wellness Massage (NC II), Local Guiding Services (NC II),  Refrigeration and Air-Conditioning- Packaged Air-Conditioning Unit [PACU]/ Commercial Refrigeration Equipment [CRE] Servicing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304878",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Doña Carmen NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317309",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "TUBAY",
+      "school_name": "Dona Rosario NHS - Tubay NHS Annex",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Tile Setting (NC II)"
+    },
+    {
+      "school_id": "317424",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ESPERANZA",
+      "school_name": "Duangan Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Housekeeping (NC II), Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II)"
+    },
+    {
+      "school_id": "304891",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Dugmanon National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304679",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "LAS NIEVES",
+      "school_name": "Durian NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Housekeeping (NC II), Cookery (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "317310",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "LAS NIEVES",
+      "school_name": "E. G. Montilla NHS (Mat-I NHS Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "324403",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "BASILISA (RIZAL)",
+      "school_name": "EDERA NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500050",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CARMEN",
+      "school_name": "Esperanza ISS (Carmen Nat'l. Agr'l. HS - Esperanza NHS Annex)",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304712",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ESPERANZA",
+      "school_name": "Esperanza NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "317517",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Alviola ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500313",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUENAVISTA",
+      "school_name": "F. S. Omayana NHS (Buenavista NHS Annex)",
+      "programs": "TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "405923",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "City of Bayugan",
+      "school_name": "Father Saturnino Urios College of Bayugan Inc.",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Front Office Services, Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "407577",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "Sibagat",
+      "school_name": "Father Saturnino Urios College of Sibagat, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Computer Systems Servicing, Shielded Metal Arc Welding (NC II), Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "405951",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "Trento",
+      "school_name": "Father Saturnino Urios College of Trento, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Consumer Electronics Servicing, Computer Systems Servicing"
+    },
+    {
+      "school_id": "407578",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Father Saturnino Urios University Archbishop Morelos Campus (Basic Ed)",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405986",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Father Saturnino Urios University-Butuan City",
+      "programs": "STEM, ABM, HUMSS, GAS, Sports, TVL",
+      "tvl_specializations": "Cookery, Bread and Pastry, Food and Beverage Services, Front Office Services, Tourism Promotion Services, Animation, Computer Programming"
+    },
+    {
+      "school_id": "405971",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Father Urios Institute of Technology of Ampayon, Inc.",
+      "programs": "HUMSS, ABM, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance, Shielded Metal Arc Welding, Computer Systems Servicing, Food and Beverage Services, Bread and Pastry Production"
+    },
+    {
+      "school_id": "304886",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CORTES",
+      "school_name": "Felisberto Verano National high school",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304885",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LANUZA",
+      "school_name": "Florita Herrera-Irizari NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "405924",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "City of Bayugan",
+      "school_name": "Forest Hills Academy",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking, Tailoring, Horticulture"
+    },
+    {
+      "school_id": "405912",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Magallanes",
+      "school_name": "Fr. Urios Academy of Magallanes, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Computer Systems Servicing"
+    },
+    {
+      "school_id": "304888",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "BAROBO",
+      "school_name": "Gamut NHS (Barobo)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II)"
+    },
+    {
+      "school_id": "304889",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGO",
+      "school_name": "Gamut NHS (Tago)",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "405829",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "City of Bislig",
+      "school_name": "Gaspar Rodriguez Educational and Training Center, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding, Automotive Servicing, Driving, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Gas Metal Arc Welding"
+    },
+    {
+      "school_id": "317914",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "SAN AGUSTIN",
+      "school_name": "Gata ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Landscape Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304777",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "GENERAL LUNA",
+      "school_name": "Gen Luna NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Local Guiding Services (NC II), Housekeeping (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "317601",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "GENERAL LUNA",
+      "school_name": "Gen. Luna NHS - Suyangan NHS Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304826",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "GIGAQUIT",
+      "school_name": "Gigaquit Nat'l. Sch. of Home Industries",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II),  Horticulture (NC II),  Technical Drafting (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "317804",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "GIGAQUIT",
+      "school_name": "GNSHI - Lasicam-Perral NHS-Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304713",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ESPERANZA",
+      "school_name": "Guadalupe NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "304682",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUENAVISTA",
+      "school_name": "Guinabsan National High School",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "407679",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "San Francisco",
+      "school_name": "AMA Computer Learning Center of Agusan Del Sur, Inc.",
+      "programs": "ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Front Office Services, Housekeeping, Local Guiding Services, Bread and Pastry Production, Cookery, Animation, Computer Hardware Servicing, Contact Center Services, Computer Programming"
+    },
+    {
+      "school_id": "317414",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ESPERANZA",
+      "school_name": "Hawilian National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "500314",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "NASIPIT",
+      "school_name": "Hinandayan NHS (Nasipit NHS Annex))",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317940",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Hinatuan NCHS - Cambatong NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "317939",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Hinatuan NCHS - Roxas NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304890",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Hinatuan NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "407580",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Marihatag",
+      "school_name": "Holy Child Academy",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Front Office Services, Housekeeping, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Local Guiding Services, Computer Hardware Servicing, Animation"
+    },
+    {
+      "school_id": "405973",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Holy Child Colleges of Butuan",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Caregiving, Cookery, Bread and Pastry Production, Food and Beverage Services, Housekeeping, Local Guiding Services, Front Office Services, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "304845",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "PLACER",
+      "school_name": "Amando A. Fabio MNHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "405911",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Kitcharao",
+      "school_name": "Immaculate Heart of Mary Academy-Kitcharao, Inc",
+      "programs": "TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Computer Systems Servicing"
+    },
+    {
+      "school_id": "405823",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "San Francisco (Anao-Aon)",
+      "school_name": "Informatic Computer Institute of Agusan del Sur, Inc",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Animation"
+    },
+    {
+      "school_id": "405824",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "City of Bayugan",
+      "school_name": "Informatic Technological College of Bayugan City, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Animation"
+    },
+    {
+      "school_id": "304758",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Amparo NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Housekeeping (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "317511",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Ampayon Integrated Secondary School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304795",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Ipil NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "317916",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CANTILAN",
+      "school_name": "Isla General ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "304685",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "JABONGA",
+      "school_name": "Jabonga NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304686",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "SANTIAGO",
+      "school_name": "Jagupit NHS",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Shielded Metal Arc Welding (NC I), Masonry (NC II)"
+    },
+    {
+      "school_id": "304687",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "KITCHARAO",
+      "school_name": "Jaliobong NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "304863",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "BAROBO",
+      "school_name": "Javier NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317938",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Jobar Integrated Secondary School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317421",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "Johnson Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304925",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CAGWAIT",
+      "school_name": "Jose Sanvictores Sr. National School Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "406035",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "City of Bislig",
+      "school_name": "Andres Soriano College of Bislig",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Housekeeping, Shielded Metal Arc Welding, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "405958",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Angelicum Montessori School, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304792",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Juan P. Cedro, Sr. MHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304880",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Kahayagan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "317409",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TRENTO",
+      "school_name": "Kapatungan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "304714",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "Kasapa NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317447",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "KAUSWAGAN NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317510",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Kinamlutan ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "304688",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "KITCHARAO",
+      "school_name": "Kitcharao NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "317930",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LINGIG",
+      "school_name": "Anibongan ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304858",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LIANGA",
+      "school_name": "Anibongan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "304737",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN LUIS",
+      "school_name": "Anislagan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304800",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Anomar NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "317406",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "VERUELA",
+      "school_name": "La Fortuna NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "304716",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LA PAZ",
+      "school_name": "La Paz NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "500317",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "La Soledad ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317506",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "La Trinidad ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "340341",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "CITY OF CABADBARAN",
+      "school_name": "La Union SHS (Stand Alone)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Slaughtering Operation (NC II)"
+    },
+    {
+      "school_id": "317432",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Labnig NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304838",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "PLACER",
+      "school_name": "Lakandula NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304739",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN LUIS",
+      "school_name": "Laminga NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304717",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN FRANCISCO",
+      "school_name": "Lapinigan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Technical Drafting (NC II)"
+    },
+    {
+      "school_id": "317403",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN FRANCISCO",
+      "school_name": "Lapinigan NHS - New Visayas Ext.",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304689",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "LAS NIEVES",
+      "school_name": "Las Nieves NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "500048",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "LAS NIEVES",
+      "school_name": "Lawan-Lawan NHS (Durian NHS Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304894",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF BISLIG",
+      "school_name": "Lawigan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Tailoring (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "304765",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Anticala NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304899",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "MARIHATAG",
+      "school_name": "Antipolo NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "304859",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LIANGA",
+      "school_name": "Lianga NCHS",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "317919",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "SAN MIGUEL",
+      "school_name": "Libas Sud ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Rice Machinery Operation (NC II)"
+    },
+    {
+      "school_id": "304763",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Libertad NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Housekeeping (NC II), Bread and Pastry Production (NC II), Attractions and Theme Parks (NC II)"
+    },
+    {
+      "school_id": "304786",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SANTA MONICA (SAPAO)",
+      "school_name": "Libertad NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "304718",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "BUNAWAN",
+      "school_name": "Libertad NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304827",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "LORETO",
+      "school_name": "LIBERTY NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "317703",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Libuac NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304690",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "LAS NIEVES",
+      "school_name": "LINGAYAO NATIONAL HIGH SCHOOL",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304895",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LINGIG",
+      "school_name": "Lingig NHS",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "317704",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Lipata National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Front Office Services (NC II), Housekeeping (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "324401",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "LIBJO (ALBOR)",
+      "school_name": "LLAMERA NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "400591",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "Loreto",
+      "school_name": "Loreto Academy",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Programming, Animation"
+    },
+    {
+      "school_id": "304719",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "Loreto NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "340528",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "LORETO",
+      "school_name": "LORETO SHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304764",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Los Angeles NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "304720",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "Los Arcos NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "304722",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "Lucena NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Housekeeping (NC II), Plumbing (NC I)"
+    },
+    {
+      "school_id": "304766",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Lumbocan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304896",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LINGIG",
+      "school_name": "M.K.Yusingco NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "322505",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF BISLIG",
+      "school_name": "Mabog NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "304721",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "Mabuhay Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304897",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "MADRID",
+      "school_name": "Madrid NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "317904",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "MADRID",
+      "school_name": "Madrid NHS - Union NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304691",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "MAGALLANES",
+      "school_name": "Magallanes NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "317431",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "Magaud Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304692",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "JABONGA",
+      "school_name": "Magdagooc NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Caregiving (NC II)"
+    },
+    {
+      "school_id": "500324",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Maglambing ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304881",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Maglatab NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "317803",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "MAINIT",
+      "school_name": "Magpayang NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "304741",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SIBAGAT",
+      "school_name": "Magsaysay Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "304767",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Maguinda NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304866",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF BISLIG",
+      "school_name": "Maharlika Nhs",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "317435",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Maharlika Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "317505",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Maibu ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304829",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "MAINIT",
+      "school_name": "Mainit NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304833",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "MALIMONO",
+      "school_name": "Malimono NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "324407",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "TUBAJON",
+      "school_name": "MALINAO NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "317932",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Malixi ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "317936",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Manambia ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "317407",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TRENTO",
+      "school_name": "Manat NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "304919",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF BISLIG",
+      "school_name": "Mangagoy NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Illustration (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "500319",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Manila de Bugabos ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304693",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "LAS NIEVES",
+      "school_name": "Maningalao NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317706",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Manjagao NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500311",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "CARMEN",
+      "school_name": "Manoligao National High School(Carmen National High School Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317434",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Marbon Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II)"
+    },
+    {
+      "school_id": "304723",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "CITY OF BAYUGAN",
+      "school_name": "Marcelina NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304694",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "LAS NIEVES",
+      "school_name": "Marcos Calo NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Housekeeping (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "304748",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ROSARIO",
+      "school_name": "Marfil NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304776",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "DEL CARMEN",
+      "school_name": "Mariano Matugas MNHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304898",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "MARIHATAG",
+      "school_name": "Marihatag Nat'l. Agr'l. HS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "317905",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "MARIHATAG",
+      "school_name": "Marihatag Nat'l. Agr'l. HS - Mararag Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "304831",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "MALIMONO",
+      "school_name": "Masgad NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304799",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Mat-i NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "304695",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "LAS NIEVES",
+      "school_name": "Mat-i NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Housekeeping (NC II), Cookery (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "500321",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CORTES",
+      "school_name": "Matho ISS",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304834",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "MAINIT",
+      "school_name": "Matin-ao NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304835",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "MAINIT",
+      "school_name": "Matin-ao NHS - Hacienda NHS Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Masonry (NC II), Tile Setting (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304836",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "BASILISA (RIZAL)",
+      "school_name": "MELGAR NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405907",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "City of Cabadbaran",
+      "school_name": "Mindanao Institute",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405935",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "Prosperidad (Capital)",
+      "school_name": "Monato Institute of Technology",
+      "programs": "TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding, Computer Hardware Servicing, Animation"
+    },
+    {
+      "school_id": "404075",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Asian College Foundation",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Caregiving"
+    },
+    {
+      "school_id": "406033",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Barobo",
+      "school_name": "Mother of Mercy Academy",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Animation"
+    },
+    {
+      "school_id": "405927",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "City of Bayugan",
+      "school_name": "Mount Olive Laymen's Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304724",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "CITY OF BAYUGAN",
+      "school_name": "Mount Olive National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405940",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "San Francisco (Anao-Aon)",
+      "school_name": "Mt. Carmel College of San Francisco, Inc.",
+      "programs": "STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "473013",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Del Carmen",
+      "school_name": "Mt. Carmel School of Siargao, Inc.",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304696",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "NASIPIT",
+      "school_name": "Nasipit National Vocational School",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC II), Plumbing (NC II)"
+    },
+    {
+      "school_id": "317302",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "NASIPIT",
+      "school_name": "Nasipit NHS",
+      "programs": "STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317423",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ESPERANZA",
+      "school_name": "Nato Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "324404",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "BASILISA (RIZAL)",
+      "school_name": "NEW NAZARETH NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "405819",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "Trento",
+      "school_name": "Asian Skills Academy Foundation, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing, Consumer Electronics Servicing, Bread and Pastry Production, Food and Beverage Services, Cookery, Computer Systems Servicing"
+    },
+    {
+      "school_id": "304726",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SIBAGAT",
+      "school_name": "New Tubigon National High School of Home Industries",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "304728",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "CITY OF BAYUGAN",
+      "school_name": "Noli National High School",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Consumer Electronics Servicing (NC II),  Dressmaking (NC II), Tailoring (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304804",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Nonoc NHS - Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "405977",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Northeastern Mindanao Academy",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "406006",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Surigao City (Capital)",
+      "school_name": "Northeastern Mindanao Colleges",
+      "programs": "HUMSS, ABM, GAS, TVL",
+      "tvl_specializations": "Hairdressing, Wellness Massage, Beauty/Nail Care, Bread and Pastry Production, Food and Beverage Services, Handicraft (Fashion Accessories, Paper Craft), Front Office Services, Plumbing"
+    },
+    {
+      "school_id": "405908",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "City of Cabadbaran",
+      "school_name": "Northern Mindanao Colleges, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Cookery, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "405917",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Nasipit",
+      "school_name": "Northwestern Agusan Colleges",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317429",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ROSARIO",
+      "school_name": "Novele Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304789",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SOCORRO",
+      "school_name": "Nueva Estrella NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317427",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "Nueva Gracia Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "500320",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LANUZA",
+      "school_name": "Nurcia ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "317605",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "DEL CARMEN",
+      "school_name": "Oguing Navarro Mem. NHS - Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317425",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ESPERANZA",
+      "school_name": "Oro Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304809",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "LIBJO (ALBOR)",
+      "school_name": "OSMENA - STO NINO NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317927",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Osmena ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405910",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Carmen",
+      "school_name": "Our Lady of Carmen Academy of Caraga, Inc.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "304830",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "MAINIT",
+      "school_name": "Paco NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304743",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SIBAGAT",
+      "school_name": "Padiay Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317902",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LANUZA",
+      "school_name": "Pakwan ISS (F.H. Irizari Memorial NHS - Pakwan NHS Annex)",
+      "programs": "TVL",
+      "tvl_specializations": "Handicraft- Basketry, Macrame, Handicraft- Fashion Accessories, Paper Craft, Handicraft- Needlecraft, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "304874",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CANTILAN",
+      "school_name": "Palasao Integrated School",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "304790",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SOCORRO",
+      "school_name": "Pamosaingan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317401",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LA PAZ",
+      "school_name": "Panagangan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317807",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "PLACER",
+      "school_name": "Pananay-an NHS - Annex (Placer NHS)",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "317502",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Aupagan ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317444",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "Aurora Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317413",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SANTA JOSEFA",
+      "school_name": "Aurora Nhs",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304900",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CARRASCAL",
+      "school_name": "Panikian NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II)"
+    },
+    {
+      "school_id": "304901",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CANTILAN",
+      "school_name": "Parang NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "317515",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Pareja ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304730",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "Patin-ay HS",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Bread and Pastry Production (NC II), Front Office Services (NC II), Hairdressing (NC II),  Computer Hardware Servicing (NC II), Technical Drafting (NC II)"
+    },
+    {
+      "school_id": "317806",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "BACUAG",
+      "school_name": "Payapag NHS - Annex (Campo NHS)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "317520",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Pedro D. Duncano ISS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "407089",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Philippine Electronics and Communications Institute of Technology",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Computer Programming, Consumer Electronics Servicing, Automotive Servicing"
+    },
+    {
+      "school_id": "317405",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "Azpetia NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405939",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "Rosario",
+      "school_name": "Philsaga High School Foundation, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317521",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Pigdaulan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304779",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "PILAR",
+      "school_name": "Pilar NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "304819",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "MALIMONO",
+      "school_name": "Pili National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317508",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Pinamanculan ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC III)"
+    },
+    {
+      "school_id": "304837",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "PLACER",
+      "school_name": "Placer NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304839",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "LIBJO (ALBOR)",
+      "school_name": "PLARIDEL NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304902",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Portlamon Pastor Uy NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "324406",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "DINAGAT",
+      "school_name": "PRIMITIVO J. EBOL MNHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304731",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "Prosperidad NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "317412",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TRENTO",
+      "school_name": "Pulang Lupa NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "404051",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "ACLC College of Butuan City, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Computer Programming, Illustration, Technical Drafting, Animation"
+    },
+    {
+      "school_id": "406053",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Tago",
+      "school_name": "Purisima Diocesan School, Inc",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Front Office Services, Cookery, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "304903",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGO",
+      "school_name": "Purisima NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "500325",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Quary 1 Integrated School",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "317934",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Quezon ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500327",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LINGIG",
+      "school_name": "Rajah Cabungsuan ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406038",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "City of Bislig",
+      "school_name": "Recaredo Castillo College",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Plumbing"
+    },
+    {
+      "school_id": "304840",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "CAGDIANAO",
+      "school_name": "REECLEO SR. NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "304852",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "BASILISA (RIZAL)",
+      "school_name": "RITA GLENDA NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "317941",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "BAROBO",
+      "school_name": "Rizal National High School - Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "304841",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "BASILISA (RIZAL)",
+      "school_name": "RIZAL NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "304842",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "BASILISA (RIZAL)",
+      "school_name": "Rizal NHS - Puerto Princesa - Moleta NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "304813",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "BACUAG",
+      "school_name": "Bacuag Nat'L Agro-Indust'L Sch.",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "317924",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Baculin ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "317903",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGO",
+      "school_name": "Badong National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317801",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "LIBJO (ALBOR)",
+      "school_name": "ROSITA NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304784",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SAN ISIDRO",
+      "school_name": "Roxas NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "500315",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Sabang Gibong Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "407581",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "San Agustin",
+      "school_name": "Saint Augustine High School",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Animation, Computer Programming, Medical Transcription"
+    },
+    {
+      "school_id": "406017",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Gigaquit",
+      "school_name": "Saint Augustine Institute",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "404047",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "San Francisco (Anao-Aon)",
+      "school_name": "Saint Francis Xavier College, Inc.",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Beauty/Nail Care, Hairdressing, Cookery, Food and Beverage Services, Automotive Servicing, Shielded Metal Arc Welding, Plumbing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "405903",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Buenavista",
+      "school_name": "Saint James High School",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "406016",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Bacuag",
+      "school_name": "Saint John's School",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405981",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Saint Joseph Institute of Technology",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Caregiving, Housekeeping, Cookery, Food and Beverage Services, Front Office Services, Local Guiding Services, Tourism Promotion Services, Travel Services, Shielded Metal Arc Welding, Automotive Servicing, Electrical Installation and Maintenance, Consumer Electronics Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Computer Systems Servicing, Computer Programming, Illustration, Animation"
+    },
+    {
+      "school_id": "408198",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Saint Joseph Institute of Technology - Annex Campus",
+      "programs": "ABM, STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405919",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Nasipit",
+      "school_name": "Saint Michael College of Caraga",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Housekeeping, Consumer Electronics Servicing, Computer Programming, Animation"
+    },
+    {
+      "school_id": "406047",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Madrid",
+      "school_name": "Saint Michael's School",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Hairdressing, Housekeeping, Tourism Promotion Services, Food and Beverage Services, Bread and Pastry Production, Computer Programming, Technical Drafting"
+    },
+    {
+      "school_id": "406055",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "City of Tandag (Capital)",
+      "school_name": "Saint Theresa College of Tandag, Inc.",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Local Guiding Services, Food and Beverage Services, Front Office Services, Housekeeping, Computer Programming, Computer Systems Servicing, Automotive Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "406040",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "City of Bislig",
+      "school_name": "Saint Vincent De Paul Diocesan College",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Cookery, Bread and Pastry Production, Food and Beverage Services, Local Guiding Services, Housekeeping, Animal Production, Computer Hardware Servicing, Medical Transcription"
+    },
+    {
+      "school_id": "317441",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ESPERANZA",
+      "school_name": "Salug Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317437",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TRENTO",
+      "school_name": "Salvacion Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304732",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "CITY OF BAYUGAN",
+      "school_name": "Salvacion Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304904",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "SAN AGUSTIN",
+      "school_name": "Salvacion Nhs",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304733",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "VERUELA",
+      "school_name": "Sampaguita NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Hardware Servicing (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "406041",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Cagwait",
+      "school_name": "San Antonio School, Inc.",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Animation"
+    },
+    {
+      "school_id": "304781",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SAN BENITO",
+      "school_name": "San Benito NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Housekeeping (NC II), Animal Production (NC II)"
+    },
+    {
+      "school_id": "405944",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "San Francisco (Anao-Aon)",
+      "school_name": "San Francisco Colleges",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304843",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SAN FRANCISCO (ANAO-AON)",
+      "school_name": "San Francisco NHS",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "317513",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Bagong Silang ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317443",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TRENTO",
+      "school_name": "San Isidro NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304734",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "San Isidro NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "304782",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SAN ISIDRO",
+      "school_name": "San Isidro NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Cookery (NC II)"
+    },
+    {
+      "school_id": "304807",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "San Jose Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "317430",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "San Jose Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304810",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "LIBJO (ALBOR)",
+      "school_name": "San Jose Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304735",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "CITY OF BAYUGAN",
+      "school_name": "SAN JUAN NATIONAL HIGH SCHOOL",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304736",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN LUIS",
+      "school_name": "San Luis NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304905",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "SAN MIGUEL",
+      "school_name": "San Miguel NCHS",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304907",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "SAN MIGUEL",
+      "school_name": "San Miguel NCHS - Sagbayan Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "317913",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "SAN MIGUEL",
+      "school_name": "San Miguel NCHS - San Roque NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "304908",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "SAN MIGUEL",
+      "school_name": "San Miguel NCHS Poblacion Annex",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "407579",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Mainit",
+      "school_name": "San Nicolas Academy",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406030",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "San Francisco (Anao-Aon)",
+      "school_name": "San Nicolas High School",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405989",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Dapa",
+      "school_name": "San Nicolas School",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317438",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TRENTO",
+      "school_name": "San Roque Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317415",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ESPERANZA",
+      "school_name": "San Toribio NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "304882",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "San Vicente II NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317303",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "JABONGA",
+      "school_name": "San Vicente ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317404",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "San Vicente NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "304769",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "San Vicente NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Cookery (NC II), Bread and Pastry Production (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "317446",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "San Vicente NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317301",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUENAVISTA",
+      "school_name": "Sangay NHS-Guinabsan NHS Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304698",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "SANTIAGO",
+      "school_name": "Santiago NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Hairdressing (NC II), Wellness Massage (NC II), Beauty/ Nail Care (NC II)"
+    },
+    {
+      "school_id": "304785",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SANTA MONICA (SAPAO)",
+      "school_name": "Sapao NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Cookery (NC II), Housekeeping (NC II)"
+    },
+    {
+      "school_id": "317419",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SANTA JOSEFA",
+      "school_name": "Sayon Nhs",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "304844",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "BASILISA (RIZAL)",
+      "school_name": "SERING NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "340204",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "CARMEN",
+      "school_name": "SHS in Carmen, Agusan Del Norte",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "317311",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "REMEDIOS T. ROMUALDEZ",
+      "school_name": "Balangbalang NHS (Agay NHS Annex)",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "404094",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Dapa",
+      "school_name": "Siargao Island Institute of Technology",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Housekeeping, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "317604",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "DAPA",
+      "school_name": "Siargao Nat'l. Science HS",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304740",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SIBAGAT",
+      "school_name": "SIBAGAT NATIONAL HIGH SCHOOL OF HOME INDUSTRIES",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Hairdressing (NC II),  Electrical Installation and Maintenance (NC II),  Masonry (NC II), Tile Setting (NC II)"
+    },
+    {
+      "school_id": "304869",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF BISLIG",
+      "school_name": "Sikahoy NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304683",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUENAVISTA",
+      "school_name": "Simbalan NHS - Guinabsan NHS Annex",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "317408",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "VERUELA",
+      "school_name": "Sinobong NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "317908",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "SAN MIGUEL",
+      "school_name": "SMNCHS-Mahayag Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II)"
+    },
+    {
+      "school_id": "304788",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SOCORRO",
+      "school_name": "Socorro National HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Local Guiding Services (NC II), Beauty/ Nail Care (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "317602",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SOCORRO",
+      "school_name": "Socorro NHS - Atoyay NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "304909",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "BAYABAS",
+      "school_name": "Solomon P. Lozada NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "317418",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN LUIS",
+      "school_name": "Balit HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405959",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Balite Institute of Technology-Butuan",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Cookery, Tailoring, Shielded Metal Arc Welding"
+    },
+    {
+      "school_id": "304814",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SAN FRANCISCO (ANAO-AON)",
+      "school_name": "Balite NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services (NC II), Housekeeping (NC II), Attractions and Theme Parks (NC II), Beauty/ Nail Care (NC II)"
+    },
+    {
+      "school_id": "406039",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "City of Bislig",
+      "school_name": "Southern Technological Institute of the Philippines",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Local Guiding Services, Tourism Promotion Services, Food and Beverage Services, Wellness Massage, Plumbing, Masonry"
+    },
+    {
+      "school_id": "472036",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "San Francisco (Anao-Aon)",
+      "school_name": "Southway College of Technology",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Caregiving, Food and Beverage Services, Automotive Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "304915",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LIANGA",
+      "school_name": "St. Christine NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "317912",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LIANGA",
+      "school_name": "St. Christine NHS - Davisol NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "406009",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Surigao City (Capital)",
+      "school_name": "St. Jude Thaddeus Institute of Technology",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406042",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Cantilan",
+      "school_name": "St. Michael College",
+      "programs": "STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406007",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Surigao City (Capital)",
+      "school_name": "St. Paul University-Surigao",
+      "programs": "STEM, ABM, HUMSS, GAS, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Cookery, Bread and Pastry Production, Food and Beverage Services, Front Office Services, Local Guiding Services, Tourism Promotion Services, Travel Services, Housekeeping, Wellness Massage, Caregiving, Carpentry, Consumer Electronics Servicing, Electrical Installation and Maintenance, Masonry, Tile Setting, Shielded Metal Arc Welding, Animal Production, Slaughtering Operations (Hog/Swine/Pig), Aquaculture, Food Processing, Landscape Installation and Maintenance, Organic Agriculture, Pest Management, Rice Machinery Operations, Computer Systems Servicing, Computer Programming, Animation, Contact Center Services, Medical Transcription, Illustration, Technical Drafting"
+    },
+    {
+      "school_id": "304744",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ROSARIO",
+      "school_name": "Sta. Cruz NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "304778",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "GENERAL LUNA",
+      "school_name": "Sta. Fe Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317439",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ESPERANZA",
+      "school_name": "Sta. Fe Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304749",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "Sta. Irene NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304750",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SANTA JOSEFA",
+      "school_name": "Sta. Josefa NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304883",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Sta. Juana NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "317935",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Sta. Maria ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304705",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TRENTO",
+      "school_name": "Sta. Maria NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Hairdressing (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "340416",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "ALEGRIA",
+      "school_name": "Stand  Alone 1",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "340297",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "CITY OF BAYUGAN",
+      "school_name": "STAND ALONE SHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "340306",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF BISLIG",
+      "school_name": "STAND ALONE SHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Animal Production (NC II), Slaughtering Operation (NC II),  Food and Beverage Services (NC II), Cookery (NC II), Beauty/ Nail Care (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "404049",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "San Francisco (Anao-Aon)",
+      "school_name": "STI - San Francisco",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Front Office Services, Cookery, Tourism Promotion Services, Travel Services, Food and Beverage Services, Bread and Pastry Production, Bartending, Commercial Cooking, Computer Programming, Computer Hardware Servicing, Animation, Technical Drafting, Illustration, Broadband Installation (Fixed Wireless Systems), Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "317319",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "JABONGA",
+      "school_name": "Bangonay NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "500322",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGO",
+      "school_name": "Bangsud ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "404086",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Surigao City (Capital)",
+      "school_name": "STI College - Surigao",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Bread and Pastry Production, Tourism Promotion Services, Cookery, Local Guiding Services, Bartending, Travel Services, Commercial Cooking, Front Office Services, Computer Programming, Contact Center Services"
+    },
+    {
+      "school_id": "304916",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "SAN AGUSTIN",
+      "school_name": "Sto. Niño NHS",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304751",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "Sto. Tomas NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "304770",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Sumile NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304801",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Surigao City NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "340383",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Surigao City Stand Alone",
+      "programs": "Arts and Design",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304847",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Surigao Del Norte NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Sports",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "600185",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Cagwait",
+      "school_name": "Surigao del Sur State University-Cagwait",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Computer Programming"
+    },
+    {
+      "school_id": "600109",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Cantilan",
+      "school_name": "Surigao del Sur State University-Cantilan",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Systems Servicing, Computer Programming, Food and Beverage Services,  Bread and Pastry Production, Local Guiding Services, Automotive Servicing"
+    },
+    {
+      "school_id": "600108",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Lianga",
+      "school_name": "Surigao del Sur State University-Lianga",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture, Fish Capture"
+    },
+    {
+      "school_id": "600282",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "City of Tandag (Capital)",
+      "school_name": "Surigao del Sur State University-Main, Tandag",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Computer Systems Servicing, Computer Programming, Food and Beverage Services, Cookery, Masonry, Plumbing"
+    },
+    {
+      "school_id": "600186",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "San Miguel",
+      "school_name": "Surigao del Sur State University-San Miguel",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production, Carpentry"
+    },
+    {
+      "school_id": "406012",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Surigao City (Capital)",
+      "school_name": "Surigao Education Center",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Caregiving, Food and Beverage Services, Bread and Pastry Production, Cookery, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Carpentry, Plumbing, Technical Drafting"
+    },
+    {
+      "school_id": "600280",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Surigao City (Capital)",
+      "school_name": "Surigao State College of Technology",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Beauty/Nail Care, Hairdressing, Cookery, Food and Beverage Services, Bread and Pastry Production, Dressmaking, Computer Hardware Servicing, Electrical Installation and Maintenance, Consumer Electronics Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Shielded Metal Arc Welding, Automotive Servicing"
+    },
+    {
+      "school_id": "600106",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Del Carmen",
+      "school_name": "Surigao State College of Technology-Del Carmen",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Cookery, Housekeeping, Food and Beverage Services, Front Office Services, Computer Hardware Servicing, Electrical Installation and Maintenance, Automotive Servicing, Animal Production, Aquaculture"
+    },
+    {
+      "school_id": "600281",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Mainit",
+      "school_name": "Surigao State College of Technology-Mainit",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production, Organic Agriculture"
+    },
+    {
+      "school_id": "407582",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Barobo",
+      "school_name": "Surigao Sur College - Barobo",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Front Office Services, Local Guiding Services, Computer Systems Servicing, Computer Programming"
+    },
+    {
+      "school_id": "407583",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Lingig",
+      "school_name": "Surigao Sur College - Pagtilaan",
+      "programs": "TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Beauty/Nail Care, Wellness Massage"
+    },
+    {
+      "school_id": "407584",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Tagbina",
+      "school_name": "Surigao Sur College - Tagongon",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing, Shielded Metal Arc Welding, Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "474501",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "Tagbina",
+      "school_name": "Surigao Sur College - Villaverde",
+      "programs": "TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services, Front Office Services, Local Guiding Services"
+    },
+    {
+      "school_id": "304849",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SISON",
+      "school_name": "T.S Pantilo, Sr. MNHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304850",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SISON",
+      "school_name": "T.S Pantilo, Sr. MNHS - Mayag NHS Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304917",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF BISLIG",
+      "school_name": "Tabon M. Estrella NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Beauty/ Nail Care (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "317701",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Taft NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "304851",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "BASILISA (RIZAL)",
+      "school_name": "TAG - ABACA NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Local Guiding Services (NC II), Beauty/ Nail Care (NC II), Hairdressing (NC II)"
+    },
+    {
+      "school_id": "304812",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "TAGANA-AN",
+      "school_name": "Tagana-an NHS (ASA NHS)",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304821",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "CLAVER",
+      "school_name": "Taganito NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304920",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Tagasaka NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304759",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Banza NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Housekeeping (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "304921",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Tagasaka NHS - Bigaan NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "317910",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Tagasaka NHS - Loyola NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "304884",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Tagbina NHS",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "317522",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Tagkiling Tribal ISS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304752",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Talacogon NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Housekeeping (NC II), Food and Beverage Services (NC II), Local Guiding Services (NC II),  Wellness Massage (NC II), Hairdressing (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "317809",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "TAGANA-AN",
+      "school_name": "Talavera NHS - Annex (Tagana-an NHS)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304771",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Taligaman NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "304805",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Talisay NHS - Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304864",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "BAROBO",
+      "school_name": "Tambis National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "304922",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF TANDAG (Capital)",
+      "school_name": "Tandag National Science High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "317926",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Tarusan ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "304860",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LINGIG",
+      "school_name": "Barcelona NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "304861",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "BAROBO",
+      "school_name": "BAROBO NHS",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Hairdressing (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "317921",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "BAROBO",
+      "school_name": "BAROBO NHS-WAKAT NHS ANNEX",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "304923",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Tidman NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "304887",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CORTES",
+      "school_name": "Tigao National High School",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304853",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "TUBOD",
+      "school_name": "Timamana NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "405985",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Timber City Academy",
+      "programs": "ABM, STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304700",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "TUBAY",
+      "school_name": "Tinigbasan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304753",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TRENTO",
+      "school_name": "Trento NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Arts and Design",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "317805",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "TUBAJON",
+      "school_name": "TRINIDAD MAPA GUPANA MNHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "304854",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "TUBAJON",
+      "school_name": "TUBAJON NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "304701",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "TUBAY",
+      "school_name": "Tubay NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "304855",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "TUBOD",
+      "school_name": "Tubod NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "304772",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Tungao NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "304924",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CAGWAIT",
+      "school_name": "Unidad NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304791",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "DAPA",
+      "school_name": "Union NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317802",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "CAGDIANAO",
+      "school_name": "VALENCIA NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304754",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "VERUELA",
+      "school_name": "Veruela NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "317445",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "VERUELA",
+      "school_name": "Veruela NHS Annex - Nueva Era HS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "304702",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "CARMEN",
+      "school_name": "Vinapor NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Caregiving (NC II)"
+    },
+    {
+      "school_id": "304715",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "Waloe NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317428",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "West Prosperidad Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317707",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Wilfredo D. Rafols Mem. NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304806",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Zaragoza NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304755",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Zillovia NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "317402",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN FRANCISCO",
+      "school_name": "Bayugan II National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304745",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ROSARIO",
+      "school_name": "Bayugan III NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304707",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "CITY OF BAYUGAN",
+      "school_name": "Bayugan NCHS",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304857",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CARRASCAL",
+      "school_name": "Adlay NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Tile Setting (NC II), Masonry (NC II)"
+    },
+    {
+      "school_id": "317909",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "HINATUAN",
+      "school_name": "Bingcongan IS",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II)"
+    },
+    {
+      "school_id": "304708",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "LORETO",
+      "school_name": "Binucayan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405904",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "City of Cabadbaran",
+      "school_name": "Bishop Haden Institute, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Systems Servicing, Technical Drafting"
+    },
+    {
+      "school_id": "304865",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF BISLIG",
+      "school_name": "Bislig City NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "500323",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CAGWAIT",
+      "school_name": "Bitaugan ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304906",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "SAN MIGUEL",
+      "school_name": "BOLHOON NATIONAL HIGH SCHOOL",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "404100",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "Socorro",
+      "school_name": "Bucas Grande Foundation College",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Cookery, Housekeeping, Local Guiding Services, Computer Hardware Servicing, Computer Programming, Shielded Metal Arc Welding, Electrical Installation and Maintenance"
+    },
+    {
+      "school_id": "322503",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF BISLIG",
+      "school_name": "Bucto NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Aquaculture (NC II)"
+    },
+    {
+      "school_id": "317433",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Buena Gracia Nhs",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "317426",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN FRANCISCO",
+      "school_name": "Buena Suerte NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "405902",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Buenavista",
+      "school_name": "Buenavista Institute",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Local Guiding Services"
+    },
+    {
+      "school_id": "304871",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CITY OF TANDAG (Capital)",
+      "school_name": "Buenavista National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Landscape Installation and Maintenance (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304674",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUENAVISTA",
+      "school_name": "Buenavista NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "500047",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUENAVISTA",
+      "school_name": "Buenavista Special Education HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317442",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SIBAGAT",
+      "school_name": "Afga Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304673",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "REMEDIOS T. ROMUALDEZ",
+      "school_name": "Agay NHS",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304709",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "BUNAWAN",
+      "school_name": "Bunawan National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Horticulture (NC II),  Shielded Metal Arc Welding (NC I), Plumbing (NC I)"
+    },
+    {
+      "school_id": "304832",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "MALIMONO",
+      "school_name": "Bunyasan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "304872",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CORTES",
+      "school_name": "Burgos NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "304773",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "BURGOS",
+      "school_name": "Burgos NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405963",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Butuan City Colleges",
+      "programs": "HUMSS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304761",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Butuan City Comprehensive HS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "304762",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Butuan City Sch. of Arts & Trades",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "404077",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Butuan Doctors' College",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304862",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "BAROBO",
+      "school_name": "Cabacungan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304699",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "CITY OF CABADBARAN",
+      "school_name": "Cabadbaran City National High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Bread and Pastry Production (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Electrical Installation and Maintenance (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "317915",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CANTILAN",
+      "school_name": "Cabangahan ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Handicraft- Basketry, Macrame, Handicraft- Fashion Accessories, Paper Craft, Handicraft- Needlecraft, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "304815",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Dinagat Islands",
+      "municipality": "CAGDIANAO",
+      "school_name": "CAGDIANAO",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Computer Programming (NC IV), Bread and Pastry Production (NC II), Beauty/ Nail Care (NC II)"
+    },
+    {
+      "school_id": "317304",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "CARMEN",
+      "school_name": "Cahayagan NHS (Carmen NHS Annex)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304729",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "CITY OF BAYUGAN",
+      "school_name": "Calaitan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304676",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "CITY OF CABADBARAN",
+      "school_name": "Calamba NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "317315",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUENAVISTA",
+      "school_name": "Agong-ong NHS (Buenavista NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Housekeeping (NC II), Beauty/ Nail Care (NC II)"
+    },
+    {
+      "school_id": "317925",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "LANUZA",
+      "school_name": "Agsam ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "405954",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Agusan Business and Arts Foundation, Inc.",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405955",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Agusan Colleges, Inc.",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405921",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "City of Bayugan",
+      "school_name": "Agusan del Sur College, Inc",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Caregiving, Cookery, Food and Beverage Services, Front Office Services, Local Guiding Services, Tourism Promotion Services, Travel Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Housekeeping, Tailoring, Wellness Massage"
+    },
+    {
+      "school_id": "304703",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN FRANCISCO",
+      "school_name": "Agusan del Sur National High School",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Electrical Installation and Maintenance (NC II),  Food and Beverage Services (NC II), Cookery (NC II), Bread and Pastry Production (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304817",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "BACUAG",
+      "school_name": "Campo NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Slaughtering Operation (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "405906",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "City of Cabadbaran",
+      "school_name": "Candelaria Institute of Cabadbaran, Inc.",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Food and Beverage Services, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Computer Systems Servicing, Technical Drafting"
+    },
+    {
+      "school_id": "304818",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "MALIMONO",
+      "school_name": "Cantapoy NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317702",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Cantiasay NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Food (Fish) Processing (NC II)"
+    },
+    {
+      "school_id": "304873",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CANTILAN",
+      "school_name": "Cantilan NHS",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "317928",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CANTILAN",
+      "school_name": "Cantilan NHS - Consuelo Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "404040",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Kitcharao",
+      "school_name": "Caraga Institute of Technology",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304794",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "SURIGAO CITY (Capital)",
+      "school_name": "Caraga Regional Science HS",
+      "programs": "STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600132",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "City of Cabadbaran",
+      "school_name": "Caraga State University-Cabadbaran",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Cookery, Automotive Servicing"
+    },
+    {
+      "school_id": "600279",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Caraga State University-Main Campus",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production, Animal Production, Pest Management, Horticulture, Animation, Computer Programming"
+    },
+    {
+      "school_id": "304780",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "PILAR",
+      "school_name": "Caridad NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304875",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CARMEN",
+      "school_name": "Carmen Nat'l. Agr'l. HS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "500326",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGBINA",
+      "school_name": "Carpenito ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "304877",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "CARRASCAL",
+      "school_name": "Carrascal NHS",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "304680",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "LAS NIEVES",
+      "school_name": "Casiklan NHS- Durian NHS Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Masonry (NC II), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "304704",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "PROSPERIDAD (Capital)",
+      "school_name": "Agusan del Sur National Science HS",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600104",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "Bunawan",
+      "school_name": "Agusan del Sur State College of Agriculture and Technology",
+      "programs": "STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Cookery, Beauty/Nail Care, Handicraft, Animal Production, Agricultural Crops Production, Horticulture, Automotive Servicing, Consumer Electronics Servicing, Refrigeration and Air-Conditioning (PACU/CRE) Servicing, Shielded Metal Arc Welding, Electrical Installation and Maintenance, Technical Drafting, Computer Systems Servicing, Animation, Illustration"
+    },
+    {
+      "school_id": "304756",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Agusan NHS",
+      "programs": "STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304757",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Agusan Pequeno NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "317440",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "ESPERANZA",
+      "school_name": "Catmonon Nhs",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317416",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "TALACOGON",
+      "school_name": "Causwagan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "317810",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "TAGANA-AN",
+      "school_name": "Cawilan NHS-Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "304738",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "SAN LUIS",
+      "school_name": "Cecilia NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "407428",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Center for Healthcare Professions Butuan",
+      "programs": "TVL",
+      "tvl_specializations": "Caregiving"
+    },
+    {
+      "school_id": "317907",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Sur",
+      "municipality": "TAGO",
+      "school_name": "Clarence Ty Pimentel National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "304820",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "CLAVER",
+      "school_name": "Claver NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Wellness Massage (NC II), Hairdressing (NC II),  Computer Hardware Servicing (NC II), Animation (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "405956",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Colegio De Caraga Inc. (CDCI)",
+      "programs": "ABM, HUMSS, STEM, GAS, TVL",
+      "tvl_specializations": "Cookery, Caregiving, Housekeeping, Food and Beverage Services, Bread and Pastry Production, Events Management Services, Front Office Services, Electrical Installation and Maintenance, Computer Programming"
+    },
+    {
+      "school_id": "407429",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "Butuan City (Capital)",
+      "school_name": "Colegio De Liga ng mga Barangay",
+      "programs": "ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "405821",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Sur",
+      "municipality": "Trento",
+      "school_name": "Computer Research Network, Inc.-Main Campus",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Programming, Animation, Computer Hardware Servicing, Automotive Servicing, Cookery, Bread and Pastry Production, Food and Beverage Services, Caregiving"
+    },
+    {
+      "school_id": "304775",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Surigao Del Norte",
+      "municipality": "DAPA",
+      "school_name": "Consolacion NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "317507",
+      "region": "Caraga",
+      "region_name": "Caraga (Region XIII)",
+      "province": "Agusan Del Norte",
+      "municipality": "BUTUAN CITY (Capital)",
+      "school_name": "Consuelo ISS",
+      "programs": "TVL",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV)"
+    }
+  ],
+  "meta": {
+    "title": "Mga Senior High School - Caraga (Region XIII) - Libreng download",
+    "description": "Mga Senior High School (SHS) sa Caraga (Region XIII) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (463 paaralan.) Naglalaman ng 463 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Senior High School - Caraga (Region XIII) | ListBase",
+    "seo_description": "I-download Mga Senior High School - Caraga (Region XIII) — 463 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 463 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/nedpals/k12-shs-api"
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "tl-aurora-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Aurora",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Aurora",
+  "description": "Direktoryo ng 8 lungsod at bayan sa lalawigan ng Aurora (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Aurora` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Baler",
+      "uri": "Bayan",
+      "lalawigan": "Aurora",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3200",
+      "punong_bayan": "RHETT RONAN T. ANGARA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PEDRO M. ONG JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Casiguran",
+      "uri": "Bayan",
+      "lalawigan": "Aurora",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3204",
+      "punong_bayan": "ROYNALD S. SORIANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EUGENE B. CALUGTONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Dilasag",
+      "uri": "Bayan",
+      "lalawigan": "Aurora",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3205",
+      "punong_bayan": "JOE P. GOROSPE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JANICE B. VILLAREAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Dinalungan",
+      "uri": "Bayan",
+      "lalawigan": "Aurora",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3206",
+      "punong_bayan": "MANUEL A. TORRES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ZARAH IAN U. COMABIG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Dingalan",
+      "uri": "Bayan",
+      "lalawigan": "Aurora",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3207",
+      "punong_bayan": "SHIERWIN H. TAAY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDGARDO R. GALVEZ",
+      "kontak_pangalawang_punong_bayan": "(042) 724-3168"
+    },
+    {
+      "id": 6,
+      "lgu": "Dipaculao",
+      "uri": "Bayan",
+      "lalawigan": "Aurora",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3203",
+      "punong_bayan": "DANILO A. TOLENTINO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FRANKLIN J. REYES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Maria Aurora",
+      "uri": "Bayan",
+      "lalawigan": "Aurora",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3202",
+      "punong_bayan": "ARIEL S. BITONG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AMADO M. GENETA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "San Luis",
+      "uri": "Bayan",
+      "lalawigan": "Aurora",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "3201",
+      "punong_bayan": "ARIEL A. DE JESUS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTOPHER A. MARZAN",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Aurora - Libreng download",
+    "description": "Direktoryo ng 8 lungsod at bayan sa lalawigan ng Aurora (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Aurora` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 8 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Aurora | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Aurora — 8 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 8 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

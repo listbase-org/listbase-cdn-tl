@@ -1,0 +1,166 @@
+{
+  "id": "tl-ilocos-paliparan",
+  "name": "Mga Paliparan — Ilocos",
+  "title": "Mga Paliparan — Ilocos",
+  "description": "Mga paliparan at landing strip sa Ilocos (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Ilocos`. (Airports in Ilocos Region (Region I), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RPLI",
+      "iata": "LAO",
+      "name": "Laoag International Airport",
+      "city": "Laoag City",
+      "subdivision": "Ilocos",
+      "subdivision_native": "Ilocos",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 25,
+      "latitude": 18.1781,
+      "longitude": 120.532,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPLR",
+      "iata": "",
+      "name": "Carmen Rosales Airstrip",
+      "city": "Carmen",
+      "subdivision": "Ilocos",
+      "subdivision_native": "Ilocos",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 0,
+      "latitude": 15.88434,
+      "longitude": 120.60194,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUG",
+      "iata": "",
+      "name": "Lingayen Airport",
+      "city": "",
+      "subdivision": "Ilocos",
+      "subdivision_native": "Ilocos",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 7,
+      "latitude": 16.0348,
+      "longitude": 120.241,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUQ",
+      "iata": "",
+      "name": "Vigan Airport",
+      "city": "Vigan City",
+      "subdivision": "Ilocos",
+      "subdivision_native": "Ilocos",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 16,
+      "latitude": 17.5553,
+      "longitude": 120.356,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUS",
+      "iata": "SFE",
+      "name": "San Fernando Airport",
+      "city": "",
+      "subdivision": "Ilocos",
+      "subdivision_native": "Ilocos",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 13,
+      "latitude": 16.5956,
+      "longitude": 120.303,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — Ilocos - Libreng download",
+    "description": "Mga paliparan at landing strip sa Ilocos (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Ilocos`. (Airports in Ilocos Region (Region I), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 5 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — Ilocos | ListBase",
+    "seo_description": "I-download Mga Paliparan — Ilocos — 5 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 5 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

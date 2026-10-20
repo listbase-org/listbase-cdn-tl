@@ -1,0 +1,196 @@
+{
+  "id": "tl-mountain-province-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Mountain Province",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Mountain Province",
+  "description": "Direktoryo ng 10 lungsod at bayan sa lalawigan ng Mountain Province (Rehiyong Administratibo ng Cordillera (CAR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Mountain Province` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Barlig",
+      "uri": "Bayan",
+      "lalawigan": "MOUNTAIN PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2623",
+      "punong_bayan": "CLARK C. NGAYA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DELIO F. FOCAD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bauko",
+      "uri": "Bayan",
+      "lalawigan": "MOUNTAIN PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2621",
+      "punong_bayan": "RANDOLF T. AWISAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BARTOLOME B. BADECAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Besao",
+      "uri": "Bayan",
+      "lalawigan": "MOUNTAIN PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2618",
+      "punong_bayan": "BRYNE O. BACWADEN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELIZABETH A. BUYAGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Bontoc",
+      "uri": "Bayan",
+      "lalawigan": "MOUNTAIN PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2616",
+      "punong_bayan": "JEROME B. TUDLONG JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EUSEBIO S. KABLUYEN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Natonin",
+      "uri": "Bayan",
+      "lalawigan": "MOUNTAIN PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2624",
+      "punong_bayan": "JOSE T. AGAGON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAYMUNDO L. LAPASEN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Paracelis",
+      "uri": "Bayan",
+      "lalawigan": "MOUNTAIN PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2625",
+      "punong_bayan": "MARCOS G. AYANGWA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DJARMA B. RAFAEL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Sabangan",
+      "uri": "Bayan",
+      "lalawigan": "MOUNTAIN PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2622",
+      "punong_bayan": "MARCIAL C. LAWILAO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RODOLFO L. MENCION",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Sadanga",
+      "uri": "Bayan",
+      "lalawigan": "MOUNTAIN PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2617",
+      "punong_bayan": "ADOLF F. GANGGANGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PAUL F. FARONG-EY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Sagada",
+      "uri": "Bayan",
+      "lalawigan": "MOUNTAIN PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2619",
+      "punong_bayan": "FELICITO O. DULA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DAVID TALLUSEN B. BUYAGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Tadian",
+      "uri": "Bayan",
+      "lalawigan": "MOUNTAIN PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2620",
+      "punong_bayan": "CONSTITO S. MASWENG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GEORGE C. BISEN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Mountain Province - Libreng download",
+    "description": "Direktoryo ng 10 lungsod at bayan sa lalawigan ng Mountain Province (Rehiyong Administratibo ng Cordillera (CAR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Mountain Province` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 10 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Mountain Province | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Mountain Province — 10 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 10 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

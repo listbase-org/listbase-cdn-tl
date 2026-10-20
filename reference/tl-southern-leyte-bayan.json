@@ -1,0 +1,200 @@
+{
+  "id": "tl-southern-leyte-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Southern Leyte",
+  "title": "Mga Bayan ng Lalawigan ng Southern Leyte",
+  "description": "Listahan ng 18 munisipalidad (bayan) sa lalawigan ng Southern Leyte, REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "086401000",
+      "name": "ANAHAWAN",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 8211,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086402000",
+      "name": "BONTOC",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 28905,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "086403000",
+      "name": "HINUNANGAN",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 29976,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "086404000",
+      "name": "HINUNDAYAN",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 12285,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086405000",
+      "name": "LIBAGON",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 15169,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086406000",
+      "name": "LILOAN",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 23981,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "086419000",
+      "name": "LIMASAWA",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 6061,
+      "income_classification": "6th*"
+    },
+    {
+      "psgc_code": "086408000",
+      "name": "MACROHON",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 26244,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "086409000",
+      "name": "MALITBOG",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 22923,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "086410000",
+      "name": "PADRE BURGOS",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 11091,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "086411000",
+      "name": "PINTUYAN",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 9826,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "086412000",
+      "name": "SAINT BERNARD",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 28395,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "086413000",
+      "name": "SAN FRANCISCO",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 13402,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086414000",
+      "name": "SAN JUAN (CABALIAN)",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 14858,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086415000",
+      "name": "SAN RICARDO",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 10494,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "086416000",
+      "name": "SILAGO",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 12775,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "086417000",
+      "name": "SOGOD",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 44986,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "086418000",
+      "name": "TOMAS OPPUS",
+      "province": "SOUTHERN LEYTE",
+      "region": "REGION VIII (EASTERN VISAYAS)",
+      "population": 16608,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Southern Leyte - Libreng download",
+    "description": "Listahan ng 18 munisipalidad (bayan) sa lalawigan ng Southern Leyte, REGION VIII (EASTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 18 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Southern Leyte | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Southern Leyte — 18 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 18 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "tl-dam",
+  "name": "Mga Dam ng Pilipinas (Philippine Dams)",
+  "title": "Mga Dam ng Pilipinas (Philippine Dams)",
+  "description": "Listahan ng mga dam/saplad (dams) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Tandaan: isang maling-uring tala (Q6749730 Manila–Cavite Expressway, isang ekspresway na hindi dam) ang tinanggal mula sa hilaw na resulta para mapanatili ang kalinisan ng kategorya.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q7975576",
+      "name_tl": "Dike ng Wawa",
+      "name_en": "Wawa Dam",
+      "located_in_at": "",
+      "latitude": 14.7278,
+      "longitude": 121.192,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Dike_ng_Wawa"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q17080132",
+      "name_tl": "Prinsa ng Molino",
+      "name_en": "Prinza Dam",
+      "located_in_at": "Bacoor",
+      "latitude": 14.43845,
+      "longitude": 120.97537,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q31806887",
+      "name_tl": "Prinsa ng Molino",
+      "name_en": "Molino Dam",
+      "located_in_at": "Bacoor",
+      "latitude": 14.398611,
+      "longitude": 120.979722,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q164717",
+      "name_tl": "Saplad ng Angat",
+      "name_en": "Angat Dam",
+      "located_in_at": "",
+      "latitude": 14.908056,
+      "longitude": 121.16,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Saplad_ng_Angat"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1637455",
+      "name_tl": "Saplad ng Magat",
+      "name_en": "Magat Dam",
+      "located_in_at": "",
+      "latitude": 16.825,
+      "longitude": 121.45417,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Saplad_ng_Magat"
+    }
+  ],
+  "meta": {
+    "title": "Mga Dam ng Pilipinas (Philippine Dams) - Libreng download",
+    "description": "Listahan ng mga dam/saplad (dams) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Tandaan: isang maling-uring tala (Q6749730 Manila–Cavite Expressway, isang ekspresway na hindi dam) ang tinanggal mula sa hilaw na resulta para mapanatili ang kalinisan ng kategorya. Naglalaman ng 5 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Dam ng Pilipinas (Philippine Dams) | ListBase",
+    "seo_description": "I-download Mga Dam ng Pilipinas (Philippine Dams) — 5 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 5 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

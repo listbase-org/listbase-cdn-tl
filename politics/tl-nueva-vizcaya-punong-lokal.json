@@ -1,0 +1,256 @@
+{
+  "id": "tl-nueva-vizcaya-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Nueva Vizcaya",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Nueva Vizcaya",
+  "description": "Direktoryo ng 15 lungsod at bayan sa lalawigan ng Nueva Vizcaya (Lambak ng Cagayan (Region II)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Nueva Vizcaya` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Alfonso Castañeda",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3714",
+      "punong_bayan": "WILSON M. CAPIA-AO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EVELINDA D. HUERTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Ambaguio",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3701",
+      "punong_bayan": "RONELIO B. DANAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEON M. LINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Aritao",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3704",
+      "punong_bayan": "REMELINA P. GALAM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAYSON E. FERRER",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Bagabag",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3711",
+      "punong_bayan": "BENIGNO B. CALAUAD",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NAPOLEON P. LOGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Bambang",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3702",
+      "punong_bayan": "BENJAMIN L. CUARESMA III",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARNEL G. DULDULAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Bayombong",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3700",
+      "punong_bayan": "ANTONIO SERGIO G. BAGASAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMON T. CABAUATAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Diadi",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3712",
+      "punong_bayan": "SANDY M. GAYATON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROLITO A. DULNUAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Dupax del Norte",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3706",
+      "punong_bayan": "TIMOTHY JOSEPH E. CAYTON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VICTORINO V. PRADO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Dupax del Sur",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3707",
+      "punong_bayan": "NEIL M. MAGAWAY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUBEN S. BASCONCILLO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Kasibu",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3703",
+      "punong_bayan": "ROMEO C. TAYABAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALBERTO D. BUMOLO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Kayapa",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3708",
+      "punong_bayan": "ELIZABETH D. BALASYA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PETER L. BAY-AN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Quezon",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3713",
+      "punong_bayan": "DOLORES B. BINWAG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AMOR A. DINCOG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Santa Fe",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3705",
+      "punong_bayan": "LIWAYWAY D. CARAMAT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JONATHAN M. TINDAAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Solano",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3709",
+      "punong_bayan": "PHILIP A. DACAYO",
+      "kontak_punong_bayan": "(078) 805-3581",
+      "pangalawang_punong_bayan": "EDUARDO DL. TIONGSON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Villaverde",
+      "uri": "Bayan",
+      "lalawigan": "NUEVA VIZCAYA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3710",
+      "punong_bayan": "RONELIE U. VALTORIBIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARLON JOHN R. ACOSTA",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Nueva Vizcaya - Libreng download",
+    "description": "Direktoryo ng 15 lungsod at bayan sa lalawigan ng Nueva Vizcaya (Lambak ng Cagayan (Region II)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Nueva Vizcaya` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 15 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Nueva Vizcaya | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Nueva Vizcaya — 15 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 15 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

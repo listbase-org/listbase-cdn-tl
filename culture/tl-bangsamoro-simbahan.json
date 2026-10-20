@@ -1,0 +1,128 @@
+{
+  "id": "tl-bangsamoro-simbahan",
+  "name": "Mga Simbahan - Bangsamoro",
+  "title": "Mga Simbahan - Bangsamoro",
+  "description": "Mga simbahan sa rehiyong Bangsamoro, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Bangsamoro, Philippines.)",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "denominasyon",
+      "label": "Denominasyon",
+      "type": "string"
+    },
+    {
+      "key": "taon_itinatag",
+      "label": "Taon Itinatag",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "bayan",
+      "label": "Bayan",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q106172092",
+      "name_tl": "Katedral ng Cotabato",
+      "name_en": "Cotabato Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Bangsamoro",
+      "lalawigan": "",
+      "bayan": "Cotabato City",
+      "latitude": 7.221117,
+      "longitude": 124.246654,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q28922933",
+      "name_tl": "Simbahan ng Tamontaka",
+      "name_en": "Tamontaka Church",
+      "denominasyon": "",
+      "taon_itinatag": "",
+      "rehiyon": "Bangsamoro",
+      "lalawigan": "",
+      "bayan": "Cotabato City",
+      "latitude": 7.18351,
+      "longitude": 124.22189,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q34344521",
+      "name_tl": "Katedral ng Marawi",
+      "name_en": "Marawi Cathedral",
+      "denominasyon": "Catholicism",
+      "taon_itinatag": "",
+      "rehiyon": "Bangsamoro",
+      "lalawigan": "Lanao del Sur",
+      "bayan": "Marawi",
+      "latitude": 7.996998,
+      "longitude": 124.294523,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Simbahan - Bangsamoro - Libreng download",
+    "description": "Mga simbahan sa rehiyong Bangsamoro, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Bangsamoro, Philippines.) Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Simbahan - Bangsamoro | ListBase",
+    "seo_description": "I-download Mga Simbahan - Bangsamoro — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 12 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

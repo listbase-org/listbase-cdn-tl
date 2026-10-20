@@ -1,0 +1,936 @@
+{
+  "id": "tl-gocc",
+  "name": "Mga Korporasyong Pag-aari at/o Kontrolado ng Pamahalaan (GOCCs) ng Pilipinas",
+  "title": "Mga Korporasyong Pag-aari at/o Kontrolado ng Pamahalaan (GOCCs) ng Pilipinas",
+  "description": "Mga korporasyong pag-aari at/o kontrolado ng pamahalaan ng Pilipinas (Government-Owned and/or -Controlled Corporations), may pangalan, paglalarawan, tirahan, trunkline, at website.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 110,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "paglalarawan",
+      "label": "Paglalarawan",
+      "type": "string"
+    },
+    {
+      "key": "tirahan",
+      "label": "Tirahan",
+      "type": "string"
+    },
+    {
+      "key": "trunkline",
+      "label": "Trunkline",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Greenhills McKinley Arcade MA-104B, Ortigas Avenue corner Club Filipino St., San Juan City",
+      "trunkline": "",
+      "website": "www.amanahbank.gov.ph"
+    },
+    {
+      "pangalan": "APO PRODUCTION UNIT, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "2/F PIA Building, Visayas Ave. VASRA, Quezon City",
+      "trunkline": "",
+      "website": "www.apo.gov.ph"
+    },
+    {
+      "pangalan": "AURORA PACIFIC ECONOMIC ZONE AND FREEPORT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "1 Corporate Campus. Sitio Motyong, Brgy. Esteves, Casiguran, Aurora",
+      "trunkline": "",
+      "website": "www.apeco.gov.ph"
+    },
+    {
+      "pangalan": "AUTHORITY OF THE FREEPORT AREA OF BATAAN",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "AFAB Administration Bldg., Freeport Area of Bataan, Mariveles, Bataan",
+      "trunkline": "",
+      "website": "www.afab.gov.ph"
+    },
+    {
+      "pangalan": "BANGKO SENTRAL NG PILIPINAS",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "A. Mabini St. cor. P. Ocampo St., Malate, Manila",
+      "trunkline": "",
+      "website": "www.bsp.gov.ph"
+    },
+    {
+      "pangalan": "BASES CONVERSION AND DEVELOPMENT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "2/F Bonifacio Technology Center 31 St. cor. 2nd Ave., Bonifacio Global City, Taguig",
+      "trunkline": "",
+      "website": "www.bcda.gov.ph"
+    },
+    {
+      "pangalan": "BATANGAS LAND COMPANY, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Makati City",
+      "trunkline": "",
+      "website": ""
+    },
+    {
+      "pangalan": "BOY SCOUTS OF THE PHILIPPINES",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "181 Natividad Almeda-Lopez St., Ermita, Manila",
+      "trunkline": "",
+      "website": "scouts.gov.ph"
+    },
+    {
+      "pangalan": "BUKIDNON FOREST, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "BFI Compound, Sumpong, Malaybalay City, Bukidnon",
+      "trunkline": "",
+      "website": ""
+    },
+    {
+      "pangalan": "CAGAYAN ECONOMIC ZONE AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "10/F Greenfield Tower, Mayflower cor. William Sts. Greenfield District, Mandaluyong",
+      "trunkline": "",
+      "website": "ceza.gov.ph"
+    },
+    {
+      "pangalan": "CEBU PORT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "CIP Complex, Sergio Osmeña Boulevard, North Reclamation Area, Cebu City",
+      "trunkline": "",
+      "website": "www.cpa.gov.ph"
+    },
+    {
+      "pangalan": "CENTER FOR INTERNATIONAL TRADE EXPOSITIONS AND MISSIONS",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Golden Shell Pavilion, Roxas Boulevard cor. Sen. Gil J. Puyat Avenue, Pasay City",
+      "trunkline": "",
+      "website": "www.citem.gov.ph"
+    },
+    {
+      "pangalan": "CIVIL AVIATION AUTHORITY OF THE PHILIPPINES",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "MIA Road, Pasay City",
+      "trunkline": "",
+      "website": "www.caap.gov.ph"
+    },
+    {
+      "pangalan": "CLARK DEVELOPMENT CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Bldg. 2125, Elpidio Quirino St., Clark Freeport Zone, Pampanga",
+      "trunkline": "",
+      "website": "www.clark.com.ph"
+    },
+    {
+      "pangalan": "CLARK INTERNATIONAL AIRPORT CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Corporate Office Building, Civil Aviation Complex, Clark Freeport Zone, Pampanga",
+      "trunkline": "",
+      "website": "www.ciac.gov.ph"
+    },
+    {
+      "pangalan": "COCONUT INDUSTRY INVESTMENT FUND GROUP",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "4/F Plaacio Del Gobernador Gen. Luna St., Intramuros, Manila",
+      "trunkline": "",
+      "website": "www.ciif.ph"
+    },
+    {
+      "pangalan": "CREDIT INFORMATION CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "6/F Exchange Corner Bldg. 107 V.A. Rufino St. cor. Esteban St., Legaspi Village, Makati City",
+      "trunkline": "",
+      "website": "www.creditinfo.gov.ph"
+    },
+    {
+      "pangalan": "CULTURAL CENTER OF THE PHILIPPINES",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "15/F Ramon Magsaysay Center, Quintos St., Malate, Manila",
+      "trunkline": "",
+      "website": "www.culturalcenter.gov.ph"
+    },
+    {
+      "pangalan": "DAVAO INTERNATIONAL AIRPORT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Daang Maharlika Highway, Buhangin, Davao City, Davao del Sur",
+      "trunkline": "",
+      "website": ""
+    },
+    {
+      "pangalan": "DBP DATA CENTER, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "9/F DBP Building, Sen. Gil J. Puyat Avenue cor. Makati Avenue, Makati City",
+      "trunkline": "",
+      "website": "www.dci.ph"
+    },
+    {
+      "pangalan": "DBP LEASING CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "2/F Pacific Star Bldg., San Miguel Ave., Pasig City",
+      "trunkline": "",
+      "website": "www.dbp-leasing.gov.ph"
+    },
+    {
+      "pangalan": "DEVELOPMENT ACADEMY OF THE PHILIPPINES",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "DAP Bldg., San Miguel Ave., Pasig City",
+      "trunkline": "",
+      "website": "www.dap.edu.ph"
+    },
+    {
+      "pangalan": "DEVELOPMENT BANK OF THE PHILIPPINES",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Sen. Gil J. Puyat Avenue, Makati City",
+      "trunkline": "",
+      "website": "www.dbp.ph"
+    },
+    {
+      "pangalan": "DUTY FREE PHILIPPINES CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Fiestamall, E.H.A. Bldg., Ninoy Aquino Avenue, Parañaque City",
+      "trunkline": "",
+      "website": "www.dutyfree.gov.ph"
+    },
+    {
+      "pangalan": "EMPLOYEES' COMPENSATION COMMISSION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "4/F & 5/F ECC Bldg., 355 Sen. Gil Puyat Avenue, Makati City",
+      "trunkline": "",
+      "website": "www.ecc.gov.ph"
+    },
+    {
+      "pangalan": "FOOD TERMINAL, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "FTI Administration Building, Radian Street, Barangay Western Bicutan, Taguig City",
+      "trunkline": "",
+      "website": "www.fti.gov.ph"
+    },
+    {
+      "pangalan": "GOVERNMENT SERVICE INSURANCE SYSTEM",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Financial Center, Pasay City",
+      "trunkline": "",
+      "website": "www.gsis.gov.ph"
+    },
+    {
+      "pangalan": "GY REAL ESTATE, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "NDC Building 116 Tordesillas Street, Salcedo Village, Makati",
+      "trunkline": "",
+      "website": ""
+    },
+    {
+      "pangalan": "HOME DEVELOPMENT MUTUAL FUND (PAG-IBIG)",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Petron Megaplaza Bldg., Sen. Gil J. Puyat Ave., Makati City",
+      "trunkline": "",
+      "website": "www.pagibigfund.gov.ph"
+    },
+    {
+      "pangalan": "INTERCONTINENTAL BROADCASTING CORPORATION (IBC-13)",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Broadcast City, Capitol Hills, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "ibctv13.com"
+    },
+    {
+      "pangalan": "JOHN HAY MANAGEMENT CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "JHMC Office Complex John Hay Special Economic Zone, Baguio, Benguet",
+      "trunkline": "",
+      "website": "www.jhmc.com.ph"
+    },
+    {
+      "pangalan": "KAMAYAN REALTY CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "NDC Building 116 Tordesillas Street, Salcedo Village, Makati",
+      "trunkline": "",
+      "website": ""
+    },
+    {
+      "pangalan": "LAGUNA LAKE DEVELOPMENT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "LLADA Bldg., National Ecology Center, East Avenue Diliman, Quezon City",
+      "trunkline": "",
+      "website": "llda.gov.ph"
+    },
+    {
+      "pangalan": "LAND BANK OF THE PHILIPPINES",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "32/F Landbank Plaza, 1598 M. H. del Pilar cor. Dr. J. Quintos Sts., Malate, Manila",
+      "trunkline": "",
+      "website": "www.landbank.com"
+    },
+    {
+      "pangalan": "LANDBANK COUNTRYSIDE DEV'T FOUNDATION, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "26/F Landbank Plaza, M.H. Del Pilar cor. Dr. Quintos St.",
+      "trunkline": "",
+      "website": "www.landbankfoundation.com"
+    },
+    {
+      "pangalan": "LANDBANK SECURITIES, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "16/F Unit L2L16-11 The PSE Tower, One Bonifacio High Street, 5th Avenue corner 28th Street, Bonifacio Global City, Taguig City",
+      "trunkline": "",
+      "website": "www.landbanksec.com"
+    },
+    {
+      "pangalan": "LBP INSURANCE BROKERAGE, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "12/F SSHG Law Center 105 Paseo de Roxas, Legaspi Village, Makati City",
+      "trunkline": "",
+      "website": "www.lbp-insurance.com"
+    },
+    {
+      "pangalan": "LBP LEASING AND FINANCE CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "15/F SYCIP Law Center, 105 Paseo de Roxas, Legazpi Village, Makati",
+      "trunkline": "",
+      "website": "www.lbpleasing.com"
+    },
+    {
+      "pangalan": "LBP RESOURCES AND DEVELOPMENT CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "24th Floor LBP Plaza, 1598 M.H. Del Pilar cor. Dr. J. Quintos St., Malate, Manila",
+      "trunkline": "",
+      "website": "lbpresources.com"
+    },
+    {
+      "pangalan": "LIGHT RAIL TRANSIT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "1/F Line 2 Depot, Marcos Highway, Pasig City",
+      "trunkline": "",
+      "website": "www.lrta.gov.ph"
+    },
+    {
+      "pangalan": "LOCAL WATER UTILITIES ADMINISTRATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "LWUA-MWSS Complex, Katipunan Ave., Balara, Quezon City",
+      "trunkline": "",
+      "website": "www.lwua.gov.ph"
+    },
+    {
+      "pangalan": "LUNG CENTER OF THE PHILIPPINES",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Quezon Avenue Extension, Quezon City",
+      "trunkline": "",
+      "website": "www.lcp.gov.ph"
+    },
+    {
+      "pangalan": "MACTAN-CEBU INTERNATIONAL AIRPORT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Lapu-Lapu Airport Road, Lapu-Lapu City, Cebu",
+      "trunkline": "",
+      "website": "www.mciaa.gov.ph"
+    },
+    {
+      "pangalan": "MAHARLIKA INVESTMENT CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "29/F ORE Central 31st Street corner 9th Avenue Bonifacio Global City, Taguig",
+      "trunkline": "",
+      "website": "maharlika.dof.gov.ph"
+    },
+    {
+      "pangalan": "MANILA INTERNATIONAL AIRPORT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "MIAA Administration Bldg., MIA Road, Pasay City",
+      "trunkline": "",
+      "website": "www.miaa.gov.ph"
+    },
+    {
+      "pangalan": "MARAWI RESORT HOTEL, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Mindanao State University- Main Campus, Marawi City, Lanao del Sur",
+      "trunkline": "",
+      "website": ""
+    },
+    {
+      "pangalan": "METROPOLITAN WATERWORKS AND SEWERAGE SYSTEM",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "MWSS Complex, 489 Katipunan Rd., Balara, Quezon City",
+      "trunkline": "",
+      "website": "mwss.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL DAIRY AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "NDA Bldg., BAI Compound Visayas Avenue, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "nda.da.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL DEVELOPMENT COMPANY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "116 Tordesillas St., Salcedo Village, Makati City",
+      "trunkline": "",
+      "website": "www.ndc.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL ELECTRIFICATION ADMINISTRATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "57 NEA Bldg., NIA Road, Government Center, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "www.nea.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL FOOD AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Visayas Avenue, Brgy. Vasra, Quezon City",
+      "trunkline": "",
+      "website": "www.nfa.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL HOME MORTGAGE FINANCE CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Filomena Bldg. III, 104 Amorsolo St., Legaspi Village, Makati City",
+      "trunkline": "",
+      "website": "www.nhmfc.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL HOUSING AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Quezon Memorial Elliptical Road, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "www.nha.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL IRRIGATION ADMINISTRATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "National Government Center, EDSA, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "www.nia.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL KIDNEY AND TRANSPLANT INSTITUTE",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "East Avenue, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "www.nkti.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL POWER CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Gabriel Y. Itchon Building, Senator Miriam P. Defensor-Santiago Avenue corner Quezon Avenue, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "www.napocor.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL TOBACCO ADMINISTRATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "NTA Bldg., Scout Reyes cor. Panay Avenue, Brgy. Paligsahan, Quezon City",
+      "trunkline": "",
+      "website": "www.nta.da.gov.ph"
+    },
+    {
+      "pangalan": "NATIONAL TRANSMISSION CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "TransCo Head Office, Power Center Quezon Ave., cor. BIR Road, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "www.transco.ph"
+    },
+    {
+      "pangalan": "NATURAL RESOURCES DEVELOPMENT CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "9/F DENR By the Bay Bldg., Roxas Blvd., Manila",
+      "trunkline": "",
+      "website": "www.nrdc.denr.gov.ph"
+    },
+    {
+      "pangalan": "NAYONG PILIPINO FOUNDATION, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Plaza San Luis, General Luna St., Intramuros, Manila",
+      "trunkline": "",
+      "website": "nayongpilipino.gov.ph"
+    },
+    {
+      "pangalan": "OVERSEAS FILIPINO BANK",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "3/F Liwasang Bonifacio, Ofbank center, Ermita, Manila",
+      "trunkline": "",
+      "website": "www.ofbank.com.ph"
+    },
+    {
+      "pangalan": "PALACIO DEL GOBERNADOR CONDOMINIUM CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Gen. Luna Street corner A. Soriano Street Intramuros, Manila",
+      "trunkline": "",
+      "website": "www.pdgcc.gov.ph"
+    },
+    {
+      "pangalan": "PEA TOLLWAY CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "PEATC Compound. Aguinaldo Boulevard, Brgy. San Dionisio, Parañaque City",
+      "trunkline": "",
+      "website": "www.peatc.gov.ph"
+    },
+    {
+      "pangalan": "PEOPLE'S TELEVISION NETWORK, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Broadcast Complex, Visayas Ave Brgy. Vasra, Quezon City",
+      "trunkline": "",
+      "website": "www.ptni.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE AEROSPACE DEVELOPMENT CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "PADC Hangar 2, General Aviation Area Domestic Road, Pasay City",
+      "trunkline": "",
+      "website": "padc.com.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE AMUSEMENT AND GAMING CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "11th Floor, MET LIVE Bldg., Central Business Park 1-A Macapagal Blvd. corner EDSA Extension, Pasay City",
+      "trunkline": "",
+      "website": "www.pagcor.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE CENTER FOR ECONOMIC DEVELOPMENT",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Room 203, 2/F School of Economics University of the Philippines, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "www.pced.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE CHARITY SWEEPSTAKES OFFICE",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "9/F Sun Plaza Bldg., 1507 Princeton St. cor. Shaw Blvd., Mandaluyong City",
+      "trunkline": "",
+      "website": "www.pcso.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE CHILDREN'S MEDICAL CENTER",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Quezon Avenue cor. Sen. Miriam Defensor-Santiago Ave., Bagong Pag-asa, Quezon City",
+      "trunkline": "",
+      "website": "www.pcmc.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE COCONUT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Commonwealth Avenue, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "pca.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE CROP INSURANCE CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "7/F Bldg. A, NIA Complex, EDSA, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "pcic.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE DEPOSIT INSURANCE CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "2228 Chino Roces Avenue, Makati City",
+      "trunkline": "",
+      "website": "www.pdic.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE ECONOMIC ZONE AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "10/F Double Dragon Center West Building DD Meridian Park, Macapagal Avenue, Pasay City",
+      "trunkline": "",
+      "website": "www.peza.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE FISHERIES DEVELOPMENT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "PCA Annex Bldg. 1, Elliptical Road, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "www.pfda.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE GUARANTEE CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "22nd - 24th Floor, BPI AIA Makati, 6811 Ayala Avenue, Bel-air, 1209 City of Makati, Fourth District, Philippines",
+      "trunkline": "",
+      "website": "philguarantee.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE HEALTH INSURANCE CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "22/F-24/F BPI Philam Life Makati, 6811 Ayala Avenue, Makati City",
+      "trunkline": "",
+      "website": "www.philhealth.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE HEART CENTER",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "East Avenue, Quezon City",
+      "trunkline": "",
+      "website": "www.phc.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE INSTITUTE DEVELOPMENT STUDIES",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "18/F Three Cyberpod Centris-North Tower EDSA cor. Quezon Ave., Quezon City",
+      "trunkline": "",
+      "website": "www.pids.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE INSTITUTE OF TRADITIONAL AND ALTERNATIVE HEALTH CARE",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "PITAHC Bldg., East Avenue Medical Center Compound Matapang St., Brgy. Central, Quezon City",
+      "trunkline": "",
+      "website": "www.pitahc.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE INTERNATIONAL TRADING CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "NDC Bldg., 116 Tordesillas St. Salcedo Village, Makati City",
+      "trunkline": "",
+      "website": "www.pitc.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE MINING DEVELOPMENT CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Unit 3001B West Tower, Philippine Stock Exchange Centre, Ortigas Center, Pasig City",
+      "trunkline": "",
+      "website": "pmdc.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE NATIONAL CONSTRUCTION CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "KM. 15 East Service Road, Bicutan, Parañaque City",
+      "trunkline": "",
+      "website": "www.pncc.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE NATIONAL OIL COMPANY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "PNOC Bldg. 6, Energy Center, Rizal Drive, Bonifacio Global City, Taguig",
+      "trunkline": "",
+      "website": "www.pnoc.com.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE NATIONAL RAILWAYS",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "PNR Executive Bldg., Mayhaligue St. Tondo, Manila",
+      "trunkline": "",
+      "website": "www.pnr.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE PHARMA PROCUREMENT INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Penthouse, NDC Building, 116 Tordesillas St., Salcedo Village, Makati City",
+      "trunkline": "",
+      "website": "pppi.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE PORTS AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Bonifacio Drive, South Harbor, Port Area, Manila",
+      "trunkline": "",
+      "website": "www.ppa.com.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE POSTAL CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Manila Central Post Office Bldg. Liwasang Bonifacio, Manila",
+      "trunkline": "",
+      "website": "www.phlpost.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE RECLAMATION AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "7/F Legaspi Towers 200 Bldg., 107 Paseo de Roxas St. Legaspi Village, Makati City",
+      "trunkline": "",
+      "website": "www.pea.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE RETIREMENT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "29/F BDO Towers Valero, Paseo de Roxas, Makati City",
+      "trunkline": "",
+      "website": "www.pra.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE RICE RESEARCH INSTITUTE",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Maligaya, Science City of Muñoz, Nueva Ecija",
+      "trunkline": "",
+      "website": "www.philrice.gov.ph"
+    },
+    {
+      "pangalan": "PHILIPPINE TAX ACADEMY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Roxas Blvd. cor. Pablo Ocampo St., Malate, Manila",
+      "trunkline": "",
+      "website": "doftaxacademy.gov.ph"
+    },
+    {
+      "pangalan": "PINAGKAISA REALTY CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Makati City",
+      "trunkline": "",
+      "website": ""
+    },
+    {
+      "pangalan": "PLANTERS PRODUCT INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Bldg. 109 Esteban Street, Legaspi Village Makati City",
+      "trunkline": "",
+      "website": "plantersproducts.com"
+    },
+    {
+      "pangalan": "PNOC EXPLORATION CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "PNOC Building 1, Energy Center, Rizal Drive, Bonifacio Global City, Taguig City",
+      "trunkline": "",
+      "website": "pnoc-ec.com.ph"
+    },
+    {
+      "pangalan": "PNOC RENEWABLES CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Ground Floor, PNOC Building 5, Energy Center, Rizal Drive, Bonifacio Global City, Taguig City",
+      "trunkline": "",
+      "website": "www.pnoc-rc.com.ph"
+    },
+    {
+      "pangalan": "PORO POINT MANAGEMENT CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Gov. Joaquin L. Ortega Avenue San Fernando City, La Union",
+      "trunkline": "",
+      "website": "www.poropointfreeport.gov.ph"
+    },
+    {
+      "pangalan": "PHIVIDEC INDUSTRIAL AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Mindanao Container Terminal Complex, Tagoloan, Misamis Oriental",
+      "trunkline": "",
+      "website": "www.piamo.gov.ph"
+    },
+    {
+      "pangalan": "POWER SECTOR ASSETS AND LIABILITIES MANAGEMENT CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "10/F & 24/F Vertis North Corporate Center 1 Astra corner Lux Drives, North Avenue, Quezon City",
+      "trunkline": "",
+      "website": "www.psalm.gov.ph"
+    },
+    {
+      "pangalan": "QUEZON CITY DEVELOPMENT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "",
+      "trunkline": "",
+      "website": ""
+    },
+    {
+      "pangalan": "SMALL BUSINESS CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "17/F & 18/F 139 Corporate Center 139 Valero St., Salcedo Village, Makati City",
+      "trunkline": "",
+      "website": "www.sbgfc.org.ph"
+    },
+    {
+      "pangalan": "SOCIAL HOUSING FINANCE CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "BDO Plaza, 8737 Paseo de Roxas, Makati City",
+      "trunkline": "",
+      "website": "www.shfc.dhsud.gov.ph"
+    },
+    {
+      "pangalan": "SOCIAL SECURITY SYSTEM",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "SSS Bldg., East Avenue, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "www.sss.gov.ph"
+    },
+    {
+      "pangalan": "SOUTHERN PHILIPPINES DEVELOPMENT AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "KM. 12 Catalunan Pequeño, SPDA Compound Davao-Bukidnon Highway, Davao City",
+      "trunkline": "",
+      "website": "spda.gov.ph"
+    },
+    {
+      "pangalan": "SUBIC BAY METROPOLITAN AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Bldg. 229 Waterfront Road Subic Bay Freeport Zone",
+      "trunkline": "",
+      "website": "www.mysubicbay.com.ph"
+    },
+    {
+      "pangalan": "SUGAR REGULATORY ADMINISTRATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "Sugar Center Bldg., North Avenue, Diliman, Quezon City",
+      "trunkline": "",
+      "website": "www.sra.gov.ph"
+    },
+    {
+      "pangalan": "TOURISM INFRASTRUCTURE AND ENTERPRISE ZONE AUTHORITY",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "6/F & 7/F Tower 1 Double Dragon Plaza Double Dragon Meridian Park Macapagal Avenue corner EDSA Extension, 1302, Bay Area, Pasay City",
+      "trunkline": "",
+      "website": "www.tieza.gov.ph"
+    },
+    {
+      "pangalan": "TOURISM PROMOTIONS BOARD",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "6/F Five E-Com Center, Harbor Drive, Mall of Asia Complex, Pasay City",
+      "trunkline": "",
+      "website": "www.tpb.gov.ph"
+    },
+    {
+      "pangalan": "ZAMBOANGA CITY SPECIAL ECONOMIC ZONE AUTHORITY AND FREEPORT",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "San Ramon, Zamboanga City",
+      "trunkline": "",
+      "website": "www.zfa.gov.ph"
+    },
+    {
+      "pangalan": "UCPB LEASING AND FINANCE CORPORATION",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "14/F Sycip Law Center, 105 Paseo de Roxas St. Brgy. San Lorenzo, Makati City",
+      "trunkline": "",
+      "website": "https://www.lbpleasing.com/"
+    },
+    {
+      "pangalan": "UCPB SAVINGS BANK, INC.",
+      "uri": "Government-Owned And/Or -Controlled Corporations (GOCCs)",
+      "paglalarawan": "",
+      "tirahan": "7/F Robinsons Cybergate Magnolia, Aurora Boulevard corner Doña Hemady Street, Quezon City",
+      "trunkline": "",
+      "website": "www.ucpbsavings.com"
+    }
+  ],
+  "meta": {
+    "title": "Mga Korporasyong Pag-aari at/o Kontrolado ng Pamahalaan (GOCCs) ng Pilipinas - Libreng download",
+    "description": "Mga korporasyong pag-aari at/o kontrolado ng pamahalaan ng Pilipinas (Government-Owned and/or -Controlled Corporations), may pangalan, paglalarawan, tirahan, trunkline, at website. Naglalaman ng 110 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Korporasyong Pag-aari at/o Kontrolado ng Pamahalaan (GOCCs) ng Pilipinas | ListBase",
+    "seo_description": "I-download Mga Korporasyong Pag-aari at/o Kontrolado ng Pamahalaan (GOCCs) ng Pilipinas — 110 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 110 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

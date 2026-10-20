@@ -1,0 +1,544 @@
+{
+  "id": "tl-lanao-del-sur-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Lanao del Sur",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Lanao del Sur",
+  "description": "Direktoryo ng 39 lungsod at bayan sa lalawigan ng Lanao del Sur (Bangsamoro (BARMM)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Lanao del Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Amai Manabilang",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9320",
+      "punong_bayan": "SAIDAMEN LEO E. MANABILANG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAMAL E. MANABILANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bacolod-Kalawi",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9316",
+      "punong_bayan": "ABDULMOHAIMEN L. DIPATUAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NORA L. DIPATUAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Balabagan",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9302",
+      "punong_bayan": "JOVER O. BENITO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDNA O. BENITO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Balindong",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9318",
+      "punong_bayan": "AMER-REGGIE L. BAGUL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BENJAMIN M. BAGUL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Bayang",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9309",
+      "punong_bayan": "ASLANIE P. BALT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOHANISAH B. RADIAMODA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Binidayan",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9310",
+      "punong_bayan": "SODAIS D. DIMAPORO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PUNUDARANAO B. DATUMULOK",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Buadiposo-Buntong",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9714",
+      "punong_bayan": "NORON G. DADAYAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NORHOSNYA M. LANDUA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Bubong",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9708",
+      "punong_bayan": "ALFAIS T. MUNDER",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NASMERAH M. NASSER",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Butig",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9305",
+      "punong_bayan": "DIMNATANG BL. PANSAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BIN KHALIFA L. PANSAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Calanogas",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9319",
+      "punong_bayan": "ABDUL HAKIM A. BENITO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MACAPADO A. BENITO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Ditsaan-Ramain",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9713",
+      "punong_bayan": "SAIDAMEN HADJI A. ADIONG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ABDUL JABBAR G. DIDA-AGUN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Ganassi",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9311",
+      "punong_bayan": "HOSNI B. MACAPODI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANIDA MACAPODI-LUCMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Kapai",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9709",
+      "punong_bayan": "AIDAH C. GAURAKI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HAMZA E. GAURAKI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Kapatagan",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9322",
+      "punong_bayan": "RAIDA B. MAGLANGIT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NHAZRUDDIN B. MAGLANGIT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Lumba-Bayabao",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9703",
+      "punong_bayan": "MAHAR P. DAGALANGIT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LALAWEIN B. MACUD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Lumbaca-Unayan",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9323",
+      "punong_bayan": "JAMALIA D. ALOYODAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AMER M. ALOYODAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Lumbatan",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9307",
+      "punong_bayan": "ALLAN I. LAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALJAYEED M. LAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Lumbayanague",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9306",
+      "punong_bayan": "JAMAL L. ASUM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARIMAO S. ASUM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Madalum",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9315",
+      "punong_bayan": "USMAN M. SARANGANI JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "USMAN T. SARANGANI SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Madamba",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9314",
+      "punong_bayan": "AMER HUSSIEN M. MINDALANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JALANIE M. MINDALANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Maguing",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9715",
+      "punong_bayan": "FAHAD D. MOLOK",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MOHAMMAD FAHAD M. HADJI MALIC",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Malabang",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9300",
+      "punong_bayan": "ALINADER M. BALINDONG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAIZOLI S. BALINDONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Marantao",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9711",
+      "punong_bayan": "AKIRA I. ALONTO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NASHRIPH B. CORNELL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Marogong",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9303",
+      "punong_bayan": "NASSIF B. MARUHOM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HAROUN T. MARUHOM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "Masiu",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9706",
+      "punong_bayan": "NASSER P. PANGANDAMAN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAMIMAH CASAD-SOLAIMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 26,
+      "lgu": "Mulondo",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9702",
+      "punong_bayan": "NIHARA M. PANANDIGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SALIC M. DIDATO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 27,
+      "lgu": "Pagayawan",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9312",
+      "punong_bayan": "KHALIDA P. SANGUILA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "KHALID P. DIAMAEL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 28,
+      "lgu": "Piagapo",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9710",
+      "punong_bayan": "ALI L. SUMANDAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NOROMBAE M. MANALOCON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 29,
+      "lgu": "Picong",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9301",
+      "punong_bayan": "MESRON D. BALINDONG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "YACOB D. BALINDONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 30,
+      "lgu": "Poona Bayabao",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9705",
+      "punong_bayan": "JANIMAH L. DEROGONGAN-PANDI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NADJA PANOROGANAN B. PACALA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 31,
+      "lgu": "Pualas",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9313",
+      "punong_bayan": "AMANODEN T. DUCOL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DIALALODIN L. MARUHOM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 32,
+      "lgu": "Saguiaran",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9701",
+      "punong_bayan": "JALALODIN M. L. ANGIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HAFIZ A. MUTI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 33,
+      "lgu": "Sultan Dumalondong",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9324",
+      "punong_bayan": "JAMEL B. KURANGKING",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALIBASA C. KURANGKING",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 34,
+      "lgu": "Tagoloan-II",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9321",
+      "punong_bayan": "MISANGCAD M. CAPAL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MANGONDAYA L. CAPAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 35,
+      "lgu": "Tamparan",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9704",
+      "punong_bayan": "MOHAMMAD JUHAR D. DISOMIMBA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HAROUN AL-RASHID D. LUCMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 36,
+      "lgu": "Taraka",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9712",
+      "punong_bayan": "AMENODIN U. SUMAGAYAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NASHIBA U. GANDAMRA-SUMAGAYAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 37,
+      "lgu": "Tubaran",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9304",
+      "punong_bayan": "KHALEDYASSIN D. PAPANDAYAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "TONGCO A. ACSARA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 38,
+      "lgu": "Tugaya",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9317",
+      "punong_bayan": "ALFATTAH N. PACALNA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALBER N. BALINDONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 39,
+      "lgu": "Wao",
+      "uri": "Bayan",
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "Bangsamoro (BARMM)",
+      "zip_code": "9716",
+      "punong_bayan": "ELVINO B. BALICAO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELMER A. MENDOZA",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Lanao del Sur - Libreng download",
+    "description": "Direktoryo ng 39 lungsod at bayan sa lalawigan ng Lanao del Sur (Bangsamoro (BARMM)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Lanao del Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 39 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Lanao del Sur | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Lanao del Sur — 39 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 39 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

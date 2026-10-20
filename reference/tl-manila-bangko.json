@@ -1,0 +1,1008 @@
+{
+  "id": "tl-manila-bangko",
+  "name": "Mga Bangko sa City of Manila",
+  "title": "Mga Bangko sa City of Manila",
+  "description": "Listahan ng 119 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Manila (source city string: \"CITY OF MANILA\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "SEUUPHM1",
+      "name": "A AND A SECURITIES, INC.",
+      "name_titlecase": "A and a Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "CASUPHM1",
+      "name": "A.T. DE CASTRO SECURITIES CORPORATION",
+      "name_titlecase": "A.t. de Castro Securities Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ANGPPHM1",
+      "name": "ANGPING AND ASSO. SECURITIES INC.",
+      "name_titlecase": "Angping and Asso. Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ANSGPHM1",
+      "name": "ANSALDO, GODINEZ AND COMPANY, INC.",
+      "name_titlecase": "Ansaldo, Godinez and Company, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ASESPHM1",
+      "name": "ASIASEC EQUITIES INC.",
+      "name_titlecase": "Asiasec Equities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM10MM",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "PASONG TAMO BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10MB",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "SALCEDO BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10ME",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "TUTUBAN CENTERMALL BRANCH"
+    },
+    {
+      "swift_code": "ASTSPHM1",
+      "name": "ASTRA SECURITIES CORP.",
+      "name_titlecase": "Astra Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATCSPHM1",
+      "name": "ATC SECURITIES INC.",
+      "name_titlecase": "Atc Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "AURSPHM1",
+      "name": "AURORA SECURITIES, INC.",
+      "name_titlecase": "Aurora Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BATTPHM1",
+      "name": "B A SECURITIES INC",
+      "name_titlecase": "B a Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BHCHPHM1",
+      "name": "B. H. CHUA SECURITIES CORPORATION",
+      "name_titlecase": "B. H. Chua Securities Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCBPHMM",
+      "name": "BANGKO SENTRAL NG PILIPINAS",
+      "name_titlecase": "Bangko Sentral Ng Pilipinas",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCBPHMC",
+      "name": "BANGKO SENTRAL NG PILIPINAS",
+      "name_titlecase": "Bangko Sentral Ng Pilipinas",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCBPHMD",
+      "name": "BANGKO SENTRAL NG PILIPINAS",
+      "name_titlecase": "Bangko Sentral Ng Pilipinas",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCBPHMA",
+      "name": "BANGKO SENTRAL NG PILIPINAS",
+      "name_titlecase": "Bangko Sentral Ng Pilipinas",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCBPHMB",
+      "name": "BANGKO SENTRAL NG PILIPINAS",
+      "name_titlecase": "Bangko Sentral Ng Pilipinas",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ONSTPHM1",
+      "name": "BANK ONE SAVINGS AND TRUST CORPORATION",
+      "name_titlecase": "BANK One Savings and Trust Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "DHBIPHM1",
+      "name": "BDO UNIBANK, INC.",
+      "name_titlecase": "BDO Unibank, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BELCPHM1",
+      "name": "BELSON SECURITIES, INC.",
+      "name_titlecase": "Belson Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BENJPHM1",
+      "name": "BENJAMIN CO CA AND CO INC.",
+      "name_titlecase": "Benjamin CO Ca and CO INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BEREPHM1",
+      "name": "BERNAD SECURITIES INC.",
+      "name_titlecase": "Bernad Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPFFPHM1",
+      "name": "BPI FAMILY BANK",
+      "name_titlecase": "BPI Family BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPLIPHM1",
+      "name": "BPI LEASING CORPORATION",
+      "name_titlecase": "BPI Leasing Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPISPHM1",
+      "name": "BPI SECURITIES CORP.",
+      "name_titlecase": "BPI Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPRFPHM1",
+      "name": "BSP PROVIDENT FUND",
+      "name_titlecase": "BSP Provident Fund",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BUTRPHM1",
+      "name": "BUREAU OF THE TREASURY",
+      "name_titlecase": "Bureau of the Treasury",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ILSTPHM1",
+      "name": "CITIBANK SAVINGS INC",
+      "name_titlecase": "Citibank Savings INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "CITIPHMXTSU",
+      "name": "CITIBANK,N.A., MANILA BRANCH",
+      "name_titlecase": "Citibank,n.a., Manila Branch",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "IBG-TREASURY SERVICES UNIT"
+    },
+    {
+      "swift_code": "CITRPHM1",
+      "name": "CITYTRUST SECURITIES CORP.",
+      "name_titlecase": "Citytrust Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "COYIPHM1",
+      "name": "COYIUTO SECURITIES INC.",
+      "name_titlecase": "Coyiuto Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "CUASPHM1",
+      "name": "CUALOPING SECURITIES CORP",
+      "name_titlecase": "Cualoping Securities CORP",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "DAVSPHM1",
+      "name": "DAVID GO SECURITIES CORP",
+      "name_titlecase": "David Go Securities CORP",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "DSPHPHM1",
+      "name": "DBP-DAIWA CAPITAL MARKETS PHILIPPINES, INC.",
+      "name_titlecase": "Dbp-daiwa Capital Markets Philippines, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "DEUTPHMM",
+      "name": "DEUTSCHE BANK AG",
+      "name_titlecase": "Deutsche BANK Ag",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TWENPHM1",
+      "name": "DEUTSCHE REGIS PARTNERS INC.",
+      "name_titlecase": "Deutsche Regis Partners INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "DIVSPHM1",
+      "name": "DIVERSIFIED SECURITIES INC",
+      "name_titlecase": "Diversified Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHCSPHM1",
+      "name": "E. CHUA CHIACO SECURITIES INC.",
+      "name_titlecase": "E. Chua Chiaco Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHSAPHM1",
+      "name": "EAST WEST BANKING CORPORATION",
+      "name_titlecase": "East West Banking Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "EAWCPHM1",
+      "name": "EAST WEST CAPITAL CORP",
+      "name_titlecase": "East West Capital CORP",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "EASDPHM1",
+      "name": "EASTERN SECURITIES DEVELOPMENT CORPORATION",
+      "name_titlecase": "Eastern Securities Development Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "EISEPHM1",
+      "name": "EIB SECURITIES, INC.",
+      "name_titlecase": "Eib Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "EQSPPHM1",
+      "name": "EQUITABLE SECURITIES (PHILS.) INC.",
+      "name_titlecase": "Equitable Securities (phils.) INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "EQUSPHM1",
+      "name": "EQUITIWORLD SECURITIES INC.",
+      "name_titlecase": "Equitiworld Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ESBEPHM1",
+      "name": "EVERGREEN STOCK BROKERAGE AND SECURITIES, INC.",
+      "name_titlecase": "Evergreen Stock Brokerage and Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FINUPHM1",
+      "name": "FINVEST SECURITIES CO INC",
+      "name_titlecase": "Finvest Securities CO INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FICEPHM1",
+      "name": "FIRST INTEGRATED CAPITAL SECURITIES, INC.",
+      "name_titlecase": "First Integrated Capital Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FMICPHM1",
+      "name": "FIRST METRO INVESTMENT CORPORATION",
+      "name_titlecase": "First Metro Investment Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FIRRPHM1",
+      "name": "FIRST RESSOURCES MANAGEMENT AND SECURITIES CORPORATION,THE",
+      "name_titlecase": "First Ressources Management and Securities Corporation,the",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FOTRPHM1",
+      "name": "FORTUNE SECURITIES INC.",
+      "name_titlecase": "Fortune Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FROEPHM1",
+      "name": "FRANCISCO ORTIGAS SECURITIES INC",
+      "name_titlecase": "Francisco Ortigas Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "SERTPHM1",
+      "name": "G AND L SECURITIES CO., INC.",
+      "name_titlecase": "G and L Securities CO., INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "GEGSPHM1",
+      "name": "GENESIS GLOBAL SECURITIES, INC.",
+      "name_titlecase": "Genesis Global Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PCBAPHM1",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PCBAPHM10MB",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "DASMARINAS BRANCH"
+    },
+    {
+      "swift_code": "PCBAPHM10MP",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "PORT AREA BRANCH"
+    },
+    {
+      "swift_code": "GLSTPHM1",
+      "name": "GLOBALINKS SECURITIES AND STOCKS, INC",
+      "name_titlecase": "Globalinks Securities and Stocks, INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BENCPHM1",
+      "name": "H.E. BENNETT SECURITIES INC.",
+      "name_titlecase": "H.e. Bennett Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "HISHPHM1",
+      "name": "HIGHLAND SECURITIES PHILS. INC.",
+      "name_titlecase": "Highland Securities Phils. INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BARNPHM1",
+      "name": "J.M. BARCELON AND CO INC",
+      "name_titlecase": "J.m. Barcelon and CO INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHASPHMMENQ",
+      "name": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+      "name_titlecase": "Jpmorgan Chase BANK, N.a., Manila Branch",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES"
+    },
+    {
+      "swift_code": "KEYSPHM1",
+      "name": "KEY SECURITIES INC",
+      "name_titlecase": "Key Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TLBPPHMM",
+      "name": "LAND BANK OF THE PHILIPPINES",
+      "name_titlecase": "Land BANK of the Philippines",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "LITSPHM1",
+      "name": "LITONJUA SECURITIES INC",
+      "name_titlecase": "Litonjua Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "LUYSPHM1",
+      "name": "LUY'S SECURITIES CO INC",
+      "name_titlecase": "Luy's Securities CO INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "LUDVPHM1",
+      "name": "LUZON DEVELOPMENT BANK",
+      "name_titlecase": "Luzon Development BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "INBLPHM1",
+      "name": "MACQUARIE CAPITAL SECURITIES (PHILIPPINES) INC.",
+      "name_titlecase": "Macquarie Capital Securities (philippines) INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "MANUPHM1",
+      "name": "MANDARIN SECURITIES CORP",
+      "name_titlecase": "Mandarin Securities CORP",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "RPBAPHM1",
+      "name": "MAYBANK PHILIPPINES, INC",
+      "name_titlecase": "Maybank Philippines, INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "MBBEPHMM",
+      "name": "MAYBANK PHILIPPINES, INC",
+      "name_titlecase": "Maybank Philippines, INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "MDRSPHM1",
+      "name": "MDR SECURITIES, INC",
+      "name_titlecase": "Mdr Securities, INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "MOPSPHM1",
+      "name": "MOUNT PEAK SECURITIES INC",
+      "name_titlecase": "Mount Peak Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "NEWCPHM1",
+      "name": "NEW WORLD SECURITIES CO INC",
+      "name_titlecase": "New World Securities CO INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "NIESPHM1",
+      "name": "NIEVES SANCHEZ INC.",
+      "name_titlecase": "Nieves Sanchez INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "OSPNPHM1",
+      "name": "OCBC SECURITIES (PHILIPPINES) INC.",
+      "name_titlecase": "Ocbc Securities (philippines) INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ORIEPHM1",
+      "name": "ORIENTRADE SECURITIES INC.",
+      "name_titlecase": "Orientrade Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHSVPHM1",
+      "name": "OVERSEAS FILIPINO BANK, INC",
+      "name_titlecase": "Overseas Filipino BANK, INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "OUBKPHM1",
+      "name": "OVERSEAS UNION BANK LIMITED, MANILA BRANCH",
+      "name_titlecase": "Overseas Union BANK Limited, Manila Branch",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PANIPHM1",
+      "name": "PAN ASIA SECURITIES CORPORATION",
+      "name_titlecase": "Pan Asia Securities Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PAPSPHM1",
+      "name": "PAPA SECURITIES CORP.",
+      "name_titlecase": "Papa Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PCHCPHM1",
+      "name": "PHILIPPINE CLEARING HOUSE CORPORATION",
+      "name_titlecase": "Philippine Clearing House Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PNBMPHMM",
+      "name": "PHILIPPINE NATIONAL BANK",
+      "name_titlecase": "Philippine National BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PPOSPHM1",
+      "name": "PHILIPPINE POSTAL CORPORATION",
+      "name_titlecase": "Philippine Postal Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHTBPHMM",
+      "name": "PHILTRUST BANK (PHILIPPINE TRUST COMPANY)",
+      "name_titlecase": "Philtrust BANK (philippine Trust Company)",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PIEIPHM1",
+      "name": "PIERCE INTERLINK SEC. INC.",
+      "name_titlecase": "Pierce Interlink Sec. INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PNBBPHM1",
+      "name": "PNB SECURITIES INC.",
+      "name_titlecase": "PNB Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PREMPHM1",
+      "name": "PREMIUM SECURITIES, INC.",
+      "name_titlecase": "Premium Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PRBPPHM1",
+      "name": "PRIME MEDIA HOLDINGS, INC.",
+      "name_titlecase": "Prime Media Holdings, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PROTPHM1",
+      "name": "PROBITY SECURITIES MANAGEMENT CORP.",
+      "name_titlecase": "Probity Securities Management CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BHFUPHM1",
+      "name": "PROVIDENT FUND OFFICE (BSP-PFO)",
+      "name_titlecase": "Provident Fund Office (bsp-pfo)",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "DANIPHM1",
+      "name": "PT BANK DAGANG NASIONAL INDONESIA",
+      "name_titlecase": "Pt BANK Dagang Nasional Indonesia",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "QUISPHM1",
+      "name": "QUALITY INVESTMENT AND SECURITIES CORP.",
+      "name_titlecase": "Quality Investment and Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "NUBLPHM1",
+      "name": "R. NUBLA SECURITIES INC.",
+      "name_titlecase": "R. Nubla Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "LIMSPHM1",
+      "name": "R.S. LIM AND CO. INC.",
+      "name_titlecase": "R.s. Lim and CO. INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "REGIPHM1",
+      "name": "REGINA CAPITAL DEVELOPMENT CORP.",
+      "name_titlecase": "Regina Capital Development CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "RFCAPHM1",
+      "name": "RFM CAPITAL LIMITED",
+      "name_titlecase": "Rfm Capital Limited",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "RCBCPHMM",
+      "name": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "name_titlecase": "Rizal Commercial Banking Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "SJROPHM1",
+      "name": "S.J. ROXAS AND COMPANY, INC.",
+      "name_titlecase": "S.j. Roxas and Company, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "SECLPHM1",
+      "name": "SECURITIES SPECIALISTS INC.",
+      "name_titlecase": "Securities Specialists INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "SUIRPHM1",
+      "name": "SQUIRE SECURITIES, INC.",
+      "name_titlecase": "Squire Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "STACPHM1",
+      "name": "STANDARD SECURITIES CORPORATION",
+      "name_titlecase": "Standard Securities Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "SUPMPHM1",
+      "name": "SUPREME STOCKBROKER INC.",
+      "name_titlecase": "Supreme Stockbroker INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TACBPHMM",
+      "name": "TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH",
+      "name_titlecase": "Taiwan Cooperative BANK Manila Offshore Banking Branch",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TANGPHM1",
+      "name": "TANSENGCO AND COMPANY INC.",
+      "name_titlecase": "Tansengco and Company INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "HSBCPHMMTRY",
+      "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "name_titlecase": "The Hongkong and Shanghai Banking Corporation LTD - Philippine Branch",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "MNL TREASURY DEPARTMENT"
+    },
+    {
+      "swift_code": "TOPJPHM2",
+      "name": "TOPJUAN TECH CORPORATION",
+      "name_titlecase": "Topjuan Tech Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRAAPHM1",
+      "name": "TRANS-ASIA SECURITIES INC.",
+      "name_titlecase": "Trans-asia Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRENPHM1",
+      "name": "TRENDLINE SECURITIES CORP.",
+      "name_titlecase": "Trendline Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRITPHM1",
+      "name": "TRI-STATE SECURITIES INC.",
+      "name_titlecase": "Tri-state Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TIOCPHM1",
+      "name": "UY-TIOCO AND CO. INC.",
+      "name_titlecase": "Uy-tioco and CO. INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "VENTPHM1",
+      "name": "VENTURE SECURITIES INC.",
+      "name_titlecase": "Venture Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "VICGPHM1",
+      "name": "VICENTE GOQUIOLAY AND CO., INC.",
+      "name_titlecase": "Vicente Goquiolay and CO., INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "VICAPHM1",
+      "name": "VICSAL SECURITIES AND STOCKS BROKERAGE INC",
+      "name_titlecase": "Vicsal Securities and Stocks Brokerage INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "WEASPHM1",
+      "name": "WEALTH SECURITIES INC",
+      "name_titlecase": "Wealth Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "WONGPHM1",
+      "name": "WONG SECURITIES CORP.",
+      "name_titlecase": "Wong Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "WISPPHM1",
+      "name": "WORLDSEC INTERNATIONAL SECURITIES PHILIPPINES INC",
+      "name_titlecase": "Worldsec International Securities Philippines INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "YAOZPHM1",
+      "name": "YAO AND ZIALCITA INC.",
+      "name_titlecase": "Yao and Zialcita INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TYBKPHMM",
+      "name": "YUANTA SAVINGS BANK (FORMERLY TONGYANG SAVINGS BANK)",
+      "name_titlecase": "Yuanta Savings BANK (formerly Tongyang Savings BANK)",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Manila - Libreng download",
+    "description": "Listahan ng 119 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Manila (source city string: \"CITY OF MANILA\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 119 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Manila | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Manila — 119 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 119 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

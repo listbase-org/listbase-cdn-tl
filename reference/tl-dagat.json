@@ -1,0 +1,156 @@
+{
+  "id": "tl-dagat",
+  "name": "Mga Dagat ng Pilipinas (Philippine Seas)",
+  "title": "Mga Dagat ng Pilipinas (Philippine Seas)",
+  "description": "Listahan ng mga dagat (seas) na may kaugnayan sa Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q242326",
+      "name_tl": "Dagat Bohol",
+      "name_en": "Bohol Sea",
+      "located_in_at": "",
+      "latitude": 9.2,
+      "longitude": 124.5,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Dagat_Bohol"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q540179",
+      "name_tl": "Dagat Camotes",
+      "name_en": "Camotes Sea",
+      "located_in_at": "",
+      "latitude": 10.5,
+      "longitude": 124.333333,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Dagat_Camotes"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q474708",
+      "name_tl": "Dagat Kabisayaan",
+      "name_en": "Visayan Sea",
+      "located_in_at": "",
+      "latitude": 11.5,
+      "longitude": 123.666667,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Dagat_Kabisayaan"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q37660",
+      "name_tl": "Dagat Luzon",
+      "name_en": "South China Sea",
+      "located_in_at": "",
+      "latitude": 12,
+      "longitude": 113,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Dagat_Timog_Tsina"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q159183",
+      "name_tl": "Dagat Pilipinas",
+      "name_en": "Philippine Sea",
+      "located_in_at": "",
+      "latitude": 18,
+      "longitude": 134,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Dagat_Pilipinas"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q392623",
+      "name_tl": "Dagat Samar",
+      "name_en": "Samar Sea",
+      "located_in_at": "",
+      "latitude": 11.825,
+      "longitude": 124.5,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Dagat_Samar"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q594834",
+      "name_tl": "Dagat Sibuyan",
+      "name_en": "Sibuyan Sea",
+      "located_in_at": "",
+      "latitude": 12.666667,
+      "longitude": 122.5,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Dagat_Sibuyan"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q160194",
+      "name_tl": "Dagat Sulu",
+      "name_en": "Sulu Sea",
+      "located_in_at": "",
+      "latitude": 8,
+      "longitude": 120,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Dagat_Sulu"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q3306193",
+      "name_tl": "Kanlurang Dagat ng Pilipinas",
+      "name_en": "West Philippine Sea",
+      "located_in_at": "Pilipinas",
+      "latitude": 13,
+      "longitude": 118,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kanlurang_Dagat_ng_Pilipinas"
+    }
+  ],
+  "meta": {
+    "title": "Mga Dagat ng Pilipinas (Philippine Seas) - Libreng download",
+    "description": "Listahan ng mga dagat (seas) na may kaugnayan sa Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Naglalaman ng 9 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Dagat ng Pilipinas (Philippine Seas) | ListBase",
+    "seo_description": "I-download Mga Dagat ng Pilipinas (Philippine Seas) — 9 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 9 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

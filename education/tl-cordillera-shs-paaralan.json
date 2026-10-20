@@ -1,0 +1,2766 @@
+{
+  "id": "tl-cordillera-shs-paaralan",
+  "name": "Mga Senior High School - Cordillera Administrative Region (CAR)",
+  "title": "Mga Senior High School - Cordillera Administrative Region (CAR)",
+  "description": "Mga Senior High School (SHS) sa Cordillera Administrative Region (CAR) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (270 paaralan.)",
+  "category": "education",
+  "source": "https://github.com/nedpals/k12-shs-api",
+  "source_url": "https://github.com/nedpals/k12-shs-api",
+  "updated": "2026-04",
+  "record_count": 270,
+  "columns": [
+    {
+      "key": "school_id",
+      "label": "School Id",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "school_name",
+      "label": "School Name",
+      "type": "string"
+    },
+    {
+      "key": "programs",
+      "label": "Programs",
+      "type": "string"
+    },
+    {
+      "key": "tvl_specializations",
+      "label": "Tvl Specializations",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "school_id": "305075",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "BANGUED (Capital)",
+      "school_name": "Abra HS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "406112",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Bucloc",
+      "school_name": "Abra Mountain Development Educational Center",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery, Bread and Pastry Production, Housekeeping, Tailoring, Dressmaking, Automotive Servicing, Shielded Metal Arc Welding, Pest Management, Organic Agriculture, Horticulture"
+    },
+    {
+      "school_id": "600197",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Bangued (Capital)",
+      "school_name": "Abra State Institute of Science and Technology-Bangued Campus",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Beauty/Nail Care, Bread and Pastry Production, Cookery, Dressmaking, Fashion Design (Apparel), Food and Beverage Services, Hairdressing, Handicraft (Needlecraft), Handicraft (Woodcraft, Leathercraft), Tailoring, Automotive Servicing, Shielded Metal Arc Welding, Driving, Electrical Installation and Maintenance, Electric Power Distribution Line Construction, Tile Setting, Plumbing, Masonry, Carpentry, Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "600113",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Lagangilang",
+      "school_name": "Abra State Institute of Sciences and Technology",
+      "programs": "STEM, ABM, HUMSS, GAS, Sports, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Cookery, Dressmaking, Food and Beverage Services, Handicraft (Needlecraft), Handicraft (Leathercraft, Woodcraft), Housekeeping, Tailoring, Agricultural Crops Production, Animal Health Care Management, Animal Production, Horticulture, Lansdscape Installation and Maintenance, Organic Agriculture, Pest Management, Rice Machinery Operations, Slaugthering Operations (Hog/Swine/Pig), Automotive Servicing, Shielded Metal Arc Welding, Driving, Electrical Installation and Maintenance, Electric Power Distribution Line Construction, Tile Setting, Plumbing, Masonry, Carpentry, Animation, Broadband Installation (Fixed Wireless Systems), Computer Hardware Servicing, Computer Programming, Illustration"
+    },
+    {
+      "school_id": "406102",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Bangued (Capital)",
+      "school_name": "Abra Valley Colleges",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing"
+    },
+    {
+      "school_id": "305125",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "ITOGON",
+      "school_name": "Alejo M. Pacalso Mem. NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Dressmaking (NC II),  Technical Drafting (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "305082",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "BUCAY",
+      "school_name": "Cristina B. Gonzales MHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC III)"
+    },
+    {
+      "school_id": "305203",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "CITY OF TABUK (Capital)",
+      "school_name": "Cudal National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305083",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "PILAR",
+      "school_name": "Dalit NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Cookery (NC II)"
+    },
+    {
+      "school_id": "400860",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Bangued (Capital)",
+      "school_name": "Data Center College of the Philippines",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Caregiving, Bartending, Bread and Pastry Production, Cookery, Food and Beverage Services, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "400883",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Data Center College of the Philippines of Baguio City, Inc",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Caregiving, Bartending, Bread and Pastry Production, Cookery, Food and Beverage Services, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "406228",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Disciples for Christ International School",
+      "programs": "ABM, STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "478501",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Bangued (Capital)",
+      "school_name": "Divine Word College of Bangued",
+      "programs": "ABM, STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Caregiving, Computer Hardware Servicing, Computer Programming, Animation"
+    },
+    {
+      "school_id": "406178",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "Lagawe (Capital)",
+      "school_name": "Don Bosco High School",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318808",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "FLORA",
+      "school_name": "Allig National Agricultural and Trade HS",
+      "programs": "TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II)"
+    },
+    {
+      "school_id": "406230",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Easter College",
+      "programs": "ABM, STEM, HUMSS, Sports, TVL",
+      "tvl_specializations": "Caregiving, Food and Beverage Services, Housekeeping, Computer Programming"
+    },
+    {
+      "school_id": "305242",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "BARLIG",
+      "school_name": "Eastern Bontoc NAVHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Automotive Servicing (NC I),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "318909",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "LA TRINIDAD (Capital)",
+      "school_name": "Eastern La Trinidad NHS",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305171",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "ALFONSO LISTA (POTIA)",
+      "school_name": "Eastern Potia National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "481514",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Educare Learning Center",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Cookery, Bread and Pastry Production, Food and Beverage Services, Housekeeping, Computer Programming"
+    },
+    {
+      "school_id": "400861",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "AMA Computer College-Baguio City",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Caregiving, Consumer Electronics Servicing, Computer Programming, Animation, Contact Center Services"
+    },
+    {
+      "school_id": "305141",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "TUBA",
+      "school_name": "Evelio Javier Memorial NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318914",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "TUBA",
+      "school_name": "Evelio Memorial NHS - Annex, Ansagan",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Handicraft- Woodcraft, Leathercraft , Food and Beverage Services (NC II), Local Guiding Services (NC II)"
+    },
+    {
+      "school_id": "481542",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Fame Golf Mission School, Inc.",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305159",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "ITOGON",
+      "school_name": "Fianza Mem'l NHS - Tinongdan",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305113",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "FLORA",
+      "school_name": "Flora NHS",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "406127",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Sallapadan",
+      "school_name": "Fr. Arnoldus High School",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305086",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "TAYUM",
+      "school_name": "Gaddani NHS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "305172",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "BANAUE",
+      "school_name": "Gohang NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Landscape Installation and Maintenance (NC II), Masonry (NC II),  Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Attractions and Theme Parks (NC II),  Organic Agriculture (NC II), Pest Management (NC II)"
+    },
+    {
+      "school_id": "305143",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "KAPANGAN",
+      "school_name": "Gov. Bado Dangwa Agro-Industrial School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Hairdressing (NC II), Bread and Pastry Production (NC II), Beauty/ Nail Care (NC II),  Plumbing (NC I), Plumbing (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II),  Tile Setting (NC II), Masonry (NC II)"
+    },
+    {
+      "school_id": "318908",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "KAPANGAN",
+      "school_name": "Gov. Bado Dangwa Agro-Industrial School Extension - Taba-ao Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "305114",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "CONNER",
+      "school_name": "Gov. Benjamin Leguiab Sr. Mem. NHS Main",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305144",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "MANKAYAN",
+      "school_name": "Guinaoang NHS",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305244",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "BAUKO",
+      "school_name": "Guinzadan NHS",
+      "programs": "STEM, ABM, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Electrical Installation and Maintenance (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "305282",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAGUIO CITY",
+      "school_name": "Guisad Valley National High School",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "305173",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "ASIPULO",
+      "school_name": "Haliap NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "305176",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "LAMUT",
+      "school_name": "Hapid NHS",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305177",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "LAMUT",
+      "school_name": "Hapid NHS - Bimpal Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "406113",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Dolores",
+      "school_name": "Heart of Mary High School",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305178",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "HINGYON",
+      "school_name": "Hingyon NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406118",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Lagangilang",
+      "school_name": "Holy Cross School of Lagangilang, Inc.",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406129",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Tayum",
+      "school_name": "Holy Ghost School",
+      "programs": "ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406107",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Bangued (Capital)",
+      "school_name": "Holy Spirit Academy of Bangued",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406153",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "La Trinidad (Capital)",
+      "school_name": "HOPE Christian Academy",
+      "programs": "STEM, HUMSS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305180",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "HUNGDUAN",
+      "school_name": "Hungduan NHS",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305181",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "LAMUT",
+      "school_name": "Ifugao Prov'l. Science HS",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "407590",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "Banaue",
+      "school_name": "Immaculate Conception School",
+      "programs": "STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400889",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Informatics Baguio City Center, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Programming, Illustration, Animation"
+    },
+    {
+      "school_id": "305126",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "ITOGON",
+      "school_name": "Ampucao National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Cookery (NC II)"
+    },
+    {
+      "school_id": "305128",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAKUN",
+      "school_name": "Ampusongan NHS",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318913",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAKUN",
+      "school_name": "Ampusongan NHS - Kayapa Ext.",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "400927",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "City of Tabuk (Capital)",
+      "school_name": "International School of Asia and the Pacific-Kalinga Campus",
+      "programs": "GAS, ABM, TVL",
+      "tvl_specializations": "Housekeeping, Caregiving, Bread and Pastry Production, Carpentry, Masonry, Plumbing, Computer Programming, Animation"
+    },
+    {
+      "school_id": "305280",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAGUIO CITY",
+      "school_name": "Irisan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305284",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAGUIO CITY",
+      "school_name": "Joaquin Smith National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "318806",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "KABUGAO (Capital)",
+      "school_name": "Kabugao Agro-Ind'l. HS - Lenneng Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "305115",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "KABUGAO (Capital)",
+      "school_name": "Kabugao Agro-Ind'l. HS Main",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Food and Beverage Services (NC II), Housekeeping (NC II), Attractions and Theme Parks (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "480511",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "City of Tabuk (Capital)",
+      "school_name": "Kalinga Colleges of Science and Technology",
+      "programs": "HUMSS, STEM, TVL",
+      "tvl_specializations": "Cookery, Food and Beverage Services, Front Office Services, Housekeeping, Computer Hardware Servicing, Automotive Servicing"
+    },
+    {
+      "school_id": "305205",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "CITY OF TABUK (Capital)",
+      "school_name": "Kalinga National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Electrical Installation and Maintenance (NC II),  Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Cookery (NC II),  Masonry (NC II), Tile Setting (NC II)"
+    },
+    {
+      "school_id": "600198",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "City of Tabuk (Capital)",
+      "school_name": "Kalinga-Apayao State College",
+      "programs": "STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305145",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "KABAYAN",
+      "school_name": "Kamora NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "305147",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "KAPANGAN",
+      "school_name": "Kapangan Central NHS (RA8841)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305182",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "KIANGAN",
+      "school_name": "Kiangan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305149",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "KIBUNGAN",
+      "school_name": "Kibungan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "479537",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "La Trinidad (Capital)",
+      "school_name": "King's College of the Philippines",
+      "programs": "STEM, ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Tourism Promotion Services, Cookery, Commercial Cooking, Computer Hardware Servicing, Electrical Installation and Maintenance, Consumer Electronics Servicing, Automotive Servicing"
+    },
+    {
+      "school_id": "305266",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "SAGADA",
+      "school_name": "Ankileng NHS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Front Office Services (NC II), Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II),  Handicraft- Basketry, Macrame, Handicraft- Fashion Accessories, Paper Craft, Handicraft- Needlecraft, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "318905",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "LA TRINIDAD (Capital)",
+      "school_name": "La Trinidad NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "305087",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "LANGIDEN",
+      "school_name": "Langiden NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "305142",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "ITOGON",
+      "school_name": "Laurencio Fianza National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "305183",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "LAMUT",
+      "school_name": "Lawig NHS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305151",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "MANKAYAN",
+      "school_name": "Lepanto NHS",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "481509",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Academia de Sophia International",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "319220",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "PARACELIS",
+      "school_name": "Anonat National Agricultural and Vocational High School",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II),  Animal Production (NC II), Slaughtering Operation (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "406124",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Peñarrubia",
+      "school_name": "Little Flower High School",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305127",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "ITOGON",
+      "school_name": "Loacan National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I)"
+    },
+    {
+      "school_id": "305138",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BUGUIAS",
+      "school_name": "Loo NHS",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Housekeeping (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "305247",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "TADIAN",
+      "school_name": "Lubon NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305223",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "LUBUAGAN",
+      "school_name": "Lubuagan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305106",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "CALANASAN (BAYAG)",
+      "school_name": "Apayao Nat'l Ind'l. & Agr'l. HS",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "305107",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "LUNA",
+      "school_name": "Apayao Science HS",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "600114",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "Conner",
+      "school_name": "Apayao State College",
+      "programs": "STEM, ABM, HUMSS, GAS, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Computer Hardware Servicing, Electronic Products Assembly and Servicing, Driving, Automotive Servicing (NC I), Dressmaking, Tailoring, Food and Beverage Services, Bread and Pastry Production, Cookery"
+    },
+    {
+      "school_id": "318801",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "LUNA",
+      "school_name": "Luna National High School Annex",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305116",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "LUNA",
+      "school_name": "Luna National High School Main",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Local Guiding Services (NC II), Front Office Services (NC II), Travel Services (NC II), Tourism Promotion Services (NC II)"
+    },
+    {
+      "school_id": "305089",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "LUBA",
+      "school_name": "Luzong NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305218",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "RIZAL (LIWAN)",
+      "school_name": "Macutay-Palao National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV)"
+    },
+    {
+      "school_id": "305154",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "KIBUNGAN",
+      "school_name": "Madaymen NHS",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305211",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "TANUDAN",
+      "school_name": "Magtoma Pangol NHS-Main",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305098",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "MANABO",
+      "school_name": "Manabo NHS (San Jose Catacdegan NHS)",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "305155",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "MANKAYAN",
+      "school_name": "Mankayan NHS",
+      "programs": "STEM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "318701",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "LA PAZ",
+      "school_name": "Marc Ysrael B. Bernos Memorial NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Technical Drafting (NC II)"
+    },
+    {
+      "school_id": "305251",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "TADIAN",
+      "school_name": "Masla NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "305118",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "PUDTOL",
+      "school_name": "Mataguisi Comp. HS Main",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305090",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "MALIBCONG",
+      "school_name": "Mataragan NAS",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC III), Tile Setting (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Organic Agriculture (NC II), Pest Management (NC II)"
+    },
+    {
+      "school_id": "305120",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "SANTA MARCELA",
+      "school_name": "Mayor Guillermo Barsalan SAT",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Commercial Cooking (NC III), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "305121",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "FLORA",
+      "school_name": "Mayor Ricardo de San Jose, Sr. Comp. HS",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "305185",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "MAYOYAO",
+      "school_name": "Mayoyao NHS",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "305275",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAGUIO CITY",
+      "school_name": "Mil-an National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "305252",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "BAUKO",
+      "school_name": "Mt. Data NHS",
+      "programs": "GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Carpentry (NC II),  Gas Metal Arc Welding- GMAW (NC II), Shielded Metal Arc Welding (NC II),  Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "305255",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "BONTOC (Capital)",
+      "school_name": "Mt. Prov. Gen. Comprehensive HS",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "305212",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "CITY OF TABUK (Capital)",
+      "school_name": "Nambaran Agro-Industrial National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Food and Beverage Services (NC II), Bread and Pastry Production (NC II), Commercial Cooking (NC III)"
+    },
+    {
+      "school_id": "305187",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "ALFONSO LISTA (POTIA)",
+      "school_name": "Namillangan NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Carpentry (NC II)"
+    },
+    {
+      "school_id": "305222",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "CITY OF TABUK (Capital)",
+      "school_name": "New Tanglag National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Local Guiding Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Attractions and Theme Parks (NC II)"
+    },
+    {
+      "school_id": "305091",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "SAN JUAN",
+      "school_name": "Northern Abra NHS",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "407316",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "NorthPhil Polytechnic Institute, Inc.",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing"
+    },
+    {
+      "school_id": "479540",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "La Trinidad (Capital)",
+      "school_name": "Northskills Polytechnic College, Inc.",
+      "programs": "GAS, ABM, HUMSS, TVL",
+      "tvl_specializations": "Housekeeping, Caregiving, Wellness Massage, Cookery, Food and Beverage Services, Hairdressing, Beauty/Nail Care"
+    },
+    {
+      "school_id": "305167",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "ASIPULO",
+      "school_name": "Asipulo NHS",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406181",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "Mayoyao",
+      "school_name": "Assumption Academy",
+      "programs": "STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305259",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "BAUKO",
+      "school_name": "Otucan-Bila NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "406117",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Lacub",
+      "school_name": "Our Lady of Guadalupe School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406122",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Manabo",
+      "school_name": "Our Lady of Lourdes High School",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406136",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "Kabugao (Capital)",
+      "school_name": "Our Lady of Lourdes High School of Kabugao",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406255",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Our Lady of Mt. Carmel Montessori",
+      "programs": "GAS, STEM, ABM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305260",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "BESAO",
+      "school_name": "Panabungen Sschool of Arts, trades, and Home Industries",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "305129",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "ATOK",
+      "school_name": "Atok NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Animation (NC II)"
+    },
+    {
+      "school_id": "305130",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "ATOK",
+      "school_name": "Atok NHS - Caliking Annex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305092",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "BUCAY",
+      "school_name": "Pangtod NHS",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305261",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "PARACELIS",
+      "school_name": "Paracelis NHS",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305231",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "PARACELIS",
+      "school_name": "Paracelis Technical & Vocational High School",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Computer Programming (NC IV), Illustration (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "481510",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Itogon",
+      "school_name": "Philippine BELL International School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305168",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "LAGAWE (Capital)",
+      "school_name": "Ayangan National Agricultural & Vocational HS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "305076",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "LICUAN-BAAY (LICUAN)",
+      "school_name": "Baay NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "318705",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "LICUAN-BAAY (LICUAN)",
+      "school_name": "Baay NHS- Lacub Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "400925",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "La Trinidad (Capital)",
+      "school_name": "Philippine Nazarene College",
+      "programs": "HUMSS, GAS, TVL",
+      "tvl_specializations": "Housekeeping, Computer Programming, Computer Hardware Servicing, Electrical Installation and Maintenance, Carpentry"
+    },
+    {
+      "school_id": "400903",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Philippine Women's University - CDCEC, Baguio City, Inc.",
+      "programs": "ABM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Housekeeping, Local Guiding Services, Caregiving, Food and Beverage Services, Attractions and Theme Parks with Ecotourism Operations with Ecotourism, Tourism Promotion Services, Animation, Medical Transcription, Computer Programming"
+    },
+    {
+      "school_id": "305093",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "PILAR",
+      "school_name": "Pilar Rural High School",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "481503",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Pines City Colleges",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Cookery, Housekeeping"
+    },
+    {
+      "school_id": "305262",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "SABANGAN",
+      "school_name": "Pingad NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "305188",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "ALFONSO LISTA (POTIA)",
+      "school_name": "Pinto NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "305216",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "PINUKPUK",
+      "school_name": "Pinukpuk Vocational School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Cookery (NC II),  Carpentry (NC II),  Dressmaking (NC II), Tailoring (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "305122",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "CALANASAN (BAYAG)",
+      "school_name": "Pio Da Lim Memorial SAT Main",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I)"
+    },
+    {
+      "school_id": "318811",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "CALANASAN (BAYAG)",
+      "school_name": "Pio Da Lim Memorial SAT Sta. Filomena",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318804",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "CALANASAN (BAYAG)",
+      "school_name": "Pio Da Lim Memorial SAT Tanglagan",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "305123",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "PUDTOL",
+      "school_name": "Pudtol NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Commercial Cooking (NC III), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "305108",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "LUNA",
+      "school_name": "BAC-DA National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Housekeeping (NC II), Food and Beverage Services (NC II), Attractions and Theme Parks (NC II), Front Office Services (NC II)"
+    },
+    {
+      "school_id": "305230",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "PARACELIS",
+      "school_name": "Bacarri National Trade & Agricultural School",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II),  Animal Production (NC II), Slaughtering Operation (NC II),  Cookery (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "305094",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "LAGAYAN",
+      "school_name": "Pulot NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "406115",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "La Paz",
+      "school_name": "Queen of Peace High School - Canan",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406116",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "La Paz",
+      "school_name": "Queen of Peace High School - La Paz",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "481517",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Remnant International College, Inc.",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bread and Pastry Production, Local Guiding Services, Tourism Promotion Services"
+    },
+    {
+      "school_id": "407645",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "Kiangan",
+      "school_name": "Riverview Polytechnic and Academic School, Inc.",
+      "programs": "ABM, STEM, TVL",
+      "tvl_specializations": "Automotive Servicing, Carpentry, Motorcycle/Small Engine Servicing, Electrical Installation and Maintenance, Shielded Metal Arc Welding, Furniture Making (Finishing), Tile Setting, Agricultural Crops Production, Aquaculture, Computer Hardware Servicing, Technical Drafting, Cookery, Tailoring, Dressmaking, Local Guiding Services"
+    },
+    {
+      "school_id": "305217",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "RIZAL (LIWAN)",
+      "school_name": "Rizal National School of Arts & Trades",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Bartending (NC II),  Consumer Electronics Servicing (NC II),  Wellness Massage (NC II), Beauty/ Nail Care (NC II), Food and Beverage Services (NC II), Bread and Pastry Production (NC II)"
+    },
+    {
+      "school_id": "319104",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "CITY OF TABUK (Capital)",
+      "school_name": "Bado Dangwa National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "305096",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "DOLORES",
+      "school_name": "Rosalio Eduarte NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animal Production (NC II), Slaughtering Operation (NC II)"
+    },
+    {
+      "school_id": "305263",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "SABANGAN",
+      "school_name": "Sabangan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Electrical Installation and Maintenance (NC II),  Food (Fish) Processing (NC II),  Landscape Installation and Maintenance (NC II), Masonry (NC II)"
+    },
+    {
+      "school_id": "305157",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "SABLAN",
+      "school_name": "Sablan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406144",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Itogon",
+      "school_name": "Sacred Heart High School of Itogon, Inc.",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305264",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "SADANGA",
+      "school_name": "Sadanga NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Landscape Installation and Maintenance (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Handicraft- Basketry, Macrame, Handicraft- Fashion Accessories, Paper Craft, Handicraft- Needlecraft, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "305265",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "SAGADA",
+      "school_name": "Sagada NHS",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "407044",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Saint Francis Xavier Seminary, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406134",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "Flora",
+      "school_name": "Saint Joseph High School of Flora, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "481536",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Saint Louis School, Inc.(Center) High School Department",
+      "programs": "STEM, HUMSS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "481566",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Saint Louis University",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406206",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "CAR",
+      "municipality": "Sagada",
+      "school_name": "Saint Mary's School of Sagada",
+      "programs": "STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406187",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "Rizal (Liwan)",
+      "school_name": "Saint Michael's Academy, Rizal, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406138",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Atok",
+      "school_name": "Saint Paul's Academy of Sayangan, Inc.",
+      "programs": "STEM, HUMSS, GAS, Arts and Design",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406188",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "City of Tabuk (Capital)",
+      "school_name": "Saint Tonis College, Inc.",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Housekeeping, Commercial Cooking, Caregiving, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "406203",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "CAR",
+      "municipality": "Bontoc (Capital)",
+      "school_name": "Saint Vincent's School",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "407461",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "City of Tabuk (Capital)",
+      "school_name": "Saint William's Academy",
+      "programs": "GAS, ABM, STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406180",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "Lamut",
+      "school_name": "San Francisco High School",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406209",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Baguio Achievers' Academy Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406212",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Baguio Central University",
+      "programs": "STEM, ABM, HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Housekeeping, Cookery, Computer Programming"
+    },
+    {
+      "school_id": "406214",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Baguio City Academy College",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Housekeeping, Food and Beverage Services"
+    },
+    {
+      "school_id": "305269",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAGUIO CITY",
+      "school_name": "Baguio City National High School - Main",
+      "programs": "ABM, GAS, HUMSS, TVL, Arts and Design, Sports",
+      "tvl_specializations": "Automotive Servicing (NC I),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "406216",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Baguio City Science Foundation",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Housekeeping, Local Guiding Services"
+    },
+    {
+      "school_id": "400867",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Baguio College of Technology",
+      "programs": "STEM, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing, Electrical Installation and Maintenance, Computer Programming, Animation"
+    },
+    {
+      "school_id": "481527",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Baguio International Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406219",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Baguio Patriotic High School",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406221",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Baguio Seventh-day Adventist School Academy",
+      "programs": "STEM, HUMSS, GAS, TVL",
+      "tvl_specializations": "Computer Systems Servicing"
+    },
+    {
+      "school_id": "406222",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Baguio Siloam Christian Academy, Inc.",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "481564",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Baguio Vision Christian Academy Foundation, Inc.",
+      "programs": "STEM, HUMSS, TVL",
+      "tvl_specializations": "Wellness Massage, Automotive Servicing, Consumer Electronics Servicing, Electronic Installation and Maintenance, Technical Drafting"
+    },
+    {
+      "school_id": "305097",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "SAN ISIDRO",
+      "school_name": "San Isidro NHS",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406156",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "La Trinidad (Capital)",
+      "school_name": "San Jose School of La Trinidad, Inc",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305099",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "SAN QUINTIN",
+      "school_name": "San Quintin NHS",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "305131",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAKUN",
+      "school_name": "Bakun NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Beauty/ Nail Care (NC II), Wellness Massage (NC II)"
+    },
+    {
+      "school_id": "305278",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAGUIO CITY",
+      "school_name": "San Vicente National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406137",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "Pudtol",
+      "school_name": "Santo Rosario School of Pudtol, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305279",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAGUIO CITY",
+      "school_name": "Santo Tomas National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "481521",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Shalom International School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "340055",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BAGUIO CITY",
+      "school_name": "SHS in Irisan, Baguio City",
+      "programs": "STEM, ABM, GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Computer Programming (NC IV), Animation (NC II)"
+    },
+    {
+      "school_id": "340131",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "LUBUAGAN",
+      "school_name": "SHS in Lubuagan, Kalinga",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Tailoring (NC II), Tourism Promotion Services (NC II), Handicraft- Basketry, Macrame"
+    },
+    {
+      "school_id": "305198",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "CITY OF TABUK (Capital)",
+      "school_name": "Balawag National High School",
+      "programs": "TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "305199",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "BALBALAN",
+      "school_name": "Balbalan Agricultural and Industrial School",
+      "programs": "TVL",
+      "tvl_specializations": "Animal Production (NC II), Artificial Insemination- Swine (NC II),  Aquaculture (NC II),  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Horticulture (NC II)"
+    },
+    {
+      "school_id": "340118",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "HINGYON",
+      "school_name": "SHS within Namulditan ES",
+      "programs": "TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "340155",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "NATONIN",
+      "school_name": "SHS within Natonin Central School",
+      "programs": "STEM, ABM, GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318912",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BUGUIAS",
+      "school_name": "Sinipsip NHS - Natubleng Ext.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406266",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Small World Christian School Foundation",
+      "programs": "STEM, HUMSS, ABM, Sports",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305152",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "MANKAYAN",
+      "school_name": "Balili NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Organic Agriculture (NC II), Agricultural Crops Production (NC I)"
+    },
+    {
+      "school_id": "305208",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "TINGLAYAN",
+      "school_name": "Southern Tinglayan National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Animation (NC II), Computer Programming (NC IV),  Front Office Services (NC II), Tourism Promotion Services (NC II), Travel Services (NC II), Local Guiding Services (NC II)"
+    },
+    {
+      "school_id": "406201",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "CAR",
+      "municipality": "Besao",
+      "school_name": "St. James High School of Mountain Province Inc.",
+      "programs": "STEM, HUMSS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406128",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "San Juan",
+      "school_name": "St. John High School",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "481545",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "St. Joseph De Mary Learning Center",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406109",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Bangued (Capital)",
+      "school_name": "St. Joseph Seminary",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406177",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "Kiangan",
+      "school_name": "St. Joseph's School",
+      "programs": "ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406125",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Pidigan",
+      "school_name": "St. Mary's High School",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406132",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Villaviciosa",
+      "school_name": "St. Paul High School",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406182",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "Balbalan",
+      "school_name": "St. Paul's Memorial School of Kalinga, Inc.",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Computer Programming"
+    },
+    {
+      "school_id": "305170",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "BANAUE",
+      "school_name": "Banaue NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305220",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "TINGLAYAN",
+      "school_name": "Bangad National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "318902",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BUGUIAS",
+      "school_name": "Bangao NHS",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "319001",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "HUNGDUAN",
+      "school_name": "Bangbang NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Carpentry (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "406186",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "Pinukpuk",
+      "school_name": "St. Theresita High School - Pinukpuk",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406192",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "City of Tabuk (Capital)",
+      "school_name": "St. Theresita High School - Tabuk",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406183",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "Balbalan",
+      "school_name": "St. Theresita High School of Salegseg, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406198",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "Tinglayan",
+      "school_name": "St. Theresita's High School - Tinglayan",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406185",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "Lubuagan",
+      "school_name": "St. Theresita's School of Lubuagan, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305109",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "SANTA MARCELA",
+      "school_name": "Sta. Marcela NHS (Barocboc NHS)",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305190",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "ALFONSO LISTA (POTIA)",
+      "school_name": "Sta. Maria NHS",
+      "programs": "ABM, HUMSS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness Massage (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "406162",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "La Trinidad (Capital)",
+      "school_name": "Star Colleges",
+      "programs": "STEM, ABM, HUMSS, GAS, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Caregiving, Housekeeping, Agricultural Crops Production, Organic Agriculture, Computer Systems Servicing, Computer Programming, Automotive Servicing, Driving, Carpentry"
+    },
+    {
+      "school_id": "400906",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "STI College - Baguio",
+      "programs": "GAS, ABM, STEM, TVL",
+      "tvl_specializations": "Computer Programming, Animation, Illustration, Technical Drafting, Computer Hardware Servicing, Broadband Installation (Fixed Wireless Systems), Food and Beverage Services, Front Office Services, Housekeeping, Bartending, Local Guiding Services, Travel Services, Cookery, Commercial Cooking, Bread and Pastry Production, Tourism Promotion Services, Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "305100",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "TUBO",
+      "school_name": "Supo NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305101",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "PIDIGAN",
+      "school_name": "Suyo National High School",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Masonry (NC II), Tile Setting (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "305221",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "CITY OF TABUK (Capital)",
+      "school_name": "Tabuk City National High School",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Arts and Design",
+      "tvl_specializations": "Animation (NC II), Illustration (NC II),  Computer Hardware Servicing (NC II), Computer Programming (NC IV),  Consumer Electronics Servicing (NC II),  Electrical Installation and Maintenance (NC II),  Food and Beverage Services (NC II), Housekeeping (NC II), Events Management Services (NC III),  Handicraft- Fashion Accessories, Paper Craft, Handicraft- Needlecraft, Handicraft- Woodcraft, Leathercraft , Handicraft- Basketry, Macrame"
+    },
+    {
+      "school_id": "406195",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "City of Tabuk (Capital)",
+      "school_name": "Tabuk Institute",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305150",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "KIBUNGAN",
+      "school_name": "Tacadang NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305267",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "TADIAN",
+      "school_name": "Tadian School of Arts & Trades",
+      "programs": "TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Beauty/ Nail Care (NC II), Hairdressing (NC II), Handicraft- Fashion Accessories, Paper Craft,  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II),  Medical Transcription (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "305102",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "LAGANGILANG",
+      "school_name": "Tagodtod NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Broadband Installation- Fixed Wireless Systems (NC II)"
+    },
+    {
+      "school_id": "305161",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "TUBA",
+      "school_name": "Taloy Sur NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305224",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "TANUDAN",
+      "school_name": "Tanudan National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305225",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "TANUDAN",
+      "school_name": "Tanudan Vocational School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "406176",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "Kiangan",
+      "school_name": "The Ifugao Academy, Inc.",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305103",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "TUBO",
+      "school_name": "Tiempo NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Aquaculture (NC II)"
+    },
+    {
+      "school_id": "305104",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "TINEG",
+      "school_name": "Tineg NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Handicraft- Basketry, Macrame, Handicraft- Woodcraft, Leathercraft"
+    },
+    {
+      "school_id": "305192",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "TINOC",
+      "school_name": "Tinoc NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II),  Dressmaking (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "305160",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "TUBA",
+      "school_name": "Tuba NHS (Nangalisan)",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing (NC II),  Cookery (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "305163",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BOKOD",
+      "school_name": "Tublay Sch. of Home Ind. - Ambuklao Annex",
+      "programs": "TVL",
+      "tvl_specializations": "Cookery (NC II), Computer Hardware Servicing (NC II)"
+    },
+    {
+      "school_id": "305164",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "TUBLAY",
+      "school_name": "Tublay Sch. of Home Ind. - Central Extension",
+      "programs": "TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Organic Agriculture (NC II)"
+    },
+    {
+      "school_id": "305162",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "TUBLAY",
+      "school_name": "Tublay Sch. of Home Industries",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Automotive Servicing (NC I),  Carpentry (NC II),  Cookery (NC II), Bread and Pastry Production (NC II), Beauty/ Nail Care (NC II),  Electrical Installation and Maintenance (NC II),  Tailoring (NC II), Dressmaking (NC II)"
+    },
+    {
+      "school_id": "305226",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "CITY OF TABUK (Capital)",
+      "school_name": "Tuga National High School",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Beauty/ Nail Care (NC II), Hairdressing (NC II), Housekeeping (NC II)"
+    },
+    {
+      "school_id": "305165",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "TUBA",
+      "school_name": "Twin Peaks NHS",
+      "programs": "TVL",
+      "tvl_specializations": "Computer Hardware Servicing (NC II), Computer Hardware Servicing (NC II),  Electrical Installation and Maintenance (NC II)"
+    },
+    {
+      "school_id": "305194",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Ifugao",
+      "municipality": "AGUINALDO",
+      "school_name": "Ubao National High School",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Carpentry (NC II)"
+    },
+    {
+      "school_id": "481531",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Union School International-Baguio City, Inc.",
+      "programs": "STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406278",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "University of Baguio High School",
+      "programs": "STEM, ABM, HUMSS, GAS, Arts and Design, Sports, TVL",
+      "tvl_specializations": "Bread and Pastry Production, Food and Beverage Services, Housekeeping, Local Guiding Services, Cookery, Computer Systems Servicing"
+    },
+    {
+      "school_id": "407460",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "University of Baguio Science High School",
+      "programs": "STEM, ABM, HUMSS, Arts and Design, Sports",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406217",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "University of the Cordilleras",
+      "programs": "STEM, ABM, HUMSS, GAS, Sports, TVL",
+      "tvl_specializations": "Consumer Electronics Servicing, Shielded Metal Arc Welding, Bread and Pastry Production, Food and Beverage Services, Caregiving, Housekeeping, Local Guiding Services, Tourism Promotion Services, Computer Programming, Animation"
+    },
+    {
+      "school_id": "305105",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "DANGLAS",
+      "school_name": "Western Abra NHS",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Horticulture (NC II)"
+    },
+    {
+      "school_id": "481538",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Westmont School Montessori",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "481005",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "CAR",
+      "municipality": "Bontoc (Capital)",
+      "school_name": "XiJEN College of Mountain Province, Inc.",
+      "programs": "ABM, GAS, TVL",
+      "tvl_specializations": "Beauty/Nail Care, Cookery, Automotive Servicing, Computer Programming, Computer Hardware Servicing"
+    },
+    {
+      "school_id": "406285",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Yesu Maeul Christian Academy",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406199",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "CAR",
+      "municipality": "Bauko",
+      "school_name": "Bauko Catholic School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305132",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "MANKAYAN",
+      "school_name": "Bedbed NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305133",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "LA TRINIDAD (Capital)",
+      "school_name": "Benguet NHS",
+      "programs": "STEM, ABM, GAS, HUMSS, TVL, Sports",
+      "tvl_specializations": "Automotive Servicing (NC I),  Automotive Servicing (NC II),  Bread and Pastry Production (NC II), Cookery (NC II), Beauty/ Nail Care (NC II),  Caregiving (NC II),  Carpentry (NC II),  Computer Hardware Servicing (NC II), Technical Drafting (NC II),  Dressmaking (NC II), Tailoring (NC II),  Electrical Installation and Maintenance (NC II),  Shielded Metal Arc Welding (NC I), Shielded Metal Arc Welding (NC II)"
+    },
+    {
+      "school_id": "600116",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "La Trinidad (Capital)",
+      "school_name": "Benguet State University-Secondary Lab School",
+      "programs": "STEM, HUMSS, ABM, Sports, TVL",
+      "tvl_specializations": "Organic Agriculture, Pest Management, Bread and Pastry Production, Hairdressing"
+    },
+    {
+      "school_id": "481504",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Berkeley School",
+      "programs": "STEM, HUMSS, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305237",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "BESAO",
+      "school_name": "Besao NHS",
+      "programs": "HUMSS, TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Cookery (NC II), Food and Beverage Services (NC II)"
+    },
+    {
+      "school_id": "305146",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "KABAYAN",
+      "school_name": "Adaoay National High School",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305134",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "ITOGON",
+      "school_name": "Binga NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318901",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BOKOD",
+      "school_name": "Bokod NHS - Daclan Extension",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305135",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BOKOD",
+      "school_name": "BOKOD NHS - MAIN",
+      "programs": "TVL",
+      "tvl_specializations": "Bread and Pastry Production (NC II), Food and Beverage Services (NC II), Tailoring (NC II)"
+    },
+    {
+      "school_id": "305078",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "BOLINEY",
+      "school_name": "Boliney NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400869",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "BSBT College, Inc.",
+      "programs": "ABM, TVL",
+      "tvl_specializations": "Food and Beverage Services, Hairdressing, Bread and Pastry Production, Housekeeping, Caregiving, Cookery, Commercial Cooking, Beauty/Nail Care, Dressmaking, Tailoring, Fashion Design (Apparel), Consumer Electronics Servicing, Shielded Metal Arc Welding, Automotive Servicing, Electrical Installation and Maintenance, Computer Systems Servicing"
+    },
+    {
+      "school_id": "305136",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "BUGUIAS",
+      "school_name": "Buguias NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305195",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "CITY OF TABUK (Capital)",
+      "school_name": "Agbannawag National High School",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Agricultural Crops Production (NC I), Pest Management (NC II),  Food (Fish) Processing (NC II),  Organic Agriculture (NC II), Rice Machinery Operation (NC II)"
+    },
+    {
+      "school_id": "305156",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "MANKAYAN",
+      "school_name": "Bulalacao NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305239",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "PARACELIS",
+      "school_name": "Butigue NHS",
+      "programs": "GAS, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400912",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "La Trinidad (Capital)",
+      "school_name": "BVS College",
+      "programs": "TVL",
+      "tvl_specializations": "Local Guiding Services, Computer Hardware Servicing, Automotive Servicing, Consumer Electronics Servicing"
+    },
+    {
+      "school_id": "305139",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "MANKAYAN",
+      "school_name": "Cabiten NHS (RA9087)",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305240",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Mountain Province",
+      "municipality": "TADIAN",
+      "school_name": "Cagubatan NHS",
+      "programs": "GAS, TVL",
+      "tvl_specializations": "Caregiving (NC II)"
+    },
+    {
+      "school_id": "305201",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "PINUKPUK",
+      "school_name": "Cal-owan Agricultural Vocational National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305110",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "CALANASAN (BAYAG)",
+      "school_name": "Calanasan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305080",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "DAGUIOMAN",
+      "school_name": "Capitan NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400873",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Casiciaco Recoletos Seminary, Inc.",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406126",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "Pilar",
+      "school_name": "Catholic High School of Pilar",
+      "programs": "HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305081",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Abra",
+      "municipality": "LAGANGILANG",
+      "school_name": "Cayapa NHS",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305214",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "PASIL",
+      "school_name": "Central Pasil National High School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "481523",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "Baguio City",
+      "school_name": "Christian Legacy Academy",
+      "programs": "ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "406014",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "La Trinidad (Capital)",
+      "school_name": "Concordia College of Benguet, Inc.",
+      "programs": "ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "318803",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "CONNER",
+      "school_name": "Conner Central NHS CupisAnnex",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "305111",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Apayao",
+      "municipality": "CONNER",
+      "school_name": "Conner Central NHS Main",
+      "programs": "HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "400939",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Kalinga",
+      "municipality": "City of Tabuk (Capital)",
+      "school_name": "Cordillera A+ Computer Technology College",
+      "programs": "GAS, STEM, ABM, TVL",
+      "tvl_specializations": "Food and Beverage Services, Bartending, Housekeeping, Cookery, Bread and Pastry Production, Computer Hardware Servicing, Computer Programming"
+    },
+    {
+      "school_id": "406149",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "La Trinidad (Capital)",
+      "school_name": "Cordillera Career Development College",
+      "programs": "ABM, STEM, HUMSS, Sports, Arts and Design, TVL",
+      "tvl_specializations": "Commercial Cooking, Food and Beverage Services, Caregiving, Computer Hardware Servicing, Automotive Servicing, Carpentry"
+    },
+    {
+      "school_id": "305140",
+      "region": "CAR",
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "province": "Benguet",
+      "municipality": "LA TRINIDAD (Capital)",
+      "school_name": "Cordillera Regional Science HS",
+      "programs": "STEM",
+      "tvl_specializations": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Senior High School - Cordillera Administrative Region (CAR) - Libreng download",
+    "description": "Mga Senior High School (SHS) sa Cordillera Administrative Region (CAR) mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (270 paaralan.) Naglalaman ng 270 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Senior High School - Cordillera Administrative Region (CAR) | ListBase",
+    "seo_description": "I-download Mga Senior High School - Cordillera Administrative Region (CAR) — 270 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 270 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/nedpals/k12-shs-api"
+    ]
+  }
+}

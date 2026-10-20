@@ -1,0 +1,208 @@
+{
+  "id": "tl-quezon-bangko",
+  "name": "Mga Bangko sa City of Quezon",
+  "title": "Mga Bangko sa City of Quezon",
+  "description": "Listahan ng 19 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Quezon (source city string: \"CITY OF QUEZON\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "APCEPHM1",
+      "name": "ASIA PACIFIC CAPITAL EQUITIES AND SEC. CORP.",
+      "name_titlecase": "Asia Pacific Capital Equities and Sec. CORP.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM1",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM10M8",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": "DEL MONTE BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10M6",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": "NEW MANILA BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10MA",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": "ROOSEVELT BRANCH"
+    },
+    {
+      "swift_code": "RETHPHM1",
+      "name": "BDO UNIBANK, INC.",
+      "name_titlecase": "BDO Unibank, INC.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "BBOAPHM1",
+      "name": "BSP BRANCH OPEN ACCOUNT SPC",
+      "name_titlecase": "BSP Branch Open Account Spc",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "CENEPHM1",
+      "name": "CENTURY SECURITIES CORP.",
+      "name_titlecase": "Century Securities CORP.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "CITIPH21",
+      "name": "CITIBANK SAVINGS INC.",
+      "name_titlecase": "Citibank Savings INC.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "ECASPHM2",
+      "name": "ECASHPAY ASIA INC",
+      "name_titlecase": "Ecashpay Asia INC",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "GEMPPH21",
+      "name": "GE MONEY BANK, INC. (A SAVINGS BANK)",
+      "name_titlecase": "Ge Money BANK, INC. (a Savings BANK)",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "PCBAPHM10MQ",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": "CUBAO BRANCH"
+    },
+    {
+      "swift_code": "TLBPPHM10MQ",
+      "name": "LAND BANK OF THE PHILIPPINES",
+      "name_titlecase": "Land BANK of the Philippines",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "MCCTPHMM",
+      "name": "MEGAWIDE CONSTRUCTION CORPORATION",
+      "name_titlecase": "Megawide Construction Corporation",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "ASDVPHM1",
+      "name": "NEXTGENESIS CORPORATION",
+      "name_titlecase": "Nextgenesis Corporation",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "ROBPPHMQ",
+      "name": "ROBINSONS BANK CORPORATION",
+      "name_titlecase": "Robinsons BANK Corporation",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUATPHM1",
+      "name": "RURAL BANK OF ATIMONAN, INC.",
+      "name_titlecase": "Rural BANK of Atimonan, INC.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "UNRPPHMM",
+      "name": "UNIVERSAL ROBINA CORPORATION",
+      "name_titlecase": "Universal Robina Corporation",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "USMEPHM2",
+      "name": "USSC MONEY SERVICES INC",
+      "name_titlecase": "Ussc Money Services INC",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Quezon - Libreng download",
+    "description": "Listahan ng 19 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Quezon (source city string: \"CITY OF QUEZON\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 19 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Quezon | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Quezon — 19 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 19 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

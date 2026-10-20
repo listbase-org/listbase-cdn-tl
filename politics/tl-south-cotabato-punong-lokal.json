@@ -1,0 +1,208 @@
+{
+  "id": "tl-south-cotabato-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng South Cotabato",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng South Cotabato",
+  "description": "Direktoryo ng 11 lungsod at bayan sa lalawigan ng South Cotabato (Soccsksargen (Region XII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `South Cotabato` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Banga",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9511",
+      "punong_bayan": "EVANGELINE L. PALENCIA",
+      "kontak_punong_bayan": "(083) 239-1652",
+      "pangalawang_punong_bayan": "GEMMA I. LLOREN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "General Santos",
+      "uri": "Lungsod",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "",
+      "punong_bayan": "LORELIE G. PACQUIAO",
+      "kontak_punong_bayan": "(083) 552-2580; 552-6791",
+      "pangalawang_punong_bayan": "ROSALITA T. NUÑEZ",
+      "kontak_pangalawang_punong_bayan": "(083) 552-9692"
+    },
+    {
+      "id": 3,
+      "lgu": "Lake Sebu",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9518",
+      "punong_bayan": "REMIE M. UNGGOL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LIEZEL T. ISUGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Norala",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9508",
+      "punong_bayan": "CLEMENTE B. FEDOC",
+      "kontak_punong_bayan": "(083) 234-1024",
+      "pangalawang_punong_bayan": "JONEL T. DANIEL",
+      "kontak_pangalawang_punong_bayan": "(083) 234-1154"
+    },
+    {
+      "id": 5,
+      "lgu": "Polomolok",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9504",
+      "punong_bayan": "BERNIE D. PALENCIA",
+      "kontak_punong_bayan": "(083) 225-2022",
+      "pangalawang_punong_bayan": "MELCHOR J. JUTAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Santo Niño",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9509",
+      "punong_bayan": "SULPICIO F. VILLALOBOS",
+      "kontak_punong_bayan": "(083) 235-1024",
+      "pangalawang_punong_bayan": "WILFREDO B. DIMZON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Surallah",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9512",
+      "punong_bayan": "PEDRO M. MATINONG JR.",
+      "kontak_punong_bayan": "(083) 238-3578",
+      "pangalawang_punong_bayan": "ANTONIO O. BENDITA",
+      "kontak_pangalawang_punong_bayan": "(083) 238-3148"
+    },
+    {
+      "id": 8,
+      "lgu": "T'boli",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9513",
+      "punong_bayan": "KEO DAYLE T. TUAN",
+      "kontak_punong_bayan": "(083) 277-1002",
+      "pangalawang_punong_bayan": "RONIE L. DELA PEÑA",
+      "kontak_pangalawang_punong_bayan": "(083) 237-1039 F"
+    },
+    {
+      "id": 9,
+      "lgu": "Tampakan",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9507",
+      "punong_bayan": "LEONARDO T. ESCOBILLO",
+      "kontak_punong_bayan": "(083) 227-1001",
+      "pangalawang_punong_bayan": "ANADEL T. MAGBANUA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Tantangan",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9510",
+      "punong_bayan": "TIMEE JOY T. GONZALES",
+      "kontak_punong_bayan": "(083) 822-0991",
+      "pangalawang_punong_bayan": "CESAR L. DASILAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Tupi",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9505",
+      "punong_bayan": "ROMEO S. TAMAYO",
+      "kontak_punong_bayan": "(083) 226-2800",
+      "pangalawang_punong_bayan": "GLENN C. HATULAN",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng South Cotabato - Libreng download",
+    "description": "Direktoryo ng 11 lungsod at bayan sa lalawigan ng South Cotabato (Soccsksargen (Region XII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `South Cotabato` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 11 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng South Cotabato | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng South Cotabato — 11 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 11 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

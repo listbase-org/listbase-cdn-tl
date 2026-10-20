@@ -1,0 +1,192 @@
+{
+  "id": "tl-romblon-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Romblon",
+  "title": "Mga Bayan ng Lalawigan ng Romblon",
+  "description": "Listahan ng 17 munisipalidad (bayan) sa lalawigan ng Romblon, MIMAROPA REGION, Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "175901000",
+      "name": "ALCANTARA",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 16351,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175902000",
+      "name": "BANTON",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 5536,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175903000",
+      "name": "CAJIDIOCAN",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 21861,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "175904000",
+      "name": "CALATRAVA",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 10275,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175905000",
+      "name": "CONCEPCION",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 4037,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "175906000",
+      "name": "CORCUERA",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 10283,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175916000",
+      "name": "FERROL",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 6964,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "175907000",
+      "name": "LOOC",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 22262,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "175908000",
+      "name": "MAGDIWANG",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 14142,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175909000",
+      "name": "ODIONGAN",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 45367,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "175910000",
+      "name": "ROMBLON (Capital)",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 38758,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "175911000",
+      "name": "SAN AGUSTIN",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 22598,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "175912000",
+      "name": "SAN ANDRES",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 15589,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175913000",
+      "name": "SAN FERNANDO",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 23271,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "175914000",
+      "name": "SAN JOSE",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 10881,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175915000",
+      "name": "SANTA FE",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 16098,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "175917000",
+      "name": "SANTA MARIA (IMELDA)",
+      "province": "ROMBLON",
+      "region": "MIMAROPA REGION",
+      "population": 8508,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Romblon - Libreng download",
+    "description": "Listahan ng 17 munisipalidad (bayan) sa lalawigan ng Romblon, MIMAROPA REGION, Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Romblon | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Romblon — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

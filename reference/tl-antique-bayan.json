@@ -1,0 +1,200 @@
+{
+  "id": "tl-antique-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Antique",
+  "title": "Mga Bayan ng Lalawigan ng Antique",
+  "description": "Listahan ng 18 munisipalidad (bayan) sa lalawigan ng Antique, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "060601000",
+      "name": "ANINI-Y",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 21201,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060602000",
+      "name": "BARBAZA",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 22704,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060603000",
+      "name": "BELISON",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 13539,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "060604000",
+      "name": "BUGASONG",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 33642,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "060605000",
+      "name": "CALUYA",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 35496,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "060606000",
+      "name": "CULASI",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 41228,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "060608000",
+      "name": "HAMTIC",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 48592,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "060609000",
+      "name": "LAUA-AN",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 26072,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060610000",
+      "name": "LIBERTAD",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 16429,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "060611000",
+      "name": "PANDAN",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 34333,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060612000",
+      "name": "PATNONGON",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 37176,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "060613000",
+      "name": "SAN JOSE (Capital)",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 62534,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "060614000",
+      "name": "SAN REMIGIO",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 31935,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "060615000",
+      "name": "SEBASTE",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 17907,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060616000",
+      "name": "SIBALOM",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 60306,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "060617000",
+      "name": "TIBIAO",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 26748,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060607000",
+      "name": "TOBIAS FORNIER (DAO)",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 33046,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "060618000",
+      "name": "VALDERRAMA",
+      "province": "ANTIQUE",
+      "region": "REGION VI (WESTERN VISAYAS)",
+      "population": 19124,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Antique - Libreng download",
+    "description": "Listahan ng 18 munisipalidad (bayan) sa lalawigan ng Antique, REGION VI (WESTERN VISAYAS), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 18 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Antique | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Antique — 18 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 18 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

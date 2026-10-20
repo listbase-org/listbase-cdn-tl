@@ -1,0 +1,256 @@
+{
+  "id": "tl-sorsogon-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sorsogon",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sorsogon",
+  "description": "Direktoryo ng 15 lungsod at bayan sa lalawigan ng Sorsogon (Rehiyon ng Bicol (Region V)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Sorsogon` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Barcelona",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4712",
+      "punong_bayan": "CYNTHIA G. FALCOTELO-FORTES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ISABEL D. ESMERIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bulan",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4706",
+      "punong_bayan": "ROMEO A. GORDOLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHEZKA MAE B. ROBLES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Bulusan",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4704",
+      "punong_bayan": "MICHAEL G. GUYSAYKO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "WENNIE R. ROMANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Casiguran",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4702",
+      "punong_bayan": "MARIA MINEZ R. HAMOR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DENNIS ALFONSO H. ESCUDERO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Castilla",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4713",
+      "punong_bayan": "ISAGANI B. MENDOZA",
+      "kontak_punong_bayan": "(056) 311-2112",
+      "pangalawang_punong_bayan": "VICENTE B. MANATA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Donsol",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4715",
+      "punong_bayan": "TEODORO B. DE GUZMAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ZALDY A. ADVINCULA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Gubat",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4710",
+      "punong_bayan": "RONNEL U. LIM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VALENTIN A. PURA IV",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Irosin",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4707",
+      "punong_bayan": "ALFREDO J. CIELO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTIAN D. LIM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Juban",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4703",
+      "punong_bayan": "GLORIA L. ALINDOGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FELIPE G. GUASA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Magallanes",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4705",
+      "punong_bayan": "MARIA ELENA RAMONA M. RAGRAGIO",
+      "kontak_punong_bayan": "(056) 411-1949",
+      "pangalawang_punong_bayan": "AUGUSTO MANUEL M. RAGRARIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Matnog",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4708",
+      "punong_bayan": "CATTLEYA M. SO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EMILIO G. UBALDO III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Pilar",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4714",
+      "punong_bayan": "CAROLYN C. SY-REYES",
+      "kontak_punong_bayan": "(056) 211-3828",
+      "pangalawang_punong_bayan": "LUIS C. LEOSALA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Prieto Diaz",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4711",
+      "punong_bayan": "ROMEO D. DOMASIAN SR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AVON D. DOMALAON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Santa Magdalena",
+      "uri": "Bayan",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "4709",
+      "punong_bayan": "MARK JEWERY G. LOZANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMON R. ESPELA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Sorsogon",
+      "uri": "Lungsod",
+      "lalawigan": "Sorsogon",
+      "rehiyon": "Rehiyon ng Bicol (Region V)",
+      "zip_code": "",
+      "punong_bayan": "MA. ESTER E. HAMOR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARK ERIC C. DIONEDA",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sorsogon - Libreng download",
+    "description": "Direktoryo ng 15 lungsod at bayan sa lalawigan ng Sorsogon (Rehiyon ng Bicol (Region V)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Sorsogon` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 15 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sorsogon | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Sorsogon — 15 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 15 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

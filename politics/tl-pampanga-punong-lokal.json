@@ -1,0 +1,340 @@
+{
+  "id": "tl-pampanga-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Pampanga",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Pampanga",
+  "description": "Direktoryo ng 22 lungsod at bayan sa lalawigan ng Pampanga (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Pampanga` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Angeles",
+      "uri": "Lungsod",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2009",
+      "punong_bayan": "Carmelo Lazatin II",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Amos B. Rivera",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Apalit",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2016",
+      "punong_bayan": "OSCAR D. TETANGCO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PEDRO C. NUCOM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Arayat",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2012",
+      "punong_bayan": "MARIA LOURDES M. ALEJANDRINO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMON M. CHANGCOCO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Bacolor",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2001",
+      "punong_bayan": "EDUARDO G. DATU",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RON EARVIN E. DUNGCA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Candaba",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2013",
+      "punong_bayan": "RENE E. MAGLANQUE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RESTITUTO S. SIBUG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Floridablanca",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2006",
+      "punong_bayan": "DARWIN R. MANALANSAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MICHAEL L. GALANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Guagua",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2003",
+      "punong_bayan": "ANTHONY JOSEPH S. TORRES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BENJAMIN L. LIM JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Lubao",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2005",
+      "punong_bayan": "ESMERALDA G. PINEDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAY B. MONTEMAYOR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Mabalacat",
+      "uri": "Lungsod",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2010",
+      "punong_bayan": "Gerald Guttrie P. Aquino",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Marcos T. Castro Jr.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Macabebe",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2018",
+      "punong_bayan": "LEONARDO B. FLORES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VINCE EDWARD F. FLORES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Magalang",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2011",
+      "punong_bayan": "MARIA LOURDES P. LACSON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSEPH G. GUZMAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Masantol",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2017",
+      "punong_bayan": "JOSE ANTONIO C. BUSTOS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DANILO S. GUINTU",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Mexico",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2021",
+      "punong_bayan": "RODENCIO S. GONZALES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SUSANA O. SIRON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Minalin",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2019",
+      "punong_bayan": "NOEL PHILIP S. NAGUIT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RONDON M. MERCADO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Porac",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2008",
+      "punong_bayan": "MYLA V. CLARETE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMAΝΟEL L. SANTOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "San Fernando",
+      "uri": "Lungsod",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2000",
+      "punong_bayan": "Vilma Balle-Caluag",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "Aurelio Brenz P. Gonzales",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "San Luis",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2014",
+      "punong_bayan": "JAYSON S. SAGUM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMAN A. SAGUM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "San Simon",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2015",
+      "punong_bayan": "ABUNDIO S. PUNSALAN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMANOEL L. SANTOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Santa Ana",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2022",
+      "punong_bayan": "NORBERTO G. GAMBOA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMONCITO C. BARRO V",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Santa Rita",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2002",
+      "punong_bayan": "ARTHUR L. SALALILA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MERCEDITA B. CARREON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Santo Tomas",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2020",
+      "punong_bayan": "JOHNNY A. SAMBO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MATIAS C. PINEDA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Sasmuan",
+      "uri": "Bayan",
+      "lalawigan": "PAMPANGA PROVINCE",
+      "rehiyon": "Gitnang Luzon (Region III)",
+      "zip_code": "2004",
+      "punong_bayan": "CATALINA M. CABRERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MAMERTO S. TAMAYO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Pampanga - Libreng download",
+    "description": "Direktoryo ng 22 lungsod at bayan sa lalawigan ng Pampanga (Gitnang Luzon (Region III)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Pampanga` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 22 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Pampanga | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Pampanga — 22 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 22 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

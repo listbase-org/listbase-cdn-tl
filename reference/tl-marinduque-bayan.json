@@ -1,0 +1,104 @@
+{
+  "id": "tl-marinduque-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Marinduque",
+  "title": "Mga Bayan ng Lalawigan ng Marinduque",
+  "description": "Listahan ng 6 munisipalidad (bayan) sa lalawigan ng Marinduque, MIMAROPA REGION, Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "174001000",
+      "name": "BOAC (Capital)",
+      "province": "MARINDUQUE",
+      "region": "MIMAROPA REGION",
+      "population": 54730,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "174002000",
+      "name": "BUENAVISTA",
+      "province": "MARINDUQUE",
+      "region": "MIMAROPA REGION",
+      "population": 23988,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "174003000",
+      "name": "GASAN",
+      "province": "MARINDUQUE",
+      "region": "MIMAROPA REGION",
+      "population": 34828,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "174004000",
+      "name": "MOGPOG",
+      "province": "MARINDUQUE",
+      "region": "MIMAROPA REGION",
+      "population": 34043,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "174005000",
+      "name": "SANTA CRUZ",
+      "province": "MARINDUQUE",
+      "region": "MIMAROPA REGION",
+      "population": 56408,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "174006000",
+      "name": "TORRIJOS",
+      "province": "MARINDUQUE",
+      "region": "MIMAROPA REGION",
+      "population": 30524,
+      "income_classification": "3rd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Marinduque - Libreng download",
+    "description": "Listahan ng 6 munisipalidad (bayan) sa lalawigan ng Marinduque, MIMAROPA REGION, Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Marinduque | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Marinduque — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

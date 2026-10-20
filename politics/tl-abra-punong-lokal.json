@@ -1,0 +1,400 @@
+{
+  "id": "tl-abra-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Abra",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Abra",
+  "description": "Direktoryo ng 27 lungsod at bayan sa lalawigan ng Abra (Rehiyong Administratibo ng Cordillera (CAR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Abra` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Bangued",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2800",
+      "punong_bayan": "MILA A. VALERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOAQUIN ENRICO V. BERNOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Boliney",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2815",
+      "punong_bayan": "RONALD S. BALAO-AS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JULIUS S. BALAO-AS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Bucay",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2805",
+      "punong_bayan": "JAY DOMINADOR G. GO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JUDOR P. ZALES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Bucloc",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2817",
+      "punong_bayan": "GODY H. CARDENAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EUGENE C. CILLO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Daguioman",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2816",
+      "punong_bayan": "SALMA Q. PADILLA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARCELO J. PADILLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Danglas",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2825",
+      "punong_bayan": "ESTHER B. BERNOS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOANETTE B. CAY-AN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Dolores",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2801",
+      "punong_bayan": "CONDE T. TURQUEZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LOURDES JACQUELINE B. BAAC",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "La Paz",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2826",
+      "punong_bayan": "JOSEPH STO. NIÑO B. BERNOS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BENITO E. NONO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Lacub",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2821",
+      "punong_bayan": "NESTOR B. BERSAMINA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ESTELITA B. BERSAMINA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Lagangilang",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2802",
+      "punong_bayan": "ROVELYN E. VILLAMOR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PAUL JOSEPH Q. ABAYA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Lagayan",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2824",
+      "punong_bayan": "EDMARC L. CRISOLOGO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "APOLINAR B. MOLINA SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Langiden",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2807",
+      "punong_bayan": "SECEL B. PALECPEC",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARY A. BUENO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Licuan-Baay",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2819",
+      "punong_bayan": "DARWIN L. DOMINGO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALEJO S. DOMINGO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Luba",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2813",
+      "punong_bayan": "ROSALINA C. BISCARRA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CASIMIRO A. MOLINA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Malibcong",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2820",
+      "punong_bayan": "RHEA M. BACUYAG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEON A. TADEO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Manabo",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2810",
+      "punong_bayan": "DARREL O. DOMASING",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JERRY B. ANDRES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Peñarrubia",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2804",
+      "punong_bayan": "JANE M. CECILIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GERALDINE M. BALBUENA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Pidigan",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2806",
+      "punong_bayan": "JOSEPH DOMINO A. VALERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NOEL M. BISARES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Pilar",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2812",
+      "punong_bayan": "TYRON CHRISTOPHER R. BEROÑA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SAMSON C. LAGUESMA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Sallapadan",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2818",
+      "punong_bayan": "FERNANDO A. SEMANERO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NENITA M. CARDENAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "San Isidro",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2809",
+      "punong_bayan": "ELMERANTE M. PACSA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELIXER M. PACSA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "San Juan",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2823",
+      "punong_bayan": "MEYNARDO M. BAUTISTA JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARI LUCAS B. BAUTISTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "San Quintin",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2808",
+      "punong_bayan": "JOVELLEN D. AZNAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CRISTETO F. COTCHAY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Tayum",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2803",
+      "punong_bayan": "PLACIDO P. EDUARTE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EMMANUEL ELEAZAR B. EDUARTE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "Tineg",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2822",
+      "punong_bayan": "BRETHEN JIREEH G. CRISOLOGO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CORINTHIA D. CRISOLOGO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 26,
+      "lgu": "Tubo",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2814",
+      "punong_bayan": "LIBERTY B. LA-OS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GUILBERT P. BALLANGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 27,
+      "lgu": "Villaviciosa",
+      "uri": "Bayan",
+      "lalawigan": "ABRA PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "2811",
+      "punong_bayan": "JOSE W. LAGEN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARJORIE L. LAGEN",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Abra - Libreng download",
+    "description": "Direktoryo ng 27 lungsod at bayan sa lalawigan ng Abra (Rehiyong Administratibo ng Cordillera (CAR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Abra` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 27 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Abra | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Abra — 27 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 27 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

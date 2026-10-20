@@ -1,0 +1,240 @@
+{
+  "id": "tl-misamis-oriental-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Misamis Oriental",
+  "title": "Mga Bayan ng Lalawigan ng Misamis Oriental",
+  "description": "Listahan ng 23 munisipalidad (bayan) sa lalawigan ng Misamis Oriental, REGION X (NORTHERN MINDANAO), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "104301000",
+      "name": "ALUBIJID",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 29724,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "104302000",
+      "name": "BALINGASAG",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 67059,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "104303000",
+      "name": "BALINGOAN",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 11051,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "104304000",
+      "name": "BINUANGAN",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 7515,
+      "income_classification": "6th"
+    },
+    {
+      "psgc_code": "104306000",
+      "name": "CLAVERIA",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 48906,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "104309000",
+      "name": "GITAGUM",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 16373,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "104310000",
+      "name": "INITAO",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 32370,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "104311000",
+      "name": "JASAAN",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 54478,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "104312000",
+      "name": "KINOGUITAN",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 14391,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "104313000",
+      "name": "LAGONGLONG",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 21659,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "104314000",
+      "name": "LAGUINDINGAN",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 24405,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "104315000",
+      "name": "LIBERTAD",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 12354,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "104316000",
+      "name": "LUGAIT",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 19758,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "104317000",
+      "name": "MAGSAYSAY (LINUGOS)",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 34605,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "104318000",
+      "name": "MANTICAO",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 28422,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "104319000",
+      "name": "MEDINA",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 32907,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "104320000",
+      "name": "NAAWAN",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 21213,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "104321000",
+      "name": "OPOL",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 61503,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "104322000",
+      "name": "SALAY",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 28705,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "104323000",
+      "name": "SUGBONGCOGON",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 9226,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "104324000",
+      "name": "TAGOLOAN",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 73150,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "104325000",
+      "name": "TALISAYAN",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 24505,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "104326000",
+      "name": "VILLANUEVA",
+      "province": "MISAMIS ORIENTAL",
+      "region": "REGION X (NORTHERN MINDANAO)",
+      "population": 39378,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Misamis Oriental - Libreng download",
+    "description": "Listahan ng 23 munisipalidad (bayan) sa lalawigan ng Misamis Oriental, REGION X (NORTHERN MINDANAO), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 23 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Misamis Oriental | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Misamis Oriental — 23 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 23 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

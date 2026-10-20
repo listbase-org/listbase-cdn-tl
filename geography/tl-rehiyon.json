@@ -1,0 +1,126 @@
+{
+  "id": "tl-rehiyon",
+  "name": "Mga Rehiyon ng Pilipinas",
+  "title": "Mga Rehiyon ng Pilipinas",
+  "description": "Buong listahan ng 17 rehiyon ng Pilipinas batay sa Philippine Standard Geographic Code (PSGC) ng Philippine Statistics Authority (PSA). Ang bawat record ay may PSGC code, opisyal na pangalan, at populasyon. Source: xemasiv/psgc2 (CC-BY-4.0), PSGC publication 2018-Q1.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "010000000",
+      "name": "REGION I (ILOCOS REGION)",
+      "population": 5026128
+    },
+    {
+      "psgc_code": "020000000",
+      "name": "REGION II (CAGAYAN VALLEY)",
+      "population": 3451410
+    },
+    {
+      "psgc_code": "030000000",
+      "name": "REGION III (CENTRAL LUZON)",
+      "population": 11218177
+    },
+    {
+      "psgc_code": "040000000",
+      "name": "REGION IV-A (CALABARZON)",
+      "population": 14414774
+    },
+    {
+      "psgc_code": "170000000",
+      "name": "MIMAROPA REGION",
+      "population": 2963360
+    },
+    {
+      "psgc_code": "050000000",
+      "name": "REGION V (BICOL REGION)",
+      "population": 5796989
+    },
+    {
+      "psgc_code": "060000000",
+      "name": "REGION VI (WESTERN VISAYAS)",
+      "population": 4477247
+    },
+    {
+      "psgc_code": "070000000",
+      "name": "REGION VII (CENTRAL VISAYAS)",
+      "population": 6041903
+    },
+    {
+      "psgc_code": "080000000",
+      "name": "REGION VIII (EASTERN VISAYAS)",
+      "population": 4440150
+    },
+    {
+      "psgc_code": "090000000",
+      "name": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 3629783
+    },
+    {
+      "psgc_code": "100000000",
+      "name": "REGION X (NORTHERN MINDANAO)",
+      "population": 4689302
+    },
+    {
+      "psgc_code": "110000000",
+      "name": "REGION XI (DAVAO REGION)",
+      "population": 4893318
+    },
+    {
+      "psgc_code": "120000000",
+      "name": "REGION XII (SOCCSKSARGEN)",
+      "population": 4545276
+    },
+    {
+      "psgc_code": "130000000",
+      "name": "NATIONAL CAPITAL REGION (NCR)",
+      "population": 12877253
+    },
+    {
+      "psgc_code": "140000000",
+      "name": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 1722006
+    },
+    {
+      "psgc_code": "150000000",
+      "name": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 3781387
+    },
+    {
+      "psgc_code": "160000000",
+      "name": "REGION XIII (Caraga)",
+      "population": 2596709
+    }
+  ],
+  "meta": {
+    "title": "Mga Rehiyon ng Pilipinas - Free Download",
+    "description": "Buong listahan ng 17 rehiyon ng Pilipinas batay sa Philippine Standard Geographic Code (PSGC) ng Philippine Statistics Authority (PSA). Ang bawat record ay may PSGC code, opisyal na pangalan, at populasyon. Source: xemasiv/psgc2 (CC-BY-4.0), PSGC publication 2018-Q1. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Rehiyon ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Rehiyon ng Pilipinas — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: open data"
+    ]
+  }
+}

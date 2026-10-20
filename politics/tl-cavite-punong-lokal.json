@@ -1,0 +1,340 @@
+{
+  "id": "tl-cavite-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Cavite",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Cavite",
+  "description": "Direktoryo ng 22 lungsod at bayan sa lalawigan ng Cavite (Calabarzon (Region IV-A)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Cavite` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Alfonso",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4123",
+      "punong_bayan": "RANDY A. SALAMAT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MADONA M. PEL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Amadeo",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4119",
+      "punong_bayan": "REDEL JOHN B. DIONISIO",
+      "kontak_punong_bayan": "(046) 483-3613",
+      "pangalawang_punong_bayan": "JOSEPH R. LEGASPI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Bacoor",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "STRIKE B. REVILLA",
+      "kontak_punong_bayan": "(046) 481-4100 loc. 401",
+      "pangalawang_punong_bayan": "ROWENA BAUTISTA-MENDIOLA",
+      "kontak_pangalawang_punong_bayan": "(046) 481-4100 loc. 402; 489-5416"
+    },
+    {
+      "id": 4,
+      "lgu": "Carmona",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "DALHIA A. LOYOLA",
+      "kontak_punong_bayan": "(046) 430-0833",
+      "pangalawang_punong_bayan": "CESAR L. INES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Cavite",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "DENVER CHRISTOPHER R. CHUA",
+      "kontak_punong_bayan": "(046) 431-0148",
+      "pangalawang_punong_bayan": "BENZEN RALEIGH G. RUSIT",
+      "kontak_pangalawang_punong_bayan": "(046) 431-2177"
+    },
+    {
+      "id": 6,
+      "lgu": "Dasmariñas",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "JENNIFER A. BARZAGA",
+      "kontak_punong_bayan": "(046) 416-0095; 416-0094",
+      "pangalawang_punong_bayan": "RAUL REX R. MANGUBAT",
+      "kontak_pangalawang_punong_bayan": "(046) 416-4425"
+    },
+    {
+      "id": 7,
+      "lgu": "General Emilio Aguinaldo",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4124",
+      "punong_bayan": "DENNIS M. GLEAN",
+      "kontak_punong_bayan": "(046) 433-1156",
+      "pangalawang_punong_bayan": "MICHAEL B. MANALO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "General Trias",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "LUIS A. FERRER IV",
+      "kontak_punong_bayan": "(046) 509-1250; 450-8488",
+      "pangalawang_punong_bayan": "JONAS GLYN P. LABUGUEN",
+      "kontak_pangalawang_punong_bayan": "(046) 434-7926; 419-8380"
+    },
+    {
+      "id": 9,
+      "lgu": "Imus",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "ALEX L. ADVINCULA",
+      "kontak_punong_bayan": "(046) 888-9910; 442-2500",
+      "pangalawang_punong_bayan": "HOMER T. SAQUILAYAN",
+      "kontak_pangalawang_punong_bayan": "(046) 888-9910 loc. 700-702; 417-1101"
+    },
+    {
+      "id": 10,
+      "lgu": "Indang",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4122",
+      "punong_bayan": "PERFECTO V. FIDEL",
+      "kontak_punong_bayan": "(046) 460-4709 loc. 213",
+      "pangalawang_punong_bayan": "ISMAEL D. RODIL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Kawit",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4104",
+      "punong_bayan": "ANGELO EMILIO G. AGUINALDO",
+      "kontak_punong_bayan": "(046) 489-8902",
+      "pangalawang_punong_bayan": "EDWARD R. SAMALA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Magallanes",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4113",
+      "punong_bayan": "JASMIN ANGELLI M. BAUTISTA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JESUS B. ANTAZO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Maragondon",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4112",
+      "punong_bayan": "LAWRENCE N. ARCA",
+      "kontak_punong_bayan": "(046) 412-1675",
+      "pangalawang_punong_bayan": "BERNIE P. ILAGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Mendez",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4121",
+      "punong_bayan": "FRANCISCO T. MENDOZA JR.",
+      "kontak_punong_bayan": "(046) 413-0601",
+      "pangalawang_punong_bayan": "RAYGAN N. DIMAPILIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Naic",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4110",
+      "punong_bayan": "RUPERTO C. DUALAN",
+      "kontak_punong_bayan": "(046) 419-3247",
+      "pangalawang_punong_bayan": "JUNIO C. DUALAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Noveleta",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4105",
+      "punong_bayan": "DHINO CARLO R. CHUA",
+      "kontak_punong_bayan": "(046) 434-1107",
+      "pangalawang_punong_bayan": "ARLYNN A. TORRES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Rosario",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4106",
+      "punong_bayan": "JOSE VOLTAIRE V. RICAFRENTE",
+      "kontak_punong_bayan": "(046) 438-0642",
+      "pangalawang_punong_bayan": "JOANNE MICHELLE B. GONZALES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Silang",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4118",
+      "punong_bayan": "EDWARD E. CARRANZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARK ANTHONY A. TOLEDO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Tagaytay",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "ABRAHAM N. TOLENTINO",
+      "kontak_punong_bayan": "(046) 888-9500",
+      "pangalawang_punong_bayan": "AGNES D. TOLENTINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Tanza",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4108",
+      "punong_bayan": "YURI RAJALEDO A. PACUMIO",
+      "kontak_punong_bayan": "(046) 437-1076",
+      "pangalawang_punong_bayan": "ARCHANGELO B. MATRO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Ternate",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4111",
+      "punong_bayan": "LAMBERTO D. BAMBAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SALVADOR C. GUBIO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Trece Martires",
+      "uri": "Bayan",
+      "lalawigan": "CAVITE PROVINCE",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "GEMMA B. LUBIGAN",
+      "kontak_punong_bayan": "(046) 419-2154",
+      "pangalawang_punong_bayan": "ROMEO L. MONTEHERMOSO JR.",
+      "kontak_pangalawang_punong_bayan": "(046) 419-0235"
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Cavite - Libreng download",
+    "description": "Direktoryo ng 22 lungsod at bayan sa lalawigan ng Cavite (Calabarzon (Region IV-A)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Cavite` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 22 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Cavite | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Cavite — 22 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 22 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

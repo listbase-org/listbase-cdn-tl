@@ -1,0 +1,316 @@
+{
+  "id": "tl-la-union-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng la Union",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng la Union",
+  "description": "Direktoryo ng 20 lungsod at bayan sa lalawigan ng la Union (Rehiyon ng Ilocos (Region I)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `la Union` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Agoo",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2504",
+      "punong_bayan": "FRANK O. SIBUMA",
+      "kontak_punong_bayan": "(072) 607-2184",
+      "pangalawang_punong_bayan": "ANTONIO A. ESLAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Aringay",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2503",
+      "punong_bayan": "BENJAMIN O. SIBUMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIA ISABEL D. DIAZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Bacnotan",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2515",
+      "punong_bayan": "DIVINA C. FONTANILLA",
+      "kontak_punong_bayan": "(072) 607-4261 loc. 200",
+      "pangalawang_punong_bayan": "FRANCISCO ANGELITO L. FONTANILLA",
+      "kontak_pangalawang_punong_bayan": "(072) 607-4261 loc. 224"
+    },
+    {
+      "id": 4,
+      "lgu": "Bagulin",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2512",
+      "punong_bayan": "VIRGILIO C. FLOR",
+      "kontak_punong_bayan": "(072) 607-5536",
+      "pangalawang_punong_bayan": "JAIME A. LICTAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Balaoan",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2517",
+      "punong_bayan": "ALELI U. CONCEPCION",
+      "kontak_punong_bayan": "(072) 607-0069",
+      "pangalawang_punong_bayan": "CARLO CASTOR U. CONCEPCION",
+      "kontak_pangalawang_punong_bayan": "(072) 607-0070"
+    },
+    {
+      "id": 6,
+      "lgu": "Bangar",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2519",
+      "punong_bayan": "JOY P. MERIN",
+      "kontak_punong_bayan": "(072) 607-2088",
+      "pangalawang_punong_bayan": "VIRGELIO M. DABALOS",
+      "kontak_pangalawang_punong_bayan": "(072) 607-2114"
+    },
+    {
+      "id": 7,
+      "lgu": "Bauang",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2501",
+      "punong_bayan": "EULOGIO CLARENCE MARTIN P. DE GUZMAN III",
+      "kontak_punong_bayan": "(072) 607-2911 loc. 301",
+      "pangalawang_punong_bayan": "HENRY A. BACURNAY JR.",
+      "kontak_pangalawang_punong_bayan": "607-2911 loc. 327, 329"
+    },
+    {
+      "id": 8,
+      "lgu": "Burgos",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2510",
+      "punong_bayan": "DELFIN C. COMEDIS JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANNIE A. PATINGLAG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Caba",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2502",
+      "punong_bayan": "DONNA R. CRISPINO",
+      "kontak_punong_bayan": "(072) 610-6943",
+      "pangalawang_punong_bayan": "RONNIE P. MANGASER",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Luna",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2518",
+      "punong_bayan": "GARY N. PINZON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMEO L. RESURRECCION",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Naguilian",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2511",
+      "punong_bayan": "NIERI T. FLORES",
+      "kontak_punong_bayan": "(072) 609-1048",
+      "pangalawang_punong_bayan": "REYNALDO J. FLORES",
+      "kontak_pangalawang_punong_bayan": "(072) 609-1048"
+    },
+    {
+      "id": 12,
+      "lgu": "Pugo",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2508",
+      "punong_bayan": "KURT WALTER M. MARTIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BRYAN T. BALLOGUING",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Rosario",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2506",
+      "punong_bayan": "BELLARMIN A. FLORES II",
+      "kontak_punong_bayan": "(072) 687-1217",
+      "pangalawang_punong_bayan": "BELLARMIN C. FLORES III",
+      "kontak_pangalawang_punong_bayan": "(072) 712-0764"
+    },
+    {
+      "id": 14,
+      "lgu": "San Fernando",
+      "uri": "Lungsod",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "",
+      "punong_bayan": "HERMENEGILDO A. GUALBERTO",
+      "kontak_punong_bayan": "(072) 888-6906; 687-8100 loc. 104",
+      "pangalawang_punong_bayan": "ALFREDO PABLO R. ORTEGA",
+      "kontak_pangalawang_punong_bayan": "6075932 (072) 607-4632; 687-8100 loc. 145"
+    },
+    {
+      "id": 15,
+      "lgu": "San Gabriel",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2513",
+      "punong_bayan": "LANY B. CARBONEL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMOLITO A. GUINOMMA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "San Juan",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2514",
+      "punong_bayan": "ARTURO P. VALDRIZ",
+      "kontak_punong_bayan": "(072) 242-5650",
+      "pangalawang_punong_bayan": "MANUEL VICTOR R. ORTEGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Santo Tomas",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2505",
+      "punong_bayan": "SEVERINO C. CARBONELL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "WINNIE N. DOCTOLERO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Santol",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2516",
+      "punong_bayan": "MAGNO A. WAILAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MONICO O. ORIENTE JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Sudipen",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2520",
+      "punong_bayan": "WENDY JOY D. BUQUING",
+      "kontak_punong_bayan": "(072) 607-3088",
+      "pangalawang_punong_bayan": "MELVIN G. MACUSI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Tubao",
+      "uri": "Bayan",
+      "lalawigan": "LA UNION PROVINCE",
+      "rehiyon": "Rehiyon ng Ilocos (Region I)",
+      "zip_code": "2509",
+      "punong_bayan": "JONALYN G. FONTANILLA-PIAYAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMEO S. GARCIA",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng la Union - Libreng download",
+    "description": "Direktoryo ng 20 lungsod at bayan sa lalawigan ng la Union (Rehiyon ng Ilocos (Region I)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `la Union` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 20 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng la Union | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng la Union — 20 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 20 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

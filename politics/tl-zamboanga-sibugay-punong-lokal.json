@@ -1,0 +1,268 @@
+{
+  "id": "tl-zamboanga-sibugay-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zamboanga Sibugay",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zamboanga Sibugay",
+  "description": "Direktoryo ng 16 lungsod at bayan sa lalawigan ng Zamboanga Sibugay (Tangway ng Zamboanga (Region IX)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Zamboanga Sibugay` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Alicia",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7040",
+      "punong_bayan": "ARDIN B. MUSA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ISMAEL B. ESCAMILLAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Buug",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7009",
+      "punong_bayan": "DIONESIA B. LAGAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JONAM R. LAGAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Diplahan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7039",
+      "punong_bayan": "ERIC Y. PALMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMIL M. VILLARUEL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Hadji Panglima Tahil",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7413",
+      "punong_bayan": "MOHAMMAD MUSTAFA S. BURAHAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GALIB K. DATAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Imelda",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7007",
+      "punong_bayan": "JERRY D. SILVA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROSELYN V. SILVA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Indanan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7407",
+      "punong_bayan": "HERMOT D. JIKIRI",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALLAN-NAHIER S. JAINAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Ipil",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7001",
+      "punong_bayan": "ANAMEL C. OLEGARIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAMSES TROY D. OLEGARIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Kabasalan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7005",
+      "punong_bayan": "KATRINA C. BALLADARES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ISAGANI C. BALLADARES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Mabuhay",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7010",
+      "punong_bayan": "EDRELUISA O. CALONGE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOVAL JOHN B. SAMONTE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Malangas",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7038",
+      "punong_bayan": "MARCELO M. BAQUIAL JR.",
+      "kontak_punong_bayan": "(062) 957-8391",
+      "pangalawang_punong_bayan": "ROBERTO P. INTOL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Naga",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7004",
+      "punong_bayan": "RINO O. DELOS REYES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMEO P. PANTAG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Olutanga",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7041",
+      "punong_bayan": "ARTHUR P. RUSTE SR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JANIE BERT D. GUMBA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Payao",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7008",
+      "punong_bayan": "JOSHUA CARLO R. MENDOZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOEL J. INDINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Roseller Lim",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7002",
+      "punong_bayan": "MICHAEL A. PIODENA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DANILO J. PIODENA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Siay",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7006",
+      "punong_bayan": "JARVIS M. ACOSTA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JULIUS M. ACOSTA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Talusan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7012",
+      "punong_bayan": "GILBERT T. EDEM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ORLANDO A. RAMISO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zamboanga Sibugay - Libreng download",
+    "description": "Direktoryo ng 16 lungsod at bayan sa lalawigan ng Zamboanga Sibugay (Tangway ng Zamboanga (Region IX)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Zamboanga Sibugay` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 16 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zamboanga Sibugay | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zamboanga Sibugay — 16 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 16 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

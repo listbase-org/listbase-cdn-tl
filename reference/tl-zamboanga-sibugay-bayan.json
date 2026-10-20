@@ -1,0 +1,184 @@
+{
+  "id": "tl-zamboanga-sibugay-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Zamboanga Sibugay",
+  "title": "Mga Bayan ng Lalawigan ng Zamboanga Sibugay",
+  "description": "Listahan ng 16 munisipalidad (bayan) sa lalawigan ng Zamboanga Sibugay, REGION IX (ZAMBOANGA PENINSULA), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "098301000",
+      "name": "ALICIA",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 36013,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "098302000",
+      "name": "BUUG",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 36634,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "098303000",
+      "name": "DIPLAHAN",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 32428,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "098304000",
+      "name": "IMELDA",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 28018,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "098305000",
+      "name": "IPIL (Capital)",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 74656,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "098306000",
+      "name": "KABASALAN",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 44336,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "098307000",
+      "name": "MABUHAY",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 36870,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "098308000",
+      "name": "MALANGAS",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 33380,
+      "income_classification": "3rd*"
+    },
+    {
+      "psgc_code": "098309000",
+      "name": "NAGA",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 38547,
+      "income_classification": "3rd*"
+    },
+    {
+      "psgc_code": "098310000",
+      "name": "OLUTANGA",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 33671,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "098311000",
+      "name": "PAYAO",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 31686,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "098312000",
+      "name": "ROSELLER LIM",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 43646,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "098313000",
+      "name": "SIAY",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 41572,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "098314000",
+      "name": "TALUSAN",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 29969,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "098315000",
+      "name": "TITAY",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 49673,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "098316000",
+      "name": "TUNGAWAN",
+      "province": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 42030,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Zamboanga Sibugay - Libreng download",
+    "description": "Listahan ng 16 munisipalidad (bayan) sa lalawigan ng Zamboanga Sibugay, REGION IX (ZAMBOANGA PENINSULA), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 16 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Zamboanga Sibugay | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Zamboanga Sibugay — 16 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 16 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

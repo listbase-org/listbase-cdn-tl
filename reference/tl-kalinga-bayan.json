@@ -1,0 +1,112 @@
+{
+  "id": "tl-kalinga-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Kalinga",
+  "title": "Mga Bayan ng Lalawigan ng Kalinga",
+  "description": "Listahan ng 7 munisipalidad (bayan) sa lalawigan ng Kalinga, CORDILLERA ADMINISTRATIVE REGION (CAR), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "143201000",
+      "name": "BALBALAN",
+      "province": "KALINGA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 12195,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "143206000",
+      "name": "LUBUAGAN",
+      "province": "KALINGA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 8733,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "143208000",
+      "name": "PASIL",
+      "province": "KALINGA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 9644,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "143209000",
+      "name": "PINUKPUK",
+      "province": "KALINGA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 32026,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "143211000",
+      "name": "RIZAL (LIWAN)",
+      "province": "KALINGA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 17038,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "143214000",
+      "name": "TANUDAN",
+      "province": "KALINGA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 9534,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "143215000",
+      "name": "TINGLAYAN",
+      "province": "KALINGA",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 12868,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Kalinga - Libreng download",
+    "description": "Listahan ng 7 munisipalidad (bayan) sa lalawigan ng Kalinga, CORDILLERA ADMINISTRATIVE REGION (CAR), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 7 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Kalinga | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Kalinga — 7 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 7 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

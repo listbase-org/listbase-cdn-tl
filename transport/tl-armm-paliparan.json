@@ -1,0 +1,196 @@
+{
+  "id": "tl-armm-paliparan",
+  "name": "Mga Paliparan — ARMM / Bangsamoro",
+  "title": "Mga Paliparan — ARMM / Bangsamoro",
+  "description": "Mga paliparan at landing strip sa ARMM / Bangsamoro (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `ARMM`. (Airports in Bangsamoro (formerly ARMM, BARMM), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RP16",
+      "iata": "",
+      "name": "Seahawk Lz Airport",
+      "city": "",
+      "subdivision": "ARMM",
+      "subdivision_native": "ARMM",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 1011,
+      "latitude": 6.65417,
+      "longitude": 121.98,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPLT",
+      "iata": "",
+      "name": "Itbayat Airport",
+      "city": "Itbayat",
+      "subdivision": "ARMM",
+      "subdivision_native": "ARMM",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 328,
+      "latitude": 20.717,
+      "longitude": 121.817,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPMC",
+      "iata": "CBO",
+      "name": "Awang Airport",
+      "city": "Cotabato City",
+      "subdivision": "ARMM",
+      "subdivision_native": "ARMM",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 189,
+      "latitude": 7.16524,
+      "longitude": 124.21,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPMJ",
+      "iata": "JOL",
+      "name": "Jolo Airport",
+      "city": "",
+      "subdivision": "ARMM",
+      "subdivision_native": "ARMM",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 118,
+      "latitude": 6.05367,
+      "longitude": 121.011,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPMM",
+      "iata": "MLP",
+      "name": "Malabang Airport",
+      "city": "Malabang",
+      "subdivision": "ARMM",
+      "subdivision_native": "ARMM",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 27,
+      "latitude": 7.61722,
+      "longitude": 124.059,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPMN",
+      "iata": "SGS",
+      "name": "Sanga Sanga Airport",
+      "city": "",
+      "subdivision": "ARMM",
+      "subdivision_native": "ARMM",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 15,
+      "latitude": 5.04699,
+      "longitude": 119.743,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPMU",
+      "iata": "CDY",
+      "name": "Cagayan de Sulu Airport",
+      "city": "Mapun",
+      "subdivision": "ARMM",
+      "subdivision_native": "ARMM",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 0,
+      "latitude": 7.014,
+      "longitude": 118.496,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — ARMM / Bangsamoro - Libreng download",
+    "description": "Mga paliparan at landing strip sa ARMM / Bangsamoro (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `ARMM`. (Airports in Bangsamoro (formerly ARMM, BARMM), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 7 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — ARMM / Bangsamoro | ListBase",
+    "seo_description": "I-download Mga Paliparan — ARMM / Bangsamoro — 7 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 7 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

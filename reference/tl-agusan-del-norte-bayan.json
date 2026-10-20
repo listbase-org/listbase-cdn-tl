@@ -1,0 +1,136 @@
+{
+  "id": "tl-agusan-del-norte-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Agusan Del Norte",
+  "title": "Mga Bayan ng Lalawigan ng Agusan Del Norte",
+  "description": "Listahan ng 10 munisipalidad (bayan) sa lalawigan ng Agusan Del Norte, REGION XIII (Caraga), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "160201000",
+      "name": "BUENAVISTA",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 61614,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "160204000",
+      "name": "CARMEN",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 20839,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "160205000",
+      "name": "JABONGA",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 23184,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "160206000",
+      "name": "KITCHARAO",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 18659,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "160207000",
+      "name": "LAS NIEVES",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 28414,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "160208000",
+      "name": "MAGALLANES",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 21007,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "160209000",
+      "name": "NASIPIT",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 41957,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "160212000",
+      "name": "REMEDIOS T. ROMUALDEZ",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 16058,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "160210000",
+      "name": "SANTIAGO",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 24200,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "160211000",
+      "name": "TUBAY",
+      "province": "AGUSAN DEL NORTE",
+      "region": "REGION XIII (Caraga)",
+      "population": 24932,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Agusan Del Norte - Libreng download",
+    "description": "Listahan ng 10 munisipalidad (bayan) sa lalawigan ng Agusan Del Norte, REGION XIII (Caraga), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 10 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Agusan Del Norte | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Agusan Del Norte — 10 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 10 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

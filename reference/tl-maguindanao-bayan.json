@@ -1,0 +1,344 @@
+{
+  "id": "tl-maguindanao-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Maguindanao",
+  "title": "Mga Bayan ng Lalawigan ng Maguindanao",
+  "description": "Listahan ng 36 munisipalidad (bayan) sa lalawigan ng Maguindanao, AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "153801000",
+      "name": "AMPATUAN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 24801,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153818000",
+      "name": "BARIRA",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 30004,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153802000",
+      "name": "BULDON",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 35282,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "153803000",
+      "name": "BULUAN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 50008,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "153828000",
+      "name": "DATU ABDULLAH SANGKI",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 23878,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153831000",
+      "name": "DATU ANGGAL MIDTIMBANG",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25016,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153830000",
+      "name": "DATU BLAH T. SINSUAT",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25024,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153835000",
+      "name": "DATU HOFFER AMPATUAN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25012,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153807000",
+      "name": "DATU ODIN SINSUAT (DINAIG)",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 99210,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "153805000",
+      "name": "DATU PAGLAS",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 28387,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153806000",
+      "name": "DATU PIANG",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25600,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "153836000",
+      "name": "DATU SALIBO",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 14947,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153826000",
+      "name": "DATU SAUDI-AMPATUAN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 26427,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153827000",
+      "name": "DATU UNSAY",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 11813,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "153819000",
+      "name": "GEN. S.K. PENDATUN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 28103,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "153825000",
+      "name": "GUINDULUNGAN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 19911,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153814000",
+      "name": "KABUNTALAN (TUMBAO)",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 17276,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "153820000",
+      "name": "MAMASAPANO",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 24800,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "153832000",
+      "name": "MANGUDADATU",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25046,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153809000",
+      "name": "MATANOG",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 29770,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "153834000",
+      "name": "NORTHERN KABUNTALAN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25232,
+      "income_classification": "5th*"
+    },
+    {
+      "psgc_code": "153822000",
+      "name": "PAGAGAWAN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 34820,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "153810000",
+      "name": "PAGALUNGAN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 39653,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "153823000",
+      "name": "PAGLAT",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 15920,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153833000",
+      "name": "PANDAG",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25057,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153811000",
+      "name": "PARANG",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 89194,
+      "income_classification": "1st*"
+    },
+    {
+      "psgc_code": "153829000",
+      "name": "RAJAH BUAYAN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 23652,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153808000",
+      "name": "SHARIFF AGUAK (MAGANOY) (Capital)",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 31692,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "153837000",
+      "name": "SHARIFF SAYDONA MUSTAPHA",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 19855,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153817000",
+      "name": "SOUTH UPI",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 40178,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "153812000",
+      "name": "SULTAN KUDARAT (NULING)",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 95201,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "153824000",
+      "name": "SULTAN MASTURA",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 22261,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "153813000",
+      "name": "SULTAN SA BARONGIS (LAMBAYONG)",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 22425,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "153816000",
+      "name": "TALAYAN",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 30032,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "153821000",
+      "name": "TALITAY",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 14863,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "153815000",
+      "name": "UPI",
+      "province": "MAGUINDANAO",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 53583,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Maguindanao - Libreng download",
+    "description": "Listahan ng 36 munisipalidad (bayan) sa lalawigan ng Maguindanao, AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 36 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Maguindanao | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Maguindanao — 36 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 36 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

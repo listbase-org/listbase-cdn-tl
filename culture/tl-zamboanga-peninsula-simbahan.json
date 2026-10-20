@@ -1,0 +1,198 @@
+{
+  "id": "tl-zamboanga-peninsula-simbahan",
+  "name": "Mga Simbahan - Zamboanga Peninsula",
+  "title": "Mga Simbahan - Zamboanga Peninsula",
+  "description": "Mga simbahan sa rehiyong Zamboanga Peninsula, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Zamboanga Peninsula, Philippines.)",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "denominasyon",
+      "label": "Denominasyon",
+      "type": "string"
+    },
+    {
+      "key": "taon_itinatag",
+      "label": "Taon Itinatag",
+      "type": "number"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "bayan",
+      "label": "Bayan",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q106220600",
+      "name_tl": "Katedral ng Dipolog",
+      "name_en": "Our Lady of the Most Holy Rosary Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Zamboanga Peninsula",
+      "lalawigan": "",
+      "bayan": "Dipolog",
+      "latitude": 8.58608,
+      "longitude": 123.34558,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q106220990",
+      "name_tl": "Katedral ng Ipil",
+      "name_en": "Cathedral of St. Joseph the Worker, Ipil",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Zamboanga Peninsula",
+      "lalawigan": "",
+      "bayan": "Ipil",
+      "latitude": 7.782803,
+      "longitude": 122.583931,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q106393304",
+      "name_tl": "Katedral ng Isabela",
+      "name_en": "Isabela Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Zamboanga Peninsula",
+      "lalawigan": "",
+      "bayan": "Isabela",
+      "latitude": 6.705714,
+      "longitude": 121.970933,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q61045500",
+      "name_tl": "Katedral ng Jolo",
+      "name_en": "Jolo Cathedral",
+      "denominasyon": "Catholicism",
+      "taon_itinatag": "",
+      "rehiyon": "Zamboanga Peninsula",
+      "lalawigan": "",
+      "bayan": "Jolo",
+      "latitude": 6.052639,
+      "longitude": 121.000917,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q106220301",
+      "name_tl": "Katedral ng Pagadian",
+      "name_en": "Pagadian Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Zamboanga Peninsula",
+      "lalawigan": "",
+      "bayan": "Pagadian",
+      "latitude": 7.825402,
+      "longitude": 123.439026,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q6825040",
+      "name_tl": "Katedral ng Zamboanga",
+      "name_en": "Zamboanga Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": 2002,
+      "rehiyon": "Zamboanga Peninsula",
+      "lalawigan": "",
+      "bayan": "Zamboanga",
+      "latitude": 6.90895,
+      "longitude": 122.07603,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q131535566",
+      "name_tl": "Saint Francis Xavier Parish Church",
+      "name_en": "Saint Francis Xavier Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Zamboanga Peninsula",
+      "lalawigan": "",
+      "bayan": "Katipunan",
+      "latitude": 8.511684,
+      "longitude": 123.284428,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q28927057",
+      "name_tl": "Simbahan ng Dapitan",
+      "name_en": "Saint James the Greater Parish Church",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Zamboanga Peninsula",
+      "lalawigan": "",
+      "bayan": "Dapitan",
+      "latitude": 8.65442,
+      "longitude": 123.42499,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Simbahan - Zamboanga Peninsula - Libreng download",
+    "description": "Mga simbahan sa rehiyong Zamboanga Peninsula, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Zamboanga Peninsula, Philippines.) Naglalaman ng 8 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Simbahan - Zamboanga Peninsula | ListBase",
+    "seo_description": "I-download Mga Simbahan - Zamboanga Peninsula — 8 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 8 talaan / 12 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

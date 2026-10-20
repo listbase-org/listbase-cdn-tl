@@ -1,0 +1,160 @@
+{
+  "id": "tl-rizal-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Rizal",
+  "title": "Mga Bayan ng Lalawigan ng Rizal",
+  "description": "Listahan ng 13 munisipalidad (bayan) sa lalawigan ng Rizal, REGION IV-A (CALABARZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "045801000",
+      "name": "ANGONO",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 113283,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045803000",
+      "name": "BARAS",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 69300,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045804000",
+      "name": "BINANGONAN",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 282474,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045805000",
+      "name": "CAINTA",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 322128,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045806000",
+      "name": "CARDONA",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 49034,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "045807000",
+      "name": "JALA-JALA",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 32254,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "045809000",
+      "name": "MORONG",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 58118,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "045810000",
+      "name": "PILILLA",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 64812,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045808000",
+      "name": "RODRIGUEZ (MONTALBAN)",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 369222,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045811000",
+      "name": "SAN MATEO",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 252527,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045812000",
+      "name": "TANAY",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 117830,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045813000",
+      "name": "TAYTAY",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 319104,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "045814000",
+      "name": "TERESA",
+      "province": "RIZAL",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 57755,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Rizal - Libreng download",
+    "description": "Listahan ng 13 munisipalidad (bayan) sa lalawigan ng Rizal, REGION IV-A (CALABARZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 13 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Rizal | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Rizal — 13 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 13 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "tl-quirino-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Quirino",
+  "title": "Mga Bayan ng Lalawigan ng Quirino",
+  "description": "Listahan ng 6 munisipalidad (bayan) sa lalawigan ng Quirino, REGION II (CAGAYAN VALLEY), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "025701000",
+      "name": "AGLIPAY",
+      "province": "QUIRINO",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 27787,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "025702000",
+      "name": "CABARROGUIS (Capital)",
+      "province": "QUIRINO",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 30582,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "025703000",
+      "name": "DIFFUN",
+      "province": "QUIRINO",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 52569,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "025704000",
+      "name": "MADDELA",
+      "province": "QUIRINO",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 38499,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "025706000",
+      "name": "NAGTIPUNAN",
+      "province": "QUIRINO",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 23484,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "025705000",
+      "name": "SAGUDAY",
+      "province": "QUIRINO",
+      "region": "REGION II (CAGAYAN VALLEY)",
+      "population": 16070,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Quirino - Libreng download",
+    "description": "Listahan ng 6 munisipalidad (bayan) sa lalawigan ng Quirino, REGION II (CAGAYAN VALLEY), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Quirino | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Quirino — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

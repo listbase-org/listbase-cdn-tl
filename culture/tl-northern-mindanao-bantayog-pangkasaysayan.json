@@ -1,0 +1,284 @@
+{
+  "id": "tl-northern-mindanao-bantayog-pangkasaysayan",
+  "name": "Makasaysayang Pananda ng NHCP — Hilagang Mindanao (Region X)",
+  "title": "Makasaysayang Pananda ng NHCP — Hilagang Mindanao (Region X)",
+  "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Hilagang Mindanao (Region X). Filtered subset ng pambansang tl-bantayog-pangkasaysayan (9 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Northern Mindanao (Region X) — filtered subset of the national NHCP marker inventory, 9 of 1235 nationally.)",
+  "category": "culture",
+  "source": "https://github.com/seav/pananda",
+  "source_url": "https://github.com/seav/pananda",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regions",
+      "label": "Regions",
+      "type": "string"
+    },
+    {
+      "key": "macro_address",
+      "label": "Macro Address",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "title_tl",
+      "label": "Title Tl",
+      "type": "string"
+    },
+    {
+      "key": "subtitle_tl",
+      "label": "Subtitle Tl",
+      "type": "string"
+    },
+    {
+      "key": "inscription_tl",
+      "label": "Inscription Tl",
+      "type": "string"
+    },
+    {
+      "key": "inscription_photo",
+      "label": "Inscription Photo",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "location_description",
+      "label": "Location Description",
+      "type": "string"
+    },
+    {
+      "key": "location_photo",
+      "label": "Location Photo",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_articles",
+      "label": "Wikipedia Articles",
+      "type": "string"
+    },
+    {
+      "key": "title_en",
+      "label": "Title En",
+      "type": "string"
+    },
+    {
+      "key": "subtitle_en",
+      "label": "Subtitle En",
+      "type": "string"
+    },
+    {
+      "key": "inscription_en",
+      "label": "Inscription En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wikidata_qid": "Q28919864",
+      "name": "Fuerte de la Concepcion y del Triunfo",
+      "region": "Northern Mindanao",
+      "regions": "Northern Mindanao",
+      "macro_address": "Ozamiz, Misamis Occidental",
+      "address": "Fort of the Conception and Triumph, Ozamiz–Cotta Road, Ozamiz, Misamis Occidental",
+      "date": "2002",
+      "latitude": 8.14045,
+      "longitude": 123.84671,
+      "title_tl": "Fuerte de la Concepcion y del Triunfo",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Ipinatayong yari sa korales sa hugis-parihaba na may apat na balwarte: San Fernando, San Jose, Santigo at San Ignacio, 1756. Punong Himpilan ng Konstabularya ng Pilipinas noong Panahon ng mga Amerikano at mga Hapon. Giniba ng lindol, 1955. Dito idinambana ang Inmaculada Concepcion na kilala rin sa tawag na Santa Mariang Birhen, Virgen sa Cota, na pinagpipitaganan at dinadayo ng mga deboto tuwing Hulyo 16. Isinaayos, 2002. Ipinahayag na Pambansang Panandang Pangkasaysayan, 13 Marso 2002.</p>",
+      "inscription_photo": "credit: National Historical Commission of the Philippines (NHCP); file: Fuerte De La Concepcion Y Del Triunfo historical marker.jpg; width: 1093; height: 1324",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28919864"
+    },
+    {
+      "wikidata_qid": "Q28919950",
+      "name": "Casa del Chino Ygua",
+      "region": "Northern Mindanao",
+      "regions": "Northern Mindanao",
+      "macro_address": "Cagayan de Oro",
+      "address": "Casa del Chino Ygua, Hayes Street corner Velez Street, Cagayan de Oro",
+      "date": "2000",
+      "latitude": 8.47626,
+      "longitude": 124.64412,
+      "title_tl": "Casa del Chino Ygua",
+      "subtitle_tl": "(Balay nga Bato)",
+      "inscription_tl": "<p>Ipinagawa noong 1882 na yari sa ladrilyong inangkat sa Timog Tsina ni Sia Ygua noong Enero 10, 1899. Nagtipun-tipon sa harapan ng bahay na ito ang mga kalahok sa maringal na parada sa Cagayan de Misamis bilang pagkilala sa pamahalaang rebolusyonaryo ni Heneral Aguinaldo. Sinakop at inokupahan ng ika-40 rehimiyento ng mga boluntaryo ng Estados Unidos. Nilusob ng batalyong Mindanao sa pamumuno ni Heneral Nicolas Capistrano na nagtangkang palayain ang Cagayan de Misamis noong Abril 7, 1900. Maraming Pilipinong manghihimagsik ang napatay sa bahay na ito noong labanan sa Cagayan de Misamis at inilibong sa likod bahay nito.</p>",
+      "inscription_photo": "height: 2332; credit: Iamjepoi {CC BY‑SA 3.0}; file: Casa del Chino Ygua Marker.JPG; width: 1764",
+      "location_description": "The historical marker is located on the leftmost wall on Hayes Street.",
+      "location_photo": "height: 1944; width: 2896; credit: Iamjepoi {CC BY‑SA 3.0}; file: Casa del Chino Ygua Structure.JPG",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28919950"
+    },
+    {
+      "wikidata_qid": "Q28933113",
+      "name": "Jose F. Ozamiz",
+      "region": "Northern Mindanao",
+      "regions": "Northern Mindanao",
+      "macro_address": "Aloran, Misamis Occidental",
+      "address": "Town Plaza, Aloran, Misamis Occidental",
+      "date": "2014",
+      "latitude": 8.41615,
+      "longitude": 123.82117,
+      "title_tl": "Jose F. Ozamiz",
+      "subtitle_tl": "(1898–1944)",
+      "inscription_tl": "<p>Isinilang sa Banisilon, Aloran, Misamis Occidental, 5 Mayo 1898. Nagtapos ng abogasya sa Unibersidad ng Pilipinas, 1921. Gobernador ng Misamis Occidental, 1929–1931; kinatawan sa Lehislatura ng Pilipinas, 1931–1935; Kombensyon Konstitusyonal, 1934–1935; Pambansang Asambleya, 1935–1938. Naihalal muli sa asambleya ngunit tumanggi sa posisyon upang umanib sa kilusang gerilya at hukbong Amerikano sa Australia noong Ikalawang Digmaang Pandaigdig. Dinakip ng mga Hapon at ipiniit sa Fort Santiago at Bilibid. Dinala sa Manila Chinese Cemetery kung saan siya at ang iba pang kasama ay pinugutan ng ulo at itinapon ang kanilang mga bangkay sa isang hukay lamang sa loob ng sementeryo, 30 Agosto 1944. Natagpuan ang mga labi, 1946. Inilipat ang mga labi at binigyan ng marangal na libing sa Cementerio del Norte sa Maynila, 9 Marso 1947.</p>",
+      "location_description": "The historical marker is located on a concrete mounting between two flagpoles.",
+      "location_photo": "width: 4000; credit: BhlJRama {CC BY‑SA 4.0}; file: Sen. Jose Ozamiz Historical Maker.jpg; height: 3000",
+      "wikipedia_articles": "José Ozámiz: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28933113"
+    },
+    {
+      "wikidata_qid": "Q28933123",
+      "name": "Macabalan Wharf",
+      "region": "Northern Mindanao",
+      "regions": "Northern Mindanao",
+      "macro_address": "Cagayan de Oro",
+      "address": "Macabalan Wharf, Cagayan de Oro",
+      "date": "2008-03-13",
+      "latitude": 8.50119,
+      "longitude": 124.66426,
+      "title_tl": "Macabalan Wharf",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Ipinatayo ng mga Espanyol sa Cagayan de Misamis ika-labinsiyam na siglo. Nagsilbing daungan ng mga sasakyang pandagat mula Maynila, Cebu, Maribojoc, Iloilo at Romblon. Naging kutang tanggulan ng mga Cagayanon upang pigilan ang pagsakop ng mga Amerikano sa Cagayan de Misamis, Enero–Marso 1900. Nasakop ng mga Amerikano, 25 Abril 1900. Dito dumaong sina Hen. Douglas MacArthur at pamilya mula Corregidor, 13 Marso 1942. Tumungo sa Del Monte Airfield, Bukidnon at lumpipad patungong Australya, 17 Marso 1942.</p>",
+      "inscription_photo": "height: 4729; credit: Jonathan Blaza {CC BY‑SA 4.0}; file: Macabalan Wharf Historical Marker.jpg; width: 3144",
+      "location_description": "The historical marker is located on a concrete mounting to the left of the flagpole.",
+      "location_photo": "height: 3955; width: 5948; credit: Jonathan Blaza {CC BY‑SA 4.0}; file: Macabalan Wharf Memorial and Historical Marker.jpg",
+      "wikipedia_articles": "Douglas MacArthur: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28933123"
+    },
+    {
+      "wikidata_qid": "Q28933167",
+      "name": "Labanan sa Cagayan de Misamis",
+      "region": "Northern Mindanao",
+      "regions": "Northern Mindanao",
+      "macro_address": "Cagayan de Oro",
+      "address": "Capistrano Street corner Gaerlan Street, Cagayan de Oro",
+      "date": "2000-04-07",
+      "latitude": 8.47579,
+      "longitude": 124.6419,
+      "title_tl": "Labanan sa Cagayan de Misamis",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Bago magbukang-liwayway noong Abril 7, 1900, ang lakas panghimagsikan ng batalyong Mindanao sa pamumuno ni Heneral Nicolas Capistrano ay nagsagawa ng isang biglaang pagsalakay sa ika-40 rehimiyento na binubuo ng mga boluntaryo ng Estados Unidos sa pamumuno ni Medyor James Case. Sa pagtatanggol sa kanilang minamahal na bansa. Ilang daang magigiting na Pilipinong manghihimagsik ang namatay sa labanang ito.</p><p>Ang panandang pangkasaysayang ito ay buong pusong iniaalay ng sambayanang Pilipino sa magigiting na tagapagtanggol ng kalayaan ng Cagayan de Misamis sa paggunita sa ikasandaang taon ng makasaysayang labanang ito.</p>",
+      "inscription_photo": "width: 2048; credit: Leocvlauzon {CC BY‑SA 4.0}; file: Labanan sa Cagayan de Misamis NHI Marker.jpg; height: 2730",
+      "location_description": "The historical marker is located on a black tiled concrete mounting.",
+      "wikipedia_articles": "Battle of Cagayan de Misamis: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28933167"
+    },
+    {
+      "wikidata_qid": "Q28933344",
+      "name": "Labanan sa Burol Agusan",
+      "region": "Northern Mindanao",
+      "regions": "Northern Mindanao",
+      "macro_address": "Cagayan de Oro",
+      "address": "Cagayan de Oro",
+      "date": "2000-05-14",
+      "latitude": 8.48813,
+      "longitude": 124.73852,
+      "title_tl": "Labanan sa Burol Agusan",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Sa pook na ito, Mayo 14, 1900, ang unang kumpanya ng lakas panghimagsikan ng batalyong Mindanao sa pangunguna ni Kapitan Vicente Roa y Racines at mga kabalyeriya sa pamumuno ni Sarhento Uldarico Akut kasama ang mga macheteros, ay madugong nakipaglaban sa mga sundalong Amerikano ng ika-40 rehimyento ng boluntaryong impanterya ng Estados Unidos na pinangunahan ni Kapitan Walter B. Elliot. Si Kapitan Roa, kasama ang iba pang makabayang Pilipino ay buong kabayanihang namatay sa labanang ito.</p><p>Sa mga dakilang tagapagtanggol ng kalayaan ng dating lalawigan ng Misamis, lalung-lalo na yaong mga namatay sa Labanan sa Burol Agusan, ang panandang pangkasaysayang ito ay iniaalay ng sambayanang Pilipino bilang paggunita sa ikasandaang taon ng makasaysayang labanang ito.</p>",
+      "location_description": "The historical marker is located on a concrete mounting at the entrance of Agusan Hill.",
+      "wikipedia_articles": "Battle of Agusan Hill: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28933344"
+    },
+    {
+      "wikidata_qid": "Q28933375",
+      "name": "Labanan sa Burol ng Makahambus",
+      "region": "Northern Mindanao",
+      "regions": "Northern Mindanao",
+      "macro_address": "Cagayan de Oro",
+      "address": "Macahambus Cave, Cagayan de Oro",
+      "date": "2000-06-07",
+      "latitude": 8.37887,
+      "longitude": 124.60974,
+      "title_tl": "Labanan sa Burol ng Makahambus",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Sa pook na ito, Hunyo 4, 1900, ang hukbong panghimagsikan ng batalyong Mindanao sa pangunguna ni Tenyente Cruz Taal na nasa ilalim ng pamumuno ni Kol. Apolinar Velez y Ramos ay nagwagi sa kanilang madugong pakikipaglaban sa mga sundalong Amerikano na kabilang sa ika-40 impanteryang pinamumunuan ni Kapitan Thomas Miller at ng dagdag na pangkat na pinangungunahan ni Kapitan Walter B. Elliot. Ang pagkatalong ito ng mga Amerikano sa labanan sa Makahambus ay bunga ng mahusay na pamamaraan at disiplina sa sarili ng mga nagtantanggol na mga rebolusyonaryong Pilipino. Umani ang mga Pilipino ng paghanga mula sa mga Amerikano, dahil sa kanilang ginawang pakikitungo sa mga bihag ng digma.</p>",
+      "location_description": "The historical marker is located on a concrete mounting at the entrance of Macahambus Hill.",
+      "wikipedia_articles": "Battle of Makahambus Hill: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28933375"
+    },
+    {
+      "wikidata_qid": "Q28933475",
+      "name": "Macapagal-Macaraeg Ancestral House",
+      "region": "Northern Mindanao",
+      "regions": "Northern Mindanao",
+      "macro_address": "Iligan",
+      "address": "Macapagal-Macaraeg House, National Highway, Sitio Timoga, Brgy. Buru-un, Iligan",
+      "date": "2002",
+      "latitude": 8.1912,
+      "longitude": 124.17898,
+      "title_en": "Macapagal-Macaraeg Ancestral House",
+      "subtitle_en": "",
+      "inscription_en": "<p>Declared a heritage house by the National Historical Institute, 14 August 2002.</p>",
+      "inscription_photo": "height: 2468; file: Macapagal-Macaraeg Heritage House Historical Marker Close.jpg; credit: Jonathan Blaza {CC BY‑SA 4.0}; width: 3712",
+      "location_description": "The historical marker is mounted on a tiled plant box to the left of the house’s driveway.",
+      "location_photo": "file: Macapagal-Macaraeg Heritage House and Historical Marker.jpg; credit: Jonathan Blaza {CC BY‑SA 4.0}; width: 6016; height: 4000",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28933475"
+    },
+    {
+      "wikidata_qid": "Q29017572",
+      "name": "Pagtataas ng Watawat ng Pilipinas sa Cagayan de Misamis",
+      "region": "Northern Mindanao",
+      "regions": "Northern Mindanao",
+      "macro_address": "Cagayan de Oro",
+      "address": "Cagayan de Oro",
+      "date": "2015-01-13",
+      "latitude": 8.4762,
+      "longitude": 124.64163,
+      "title_tl": "Pagtataas ng Watawat ng Pilipinas sa Cagayan de Misamis",
+      "subtitle_tl": "10 Enero 1899",
+      "inscription_tl": "<p>Itinaas ang watawat ng Pilipinas sa Casa Real ng Cagayan de Misamis (ngayo’y Cagayan de Oro) bilang sagisag ng pagkilala sa Pamahalaang Rebolusyonaryo, 10 Enero 1899. Tinawag ni Gobernador Jose Roa y Casas ng lalawigan ng Misamis ang pagdiriwang na yaon bilang “La Fiesta Nacional” sa kanyang liham kay Hen. Aguinaldo, 26 Enero 1899. Tanda ito ng masiglang pagdiriwang ng mamamayan sa kalayaan ng Pilipinas.</p>",
+      "inscription_photo": "height: 905; width: 684; credit: Leocvlauzon {CC BY‑SA 4.0}; file: Pagtaas ng Watawat ng Pilipinas sa Cagayan de Misamis NHCP Marker (cropped).jpg",
+      "location_photo": "height: 2730; credit: Leocvlauzon {CC BY‑SA 4.0}; file: Pagtaas ng Watawat ng Pilipinas sa Cagayan de Misamis NHCP Marker.jpg; width: 2048",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29017572"
+    }
+  ],
+  "meta": {
+    "title": "Makasaysayang Pananda ng NHCP — Hilagang Mindanao (Region X) - Libreng download",
+    "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Hilagang Mindanao (Region X). Filtered subset ng pambansang tl-bantayog-pangkasaysayan (9 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Northern Mindanao (Region X) — filtered subset of the national NHCP marker inventory, 9 of 1235 nationally.) Naglalaman ng 9 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Makasaysayang Pananda ng NHCP — Hilagang Mindanao (Region X) | ListBase",
+    "seo_description": "I-download Makasaysayang Pananda ng NHCP — Hilagang Mindanao (Region X) — 9 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 9 talaan / 20 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/seav/pananda"
+    ]
+  }
+}

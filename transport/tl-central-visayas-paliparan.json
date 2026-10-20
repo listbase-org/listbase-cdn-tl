@@ -1,0 +1,136 @@
+{
+  "id": "tl-central-visayas-paliparan",
+  "name": "Mga Paliparan — Gitnang Visayas",
+  "title": "Mga Paliparan — Gitnang Visayas",
+  "description": "Mga paliparan at landing strip sa Gitnang Visayas (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Central Visayas`. (Airports in Central Visayas (Region VII), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RPSB",
+      "iata": "",
+      "name": "Bantayan Airport",
+      "city": "",
+      "subdivision": "Central Visayas",
+      "subdivision_native": "Central Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 0,
+      "latitude": 11.1624,
+      "longitude": 123.7848,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVD",
+      "iata": "DGT",
+      "name": "Sibulan Airport",
+      "city": "Dumaguete City",
+      "subdivision": "Central Visayas",
+      "subdivision_native": "Central Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 15,
+      "latitude": 9.33371,
+      "longitude": 123.3,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVM",
+      "iata": "CEB",
+      "name": "Mactan Cebu International Airport",
+      "city": "Lapu-Lapu City",
+      "subdivision": "Central Visayas",
+      "subdivision_native": "Central Visayas",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 31,
+      "latitude": 10.3075,
+      "longitude": 123.979,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — Gitnang Visayas - Libreng download",
+    "description": "Mga paliparan at landing strip sa Gitnang Visayas (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Central Visayas`. (Airports in Central Visayas (Region VII), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — Gitnang Visayas | ListBase",
+    "seo_description": "I-download Mga Paliparan — Gitnang Visayas — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

@@ -1,0 +1,4048 @@
+{
+  "id": "tl-bangko",
+  "name": "Mga Bangko sa Pilipinas",
+  "title": "Mga Bangko sa Pilipinas",
+  "description": "Listahan ng 499 na bangko, securities firm, at iba pang BSP-supervised financial institutions sa Pilipinas - kabilang ang opisyal na pangalan, lungsod, SWIFT/BIC code, at sangay (branch) kung mayroon. Ang bawat record ay may 8- o 11-character SWIFT/BIC code (...PHM... country code para sa Philippines) na ginagamit sa international wire transfers, InstaPay, at PESONet routing. Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 499,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "MCRUPHM1",
+      "name": "1ST MACRO BANK, INC. (A RURAL BANK)",
+      "name_titlecase": "1st Macro BANK, INC. (a Rural BANK)",
+      "city": "CITY OF PATEROS",
+      "city_titlecase": "City of Pateros",
+      "branch": ""
+    },
+    {
+      "swift_code": "VADVPHM1",
+      "name": "1ST VALLEY BANK INC., A DEVELOPMENT BANK",
+      "name_titlecase": "1st Valley BANK INC., a Development BANK",
+      "city": "CITY OF CAGAYAN DE ORO",
+      "city_titlecase": "City of Cagayan de Oro",
+      "branch": ""
+    },
+    {
+      "swift_code": "SEUUPHM1",
+      "name": "A AND A SECURITIES, INC.",
+      "name_titlecase": "A and a Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "CASUPHM1",
+      "name": "A.T. DE CASTRO SECURITIES CORPORATION",
+      "name_titlecase": "A.t. de Castro Securities Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "AASQPHM1",
+      "name": "AAA SOUTHEAST EQUITIES INC.",
+      "name_titlecase": "Aaa Southeast Equities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CAVPPHM1",
+      "name": "AB CAPITAL AND INVESTMENT CORPORATION",
+      "name_titlecase": "Ab Capital and Investment Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ANSCPHM1",
+      "name": "AB CAPITAL SECURITIES INC.",
+      "name_titlecase": "Ab Capital Securities INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ACICPHM1",
+      "name": "ABACUS CAPITAL AND INVESTMENT CORPORATION",
+      "name_titlecase": "Abacus Capital and Investment Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ABAEPHM1",
+      "name": "ABACUS SECURITIES CORP.",
+      "name_titlecase": "Abacus Securities CORP.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ABTZPH21",
+      "name": "ABOITIZ EQUITY VENTURES INC.",
+      "name_titlecase": "Aboitiz Equity Ventures INC.",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "AGBUPHM1",
+      "name": "AGRIBUSINESS RURAL BANK, INC.",
+      "name_titlecase": "Agribusiness Rural BANK, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "AIACPHMM",
+      "name": "AIA PHILIPPINES",
+      "name_titlecase": "AIA Philippines",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "AIACPHM1GIO",
+      "name": "AIA PHILIPPINES",
+      "name_titlecase": "AIA Philippines",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": "GENERAL INVESTMENT OPERATIONS"
+    },
+    {
+      "swift_code": "AIIPPHM1",
+      "name": "AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES",
+      "name_titlecase": "Al-amanah Islamic Investment BANK of the Philippines",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "AIIPPHMM",
+      "name": "AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES",
+      "name_titlecase": "Al-amanah Islamic Investment BANK of the Philippines",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "APHIPHM2",
+      "name": "ALIPAY PHILIPPINES INC.",
+      "name_titlecase": "Alipay Philippines INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "APHIPHM3",
+      "name": "ALIPAY PHILIPPINES INC.",
+      "name_titlecase": "Alipay Philippines INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ALKBPHM2",
+      "name": "ALLBANK (A THRIFT BANK) INC",
+      "name_titlecase": "Allbank (a Thrift BANK) INC",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "ALSGPHM1",
+      "name": "ALLIED SAVINGS BANK",
+      "name_titlecase": "Allied Savings BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ALPCPHM1",
+      "name": "ALPHA SECURITIES CORP.",
+      "name_titlecase": "Alpha Securities CORP.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "AMONPHM1",
+      "name": "AMON SECURITIES CORP.",
+      "name_titlecase": "Amon Securities CORP.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ANGPPHM1",
+      "name": "ANGPING AND ASSO. SECURITIES INC.",
+      "name_titlecase": "Angping and Asso. Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ANSGPHM1",
+      "name": "ANSALDO, GODINEZ AND COMPANY, INC.",
+      "name_titlecase": "Ansaldo, Godinez and Company, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ARMEPHM1",
+      "name": "ARMSTRONG SECURITIES INC.",
+      "name_titlecase": "Armstrong Securities INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ASISPHM1",
+      "name": "ASI SECURITIES INC.",
+      "name_titlecase": "Asi Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "APCEPHM1",
+      "name": "ASIA PACIFIC CAPITAL EQUITIES AND SEC. CORP.",
+      "name_titlecase": "Asia Pacific Capital Equities and Sec. CORP.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "AUBKPHMM",
+      "name": "ASIA UNITED BANK CORPORATION",
+      "name_titlecase": "Asia United BANK Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ASDBPHMM",
+      "name": "ASIAN DEVELOPMENT BANK",
+      "name_titlecase": "Asian Development BANK",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "ASESPHM1",
+      "name": "ASIASEC EQUITIES INC.",
+      "name_titlecase": "Asiasec Equities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM10M2",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM10M5",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": "MASINAG BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10M3",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF BACOOR",
+      "city_titlecase": "City of Bacoor",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM10M4",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF CALOOCAN",
+      "city_titlecase": "City of Caloocan",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM10MM",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "PASONG TAMO BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10MB",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "SALCEDO BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10ME",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "TUTUBAN CENTERMALL BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10M7",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF PASAY",
+      "city_titlecase": "City of Pasay",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM1",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM10M8",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": "DEL MONTE BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10M6",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": "NEW MANILA BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10MA",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": "ROOSEVELT BRANCH"
+    },
+    {
+      "swift_code": "ATDBPHM10MC",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF SAN JUAN",
+      "city_titlecase": "City of San Juan",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM10MD",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF TUGUEGARAO",
+      "city_titlecase": "City of Tuguegarao",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATDBPHM10MF",
+      "name": "ASIATRUST BANK",
+      "name_titlecase": "Asiatrust BANK",
+      "city": "CITY OF VALENZUELA",
+      "city_titlecase": "City of Valenzuela",
+      "branch": ""
+    },
+    {
+      "swift_code": "ASTSPHM1",
+      "name": "ASTRA SECURITIES CORP.",
+      "name_titlecase": "Astra Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATCSPHM1",
+      "name": "ATC SECURITIES INC.",
+      "name_titlecase": "Atc Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "AURSPHM1",
+      "name": "AURORA SECURITIES, INC.",
+      "name_titlecase": "Aurora Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ANZBPHMX",
+      "name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+      "name_titlecase": "Australia and New Zealand Banking Group Limited",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "AYCOPHMM",
+      "name": "AYALA CORPORATION",
+      "name_titlecase": "Ayala Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BATTPHM1",
+      "name": "B A SECURITIES INC",
+      "name_titlecase": "B a Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BHCHPHM1",
+      "name": "B. H. CHUA SECURITIES CORPORATION",
+      "name_titlecase": "B. H. Chua Securities Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BRULPHM1",
+      "name": "BALANGA RURAL BANK, INC.",
+      "name_titlecase": "Balanga Rural BANK, INC.",
+      "city": "CITY OF BALANGA",
+      "city_titlecase": "City of Balanga",
+      "branch": ""
+    },
+    {
+      "swift_code": "BFSRPHM2",
+      "name": "BANANA FINTECH SERVICES CORPORATION",
+      "name_titlecase": "Banana Fintech Services Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BNNNPH22",
+      "name": "BANCNET, INC.",
+      "name_titlecase": "Bancnet, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BNNNPHM2",
+      "name": "BANCNET, INC.",
+      "name_titlecase": "Bancnet, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BKRUPHM1",
+      "name": "BANCO BAKUN, INC. (A RURAL BANK)",
+      "name_titlecase": "Banco Bakun, INC. (a Rural BANK)",
+      "city": "CITY OF BAGUIO",
+      "city_titlecase": "City of Baguio",
+      "branch": ""
+    },
+    {
+      "swift_code": "ORSIPHM1",
+      "name": "BANCO DE ORO SAVINGS BANK, INC.",
+      "name_titlecase": "Banco de Oro Savings BANK, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SAVRPHM1",
+      "name": "BANCO SAN VICENTE, INC. (A RURAL BANK)",
+      "name_titlecase": "Banco San Vicente, INC. (a Rural BANK)",
+      "city": "CITY OF PUERTO PRINCESA",
+      "city_titlecase": "City of Puerto Princesa",
+      "branch": ""
+    },
+    {
+      "swift_code": "BADGPHM1",
+      "name": "BANCODIPOLOG, INC.",
+      "name_titlecase": "Bancodipolog, INC.",
+      "city": "CITY OF DIPOLOG",
+      "city_titlecase": "City of Dipolog",
+      "branch": ""
+    },
+    {
+      "swift_code": "KARUPHM1",
+      "name": "BANGKO KABAYAN (A RURAL BANK) INC.",
+      "name_titlecase": "Bangko Kabayan (a Rural BANK) INC.",
+      "city": "CITY OF BATANGAS",
+      "city_titlecase": "City of Batangas",
+      "branch": ""
+    },
+    {
+      "swift_code": "MRTCPHM1",
+      "name": "BANGKO MABUHAY (A RURAL BANK), INC.",
+      "name_titlecase": "Bangko Mabuhay (a Rural BANK), INC.",
+      "city": "CITY OF CAVITE",
+      "city_titlecase": "City of Cavite",
+      "branch": ""
+    },
+    {
+      "swift_code": "MOUAPHM2",
+      "name": "BANGKO MONTANOSA, INC. A RURAL BANK",
+      "name_titlecase": "Bangko Montanosa, INC. a Rural BANK",
+      "city": "CITY OF TABUK",
+      "city_titlecase": "City of Tabuk",
+      "branch": ""
+    },
+    {
+      "swift_code": "NSPRPHM1",
+      "name": "BANGKO NUESTRA SENORA DEL PILAR INC. (A RURAL BANK)",
+      "name_titlecase": "Bangko Nuestra Senora del Pilar INC. (a Rural BANK)",
+      "city": "CITY OF SAN SIMON",
+      "city_titlecase": "City of San Simon",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUPIPHM1",
+      "name": "BANGKO RURAL NG PASACAO (CAMARINES SUR) INC",
+      "name_titlecase": "Bangko Rural Ng Pasacao (camarines Sur) INC",
+      "city": "PASACAO",
+      "city_titlecase": "Pasacao",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCBPHMM",
+      "name": "BANGKO SENTRAL NG PILIPINAS",
+      "name_titlecase": "Bangko Sentral Ng Pilipinas",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCBPHMC",
+      "name": "BANGKO SENTRAL NG PILIPINAS",
+      "name_titlecase": "Bangko Sentral Ng Pilipinas",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCBPHMD",
+      "name": "BANGKO SENTRAL NG PILIPINAS",
+      "name_titlecase": "Bangko Sentral Ng Pilipinas",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCBPHMA",
+      "name": "BANGKO SENTRAL NG PILIPINAS",
+      "name_titlecase": "Bangko Sentral Ng Pilipinas",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCBPHMB",
+      "name": "BANGKO SENTRAL NG PILIPINAS",
+      "name_titlecase": "Bangko Sentral Ng Pilipinas",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BKKBPHMM",
+      "name": "BANGKOK BANK PUBLIC COMPANY LIMITED, MANILA BRANCH",
+      "name_titlecase": "Bangkok BANK Public Company Limited, Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BOFAPH2X",
+      "name": "BANK OF AMERICA, N.A. MANILA",
+      "name_titlecase": "BANK of America, N.a. Manila",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BKCHPHMM",
+      "name": "BANK OF CHINA (HONG KONG) LIMITED - MANILA BRANCH",
+      "name_titlecase": "BANK of China (hong Kong) Limited - Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "BKCHPHMMRTS",
+      "name": "BANK OF CHINA (HONG KONG) LIMITED - MANILA BRANCH",
+      "name_titlecase": "BANK of China (hong Kong) Limited - Manila Branch",
+      "city": "TAGUIG CITY",
+      "city_titlecase": "Taguig City",
+      "branch": "BANK OF CHINA LIMITED MANILA BRANCH RMB CLEARING CENTER"
+    },
+    {
+      "swift_code": "COBMPHM1",
+      "name": "BANK OF COMMERCE",
+      "name_titlecase": "BANK of Commerce",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PABIPHMM",
+      "name": "BANK OF COMMERCE",
+      "name_titlecase": "BANK of Commerce",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "MKRUPHM1",
+      "name": "BANK OF MAKATI (A SAVINGS BANK), INC.",
+      "name_titlecase": "BANK of Makati (a Savings BANK), INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BOPIPHMM",
+      "name": "BANK OF THE PHILIPPINE ISLANDS",
+      "name_titlecase": "BANK of the Philippine Islands",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BOPIPHMMTRY",
+      "name": "BANK OF THE PHILIPPINE ISLANDS",
+      "name_titlecase": "BANK of the Philippine Islands",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": "TREASURY GROUP"
+    },
+    {
+      "swift_code": "ONSTPHM1",
+      "name": "BANK ONE SAVINGS AND TRUST CORPORATION",
+      "name_titlecase": "BANK One Savings and Trust Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "RURLPHM2",
+      "name": "BANKWAYS, INC. (A RURAL BANK)",
+      "name_titlecase": "Bankways, INC. (a Rural BANK)",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "BROXPHM1",
+      "name": "BARCELON ROXAS SECURITIES INC.",
+      "name_titlecase": "Barcelon Roxas Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BDESPHM1",
+      "name": "BDO ELITE SAVINGS BANK, INC.",
+      "name_titlecase": "BDO Elite Savings BANK, INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ONNRPHM1",
+      "name": "BDO NETWORK BANK, INC. (A RURAL BANK)",
+      "name_titlecase": "BDO Network BANK, INC. (a Rural BANK)",
+      "city": "CITY OF DAVAO",
+      "city_titlecase": "City of Davao",
+      "branch": ""
+    },
+    {
+      "swift_code": "BOPBPHMM",
+      "name": "BDO PRIVATE BANK INC.",
+      "name_titlecase": "BDO Private BANK INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BDSCPHM1",
+      "name": "BDO SECURITIES CORPORATION",
+      "name_titlecase": "BDO Securities Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BNORPHMM",
+      "name": "BDO UNIBANK, INC.",
+      "name_titlecase": "BDO Unibank, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "DHBIPHM1",
+      "name": "BDO UNIBANK, INC.",
+      "name_titlecase": "BDO Unibank, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "RETHPHM1",
+      "name": "BDO UNIBANK, INC.",
+      "name_titlecase": "BDO Unibank, INC.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "BELCPHM1",
+      "name": "BELSON SECURITIES, INC.",
+      "name_titlecase": "Belson Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BENJPHM1",
+      "name": "BENJAMIN CO CA AND CO INC.",
+      "name_titlecase": "Benjamin CO Ca and CO INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BEREPHM1",
+      "name": "BERNAD SECURITIES INC.",
+      "name_titlecase": "Bernad Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BFSCPHM1",
+      "name": "BFE FINANCIAL SVCS. AND CONSULTANCY, INC.",
+      "name_titlecase": "Bfe Financial Svcs. and Consultancy, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BIURPHM2",
+      "name": "BINAN RURAL BANK, INC.",
+      "name_titlecase": "Binan Rural BANK, INC.",
+      "city": "CITY OF BINAN",
+      "city_titlecase": "City of Binan",
+      "branch": ""
+    },
+    {
+      "swift_code": "BIUUPHM1",
+      "name": "BINANGONAN RURAL BANK, INC",
+      "name_titlecase": "Binangonan Rural BANK, INC",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPPSPHM1",
+      "name": "BNP PARIBAS PEREGRINE SECURITIES, INC",
+      "name_titlecase": "BNP Paribas Peregrine Securities, INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BNPAPHMM",
+      "name": "BNP PARIBAS, MANILA OFFSHORE BRANCH",
+      "name_titlecase": "BNP Paribas, Manila Offshore Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BORRPHM1",
+      "name": "BOF, INC. (A RURAL BANK)",
+      "name_titlecase": "Bof, INC. (a Rural BANK)",
+      "city": "CITY OF SAN FERNANDO",
+      "city_titlecase": "City of San Fernando",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPCNPHM1",
+      "name": "BPI CARD FINANCE",
+      "name_titlecase": "BPI Card Finance",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPDIPHM1",
+      "name": "BPI DIRECT",
+      "name_titlecase": "BPI Direct",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPFFPHM1",
+      "name": "BPI FAMILY BANK",
+      "name_titlecase": "BPI Family BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPFSPHM1",
+      "name": "BPI FAMILY SAVINGS BANK",
+      "name_titlecase": "BPI Family Savings BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPGOPHM1",
+      "name": "BPI GLOBE BANKO INC.",
+      "name_titlecase": "BPI Globe Banko INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPLIPHM1",
+      "name": "BPI LEASING CORPORATION",
+      "name_titlecase": "BPI Leasing Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPISPHM1",
+      "name": "BPI SECURITIES CORP.",
+      "name_titlecase": "BPI Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BATSPHM1",
+      "name": "BRITISH AMERICAN TOBACCO PHILIPPINES LTD.",
+      "name_titlecase": "British American Tobacco Philippines LTD.",
+      "city": "CITY OF MUNTINLUPA",
+      "city_titlecase": "City of Muntinlupa",
+      "branch": ""
+    },
+    {
+      "swift_code": "BBOAPHM1",
+      "name": "BSP BRANCH OPEN ACCOUNT SPC",
+      "name_titlecase": "BSP Branch Open Account Spc",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "BPRFPHM1",
+      "name": "BSP PROVIDENT FUND",
+      "name_titlecase": "BSP Provident Fund",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BUTRPHM1",
+      "name": "BUREAU OF THE TREASURY",
+      "name_titlecase": "Bureau of the Treasury",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUCAPHM1",
+      "name": "CAMALIG BANK INC. (A RURAL BANK)",
+      "name_titlecase": "Camalig BANK INC. (a Rural BANK)",
+      "city": "City of Legazpi",
+      "city_titlecase": "City of Legazpi",
+      "branch": ""
+    },
+    {
+      "swift_code": "CALAPHM10M2",
+      "name": "CAMPOS, LANUZA AND CO. INC.",
+      "name_titlecase": "Campos, Lanuza and CO. INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CALAPHM1",
+      "name": "CAMPOS, LANUZA AND CO. INC.",
+      "name_titlecase": "Campos, Lanuza and CO. INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CNRLPHM1",
+      "name": "CANTILAN BANK, INC. (A RURAL BANK)",
+      "name_titlecase": "Cantilan BANK, INC. (a Rural BANK)",
+      "city": "CITY OF BISLIG",
+      "city_titlecase": "City of Bislig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CBMFPHM1",
+      "name": "CARD BANK, INC. (A MICROFINANCE ORIENTED RURAL BANK)",
+      "name_titlecase": "Card BANK, INC. (a Microfinance Oriented Rural BANK)",
+      "city": "CITY OF SAN PABLO",
+      "city_titlecase": "City of San Pablo",
+      "branch": ""
+    },
+    {
+      "swift_code": "CAMZPHM2",
+      "name": "CARD MRI RIZAL BANK, INC.",
+      "name_titlecase": "Card Mri Rizal BANK, INC.",
+      "city": "SANTA CRUZ",
+      "city_titlecase": "Santa Cruz",
+      "branch": ""
+    },
+    {
+      "swift_code": "CRMHPHM1",
+      "name": "CARD SME BANK, INC. A THRIFT BANK",
+      "name_titlecase": "Card Sme BANK, INC. a Thrift BANK",
+      "city": "CITY OF SANTO TOMAS",
+      "city_titlecase": "City of Santo Tomas",
+      "branch": ""
+    },
+    {
+      "swift_code": "UWCBPHMM",
+      "name": "CATHAY UNITED BANK CO., LTD. MANILA BRANCH",
+      "name_titlecase": "Cathay United BANK CO., LTD. Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CELRPHM1",
+      "name": "CEBUANA LHUILLIER RURAL BANK INC.",
+      "name_titlecase": "Cebuana Lhuillier Rural BANK INC.",
+      "city": "CITY OF BACOOR",
+      "city_titlecase": "City of Bacoor",
+      "branch": ""
+    },
+    {
+      "swift_code": "CESNPHM1",
+      "name": "CENTURY SAVINGS BANK CORPORATION",
+      "name_titlecase": "Century Savings BANK Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CENEPHM1",
+      "name": "CENTURY SECURITIES CORP.",
+      "name_titlecase": "Century Securities CORP.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "CCBCPHMM",
+      "name": "CHANG HWA COMMERCIAL BANK,LTD. MANILA BRANCH",
+      "name_titlecase": "Chang Hwa Commercial Bank,ltd. Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHSVPHM1",
+      "name": "CHINA BANK SAVINGS, INC.",
+      "name_titlecase": "China BANK Savings, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHBKPHMM",
+      "name": "CHINA BANKING CORPORATION",
+      "name_titlecase": "China Banking Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CIPHPHM1",
+      "name": "CIMB BANK PHILIPPINES INC.",
+      "name_titlecase": "CIMB BANK Philippines INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CIPHPHMM",
+      "name": "CIMB BANK PHILIPPINES INC.",
+      "name_titlecase": "CIMB BANK Philippines INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CIYCPHM2",
+      "name": "CIS BAYAD CENTER, INC.",
+      "name_titlecase": "Cis Bayad Center, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ILSTPHM1",
+      "name": "CITIBANK SAVINGS INC",
+      "name_titlecase": "Citibank Savings INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "CITIPH21",
+      "name": "CITIBANK SAVINGS INC.",
+      "name_titlecase": "Citibank Savings INC.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "CITIPHMXCBU",
+      "name": "CITIBANK,N.A., MANILA BRANCH",
+      "name_titlecase": "Citibank,n.a., Manila Branch",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "CITIPHMXTSU",
+      "name": "CITIBANK,N.A., MANILA BRANCH",
+      "name_titlecase": "Citibank,n.a., Manila Branch",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "IBG-TREASURY SERVICES UNIT"
+    },
+    {
+      "swift_code": "CITIPHMX",
+      "name": "CITIBANK,N.A., MANILA BRANCH",
+      "name_titlecase": "Citibank,n.a., Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": "HEAD OFFICE"
+    },
+    {
+      "swift_code": "CITSPHM1",
+      "name": "CITISECURITIES INC.",
+      "name_titlecase": "Citisecurities INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CIVAPHM1",
+      "name": "CITY SAVINGS BANK",
+      "name_titlecase": "City Savings BANK",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "CIVVPHM1",
+      "name": "CITYSTATE SAVINGS BANK, INC.",
+      "name_titlecase": "Citystate Savings BANK, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CITRPHM1",
+      "name": "CITYTRUST SECURITIES CORP.",
+      "name_titlecase": "Citytrust Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "CLRAPH21",
+      "name": "CLASSIC RURAL BANK, INC.",
+      "name_titlecase": "Classic Rural BANK, INC.",
+      "city": "CITY OF BATANGAS",
+      "city_titlecase": "City of Batangas",
+      "branch": ""
+    },
+    {
+      "swift_code": "CLSAPHM1",
+      "name": "CLSA PHILIPPINES, INC.",
+      "name_titlecase": "Clsa Philippines, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CFGOPHM1",
+      "name": "COL FINANCIAL GROUP, INC.",
+      "name_titlecase": "Col Financial Group, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CBSLPHM1",
+      "name": "COMMONWEALTH BANK/SAVINGS AND LOAN",
+      "name_titlecase": "Commonwealth Bank/savings and Loan",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "CUOBPHM2",
+      "name": "COMMUNITY RURAL BANK OF ROMBLON (ROMBLON), INC",
+      "name_titlecase": "Community Rural BANK of Romblon (romblon), INC",
+      "city": "CITY OF ROMBLON",
+      "city_titlecase": "City of Romblon",
+      "branch": ""
+    },
+    {
+      "swift_code": "CPBOPHM1",
+      "name": "COOPERATIVE BANK OF BOHOL",
+      "name_titlecase": "Cooperative BANK of Bohol",
+      "city": "CITY OF TAGBILARAN",
+      "city_titlecase": "City of Tagbilaran",
+      "branch": ""
+    },
+    {
+      "swift_code": "COYAPHM2",
+      "name": "COOPERATIVE BANK OF CAGAYAN",
+      "name_titlecase": "Cooperative BANK of Cagayan",
+      "city": "CITY OF TUGUEGARAO",
+      "city_titlecase": "City of Tuguegarao",
+      "branch": ""
+    },
+    {
+      "swift_code": "CPCTPHM1",
+      "name": "COOPERATIVE BANK OF COTABATO",
+      "name_titlecase": "Cooperative BANK of Cotabato",
+      "city": "CITY OF KIDAPAWAN",
+      "city_titlecase": "City of Kidapawan",
+      "branch": ""
+    },
+    {
+      "swift_code": "COUKPHM1",
+      "name": "COUNTRY BUILDERS BANK INC. (A RURAL BANK)",
+      "name_titlecase": "Country Builders BANK INC. (a Rural BANK)",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "COYIPHM1",
+      "name": "COYIUTO SECURITIES INC.",
+      "name_titlecase": "Coyiuto Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "CRESPHM1",
+      "name": "CREDIT SUISSE SECURITIES (PHILIPPINES) INC.",
+      "name_titlecase": "Credit Suisse Securities (philippines) INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CRSEPHM1",
+      "name": "CROSBY SECURITIES (PHILS) INC.",
+      "name_titlecase": "Crosby Securities (phils) INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CTCBPHMM",
+      "name": "CTBC BANK (PHILIPPINES) CORP.",
+      "name_titlecase": "Ctbc BANK (philippines) CORP.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CUASPHM1",
+      "name": "CUALOPING SECURITIES CORP",
+      "name_titlecase": "Cualoping Securities CORP",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ASIIPHM1",
+      "name": "D'ASIAN HILLS BANK INC.",
+      "name_titlecase": "D'asian Hills BANK INC.",
+      "city": "CITY OF MALAYBALAY",
+      "city_titlecase": "City of Malaybalay",
+      "branch": ""
+    },
+    {
+      "swift_code": "DAVSPHM1",
+      "name": "DAVID GO SECURITIES CORP",
+      "name_titlecase": "David Go Securities CORP",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "DBSHPHM1",
+      "name": "DBP-DAIWA CAPITAL MARKETS PHILIPPINES, INC.",
+      "name_titlecase": "Dbp-daiwa Capital Markets Philippines, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "DSPHPHM1",
+      "name": "DBP-DAIWA CAPITAL MARKETS PHILIPPINES, INC.",
+      "name_titlecase": "Dbp-daiwa Capital Markets Philippines, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "DBSPPHM1",
+      "name": "DBS SECURITIES (PHILS) INC",
+      "name_titlecase": "DBS Securities (phils) INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "DCPHPHM1",
+      "name": "DCPAY PHILIPPINES, INC",
+      "name_titlecase": "Dcpay Philippines, INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "DEUTPHMM",
+      "name": "DEUTSCHE BANK AG",
+      "name_titlecase": "Deutsche BANK Ag",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TWENPHM1",
+      "name": "DEUTSCHE REGIS PARTNERS INC.",
+      "name_titlecase": "Deutsche Regis Partners INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "MGPSPHM1",
+      "name": "DEUTSCHE REGIS PARTNERS, INC.",
+      "name_titlecase": "Deutsche Regis Partners, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "DBPHPHMM",
+      "name": "DEVELOPMENT BANK OF THE PHILIPPINES",
+      "name_titlecase": "Development BANK of the Philippines",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "DHSPPHM1",
+      "name": "DHARMALA INTL. PHILS. INC.",
+      "name_titlecase": "Dharmala Intl. Phils. INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "DIVSPHM1",
+      "name": "DIVERSIFIED SECURITIES INC",
+      "name_titlecase": "Diversified Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "DCDEPHM1",
+      "name": "DUMAGUETE CITY DEVELOPMENT BANK,INC",
+      "name_titlecase": "Dumaguete City Development Bank,inc",
+      "city": "CITY OF DUMAGUETE",
+      "city_titlecase": "City of Dumaguete",
+      "branch": ""
+    },
+    {
+      "swift_code": "DUMTPHM1",
+      "name": "DUNGGANON BANK (A MICROFINANCE RURAL BANK) INC",
+      "name_titlecase": "Dungganon BANK (a Microfinance Rural BANK) INC",
+      "city": "CITY OF BACOLO",
+      "city_titlecase": "City of Bacolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHCSPHM1",
+      "name": "E. CHUA CHIACO SECURITIES INC.",
+      "name_titlecase": "E. Chua Chiaco Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "EWBCPHMM",
+      "name": "EAST WEST BANKING CORPORATION",
+      "name_titlecase": "East West Banking Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHSAPHM1",
+      "name": "EAST WEST BANKING CORPORATION",
+      "name_titlecase": "East West Banking Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "EAWCPHM1",
+      "name": "EAST WEST CAPITAL CORP",
+      "name_titlecase": "East West Capital CORP",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "EAWRPHM2",
+      "name": "EAST WEST RURAL BANK, INC.",
+      "name_titlecase": "East West Rural BANK, INC.",
+      "city": "CITY OF DAVAO",
+      "city_titlecase": "City of Davao",
+      "branch": ""
+    },
+    {
+      "swift_code": "EASDPHM1",
+      "name": "EASTERN SECURITIES DEVELOPMENT CORPORATION",
+      "name_titlecase": "Eastern Securities Development Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "EAGMPHM2",
+      "name": "EASYPAY GLOBAL EMI CORP.",
+      "name_titlecase": "Easypay Global Emi CORP.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ECASPHM2",
+      "name": "ECASHPAY ASIA INC",
+      "name_titlecase": "Ecashpay Asia INC",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "EISEPHM1",
+      "name": "EIB SECURITIES, INC.",
+      "name_titlecase": "Eib Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ENTHPHM1",
+      "name": "ENTERPRISE BANK INC. (A THRIFT BANK)",
+      "name_titlecase": "Enterprise BANK INC. (a Thrift BANK)",
+      "city": "CITY OF LIANGA",
+      "city_titlecase": "City of Lianga",
+      "branch": ""
+    },
+    {
+      "swift_code": "ENRUPHM1",
+      "name": "ENTREPRENEUR RURAL BANK, INC.",
+      "name_titlecase": "Entrepreneur Rural BANK, INC.",
+      "city": "CITY OF SAN PEDRO",
+      "city_titlecase": "City of San Pedro",
+      "branch": ""
+    },
+    {
+      "swift_code": "EQSNPHM1",
+      "name": "EQUICOM SAVINGS BANK, INC.",
+      "name_titlecase": "Equicom Savings BANK, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "EQSPPHM1",
+      "name": "EQUITABLE SECURITIES (PHILS.) INC.",
+      "name_titlecase": "Equitable Securities (phils.) INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "EQUSPHM1",
+      "name": "EQUITIWORLD SECURITIES INC.",
+      "name_titlecase": "Equitiworld Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ESBEPHM1",
+      "name": "EVERGREEN STOCK BROKERAGE AND SECURITIES, INC.",
+      "name_titlecase": "Evergreen Stock Brokerage and Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "YAPSPHM1",
+      "name": "F. YAP SECURITIES INC",
+      "name_titlecase": "F. Yap Securities INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "FRUNPHM1",
+      "name": "FILIDIAN RURAL BANK OF ANTIPOLO,INC",
+      "name_titlecase": "Filidian Rural BANK of Antipolo,inc",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "FINUPHM1",
+      "name": "FINVEST SECURITIES CO INC",
+      "name_titlecase": "Finvest Securities CO INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FRARPHM1",
+      "name": "FIRST AGRO-INDUSTRIAL RURAL BANK, INC. (FAIRBANK)",
+      "name_titlecase": "First Agro-industrial Rural BANK, INC. (fairbank)",
+      "city": "CITY OF BOGO",
+      "city_titlecase": "City of Bogo",
+      "branch": ""
+    },
+    {
+      "swift_code": "FCBKPHMM",
+      "name": "FIRST COMMERCIAL BANK, LTD., MANILA BRANCH",
+      "name_titlecase": "First Commercial BANK, LTD., Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "FIOOPHM1",
+      "name": "FIRST CONSOLIDATED BANK INC.",
+      "name_titlecase": "First Consolidated BANK INC.",
+      "city": "CITY OF TAGBILARAN",
+      "city_titlecase": "City of Tagbilaran",
+      "branch": ""
+    },
+    {
+      "swift_code": "FICEPHM1",
+      "name": "FIRST INTEGRATED CAPITAL SECURITIES, INC.",
+      "name_titlecase": "First Integrated Capital Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FMICPHM1",
+      "name": "FIRST METRO INVESTMENT CORPORATION",
+      "name_titlecase": "First Metro Investment Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FMSOPHM1",
+      "name": "FIRST METRO SECURITIES BROKERAGE CORPORATION",
+      "name_titlecase": "First Metro Securities Brokerage Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "FIOSPHM1",
+      "name": "FIRST ORIENT SECURITIES INC",
+      "name_titlecase": "First Orient Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "FIRRPHM1",
+      "name": "FIRST RESSOURCES MANAGEMENT AND SECURITIES CORPORATION,THE",
+      "name_titlecase": "First Ressources Management and Securities Corporation,the",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FOTRPHM1",
+      "name": "FORTUNE SECURITIES INC.",
+      "name_titlecase": "Fortune Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "FROEPHM1",
+      "name": "FRANCISCO ORTIGAS SECURITIES INC",
+      "name_titlecase": "Francisco Ortigas Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "SERTPHM1",
+      "name": "G AND L SECURITIES CO., INC.",
+      "name_titlecase": "G and L Securities CO., INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "GXCHPHM2",
+      "name": "G-XCHANGE, INC.",
+      "name_titlecase": "G-xchange, INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "TANNPHM1",
+      "name": "G.D. TAN AND CO INC",
+      "name_titlecase": "G.d. Tan and CO INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "GKGSPHM1",
+      "name": "G.K. GOH SECURITIES (PHILIPPINES) INC.",
+      "name_titlecase": "G.k. Goh Securities (philippines) INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "GARKPHM1",
+      "name": "GATEWAY RURAL BANK, INC. (GATEBANK)",
+      "name_titlecase": "Gateway Rural BANK, INC. (gatebank)",
+      "city": "CITY OF MALOLOS",
+      "city_titlecase": "City of Malolos",
+      "branch": ""
+    },
+    {
+      "swift_code": "GEMPPH21",
+      "name": "GE MONEY BANK, INC. (A SAVINGS BANK)",
+      "name_titlecase": "Ge Money BANK, INC. (a Savings BANK)",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "GEGSPHM1",
+      "name": "GENESIS GLOBAL SECURITIES, INC.",
+      "name_titlecase": "Genesis Global Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PCBAPHM10MC",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": "CEBU BRANCH"
+    },
+    {
+      "swift_code": "PCBAPHM10MD",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF DAVAO",
+      "city_titlecase": "City of Davao",
+      "branch": "DAVAO BRANCH"
+    },
+    {
+      "swift_code": "PCBAPHM1",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PCBAPHM10MB",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "DASMARINAS BRANCH"
+    },
+    {
+      "swift_code": "PCBAPHM10MP",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "PORT AREA BRANCH"
+    },
+    {
+      "swift_code": "PCBAPHM10MQ",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": "CUBAO BRANCH"
+    },
+    {
+      "swift_code": "PCBAPHM10MS",
+      "name": "GLOBAL BUSINESS HOLDINGS INC.",
+      "name_titlecase": "Global Business Holdings INC.",
+      "city": "CITY OF SAN JUAN",
+      "city_titlecase": "City of San Juan",
+      "branch": "ORTIGAS BRANCH"
+    },
+    {
+      "swift_code": "GLSTPHM1",
+      "name": "GLOBALINKS SECURITIES AND STOCKS, INC",
+      "name_titlecase": "Globalinks Securities and Stocks, INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "GLTEPHMT",
+      "name": "GLOBE TELECOM, INC.",
+      "name_titlecase": "Globe Telecom, INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "LURRPHM2",
+      "name": "GM BANK OF LUZON, INC. (A RURAL BANK)",
+      "name_titlecase": "Gm BANK of Luzon, INC. (a Rural BANK)",
+      "city": "CITY OF CABANATUAN",
+      "city_titlecase": "City of Cabanatuan",
+      "branch": ""
+    },
+    {
+      "swift_code": "GOLCPHM1",
+      "name": "GOLDSTAR SECURITIES INC",
+      "name_titlecase": "Goldstar Securities INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GOTYPHM2",
+      "name": "GOTYME BANK CORPORATION",
+      "name_titlecase": "Gotyme BANK Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GPNEPHM2",
+      "name": "GPAY NETWORK PH, INC.",
+      "name_titlecase": "Gpay Network PH, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GSFAPHM1",
+      "name": "GSIS FAMILY BANK",
+      "name_titlecase": "GSIS Family BANK",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GRBUPHM1",
+      "name": "GUAGUA RURAL BANK, INC.",
+      "name_titlecase": "Guagua Rural BANK, INC.",
+      "city": "CITY OF ANGELES",
+      "city_titlecase": "City of Angeles",
+      "branch": ""
+    },
+    {
+      "swift_code": "GUISPHM1",
+      "name": "GUILD SECURITIES INC",
+      "name_titlecase": "Guild Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "GUSPPHM1",
+      "name": "GUOCO SECURITIES (PHILS) INC",
+      "name_titlecase": "Guoco Securities (phils) INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BENCPHM1",
+      "name": "H.E. BENNETT SECURITIES INC.",
+      "name_titlecase": "H.e. Bennett Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "HDISPHM1",
+      "name": "HDI SECURITIES INC",
+      "name_titlecase": "Hdi Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "HISHPHM1",
+      "name": "HIGHLAND SECURITIES PHILS. INC.",
+      "name_titlecase": "Highland Securities Phils. INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "HIYCPHM1",
+      "name": "HIYAS BANKING CORPORATION",
+      "name_titlecase": "Hiyas Banking Corporation",
+      "city": "CITY OF SAN JOSE DEL MONTE",
+      "city_titlecase": "City of San Jose del Monte",
+      "branch": ""
+    },
+    {
+      "swift_code": "HBPHPHMM",
+      "name": "HSBC SAVINGS BANK (PHILIPINES) INC.",
+      "name_titlecase": "HSBC Savings BANK (philipines) INC.",
+      "city": "CITY OF MUNTINLUPA",
+      "city_titlecase": "City of Muntinlupa",
+      "branch": ""
+    },
+    {
+      "swift_code": "HNBKPHMM",
+      "name": "HUA NAN COMMERCIAL BANK, LTD. MANILA BRANCH",
+      "name_titlecase": "Hua Nan Commercial BANK, LTD. Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "IREMPHM2",
+      "name": "I-REMIT, INC.",
+      "name_titlecase": "I-remit, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ACKEPHM1",
+      "name": "I. ACKERMAN AND CO INC",
+      "name_titlecase": "I. Ackerman and CO INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "GIMSPHM1",
+      "name": "I.B. GIMENEZ SECURITIES, INC.",
+      "name_titlecase": "I.b. Gimenez Securities, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "IGCSPHM1",
+      "name": "IGC SECURITIES, INC.",
+      "name_titlecase": "Igc Securities, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "IMGAPHM1",
+      "name": "IMPERIAL DE GUZMAN, ABALOS AND CO INC.",
+      "name_titlecase": "Imperial de Guzman, Abalos and CO INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "WICAPHM1",
+      "name": "INDOSUEZ W.I. CARR SECURITIES (PHILIPPINES) INC.",
+      "name_titlecase": "Indosuez W.i. Carr Securities (philippines) INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ICBKPHMM",
+      "name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, MANILA BRANCH",
+      "name_titlecase": "Industrial and Commercial BANK of China Limited, Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "IBKOPHMM",
+      "name": "INDUSTRIAL BANK OF KOREA, MANILA BRANCH",
+      "name_titlecase": "Industrial BANK of Korea, Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "IFIPPHM2",
+      "name": "INFOSERVE INCORPORATED",
+      "name_titlecase": "Infoserve Incorporated",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "INGBPHMM",
+      "name": "ING BANK N.V.",
+      "name_titlecase": "ING BANK N.v.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "IORUPHM1",
+      "name": "INNOVATIVE BANK, INC.  (A RURAL BANK)",
+      "name_titlecase": "Innovative BANK, INC.  (a Rural BANK)",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "ISVBPHM1",
+      "name": "INSULAR SAVERS BANK, INC. (A RURAL BANK)",
+      "name_titlecase": "Insular Savers BANK, INC. (a Rural BANK)",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ITDEPHM2",
+      "name": "INTER-ASIA DEVELOPMENT BANK",
+      "name_titlecase": "Inter-asia Development BANK",
+      "city": "CITY OF TAGAYTAY",
+      "city_titlecase": "City of Tagaytay",
+      "branch": ""
+    },
+    {
+      "swift_code": "INIEPHM1",
+      "name": "INTRA-INVEST SECURITIES INC",
+      "name_titlecase": "Intra-invest Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "INVUPHM1",
+      "name": "INVESTORS SECURITIES INC",
+      "name_titlecase": "Investors Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ISTHPHM1",
+      "name": "ISLA BANK (A THRIFT BANK), INC.",
+      "name_titlecase": "Isla BANK (a Thrift BANK), INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "BARNPHM1",
+      "name": "J.M. BARCELON AND CO INC",
+      "name_titlecase": "J.m. Barcelon and CO INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHASPHS1",
+      "name": "J.P. MORGAN SECURITIES PHILIPPINES INC.",
+      "name_titlecase": "J.P. Morgan Securities Philippines INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "JARUPHM1",
+      "name": "JANIUAY RURAL BANK, INC.",
+      "name_titlecase": "Janiuay Rural BANK, INC.",
+      "city": "CITY OF ILOILO",
+      "city_titlecase": "City of Iloilo",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHASPHMMOBU",
+      "name": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+      "name_titlecase": "Jpmorgan Chase BANK, N.a., Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": "OFFHORE BANKING UNIT"
+    },
+    {
+      "swift_code": "CHASPHMMENQ",
+      "name": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+      "name_titlecase": "Jpmorgan Chase BANK, N.a., Manila Branch",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES"
+    },
+    {
+      "swift_code": "CHASPHMM",
+      "name": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+      "name_titlecase": "Jpmorgan Chase BANK, N.a., Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "KRBFPHM1",
+      "name": "KATIPUNAN BANK (ZN), INC. A RURAL BANK",
+      "name_titlecase": "Katipunan BANK (zn), INC. a Rural BANK",
+      "city": "CITY OF DIPOLOG",
+      "city_titlecase": "City of Dipolog",
+      "branch": ""
+    },
+    {
+      "swift_code": "KACUPHM2",
+      "name": "KATIPUNAN BANKING CORPORATION 'A RURAL BANK'",
+      "name_titlecase": "Katipunan Banking Corporation 'a Rural BANK'",
+      "city": "CITY OF DIPOLOG",
+      "city_titlecase": "City of Dipolog",
+      "branch": ""
+    },
+    {
+      "swift_code": "KOEXPHMM",
+      "name": "KEB HANA BANK",
+      "name_titlecase": "Keb Hana BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "KEYSPHM1",
+      "name": "KEY SECURITIES INC",
+      "name_titlecase": "Key Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "LPCRPHM2",
+      "name": "LAGUNA PRESTIGE BANKING CORPORATION A RURAL BANK",
+      "name_titlecase": "Laguna Prestige Banking Corporation a Rural BANK",
+      "city": "CITY OF CABUYAO",
+      "city_titlecase": "City of Cabuyao",
+      "branch": ""
+    },
+    {
+      "swift_code": "TLBPPHM10MC",
+      "name": "LAND BANK OF THE PHILIPPINES",
+      "name_titlecase": "Land BANK of the Philippines",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "TLBPPHM10M2",
+      "name": "LAND BANK OF THE PHILIPPINES",
+      "name_titlecase": "Land BANK of the Philippines",
+      "city": "CITY OF DAVAO",
+      "city_titlecase": "City of Davao",
+      "branch": ""
+    },
+    {
+      "swift_code": "TLBPPHM10M4",
+      "name": "LAND BANK OF THE PHILIPPINES",
+      "name_titlecase": "Land BANK of the Philippines",
+      "city": "CITY OF GENERAL SANTOS",
+      "city_titlecase": "City of General Santos",
+      "branch": ""
+    },
+    {
+      "swift_code": "TLBPPHM10M3",
+      "name": "LAND BANK OF THE PHILIPPINES",
+      "name_titlecase": "Land BANK of the Philippines",
+      "city": "CITY OF ILOILO",
+      "city_titlecase": "City of Iloilo",
+      "branch": ""
+    },
+    {
+      "swift_code": "TLBPPHMM",
+      "name": "LAND BANK OF THE PHILIPPINES",
+      "name_titlecase": "Land BANK of the Philippines",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TLBPPHM10MQ",
+      "name": "LAND BANK OF THE PHILIPPINES",
+      "name_titlecase": "Land BANK of the Philippines",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "LARCPHM1",
+      "name": "LARRGO SECURITIES CO INC",
+      "name_titlecase": "Larrgo Securities CO INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "LESIPHM1",
+      "name": "LEGAZPI SAVINGS BANK",
+      "name_titlecase": "Legazpi Savings BANK",
+      "city": "City of Legazpi",
+      "city_titlecase": "City of Legazpi",
+      "branch": ""
+    },
+    {
+      "swift_code": "LIRAPHM2",
+      "name": "LIFEBANK-A RURAL BANK",
+      "name_titlecase": "Lifebank-a Rural BANK",
+      "city": "CITY OF ILOILO",
+      "city_titlecase": "City of Iloilo",
+      "branch": ""
+    },
+    {
+      "swift_code": "LIRRPHM1",
+      "name": "LIMCOMA RURAL BANK INC.",
+      "name_titlecase": "Limcoma Rural BANK INC.",
+      "city": "CITY OF BATANGAS",
+      "city_titlecase": "City of Batangas",
+      "branch": ""
+    },
+    {
+      "swift_code": "LIRUPHM1",
+      "name": "LIPA BANK INC. -A RURAL BANK",
+      "name_titlecase": "Lipa BANK INC. -a Rural BANK",
+      "city": "CITY OF LIPA",
+      "city_titlecase": "City of Lipa",
+      "branch": ""
+    },
+    {
+      "swift_code": "LITSPHM1",
+      "name": "LITONJUA SECURITIES INC",
+      "name_titlecase": "Litonjua Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "LOLPPHM2",
+      "name": "LOLC BANK PHILIPPINES INC",
+      "name_titlecase": "Lolc BANK Philippines INC",
+      "city": "CITY OF TANAUAN",
+      "city_titlecase": "City of Tanauan",
+      "branch": ""
+    },
+    {
+      "swift_code": "LOLLPHM1",
+      "name": "LOPEZ, LOCSIN, LEDESMA AND CO INC",
+      "name_titlecase": "Lopez, Locsin, Ledesma and CO INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "LUCSPHM1",
+      "name": "LUCKY SECURITIES INC",
+      "name_titlecase": "Lucky Securities INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "LFSHPHM2",
+      "name": "LULU FINANCIAL SERVICES (PHILS) INC",
+      "name_titlecase": "Lulu Financial Services (phils) INC",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "LUYSPHM1",
+      "name": "LUY'S SECURITIES CO INC",
+      "name_titlecase": "Luy's Securities CO INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "LUDVPHM1",
+      "name": "LUZON DEVELOPMENT BANK",
+      "name_titlecase": "Luzon Development BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "INBLPHM1",
+      "name": "MACQUARIE CAPITAL SECURITIES (PHILIPPINES) INC.",
+      "name_titlecase": "Macquarie Capital Securities (philippines) INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "MRLCPHM2",
+      "name": "MACTAN RURAL BANK (LAPU-LAPU CITY) INC",
+      "name_titlecase": "Mactan Rural BANK (lapu-lapu City) INC",
+      "city": "CITY OF LAPU-LAPU",
+      "city_titlecase": "City of Lapu-lapu",
+      "branch": ""
+    },
+    {
+      "swift_code": "MKDCPHM2",
+      "name": "MAKILING DEVELOPMENT BANK CORPORATION",
+      "name_titlecase": "Makiling Development BANK Corporation",
+      "city": "CITY OF CALAMBA",
+      "city_titlecase": "City of Calamba",
+      "branch": ""
+    },
+    {
+      "swift_code": "MLRUPHM2",
+      "name": "MALARAYAT RURAL BANK, INC.",
+      "name_titlecase": "Malarayat Rural BANK, INC.",
+      "city": "CITY OF LIPA",
+      "city_titlecase": "City of Lipa",
+      "branch": ""
+    },
+    {
+      "swift_code": "MAARPHM1",
+      "name": "MALAYAN BANK SAVINGS AND MORTGAGE BANK",
+      "name_titlecase": "Malayan BANK Savings and Mortgage BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MANUPHM1",
+      "name": "MANDARIN SECURITIES CORP",
+      "name_titlecase": "Mandarin Securities CORP",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "MABCPHM1",
+      "name": "MANILA BANKING CORP.",
+      "name_titlecase": "Manila Banking CORP.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MRALPHMM",
+      "name": "MANILA ELECTRIC COMPANY",
+      "name_titlecase": "Manila Electric Company",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUODPHM1",
+      "name": "MANOR BANK - A RURAL BANK CORP",
+      "name_titlecase": "Manor BANK - a Rural BANK CORP",
+      "city": "CITY OF BATANGAS",
+      "city_titlecase": "City of Batangas",
+      "branch": ""
+    },
+    {
+      "swift_code": "MAYCPHM2",
+      "name": "MARCOPAY INC.",
+      "name_titlecase": "Marcopay INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "MAIEPHM1",
+      "name": "MARIAN SECURITIES INC",
+      "name_titlecase": "Marian Securities INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MAKCPHM1",
+      "name": "MARK SECURITIES CORP",
+      "name_titlecase": "Mark Securities CORP",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MYYAPHM2",
+      "name": "MAYA BANK, INC.",
+      "name_titlecase": "Maya BANK, INC.",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "ATSCPHM1",
+      "name": "MAYBANK ATR KIM ENG SECURITIES, INC.",
+      "name_titlecase": "Maybank Atr Kim Eng Securities, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "KMESPHM1",
+      "name": "MAYBANK ATR KIM ENG SECURITIES, INC.",
+      "name_titlecase": "Maybank Atr Kim Eng Securities, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PESPPHM1",
+      "name": "MAYBANK ATR KIM ENG SECURITIES, INC.",
+      "name_titlecase": "Maybank Atr Kim Eng Securities, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "RPBAPHM1",
+      "name": "MAYBANK PHILIPPINES, INC",
+      "name_titlecase": "Maybank Philippines, INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "MBBEPHMM",
+      "name": "MAYBANK PHILIPPINES, INC",
+      "name_titlecase": "Maybank Philippines, INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "MDRSPHM1",
+      "name": "MDR SECURITIES, INC",
+      "name_titlecase": "Mdr Securities, INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ICBCPHMM",
+      "name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., MANILA BRANCH",
+      "name_titlecase": "Mega International Commercial BANK CO., LTD., Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MCCTPHMM",
+      "name": "MEGAWIDE CONSTRUCTION CORPORATION",
+      "name_titlecase": "Megawide Construction Corporation",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "MERUPHM1",
+      "name": "MERCANTILE SECURITIES CORP",
+      "name_titlecase": "Mercantile Securities CORP",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MSLSPHM1",
+      "name": "MERCHANTS SAVINGS AND LOAN ASSOCIATION, INC.",
+      "name_titlecase": "Merchants Savings and Loan Association, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MERTPHM1",
+      "name": "MERIDIAN SECURITIES INC",
+      "name_titlecase": "Meridian Securities INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "MLSPPHM1",
+      "name": "MERRILL LYNCH SECURITIES PHILIPPINES INC.",
+      "name_titlecase": "Merrill Lynch Securities Philippines INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MEOPPHM2",
+      "name": "METRO SOUTH COOPERATIVE BANK",
+      "name_titlecase": "Metro South Cooperative BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MCCEPHM1",
+      "name": "METROBANK CARD CORPORATION (A FINANCE CO.)",
+      "name_titlecase": "Metrobank Card Corporation (a Finance CO.)",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MBTCPHMM",
+      "name": "METROPOLITAN BANK AND TRUST CO.",
+      "name_titlecase": "Metropolitan BANK and Trust CO.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MIMVPHM1",
+      "name": "MICROFINANCE MAXIMUM SAVINGS BANK,INC.",
+      "name_titlecase": "Microfinance Maximum Savings Bank,inc.",
+      "city": "CITY OF CALAPAN",
+      "city_titlecase": "City of Calapan",
+      "branch": ""
+    },
+    {
+      "swift_code": "CUATPHM1",
+      "name": "MINDANAO CONSOLIDATED COOPERATIVE BANK",
+      "name_titlecase": "Mindanao Consolidated Cooperative BANK",
+      "city": "CITY OF CAGAYAN DE ORO",
+      "city_titlecase": "City of Cagayan de Oro",
+      "branch": ""
+    },
+    {
+      "swift_code": "MIOCPHM1",
+      "name": "MINDANAO CONSOLIDATED COOPERATIVE BANK",
+      "name_titlecase": "Mindanao Consolidated Cooperative BANK",
+      "city": "CITY OF CAGAYAN DE ORO",
+      "city_titlecase": "City of Cagayan de Oro",
+      "branch": ""
+    },
+    {
+      "swift_code": "MHCBPHMM",
+      "name": "MIZUHO BANK, LTD., MANILA BRANCH",
+      "name_titlecase": "MIZUHO BANK, LTD., Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MOMLPHM2",
+      "name": "MONEY MALL RURAL BANK, INC.",
+      "name_titlecase": "Money Mall Rural BANK, INC.",
+      "city": "CITY OF DAVAO",
+      "city_titlecase": "City of Davao",
+      "branch": ""
+    },
+    {
+      "swift_code": "MOPSPHM1",
+      "name": "MOUNT PEAK SECURITIES INC",
+      "name_titlecase": "Mount Peak Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "BOTKPHMM",
+      "name": "MUFG BANK, LTD., MANILA BRANCH",
+      "name_titlecase": "MUFG BANK, LTD., Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": "MANILA BRANCH"
+    },
+    {
+      "swift_code": "MUIAPHM1",
+      "name": "MULTINATIONAL INVESTMENT BANCORPORATION",
+      "name_titlecase": "Multinational Investment Bancorporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "MURLPHM1",
+      "name": "MUNICIPAL RURAL BANK OF LIBMANAN (CS), INC.",
+      "name_titlecase": "Municipal Rural BANK of Libmanan (cs), INC.",
+      "city": "CITY OF LIBMANAN",
+      "city_titlecase": "City of Libmanan",
+      "branch": ""
+    },
+    {
+      "swift_code": "MVRSPHM2",
+      "name": "MVSM BANK (A RURAL BANK SINCE 1953)",
+      "name_titlecase": "Mvsm BANK (a Rural BANK Since 1953)",
+      "city": "CITY OF MARIKINA",
+      "city_titlecase": "City of Marikina",
+      "branch": ""
+    },
+    {
+      "swift_code": "NESNPHMN",
+      "name": "NESTLE BUSINESS SERVICES AOA INC",
+      "name_titlecase": "Nestle Business Services Aoa INC",
+      "city": "CITY OF MEYCAUAYAN",
+      "city_titlecase": "City of Meycauayan",
+      "branch": ""
+    },
+    {
+      "swift_code": "NRSLPHM1",
+      "name": "NEW RURAL BANK OF SAN LEONARDO (NE) INC.",
+      "name_titlecase": "New Rural BANK of San Leonardo (ne) INC.",
+      "city": "CITY OF CABANATUAN",
+      "city_titlecase": "City of Cabanatuan",
+      "branch": ""
+    },
+    {
+      "swift_code": "NEWCPHM1",
+      "name": "NEW WORLD SECURITIES CO INC",
+      "name_titlecase": "New World Securities CO INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ASDVPHM1",
+      "name": "NEXTGENESIS CORPORATION",
+      "name_titlecase": "Nextgenesis Corporation",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "NIESPHM1",
+      "name": "NIEVES SANCHEZ INC.",
+      "name_titlecase": "Nieves Sanchez INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "NODVPHM1",
+      "name": "NORTHPOINT DEVELOPMENT BANK, INC.",
+      "name_titlecase": "Northpoint Development BANK, INC.",
+      "city": "CITY OF SAN PEDRO",
+      "city_titlecase": "City of San Pedro",
+      "branch": ""
+    },
+    {
+      "swift_code": "OSPNPHM1",
+      "name": "OCBC SECURITIES (PHILIPPINES) INC.",
+      "name_titlecase": "Ocbc Securities (philippines) INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "OMNPPHM2",
+      "name": "OMNIPAY, INC.",
+      "name_titlecase": "Omnipay, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "OPDVPHM1",
+      "name": "OPTIMUM DEVELOPEMENT BANK. INC",
+      "name_titlecase": "Optimum Developement BANK. INC",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "OPTMPHM1",
+      "name": "OPTIMUM SECURITIES CORP.",
+      "name_titlecase": "Optimum Securities CORP.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ORIEPHM1",
+      "name": "ORIENTRADE SECURITIES INC.",
+      "name_titlecase": "Orientrade Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "OMLFPHM1",
+      "name": "ORIX METRO LEASING AND FINANCE CORPORATION",
+      "name_titlecase": "Orix Metro Leasing and Finance Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "ORMQPHM1",
+      "name": "ORMON BANK RB OF MULANAY QUEZON INC.",
+      "name_titlecase": "Ormon BANK Rb of Mulanay Quezon INC.",
+      "city": "CITY OF SAN PABLO",
+      "city_titlecase": "City of San Pablo",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHSVPHM1",
+      "name": "OVERSEAS FILIPINO BANK, INC",
+      "name_titlecase": "Overseas Filipino BANK, INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "OUBKPHM1",
+      "name": "OVERSEAS UNION BANK LIMITED, MANILA BRANCH",
+      "name_titlecase": "Overseas Union BANK Limited, Manila Branch",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "OWNOPHM2",
+      "name": "OWN BANK THE RURAL BANK OF CAVITE CITY INC.",
+      "name_titlecase": "Own BANK the Rural BANK of Cavite City INC.",
+      "city": "CITY OF CAVITE",
+      "city_titlecase": "City of Cavite",
+      "branch": ""
+    },
+    {
+      "swift_code": "PASVPHM1",
+      "name": "PACIFIC ACE SAVINGS BANK",
+      "name_titlecase": "Pacific Ace Savings BANK",
+      "city": "CITY OF OLONGAPO",
+      "city_titlecase": "City of Olongapo",
+      "branch": ""
+    },
+    {
+      "swift_code": "PATPPHM1",
+      "name": "PACIFIC ASIAN ATLANTIC CAPITAL INC.",
+      "name_titlecase": "Pacific Asian Atlantic Capital INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PANIPHM1",
+      "name": "PAN ASIA SECURITIES CORPORATION",
+      "name_titlecase": "Pan Asia Securities Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PAPSPHM1",
+      "name": "PAPA SECURITIES CORP.",
+      "name_titlecase": "Papa Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PRTOPHM1",
+      "name": "PARTNER RURAL BANK (COTABATO), INC.",
+      "name_titlecase": "Partner Rural BANK (cotabato), INC.",
+      "city": "CITY OF KIDAPAWAN",
+      "city_titlecase": "City of Kidapawan",
+      "branch": ""
+    },
+    {
+      "swift_code": "PAPHPHM1",
+      "name": "PAYMAYA PHILIPPINES INC.",
+      "name_titlecase": "Paymaya Philippines INC.",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "PAEYPHM2",
+      "name": "PAYMONGO PAYMENTS, INC.",
+      "name_titlecase": "Paymongo Payments, INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "PAHCPHM2",
+      "name": "PAYNAMICS TECHNOLOGIES INC",
+      "name_titlecase": "Paynamics Technologies INC",
+      "city": "MAKATI CITY",
+      "city_titlecase": "Makati City",
+      "branch": ""
+    },
+    {
+      "swift_code": "PSBOPHM1",
+      "name": "PCCI SECURITIES BROKERS CORPORATION",
+      "name_titlecase": "Pcci Securities Brokers Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PEPDPHM1",
+      "name": "PENBANK A PRIVATE DEVELOPMENT BANK",
+      "name_titlecase": "Penbank a Private Development BANK",
+      "city": "CITY OF GENERAL SANTOS",
+      "city_titlecase": "City of General Santos",
+      "branch": ""
+    },
+    {
+      "swift_code": "CPHIPHMM",
+      "name": "PHILIPPINE BANK OF COMMUNICATIONS",
+      "name_titlecase": "Philippine BANK of Communications",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PPBUPHMM",
+      "name": "PHILIPPINE BUSINESS BANK",
+      "name_titlecase": "Philippine Business BANK",
+      "city": "CITY OF CALOOCAN",
+      "city_titlecase": "City of Caloocan",
+      "branch": ""
+    },
+    {
+      "swift_code": "PCHCPHM1",
+      "name": "PHILIPPINE CLEARING HOUSE CORPORATION",
+      "name_titlecase": "Philippine Clearing House Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCCPHM1",
+      "name": "PHILIPPINE COMMERCIAL CAPITAL, INC.",
+      "name_titlecase": "Philippine Commercial Capital, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHCDPHM1",
+      "name": "PHILIPPINE DEPOSITORY AND TRUST CORP",
+      "name_titlecase": "Philippine Depository and Trust CORP",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PDTUPHM1",
+      "name": "PHILIPPINE DEPOSITORY AND TRUST CORP. (CUSTODY)",
+      "name_titlecase": "Philippine Depository and Trust CORP. (custody)",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PDTDPHM1",
+      "name": "PHILIPPINE DEPOSITORY AND TRUST CORP. (DEPOSITORY)",
+      "name_titlecase": "Philippine Depository and Trust CORP. (depository)",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PDTCPHM1",
+      "name": "PHILIPPINE DEPOSITORY AND TRUST CORPORATION",
+      "name_titlecase": "Philippine Depository and Trust Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PDAXPHM2",
+      "name": "PHILIPPINE DIGITAL ASSET EXCHANGE, INC. (PDAX)",
+      "name_titlecase": "Philippine Digital Asset Exchange, INC. (pdax)",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "PEQPPHM1",
+      "name": "PHILIPPINE EQUITY PARTNERS INC.",
+      "name_titlecase": "Philippine Equity Partners INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PNBMPHMM",
+      "name": "PHILIPPINE NATIONAL BANK",
+      "name_titlecase": "Philippine National BANK",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PNBMPHMMTOD",
+      "name": "PHILIPPINE NATIONAL BANK",
+      "name_titlecase": "Philippine National BANK",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": "TREASURY OPERATIONS DIVISION"
+    },
+    {
+      "swift_code": "PPOSPHM1",
+      "name": "PHILIPPINE POSTAL CORPORATION",
+      "name_titlecase": "Philippine Postal Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHSBPHMM",
+      "name": "PHILIPPINE SAVINGS BANK",
+      "name_titlecase": "Philippine Savings BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "XPHSPHM1",
+      "name": "PHILIPPINE STOCK EXCHANGE, INC.",
+      "name_titlecase": "Philippine Stock Exchange, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHVBPHMM",
+      "name": "PHILIPPINE VETERANS BANK",
+      "name_titlecase": "Philippine Veterans BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHTBPHMM",
+      "name": "PHILTRUST BANK (PHILIPPINE TRUST COMPANY)",
+      "name_titlecase": "Philtrust BANK (philippine Trust Company)",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PIEIPHM1",
+      "name": "PIERCE INTERLINK SEC. INC.",
+      "name_titlecase": "Pierce Interlink Sec. INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PRNPPHM1",
+      "name": "PLANBANK RURAL BANK OF CANLUBANG PLANTERS, INC.",
+      "name_titlecase": "Planbank Rural BANK of Canlubang Planters, INC.",
+      "city": "CITY OF CALAMBA",
+      "city_titlecase": "City of Calamba",
+      "branch": ""
+    },
+    {
+      "swift_code": "PLAIPHM1",
+      "name": "PLATINUM SECURITIES INC.",
+      "name_titlecase": "Platinum Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PNSAPHM1",
+      "name": "PNB SAVINGS BANK",
+      "name_titlecase": "PNB Savings BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PNBBPHM1",
+      "name": "PNB SECURITIES INC.",
+      "name_titlecase": "PNB Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PPSFPHM2",
+      "name": "PPS-PEPP FINANCIAL SERVICES CORPORATION",
+      "name_titlecase": "Pps-pepp Financial Services Corporation",
+      "city": "CITY OF PUERTO PRINCESA",
+      "city_titlecase": "City of Puerto Princesa",
+      "branch": ""
+    },
+    {
+      "swift_code": "PRDEPHM1",
+      "name": "PREMIERE DEVELOPMENT BANK",
+      "name_titlecase": "Premiere Development BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PREMPHM1",
+      "name": "PREMIUM SECURITIES, INC.",
+      "name_titlecase": "Premium Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PRBPPH21",
+      "name": "PRIME MEDIA HOLDINGS, INC.",
+      "name_titlecase": "Prime Media Holdings, INC.",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "PRBPPHM1",
+      "name": "PRIME MEDIA HOLDINGS, INC.",
+      "name_titlecase": "Prime Media Holdings, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PROTPHM1",
+      "name": "PROBITY SECURITIES MANAGEMENT CORP.",
+      "name_titlecase": "Probity Securities Management CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PSCOPHM1",
+      "name": "PRODUCERS SAVINGS BANK CORPORATION",
+      "name_titlecase": "Producers Savings BANK Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "POUAPHM2",
+      "name": "PROVIDENCE RURAL BANK INC.",
+      "name_titlecase": "Providence Rural BANK INC.",
+      "city": "CITY OF TUGUEGARAO",
+      "city_titlecase": "City of Tuguegarao",
+      "branch": ""
+    },
+    {
+      "swift_code": "BHFUPHM1",
+      "name": "PROVIDENT FUND OFFICE (BSP-PFO)",
+      "name_titlecase": "Provident Fund Office (bsp-pfo)",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "DANIPHM1",
+      "name": "PT BANK DAGANG NASIONAL INDONESIA",
+      "name_titlecase": "Pt BANK Dagang Nasional Indonesia",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "QUISPHM1",
+      "name": "QUALITY INVESTMENT AND SECURITIES CORP.",
+      "name_titlecase": "Quality Investment and Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "QCDFPHM1",
+      "name": "QUEEN CITY DEVELOPMENT BANK",
+      "name_titlecase": "Queen City Development BANK",
+      "city": "CITY OF ILOILO",
+      "city_titlecase": "City of Iloilo",
+      "branch": ""
+    },
+    {
+      "swift_code": "QCRIPHM1",
+      "name": "QUEZON CAPITAL RURAL BANK, INCORPORATED",
+      "name_titlecase": "Quezon Capital Rural BANK, Incorporated",
+      "city": "CITY OF LUCENA",
+      "city_titlecase": "City of Lucena",
+      "branch": ""
+    },
+    {
+      "swift_code": "QWBSPHM2",
+      "name": "QWIKWIRE BILLING SYSTEMS INC",
+      "name_titlecase": "Qwikwire Billing Systems INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "NUBLPHM1",
+      "name": "R. NUBLA SECURITIES INC.",
+      "name_titlecase": "R. Nubla Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "LIMSPHM1",
+      "name": "R.S. LIM AND CO. INC.",
+      "name_titlecase": "R.s. Lim and CO. INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "RARLPHM1",
+      "name": "RANG-AY BANK (A RURAL BANK), INC.",
+      "name_titlecase": "Rang-ay BANK (a Rural BANK), INC.",
+      "city": "CITY OF SAN FERNANDO",
+      "city_titlecase": "City of San Fernando",
+      "branch": ""
+    },
+    {
+      "swift_code": "RBRUPHM2",
+      "name": "RBT BANK, INC., A RURAL BANK",
+      "name_titlecase": "Rbt BANK, INC., a Rural BANK",
+      "city": "CITY OF CAGAYAN DE ORO",
+      "city_titlecase": "City of Cagayan de Oro",
+      "branch": ""
+    },
+    {
+      "swift_code": "RCCOPHM1",
+      "name": "RCBC CAPITAL CORPORATION",
+      "name_titlecase": "RCBC Capital Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "RCSAPHM1",
+      "name": "RCBC SAVINGS BANK, INC.",
+      "name_titlecase": "RCBC Savings BANK, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "REGIPHM1",
+      "name": "REGINA CAPITAL DEVELOPMENT CORP.",
+      "name_titlecase": "Regina Capital Development CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "RFCAPHM1",
+      "name": "RFM CAPITAL LIMITED",
+      "name_titlecase": "Rfm Capital Limited",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "RCBCPH21",
+      "name": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "name_titlecase": "Rizal Commercial Banking Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": "FOREIGN CURRENCY DEPOSIT UNIT - FCDU"
+    },
+    {
+      "swift_code": "RCBCPHMM",
+      "name": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "name_titlecase": "Rizal Commercial Banking Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PHIIPHM1",
+      "name": "ROBINSONS BANK CORPORATION",
+      "name_titlecase": "Robinsons BANK Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ROBPPHMQ",
+      "name": "ROBINSONS BANK CORPORATION",
+      "name_titlecase": "Robinsons BANK Corporation",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "RTGCPHM1",
+      "name": "RTG AND CO. INC.",
+      "name_titlecase": "Rtg and CO. INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUATPHM1",
+      "name": "RURAL BANK OF ATIMONAN, INC.",
+      "name_titlecase": "Rural BANK of Atimonan, INC.",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUBCPHM2",
+      "name": "RURAL BANK OF BACOLOD CITY, INC.",
+      "name_titlecase": "Rural BANK of Bacolod City, INC.",
+      "city": "CITY OF BACOLO",
+      "city_titlecase": "City of Bacolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUBUPHM2",
+      "name": "RURAL BANK OF BAUANG INC",
+      "name_titlecase": "Rural BANK of Bauang INC",
+      "city": "CITY OF SAN FERNANDO",
+      "city_titlecase": "City of San Fernando",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUBYPHM2",
+      "name": "RURAL BANK OF BAY, INC.",
+      "name_titlecase": "Rural BANK of Bay, INC.",
+      "city": "CITY OF SAN PABLO",
+      "city_titlecase": "City of San Pablo",
+      "branch": ""
+    },
+    {
+      "swift_code": "RBCYPHM1",
+      "name": "RURAL BANK OF CAUAYAN INC.",
+      "name_titlecase": "Rural BANK of Cauayan INC.",
+      "city": "CITY OF CAUAYAN",
+      "city_titlecase": "City of Cauayan",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUDIPHM1",
+      "name": "RURAL BANK OF DIGOS, INC",
+      "name_titlecase": "Rural BANK of Digos, INC",
+      "city": "CITY OF DIGOS",
+      "city_titlecase": "City of Digos",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUGUPHM1",
+      "name": "RURAL BANK OF GUINOBATAN, INC.",
+      "name_titlecase": "Rural BANK of Guinobatan, INC.",
+      "city": "GUINOBATAN",
+      "city_titlecase": "Guinobatan",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUHLPHM2",
+      "name": "RURAL BANK OF HILONGOS (LEYTE), INC",
+      "name_titlecase": "Rural BANK of Hilongos (leyte), INC",
+      "city": "CITY OF TACLOBAN",
+      "city_titlecase": "City of Tacloban",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUIEPHM2",
+      "name": "RURAL BANK OF ITOGON (BENGUET), INC",
+      "name_titlecase": "Rural BANK of Itogon (benguet), INC",
+      "city": "CITY OF BAGUIO",
+      "city_titlecase": "City of Baguio",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUJAPHM1",
+      "name": "RURAL BANK OF JAEN, INC.",
+      "name_titlecase": "Rural BANK of Jaen, INC.",
+      "city": "CITY OF GAPAN",
+      "city_titlecase": "City of Gapan",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUKSPHM1",
+      "name": "RURAL BANK OF KIAMBA (SARANGANI) INC.",
+      "name_titlecase": "Rural BANK of Kiamba (sarangani) INC.",
+      "city": "CITY OF KIAMBA",
+      "city_titlecase": "City of Kiamba",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUKBPHM1",
+      "name": "RURAL BANK OF KIBAWE (BUKIDNON),INC",
+      "name_titlecase": "Rural BANK of Kibawe (bukidnon),inc",
+      "city": "CITY OF VALENCIA",
+      "city_titlecase": "City of Valencia",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUPZPHM2",
+      "name": "RURAL BANK OF LA PAZ, INC.",
+      "name_titlecase": "Rural BANK of la Paz, INC.",
+      "city": "CITY OF TARLAC",
+      "city_titlecase": "City of Tarlac",
+      "branch": ""
+    },
+    {
+      "swift_code": "RLSUPHM2",
+      "name": "RURAL BANK OF LANUZA (SURIGAO DEL SUR), INC.",
+      "name_titlecase": "Rural BANK of Lanuza (surigao del Sur), INC.",
+      "city": "CITY OF BISLIG",
+      "city_titlecase": "City of Bislig",
+      "branch": ""
+    },
+    {
+      "swift_code": "RLSKPHM1",
+      "name": "RURAL BANK OF LEBAK (SULTAN KUDARAT) INC.",
+      "name_titlecase": "Rural BANK of Lebak (sultan Kudarat) INC.",
+      "city": "CITY OF TACURONG",
+      "city_titlecase": "City of Tacurong",
+      "branch": ""
+    },
+    {
+      "swift_code": "LILOPHM1",
+      "name": "RURAL BANK OF LILOY (ZN), INC",
+      "name_titlecase": "Rural BANK of Liloy (zn), INC",
+      "city": "CITY OF DIPOLOG",
+      "city_titlecase": "City of Dipolog",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUMAPHM1",
+      "name": "RURAL BANK OF MABALACAT, INC.",
+      "name_titlecase": "Rural BANK of Mabalacat, INC.",
+      "city": "CITY OF MABALACAT",
+      "city_titlecase": "City of Mabalacat",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUMNPHM1",
+      "name": "RURAL BANK OF MANGALDAN, INC.",
+      "name_titlecase": "Rural BANK of Mangaldan, INC.",
+      "city": "CITY OF URDANETA",
+      "city_titlecase": "City of Urdaneta",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUMIPHM1",
+      "name": "RURAL BANK OF MIAGAO (ILOILO), INC.",
+      "name_titlecase": "Rural BANK of Miagao (iloilo), INC.",
+      "city": "CITY OF ILOILO",
+      "city_titlecase": "City of Iloilo",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUMDPHM1",
+      "name": "RURAL BANK OF MIDSAYAP, INC.",
+      "name_titlecase": "Rural BANK of Midsayap, INC.",
+      "city": "CITY OF KIDAPAWAN",
+      "city_titlecase": "City of Kidapawan",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUMTPHM2",
+      "name": "RURAL BANK OF MONTALBAN, INC.",
+      "name_titlecase": "Rural BANK of Montalban, INC.",
+      "city": "CITY OF ANTIPOLO",
+      "city_titlecase": "City of Antipolo",
+      "branch": ""
+    },
+    {
+      "swift_code": "RNWAPHM1",
+      "name": "RURAL BANK OF NEW WASHINGTON (AKLAN) INC.",
+      "name_titlecase": "Rural BANK of New Washington (aklan) INC.",
+      "city": "NEW WASHINGTON",
+      "city_titlecase": "New Washington",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUPAPHM1",
+      "name": "RURAL BANK OF PAGBILAO INC.",
+      "name_titlecase": "Rural BANK of Pagbilao INC.",
+      "city": "CITY OF LUCENA",
+      "city_titlecase": "City of Lucena",
+      "branch": ""
+    },
+    {
+      "swift_code": "RPMOPHM1",
+      "name": "RURAL BANK OF PANA-ON (MIS. OCC.) INC.",
+      "name_titlecase": "Rural BANK of Pana-on (mis. Occ.) INC.",
+      "city": "CITY OF OZAMIZ",
+      "city_titlecase": "City of Ozamiz",
+      "branch": ""
+    },
+    {
+      "swift_code": "RPBUPHM1",
+      "name": "RURAL BANK OF PANDI (BULACAN), INC.",
+      "name_titlecase": "Rural BANK of Pandi (bulacan), INC.",
+      "city": "PANDI",
+      "city_titlecase": "Pandi",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUPPPHM2",
+      "name": "RURAL BANK OF PORAC (PAMP), INC.",
+      "name_titlecase": "Rural BANK of Porac (pamp), INC.",
+      "city": "CITY OF ANGELES",
+      "city_titlecase": "City of Angeles",
+      "branch": ""
+    },
+    {
+      "swift_code": "RURUPHM2",
+      "name": "RURAL BANK OF ROSARIO (LA UNION)INC",
+      "name_titlecase": "Rural BANK of Rosario (la Union)inc",
+      "city": "CITY OF SAN FERNANDO",
+      "city_titlecase": "City of San Fernando",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUSYPHM2",
+      "name": "RURAL BANK OF SAGAY, INC.",
+      "name_titlecase": "Rural BANK of Sagay, INC.",
+      "city": "CITY OF SAGAY",
+      "city_titlecase": "City of Sagay",
+      "branch": ""
+    },
+    {
+      "swift_code": "RSJCPHM1",
+      "name": "RURAL BANK OF SAN JOSE (CAMARINES SUR), INC.",
+      "name_titlecase": "Rural BANK of San Jose (camarines Sur), INC.",
+      "city": "CITY OF SAN ANTONIO",
+      "city_titlecase": "City of San Antonio",
+      "branch": ""
+    },
+    {
+      "swift_code": "RSLSPHM1",
+      "name": "RURAL BANK OF SAN LUIS (BATANGAS),",
+      "name_titlecase": "Rural BANK of San Luis (batangas),",
+      "city": "CITY OF ANGELES",
+      "city_titlecase": "City of Angeles",
+      "branch": ""
+    },
+    {
+      "swift_code": "RSMSPHM2",
+      "name": "RURAL BANK OF SAN MATEO (ISABELA) INC",
+      "name_titlecase": "Rural BANK of San Mateo (isabela) INC",
+      "city": "CITY OF TUGUEGARAO",
+      "city_titlecase": "City of Tuguegarao",
+      "branch": ""
+    },
+    {
+      "swift_code": "RSNAPHM2",
+      "name": "RURAL BANK OF SAN NARCISO, INC.",
+      "name_titlecase": "Rural BANK of San Narciso, INC.",
+      "city": "ZAMBALES",
+      "city_titlecase": "Zambales",
+      "branch": ""
+    },
+    {
+      "swift_code": "RSMCPHM2",
+      "name": "RURAL BANK OF SANCHEZ MIRA CAGAYAN INC.",
+      "name_titlecase": "Rural BANK of Sanchez Mira Cagayan INC.",
+      "city": "CITY OF TUGUEGARAO",
+      "city_titlecase": "City of Tuguegarao",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUSTPHM2",
+      "name": "RURAL BANK OF SILAY CITY, INC.",
+      "name_titlecase": "Rural BANK of Silay City, INC.",
+      "city": "SILAY CITY",
+      "city_titlecase": "Silay City",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUSNPHM2",
+      "name": "RURAL BANK OF SOLANO (N.V.),INC.",
+      "name_titlecase": "Rural BANK of Solano (n.v.),inc.",
+      "city": "CITY OF SOLANO",
+      "city_titlecase": "City of Solano",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUSGPHM1",
+      "name": "RURAL BANK OF STA. IGNACIA, INC.",
+      "name_titlecase": "Rural BANK of Sta. Ignacia, INC.",
+      "city": "CITY OF TARLAC",
+      "city_titlecase": "City of Tarlac",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUTCPHM1",
+      "name": "RURAL BANK OF TANGUB CITY INC.",
+      "name_titlecase": "Rural BANK of Tangub City INC.",
+      "city": "CITY OF TANGUB",
+      "city_titlecase": "City of Tangub",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUTNPHM1",
+      "name": "RURAL BANK OF TANJAY, INC.",
+      "name_titlecase": "Rural BANK of Tanjay, INC.",
+      "city": "CITY OF TANJAY",
+      "city_titlecase": "City of Tanjay",
+      "branch": ""
+    },
+    {
+      "swift_code": "SJROPHM1",
+      "name": "S.J. ROXAS AND COMPANY, INC.",
+      "name_titlecase": "S.j. Roxas and Company, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "PUBLPHM1",
+      "name": "SALISBURY BKT SECURITIES CORPORATION (FORMERLY: PUBLIC SECURITIES CORPORATION)",
+      "name_titlecase": "Salisbury Bkt Securities Corporation (formerly: Public Securities Corporation)",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SECTPHM15B1",
+      "name": "SAMSUNG ELECTRONICS PHILIPPINES CORP.",
+      "name_titlecase": "Samsung Electronics Philippines CORP.",
+      "city": "CITY OF CALAMBA",
+      "city_titlecase": "City of Calamba",
+      "branch": "SEPHIL"
+    },
+    {
+      "swift_code": "SECTPHM1",
+      "name": "SAMSUNG ELECTRONICS PHILIPPINES CORP.",
+      "name_titlecase": "Samsung Electronics Philippines CORP.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SECTPHM15B0",
+      "name": "SAMSUNG ELECTRONICS PHILIPPINES CORP.",
+      "name_titlecase": "Samsung Electronics Philippines CORP.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": "SEPCO"
+    },
+    {
+      "swift_code": "SAPPPHM1",
+      "name": "SAPPHIRE SECURITIES INC.",
+      "name_titlecase": "Sapphire Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SAUAPHM1",
+      "name": "SAVIOUR RURAL BANK, INC.",
+      "name_titlecase": "Saviour Rural BANK, INC.",
+      "city": "LUBAO",
+      "city_titlecase": "Lubao",
+      "branch": ""
+    },
+    {
+      "swift_code": "EQICPHM1",
+      "name": "SB EQUITIES INCORPORATED",
+      "name_titlecase": "Sb Equities Incorporated",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "LAUIPHM2",
+      "name": "SEABANK PHILIPPINES",
+      "name_titlecase": "Seabank Philippines",
+      "city": "SANTA CRUZ",
+      "city_titlecase": "Santa Cruz",
+      "branch": ""
+    },
+    {
+      "swift_code": "SECLPHM1",
+      "name": "SECURITIES SPECIALISTS INC.",
+      "name_titlecase": "Securities Specialists INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "SETCPHMM",
+      "name": "SECURITY BANK CORPORATION",
+      "name_titlecase": "Security BANK Corporation",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SGSEPHM1",
+      "name": "SG SECURITIES (PHILIPPINES),INC.",
+      "name_titlecase": "Sg Securities (philippines),inc.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SHBKPHMM",
+      "name": "SHINHAN BANK MANILA BRANCH",
+      "name_titlecase": "Shinhan BANK Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SHPHPHM2",
+      "name": "SHOPEEPAY PHILIPPINES, INC.",
+      "name_titlecase": "Shopeepay Philippines, INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SOLRPHM1",
+      "name": "SOLAR SECURITIES INC.",
+      "name_titlecase": "Solar Securities INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SOTTPHM1",
+      "name": "SOUTH BANK INC",
+      "name_titlecase": "South BANK INC",
+      "city": "CITY OF CAGAYAN DE ORO",
+      "city_titlecase": "City of Cagayan de Oro",
+      "branch": ""
+    },
+    {
+      "swift_code": "SPEYPHM2",
+      "name": "SPEEDYPAY INC.",
+      "name_titlecase": "Speedypay INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SUIRPHM1",
+      "name": "SQUIRE SECURITIES, INC.",
+      "name_titlecase": "Squire Securities, INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "SCBLPHMM",
+      "name": "STANDARD CHARTERED BANK",
+      "name_titlecase": "Standard Chartered BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SCBLPHMMEQI",
+      "name": "STANDARD CHARTERED BANK",
+      "name_titlecase": "Standard Chartered BANK",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": "CUSTODIAL DEPARTMENT"
+    },
+    {
+      "swift_code": "STACPHM1",
+      "name": "STANDARD SECURITIES CORPORATION",
+      "name_titlecase": "Standard Securities Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "SRCPPHM2",
+      "name": "STARPAY CORPORATION",
+      "name_titlecase": "Starpay Corporation",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "STIUPHM1",
+      "name": "STATE INVESTMENT TRUST, INC.",
+      "name_titlecase": "State Investment Trust, INC.",
+      "city": "CITY OF MANDALUYONG",
+      "city_titlecase": "City of Mandaluyong",
+      "branch": ""
+    },
+    {
+      "swift_code": "STLAPH22",
+      "name": "STERLING BANK OF ASIA INC.(A SAVINGS BANK)",
+      "name_titlecase": "Sterling BANK of Asia Inc.(a Savings BANK)",
+      "city": "CITY OF SAN JUAN",
+      "city_titlecase": "City of San Juan",
+      "branch": ""
+    },
+    {
+      "swift_code": "SMBCPHMM",
+      "name": "SUMITOMO MITSUI BANKING CORPORATION MANILA BRANCH",
+      "name_titlecase": "Sumitomo Mitsui Banking Corporation Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SRLCPHM1",
+      "name": "SUMMIT RURAL BANK OF LIPA CITY, INC",
+      "name_titlecase": "Summit Rural BANK of Lipa City, INC",
+      "city": "CITY OF LIPA",
+      "city_titlecase": "City of Lipa",
+      "branch": ""
+    },
+    {
+      "swift_code": "SUMMPHM1",
+      "name": "SUMMIT SECURITIES INC.",
+      "name_titlecase": "Summit Securities INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SUSVPHM1",
+      "name": "SUN SAVINGS BANK",
+      "name_titlecase": "Sun Savings BANK",
+      "city": "CITY OF TALISAY",
+      "city_titlecase": "City of Talisay",
+      "branch": ""
+    },
+    {
+      "swift_code": "SUPMPHM1",
+      "name": "SUPREME STOCKBROKER INC.",
+      "name_titlecase": "Supreme Stockbroker INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "SSSTPHM1",
+      "name": "SYSTEMS STANDARDS INC.",
+      "name_titlecase": "Systems Standards INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "TAGCPHM2",
+      "name": "TAGCASH LTD. INC.",
+      "name_titlecase": "Tagcash LTD. INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "TACBPHMM",
+      "name": "TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH",
+      "name_titlecase": "Taiwan Cooperative BANK Manila Offshore Banking Branch",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TANGPHM1",
+      "name": "TANSENGCO AND COMPANY INC.",
+      "name_titlecase": "Tansengco and Company INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TAYOPHM2",
+      "name": "TAYOCASH INC.",
+      "name_titlecase": "Tayocash INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "HSBCPHMMCEB",
+      "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "name_titlecase": "The Hongkong and Shanghai Banking Corporation LTD - Philippine Branch",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": "CEBU BRANCH"
+    },
+    {
+      "swift_code": "HSBCPHMMTRY",
+      "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "name_titlecase": "The Hongkong and Shanghai Banking Corporation LTD - Philippine Branch",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": "MNL TREASURY DEPARTMENT"
+    },
+    {
+      "swift_code": "HSBCPHMMSEC",
+      "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "name_titlecase": "The Hongkong and Shanghai Banking Corporation LTD - Philippine Branch",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": "CUSTODY AND CLEARING"
+    },
+    {
+      "swift_code": "HSBCPHMM",
+      "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "name_titlecase": "The Hongkong and Shanghai Banking Corporation LTD - Philippine Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "MFCTPHMM",
+      "name": "THE MANUFACTURERS LIFE INSURANCE CO. (PHILS.), INC.",
+      "name_titlecase": "The Manufacturers Life Insurance CO. (phils.), INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "PAPDPHM1",
+      "name": "THE PALAWAN BANK (PALAWAN DEVELOPMENT BANK, INC.).",
+      "name_titlecase": "The Palawan BANK (palawan Development BANK, INC.).",
+      "city": "CITY OF PUERTO PRINCESA",
+      "city_titlecase": "City of Puerto Princesa",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRULPHM1",
+      "name": "TIAONG RURAL BANK, INC.",
+      "name_titlecase": "Tiaong Rural BANK, INC.",
+      "city": "CITY OF TAYABAS",
+      "city_titlecase": "City of Tayabas",
+      "branch": ""
+    },
+    {
+      "swift_code": "TOKTPHM2",
+      "name": "TOKTOKWALLET INC.",
+      "name_titlecase": "Toktokwallet INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "TODGPHM2",
+      "name": "TONIK DIGITAL BANK, INC.",
+      "name_titlecase": "Tonik Digital BANK, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "TOPJPHM2",
+      "name": "TOPJUAN TECH CORPORATION",
+      "name_titlecase": "Topjuan Tech Corporation",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TOWRPHM1",
+      "name": "TOWER SECURITIES INC.",
+      "name_titlecase": "Tower Securities INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "TFSHPHM1",
+      "name": "TOYOTA FINANCIAL SERVICES PHILIPPINES, CORP.",
+      "name_titlecase": "Toyota Financial Services Philippines, CORP.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRBFPHM1",
+      "name": "TRADERS ROYAL BANK",
+      "name_titlecase": "Traders Royal BANK",
+      "city": "CITY OF PASAY",
+      "city_titlecase": "City of Pasay",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRAAPHM1",
+      "name": "TRANS-ASIA SECURITIES INC.",
+      "name_titlecase": "Trans-asia Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRXPPHM2",
+      "name": "TRAXION PAY INC",
+      "name_titlecase": "Traxion Pay INC",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRENPHM1",
+      "name": "TRENDLINE SECURITIES CORP.",
+      "name_titlecase": "Trendline Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "TRITPHM1",
+      "name": "TRI-STATE SECURITIES INC.",
+      "name_titlecase": "Tri-state Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "UBPPPHM1",
+      "name": "UBP SECURITIES INC.",
+      "name_titlecase": "Ubp Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "SWDEPHM1",
+      "name": "UBS SECURITIES PHILIPPINES INC",
+      "name_titlecase": "UBS Securities Philippines INC",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "UCSVPHM1",
+      "name": "UCPB SAVINGS BANK, INC.",
+      "name_titlecase": "UCPB Savings BANK, INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "CPBBPHM1",
+      "name": "UCPB SECURITIES INC.",
+      "name_titlecase": "UCPB Securities INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "UCSEPHM1",
+      "name": "UNICAPITAL SECURITIES,INC.",
+      "name_titlecase": "Unicapital Securities,inc.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "UBPHPHMM",
+      "name": "UNION BANK OF THE PHILIPPINES",
+      "name_titlecase": "Union BANK of the Philippines",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "UNODPHM2",
+      "name": "UNIONDIGITAL BANK INC.",
+      "name_titlecase": "Uniondigital BANK INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "UOVBPHMM",
+      "name": "UNITED OVERSEAS BANK LIMITED - MANILA BRANCH",
+      "name_titlecase": "United Overseas BANK Limited - Manila Branch",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "UNRPPHMM",
+      "name": "UNIVERSAL ROBINA CORPORATION",
+      "name_titlecase": "Universal Robina Corporation",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "UNOBPHM2",
+      "name": "UNOBANK INC.",
+      "name_titlecase": "Unobank INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "UKHCPHM1",
+      "name": "UOB-KAY HIAN SECURITIES (PHILIPPINES), INC.",
+      "name_titlecase": "Uob-kay Hian Securities (philippines), INC.",
+      "city": "CITY OF MAKATI",
+      "city_titlecase": "City of Makati",
+      "branch": ""
+    },
+    {
+      "swift_code": "USMEPHM2",
+      "name": "USSC MONEY SERVICES INC",
+      "name_titlecase": "Ussc Money Services INC",
+      "city": "CITY OF QUEZON",
+      "city_titlecase": "City of Quezon",
+      "branch": ""
+    },
+    {
+      "swift_code": "TIOCPHM1",
+      "name": "UY-TIOCO AND CO. INC.",
+      "name_titlecase": "Uy-tioco and CO. INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "VENTPHM1",
+      "name": "VENTURE SECURITIES INC.",
+      "name_titlecase": "Venture Securities INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "VICGPHM1",
+      "name": "VICENTE GOQUIOLAY AND CO., INC.",
+      "name_titlecase": "Vicente Goquiolay and CO., INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "VICAPHM1",
+      "name": "VICSAL SECURITIES AND STOCKS BROKERAGE INC",
+      "name_titlecase": "Vicsal Securities and Stocks Brokerage INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "VGBCPHM1",
+      "name": "VIGAN BANCO RURAL INCORPORADA",
+      "name_titlecase": "Vigan Banco Rural Incorporada",
+      "city": "CITY OF VIGAN",
+      "city_titlecase": "City of Vigan",
+      "branch": ""
+    },
+    {
+      "swift_code": "WEDVPHM1",
+      "name": "WEALTH DEVELOPMENT BANK",
+      "name_titlecase": "Wealth Development BANK",
+      "city": "CITY OF CEBU",
+      "city_titlecase": "City of Cebu",
+      "branch": ""
+    },
+    {
+      "swift_code": "WEASPHM1",
+      "name": "WEALTH SECURITIES INC",
+      "name_titlecase": "Wealth Securities INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "WERAPHM2",
+      "name": "WELCOME BANK, RURAL BANK INC.",
+      "name_titlecase": "Welcome BANK, Rural BANK INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "WOLFPHM1",
+      "name": "WOLFF AND CO. INC.",
+      "name_titlecase": "Wolff and CO. INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "WONGPHM1",
+      "name": "WONG SECURITIES CORP.",
+      "name_titlecase": "Wong Securities CORP.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "WOPAPHM1",
+      "name": "WORLD PARTNERS BANK",
+      "name_titlecase": "World Partners BANK",
+      "city": "CITY OF SAN PEDRO",
+      "city_titlecase": "City of San Pedro",
+      "branch": ""
+    },
+    {
+      "swift_code": "WISPPHM1",
+      "name": "WORLDSEC INTERNATIONAL SECURITIES PHILIPPINES INC",
+      "name_titlecase": "Worldsec International Securities Philippines INC",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "YAOZPHM1",
+      "name": "YAO AND ZIALCITA INC.",
+      "name_titlecase": "Yao and Zialcita INC.",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "YAPTPHM1",
+      "name": "YAPTINCHAY SEC. INC.",
+      "name_titlecase": "Yaptinchay Sec. INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "YUOYPHM1",
+      "name": "YU AND COMPANY, INC.",
+      "name_titlecase": "Yu and Company, INC.",
+      "city": "CITY OF PASIG",
+      "city_titlecase": "City of Pasig",
+      "branch": ""
+    },
+    {
+      "swift_code": "HENEPHM1",
+      "name": "YU HENG SECURITIES INC.",
+      "name_titlecase": "Yu Heng Securities INC.",
+      "city": "CITY OF PASAY",
+      "city_titlecase": "City of Pasay",
+      "branch": ""
+    },
+    {
+      "swift_code": "TYBKPHMM",
+      "name": "YUANTA SAVINGS BANK (FORMERLY TONGYANG SAVINGS BANK)",
+      "name_titlecase": "Yuanta Savings BANK (formerly Tongyang Savings BANK)",
+      "city": "CITY OF MANILA",
+      "city_titlecase": "City of Manila",
+      "branch": ""
+    },
+    {
+      "swift_code": "ZARUPHM1",
+      "name": "ZAMBALES RURAL BANK, INC.",
+      "name_titlecase": "Zambales Rural BANK, INC.",
+      "city": "CITY OF OLONGAPO",
+      "city_titlecase": "City of Olongapo",
+      "branch": ""
+    },
+    {
+      "swift_code": "ZACRPHM1",
+      "name": "ZAMBOANGA CITY RURAL BANK, INC.",
+      "name_titlecase": "Zamboanga City Rural BANK, INC.",
+      "city": "CITY OF ZAMBOANGA",
+      "city_titlecase": "City of Zamboanga",
+      "branch": ""
+    },
+    {
+      "swift_code": "ZBTEPHM2",
+      "name": "ZYBI TECH INC.",
+      "name_titlecase": "Zybi Tech INC.",
+      "city": "CITY OF PASAY",
+      "city_titlecase": "City of Pasay",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa Pilipinas - Libreng download",
+    "description": "Listahan ng 499 na bangko, securities firm, at iba pang BSP-supervised financial institutions sa Pilipinas - kabilang ang opisyal na pangalan, lungsod, SWIFT/BIC code, at sangay (branch) kung mayroon. Ang bawat record ay may 8- o 11-character SWIFT/BIC code (...PHM... country code para sa Philippines) na ginagamit sa international wire transfers, InstaPay, at PESONet routing. Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 499 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa Pilipinas | ListBase",
+    "seo_description": "I-download Mga Bangko sa Pilipinas — 499 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 499 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

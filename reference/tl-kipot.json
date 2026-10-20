@@ -1,0 +1,500 @@
+{
+  "id": "tl-kipot",
+  "name": "Mga Kipot ng Pilipinas",
+  "title": "Mga Kipot ng Pilipinas",
+  "description": "Listahan ng mga kipot (strait) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint, kabilang ang Kipot ng Balabac, Kipot ng San Bernardino at iba pa. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, kaugnay na anyong-tubig, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "body_of_water_at",
+      "label": "Body Of Water At",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q3274705",
+      "name_tl": "Bambang ng Balintang",
+      "name_en": "Bambang ng Balintang",
+      "body_of_water_at": "",
+      "located_in_at": "Lambak ng Cagayan",
+      "latitude": 20,
+      "longitude": 122,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Bambang_ng_Balintang"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q31465514",
+      "name_tl": "Kipot ng Ambulong",
+      "name_en": "Kipot ng Ambulong",
+      "body_of_water_at": "Look ng Silong",
+      "located_in_at": "San Jose",
+      "latitude": 12.224167,
+      "longitude": 121.031111,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q510201",
+      "name_tl": "Kipot ng Balabac",
+      "name_en": "Kipot ng Balabac",
+      "body_of_water_at": "",
+      "located_in_at": "",
+      "latitude": 7.583333,
+      "longitude": 117,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_Balabac"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q1531819",
+      "name_tl": "Kipot ng Basilan",
+      "name_en": "Kipot ng Basilan",
+      "body_of_water_at": "",
+      "located_in_at": "",
+      "latitude": 6.8128,
+      "longitude": 122.0233,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_Basilan"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q26272116",
+      "name_tl": "Kipot ng Burias",
+      "name_en": "Kipot ng Burias",
+      "body_of_water_at": "Kipot ng Ticao",
+      "located_in_at": "Rehiyon ng Bikol",
+      "latitude": 12.95,
+      "longitude": 123.3,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q31211859",
+      "name_tl": "Kipot ng Buyayao",
+      "name_en": "Kipot ng Buyayao",
+      "body_of_water_at": "Kipot ng Tablas",
+      "located_in_at": "Bulalacao",
+      "latitude": 12.3665,
+      "longitude": 121.4454,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q31211864",
+      "name_tl": "Kipot ng Cagraray",
+      "name_en": "Kipot ng Cagraray",
+      "body_of_water_at": "Golpo ng Lagonoy",
+      "located_in_at": "Albay",
+      "latitude": 13.290833,
+      "longitude": 123.905556,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q672777",
+      "name_tl": "Kipot ng Canigao",
+      "name_en": "Kipot ng Canigao",
+      "body_of_water_at": "Dagat Camotes",
+      "located_in_at": "",
+      "latitude": 10.166667,
+      "longitude": 124.666667,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q31211932",
+      "name_tl": "Kipot ng Casolgan",
+      "name_en": "Kipot ng Casolgan",
+      "body_of_water_at": "Look ng Tabaco",
+      "located_in_at": "Albay",
+      "latitude": 13.346944,
+      "longitude": 123.840556,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q1454050",
+      "name_tl": "Kipot ng Cebu",
+      "name_en": "Kipot ng Cebu",
+      "body_of_water_at": "Dagat Camotes",
+      "located_in_at": "Gitnang Visayas",
+      "latitude": 9.833333,
+      "longitude": 123.666667,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_Cebu"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q31212183",
+      "name_tl": "Kipot ng Golo",
+      "name_en": "Kipot ng Golo",
+      "body_of_water_at": "",
+      "located_in_at": "Looc",
+      "latitude": 13.6825,
+      "longitude": 120.301111,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q1554104",
+      "name_tl": "Kipot ng Guimaras",
+      "name_en": "Kipot ng Guimaras",
+      "body_of_water_at": "Kipot ng Iloilo",
+      "located_in_at": "Kanlurang Visayas",
+      "latitude": 10.7,
+      "longitude": 122.816667,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_Guimaras"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q31809151",
+      "name_tl": "Kipot ng Ilin",
+      "name_en": "Kipot ng Ilin",
+      "body_of_water_at": "Look ng Pandurucan",
+      "located_in_at": "Occidental Mindoro",
+      "latitude": 12.262778,
+      "longitude": 121.095,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q15228398",
+      "name_tl": "Kipot ng Iloilo",
+      "name_en": "Kipot ng Iloilo",
+      "body_of_water_at": "Kipot ng Guimaras",
+      "located_in_at": "",
+      "latitude": 10.7,
+      "longitude": 122.6,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_Iloilo"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q1162421",
+      "name_tl": "Kipot ng Jintotolo",
+      "name_en": "Kipot ng Jintotolo",
+      "body_of_water_at": "",
+      "located_in_at": "Kanlurang Visayas",
+      "latitude": 11.7,
+      "longitude": 123.1,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q31533771",
+      "name_tl": "Kipot ng Kakiputan",
+      "name_en": "Kipot ng Kakiputan",
+      "body_of_water_at": "",
+      "located_in_at": "Pangasinan",
+      "latitude": 16.299167,
+      "longitude": 119.916667,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q2190279",
+      "name_tl": "Kipot ng Linapacan",
+      "name_en": "Kipot ng Linapacan",
+      "body_of_water_at": "",
+      "located_in_at": "Palawan",
+      "latitude": 11.583333,
+      "longitude": 119.997778,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q908741",
+      "name_tl": "Kipot ng Luzon",
+      "name_en": "Kipot ng Luzon",
+      "body_of_water_at": "",
+      "located_in_at": "",
+      "latitude": 20,
+      "longitude": 121,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_Luzon"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q11340083",
+      "name_tl": "Kipot ng Maqueda",
+      "name_en": "Kipot ng Maqueda",
+      "body_of_water_at": "Golpo ng Lagonoy",
+      "located_in_at": "",
+      "latitude": 13.9,
+      "longitude": 124,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q31809173",
+      "name_tl": "Kipot ng Maricaban",
+      "name_en": "Kipot ng Maricaban",
+      "body_of_water_at": "Look ng Batangas",
+      "located_in_at": "",
+      "latitude": 13.666667,
+      "longitude": 120.883333,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1993834",
+      "name_tl": "Kipot ng Masbate",
+      "name_en": "Kipot ng Masbate",
+      "body_of_water_at": "Kipot ng Burias",
+      "located_in_at": "Masbate",
+      "latitude": 12.51238,
+      "longitude": 123.57335,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q31212611",
+      "name_tl": "Kipot ng Masin",
+      "name_en": "Kipot ng Masin",
+      "body_of_water_at": "Kipot ng Tablas",
+      "located_in_at": "Bulalacao",
+      "latitude": 12.264722,
+      "longitude": 121.383333,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q1936516",
+      "name_tl": "Kipot ng Mindoro",
+      "name_en": "Kipot ng Mindoro",
+      "body_of_water_at": "Kanlurang Dagat ng Pilipinas",
+      "located_in_at": "",
+      "latitude": 12.33333,
+      "longitude": 120.66666,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_Mindoro"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q31458023",
+      "name_tl": "Kipot ng Pakiputan",
+      "name_en": "Kipot ng Pakiputan",
+      "body_of_water_at": "Golpo ng Davao",
+      "located_in_at": "Kadabawan",
+      "latitude": 7.108333,
+      "longitude": 125.658889,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q14405631",
+      "name_tl": "Kipot ng Polillo",
+      "name_en": "Kipot ng Polillo",
+      "body_of_water_at": "Look ng Lamon",
+      "located_in_at": "Quezon",
+      "latitude": 14.8,
+      "longitude": 121.75,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q1632584",
+      "name_tl": "Kipot ng Pulo ng Verde",
+      "name_en": "Kipot ng Pulo ng Verde",
+      "body_of_water_at": "Kanlurang Dagat ng Pilipinas",
+      "located_in_at": "",
+      "latitude": 13.575,
+      "longitude": 120.966667,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q31484585",
+      "name_tl": "Kipot ng Rapu Rapu",
+      "name_en": "Kipot ng Rapu Rapu",
+      "body_of_water_at": "Golpo ng Lagonoy",
+      "located_in_at": "Rapu-Rapu",
+      "latitude": 13.221111,
+      "longitude": 124.073889,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q31487092",
+      "name_tl": "Kipot ng Refugio",
+      "name_en": "Kipot ng Refugio",
+      "body_of_water_at": "Kipot ng Tañon",
+      "located_in_at": "San Carlos",
+      "latitude": 10.468889,
+      "longitude": 123.423889,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q1576377",
+      "name_tl": "Kipot ng San Bernardino",
+      "name_en": "Kipot ng San Bernardino",
+      "body_of_water_at": "Dagat Samar",
+      "located_in_at": "",
+      "latitude": 12.5875,
+      "longitude": 124.196667,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_San_Bernardino"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q728118",
+      "name_tl": "Kipot ng San Juanico",
+      "name_en": "Kipot ng San Juanico",
+      "body_of_water_at": "",
+      "located_in_at": "",
+      "latitude": 11.302778,
+      "longitude": 124.971944,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_San_Juanico"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q2195381",
+      "name_tl": "Kipot ng Sarangani",
+      "name_en": "Kipot ng Sarangani",
+      "body_of_water_at": "Dagat Celebes",
+      "located_in_at": "Davao Occidental",
+      "latitude": 5.5,
+      "longitude": 125.4,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q31519882",
+      "name_tl": "Kipot ng Silangan",
+      "name_en": "Kipot ng Silangan",
+      "body_of_water_at": "Look ng Calauag",
+      "located_in_at": "Quezon",
+      "latitude": 14,
+      "longitude": 122.183333,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q31536885",
+      "name_tl": "Kipot ng Sula",
+      "name_en": "Kipot ng Sula",
+      "body_of_water_at": "Look ng Tabaco",
+      "located_in_at": "Bacacay",
+      "latitude": 13.255,
+      "longitude": 123.853333,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q1632248",
+      "name_tl": "Kipot ng Surigao",
+      "name_en": "Kipot ng Surigao",
+      "body_of_water_at": "",
+      "located_in_at": "",
+      "latitude": 10.166667,
+      "longitude": 125.383333,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_Surigao"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q1857962",
+      "name_tl": "Kipot ng Tablas",
+      "name_en": "Kipot ng Tablas",
+      "body_of_water_at": "Dagat Sibuyan",
+      "located_in_at": "",
+      "latitude": 12.4,
+      "longitude": 121.725,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_Tablas"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q31334883",
+      "name_tl": "Kipot ng Tambaron",
+      "name_en": "Kipot ng Tambaron",
+      "body_of_water_at": "Look ng Bulalacao",
+      "located_in_at": "Bulalacao",
+      "latitude": 12.280556,
+      "longitude": 121.373611,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q31546427",
+      "name_tl": "Kipot ng Tapiutan",
+      "name_en": "Kipot ng Tapiutan",
+      "body_of_water_at": "",
+      "located_in_at": "Palawan",
+      "latitude": 11.201,
+      "longitude": 119.275,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q735021",
+      "name_tl": "Kipot ng Tañon",
+      "name_en": "Kipot ng Tañon",
+      "body_of_water_at": "Dagat Kabisayaan",
+      "located_in_at": "",
+      "latitude": 10.2,
+      "longitude": 123.4,
+      "wikipedia_tl": "https://tl.wikipedia.org/wiki/Kipot_ng_Ta%C3%B1on"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q3443215",
+      "name_tl": "Kipot ng Ticao",
+      "name_en": "Kipot ng Ticao",
+      "body_of_water_at": "Kipot ng Burias",
+      "located_in_at": "Rehiyon ng Bikol",
+      "latitude": 12.616667,
+      "longitude": 123.8,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Kipot ng Pilipinas - Libreng download",
+    "description": "Listahan ng mga kipot (strait) ng Pilipinas mula sa Wikidata sa pamamagitan ng SPARQL endpoint, kabilang ang Kipot ng Balabac, Kipot ng San Bernardino at iba pa. Sa bawat tala ay nakapaloob ang Tagalog na pangalan, Ingles na pangalan, kaugnay na anyong-tubig, pook pampangasiwaan, koordinadang GPS, at link sa Tagalog Wikipedia. Alpabetikong inayos ayon sa pangalan. Tanging mga talang may tunay na Tagalog na label (rdfs:label@tl) ang itinago. Naglalaman ng 39 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Kipot ng Pilipinas | ListBase",
+    "seo_description": "I-download Mga Kipot ng Pilipinas — 39 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 39 talaan / 9 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

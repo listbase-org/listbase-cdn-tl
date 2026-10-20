@@ -1,0 +1,286 @@
+{
+  "id": "tl-overseas-middle-east-shs-paaralan",
+  "name": "Mga Senior High School - Overseas Schools - Middle East",
+  "title": "Mga Senior High School - Overseas Schools - Middle East",
+  "description": "Mga Senior High School (SHS) sa Overseas Schools - Middle East mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (22 paaralan.)",
+  "category": "education",
+  "source": "https://github.com/nedpals/k12-shs-api",
+  "source_url": "https://github.com/nedpals/k12-shs-api",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "school_id",
+      "label": "School Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "school_name",
+      "label": "School Name",
+      "type": "string"
+    },
+    {
+      "key": "programs",
+      "label": "Programs",
+      "type": "string"
+    },
+    {
+      "key": "tvl_specializations",
+      "label": "Tvl Specializations",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kingdom of Saudi Arabia",
+      "municipality": "Kingdom of Saudi Arabia",
+      "school_name": "Durat Al Sharq International School",
+      "programs": "ABM, STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "United Arab Emirates",
+      "municipality": "United Arab Emirates",
+      "school_name": "Far Eastern Private School - Al Shahba Campus",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kingdom of Saudi Arabia",
+      "municipality": "Kingdom of Saudi Arabia",
+      "school_name": "Future Generation Philippine International School",
+      "programs": "STEM, ABM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kingdom of Saudi Arabia",
+      "municipality": "Kingdom of Saudi Arabia",
+      "school_name": "International Philippine School in Al-Khobar",
+      "programs": "STEM, ABM, HUMSS, GAS, Arts and Design",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kingdom of Saudi Arabia",
+      "municipality": "Kingdom of Saudi Arabia",
+      "school_name": "International Philippine School in Jeddah",
+      "programs": "ABM, STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kingdom of Saudi Arabia",
+      "municipality": "Kingdom of Saudi Arabia",
+      "school_name": "International Philippine School in Riyadh",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kuwait",
+      "municipality": "Kuwait",
+      "school_name": "Philippine International English School",
+      "programs": "ABM, GAS, HUMSS, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Qatar",
+      "municipality": "Qatar",
+      "school_name": "Philippine International School – Qatar",
+      "programs": "STEM, HUMSS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Qatar",
+      "municipality": "Qatar",
+      "school_name": "Philippine School Doha",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Oman",
+      "municipality": "Oman",
+      "school_name": "Philippine School – Oman",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "United Arab Emirates",
+      "municipality": "United Arab Emirates",
+      "school_name": "Philippine-Emirates Private School (PISCO Private)",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kingdom of Saudi Arabia",
+      "municipality": "",
+      "school_name": "Bader International School",
+      "programs": "GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "United Arab Emirates",
+      "municipality": "Kingdom of Saudi Arabia",
+      "school_name": "Second Philippine International School",
+      "programs": "STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kuwait",
+      "municipality": "Kuwait",
+      "school_name": "The New Kuwait Philippine International School",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "United Arab Emirates",
+      "municipality": "United Arab Emirates",
+      "school_name": "The Philippine School - Dubai",
+      "programs": "ABM, STEM, HUMSS, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "United Arab Emirates",
+      "municipality": "United Arab Emirates",
+      "school_name": "The Philippine School Abu Dhabi",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Bahrain",
+      "municipality": "Bahrain",
+      "school_name": "The Philippine School Bahrain",
+      "programs": "STEM, ABM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "United Arab Emirates",
+      "municipality": "United Arab Emirates",
+      "school_name": "United International Private School",
+      "programs": "ABM, HUMSS, STEM",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kingdom of Saudi Arabia",
+      "municipality": "Kingdom of Saudi Arabia",
+      "school_name": "Al Danah International School",
+      "programs": "STEM, GAS, TVL",
+      "tvl_specializations": "Animation, Illustration"
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kingdom of Saudi Arabia",
+      "municipality": "Kingdom of Saudi Arabia",
+      "school_name": "Al Majd International School Dammam (formerly Al Jazeera)",
+      "programs": "ABM, STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kingdom of Saudi Arabia",
+      "municipality": "Kingdom of Saudi Arabia",
+      "school_name": "Al Taj International School",
+      "programs": "ABM, HUMSS, STEM, GAS",
+      "tvl_specializations": ""
+    },
+    {
+      "school_id": "",
+      "region": "Middle East",
+      "region_name": "Overseas Schools - Middle East",
+      "province": "Kingdom of Saudi Arabia",
+      "municipality": "Kingdom of Saudi Arabia",
+      "school_name": "Al-Andalus International School",
+      "programs": "STEM, ABM, HUMSS, GAS",
+      "tvl_specializations": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Senior High School - Overseas Schools - Middle East - Libreng download",
+    "description": "Mga Senior High School (SHS) sa Overseas Schools - Middle East mula sa DepEd K-12 program-offering data, na may academic strands (ABM, GAS, HUMSS, STEM) at TVL tracks/specializations bawat paaralan. (22 paaralan.) Naglalaman ng 22 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Senior High School - Overseas Schools - Middle East | ListBase",
+    "seo_description": "I-download Mga Senior High School - Overseas Schools - Middle East — 22 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 22 talaan / 8 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/nedpals/k12-shs-api"
+    ]
+  }
+}

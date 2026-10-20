@@ -1,0 +1,244 @@
+{
+  "id": "tl-agusan-del-sur-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Agusan del Sur",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Agusan del Sur",
+  "description": "Direktoryo ng 14 lungsod at bayan sa lalawigan ng Agusan del Sur (Caraga (Region XIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Agusan del Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Banawan",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8506",
+      "punong_bayan": "SYLVIA B. ELORDE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GILBERT G. ELORDE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Bayugan",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "",
+      "punong_bayan": "KIRK A. ASIS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "KIM LOPE A. ASIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Esperanza",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8513",
+      "punong_bayan": "DEO P. MANPATILAN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ERIC REY G. SIOHAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "La Paz",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8508",
+      "punong_bayan": "MICHAEL D. LIM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RABELLA RAMONA C. JUSTO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Loreto",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8507",
+      "punong_bayan": "LORIFE M. OTAZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RANDOLPH B. PLAZA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Prosperidad",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8500",
+      "punong_bayan": "FREDERICK MARK P. MELLANA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JESUSIMO L. RONQUILLO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Rosario",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8504",
+      "punong_bayan": "JOSE T. CUYOS SR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EDUARDO E. DE PAZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "San Francisco",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8501",
+      "punong_bayan": "GRACE CARMEL D. PAREDES-BRAVO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARTH RYAN P. PALABRICA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "San Luis",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8511",
+      "punong_bayan": "RONALDO Y. CORVERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELY B. YECYEC",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Santa Josefa",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8512",
+      "punong_bayan": "SYMOND O. CAGUIAT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RICHARD M. PLAZA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Sibagat",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8503",
+      "punong_bayan": "THELMA G. LAMANILAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIA LIZA L. EVANGELISTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Talacogon",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8510",
+      "punong_bayan": "PAULINE MARIE R. MASENDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MELCHOR P. DEMEGILLO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Trento",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8505",
+      "punong_bayan": "WILLIAM E. CALVEZ",
+      "kontak_punong_bayan": "(085) 225-2039",
+      "pangalawang_punong_bayan": "FELIMON S. MARTE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Veruela",
+      "uri": "Bayan",
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "Caraga (Region XIII)",
+      "zip_code": "8509",
+      "punong_bayan": "MYRNA S. MONDEJAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HECTOR P. TANDA",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Agusan del Sur - Libreng download",
+    "description": "Direktoryo ng 14 lungsod at bayan sa lalawigan ng Agusan del Sur (Caraga (Region XIII)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Agusan del Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 14 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Agusan del Sur | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Agusan del Sur — 14 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 14 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

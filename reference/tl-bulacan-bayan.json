@@ -1,0 +1,224 @@
+{
+  "id": "tl-bulacan-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Bulacan",
+  "title": "Mga Bayan ng Lalawigan ng Bulacan",
+  "description": "Listahan ng 21 munisipalidad (bayan) sa lalawigan ng Bulacan, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "031401000",
+      "name": "ANGAT",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 59237,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031402000",
+      "name": "BALAGTAS (BIGAA)",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 73929,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031403000",
+      "name": "BALIUAG",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 149954,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031404000",
+      "name": "BOCAUE",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 119675,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031405000",
+      "name": "BULACAN",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 76565,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031406000",
+      "name": "BUSTOS",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 67039,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "031407000",
+      "name": "CALUMPIT",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 108757,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031424000",
+      "name": "DOÑA REMEDIOS TRINIDAD",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 22663,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031408000",
+      "name": "GUIGUINTO",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 99730,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031409000",
+      "name": "HAGONOY",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 129807,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031411000",
+      "name": "MARILAO",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 221965,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031413000",
+      "name": "NORZAGARAY",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 111348,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031414000",
+      "name": "OBANDO",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 59197,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "031415000",
+      "name": "PANDI",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 89075,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "031416000",
+      "name": "PAOMBONG",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 53294,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "031417000",
+      "name": "PLARIDEL",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 107805,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031418000",
+      "name": "PULILAN",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 97323,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031419000",
+      "name": "SAN ILDEFONSO",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 104471,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031421000",
+      "name": "SAN MIGUEL",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 153882,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031422000",
+      "name": "SAN RAFAEL",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 94655,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "031423000",
+      "name": "SANTA MARIA",
+      "province": "BULACAN",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 256454,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Bulacan - Libreng download",
+    "description": "Listahan ng 21 munisipalidad (bayan) sa lalawigan ng Bulacan, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 21 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Bulacan | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Bulacan — 21 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 21 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

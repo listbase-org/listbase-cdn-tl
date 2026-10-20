@@ -1,0 +1,256 @@
+{
+  "id": "tl-zamboanga-del-norte-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Zamboanga Del Norte",
+  "title": "Mga Bayan ng Lalawigan ng Zamboanga Del Norte",
+  "description": "Listahan ng 25 munisipalidad (bayan) sa lalawigan ng Zamboanga Del Norte, REGION IX (ZAMBOANGA PENINSULA), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "097226000",
+      "name": "BACUNGAN (Leon T. Postigo)",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 26221,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097224000",
+      "name": "BALIGUIAN",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 22588,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "097225000",
+      "name": "GODOD",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 17424,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097223000",
+      "name": "GUTALAC",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 34654,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "097222000",
+      "name": "JOSE DALMAN (PONOT)",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 27388,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097227000",
+      "name": "KALAWIT",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 23633,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097203000",
+      "name": "KATIPUNAN",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 45577,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "097204000",
+      "name": "LA LIBERTAD",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 8406,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "097205000",
+      "name": "LABASON",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 41357,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "097206000",
+      "name": "LILOY",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 39812,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "097207000",
+      "name": "MANUKAN",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 36526,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "097208000",
+      "name": "MUTIA",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 12675,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "097209000",
+      "name": "PIÑAN (NEW PIÑAN)",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 20161,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097210000",
+      "name": "POLANCO",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 39347,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "097211000",
+      "name": "PRES. MANUEL A. ROXAS",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 39323,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "097212000",
+      "name": "RIZAL",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 14021,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "097213000",
+      "name": "SALUG",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 32204,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "097214000",
+      "name": "SERGIO OSMEÑA SR.",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 30220,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "097215000",
+      "name": "SIAYAN",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 34966,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "097216000",
+      "name": "SIBUCO",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 34620,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "097217000",
+      "name": "SIBUTAD",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 17645,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "097218000",
+      "name": "SINDANGAN",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 99435,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "097219000",
+      "name": "SIOCON",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 46907,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "097220000",
+      "name": "SIRAWAI",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 28799,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "097221000",
+      "name": "TAMPILISAN",
+      "province": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX (ZAMBOANGA PENINSULA)",
+      "population": 24307,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Zamboanga Del Norte - Libreng download",
+    "description": "Listahan ng 25 munisipalidad (bayan) sa lalawigan ng Zamboanga Del Norte, REGION IX (ZAMBOANGA PENINSULA), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 25 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Zamboanga Del Norte | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Zamboanga Del Norte — 25 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 25 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

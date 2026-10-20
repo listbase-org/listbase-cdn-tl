@@ -1,0 +1,412 @@
+{
+  "id": "tl-overseas-bantayog-pangkasaysayan",
+  "name": "Makasaysayang Pananda ng NHCP — Sa Ibang Bansa",
+  "title": "Makasaysayang Pananda ng NHCP — Sa Ibang Bansa",
+  "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Sa Ibang Bansa. Filtered subset ng pambansang tl-bantayog-pangkasaysayan (16 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Overseas — filtered subset of the national NHCP marker inventory, 16 of 1235 nationally.)",
+  "category": "culture",
+  "source": "https://github.com/seav/pananda",
+  "source_url": "https://github.com/seav/pananda",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regions",
+      "label": "Regions",
+      "type": "string"
+    },
+    {
+      "key": "macro_address",
+      "label": "Macro Address",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "inscriptions_other_langs",
+      "label": "Inscriptions Other Langs",
+      "type": "string"
+    },
+    {
+      "key": "inscription_photo",
+      "label": "Inscription Photo",
+      "type": "string"
+    },
+    {
+      "key": "location_description",
+      "label": "Location Description",
+      "type": "string"
+    },
+    {
+      "key": "location_photo",
+      "label": "Location Photo",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_articles",
+      "label": "Wikipedia Articles",
+      "type": "string"
+    },
+    {
+      "key": "commons_category",
+      "label": "Commons Category",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "title_en",
+      "label": "Title En",
+      "type": "string"
+    },
+    {
+      "key": "subtitle_en",
+      "label": "Subtitle En",
+      "type": "string"
+    },
+    {
+      "key": "inscription_en",
+      "label": "Inscription En",
+      "type": "string"
+    },
+    {
+      "key": "title_tl",
+      "label": "Title Tl",
+      "type": "string"
+    },
+    {
+      "key": "subtitle_tl",
+      "label": "Subtitle Tl",
+      "type": "string"
+    },
+    {
+      "key": "inscription_tl",
+      "label": "Inscription Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wikidata_qid": "Q23854678",
+      "name": "Dr. Jose Rizal",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Berlin, Germany",
+      "address": "Jägerstraße 71, Mitte, Berlin, Germany",
+      "date": "2003",
+      "latitude": 52.5138,
+      "longitude": 13.38659,
+      "inscriptions_other_langs": "de: Dr. Jose Rizal, (1861–1896), <p>Nationalheld der Philippinen, war Arzt und Dichter. Als Reformer und Kritiker der Kolonialregierung Spanien stand Rizal für den gewaltlosen Widerstand und vollendete in diesem Haus seinen stark autobiographisch geprägten Roman, Noli me tangere.</p>",
+      "inscription_photo": "height: 2576; credit: Eugene Alvin Villar (seav); file: José Rizal historical marker in Berlin.jpg; width: 2500",
+      "location_description": "The historical marker is located on the wall immediately to the right of the building’s entrance.",
+      "location_photo": "width: 4128; file: Building where Jose Rizal marker in Berlin is located 03.jpg; credit: Carlo Joseph Moskito {CC BY‑SA 4.0}; height: 3096",
+      "wikipedia_articles": "Noli Me Tángere: Noli Me Tángere (novel); José Rizal: true",
+      "commons_category": "Jos%C3%A9_Rizal_historical_marker_in_Berlin",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23854678"
+    },
+    {
+      "wikidata_qid": "Q26709080",
+      "name": "José Rizal",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Wilhelmsfeld, Germany",
+      "address": "José-Rizal-Straße 17, Wilhelmsfeld, Rhein-Neckar, Baden-Württemberg, Germany",
+      "date": "1960-01-04",
+      "latitude": 49.47027,
+      "longitude": 8.75882,
+      "inscriptions_other_langs": "de: José Rizal, 1861–1896<br>Nationalheld der Philippinen, <p>[Rizal] verfasste den letzten Teil seines Romans “Noli Me Tangere” in diesem Haus, während er Gast von Pfarrer Ullmer war 1886</p>",
+      "inscription_photo": "width: 2573; file: José Rizal historical marker in Wilhelmsfeld.jpg; credit: Eugene Alvin Villar (seav); height: 3681",
+      "location_description": "The historical marker is located on the property wall of the pastor’s house.",
+      "location_photo": "credit: Eugene Alvin Villar (seav) {CC BY‑SA 4.0}; file: Pastor Karl Ullmer's house in Wilhelmsfeld, Germany - 2.jpg; width: 3000; height: 4000",
+      "wikipedia_articles": "José Rizal: true; Noli Me Tángere: Noli Me Tángere (novel)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26709080"
+    },
+    {
+      "wikidata_qid": "Q28874593",
+      "name": "Jose Rizal",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Brussels, Belgium",
+      "address": "42 Rue Philippe de Champagne, Midi-Lemonnier Quarter, Brussels, Belgium",
+      "date": "2007",
+      "latitude": 50.8433,
+      "longitude": 4.34736,
+      "inscriptions_other_langs": "fr: Jose Rizal, 1861–1896, <p>Heros National des Philippines</p><p>Habitait dan cette maison lorsqu’il ecrivit son roman ‘El Filibusterismo’ en 1890–1891</p>",
+      "inscription_photo": "credit: Michel wal {CC BY‑SA 3.0}; file: Jose Rizal historical marker in Brussels, Belgium.jpg; width: 1966; height: 1687",
+      "location_description": "The historical marker is located below the 'Rue Philippe de Champagne' street sign.",
+      "wikipedia_articles": "José Rizal: true; El Filibusterismo: El filibusterismo",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28874593"
+    },
+    {
+      "wikidata_qid": "Q30127147",
+      "name": "José Rizal",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Ghent, Belgium",
+      "address": "Henegouwenstraat 9, Ghent, East Flanders, Flemish Region, Belgium",
+      "date": "1959",
+      "latitude": 51.05221,
+      "longitude": 3.72602,
+      "inscriptions_other_langs": "fr: José Rizal, 1861–1896<br>Héros National des Philippines, <p>[Rizal] vivait dans cette maison quand il publia son roman “El Filibusterismo” en 1891.</p>",
+      "inscription_photo": "width: 972; file: José Rizal gedenkplaat Henegouwenstraat Gent.png; credit: Paul Drieghe {CC BY‑SA 3.0}; height: 1332",
+      "wikipedia_articles": "El Filibusterismo: El filibusterismo; José Rizal: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30127147"
+    },
+    {
+      "wikidata_qid": "Q30129474",
+      "name": "Jose Rizal",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Carson, California, United States",
+      "address": "801 E. Carson Street, Carson, Los Angeles County, California, United States of America",
+      "date": "2012-09-29",
+      "latitude": 33.83206,
+      "longitude": -118.26048,
+      "title_en": "Jose Rizal",
+      "subtitle_en": "(1861–1896)",
+      "inscription_en": "<p>Philippine National Hero. Born on 19 June 1861. Doctor, poet, writer, educator, linguist, inventor.</p><p>Authored novels Noli Me Tangere (1887) and El Filibusterismo (1891) which bared colonial oppression of the Filipinos. He advocated nonviolent struggle for freedom but was charged with inciting dissent.</p><p>The living soul of the 1896 Philippine revolution, he was executed on 30 December 1896.</p><p>His martyrdom inspired a sense of nationhood that eventually led to the proclamation of the Philippine Independence in 1898.</p><p>Installed in commemoration of Jose Rizal’s 150<sup>th</sup> birth anniversary.</p>",
+      "inscription_photo": "credit: Josh Lim (Sky Harbor) {CC BY‑SA 4.0}; file: José Rizal (Carson, California) historical marker.jpg; width: 2304; height: 3456",
+      "wikipedia_articles": "José Rizal: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30129474"
+    },
+    {
+      "wikidata_qid": "Q30130018",
+      "name": "Jose Rizal",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Sydney, New South Wales, Australia",
+      "address": "Rizal Park, Anthony Drive, Rosemeadow, City of Campbelltown, New South Wales, Australia",
+      "date": "2012-10-26",
+      "latitude": -34.10127,
+      "longitude": 150.79218,
+      "title_en": "Jose Rizal",
+      "subtitle_en": "(1861–1896)",
+      "inscription_en": "<p>Philippine National Hero. Born on 19 June 1861. Doctor, poet, writer, educator, linguist, inventor.</p><p>Authored novels Noli Me Tangere (1887) and El Filibusterismo (1891) which bared colonial oppression of the Filipinos. He advocated nonviolent struggle for freedom but was charged with inciting dissent.</p><p>The living soul of the 1896 Philippine revolution, he was executed on 30 December 1896.</p><p>His martyrdom inspired a sense of nationhood that eventually led to the proclamation of the Philippine Independence in 1898.</p>",
+      "inscription_photo": "credit: Josh Lim (Sky Harbor) {CC BY‑SA 4.0}; file: Jose Rizal historical marker in Campbelltown.jpg; width: 2078; height: 2990",
+      "wikipedia_articles": "José Rizal: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30130018"
+    },
+    {
+      "wikidata_qid": "Q30130266",
+      "name": "Embahada ng Pilipinas",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Tokyo, Japan",
+      "address": "The Kudan, Fujimi, Chiyoda-ku, Tokyo, Japan",
+      "date": "2014-03-03",
+      "latitude": 35.69686,
+      "longitude": 139.74881,
+      "title_tl": "Embahada ng Pilipinas",
+      "subtitle_tl": "Fujimi, Chiyoda-ku, Tokyo",
+      "inscription_tl": "<p>Ipinahayag bilang Pambansang Palatandaang Pangkasaysayan sa bisa ng Resolusyon Blg. 1 ng Pambansang Komisyong Pangkasaysayan ng Pilipinas, 11 Marso 2013.</p>",
+      "inscription_photo": "file: Embahada ng Pilipinas historical marker.jpg; credit: Eugene Alvin Villar (seav); width: 2715; height: 2549",
+      "location_description": "The historical marker is located on the exterior wall of the security building beside the main gate of the residence.",
+      "location_photo": "height: 3000; width: 4000; credit: Eugene Alvin Villar (seav) {CC BY‑SA 4.0}; file: The Kudan main gate (3).jpg",
+      "wikipedia_articles": "The Kudan: true",
+      "commons_category": "Embahada_ng_Pilipinas_(Tokyo)_historical_marker",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30130266"
+    },
+    {
+      "wikidata_qid": "Q30131050",
+      "name": "José Rizal",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Paris, France",
+      "address": "124 Rue de Rennes, 6th arrondissement, Paris, Île-de-France, France",
+      "date": "1959",
+      "latitude": 48.84667,
+      "longitude": 2.32642,
+      "inscriptions_other_langs": "fr: José Rizal, 1861–1896<br>Héros National des Philippines, <p>[Rizal] vécut dans cette maison en 1883.</p>",
+      "inscription_photo": "file: Plaque José Rizal, 124 rue de Rennes, Paris 6e.jpg; credit: Celette {CC BY‑SA 4.0}; width: 3371; height: 2637",
+      "wikipedia_articles": "José Rizal: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30131050"
+    },
+    {
+      "wikidata_qid": "Q30133244",
+      "name": "Dr. Jose Rizal",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Chicago, Illinois, United States",
+      "address": "1332 West Irving Park Road, Chicago, Cook County, Illinois, United States of America",
+      "date": "1993",
+      "latitude": 41.95452,
+      "longitude": -87.6634,
+      "title_en": "Dr. Jose Rizal",
+      "subtitle_en": "(1861–1896)",
+      "inscription_en": "<p>National hero of the Philippines arrived in Chicago, Illinois on May 11, 1888 at 8:14 a.m. He visited places of interest and left the city at 8:25 p.m.</p>",
+      "wikipedia_articles": "José Rizal: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30133244"
+    },
+    {
+      "wikidata_qid": "Q52878121",
+      "name": "Paduka Batara",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Dezhou, Shandong, China",
+      "address": "Su Lu Wang Mu, Lingnan Road, Decheng District, Dezhou, Shandong, People's Republic of China",
+      "date": "",
+      "latitude": 37.47069,
+      "longitude": 116.28982,
+      "title_en": "Paduka Batara",
+      "subtitle_en": "",
+      "inscription_en": "<p>The Eastern King of Sulu, known in Chinese records as Pa-tu-ko Pa-ta-la or Pa-tu Ko Pa-ha-la. Travelled to China in 1417 during the reign of Emperor Yongle with an entourage of more than 340 persons, and presented to the emperor a tribute consisting of a letter in golden script, pearls and other precious gifts. Acknowledging the king as a true ruler, Emperor Yongle gave him official seals, commissions, and other imperial gifts as a sign of great respect and admiration. Enroute to his homeland after 27 days in China, the Sulu chief fell ill and died in Dezhou, Shandong Province. Buried in Dezhou, two of his sons stayed behind to honor and guard their father’s tomb. Their descendants, with the surnames An and Wen, continue to live today in Dezhou.</p><p>In honor of the strong bond of friendship and goodwill forged together by the early rulers of Sulu and China this historical marker is dedicated by the National Historical Institute of the Philippines and the Katipunang Gatrizal in cooperation with the Sultanate of Sulu.</p>",
+      "wikipedia_articles": "Paduka Pahala: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52878121"
+    },
+    {
+      "wikidata_qid": "Q52984027",
+      "name": "Apolinario Mabini",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Guam, United States",
+      "address": "Asan Beach Unit, War in the Pacific National Historical Park, Marine Corps Drive, Asan, Asan-Maina, Guam, United States of America",
+      "date": "1964",
+      "latitude": 13.47462,
+      "longitude": 144.70899,
+      "title_en": "Apolinario Mabini",
+      "subtitle_en": "(1854–1903)",
+      "inscription_en": "<p>Filipino patriot, nationalist, statesman, and political scientist, Prime Minister and Secretary of Foreign Affairs of the First Philippine Republic. Banished to Guam as “the most prominent irreconcilable among the Filipinos.” He lived in a building on this site of Asan, from February 1901 to February 1903. With him were revolutionary General Artemio Recarte, Pio del Pilar, Maximino Hizon, and 54 other Filipino political prisoners.</p>",
+      "inscription_photo": "height: 1600; credit: National Historical Commission of the Philippines (NHCP); file: Apolinario Mabini historical marker in Guam.jpg; width: 1128",
+      "location_description": "The historical marker is attached to a vertical concrete pedestal at Asan Beach.",
+      "location_photo": "width: 4320; credit: Daderot; file: Apolinario Mabini memorial - War in the Pacific National Historical Park (Asan Beach Unit) - DSC00847.JPG; height: 3240",
+      "wikipedia_articles": "Apolinario Mabini: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52984027"
+    },
+    {
+      "wikidata_qid": "Q56810749",
+      "name": "Dr. Jose P. Rizal",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Vienna, Austria",
+      "address": "Leopold Hof Building, Franz Josefs Kai 31–33 cor. Morzinplatz 4, First District, Vienna, Austria",
+      "date": "1995-06-19",
+      "latitude": 48.21328,
+      "longitude": 16.37446,
+      "inscriptions_other_langs": "de: Dr. Jose P. Rizal, (1861–1896), <p>Dr. José P. Rizal, Philippinischer nationalheld, wohnte vom 20. bis 24. Mai 1887 im Hotel Metropole, das sich an dieser stelle befand. Ein österreichischer lehrer, Professor Ferdinand Blumentritt, unterstützte Rizals aktion in Europa gegen die Spanische kolonialherrschaft.</p>",
+      "inscription_photo": "height: 3456; credit: GuentherZ {CC BY 3.0}; file: Wien01 Franz-Josefs-Kai031 2018-01-19 GuentherZ GD Rizal 0318.jpg; width: 4608",
+      "wikipedia_articles": "José Rizal: true",
+      "commons_category": "Gedenktafel_f%C3%BCr_Jos%C3%A9_Rizal_(Wien,_Franz-Josefs-Kai_31)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56810749"
+    },
+    {
+      "wikidata_qid": "Q60232924",
+      "name": "Jose Protacio Rizal",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Jersey City, New Jersey, United States",
+      "address": "Christopher Columbus Drive cor. Brunswick Street, Jersey City, Hudson County, New Jersey, United States of America",
+      "date": "2000-10-24",
+      "latitude": 40.72212,
+      "longitude": -74.051,
+      "title_en": "Jose Protacio Rizal",
+      "subtitle_en": "(1861–1896)",
+      "inscription_en": "<p>The National Hero of the Philippines and the pride of the Malay race. He was a physician, poet, linguist and polyglot, sculptor and political essayist. Author of the two famous novels, Noli Me Tangere (The Social Cancer), 1887, and El Filibusterismo (The Reign of Greed), 1891, which dramatized the colonial oppression of the Filipinos during the Spanish Regime. Arrested on July 6, 1892 for organizing La Liga Filipina, an association seeking to defend Filipino rights. Deported on July 15, 1892 to Dapitan, Zamboanga in Mindanao. Volunteered as a military doctor for the Spanish forces fighting in Cuba. Enroute to Spain, Rizal was again arrested and brought back to Manila where he was charged with inspiring the Philippine Revolution. Executed by musketry and died as a martyr on December 30, 1896 in Bagumbayan (now Rizal Park), Manila.</p><p>This historical marker is installed by the Filipino community in New Jersey in honor of Dr. Jose Rizal. Unveiled by His Excellency, President Joseph Ejercito Estrada, President of the Republic of the Philippines, on 24 October 2000.</p>",
+      "inscription_photo": "height: 4032; credit: Josh Lim (Sky Harbor) {CC BY‑SA 4.0}; file: José Rizal Monument in Jersey City historical marker.jpg; width: 3024",
+      "location_description": "The historical marker is located on the pedestal of the statue of José Rizal.",
+      "location_photo": "height: 3024; file: José Rizal Monument in Jersey City.jpg; credit: Josh Lim (Sky Harbor) {CC BY‑SA 4.0}; width: 4032",
+      "wikipedia_articles": "José Rizal: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60232924"
+    },
+    {
+      "wikidata_qid": "Q60458584",
+      "name": "The Arrival of Filipino Plantation Workers in Hawaii",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Waipahu, Hawaii, United States",
+      "address": "Filipino Community Center, 94-428 Mokuola Street, Waipahu, Honolulu County, Hawaii, United States of America",
+      "date": "2006-09-16",
+      "latitude": 21.38708,
+      "longitude": -158.0063,
+      "title_en": "The Arrival of Filipino Plantation Workers in Hawaii",
+      "subtitle_en": "",
+      "inscription_en": "<p>In the afternoon of 20 December 1906, a group of fifteen Filipinos arrived aboard the SS Doric after sailing for about a month from the Philippines. These men were Simplicio Gironella, his four sons Mariano, Vicente, Francisco and Antonio; Mauricio Cortez and his brother Celestino; Prudencio Sagun and his brother Cecilio. The others were Marciano Bello, Emiliano Dasulla, Julian Galmen, Martin de Jesus, Apolonio Ramos and Filomeno Rebollido. These 15 original Filipino workers from the Ilocos region were recruited by the Hawii Sugar Planters’ Association. After arriving in Honolulu, they traveled to the big island of Hawaii to work at the Ola’a sugar plantation. They started the first wave of Filipino migration to Hawaii.</p><p>On the occasion of the Centennial Celebration of Filipino Migration to Hawaii, this statue was unveiled by H.E. Gloria Macapagal–Arroyo, President of the Republic of the Philippines, on this 16<sup>th</sup> day of September 2006.</p>",
+      "inscription_photo": "width: 720; credit: Dean Munsayac {CC BY‑SA 4.0}; file: Arrival of Filipino Plantation Workers in Hawaii NHCP historical marker.jpg; height: 1280",
+      "location_description": "The historical marker is located on a wooden mounting inside the Casamina-Flores Ballroom.",
+      "location_photo": "height: 720; width: 1280; credit: Dean Munsayac {CC BY‑SA 4.0}; file: Arrival of Filipino Plantation Workers in Hawaii NHCP historical marker display.jpg",
+      "wikipedia_articles": "Sakadas: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60458584"
+    },
+    {
+      "wikidata_qid": "Q63349729",
+      "name": "Old Chancery of the Embassy of the Republic of the Philippines in the United States",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Washington, D.C., United States",
+      "address": "Old Chancery, 1617 Massachusetts Ave NW, Washington, D.C., United States of America",
+      "date": "2018-11-09",
+      "latitude": 38.90782,
+      "longitude": -77.03741,
+      "title_tl": "Lumang Chancery ng Pasuguan ng Republika ng Pilipinas sa Estados Unidos",
+      "subtitle_tl": "",
+      "inscription_tl": "<p>Ipinatayo ayon sa disenyo ni Arkitekto Appleton Prentis Clark, Jr. at naging tahanan ng pamilya ni Linda M. Hutchinson-Webb, 1913–1916, at nina Daniel at Stella Stapleton, 1917–1941. Binili ng Pamahalaang Commonwealth ng Pilipinas upang maging tanggapan ng Resident Commissioner sa tulong ni Joaquin Elizalde, 1941–1946. Nagsilbing Tanggapan ng mga Espesyal na Serbisyo at Kagawaran ng Impormasyon at Ugnayang Pampubliko ng Pamahalaang Commonwealth noong Ikalawang Digmaang Pandaigdig, 1943–1946. Nagsilbing chancery ng Pasuguan ng Republika ng Pilipinas sa Estados Unidos, 1946–1995. Isinaayos at naging annex ng chancery ng Pasuguan ng Pilipinas, 2016. Idineklarang Pambansang Palatandaang Pangkasaysayan, 16 Abril 2018.</p>",
+      "title_en": "Old Chancery of the Embassy of the Republic of the Philippines in the United States",
+      "subtitle_en": "",
+      "inscription_en": "<p>Constructed according to the plans of Architect Appleton Prentis Clark, Jr. as the residence of Linda M. Hutchinson-Webb and Family, 1913–1916, and of Daniel and Stella Stapleton, 1917–1941. Purchased by the Philippine Commonwealth Government to serve as office of the Resident Commissioner through the efforts of Joaquin Elizalde, 1941–1946. Functioned as the Office of Special Services and Department of Information and Public Relations of the Commonwealth Government during the Second World War, 1943–1946. Served as the chancery of the Embassy of the Republic of the Philippines, 1946–1995. Renovated and became an annex to the chancery of the Philippine Embassy, 2016. Declared as National Historical Landmark, 16 April 2018.</p>",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63349729"
+    },
+    {
+      "wikidata_qid": "Q79945262",
+      "name": "Embassy of the Philippines",
+      "region": "Overseas",
+      "regions": "Overseas",
+      "macro_address": "Tokyo, Japan",
+      "address": "The Kudan, Fujimi, Chiyoda-ku, Tokyo, Japan",
+      "date": "1962-03-09",
+      "latitude": 35.69709,
+      "longitude": 139.74893,
+      "title_en": "Embassy of the Philippines",
+      "subtitle_en": "Tokyo",
+      "inscription_en": "<p>This building, dating from the Tokugawa Shogunate, was purchased for the Philippines on 31 March 1944 by President Jose P. Laurel of the Second Philippine Republic.</p><p>Tokyo, March 9, 1962</p>",
+      "inscription_photo": "height: 334; width: 200; credit: Philippine Embassy in Tokyo, Japan; file: Embassy of the Philippines Tokyo historical marker.gif",
+      "location_description": "The historical marker is located on the left-side wall of the main entrance porch.",
+      "wikipedia_articles": "The Kudan: true",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q79945262"
+    }
+  ],
+  "meta": {
+    "title": "Makasaysayang Pananda ng NHCP — Sa Ibang Bansa - Libreng download",
+    "description": "Mga makasaysayang pananda ng Pambansang Komisyong Pangkasaysayan ng Pilipinas (NHCP) sa rehiyon na Sa Ibang Bansa. Filtered subset ng pambansang tl-bantayog-pangkasaysayan (16 pananda mula sa 1235 pambansa). Bawat tala ay naglalaman ng Wikidata Q-ID, pangalan, address, petsa ng paglalagay, koordinada (lat/lon WGS84), inskripsyon sa Tagalog/Ingles (HTML), litrato ng pananda (kung mayroon), at Wikipedia/Commons na link. (NHCP historical markers in Overseas — filtered subset of the national NHCP marker inventory, 16 of 1235 nationally.) Naglalaman ng 16 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Makasaysayang Pananda ng NHCP — Sa Ibang Bansa | ListBase",
+    "seo_description": "I-download Makasaysayang Pananda ng NHCP — Sa Ibang Bansa — 16 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 16 talaan / 22 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/seav/pananda"
+    ]
+  }
+}

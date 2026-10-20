@@ -1,0 +1,181 @@
+{
+  "id": "tl-bicol-paliparan",
+  "name": "Mga Paliparan — Bicol",
+  "title": "Mga Paliparan — Bicol",
+  "description": "Mga paliparan at landing strip sa Bicol (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Bicol`. (Airports in Bicol Region (Region V), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RPLZ",
+      "iata": "",
+      "name": "Sorsogon",
+      "city": "",
+      "subdivision": "Bicol",
+      "subdivision_native": "Bicol",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 0,
+      "latitude": 12.99859,
+      "longitude": 124.01808,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUD",
+      "iata": "DTE",
+      "name": "Daet Airport",
+      "city": "Daet",
+      "subdivision": "Bicol",
+      "subdivision_native": "Bicol",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 10,
+      "latitude": 14.1292,
+      "longitude": 122.98,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUN",
+      "iata": "WNP",
+      "name": "Naga Airport",
+      "city": "Naga",
+      "subdivision": "Bicol",
+      "subdivision_native": "Bicol",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 142,
+      "latitude": 13.5849,
+      "longitude": 123.27,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUU",
+      "iata": "",
+      "name": "Bulan Airport",
+      "city": "Bulan",
+      "subdivision": "Bicol",
+      "subdivision_native": "Bicol",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 3937,
+      "latitude": 12.6842,
+      "longitude": 123.878,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPUV",
+      "iata": "VRC",
+      "name": "Virac Airport",
+      "city": "Virac",
+      "subdivision": "Bicol",
+      "subdivision_native": "Bicol",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 121,
+      "latitude": 13.5764,
+      "longitude": 124.206,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    },
+    {
+      "icao": "RPVJ",
+      "iata": "MBT",
+      "name": "Moises R. Espinosa Airport",
+      "city": "Masbate",
+      "subdivision": "Bicol",
+      "subdivision_native": "Bicol",
+      "country": "PH",
+      "country_native": "Pilipinas",
+      "elevation_ft": 26,
+      "latitude": 12.3694,
+      "longitude": 123.629,
+      "timezone": "Asia/Manila",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Paliparan — Bicol - Libreng download",
+    "description": "Mga paliparan at landing strip sa Bicol (Pilipinas / PH) — kabilang ang ICAO/IATA codes, lungsod, koordinada (WGS84), elevation at timezone. Pinipili mula sa pambansang listahan ng paliparan ng Pilipinas (kapareha ng `tl-paliparan` mula sa mwgg/Airports), na sinala ayon sa rehiyon na `Bicol`. (Airports in Bicol Region (Region V), Philippines — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list.) Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Paliparan — Bicol | ListBase",
+    "seo_description": "I-download Mga Paliparan — Bicol — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 13 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

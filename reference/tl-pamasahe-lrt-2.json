@@ -1,0 +1,898 @@
+{
+  "id": "tl-pamasahe-lrt-2",
+  "name": "Mga Pamasahe sa LRT-2 (Light Rail Transit Line 2)",
+  "title": "Mga Pamasahe sa LRT-2 (Light Rail Transit Line 2)",
+  "description": "Pamasahe sa LRT Line 2 (Purple Line) mula Recto hanggang Santolan sa Metro Manila. Para sa bawat origin-destination pair ipinapakita ang single-journey ticket (SJT) at stored-value ticket (Beep card) na halaga. 11 istasyon. (LRT-2 fare matrix between any two stations, showing both Single Journey Ticket and Stored Value Beep card prices. 11 stations connecting Manila and Marikina via Quezon City.)",
+  "category": "reference",
+  "source": "https://github.com/sakayph/fares",
+  "source_url": "https://github.com/sakayph/fares",
+  "updated": "2026-04",
+  "record_count": 121,
+  "columns": [
+    {
+      "key": "origin",
+      "label": "Origin",
+      "type": "string"
+    },
+    {
+      "key": "destination",
+      "label": "Destination",
+      "type": "string"
+    },
+    {
+      "key": "fare_single_journey_php",
+      "label": "Fare Single Journey Php",
+      "type": "number"
+    },
+    {
+      "key": "fare_stored_value_php",
+      "label": "Fare Stored Value Php",
+      "type": "number"
+    },
+    {
+      "key": "currency",
+      "label": "Currency",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "origin": "Recto",
+      "destination": "Recto",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Recto",
+      "destination": "Legarda",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Recto",
+      "destination": "Pureza",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Recto",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Recto",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Recto",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Recto",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Recto",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Recto",
+      "destination": "Anonas",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Recto",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Recto",
+      "destination": "Santolan",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "Recto",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "Legarda",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "Pureza",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "Anonas",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Legarda",
+      "destination": "Santolan",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "Recto",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "Legarda",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "Pureza",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "Anonas",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Pureza",
+      "destination": "Santolan",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "Recto",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "Legarda",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "Pureza",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "Anonas",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "V. Mapa",
+      "destination": "Santolan",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "Recto",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "Legarda",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "Pureza",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "Anonas",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "J. Ruiz",
+      "destination": "Santolan",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "Recto",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "Legarda",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "Pureza",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "Anonas",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Gilmore",
+      "destination": "Santolan",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "Recto",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "Legarda",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "Pureza",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "Anonas",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Betty Go-Belmonte",
+      "destination": "Santolan",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "Recto",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "Legarda",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "Pureza",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "Anonas",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Araneta - Cubao",
+      "destination": "Santolan",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "Recto",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "Legarda",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "Pureza",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "Anonas",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Anonas",
+      "destination": "Santolan",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "Recto",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "Legarda",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "Pureza",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 20,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "Anonas",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 12,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Katipunan",
+      "destination": "Santolan",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Recto",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 24,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Legarda",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 23,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Pureza",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "V. Mapa",
+      "fare_single_journey_php": 25,
+      "fare_stored_value_php": 21,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "J. Ruiz",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 19,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Gilmore",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 18,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Betty Go-Belmonte",
+      "fare_single_journey_php": 20,
+      "fare_stored_value_php": 17,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Araneta - Cubao",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 15,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Anonas",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 14,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Katipunan",
+      "fare_single_journey_php": 15,
+      "fare_stored_value_php": 13,
+      "currency": "PHP"
+    },
+    {
+      "origin": "Santolan",
+      "destination": "Santolan",
+      "fare_single_journey_php": 0,
+      "fare_stored_value_php": 0,
+      "currency": "PHP"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pamasahe sa LRT-2 (Light Rail Transit Line 2) - Libreng download",
+    "description": "Pamasahe sa LRT Line 2 (Purple Line) mula Recto hanggang Santolan sa Metro Manila. Para sa bawat origin-destination pair ipinapakita ang single-journey ticket (SJT) at stored-value ticket (Beep card) na halaga. 11 istasyon. (LRT-2 fare matrix between any two stations, showing both Single Journey Ticket and Stored Value Beep card prices. 11 stations connecting Manila and Marikina via Quezon City.) Naglalaman ng 121 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Pamasahe sa LRT-2 (Light Rail Transit Line 2) | ListBase",
+    "seo_description": "I-download Mga Pamasahe sa LRT-2 (Light Rail Transit Line 2) — 121 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 121 talaan / 5 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/sakayph/fares"
+    ]
+  }
+}

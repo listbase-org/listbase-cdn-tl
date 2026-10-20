@@ -1,0 +1,160 @@
+{
+  "id": "tl-zambales-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Zambales",
+  "title": "Mga Bayan ng Lalawigan ng Zambales",
+  "description": "Listahan ng 13 munisipalidad (bayan) sa lalawigan ng Zambales, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "037101000",
+      "name": "BOTOLAN",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 57707,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "037102000",
+      "name": "CABANGAN",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 25163,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "037103000",
+      "name": "CANDELARIA",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 27174,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "037104000",
+      "name": "CASTILLEJOS",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 64841,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "037105000",
+      "name": "IBA (Capital)",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 50506,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "037106000",
+      "name": "MASINLOC",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 47719,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "037108000",
+      "name": "PALAUIG",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 34947,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "037109000",
+      "name": "SAN ANTONIO",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 34661,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "037110000",
+      "name": "SAN FELIPE",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 23183,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "037111000",
+      "name": "SAN MARCELINO",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 33665,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "037112000",
+      "name": "SAN NARCISO",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 28360,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "037113000",
+      "name": "SANTA CRUZ",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 58151,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "037114000",
+      "name": "SUBIC",
+      "province": "ZAMBALES",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 104771,
+      "income_classification": "1st"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Zambales - Libreng download",
+    "description": "Listahan ng 13 munisipalidad (bayan) sa lalawigan ng Zambales, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 13 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Zambales | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Zambales — 13 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 13 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

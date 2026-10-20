@@ -1,0 +1,148 @@
+{
+  "id": "tl-quirino-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Quirino",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Quirino",
+  "description": "Direktoryo ng 6 lungsod at bayan sa lalawigan ng Quirino (Lambak ng Cagayan (Region II)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Quirino` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Aglipay",
+      "uri": "Bayan",
+      "lalawigan": "QUIRINO PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3403",
+      "punong_bayan": "JERRY T. AGSALDA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "WARLITA G. ALBERTO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Cabarroguis",
+      "uri": "Bayan",
+      "lalawigan": "QUIRINO PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3400",
+      "punong_bayan": "AVELINO N. AGUSTIN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FRANCISCO M. DULNUAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Diffun",
+      "uri": "Bayan",
+      "lalawigan": "QUIRINO PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3401",
+      "punong_bayan": "MAY G. CALAUNAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARLITO G. CORPUZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Maddela",
+      "uri": "Bayan",
+      "lalawigan": "QUIRINO PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3404",
+      "punong_bayan": "RIMEL C. TOLENTINO",
+      "kontak_punong_bayan": "(078) 374-1543",
+      "pangalawang_punong_bayan": "JOEL B. BADONGEN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Nagtipunan",
+      "uri": "Bayan",
+      "lalawigan": "QUIRINO PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3405",
+      "punong_bayan": "NOEL T. LIM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARNEL R. FIESTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Saguday",
+      "uri": "Bayan",
+      "lalawigan": "QUIRINO PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3402",
+      "punong_bayan": "JERRY M. PAGBILAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RIC B. CADIENTE",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Quirino - Libreng download",
+    "description": "Direktoryo ng 6 lungsod at bayan sa lalawigan ng Quirino (Lambak ng Cagayan (Region II)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Quirino` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 6 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Quirino | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Quirino — 6 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 6 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

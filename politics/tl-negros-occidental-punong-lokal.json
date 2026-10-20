@@ -1,0 +1,460 @@
+{
+  "id": "tl-negros-occidental-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Negros Occidental",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Negros Occidental",
+  "description": "Direktoryo ng 32 lungsod at bayan sa lalawigan ng Negros Occidental (Rehiyon ng Pulo ng Negros (NIR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Negros Occidental` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Bacolod",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "ALFREDO ABELARDO B. BENITEZ",
+      "kontak_punong_bayan": "(034) 435-5879",
+      "pangalawang_punong_bayan": "EL CID M. FAMILIARAN",
+      "kontak_pangalawang_punong_bayan": "(034) 703-1284"
+    },
+    {
+      "id": 2,
+      "lgu": "Bago",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "NICHOLAS M. YULO",
+      "kontak_punong_bayan": "(034) 461-0164; 447-8181 loc. 205",
+      "pangalawang_punong_bayan": "RAMON D. TORRES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Binalbagan",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6107",
+      "punong_bayan": "ALEJANDRO Y. MIRASOL",
+      "kontak_punong_bayan": "(034) 388-8288",
+      "pangalawang_punong_bayan": "MARY ANN T. MIRASOL",
+      "kontak_pangalawang_punong_bayan": "(034) 388-8317"
+    },
+    {
+      "id": 4,
+      "lgu": "Cadiz",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "SALVADOR G. ESCALANTE JR.",
+      "kontak_punong_bayan": "(034) 708-0932",
+      "pangalawang_punong_bayan": "LILIA O. DECOLONGON",
+      "kontak_pangalawang_punong_bayan": "(034) 485-4788"
+    },
+    {
+      "id": 5,
+      "lgu": "Calatrava",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6126",
+      "punong_bayan": "MARILYN A. ERA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FLORIDO C. DINAPO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Candoni",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6110",
+      "punong_bayan": "RAY R. RUIZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CICERO D. BORROMEO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Cauayan",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6112",
+      "punong_bayan": "JOHN REY D. TABUJARA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANNA LIZA T. SORIANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Enrique B. Magalona",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6118",
+      "punong_bayan": "MARVIN M. MALACON",
+      "kontak_punong_bayan": "(034) 495-1100",
+      "pangalawang_punong_bayan": "ERIC D. MATULAC",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Escalante",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "MELECIO J. YAP JR.",
+      "kontak_punong_bayan": "(034) 454-0362; 454-0722",
+      "pangalawang_punong_bayan": "ROGELIO A. PRIETOS",
+      "kontak_pangalawang_punong_bayan": "(034) 724-3998"
+    },
+    {
+      "id": 10,
+      "lgu": "Himamaylan",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "ROGELIO RAYMUND I. TONGSON JR.",
+      "kontak_punong_bayan": "(034) 744-6328",
+      "pangalawang_punong_bayan": "JUSTIN DOMINIC S. GATUSLAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Hinigaran",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6106",
+      "punong_bayan": "JOSE NADIE P. ARCEO",
+      "kontak_punong_bayan": "(034) 740-7579",
+      "pangalawang_punong_bayan": "MARY GRACE S. ARCEO",
+      "kontak_pangalawang_punong_bayan": "(034) 391-7781"
+    },
+    {
+      "id": 12,
+      "lgu": "Hinoba-an",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6114",
+      "punong_bayan": "DAPH ANTHONY V. RELIQUIAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JEFRE L. ENCOY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Ilog",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6109",
+      "punong_bayan": "JOHN PAUL K. ALVAREZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GENARO RAFAEL K. ALVAREZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Isabela",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6128",
+      "punong_bayan": "IRENE MIRIAM LUZ C. MONTILLA",
+      "kontak_punong_bayan": "(034) 387-2248",
+      "pangalawang_punong_bayan": "JUAN MIGUEL C. MONTILLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Kabankalan",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "BENJIE M. MIRANDA",
+      "kontak_punong_bayan": "(034) 471-2291",
+      "pangalawang_punong_bayan": "MIGUEL M. ZAYCO",
+      "kontak_pangalawang_punong_bayan": "(034) 702-9332"
+    },
+    {
+      "id": 16,
+      "lgu": "La Carlota",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "REX R. JALANDO-ON",
+      "kontak_punong_bayan": "(034) 460-0066; 735-1995",
+      "pangalawang_punong_bayan": "DAVID T. BAGA, JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "La Castellana",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6131",
+      "punong_bayan": "ALME RHUMMYLA G. NICOR-MANGILIMUTAN",
+      "kontak_punong_bayan": "(034) 485-0193",
+      "pangalawang_punong_bayan": "ALBERTO A. NICOR JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Manapla",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6120",
+      "punong_bayan": "MANUEL M. ESCALANTE III",
+      "kontak_punong_bayan": "(034) 491-0125",
+      "pangalawang_punong_bayan": "EDGAR B. PAGAYONAN",
+      "kontak_pangalawang_punong_bayan": "(034) 491-0282"
+    },
+    {
+      "id": 19,
+      "lgu": "Moises Padilla",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6132",
+      "punong_bayan": "ELLA CELESTINA D. GARCIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ADRIAN S. VILLAFLOR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Murcia",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6129",
+      "punong_bayan": "VICTOR GERARDO M. ROJAS",
+      "kontak_punong_bayan": "(034) 441-2464",
+      "pangalawang_punong_bayan": "JOHNNY P. REOSURA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Pontevedra",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6105",
+      "punong_bayan": "JOSE MARIA A. ALONSO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JIMMY C. GAVAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Pulupandan",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6102",
+      "punong_bayan": "MIGUEL ANTONIO C. PEÑA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANTHONY GERARD A. SUATENGCO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Sagay",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "NARCISO L. JAVELOSA JR.",
+      "kontak_punong_bayan": "(034) 722-1721",
+      "pangalawang_punong_bayan": "LEO RAFAEL M. CUEVA",
+      "kontak_pangalawang_punong_bayan": "(034) 488 2337"
+    },
+    {
+      "id": 24,
+      "lgu": "Salvador Benedicto",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6117",
+      "punong_bayan": "LAURENCE MARXLEN J. DELA CRUZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NEHEMIAH JOE J. DELA CRUZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "San Carlos",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "RENATO Y. GUSTILO",
+      "kontak_punong_bayan": "(034) 488-7188 loc. 101; 312-5199",
+      "pangalawang_punong_bayan": "CHRISTOPHER PAUL S. CARMONA",
+      "kontak_pangalawang_punong_bayan": "(034) 488-7188 loc. 105; 312-5414"
+    },
+    {
+      "id": 26,
+      "lgu": "San Enrique",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6104",
+      "punong_bayan": "JILSON D. TUBILLARA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CARLO RAYMUND D. MAGNO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 27,
+      "lgu": "Silay",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "JOEDITH C. GALLEGO",
+      "kontak_punong_bayan": "(034) 495-0587; 495-0061; 495-5269",
+      "pangalawang_punong_bayan": "THOMAS MAYNARD J. LEDESMA",
+      "kontak_pangalawang_punong_bayan": "(034) 495-4998; 495-6636"
+    },
+    {
+      "id": 28,
+      "lgu": "Sipalay",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "MARIA GINA M. LIZARES",
+      "kontak_punong_bayan": "(034) 467-2785; 473-2101",
+      "pangalawang_punong_bayan": "OSCAR C. MONTILLA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 29,
+      "lgu": "Talisay",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "NILO JESUS ANTONIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSE NICOLAS V. JALANDONI III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 30,
+      "lgu": "Toboso",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6125",
+      "punong_bayan": "MADONNAH M. JAOJOCO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIA LUISA B. DELA CRUZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 31,
+      "lgu": "Valladolid",
+      "uri": "Bayan",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "6103",
+      "punong_bayan": "ENRIQUE R. MIRAVALLES",
+      "kontak_punong_bayan": "(034) 436-5639",
+      "pangalawang_punong_bayan": "ROEL P. YOGORE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 32,
+      "lgu": "Victorias",
+      "uri": "Lungsod",
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "Rehiyon ng Pulo ng Negros (NIR)",
+      "zip_code": "",
+      "punong_bayan": "NEIL E. LIZARES III",
+      "kontak_punong_bayan": "(034) 441-7475; 432-6950",
+      "pangalawang_punong_bayan": "ABELARDO D. BANTUG III",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Negros Occidental - Libreng download",
+    "description": "Direktoryo ng 32 lungsod at bayan sa lalawigan ng Negros Occidental (Rehiyon ng Pulo ng Negros (NIR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Negros Occidental` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 32 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Negros Occidental | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Negros Occidental — 32 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 32 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

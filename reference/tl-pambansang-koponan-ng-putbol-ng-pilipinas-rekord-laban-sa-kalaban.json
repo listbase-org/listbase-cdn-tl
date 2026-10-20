@@ -1,0 +1,632 @@
+{
+  "id": "tl-pambansang-koponan-ng-putbol-ng-pilipinas-rekord-laban-sa-kalaban",
+  "name": "Pambansang koponan ng putbol ng Pilipinas — rekord laban sa bawat kalaban (51)",
+  "title": "Pambansang koponan ng putbol ng Pilipinas — rekord laban sa bawat kalaban (51)",
+  "description": "Pambansang koponan ng putbol ng Pilipinas: Kabuuang rekord laban sa bawat kalaban, kinuwenta mula sa lahat ng laro sa results.csv: mga laro, panalo, tabla, talo, gol na naitala at natanggap, una at huling laro. Resulta batay sa pinal na iskor (walang penalty shootout). Nakaayos ayon sa dami ng laro.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "kalaban",
+      "label": "Kalaban",
+      "type": "string"
+    },
+    {
+      "key": "mga_laro",
+      "label": "Mga Laro",
+      "type": "number"
+    },
+    {
+      "key": "panalo",
+      "label": "Panalo",
+      "type": "number"
+    },
+    {
+      "key": "tabla",
+      "label": "Tabla",
+      "type": "number"
+    },
+    {
+      "key": "talo",
+      "label": "Talo",
+      "type": "number"
+    },
+    {
+      "key": "gol_naitala",
+      "label": "Gol Naitala",
+      "type": "number"
+    },
+    {
+      "key": "gol_natanggap",
+      "label": "Gol Natanggap",
+      "type": "number"
+    },
+    {
+      "key": "unang_laro",
+      "label": "Unang Laro",
+      "type": "date"
+    },
+    {
+      "key": "huling_laro",
+      "label": "Huling Laro",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "kalaban": "Indonesia",
+      "mga_laro": 31,
+      "panalo": 3,
+      "tabla": 5,
+      "talo": 23,
+      "gol_naitala": 23,
+      "gol_natanggap": 90,
+      "unang_laro": "1934-05-19",
+      "huling_laro": "2024-12-21"
+    },
+    {
+      "kalaban": "Thailand",
+      "mga_laro": 26,
+      "panalo": 3,
+      "tabla": 2,
+      "talo": 21,
+      "gol_naitala": 15,
+      "gol_natanggap": 77,
+      "unang_laro": "1971-08-17",
+      "huling_laro": "2026-08-04"
+    },
+    {
+      "kalaban": "Singapore",
+      "mga_laro": 25,
+      "panalo": 4,
+      "tabla": 4,
+      "talo": 17,
+      "gol_naitala": 14,
+      "gol_natanggap": 58,
+      "unang_laro": "1953-06-20",
+      "huling_laro": "2022-03-29"
+    },
+    {
+      "kalaban": "China",
+      "mga_laro": 21,
+      "panalo": 2,
+      "tabla": 2,
+      "talo": 17,
+      "gol_naitala": 8,
+      "gol_natanggap": 62,
+      "unang_laro": "1913-02-04",
+      "huling_laro": "2021-06-07"
+    },
+    {
+      "kalaban": "Malaysia",
+      "mga_laro": 20,
+      "panalo": 1,
+      "tabla": 6,
+      "talo": 13,
+      "gol_naitala": 5,
+      "gol_natanggap": 66,
+      "unang_laro": "1962-08-26",
+      "huling_laro": "2026-08-08"
+    },
+    {
+      "kalaban": "Myanmar",
+      "mga_laro": 18,
+      "panalo": 4,
+      "tabla": 4,
+      "talo": 10,
+      "gol_naitala": 21,
+      "gol_natanggap": 41,
+      "unang_laro": "1971-08-13",
+      "huling_laro": "2026-07-28"
+    },
+    {
+      "kalaban": "Vietnam",
+      "mga_laro": 17,
+      "panalo": 2,
+      "tabla": 2,
+      "talo": 13,
+      "gol_naitala": 16,
+      "gol_natanggap": 36,
+      "unang_laro": "1954-05-03",
+      "huling_laro": "2024-12-18"
+    },
+    {
+      "kalaban": "Japan",
+      "mga_laro": 15,
+      "panalo": 7,
+      "tabla": 0,
+      "talo": 8,
+      "gol_naitala": 51,
+      "gol_natanggap": 35,
+      "unang_laro": "1917-05-07",
+      "huling_laro": "1974-09-03"
+    },
+    {
+      "kalaban": "Laos",
+      "mga_laro": 14,
+      "panalo": 4,
+      "tabla": 3,
+      "talo": 7,
+      "gol_naitala": 23,
+      "gol_natanggap": 23,
+      "unang_laro": "1995-12-06",
+      "huling_laro": "2026-08-01"
+    },
+    {
+      "kalaban": "Cambodia",
+      "mga_laro": 11,
+      "panalo": 4,
+      "tabla": 4,
+      "talo": 3,
+      "gol_naitala": 20,
+      "gol_natanggap": 10,
+      "unang_laro": "1972-07-16",
+      "huling_laro": "2022-12-20"
+    },
+    {
+      "kalaban": "Taiwan",
+      "mga_laro": 11,
+      "panalo": 2,
+      "tabla": 3,
+      "talo": 6,
+      "gol_naitala": 17,
+      "gol_natanggap": 30,
+      "unang_laro": "1954-05-06",
+      "huling_laro": "2023-09-08"
+    },
+    {
+      "kalaban": "Brunei",
+      "mga_laro": 10,
+      "panalo": 6,
+      "tabla": 1,
+      "talo": 3,
+      "gol_naitala": 19,
+      "gol_natanggap": 12,
+      "unang_laro": "1977-11-20",
+      "huling_laro": "2022-12-23"
+    },
+    {
+      "kalaban": "Timor-Leste",
+      "mga_laro": 9,
+      "panalo": 8,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 32,
+      "gol_natanggap": 6,
+      "unang_laro": "2004-12-14",
+      "huling_laro": "2025-10-14"
+    },
+    {
+      "kalaban": "Bahrain",
+      "mga_laro": 7,
+      "panalo": 1,
+      "tabla": 2,
+      "talo": 4,
+      "gol_naitala": 5,
+      "gol_natanggap": 10,
+      "unang_laro": "2012-10-12",
+      "huling_laro": "2023-10-17"
+    },
+    {
+      "kalaban": "Hong Kong",
+      "mga_laro": 7,
+      "panalo": 1,
+      "tabla": 1,
+      "talo": 5,
+      "gol_naitala": 7,
+      "gol_natanggap": 27,
+      "unang_laro": "1958-05-25",
+      "huling_laro": "2024-11-14"
+    },
+    {
+      "kalaban": "Maldives",
+      "mga_laro": 7,
+      "panalo": 5,
+      "tabla": 1,
+      "talo": 1,
+      "gol_naitala": 16,
+      "gol_natanggap": 8,
+      "unang_laro": "2009-04-16",
+      "huling_laro": "2025-11-18"
+    },
+    {
+      "kalaban": "Tajikistan",
+      "mga_laro": 7,
+      "panalo": 4,
+      "tabla": 3,
+      "talo": 0,
+      "gol_naitala": 13,
+      "gol_natanggap": 7,
+      "unang_laro": "2008-05-15",
+      "huling_laro": "2025-06-10"
+    },
+    {
+      "kalaban": "Guam",
+      "mga_laro": 6,
+      "panalo": 6,
+      "tabla": 0,
+      "talo": 0,
+      "gol_naitala": 18,
+      "gol_natanggap": 2,
+      "unang_laro": "2000-01-29",
+      "huling_laro": "2026-06-03"
+    },
+    {
+      "kalaban": "Nepal",
+      "mga_laro": 5,
+      "panalo": 4,
+      "tabla": 1,
+      "talo": 0,
+      "gol_naitala": 12,
+      "gol_natanggap": 1,
+      "unang_laro": "2011-10-11",
+      "huling_laro": "2023-06-15"
+    },
+    {
+      "kalaban": "South Korea",
+      "mga_laro": 5,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 5,
+      "gol_naitala": 0,
+      "gol_natanggap": 18,
+      "unang_laro": "1956-02-25",
+      "huling_laro": "2019-01-07"
+    },
+    {
+      "kalaban": "Syria",
+      "mga_laro": 5,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 5,
+      "gol_naitala": 3,
+      "gol_natanggap": 25,
+      "unang_laro": "1984-08-07",
+      "huling_laro": "2019-11-19"
+    },
+    {
+      "kalaban": "Yemen",
+      "mga_laro": 5,
+      "panalo": 1,
+      "tabla": 3,
+      "talo": 1,
+      "gol_naitala": 5,
+      "gol_natanggap": 4,
+      "unang_laro": "2015-06-16",
+      "huling_laro": "2022-06-08"
+    },
+    {
+      "kalaban": "India",
+      "mga_laro": 4,
+      "panalo": 1,
+      "tabla": 1,
+      "talo": 2,
+      "gol_naitala": 4,
+      "gol_natanggap": 8,
+      "unang_laro": "1971-08-05",
+      "huling_laro": "2013-11-15"
+    },
+    {
+      "kalaban": "Kuwait",
+      "mga_laro": 4,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 4,
+      "gol_naitala": 2,
+      "gol_natanggap": 9,
+      "unang_laro": "2011-07-23",
+      "huling_laro": "2023-03-24"
+    },
+    {
+      "kalaban": "Kyrgyzstan",
+      "mga_laro": 4,
+      "panalo": 3,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 5,
+      "gol_natanggap": 4,
+      "unang_laro": "2016-09-06",
+      "huling_laro": "2023-10-15"
+    },
+    {
+      "kalaban": "Macau",
+      "mga_laro": 4,
+      "panalo": 3,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 13,
+      "gol_natanggap": 5,
+      "unang_laro": "1996-02-04",
+      "huling_laro": "2012-09-27"
+    },
+    {
+      "kalaban": "North Korea",
+      "mga_laro": 4,
+      "panalo": 1,
+      "tabla": 1,
+      "talo": 2,
+      "gol_naitala": 4,
+      "gol_natanggap": 7,
+      "unang_laro": "2012-03-09",
+      "huling_laro": "2016-10-10"
+    },
+    {
+      "kalaban": "Palestine",
+      "mga_laro": 4,
+      "panalo": 1,
+      "tabla": 1,
+      "talo": 2,
+      "gol_naitala": 4,
+      "gol_natanggap": 8,
+      "unang_laro": "2011-03-23",
+      "huling_laro": "2022-06-14"
+    },
+    {
+      "kalaban": "Sri Lanka",
+      "mga_laro": 4,
+      "panalo": 2,
+      "tabla": 1,
+      "talo": 1,
+      "gol_naitala": 9,
+      "gol_natanggap": 5,
+      "unang_laro": "1972-07-20",
+      "huling_laro": "2011-07-03"
+    },
+    {
+      "kalaban": "Turkmenistan",
+      "mga_laro": 4,
+      "panalo": 2,
+      "tabla": 0,
+      "talo": 2,
+      "gol_naitala": 4,
+      "gol_natanggap": 7,
+      "unang_laro": "2009-04-18",
+      "huling_laro": "2014-05-24"
+    },
+    {
+      "kalaban": "Afghanistan",
+      "mga_laro": 3,
+      "panalo": 1,
+      "tabla": 2,
+      "talo": 0,
+      "gol_naitala": 3,
+      "gol_natanggap": 2,
+      "unang_laro": "2006-04-05",
+      "huling_laro": "2023-09-12"
+    },
+    {
+      "kalaban": "Mongolia",
+      "mga_laro": 3,
+      "panalo": 2,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 4,
+      "gol_natanggap": 2,
+      "unang_laro": "2011-02-09",
+      "huling_laro": "2022-06-11"
+    },
+    {
+      "kalaban": "Oman",
+      "mga_laro": 3,
+      "panalo": 0,
+      "tabla": 1,
+      "talo": 2,
+      "gol_naitala": 1,
+      "gol_natanggap": 10,
+      "unang_laro": "2001-05-07",
+      "huling_laro": "2018-10-13"
+    },
+    {
+      "kalaban": "Bangladesh",
+      "mga_laro": 2,
+      "panalo": 1,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 5,
+      "gol_natanggap": 3,
+      "unang_laro": "1984-08-13",
+      "huling_laro": "2011-03-25"
+    },
+    {
+      "kalaban": "Bhutan",
+      "mga_laro": 2,
+      "panalo": 2,
+      "tabla": 0,
+      "talo": 0,
+      "gol_naitala": 4,
+      "gol_natanggap": 0,
+      "unang_laro": "2008-05-17",
+      "huling_laro": "2009-04-14"
+    },
+    {
+      "kalaban": "Iraq",
+      "mga_laro": 2,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 2,
+      "gol_naitala": 0,
+      "gol_natanggap": 6,
+      "unang_laro": "2024-03-21",
+      "huling_laro": "2024-03-26"
+    },
+    {
+      "kalaban": "Uzbekistan",
+      "mga_laro": 2,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 2,
+      "gol_naitala": 1,
+      "gol_natanggap": 6,
+      "unang_laro": "2015-09-08",
+      "huling_laro": "2016-03-24"
+    },
+    {
+      "kalaban": "Vietnam Republic",
+      "mga_laro": 2,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 2,
+      "gol_naitala": 0,
+      "gol_natanggap": 12,
+      "unang_laro": "1962-08-30",
+      "huling_laro": "1962-09-16"
+    },
+    {
+      "kalaban": "Australia",
+      "mga_laro": 1,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 0,
+      "gol_natanggap": 6,
+      "unang_laro": "1972-10-29",
+      "huling_laro": "1972-10-29"
+    },
+    {
+      "kalaban": "Azerbaijan",
+      "mga_laro": 1,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 0,
+      "gol_natanggap": 1,
+      "unang_laro": "2014-03-05",
+      "huling_laro": "2014-03-05"
+    },
+    {
+      "kalaban": "Estonia",
+      "mga_laro": 1,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 0,
+      "gol_natanggap": 1,
+      "unang_laro": "1997-11-27",
+      "huling_laro": "1997-11-27"
+    },
+    {
+      "kalaban": "Fiji",
+      "mga_laro": 1,
+      "panalo": 1,
+      "tabla": 0,
+      "talo": 0,
+      "gol_naitala": 3,
+      "gol_natanggap": 2,
+      "unang_laro": "2018-03-22",
+      "huling_laro": "2018-03-22"
+    },
+    {
+      "kalaban": "Iran",
+      "mga_laro": 1,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 1,
+      "gol_natanggap": 7,
+      "unang_laro": "1984-08-15",
+      "huling_laro": "1984-08-15"
+    },
+    {
+      "kalaban": "Israel",
+      "mga_laro": 1,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 0,
+      "gol_natanggap": 6,
+      "unang_laro": "1974-09-05",
+      "huling_laro": "1974-09-05"
+    },
+    {
+      "kalaban": "Jordan",
+      "mga_laro": 1,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 0,
+      "gol_natanggap": 4,
+      "unang_laro": "2023-03-28",
+      "huling_laro": "2023-03-28"
+    },
+    {
+      "kalaban": "Lebanon",
+      "mga_laro": 1,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 0,
+      "gol_natanggap": 3,
+      "unang_laro": "2001-04-25",
+      "huling_laro": "2001-04-25"
+    },
+    {
+      "kalaban": "Pakistan",
+      "mga_laro": 1,
+      "panalo": 1,
+      "tabla": 0,
+      "talo": 0,
+      "gol_naitala": 3,
+      "gol_natanggap": 1,
+      "unang_laro": "2013-10-15",
+      "huling_laro": "2013-10-15"
+    },
+    {
+      "kalaban": "Papua New Guinea",
+      "mga_laro": 1,
+      "panalo": 1,
+      "tabla": 0,
+      "talo": 0,
+      "gol_naitala": 5,
+      "gol_natanggap": 0,
+      "unang_laro": "2014-10-12",
+      "huling_laro": "2014-10-12"
+    },
+    {
+      "kalaban": "Qatar",
+      "mga_laro": 1,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 0,
+      "gol_natanggap": 5,
+      "unang_laro": "1996-09-23",
+      "huling_laro": "1996-09-23"
+    },
+    {
+      "kalaban": "United Arab Emirates",
+      "mga_laro": 1,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 0,
+      "gol_natanggap": 4,
+      "unang_laro": "2013-11-09",
+      "huling_laro": "2013-11-09"
+    },
+    {
+      "kalaban": "United States",
+      "mga_laro": 1,
+      "panalo": 0,
+      "tabla": 0,
+      "talo": 1,
+      "gol_naitala": 0,
+      "gol_natanggap": 4,
+      "unang_laro": "1956-11-10",
+      "huling_laro": "1956-11-10"
+    }
+  ],
+  "meta": {
+    "title": "Pambansang koponan ng putbol ng Pilipinas — rekord laban sa bawat kalaban (51) - Libreng download",
+    "description": "Pambansang koponan ng putbol ng Pilipinas: Kabuuang rekord laban sa bawat kalaban, kinuwenta mula sa lahat ng laro sa results.csv: mga laro, panalo, tabla, talo, gol na naitala at natanggap, una at huling laro. Resulta batay sa pinal na iskor (walang penalty shootout). Nakaayos ayon sa dami ng laro. Naglalaman ng 51 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Pambansang koponan ng putbol ng Pilipinas — rekord laban sa bawat kalaban (51) | ListBase",
+    "seo_description": "I-download Pambansang koponan ng putbol ng Pilipinas — rekord laban sa bawat kalaban (51) — 51 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 51 talaan / 9 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

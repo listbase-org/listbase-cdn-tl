@@ -1,0 +1,208 @@
+{
+  "id": "tl-ifugao-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ifugao",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ifugao",
+  "description": "Direktoryo ng 11 lungsod at bayan sa lalawigan ng Ifugao (Rehiyong Administratibo ng Cordillera (CAR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Ifugao` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Aguinaldo",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3606",
+      "punong_bayan": "GASPAR B. CHILAGAN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROBERTO A. LIM-ANG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Alfonso Lista",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3608",
+      "punong_bayan": "EDRALIN B. ALIPIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AGAPITO B. DOMINGUEZ JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Asipulo",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3610",
+      "punong_bayan": "ARCHIE LEE A. QUINDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CLARENCE P. BAHINGAWAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Banaue",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3601",
+      "punong_bayan": "JOEL B. BUNGALLON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DONALD L. MONGOLNON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Hingyon",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3607",
+      "punong_bayan": "FLORENCIO B. NALULA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALLAN K. PEGEW",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Hungduan",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3603",
+      "punong_bayan": "CASAN P. DUMULAG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMEO L. HAGUYAYAP",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Kiangan",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3604",
+      "punong_bayan": "RALDIS ANDREI A. BULAYUNGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MICHELLE ALICE B. BAGUILAT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Lagawe",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3600",
+      "punong_bayan": "MARTIN L. HABAWEL JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REYNOLD A. KIMAYONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Lamut",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3605",
+      "punong_bayan": "VICTOMAR H. BUNNOL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EVERDA DESIREE D. DULINAYAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Mayoyao",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3602",
+      "punong_bayan": "JIMMY B. PADCHANAN JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUDY N. CHILAGAN JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Tinoc",
+      "uri": "Bayan",
+      "lalawigan": "IFUGAO PROVINCE",
+      "rehiyon": "Rehiyong Administratibo ng Cordillera (CAR)",
+      "zip_code": "3609",
+      "punong_bayan": "SAMSON C. BENITO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EFREN A. TACIO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ifugao - Libreng download",
+    "description": "Direktoryo ng 11 lungsod at bayan sa lalawigan ng Ifugao (Rehiyong Administratibo ng Cordillera (CAR)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Ifugao` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 11 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ifugao | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Ifugao — 11 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 11 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

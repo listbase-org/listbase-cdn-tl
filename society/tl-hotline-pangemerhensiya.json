@@ -1,0 +1,166 @@
+{
+  "id": "tl-hotline-pangemerhensiya",
+  "name": "Mga Hotline Pang-emerhensiya ng Pilipinas (Emergency Hotlines)",
+  "title": "Mga Hotline Pang-emerhensiya ng Pilipinas (Emergency Hotlines)",
+  "description": "Mga pambansang hotline pang-emerhensiya ng Pilipinas (kalamidad, seguridad, transportasyon, panahon, utility, serbisyong panlipunan), may pangalan ng ahensiya, kategorya, mga numero, at paglalarawan. (Philippine national emergency hotlines.)",
+  "category": "society",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "kategorya",
+      "label": "Kategorya",
+      "type": "string"
+    },
+    {
+      "key": "mga_numero",
+      "label": "Mga Numero",
+      "type": "number"
+    },
+    {
+      "key": "paglalarawan",
+      "label": "Paglalarawan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "National Emergency Hotline",
+      "kategorya": "Emergency",
+      "mga_numero": "911",
+      "paglalarawan": "Nationwide emergency hotline for police, fire, and medical assistance."
+    },
+    {
+      "pangalan": "National Disaster Risk Reduction and Management Council (NDRRMC)",
+      "kategorya": "Disaster",
+      "mga_numero": "(02) 8911-5061 to 65 local 100, (02) 8911-1406, (02) 8912-2665, (02) 8912-5668, (02) 8911-1873",
+      "paglalarawan": "Central government agency coordinating disaster preparedness, response, and recovery efforts."
+    },
+    {
+      "pangalan": "Department of Social Welfare and Development",
+      "kategorya": "Disaster",
+      "mga_numero": "0918-912-2813 (Text Hotline), (02) 8931-8101 to 07, (02) 8856-3665 (Disaster Response Unit), (02) 8852-8081 (Disaster Response Unit)",
+      "paglalarawan": "Provides social services, disaster relief, and assistance to affected families and communities."
+    },
+    {
+      "pangalan": "Red Cross",
+      "kategorya": "Disaster",
+      "mga_numero": "143 (Hotline), (02) 8527-8385 to 95 (National Blood Center), (02) 8527-0000, (02) 8790-2300",
+      "paglalarawan": "Humanitarian organization offering emergency response, disaster relief, and blood donation services."
+    },
+    {
+      "pangalan": "Philippine National Police (PNP)",
+      "kategorya": "Security",
+      "mga_numero": "117 (Emergency Hotline), (02) 8722-0650, 0917-847-5757 (Text Hotline)",
+      "paglalarawan": "Law enforcement hotline for crimes, threats, and public safety concerns."
+    },
+    {
+      "pangalan": "Bureau of Fire Protection (BFP)",
+      "kategorya": "Security",
+      "mga_numero": "(02) 8426-0219, (02) 8426-0246",
+      "paglalarawan": "Fire emergency hotline for fire prevention, rescue, and related emergencies."
+    },
+    {
+      "pangalan": "Philippine Coast Guard",
+      "kategorya": "Security",
+      "mga_numero": "(02) 8527-8481 to 89, (02) 8527-3877, (02) 8527-3880 to 85, 0917-724-3682 (Text Hotline), 0918-967-4697 (Text Hotline)",
+      "paglalarawan": "Provides maritime safety, rescue, and law enforcement services in Philippine waters."
+    },
+    {
+      "pangalan": "Metro Manila Development Authority (MMDA)",
+      "kategorya": "Transport",
+      "mga_numero": "136 (Hotline), (02) 8882-4151 to 77",
+      "paglalarawan": "Handles traffic management, road safety, and emergency response within Metro Manila."
+    },
+    {
+      "pangalan": "Department of Transportation (DOTr)",
+      "kategorya": "Transport",
+      "mga_numero": "7890 (Action Center Hotline), (02) 8790-8300, (02) 8726-4925",
+      "paglalarawan": "National transport authority managing public transportation services and passenger complaints."
+    },
+    {
+      "pangalan": "Land Transportation Office (LTO)",
+      "kategorya": "Transport",
+      "mga_numero": "Text LTOHELP to 2600 (All networks), (02) 8922-9061 to 63",
+      "paglalarawan": "Government office responsible for vehicle registration, licensing, and road safety enforcement."
+    },
+    {
+      "pangalan": "Land Transportation Franchising and Regulatory Board (LTFRB)",
+      "kategorya": "Transport",
+      "mga_numero": "1342 (24/7 Hotline), (02) 8426-2515, (02) 8426-2534, 0921-448-7777 (Text Hotline)",
+      "paglalarawan": "Regulates and monitors public utility vehicles and addresses transport-related complaints."
+    },
+    {
+      "pangalan": "Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA)",
+      "kategorya": "Weather",
+      "mga_numero": "(02) 8284-0800",
+      "paglalarawan": "Provides weather forecasts, flood warnings, and typhoon advisories."
+    },
+    {
+      "pangalan": "Philippine Institute of Volcanology and Seismology (PHIVOLCS)",
+      "kategorya": "Weather",
+      "mga_numero": "(02) 8426-1468 to 79",
+      "paglalarawan": "Monitors and issues warnings for earthquakes, tsunamis, and volcanic eruptions."
+    },
+    {
+      "pangalan": "Manila Water",
+      "kategorya": "Utility",
+      "mga_numero": "1627",
+      "paglalarawan": "Customer service hotline for water supply concerns in the East Zone of Metro Manila."
+    },
+    {
+      "pangalan": "Maynilad",
+      "kategorya": "Utility",
+      "mga_numero": "1626, 0998-864-1446 (Text Hotline)",
+      "paglalarawan": "Customer service hotline for water supply concerns in the West Zone of Metro Manila."
+    },
+    {
+      "pangalan": "Violence Against Women and Children (VAWC)",
+      "kategorya": "Social Services",
+      "mga_numero": "(02) 8931-8101 to 07 (DSWD), (02) 8734-8639 (DSWD-NCR), (02) 8723-0401 to 20 (PNP), (02) 3410-3213 (PNP-WCPC)",
+      "paglalarawan": "Hotline for reporting and seeking help in cases of abuse or violence against women and children."
+    },
+    {
+      "pangalan": "National Center for Mental Health (NCMH)",
+      "kategorya": "Social Services",
+      "mga_numero": "0917-899-8727 (USAP), 989-8727 (USAP), (02) 8531-9001 to 10 local 201",
+      "paglalarawan": "Provides 24/7 crisis hotline and mental health support services."
+    },
+    {
+      "pangalan": "PNP Emergency",
+      "kategorya": "Security",
+      "mga_numero": "117",
+      "paglalarawan": "Police emergency hotline"
+    },
+    {
+      "pangalan": "Red Cross",
+      "kategorya": "Emergency",
+      "mga_numero": "143",
+      "paglalarawan": "Red Cross emergency hotline"
+    },
+    {
+      "pangalan": "Mental Health Crisis Line",
+      "kategorya": "Social Services",
+      "mga_numero": "0917-899-8727, 989-8727",
+      "paglalarawan": "NCMH crisis hotline"
+    }
+  ],
+  "meta": {
+    "title": "Mga Hotline Pang-emerhensiya ng Pilipinas (Emergency Hotlines) - Libreng download",
+    "description": "Mga pambansang hotline pang-emerhensiya ng Pilipinas (kalamidad, seguridad, transportasyon, panahon, utility, serbisyong panlipunan), may pangalan ng ahensiya, kategorya, mga numero, at paglalarawan. (Philippine national emergency hotlines.) Naglalaman ng 20 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Hotline Pang-emerhensiya ng Pilipinas (Emergency Hotlines) | ListBase",
+    "seo_description": "I-download Mga Hotline Pang-emerhensiya ng Pilipinas (Emergency Hotlines) — 20 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 20 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

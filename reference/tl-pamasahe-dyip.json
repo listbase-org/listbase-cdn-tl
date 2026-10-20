@@ -1,0 +1,346 @@
+{
+  "id": "tl-pamasahe-dyip",
+  "name": "Mga Pamasahe sa Dyip (Public Utility Jeepney)",
+  "title": "Mga Pamasahe sa Dyip (Public Utility Jeepney)",
+  "description": "Standard na talaan ng pamasahe ng dyip (Public Utility Jeepney, PUJ) sa Pilipinas, ayon sa distansya sa kilometro. Regular at discounted (PWD/senior/student) na halaga sa PHP. 50 distansya. (Standard fare table for public utility jeepneys in the Philippines by kilometre. Regular and discounted fares in PHP. 50 distance bands. Reflects the 2016 LTFRB fare-reduction order.)",
+  "category": "reference",
+  "source": "https://github.com/sakayph/fares",
+  "source_url": "https://github.com/sakayph/fares",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "distance_km",
+      "label": "Distance Km",
+      "type": "number"
+    },
+    {
+      "key": "regular_php",
+      "label": "Regular Php",
+      "type": "number"
+    },
+    {
+      "key": "discounted_php",
+      "label": "Discounted Php",
+      "type": "number"
+    },
+    {
+      "key": "currency",
+      "label": "Currency",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "distance_km": 1,
+      "regular_php": 8,
+      "discounted_php": 6.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 2,
+      "regular_php": 8,
+      "discounted_php": 6.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 3,
+      "regular_php": 8,
+      "discounted_php": 6.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 4,
+      "regular_php": 8,
+      "discounted_php": 6.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 5,
+      "regular_php": 9.5,
+      "discounted_php": 7.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 6,
+      "regular_php": 11,
+      "discounted_php": 8.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 7,
+      "regular_php": 12.5,
+      "discounted_php": 10,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 8,
+      "regular_php": 14,
+      "discounted_php": 11.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 9,
+      "regular_php": 15.5,
+      "discounted_php": 12.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 10,
+      "regular_php": 17,
+      "discounted_php": 13.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 11,
+      "regular_php": 18.5,
+      "discounted_php": 14.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 12,
+      "regular_php": 20,
+      "discounted_php": 16,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 13,
+      "regular_php": 21.5,
+      "discounted_php": 17.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 14,
+      "regular_php": 23,
+      "discounted_php": 18.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 15,
+      "regular_php": 24.5,
+      "discounted_php": 19.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 16,
+      "regular_php": 26,
+      "discounted_php": 20.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 17,
+      "regular_php": 27.5,
+      "discounted_php": 22,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 18,
+      "regular_php": 29,
+      "discounted_php": 23.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 19,
+      "regular_php": 30.5,
+      "discounted_php": 24.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 20,
+      "regular_php": 32,
+      "discounted_php": 25.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 21,
+      "regular_php": 33.5,
+      "discounted_php": 26.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 22,
+      "regular_php": 35,
+      "discounted_php": 28,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 23,
+      "regular_php": 36.5,
+      "discounted_php": 29.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 24,
+      "regular_php": 38,
+      "discounted_php": 30.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 25,
+      "regular_php": 39.5,
+      "discounted_php": 31.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 26,
+      "regular_php": 41,
+      "discounted_php": 32.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 27,
+      "regular_php": 42.5,
+      "discounted_php": 34,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 28,
+      "regular_php": 44,
+      "discounted_php": 35.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 29,
+      "regular_php": 45.5,
+      "discounted_php": 36.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 30,
+      "regular_php": 47,
+      "discounted_php": 37.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 31,
+      "regular_php": 48.5,
+      "discounted_php": 38.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 32,
+      "regular_php": 50,
+      "discounted_php": 40,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 33,
+      "regular_php": 51.5,
+      "discounted_php": 41.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 34,
+      "regular_php": 53,
+      "discounted_php": 42.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 35,
+      "regular_php": 54.5,
+      "discounted_php": 43.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 36,
+      "regular_php": 56,
+      "discounted_php": 44.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 37,
+      "regular_php": 57.5,
+      "discounted_php": 46,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 38,
+      "regular_php": 59,
+      "discounted_php": 47.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 39,
+      "regular_php": 60.5,
+      "discounted_php": 48.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 40,
+      "regular_php": 62,
+      "discounted_php": 49.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 41,
+      "regular_php": 63.5,
+      "discounted_php": 50.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 42,
+      "regular_php": 65,
+      "discounted_php": 52,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 43,
+      "regular_php": 66.5,
+      "discounted_php": 53.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 44,
+      "regular_php": 68,
+      "discounted_php": 54.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 45,
+      "regular_php": 69.5,
+      "discounted_php": 55.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 46,
+      "regular_php": 71,
+      "discounted_php": 56.75,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 47,
+      "regular_php": 72.5,
+      "discounted_php": 58,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 48,
+      "regular_php": 74,
+      "discounted_php": 59.25,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 49,
+      "regular_php": 75.5,
+      "discounted_php": 60.5,
+      "currency": "PHP"
+    },
+    {
+      "distance_km": 50,
+      "regular_php": 77,
+      "discounted_php": 61.5,
+      "currency": "PHP"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pamasahe sa Dyip (Public Utility Jeepney) - Libreng download",
+    "description": "Standard na talaan ng pamasahe ng dyip (Public Utility Jeepney, PUJ) sa Pilipinas, ayon sa distansya sa kilometro. Regular at discounted (PWD/senior/student) na halaga sa PHP. 50 distansya. (Standard fare table for public utility jeepneys in the Philippines by kilometre. Regular and discounted fares in PHP. 50 distance bands. Reflects the 2016 LTFRB fare-reduction order.) Naglalaman ng 50 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Pamasahe sa Dyip (Public Utility Jeepney) | ListBase",
+    "seo_description": "I-download Mga Pamasahe sa Dyip (Public Utility Jeepney) — 50 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 50 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/sakayph/fares"
+    ]
+  }
+}

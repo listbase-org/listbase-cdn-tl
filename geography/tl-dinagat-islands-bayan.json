@@ -1,0 +1,112 @@
+{
+  "id": "tl-dinagat-islands-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Dinagat Islands",
+  "title": "Mga Bayan ng Lalawigan ng Dinagat Islands",
+  "description": "Listahan ng 7 munisipalidad (bayan) sa lalawigan ng Dinagat Islands, REGION XIII (Caraga), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "168501000",
+      "name": "BASILISA (RIZAL)",
+      "province": "DINAGAT ISLANDS",
+      "region": "REGION XIII (Caraga)",
+      "population": 36880,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "168502000",
+      "name": "CAGDIANAO",
+      "province": "DINAGAT ISLANDS",
+      "region": "REGION XIII (Caraga)",
+      "population": 16808,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "168503000",
+      "name": "DINAGAT",
+      "province": "DINAGAT ISLANDS",
+      "region": "REGION XIII (Caraga)",
+      "population": 10632,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "168504000",
+      "name": "LIBJO (ALBOR)",
+      "province": "DINAGAT ISLANDS",
+      "region": "REGION XIII (Caraga)",
+      "population": 17760,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "168505000",
+      "name": "LORETO",
+      "province": "DINAGAT ISLANDS",
+      "region": "REGION XIII (Caraga)",
+      "population": 9309,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "168506000",
+      "name": "SAN JOSE (Capital)",
+      "province": "DINAGAT ISLANDS",
+      "region": "REGION XIII (Caraga)",
+      "population": 27487,
+      "income_classification": "4th*"
+    },
+    {
+      "psgc_code": "168507000",
+      "name": "TUBAJON",
+      "province": "DINAGAT ISLANDS",
+      "region": "REGION XIII (Caraga)",
+      "population": 8276,
+      "income_classification": "5th*"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Dinagat Islands - Libreng download",
+    "description": "Listahan ng 7 munisipalidad (bayan) sa lalawigan ng Dinagat Islands, REGION XIII (Caraga), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 7 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Dinagat Islands | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Dinagat Islands — 7 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 7 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "id": "tl-soccsksargen-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Soccsksargen (Region XII)",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Soccsksargen (Region XII)",
+  "description": "Direktoryo ng 25 lungsod at bayan sa Soccsksargen (Region XII) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa rehiyong `REGION XII - SOCCSKSARGEN` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Kidapawan",
+      "uri": "Lungsod",
+      "lalawigan": "Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "",
+      "punong_bayan": "JOSE PAOLO M. EVANGELISTA",
+      "kontak_punong_bayan": "(064) 577-4829",
+      "pangalawang_punong_bayan": "MELVIN E. LAMATA JR.",
+      "kontak_pangalawang_punong_bayan": "(064) 573-5851; 572-1607"
+    },
+    {
+      "id": 2,
+      "lgu": "Koronadal",
+      "uri": "Lungsod",
+      "lalawigan": "Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "",
+      "punong_bayan": "ELIORDO U. OGENA",
+      "kontak_punong_bayan": "(083) 228-5110",
+      "pangalawang_punong_bayan": "ERLINDA P. ARAQUIL",
+      "kontak_pangalawang_punong_bayan": "(083) 228-4613"
+    },
+    {
+      "id": 3,
+      "lgu": "Banga",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9511",
+      "punong_bayan": "EVANGELINE L. PALENCIA",
+      "kontak_punong_bayan": "(083) 239-1652",
+      "pangalawang_punong_bayan": "GEMMA I. LLOREN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "General Santos",
+      "uri": "Lungsod",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "",
+      "punong_bayan": "LORELIE G. PACQUIAO",
+      "kontak_punong_bayan": "(083) 552-2580; 552-6791",
+      "pangalawang_punong_bayan": "ROSALITA T. NUÑEZ",
+      "kontak_pangalawang_punong_bayan": "(083) 552-9692"
+    },
+    {
+      "id": 5,
+      "lgu": "Lake Sebu",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9518",
+      "punong_bayan": "REMIE M. UNGGOL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LIEZEL T. ISUGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Norala",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9508",
+      "punong_bayan": "CLEMENTE B. FEDOC",
+      "kontak_punong_bayan": "(083) 234-1024",
+      "pangalawang_punong_bayan": "JONEL T. DANIEL",
+      "kontak_pangalawang_punong_bayan": "(083) 234-1154"
+    },
+    {
+      "id": 7,
+      "lgu": "Polomolok",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9504",
+      "punong_bayan": "BERNIE D. PALENCIA",
+      "kontak_punong_bayan": "(083) 225-2022",
+      "pangalawang_punong_bayan": "MELCHOR J. JUTAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Santo Niño",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9509",
+      "punong_bayan": "SULPICIO F. VILLALOBOS",
+      "kontak_punong_bayan": "(083) 235-1024",
+      "pangalawang_punong_bayan": "WILFREDO B. DIMZON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Surallah",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9512",
+      "punong_bayan": "PEDRO M. MATINONG JR.",
+      "kontak_punong_bayan": "(083) 238-3578",
+      "pangalawang_punong_bayan": "ANTONIO O. BENDITA",
+      "kontak_pangalawang_punong_bayan": "(083) 238-3148"
+    },
+    {
+      "id": 10,
+      "lgu": "T'boli",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9513",
+      "punong_bayan": "KEO DAYLE T. TUAN",
+      "kontak_punong_bayan": "(083) 277-1002",
+      "pangalawang_punong_bayan": "RONIE L. DELA PEÑA",
+      "kontak_pangalawang_punong_bayan": "(083) 237-1039 F"
+    },
+    {
+      "id": 11,
+      "lgu": "Tampakan",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9507",
+      "punong_bayan": "LEONARDO T. ESCOBILLO",
+      "kontak_punong_bayan": "(083) 227-1001",
+      "pangalawang_punong_bayan": "ANADEL T. MAGBANUA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Tantangan",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9510",
+      "punong_bayan": "TIMEE JOY T. GONZALES",
+      "kontak_punong_bayan": "(083) 822-0991",
+      "pangalawang_punong_bayan": "CESAR L. DASILAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Tupi",
+      "uri": "Bayan",
+      "lalawigan": "South Cotabato",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9505",
+      "punong_bayan": "ROMEO S. TAMAYO",
+      "kontak_punong_bayan": "(083) 226-2800",
+      "pangalawang_punong_bayan": "GLENN C. HATULAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Bagumbayan",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9810",
+      "punong_bayan": "JONALETTE E. DE PEDRO",
+      "kontak_punong_bayan": "(064) 471-7082",
+      "pangalawang_punong_bayan": "ERNESTO M. SEGURA SR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Columbio",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9801",
+      "punong_bayan": "TONDATU M. MANGUDADATU",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NAILA M. MAMALINTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Esperanza",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9806",
+      "punong_bayan": "CHARLES FEDERIC R. PLOTEÑA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LALAINE V. SUHANDA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Isulan",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9805",
+      "punong_bayan": "ARNOLD H. ARMADA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CARLO F. APIADO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Kalamansig",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9808",
+      "punong_bayan": "JOAQUIN T. CONCHA",
+      "kontak_punong_bayan": "(064) 204-6239",
+      "pangalawang_punong_bayan": "ROLANDO P. GARCIA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Lambayong",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9802",
+      "punong_bayan": "FERDINAND G. AGDUMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FRANCIS ERIC E. RECINTO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Lebak",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9807",
+      "punong_bayan": "FREDERICK F. CELESTIAL",
+      "kontak_punong_bayan": "(064) 205-3132",
+      "pangalawang_punong_bayan": "MELCHOR B. ALARCON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Lutayan",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9803",
+      "punong_bayan": "DATU PAX S. MANGUDADATU",
+      "kontak_punong_bayan": "(064) 228-1521",
+      "pangalawang_punong_bayan": "PRINCE RADEN M. SAKALURAN",
+      "kontak_pangalawang_punong_bayan": "(064) 228-1521"
+    },
+    {
+      "id": 22,
+      "lgu": "Palimbang",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9809",
+      "punong_bayan": "JOENIME B. KAPINA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MOSABAN P. ALIDING",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "President Quirino",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9804",
+      "punong_bayan": "MA. KATRINA BUENA F. SANDIGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MERIS D. ARADANAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Senator Ninoy Aquino",
+      "uri": "Bayan",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "9811",
+      "punong_bayan": "RANDY L. ECIJA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RAFAEL GEORGE L. FLAUTA III",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "Tacurong",
+      "uri": "Lungsod",
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "Soccsksargen (Region XII)",
+      "zip_code": "",
+      "punong_bayan": "JOSEPH GEORGE L. LECHONSITO",
+      "kontak_punong_bayan": "(064) 200-6615",
+      "pangalawang_punong_bayan": "LINA O. MONTILLA",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Soccsksargen (Region XII) - Libreng download",
+    "description": "Direktoryo ng 25 lungsod at bayan sa Soccsksargen (Region XII) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa rehiyong `REGION XII - SOCCSKSARGEN` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 25 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Soccsksargen (Region XII) | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Soccsksargen (Region XII) — 25 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 25 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

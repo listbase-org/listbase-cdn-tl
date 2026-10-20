@@ -1,0 +1,192 @@
+{
+  "id": "tl-rehiyon-sukat",
+  "name": "Mga rehiyon ng Pilipinas - sukat at lawak (17 regions)",
+  "title": "Mga rehiyon ng Pilipinas - sukat at lawak (17 regions)",
+  "description": "Mga 17 rehiyon ng Pilipinas na may opisyal na PSGC code, sukat ng perimetro (km), at lawak (km^2) na hinango mula sa mga PSA shapefile (4Q-2023 Publication). Tinutugma ang opisyal na hierarchy ng Philippine Standard Geographic Code.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "geo_level",
+      "label": "Geo Level",
+      "type": "string"
+    },
+    {
+      "key": "geo_level_name",
+      "label": "Geo Level Name",
+      "type": "string"
+    },
+    {
+      "key": "perimeter_km",
+      "label": "Perimeter Km",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "100000000",
+      "name": "Region I (Ilocos Region)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 1633,
+      "area_km2": 12319
+    },
+    {
+      "psgc_code": "200000000",
+      "name": "Region II (Cagayan Valley)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 2071,
+      "area_km2": 26379
+    },
+    {
+      "psgc_code": "300000000",
+      "name": "Region III (Central Luzon)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 1739,
+      "area_km2": 21317
+    },
+    {
+      "psgc_code": "400000000",
+      "name": "Region IV-A (CALABARZON)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 3018,
+      "area_km2": 15844
+    },
+    {
+      "psgc_code": "500000000",
+      "name": "Region V (Bicol Region)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 4916,
+      "area_km2": 17326
+    },
+    {
+      "psgc_code": "600000000",
+      "name": "Region VI (Western Visayas)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 3052,
+      "area_km2": 20033
+    },
+    {
+      "psgc_code": "700000000",
+      "name": "Region VII (Central Visayas)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 3205,
+      "area_km2": 14284
+    },
+    {
+      "psgc_code": "800000000",
+      "name": "Region VIII (Eastern Visayas)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 4616,
+      "area_km2": 20843
+    },
+    {
+      "psgc_code": "900000000",
+      "name": "Region IX (Zamboanga Peninsula)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 2560,
+      "area_km2": 14585
+    },
+    {
+      "psgc_code": "1000000000",
+      "name": "Region X (Northern Mindanao)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 1656,
+      "area_km2": 17491
+    },
+    {
+      "psgc_code": "1100000000",
+      "name": "Region XI (Davao Region)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 1984,
+      "area_km2": 18840
+    },
+    {
+      "psgc_code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 1592,
+      "area_km2": 17365
+    },
+    {
+      "psgc_code": "1300000000",
+      "name": "National Capital Region (NCR)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 251,
+      "area_km2": 598
+    },
+    {
+      "psgc_code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 873,
+      "area_km2": 18198
+    },
+    {
+      "psgc_code": "1600000000",
+      "name": "Region XIII (Caraga)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 3107,
+      "area_km2": 18776
+    },
+    {
+      "psgc_code": "1700000000",
+      "name": "MIMAROPA Region",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 8672,
+      "area_km2": 26870
+    },
+    {
+      "psgc_code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+      "geo_level": "Reg",
+      "geo_level_name": "Region (Rehiyon)",
+      "perimeter_km": 6109,
+      "area_km2": 13463
+    }
+  ],
+  "meta": {
+    "title": "Mga rehiyon ng Pilipinas - sukat at lawak (17 regions) - Libreng download",
+    "description": "Mga 17 rehiyon ng Pilipinas na may opisyal na PSGC code, sukat ng perimetro (km), at lawak (km^2) na hinango mula sa mga PSA shapefile (4Q-2023 Publication). Tinutugma ang opisyal na hierarchy ng Philippine Standard Geographic Code. Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga rehiyon ng Pilipinas - sukat at lawak (17 regions) | ListBase",
+    "seo_description": "I-download Mga rehiyon ng Pilipinas - sukat at lawak (17 regions) — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

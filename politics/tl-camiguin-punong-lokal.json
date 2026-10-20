@@ -1,0 +1,136 @@
+{
+  "id": "tl-camiguin-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Camiguin",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Camiguin",
+  "description": "Direktoryo ng 5 lungsod at bayan sa lalawigan ng Camiguin (Hilagang Mindanao (Region X)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Camiguin` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Catarman",
+      "uri": "Bayan",
+      "lalawigan": "Camiguin",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9104",
+      "punong_bayan": "KITERIO ANTONIO U. PALARCA II",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RONY N. SAGOCSOC",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Guinsiliban",
+      "uri": "Bayan",
+      "lalawigan": "Camiguin",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9102",
+      "punong_bayan": "HELENIO N. ABECIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELVIS O. ROXAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Mahinog",
+      "uri": "Bayan",
+      "lalawigan": "Camiguin",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9101",
+      "punong_bayan": "REY LAWRENCE K. TAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NERIO Y. GALOCHINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Mambajao",
+      "uri": "Bayan",
+      "lalawigan": "Camiguin",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9100",
+      "punong_bayan": "YÑIGO JESUS D. ROMUALDO",
+      "kontak_punong_bayan": "(088) 387-1252",
+      "pangalawang_punong_bayan": "ROBERT JONES H. CLOSAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Sagay",
+      "uri": "Bayan",
+      "lalawigan": "Camiguin",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9103",
+      "punong_bayan": "JOSEPH G. UAYAN",
+      "kontak_punong_bayan": "(088) 889-0207",
+      "pangalawang_punong_bayan": "NEIL JOHN B. YANGCO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Camiguin - Libreng download",
+    "description": "Direktoryo ng 5 lungsod at bayan sa lalawigan ng Camiguin (Hilagang Mindanao (Region X)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Camiguin` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 5 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Camiguin | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Camiguin — 5 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 5 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

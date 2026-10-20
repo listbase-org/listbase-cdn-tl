@@ -1,0 +1,192 @@
+{
+  "id": "tl-cotabato-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Cotabato (North Cotabato)",
+  "title": "Mga Bayan ng Lalawigan ng Cotabato (North Cotabato)",
+  "description": "Listahan ng 17 munisipalidad (bayan) sa lalawigan ng Cotabato (North Cotabato), REGION XII (SOCCSKSARGEN), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "124701000",
+      "name": "ALAMADA",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 64596,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124717000",
+      "name": "ALEOSAN",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 39405,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "124715000",
+      "name": "ANTIPAS",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 25304,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "124718000",
+      "name": "ARAKAN",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 48228,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124716000",
+      "name": "BANISILAN",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 43677,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "124702000",
+      "name": "CARMEN",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 95921,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124703000",
+      "name": "KABACAN",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 89161,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124705000",
+      "name": "LIBUNGAN",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 48768,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "124710000",
+      "name": "M'LANG",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 95070,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124706000",
+      "name": "MAGPET",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 49201,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124707000",
+      "name": "MAKILALA",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 83851,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124708000",
+      "name": "MATALAM",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 79361,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124709000",
+      "name": "MIDSAYAP",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 151684,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124711000",
+      "name": "PIGKAWAYAN",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 66796,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124712000",
+      "name": "PIKIT",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 154441,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124713000",
+      "name": "PRESIDENT ROXAS",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 47575,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "124714000",
+      "name": "TULUNAN",
+      "province": "COTABATO (NORTH COTABATO)",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 56513,
+      "income_classification": "2nd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Cotabato (North Cotabato) - Libreng download",
+    "description": "Listahan ng 17 munisipalidad (bayan) sa lalawigan ng Cotabato (North Cotabato), REGION XII (SOCCSKSARGEN), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 17 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Cotabato (North Cotabato) | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Cotabato (North Cotabato) — 17 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 17 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

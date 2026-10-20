@@ -1,0 +1,144 @@
+{
+  "id": "tl-tawi-tawi-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Tawi-Tawi",
+  "title": "Mga Bayan ng Lalawigan ng Tawi-Tawi",
+  "description": "Listahan ng 11 munisipalidad (bayan) sa lalawigan ng Tawi-Tawi, AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "157002000",
+      "name": "BONGAO (Capital)",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 100527,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "157009000",
+      "name": "LANGUYAN",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 33494,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "157003000",
+      "name": "MAPUN (CAGAYAN DE TAWI-TAWI)",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 26597,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "157001000",
+      "name": "PANGLIMA SUGALA (BALIMBING)",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 44184,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "157010000",
+      "name": "SAPA-SAPA",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 30917,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "157011000",
+      "name": "SIBUTU",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 30387,
+      "income_classification": "-"
+    },
+    {
+      "psgc_code": "157004000",
+      "name": "SIMUNUL",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 31223,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "157005000",
+      "name": "SITANGKAI",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 33334,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "157006000",
+      "name": "SOUTH UBIAN",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 25935,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "157007000",
+      "name": "TANDUBAS",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 29390,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "157008000",
+      "name": "TURTLE ISLANDS",
+      "province": "TAWI-TAWI",
+      "region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+      "population": 4727,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Tawi-Tawi - Libreng download",
+    "description": "Listahan ng 11 munisipalidad (bayan) sa lalawigan ng Tawi-Tawi, AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 11 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Tawi-Tawi | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Tawi-Tawi — 11 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 11 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

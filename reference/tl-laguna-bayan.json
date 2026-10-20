@@ -1,0 +1,248 @@
+{
+  "id": "tl-laguna-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Laguna",
+  "title": "Mga Bayan ng Lalawigan ng Laguna",
+  "description": "Listahan ng 24 munisipalidad (bayan) sa lalawigan ng Laguna, REGION IV-A (CALABARZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "043401000",
+      "name": "ALAMINOS",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 47859,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "043402000",
+      "name": "BAY",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 62143,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "043406000",
+      "name": "CALAUAN",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 80453,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "043407000",
+      "name": "CAVINTI",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 21702,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "043408000",
+      "name": "FAMY",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 16587,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "043409000",
+      "name": "KALAYAAN",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 23269,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "043410000",
+      "name": "LILIW",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 36582,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "043411000",
+      "name": "LOS BAÑOS",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 112008,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "043412000",
+      "name": "LUISIANA",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 19720,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "043413000",
+      "name": "LUMBAN",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 30652,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "043414000",
+      "name": "MABITAC",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 20530,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "043415000",
+      "name": "MAGDALENA",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 25266,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "043416000",
+      "name": "MAJAYJAY",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 27792,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "043417000",
+      "name": "NAGCARLAN",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 63057,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "043418000",
+      "name": "PAETE",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 25096,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "043419000",
+      "name": "PAGSANJAN",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 42164,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "043420000",
+      "name": "PAKIL",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 20659,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "043421000",
+      "name": "PANGIL",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 24274,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "043422000",
+      "name": "PILA",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 50289,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "043423000",
+      "name": "RIZAL",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 17253,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "043426000",
+      "name": "SANTA CRUZ (Capital)",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 117605,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "043427000",
+      "name": "SANTA MARIA",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 30830,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "043429000",
+      "name": "SINILOAN",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 38067,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "043430000",
+      "name": "VICTORIA",
+      "province": "LAGUNA",
+      "region": "REGION IV-A (CALABARZON)",
+      "population": 39321,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Laguna - Libreng download",
+    "description": "Listahan ng 24 munisipalidad (bayan) sa lalawigan ng Laguna, REGION IV-A (CALABARZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 24 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Laguna | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Laguna — 24 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 24 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

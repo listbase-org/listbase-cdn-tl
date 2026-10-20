@@ -1,0 +1,128 @@
+{
+  "id": "tl-soccsksargen-simbahan",
+  "name": "Mga Simbahan - Soccsksargen",
+  "title": "Mga Simbahan - Soccsksargen",
+  "description": "Mga simbahan sa rehiyong Soccsksargen, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Soccsksargen, Philippines.)",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_tl",
+      "label": "Name Tl",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "denominasyon",
+      "label": "Denominasyon",
+      "type": "string"
+    },
+    {
+      "key": "taon_itinatag",
+      "label": "Taon Itinatag",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "bayan",
+      "label": "Bayan",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_tl",
+      "label": "Wikipedia Tl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q105829327",
+      "name_tl": "Katedral ng Kidapawan",
+      "name_en": "Kidapawan Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Soccsksargen",
+      "lalawigan": "Cotabato",
+      "bayan": "Kidapawan",
+      "latitude": 7.017472,
+      "longitude": 125.092639,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q17017446",
+      "name_tl": "Santo nino parish midsayap",
+      "name_en": "Santo nino parish midsayap",
+      "denominasyon": "",
+      "taon_itinatag": "",
+      "rehiyon": "Soccsksargen",
+      "lalawigan": "Cotabato",
+      "bayan": "Midsayap",
+      "latitude": 7.18798,
+      "longitude": 124.53407,
+      "wikipedia_tl": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q105829713",
+      "name_tl": "Katedral ng Koronadal",
+      "name_en": "Koronadal Cathedral",
+      "denominasyon": "Latin Church",
+      "taon_itinatag": "",
+      "rehiyon": "Soccsksargen",
+      "lalawigan": "South Cotabato",
+      "bayan": "Koronadal",
+      "latitude": 6.49809,
+      "longitude": 124.842313,
+      "wikipedia_tl": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Simbahan - Soccsksargen - Libreng download",
+    "description": "Mga simbahan sa rehiyong Soccsksargen, Pilipinas. Subset ng pambansang listahan 'Mga Simbahan sa Pilipinas', sinala ayon sa rehiyon sa pamamagitan ng administratibong kaugnayan (Wikidata P131* -> rehiyon Q24698). Pinagmulan: Wikidata. (Church buildings in Soccsksargen, Philippines.) Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Simbahan - Soccsksargen | ListBase",
+    "seo_description": "I-download Mga Simbahan - Soccsksargen — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 12 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

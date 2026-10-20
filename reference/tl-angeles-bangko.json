@@ -1,0 +1,80 @@
+{
+  "id": "tl-angeles-bangko",
+  "name": "Mga Bangko sa City of Angeles",
+  "title": "Mga Bangko sa City of Angeles",
+  "description": "Listahan ng 3 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Angeles (source city string: \"CITY OF ANGELES\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "GRBUPHM1",
+      "name": "GUAGUA RURAL BANK, INC.",
+      "name_titlecase": "Guagua Rural BANK, INC.",
+      "city": "CITY OF ANGELES",
+      "city_titlecase": "City of Angeles",
+      "branch": ""
+    },
+    {
+      "swift_code": "RUPPPHM2",
+      "name": "RURAL BANK OF PORAC (PAMP), INC.",
+      "name_titlecase": "Rural BANK of Porac (pamp), INC.",
+      "city": "CITY OF ANGELES",
+      "city_titlecase": "City of Angeles",
+      "branch": ""
+    },
+    {
+      "swift_code": "RSLSPHM1",
+      "name": "RURAL BANK OF SAN LUIS (BATANGAS),",
+      "name_titlecase": "Rural BANK of San Luis (batangas),",
+      "city": "CITY OF ANGELES",
+      "city_titlecase": "City of Angeles",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Angeles - Libreng download",
+    "description": "Listahan ng 3 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Angeles (source city string: \"CITY OF ANGELES\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Angeles | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Angeles — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

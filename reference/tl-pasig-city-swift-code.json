@@ -1,0 +1,124 @@
+{
+  "id": "tl-pasig-city-swift-code",
+  "name": "Mga SWIFT/BIC code — Pasig City",
+  "title": "Mga SWIFT/BIC code — Pasig City",
+  "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 13 institusyon na nakalista sa pinagkunan sa lungsod na \"PASIG CITY\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ABACUS CAPITAL AND INVESTMENT CORPORATION",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "ACICPHM1"
+    },
+    {
+      "bank": "AGRIBUSINESS RURAL BANK, INC.",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "AGBUPHM1"
+    },
+    {
+      "bank": "ASIA UNITED BANK CORPORATION",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "AUBKPHMM"
+    },
+    {
+      "bank": "CENTURY SAVINGS BANK CORPORATION",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "CESNPHM1"
+    },
+    {
+      "bank": "CITYSTATE SAVINGS BANK, INC.",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "CIVVPHM1"
+    },
+    {
+      "bank": "COL FINANCIAL GROUP, INC.",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "CFGOPHM1"
+    },
+    {
+      "bank": "GSIS FAMILY BANK",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "GSFAPHM1"
+    },
+    {
+      "bank": "MANILA ELECTRIC COMPANY",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "MRALPHMM"
+    },
+    {
+      "bank": "PHILIPPINE RESOURCES SAVINGS BANK CORPORATION",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "PRVRPHM1"
+    },
+    {
+      "bank": "PHILIPPINE STOCK EXCHANGE, INC.",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "XPHSPHM1"
+    },
+    {
+      "bank": "PRODUCERS SAVINGS BANK CORPORATION ONE SAN MIGUEL AVENUE",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "PSCOPHM1"
+    },
+    {
+      "bank": "TA BANK OF THE PHILIPPINES INC.",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "PHIIPHM1"
+    },
+    {
+      "bank": "UNION BANK OF THE PHILIPPINES",
+      "city": "PASIG CITY",
+      "branch": "",
+      "swift_code": "UBPHPHMM"
+    }
+  ],
+  "meta": {
+    "title": "Mga SWIFT/BIC code — Pasig City - Libreng download",
+    "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 13 institusyon na nakalista sa pinagkunan sa lungsod na \"PASIG CITY\". Naglalaman ng 13 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga SWIFT/BIC code — Pasig City | ListBase",
+    "seo_description": "I-download Mga SWIFT/BIC code — Pasig City — 13 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 13 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

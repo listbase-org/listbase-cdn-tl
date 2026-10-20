@@ -1,0 +1,196 @@
+{
+  "id": "tl-davao-del-sur-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao del Sur",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao del Sur",
+  "description": "Direktoryo ng 10 lungsod at bayan sa lalawigan ng Davao del Sur (Rehiyon ng Davao (Region XI)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Davao del Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Bansalan",
+      "uri": "Bayan",
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8005",
+      "punong_bayan": "EDWIN G. REYES",
+      "kontak_punong_bayan": "(082) 555-9295",
+      "pangalawang_punong_bayan": "SAMUEL B. GADINGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Davao City",
+      "uri": "Lungsod",
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "",
+      "punong_bayan": "RODRIGO ROA DUTERTE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SEBASTIAN “BASTE” DUTERTE",
+      "kontak_pangalawang_punong_bayan": "241-1000 Local 265/266"
+    },
+    {
+      "id": 3,
+      "lgu": "Digos",
+      "uri": "Lungsod",
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "",
+      "punong_bayan": "JOSEF F. CAGAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAY MELCHOR B. QUITAIN JR.",
+      "kontak_pangalawang_punong_bayan": "(082) 222-0855-63; 221-9991 loc. 228"
+    },
+    {
+      "id": 4,
+      "lgu": "Hagonoy",
+      "uri": "Bayan",
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8006",
+      "punong_bayan": "JESUS S. DUREZA JR.",
+      "kontak_punong_bayan": "(082) 272-6939",
+      "pangalawang_punong_bayan": "MICHAEL JHON J. BALINDAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Kiblawan",
+      "uri": "Bayan",
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8008",
+      "punong_bayan": "JOEL D. CALMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARIVIC L. CAMINERO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Malalag",
+      "uri": "Bayan",
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8010",
+      "punong_bayan": "PETER PAUL T. VALENTIN",
+      "kontak_punong_bayan": "(082) 272-0191",
+      "pangalawang_punong_bayan": "ERVIN S. EMPHASIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Matanao",
+      "uri": "Bayan",
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8003",
+      "punong_bayan": "VINCENT F. FERNANDEZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "IRICK A. AGBON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Padada",
+      "uri": "Bayan",
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8007",
+      "punong_bayan": "FRANCISCO L. GUERRERO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JUWILL G. CARPENTERO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Santa Cruz",
+      "uri": "Bayan",
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8001",
+      "punong_bayan": "JOSE NELSON Z. SALA SR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JEROME A. UNDALOK",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Sulop",
+      "uri": "Bayan",
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "Rehiyon ng Davao (Region XI)",
+      "zip_code": "8009",
+      "punong_bayan": "JOSE JIMMY S. SAGARINO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "WILLIE S. VILLEGAS",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao del Sur - Libreng download",
+    "description": "Direktoryo ng 10 lungsod at bayan sa lalawigan ng Davao del Sur (Rehiyon ng Davao (Region XI)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Davao del Sur` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 10 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao del Sur | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Davao del Sur — 10 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 10 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "id": "tl-misamis-oriental-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Misamis Oriental",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Misamis Oriental",
+  "description": "Direktoryo ng 26 lungsod at bayan sa lalawigan ng Misamis Oriental (Hilagang Mindanao (Region X)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Misamis Oriental` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Alubijid",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9018",
+      "punong_bayan": "EMMANUEL L. JAMIS",
+      "kontak_punong_bayan": "(088) 882-5706",
+      "pangalawang_punong_bayan": "ALVIN GIOVANNI A. LABIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Balingasag",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9005",
+      "punong_bayan": "ALEXIS S. QUINA",
+      "kontak_punong_bayan": "(088) 333-2175",
+      "pangalawang_punong_bayan": "FELIX H. BORROMEO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Balingoan",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9011",
+      "punong_bayan": "AARON PAUL S. UNABIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "FRANKLIN C. PANULAYA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Binuangan",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9008",
+      "punong_bayan": "DANN ISAIAH D. LUSTERIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MICHELLE C. ABAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Cagayan de Oro",
+      "uri": "Lungsod",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "",
+      "punong_bayan": "ROLANDO A. UY",
+      "kontak_punong_bayan": "(088) 856-1267; 857-7587",
+      "pangalawang_punong_bayan": "JOCELYN B. RODRIGUEZ",
+      "kontak_pangalawang_punong_bayan": "(088) 565-0568; 565-0697 loc. 118"
+    },
+    {
+      "id": 6,
+      "lgu": "Claveria",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9004",
+      "punong_bayan": "MERALUNA S. ABROGAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REYNANTE L. SALVALEON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "El Salvador",
+      "uri": "Lungsod",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "",
+      "punong_bayan": "EDGAR S. LIGNES",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARK WILLIAM U. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Gingoog",
+      "uri": "Lungsod",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "",
+      "punong_bayan": "ERICK G. CAÑOSA",
+      "kontak_punong_bayan": "(088) 861-0569",
+      "pangalawang_punong_bayan": "THADDEUS P. LUGOD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Gitagum",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9020",
+      "punong_bayan": "EMMANUEL S. MUGOT",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUDY O. DAMASING",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Initao",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9022",
+      "punong_bayan": "MERCY GRACE J. ACAIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ENERITO J. ACAIN V",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Jasaan",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9003",
+      "punong_bayan": "REDENTOR S. JARDIN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JANNUS RAY A. ESTOR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Kinoguitan",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9010",
+      "punong_bayan": "DANILO A. LAGBAS JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "TOMAS M. ZARATE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Lagonglong",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9006",
+      "punong_bayan": "JAY ALBERT C. PUERTAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MARITA D. RAMONAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Laguindingan",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9019",
+      "punong_bayan": "DIOSDADO T. OBSIOMA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROY I. MACUA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Libertad",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9021",
+      "punong_bayan": "LEONARDO L. UY JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SHARON M. BALLANGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Lugait",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9025",
+      "punong_bayan": "WELLIE G. LIM",
+      "kontak_punong_bayan": "(063) 225-1736",
+      "pangalawang_punong_bayan": "ROGER G. LIM",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Magsaysay",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9015",
+      "punong_bayan": "CHARLIE B. BUHISAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GRACE B. ABAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Manticao",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9024",
+      "punong_bayan": "STEPHEN S. TAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROBERTO M. LAGROSAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Medina",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9013",
+      "punong_bayan": "DONATO N. CHAN",
+      "kontak_punong_bayan": "(088) 861-0178",
+      "pangalawang_punong_bayan": "PAULO B. MAGALLANES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Naawan",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9023",
+      "punong_bayan": "DENNIS L. ROA",
+      "kontak_punong_bayan": "(088) 555-0116",
+      "pangalawang_punong_bayan": "ALLAN B. ROA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Opol",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9016",
+      "punong_bayan": "JAYFRANCIS D. BAGO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DANILO E. DAROY JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Salay",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9007",
+      "punong_bayan": "ANGELO G. CAPISTRANO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REY AMELITO K. TAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Sugbongcogon",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9009",
+      "punong_bayan": "MILDRED L. MONDIGO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "IVAN CHESTER E. LAGBAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Tagoloan",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9001",
+      "punong_bayan": "NADYA B. EMANO-ELIPE",
+      "kontak_punong_bayan": "(088) 890-4561",
+      "pangalawang_punong_bayan": "ROBINSON V. SABIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "Talisayan",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9012",
+      "punong_bayan": "RICO T. TARAY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMMEL C. MASLOG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 26,
+      "lgu": "Villanueva",
+      "uri": "Bayan",
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao (Region X)",
+      "zip_code": "9002",
+      "punong_bayan": "JENNIE ROSALIE U. MENDEZ",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JERIC G. EMANO",
+      "kontak_pangalawang_punong_bayan": "(088) 856-2164"
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Misamis Oriental - Libreng download",
+    "description": "Direktoryo ng 26 lungsod at bayan sa lalawigan ng Misamis Oriental (Hilagang Mindanao (Region X)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Misamis Oriental` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 26 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Misamis Oriental | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Misamis Oriental — 26 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 26 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

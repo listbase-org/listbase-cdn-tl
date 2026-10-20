@@ -1,0 +1,568 @@
+{
+  "id": "tl-quezon-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Quezon",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Quezon",
+  "description": "Direktoryo ng 41 lungsod at bayan sa lalawigan ng Quezon (Calabarzon (Region IV-A)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Quezon` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Agdangan",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4304",
+      "punong_bayan": "RHADAM P. AGUILAR",
+      "kontak_punong_bayan": "(042) 421-5551",
+      "pangalawang_punong_bayan": "CARLO A. SALVADOR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Alabat",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4333",
+      "punong_bayan": "JOSE RAMIL R. ARQUIZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "IRENEO R. LAYOSA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Atimonan",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4331",
+      "punong_bayan": "RUSTICO JOVEN U. MENDOZA",
+      "kontak_punong_bayan": "(042) 316-5385",
+      "pangalawang_punong_bayan": "ZENAIDA D. VERANGA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Buenavista",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4320",
+      "punong_bayan": "REYNALDO E. ROSILLA JR.",
+      "kontak_punong_bayan": "(042) 710-6233",
+      "pangalawang_punong_bayan": "ALVIN RAY U. RIVERA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Burdeos",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4340",
+      "punong_bayan": "FREDDIE C. AMAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GINA P. GONZALES",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Calauag",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4318",
+      "punong_bayan": "ROSALINA O. VISORDE",
+      "kontak_punong_bayan": "(042) 717-7122",
+      "pangalawang_punong_bayan": "LEAH M. DELA CRUZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Candelaria",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4323",
+      "punong_bayan": "GEORGE D. SUAYAN",
+      "kontak_punong_bayan": "(042) 585-3928",
+      "pangalawang_punong_bayan": "MACARIO D. BOONGALING",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Catanauan",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4311",
+      "punong_bayan": "RAMON A. ORFANEL",
+      "kontak_punong_bayan": "(042) 911-4901",
+      "pangalawang_punong_bayan": "MANUEL B. MONTANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Dolores",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4326",
+      "punong_bayan": "ORLAN A. CALAYAG",
+      "kontak_punong_bayan": "(042) 565-6331",
+      "pangalawang_punong_bayan": "RENATO B. ALILIO JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "General Luna",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4310",
+      "punong_bayan": "MATT ERWIN V. FLORIDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MELAICA M. BATARIANO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "General Nakar",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4338",
+      "punong_bayan": "ELISEO R. RUZOL SR.",
+      "kontak_punong_bayan": "(042) 535-7104",
+      "pangalawang_punong_bayan": "RODEL A. AVELLANEDA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Guinayangan",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4319",
+      "punong_bayan": "MARIA MARIEDEN M. ISAAC",
+      "kontak_punong_bayan": "(042) 788-0253",
+      "pangalawang_punong_bayan": "NORMAN D. DUBLOIS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Gumaca",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4307",
+      "punong_bayan": "WEBSTER D. LETARGO",
+      "kontak_punong_bayan": "(042) 317-6269",
+      "pangalawang_punong_bayan": "RICO J. BAÑAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Infanta",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4336",
+      "punong_bayan": "FILIPINA GRACE R. AMERICA",
+      "kontak_punong_bayan": "(042) 788-0253",
+      "pangalawang_punong_bayan": "LORD ARNEL L. RUANTO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Jomalig",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4342",
+      "punong_bayan": "NELMAR T. SARMIENTO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHARITO A. MANLANGIT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Lopez",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4316",
+      "punong_bayan": "RACHEL A. UBANA",
+      "kontak_punong_bayan": "(042) 717-5794",
+      "pangalawang_punong_bayan": "MARIA ADELINE A. LEE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Lucban",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4328",
+      "punong_bayan": "AGUSTIN M. VILLAVERDE",
+      "kontak_punong_bayan": "(042) 540-4887",
+      "pangalawang_punong_bayan": "ARNEL C. ABCEDE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Lucena",
+      "uri": "Lungsod",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "MARK DON VICTOR B. ALCALA",
+      "kontak_punong_bayan": "(042) 788-2298; 788-2320 loc. 174",
+      "pangalawang_punong_bayan": "RODERICK A. ALCALA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Macalelon",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4309",
+      "punong_bayan": "ARTEMIO A. MAMBURAO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CARMEN O. VIDAL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Mauban",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4330",
+      "punong_bayan": "BAUTISTA ERWIN DWIGHT C. PASTRANA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SIR ALWEEN M. SARDEA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Mulanay",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4312",
+      "punong_bayan": "ARISTOTLE L. AGUIRRE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JAY E. CASTILLEJA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Padre Burgos",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4303",
+      "punong_bayan": "RUBEN B. UY DIOKNO",
+      "kontak_punong_bayan": "(042) 788-0760",
+      "pangalawang_punong_bayan": "EDONNA D. AMITH",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Pagbilao",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4302",
+      "punong_bayan": "ANGELICA P. TATLONGHARI",
+      "kontak_punong_bayan": "(042) 797-0937",
+      "pangalawang_punong_bayan": "SHIERRE ANN P. PALICPIC",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Panukulan",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4337",
+      "punong_bayan": "ALFRED RIGOR S. MITRA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "HERMINIO A. PEÑAMANTE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "Patnanungan",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4341",
+      "punong_bayan": "MARIE CLAIRE L. NATIVIDAD",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REYNALDO A. AÑONUEVO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 26,
+      "lgu": "Perez",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4334",
+      "punong_bayan": "CHARIZZE MARIE E. ESCALONA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RYAN A. PANOL",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 27,
+      "lgu": "Pitogo",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4308",
+      "punong_bayan": "DEXTER L. SAYAT",
+      "kontak_punong_bayan": "(042) 318-8208",
+      "pangalawang_punong_bayan": "PAUL TIMOTHY C. VILLAFLOR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 28,
+      "lgu": "Plaridel",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4306",
+      "punong_bayan": "JOSE D. SAAVEDRA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BERNARDO V. TUMAGAY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 29,
+      "lgu": "Polillo",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4339",
+      "punong_bayan": "ANGELIQUE E. BOSQUE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LOEL F. SANTOALLA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 30,
+      "lgu": "Quezon",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4332",
+      "punong_bayan": "JUAN F. ESCOLANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PEDRITO L. ALIBARBAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 31,
+      "lgu": "Real",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4335",
+      "punong_bayan": "DIANA ABIGAIL D. AQUINO",
+      "kontak_punong_bayan": "(042) 536-6339",
+      "pangalawang_punong_bayan": "DOYLE JOEL M. DIESTRO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 32,
+      "lgu": "Sampaloc",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4329",
+      "punong_bayan": "NOEL ANGELO T. DEVANADERA",
+      "kontak_punong_bayan": "(043) 555-8233",
+      "pangalawang_punong_bayan": "TERESITA D. VILLENO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 33,
+      "lgu": "San Andres",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4314",
+      "punong_bayan": "RALPH EDWARD B. LIM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NELSON D. AUSA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 34,
+      "lgu": "San Antonio",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4324",
+      "punong_bayan": "ANIANO ARIEL M. WAGAN JR.",
+      "kontak_punong_bayan": "(042) 545-4091",
+      "pangalawang_punong_bayan": "JENNIFER H. MURPHY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 35,
+      "lgu": "San Francisco",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4315",
+      "punong_bayan": "ROMULO R. EDAÑO",
+      "kontak_punong_bayan": "(042) 788-4507",
+      "pangalawang_punong_bayan": "MA. KRESNA E. FERNANDEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 36,
+      "lgu": "San Narciso",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4313",
+      "punong_bayan": "FLORABELLE U. UY-YAP",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELENA R. BABAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 37,
+      "lgu": "Sariaya",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4322",
+      "punong_bayan": "MARCELO P. GAYETA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALEXANDER A. TOLENTINO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 38,
+      "lgu": "Tagkawayan",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4321",
+      "punong_bayan": "LUIS OSCAR T. ELEAZAR",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DANILO L. LIWANAG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 39,
+      "lgu": "Tayabas",
+      "uri": "Lungsod",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "",
+      "punong_bayan": "MARIA LOURDES R. PONTIOSO",
+      "kontak_punong_bayan": "(042) 793-3129",
+      "pangalawang_punong_bayan": "ROSAURO Q. DALIDA",
+      "kontak_pangalawang_punong_bayan": "(042) 797-3771"
+    },
+    {
+      "id": 40,
+      "lgu": "Tiaong",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4325",
+      "punong_bayan": "VINCENT ARJAY M. MEA",
+      "kontak_punong_bayan": "(042) 545-9275",
+      "pangalawang_punong_bayan": "RODERICK A. UMALI",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 41,
+      "lgu": "Unisan",
+      "uri": "Bayan",
+      "lalawigan": "QUEZON",
+      "rehiyon": "Calabarzon (Region IV-A)",
+      "zip_code": "4305",
+      "punong_bayan": "FERDINAND P. ADULTA",
+      "kontak_punong_bayan": "(042) 421-8948",
+      "pangalawang_punong_bayan": "MEYNARD D. LAT",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Quezon - Libreng download",
+    "description": "Direktoryo ng 41 lungsod at bayan sa lalawigan ng Quezon (Calabarzon (Region IV-A)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Quezon` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 41 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Quezon | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Quezon — 41 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 41 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

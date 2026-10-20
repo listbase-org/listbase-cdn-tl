@@ -1,0 +1,144 @@
+{
+  "id": "tl-sultan-kudarat-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Sultan Kudarat",
+  "title": "Mga Bayan ng Lalawigan ng Sultan Kudarat",
+  "description": "Listahan ng 11 munisipalidad (bayan) sa lalawigan ng Sultan Kudarat, REGION XII (SOCCSKSARGEN), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "126501000",
+      "name": "BAGUMBAYAN",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 67061,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126502000",
+      "name": "COLUMBIO",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 33258,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126503000",
+      "name": "ESPERANZA",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 66095,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126504000",
+      "name": "ISULAN (Capital)",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 90682,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126505000",
+      "name": "KALAMANSIG",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 49059,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126508000",
+      "name": "LAMBAYONG (MARIANO MARCOS)",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 77013,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "126506000",
+      "name": "LEBAK",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 88868,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "126507000",
+      "name": "LUTAYAN",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 63029,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "126509000",
+      "name": "PALIMBANG",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 90424,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "126510000",
+      "name": "PRESIDENT QUIRINO",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 41408,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "126512000",
+      "name": "SEN. NINOY AQUINO",
+      "province": "SULTAN KUDARAT",
+      "region": "REGION XII (SOCCSKSARGEN)",
+      "population": 46882,
+      "income_classification": "3rd"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Sultan Kudarat - Libreng download",
+    "description": "Listahan ng 11 munisipalidad (bayan) sa lalawigan ng Sultan Kudarat, REGION XII (SOCCSKSARGEN), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 11 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Sultan Kudarat | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Sultan Kudarat — 11 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 11 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

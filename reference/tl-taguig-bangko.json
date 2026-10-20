@@ -1,0 +1,288 @@
+{
+  "id": "tl-taguig-bangko",
+  "name": "Mga Bangko sa City of Taguig",
+  "title": "Mga Bangko sa City of Taguig",
+  "description": "Listahan ng 29 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Taguig (source city string: \"CITY OF TAGUIG\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0).",
+  "category": "reference",
+  "source": "https://github.com/qrph/bank-codes",
+  "source_url": "https://github.com/qrph/bank-codes",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_titlecase",
+      "label": "Name Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_titlecase",
+      "label": "City Titlecase",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "swift_code": "ANSCPHM1",
+      "name": "AB CAPITAL SECURITIES INC.",
+      "name_titlecase": "Ab Capital Securities INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "AIACPHM1GIO",
+      "name": "AIA PHILIPPINES",
+      "name_titlecase": "AIA Philippines",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": "GENERAL INVESTMENT OPERATIONS"
+    },
+    {
+      "swift_code": "APHIPHM2",
+      "name": "ALIPAY PHILIPPINES INC.",
+      "name_titlecase": "Alipay Philippines INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "APHIPHM3",
+      "name": "ALIPAY PHILIPPINES INC.",
+      "name_titlecase": "Alipay Philippines INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "BKCHPHMM",
+      "name": "BANK OF CHINA (HONG KONG) LIMITED - MANILA BRANCH",
+      "name_titlecase": "BANK of China (hong Kong) Limited - Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "BDESPHM1",
+      "name": "BDO ELITE SAVINGS BANK, INC.",
+      "name_titlecase": "BDO Elite Savings BANK, INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CIPHPHM1",
+      "name": "CIMB BANK PHILIPPINES INC.",
+      "name_titlecase": "CIMB BANK Philippines INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CIPHPHMM",
+      "name": "CIMB BANK PHILIPPINES INC.",
+      "name_titlecase": "CIMB BANK Philippines INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CITIPHMX",
+      "name": "CITIBANK,N.A., MANILA BRANCH",
+      "name_titlecase": "Citibank,n.a., Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": "HEAD OFFICE"
+    },
+    {
+      "swift_code": "COUKPHM1",
+      "name": "COUNTRY BUILDERS BANK INC. (A RURAL BANK)",
+      "name_titlecase": "Country Builders BANK INC. (a Rural BANK)",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CTCBPHMM",
+      "name": "CTBC BANK (PHILIPPINES) CORP.",
+      "name_titlecase": "Ctbc BANK (philippines) CORP.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "EAGMPHM2",
+      "name": "EASYPAY GLOBAL EMI CORP.",
+      "name_titlecase": "Easypay Global Emi CORP.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GXCHPHM2",
+      "name": "G-XCHANGE, INC.",
+      "name_titlecase": "G-xchange, INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "GLTEPHMT",
+      "name": "GLOBE TELECOM, INC.",
+      "name_titlecase": "Globe Telecom, INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ICBKPHMM",
+      "name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, MANILA BRANCH",
+      "name_titlecase": "Industrial and Commercial BANK of China Limited, Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "IBKOPHMM",
+      "name": "INDUSTRIAL BANK OF KOREA, MANILA BRANCH",
+      "name_titlecase": "Industrial BANK of Korea, Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "INGBPHMM",
+      "name": "ING BANK N.V.",
+      "name_titlecase": "ING BANK N.v.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "ISVBPHM1",
+      "name": "INSULAR SAVERS BANK, INC. (A RURAL BANK)",
+      "name_titlecase": "Insular Savers BANK, INC. (a Rural BANK)",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "CHASPHMM",
+      "name": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+      "name_titlecase": "Jpmorgan Chase BANK, N.a., Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "LFSHPHM2",
+      "name": "LULU FINANCIAL SERVICES (PHILS) INC",
+      "name_titlecase": "Lulu Financial Services (phils) INC",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "MAYCPHM2",
+      "name": "MARCOPAY INC.",
+      "name_titlecase": "Marcopay INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "PAEYPHM2",
+      "name": "PAYMONGO PAYMENTS, INC.",
+      "name_titlecase": "Paymongo Payments, INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "PDAXPHM2",
+      "name": "PHILIPPINE DIGITAL ASSET EXCHANGE, INC. (PDAX)",
+      "name_titlecase": "Philippine Digital Asset Exchange, INC. (pdax)",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SECTPHM1",
+      "name": "SAMSUNG ELECTRONICS PHILIPPINES CORP.",
+      "name_titlecase": "Samsung Electronics Philippines CORP.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SECTPHM15B0",
+      "name": "SAMSUNG ELECTRONICS PHILIPPINES CORP.",
+      "name_titlecase": "Samsung Electronics Philippines CORP.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": "SEPCO"
+    },
+    {
+      "swift_code": "SHBKPHMM",
+      "name": "SHINHAN BANK MANILA BRANCH",
+      "name_titlecase": "Shinhan BANK Manila Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "SHPHPHM2",
+      "name": "SHOPEEPAY PHILIPPINES, INC.",
+      "name_titlecase": "Shopeepay Philippines, INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "HSBCPHMM",
+      "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
+      "name_titlecase": "The Hongkong and Shanghai Banking Corporation LTD - Philippine Branch",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    },
+    {
+      "swift_code": "UNOBPHM2",
+      "name": "UNOBANK INC.",
+      "name_titlecase": "Unobank INC.",
+      "city": "CITY OF TAGUIG",
+      "city_titlecase": "City of Taguig",
+      "branch": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Bangko sa City of Taguig - Libreng download",
+    "description": "Listahan ng 29 na bangko at BSP-supervised financial institution na nakarehistro sa lungsod ng Taguig (source city string: \"CITY OF TAGUIG\"), Pilipinas. Bawat record ay may opisyal na pangalan, SWIFT/BIC code (...PHM... country code para sa Philippines), at sangay (branch) kung mayroon. Per-city split ng pambansang listahan tl-bangko (499 records, 89 lungsod). Source: qrph/bank-codes (Apache-2.0). Naglalaman ng 29 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bangko sa City of Taguig | ListBase",
+    "seo_description": "I-download Mga Bangko sa City of Taguig — 29 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 29 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: https://github.com/qrph/bank-codes"
+    ]
+  }
+}

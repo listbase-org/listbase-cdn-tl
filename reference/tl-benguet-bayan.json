@@ -1,0 +1,160 @@
+{
+  "id": "tl-benguet-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Benguet",
+  "title": "Mga Bayan ng Lalawigan ng Benguet",
+  "description": "Listahan ng 13 munisipalidad (bayan) sa lalawigan ng Benguet, CORDILLERA ADMINISTRATIVE REGION (CAR), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "141101000",
+      "name": "ATOK",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 19668,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "141103000",
+      "name": "BAKUN",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 15357,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "141104000",
+      "name": "BOKOD",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 13756,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "141105000",
+      "name": "BUGUIAS",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 43627,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "141106000",
+      "name": "ITOGON",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 59820,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "141107000",
+      "name": "KABAYAN",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 15260,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "141108000",
+      "name": "KAPANGAN",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 19361,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "141109000",
+      "name": "KIBUNGAN",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 17292,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "141110000",
+      "name": "LA TRINIDAD (Capital)",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 129133,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "141111000",
+      "name": "MANKAYAN",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 35953,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "141112000",
+      "name": "SABLAN",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 11457,
+      "income_classification": "5th"
+    },
+    {
+      "psgc_code": "141113000",
+      "name": "TUBA",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 47648,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "141114000",
+      "name": "TUBLAY",
+      "province": "BENGUET",
+      "region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "population": 17892,
+      "income_classification": "5th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Benguet - Libreng download",
+    "description": "Listahan ng 13 munisipalidad (bayan) sa lalawigan ng Benguet, CORDILLERA ADMINISTRATIVE REGION (CAR), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 13 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Benguet | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Benguet — 13 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 13 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tl-san-fernando-swift-code",
+  "name": "Mga SWIFT/BIC code — San Fernando",
+  "title": "Mga SWIFT/BIC code — San Fernando",
+  "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 3 institusyon na nakalista sa pinagkunan sa lungsod na \"SAN FERNANDO\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BANK OF FLORIDA, INC. (A RURAL BANK)",
+      "city": "SAN FERNANDO",
+      "branch": "",
+      "swift_code": "FLRUPHM1"
+    },
+    {
+      "bank": "BOF, INC. (A RURAL BANK)",
+      "city": "SAN FERNANDO",
+      "branch": "",
+      "swift_code": "BORRPHM1"
+    },
+    {
+      "bank": "RANG-AY BANK (A RURAL BANK), INC.",
+      "city": "SAN FERNANDO",
+      "branch": "",
+      "swift_code": "RARLPHM1"
+    }
+  ],
+  "meta": {
+    "title": "Mga SWIFT/BIC code — San Fernando - Libreng download",
+    "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 3 institusyon na nakalista sa pinagkunan sa lungsod na \"SAN FERNANDO\". Naglalaman ng 3 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga SWIFT/BIC code — San Fernando | ListBase",
+    "seo_description": "I-download Mga SWIFT/BIC code — San Fernando — 3 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 3 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

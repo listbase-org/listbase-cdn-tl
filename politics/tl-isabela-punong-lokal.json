@@ -1,0 +1,484 @@
+{
+  "id": "tl-isabela-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Isabela",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Isabela",
+  "description": "Direktoryo ng 34 lungsod at bayan sa lalawigan ng Isabela (Lambak ng Cagayan (Region II)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Isabela` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Alicia",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3306",
+      "punong_bayan": "JOEL AMOS P. ALEJANDRO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANDY BONN B. VELASCO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Angadanan",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3307",
+      "punong_bayan": "JOELLE MATHEA S. PANGANIBAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REYNALDO T. PANGANIBAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Aurora",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3316",
+      "punong_bayan": "JOSEPH CHRISTIAN G. UY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MELVIN S. MARTIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 4,
+      "lgu": "Benito Soliven",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3331",
+      "punong_bayan": "ROBERTO T. LUNGAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOHN PAUL S. AZUR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Burgos",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3322",
+      "punong_bayan": "ISIS DOMINIQUE T. UY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RUBEN A. GRAGASIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Cabagan",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3328",
+      "punong_bayan": "CHRISTOPHER A. MAMAUAG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LOVIER V. MASIGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Cabatuan",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3315",
+      "punong_bayan": "CHARLTON L. UY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BENJAMIN ISABELO R. DY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Cordon",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3312",
+      "punong_bayan": "LYNN M. ZUNIEGA-DY",
+      "kontak_punong_bayan": "(078) 682-0445",
+      "pangalawang_punong_bayan": "ABEGAIL V. SABLE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "Delfin Albano",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3326",
+      "punong_bayan": "ARNOLD EDWARD P. CO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "THOMAS A. PUA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Dinapigue",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3336",
+      "punong_bayan": "VICENTE D. MENDOZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "REYNALDO D. DERIJE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Divilacan",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3335",
+      "punong_bayan": "VENTURITO C. BULAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALFREDO P. CUSTODIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Echague",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3309",
+      "punong_bayan": "FRANCIS FAUSTINO A. DY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ALLAN P. TUPONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Gamu",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3301",
+      "punong_bayan": "TIMOTEO M. GALANZA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MITZI P. CUMIGAD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Jones",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3313",
+      "punong_bayan": "NHEL C. MONTANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "EVELYN R. RASPADO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Luna",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3304",
+      "punong_bayan": "ADRIAN LEANDRO P. TIO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LELAMEN R. SOINGCO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Maconacon",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3333",
+      "punong_bayan": "ROLLY M. QUEBRAL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MA. LYCELLE KATE D. VICENTE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "Mallig",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3323",
+      "punong_bayan": "JOSE PHILIP F. CALDERON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DIOSDADO B. FELIPE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Naguilian",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3302",
+      "punong_bayan": "JUAN R. CAPUCHINO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ISIDRO D. ACOSTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Palanan",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3334",
+      "punong_bayan": "ANGELO A. BERNARDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELIZABETH B. OCHOA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Quezon",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3324",
+      "punong_bayan": "JIMMY S. GAMAZON JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DARYL G. GASCON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Quirino",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3321",
+      "punong_bayan": "EDWARD D. JUAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VICTOR EMMANUEL G. CALLANGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Ramon",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3319",
+      "punong_bayan": "JESUS D. LADDARAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DENNIS JON A. DELA CRUZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Reina Mercedes",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3303",
+      "punong_bayan": "MARIA LOURDES P. RESPICIO-SAGUBAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANTHONY P. RESPICIO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Roxas",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3320",
+      "punong_bayan": "JONATHAN JOSE C. CALDERON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NICK M. SEBASTIAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "San Agustin",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3314",
+      "punong_bayan": "CESAR A. MONDALA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "OLIVER D. MICU",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 26,
+      "lgu": "San Guillermo",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3308",
+      "punong_bayan": "FELIPE N. GUYUD JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "BERNARDINE M. LUCAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 27,
+      "lgu": "San Isidro",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3310",
+      "punong_bayan": "VILMER B. BRAVO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LEONARDO A. TUMAMAO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 28,
+      "lgu": "San Manuel",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3317",
+      "punong_bayan": "FAUSTINO U. DY IV",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "TEMESTOCLES A. SANTOS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 29,
+      "lgu": "San Mariano",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3332",
+      "punong_bayan": "EDGAR T. GO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "DEAN ANTHONY G. DOMALANTA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 30,
+      "lgu": "San Mateo",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3318",
+      "punong_bayan": "GREGORIO A. PUA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ARVIN M. BARANGAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 31,
+      "lgu": "San Pablo",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3329",
+      "punong_bayan": "ANTONIO N. MIRO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANTONIO JOSE T. MIRO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 32,
+      "lgu": "Santa Maria",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3330",
+      "punong_bayan": "HILARIO G. PAGAUITAN",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MICHAEL ABRAHAM G. PAGAUITAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 33,
+      "lgu": "Santo Tomas",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3327",
+      "punong_bayan": "ANTONIO M. TALAUE",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "AMADO P. TALAUE",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 34,
+      "lgu": "Tumauini",
+      "uri": "Bayan",
+      "lalawigan": "ISABELA PROVINCE",
+      "rehiyon": "Lambak ng Cagayan (Region II)",
+      "zip_code": "3325",
+      "punong_bayan": "VENUS T. BAUTISTA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTOPHER B. UY",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Isabela - Libreng download",
+    "description": "Direktoryo ng 34 lungsod at bayan sa lalawigan ng Isabela (Lambak ng Cagayan (Region II)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Isabela` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 34 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Isabela | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Isabela — 34 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 34 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

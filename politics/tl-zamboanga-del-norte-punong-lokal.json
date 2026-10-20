@@ -1,0 +1,424 @@
+{
+  "id": "tl-zamboanga-del-norte-punong-lokal",
+  "name": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zamboanga del Norte",
+  "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zamboanga del Norte",
+  "description": "Direktoryo ng 29 lungsod at bayan sa lalawigan ng Zamboanga del Norte (Tangway ng Zamboanga (Region IX)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Zamboanga del Norte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "lgu",
+      "label": "Lgu",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "zip_code",
+      "label": "Zip Code",
+      "type": "number"
+    },
+    {
+      "key": "punong_bayan",
+      "label": "Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_punong_bayan",
+      "label": "Kontak Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "pangalawang_punong_bayan",
+      "label": "Pangalawang Punong Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kontak_pangalawang_punong_bayan",
+      "label": "Kontak Pangalawang Punong Bayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "lgu": "Baliguian",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7123",
+      "punong_bayan": "GANI A. ESMALI JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VIVIAN T. CHIONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 2,
+      "lgu": "Dapitan",
+      "uri": "Lungsod",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "",
+      "punong_bayan": "SETH FREDERICK P. JALOSJOS",
+      "kontak_punong_bayan": "(065) 917-5792; 917-5827; 908-3146",
+      "pangalawang_punong_bayan": "ALFREDO A. SY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 3,
+      "lgu": "Dipolog",
+      "uri": "Lungsod",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "",
+      "punong_bayan": "DAREL DEXTER T. UY",
+      "kontak_punong_bayan": "(065) 212-2484; 212-4234",
+      "pangalawang_punong_bayan": "SENEN O. ANGELES",
+      "kontak_pangalawang_punong_bayan": "(065) 212-2354"
+    },
+    {
+      "id": 4,
+      "lgu": "Godod",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7126",
+      "punong_bayan": "ABEL M. MATILDO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SAMUEL A. LABAD",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 5,
+      "lgu": "Gutalac",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7118",
+      "punong_bayan": "EDDIE JUSTIN T. QUIMBO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ONESIMO L. COMA JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 6,
+      "lgu": "Jose Dalman",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7111",
+      "punong_bayan": "ALLEN T. FERRATER",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JULIETA J. MACAPAZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 7,
+      "lgu": "Kalawit",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7124",
+      "punong_bayan": "SALVADOR P. ANTOJADO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "MERLY C. MASUGBO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 8,
+      "lgu": "Katipunan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7109",
+      "punong_bayan": "JOSE MICHAEL MEIKO A. WONG",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ANTONIO B. JUMAWAK",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 9,
+      "lgu": "La Libertad",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7119",
+      "punong_bayan": "LIZA M. MEJIAS",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMEO J. MEJIAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 10,
+      "lgu": "Labason",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7117",
+      "punong_bayan": "JELSTER ED T. QUIMBO",
+      "kontak_punong_bayan": "(065) 908-6232",
+      "pangalawang_punong_bayan": "VIRGILIO J. GO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 11,
+      "lgu": "Leon T. Postigo",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7125",
+      "punong_bayan": "RUNIE O. JAMORA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "RODRIGO B. ACAYLAR",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 12,
+      "lgu": "Liloy",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7115",
+      "punong_bayan": "ROBERTO L. UY JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOHN MOMAR T. INSONG",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 13,
+      "lgu": "Manukan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7110",
+      "punong_bayan": "EUGENE U. CABALLERO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ENRIQUITA U. WINTERS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 14,
+      "lgu": "Mutia",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7107",
+      "punong_bayan": "LORRYMIR S. ADASA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "CHRISTIAN JAMES P. KWAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 15,
+      "lgu": "Piñan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7105",
+      "punong_bayan": "CECILIA J. CARREON",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROMMEL I. GUDMALIN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 16,
+      "lgu": "Polanco",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7106",
+      "punong_bayan": "EVAN HOPE D. OLVIS",
+      "kontak_punong_bayan": "(065) 918-0695",
+      "pangalawang_punong_bayan": "ALFREDO S. BAIT-IT",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 17,
+      "lgu": "President Manuel A. Roxas",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7102",
+      "punong_bayan": "ISMAEL A. RENGQUIJO JR.",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ROLANDO G. YEBES JR.",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 18,
+      "lgu": "Rizal",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7104",
+      "punong_bayan": "MARISSA D. MANIGSACA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSE B. SALAC",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 19,
+      "lgu": "Salug",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7114",
+      "punong_bayan": "WILLIAM D. MARIBOJOC",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SAUL L. MARAON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 20,
+      "lgu": "Sergio Osmeña Sr.",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7108",
+      "punong_bayan": "AUGUSTINES J. MAGSALAY",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "SUNNY T. TISO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 21,
+      "lgu": "Siayan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7113",
+      "punong_bayan": "ALBERTO J. BONGCAWEL",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JOSECOR S. GEPOLONGCA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 22,
+      "lgu": "Sibuco",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7122",
+      "punong_bayan": "JOEL M. VENTURA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "LOOD A. ALIPON",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 23,
+      "lgu": "Sibutad",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7103",
+      "punong_bayan": "EUFRACIO D. CAIDIC",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "VICENTE P. ELUMBA",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 24,
+      "lgu": "Sindangan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7112",
+      "punong_bayan": "ROSENDO S. LABADLABAD",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "NILO FLORENTINO Z. SY",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 25,
+      "lgu": "Siocon",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7120",
+      "punong_bayan": "CEASAR C. SORIANO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "JULIUS S. LOBRIGAS",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 26,
+      "lgu": "Sirawai",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7121",
+      "punong_bayan": "ALJAZAR P. JANIHIM",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "PULMAN M. DARQUEZ",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 27,
+      "lgu": "Tampilisan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7116",
+      "punong_bayan": "NORABETH P. CARLOTO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "GENERICO R. JAUCULAN",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 28,
+      "lgu": "Titay",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7003",
+      "punong_bayan": "LEONARDO B. TALANIA",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "ELIZER A. YAMARO",
+      "kontak_pangalawang_punong_bayan": ""
+    },
+    {
+      "id": 29,
+      "lgu": "Tungawan",
+      "uri": "Bayan",
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "Tangway ng Zamboanga (Region IX)",
+      "zip_code": "7018",
+      "punong_bayan": "CARLNAN C. CLIMACO",
+      "kontak_punong_bayan": "",
+      "pangalawang_punong_bayan": "IVAN N. BALANO",
+      "kontak_pangalawang_punong_bayan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zamboanga del Norte - Libreng download",
+    "description": "Direktoryo ng 29 lungsod at bayan sa lalawigan ng Zamboanga del Norte (Tangway ng Zamboanga (Region IX)) kasama ang punong bayan (mayor) at pangalawang punong bayan (vice mayor). Salà mula sa pambansang listahan `tl-punong-lokal` ayon sa lalawigang `Zamboanga del Norte` na siyang sariling pangkat ng pinagmulan. Bawat talâ: pangalan ng LGU, uri (lungsod/bayan), lalawigan, rehiyon, ZIP code, pangalan at kontak ng punong bayan (mayor) at ng pangalawang punong bayan (vice mayor). Ang lalawigan at rehiyon ay galing mismo sa sariling nesting ng pinagmulan — walang heograpikong hinuha o panlabas na pagdurugtong. Walang kontak/ZIP ang ilang talâ; iniwang null ang mga ito sa halip na punuan. Naglalaman ng 29 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zamboanga del Norte | ListBase",
+    "seo_description": "I-download Mga Punong Bayan at Pangalawang Punong Bayan — Lalawigan ng Zamboanga del Norte — 29 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 29 talaan / 10 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

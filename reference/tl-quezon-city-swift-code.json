@@ -1,0 +1,124 @@
+{
+  "id": "tl-quezon-city-swift-code",
+  "name": "Mga SWIFT/BIC code — Quezon City",
+  "title": "Mga SWIFT/BIC code — Quezon City",
+  "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 13 institusyon na nakalista sa pinagkunan sa lungsod na \"QUEZON CITY\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ASIA PACIFIC CAPITAL EQUITIES AND SEC. CORP.",
+      "city": "QUEZON CITY",
+      "branch": "",
+      "swift_code": "APCEPHM1"
+    },
+    {
+      "bank": "ASIATRUST BANK",
+      "city": "QUEZON CITY",
+      "branch": "(DEL MONTE BRANCH)",
+      "swift_code": "ATDBPHM10M8"
+    },
+    {
+      "bank": "ASIATRUST BANK",
+      "city": "QUEZON CITY",
+      "branch": "(NEW MANILA BRANCH)",
+      "swift_code": "ATDBPHM10M6"
+    },
+    {
+      "bank": "ASIATRUST BANK",
+      "city": "QUEZON CITY",
+      "branch": "(ROOSEVELT BRANCH)",
+      "swift_code": "ATDBPHM10MA"
+    },
+    {
+      "bank": "ASIATRUST BANK",
+      "city": "QUEZON CITY",
+      "branch": "",
+      "swift_code": "ATDBPHM1"
+    },
+    {
+      "bank": "ASIATRUST DEVELOPMENT BANK",
+      "city": "QUEZON CITY",
+      "branch": "",
+      "swift_code": "ASDVPHM1"
+    },
+    {
+      "bank": "BSP BRANCH OPEN ACCOUNT SPC",
+      "city": "QUEZON CITY",
+      "branch": "",
+      "swift_code": "BBOAPHM1"
+    },
+    {
+      "bank": "CITIBANK SAVINGS INC.",
+      "city": "QUEZON CITY",
+      "branch": "",
+      "swift_code": "CITIPH21"
+    },
+    {
+      "bank": "GE MONEY BANK, INC. (A SAVINGS BANK)",
+      "city": "QUEZON CITY",
+      "branch": "",
+      "swift_code": "GEMPPH21"
+    },
+    {
+      "bank": "GLOBAL BUSINESS HOLDINGS INC.",
+      "city": "QUEZON CITY",
+      "branch": "(CUBAO BRANCH)",
+      "swift_code": "PCBAPHM10MQ"
+    },
+    {
+      "bank": "LAND BANK OF THE PHILIPPINES",
+      "city": "QUEZON CITY",
+      "branch": "",
+      "swift_code": "TLBPPHM10MQ"
+    },
+    {
+      "bank": "ROBINSONS BANK CORPORATION",
+      "city": "QUEZON CITY",
+      "branch": "",
+      "swift_code": "ROBPPHMQ"
+    },
+    {
+      "bank": "THE REAL BANK (A THRIFT BANK), INC.",
+      "city": "QUEZON CITY",
+      "branch": "",
+      "swift_code": "RETHPHM1"
+    }
+  ],
+  "meta": {
+    "title": "Mga SWIFT/BIC code — Quezon City - Libreng download",
+    "description": "Mga SWIFT/BIC code ng mga bangko at institusyong pampinansyal sa Pilipinas. Bawat tala ay naglalaman ng pangalan ng institusyon, lungsod, sangay (kung mayroon), at ang SWIFT/BIC code. Pinagkunan: PeterNotenboom/SwiftCodes (MIT). Naglalaman ang subset na ito ng 13 institusyon na nakalista sa pinagkunan sa lungsod na \"QUEZON CITY\". Naglalaman ng 13 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga SWIFT/BIC code — Quezon City | ListBase",
+    "seo_description": "I-download Mga SWIFT/BIC code — Quezon City — 13 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 13 talaan / 4 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

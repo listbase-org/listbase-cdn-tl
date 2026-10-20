@@ -1,0 +1,471 @@
+{
+  "id": "tl-lalawigan",
+  "name": "Mga lalawigan ng Pilipinas (86)",
+  "title": "Mga lalawigan ng Pilipinas (86)",
+  "description": "86 lalawigan (provinces) ng Pilipinas",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "ILOCOS NORTE",
+      "name": "ILOCOS NORTE",
+      "region": "REGION I"
+    },
+    {
+      "code": "ILOCOS SUR",
+      "name": "ILOCOS SUR",
+      "region": "REGION I"
+    },
+    {
+      "code": "LA UNION",
+      "name": "LA UNION",
+      "region": "REGION I"
+    },
+    {
+      "code": "PANGASINAN",
+      "name": "PANGASINAN",
+      "region": "REGION I"
+    },
+    {
+      "code": "BATANES",
+      "name": "BATANES",
+      "region": "REGION II"
+    },
+    {
+      "code": "CAGAYAN",
+      "name": "CAGAYAN",
+      "region": "REGION II"
+    },
+    {
+      "code": "ISABELA",
+      "name": "ISABELA",
+      "region": "REGION II"
+    },
+    {
+      "code": "NUEVA VIZCAYA",
+      "name": "NUEVA VIZCAYA",
+      "region": "REGION II"
+    },
+    {
+      "code": "QUIRINO",
+      "name": "QUIRINO",
+      "region": "REGION II"
+    },
+    {
+      "code": "AURORA",
+      "name": "AURORA",
+      "region": "REGION III"
+    },
+    {
+      "code": "BATAAN",
+      "name": "BATAAN",
+      "region": "REGION III"
+    },
+    {
+      "code": "BULACAN",
+      "name": "BULACAN",
+      "region": "REGION III"
+    },
+    {
+      "code": "NUEVA ECIJA",
+      "name": "NUEVA ECIJA",
+      "region": "REGION III"
+    },
+    {
+      "code": "PAMPANGA",
+      "name": "PAMPANGA",
+      "region": "REGION III"
+    },
+    {
+      "code": "TARLAC",
+      "name": "TARLAC",
+      "region": "REGION III"
+    },
+    {
+      "code": "ZAMBALES",
+      "name": "ZAMBALES",
+      "region": "REGION III"
+    },
+    {
+      "code": "BATANGAS",
+      "name": "BATANGAS",
+      "region": "REGION IV-A"
+    },
+    {
+      "code": "CAVITE",
+      "name": "CAVITE",
+      "region": "REGION IV-A"
+    },
+    {
+      "code": "LAGUNA",
+      "name": "LAGUNA",
+      "region": "REGION IV-A"
+    },
+    {
+      "code": "QUEZON",
+      "name": "QUEZON",
+      "region": "REGION IV-A"
+    },
+    {
+      "code": "RIZAL",
+      "name": "RIZAL",
+      "region": "REGION IV-A"
+    },
+    {
+      "code": "MARINDUQUE",
+      "name": "MARINDUQUE",
+      "region": "REGION IV-B"
+    },
+    {
+      "code": "OCCIDENTAL MINDORO",
+      "name": "OCCIDENTAL MINDORO",
+      "region": "REGION IV-B"
+    },
+    {
+      "code": "ORIENTAL MINDORO",
+      "name": "ORIENTAL MINDORO",
+      "region": "REGION IV-B"
+    },
+    {
+      "code": "PALAWAN",
+      "name": "PALAWAN",
+      "region": "REGION IV-B"
+    },
+    {
+      "code": "ROMBLON",
+      "name": "ROMBLON",
+      "region": "REGION IV-B"
+    },
+    {
+      "code": "ALBAY",
+      "name": "ALBAY",
+      "region": "REGION V"
+    },
+    {
+      "code": "CAMARINES NORTE",
+      "name": "CAMARINES NORTE",
+      "region": "REGION V"
+    },
+    {
+      "code": "CAMARINES SUR",
+      "name": "CAMARINES SUR",
+      "region": "REGION V"
+    },
+    {
+      "code": "CATANDUANES",
+      "name": "CATANDUANES",
+      "region": "REGION V"
+    },
+    {
+      "code": "MASBATE",
+      "name": "MASBATE",
+      "region": "REGION V"
+    },
+    {
+      "code": "SORSOGON",
+      "name": "SORSOGON",
+      "region": "REGION V"
+    },
+    {
+      "code": "AKLAN",
+      "name": "AKLAN",
+      "region": "REGION VI"
+    },
+    {
+      "code": "ANTIQUE",
+      "name": "ANTIQUE",
+      "region": "REGION VI"
+    },
+    {
+      "code": "CAPIZ",
+      "name": "CAPIZ",
+      "region": "REGION VI"
+    },
+    {
+      "code": "GUIMARAS",
+      "name": "GUIMARAS",
+      "region": "REGION VI"
+    },
+    {
+      "code": "ILOILO",
+      "name": "ILOILO",
+      "region": "REGION VI"
+    },
+    {
+      "code": "NEGROS OCCIDENTAL",
+      "name": "NEGROS OCCIDENTAL",
+      "region": "REGION VI"
+    },
+    {
+      "code": "BOHOL",
+      "name": "BOHOL",
+      "region": "REGION VII"
+    },
+    {
+      "code": "CEBU",
+      "name": "CEBU",
+      "region": "REGION VII"
+    },
+    {
+      "code": "NEGROS ORIENTAL",
+      "name": "NEGROS ORIENTAL",
+      "region": "REGION VII"
+    },
+    {
+      "code": "SIQUIJOR",
+      "name": "SIQUIJOR",
+      "region": "REGION VII"
+    },
+    {
+      "code": "BILIRAN",
+      "name": "BILIRAN",
+      "region": "REGION VIII"
+    },
+    {
+      "code": "EASTERN SAMAR",
+      "name": "EASTERN SAMAR",
+      "region": "REGION VIII"
+    },
+    {
+      "code": "LEYTE",
+      "name": "LEYTE",
+      "region": "REGION VIII"
+    },
+    {
+      "code": "NORTHERN SAMAR",
+      "name": "NORTHERN SAMAR",
+      "region": "REGION VIII"
+    },
+    {
+      "code": "SAMAR (WESTERN SAMAR)",
+      "name": "SAMAR (WESTERN SAMAR)",
+      "region": "REGION VIII"
+    },
+    {
+      "code": "SOUTHERN LEYTE",
+      "name": "SOUTHERN LEYTE",
+      "region": "REGION VIII"
+    },
+    {
+      "code": "ZAMBOANGA DEL NORTE",
+      "name": "ZAMBOANGA DEL NORTE",
+      "region": "REGION IX"
+    },
+    {
+      "code": "ZAMBOANGA DEL SUR",
+      "name": "ZAMBOANGA DEL SUR",
+      "region": "REGION IX"
+    },
+    {
+      "code": "ZAMBOANGA SIBUGAY",
+      "name": "ZAMBOANGA SIBUGAY",
+      "region": "REGION IX"
+    },
+    {
+      "code": "BUKIDNON",
+      "name": "BUKIDNON",
+      "region": "REGION X"
+    },
+    {
+      "code": "CAMIGUIN",
+      "name": "CAMIGUIN",
+      "region": "REGION X"
+    },
+    {
+      "code": "LANAO DEL NORTE",
+      "name": "LANAO DEL NORTE",
+      "region": "REGION X"
+    },
+    {
+      "code": "MISAMIS OCCIDENTAL",
+      "name": "MISAMIS OCCIDENTAL",
+      "region": "REGION X"
+    },
+    {
+      "code": "MISAMIS ORIENTAL",
+      "name": "MISAMIS ORIENTAL",
+      "region": "REGION X"
+    },
+    {
+      "code": "COMPOSTELA VALLEY",
+      "name": "COMPOSTELA VALLEY",
+      "region": "REGION XI"
+    },
+    {
+      "code": "DAVAO (DAVAO DEL NORTE)",
+      "name": "DAVAO (DAVAO DEL NORTE)",
+      "region": "REGION XI"
+    },
+    {
+      "code": "DAVAO DEL SUR",
+      "name": "DAVAO DEL SUR",
+      "region": "REGION XI"
+    },
+    {
+      "code": "DAVAO OCCIDENTAL",
+      "name": "DAVAO OCCIDENTAL",
+      "region": "REGION XI"
+    },
+    {
+      "code": "DAVAO ORIENTAL",
+      "name": "DAVAO ORIENTAL",
+      "region": "REGION XI"
+    },
+    {
+      "code": "COTABATO (NORTH COT.)",
+      "name": "COTABATO (NORTH COT.)",
+      "region": "REGION XII"
+    },
+    {
+      "code": "SARANGANI",
+      "name": "SARANGANI",
+      "region": "REGION XII"
+    },
+    {
+      "code": "SOUTH COTABATO",
+      "name": "SOUTH COTABATO",
+      "region": "REGION XII"
+    },
+    {
+      "code": "SULTAN KUDARAT",
+      "name": "SULTAN KUDARAT",
+      "region": "REGION XII"
+    },
+    {
+      "code": "AGUSAN DEL NORTE",
+      "name": "AGUSAN DEL NORTE",
+      "region": "REGION XIII"
+    },
+    {
+      "code": "AGUSAN DEL SUR",
+      "name": "AGUSAN DEL SUR",
+      "region": "REGION XIII"
+    },
+    {
+      "code": "DINAGAT ISLANDS",
+      "name": "DINAGAT ISLANDS",
+      "region": "REGION XIII"
+    },
+    {
+      "code": "SURIGAO DEL NORTE",
+      "name": "SURIGAO DEL NORTE",
+      "region": "REGION XIII"
+    },
+    {
+      "code": "SURIGAO DEL SUR",
+      "name": "SURIGAO DEL SUR",
+      "region": "REGION XIII"
+    },
+    {
+      "code": "BASILAN",
+      "name": "BASILAN",
+      "region": "BARMM"
+    },
+    {
+      "code": "LANAO DEL SUR",
+      "name": "LANAO DEL SUR",
+      "region": "BARMM"
+    },
+    {
+      "code": "MAGUINDANAO",
+      "name": "MAGUINDANAO",
+      "region": "BARMM"
+    },
+    {
+      "code": "SULU",
+      "name": "SULU",
+      "region": "BARMM"
+    },
+    {
+      "code": "TAWI-TAWI",
+      "name": "TAWI-TAWI",
+      "region": "BARMM"
+    },
+    {
+      "code": "ABRA",
+      "name": "ABRA",
+      "region": "CAR"
+    },
+    {
+      "code": "APAYAO",
+      "name": "APAYAO",
+      "region": "CAR"
+    },
+    {
+      "code": "BENGUET",
+      "name": "BENGUET",
+      "region": "CAR"
+    },
+    {
+      "code": "IFUGAO",
+      "name": "IFUGAO",
+      "region": "CAR"
+    },
+    {
+      "code": "KALINGA",
+      "name": "KALINGA",
+      "region": "CAR"
+    },
+    {
+      "code": "MOUNTAIN PROVINCE",
+      "name": "MOUNTAIN PROVINCE",
+      "region": "CAR"
+    },
+    {
+      "code": "NATIONAL CAPITAL REGION - FOURTH DISTRICT",
+      "name": "NATIONAL CAPITAL REGION - FOURTH DISTRICT",
+      "region": "NCR"
+    },
+    {
+      "code": "NATIONAL CAPITAL REGION - MANILA",
+      "name": "NATIONAL CAPITAL REGION - MANILA",
+      "region": "NCR"
+    },
+    {
+      "code": "NATIONAL CAPITAL REGION - SECOND DISTRICT",
+      "name": "NATIONAL CAPITAL REGION - SECOND DISTRICT",
+      "region": "NCR"
+    },
+    {
+      "code": "NATIONAL CAPITAL REGION - THIRD DISTRICT",
+      "name": "NATIONAL CAPITAL REGION - THIRD DISTRICT",
+      "region": "NCR"
+    },
+    {
+      "code": "TAGUIG - PATEROS",
+      "name": "TAGUIG - PATEROS",
+      "region": "NCR"
+    }
+  ],
+  "meta": {
+    "title": "Mga lalawigan ng Pilipinas (86) - Libreng download",
+    "description": "86 lalawigan (provinces) ng Pilipinas Naglalaman ng 86 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga lalawigan ng Pilipinas (86) | ListBase",
+    "seo_description": "I-download Mga lalawigan ng Pilipinas (86) — 86 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 86 talaan / 3 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "tl-pampanga-bayan",
+  "name": "Mga Bayan ng Lalawigan ng Pampanga",
+  "title": "Mga Bayan ng Lalawigan ng Pampanga",
+  "description": "Listahan ng 19 munisipalidad (bayan) sa lalawigan ng Pampanga, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "psgc_code",
+      "label": "Psgc Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "income_classification",
+      "label": "Income Classification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psgc_code": "035402000",
+      "name": "APALIT",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 107965,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "035403000",
+      "name": "ARAYAT",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 133492,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "035404000",
+      "name": "BACOLOR",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 39460,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "035405000",
+      "name": "CANDABA",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 111586,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "035406000",
+      "name": "FLORIDABLANCA",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 125163,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "035407000",
+      "name": "GUAGUA",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 117430,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "035408000",
+      "name": "LUBAO",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 160838,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "035410000",
+      "name": "MACABEBE",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 75850,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "035411000",
+      "name": "MAGALANG",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 113147,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "035412000",
+      "name": "MASANTOL",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 57063,
+      "income_classification": "2nd"
+    },
+    {
+      "psgc_code": "035413000",
+      "name": "MEXICO",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 154624,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "035414000",
+      "name": "MINALIN",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 47713,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "035415000",
+      "name": "PORAC",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 124381,
+      "income_classification": "1st"
+    },
+    {
+      "psgc_code": "035417000",
+      "name": "SAN LUIS",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 54106,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "035418000",
+      "name": "SAN SIMON",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 53198,
+      "income_classification": "3rd*"
+    },
+    {
+      "psgc_code": "035419000",
+      "name": "SANTA ANA",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 55178,
+      "income_classification": "3rd"
+    },
+    {
+      "psgc_code": "035420000",
+      "name": "SANTA RITA",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 40979,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "035421000",
+      "name": "SANTO TOMAS",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 40475,
+      "income_classification": "4th"
+    },
+    {
+      "psgc_code": "035422000",
+      "name": "SASMUAN (Sexmoan)",
+      "province": "PAMPANGA",
+      "region": "REGION III (CENTRAL LUZON)",
+      "population": 28004,
+      "income_classification": "4th"
+    }
+  ],
+  "meta": {
+    "title": "Mga Bayan ng Lalawigan ng Pampanga - Libreng download",
+    "description": "Listahan ng 19 munisipalidad (bayan) sa lalawigan ng Pampanga, REGION III (CENTRAL LUZON), Pilipinas, batay sa Philippine Standard Geographic Code (PSGC). Ang bawat record ay may PSGC code, pangalan, lalawigan, rehiyon, populasyon, at income classification. Hango sa pambansang listahan tl-bayan (xemasiv/psgc2, CC-BY-4.0, PSGC publication 2018-Q1), hinati ayon sa source-native na `province` field. Naglalaman ng 19 talaan. I-download sa Excel, CSV, PDF format.",
+    "seo_title": "Mga Bayan ng Lalawigan ng Pampanga | ListBase",
+    "seo_description": "I-download Mga Bayan ng Lalawigan ng Pampanga — 19 talaan. Available sa Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Naglalaman ng 19 talaan / 6 mga field",
+      "Libreng download sa Excel, CSV at PDF format",
+      "Pinagmulan ng data: open data"
+    ]
+  }
+}
