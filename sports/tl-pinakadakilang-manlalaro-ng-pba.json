@@ -1,0 +1,376 @@
+{
+  "id": "tl-pinakadakilang-manlalaro-ng-pba",
+  "name": "Mga Pinakadakilang Manlalaro sa Kasaysayan ng PBA",
+  "title": "Mga Pinakadakilang Manlalaro sa Kasaysayan ng PBA",
+  "description": "Talaan ng mga manlalarong pinarangalan bilang pinakadakila sa kasaysayan ng PBA: paaralan, mga koponan, MVP, All-Star at taon ng Hall of Fame.",
+  "category": "sports",
+  "source": "https://tl.wikipedia.org/wiki/40_Pinakadakilang_Manlalaro_sa_Kasaysayan_ng_PBA",
+  "source_url": "https://tl.wikipedia.org/wiki/40_Pinakadakilang_Manlalaro_sa_Kasaysayan_ng_PBA",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "school",
+      "label": "School",
+      "type": "string"
+    },
+    {
+      "key": "teams",
+      "label": "Teams",
+      "type": "string"
+    },
+    {
+      "key": "mvp",
+      "label": "Mvp",
+      "type": "string"
+    },
+    {
+      "key": "all_star",
+      "label": "All Star",
+      "type": "string"
+    },
+    {
+      "key": "hall_of_fame_year",
+      "label": "Hall Of Fame Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Johnny Abarrientos",
+      "school": "FEU",
+      "teams": "Alaska (1993–2001) Pop Cola (2001–2002) Coca-Cola (2002–2006) Barangay Ginebra (2006–2009, 2010)",
+      "mvp": "1 ( 1996 )",
+      "all_star": "",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Bogs Adornado *",
+      "school": "UST",
+      "teams": "Crispa (1975–1979) U/Tex (1979–1982) Great Taste (1982–1984) Shell (1985–1986) Hills Bros/Alaska (1987)",
+      "mvp": "3 ( 1975 , 1976 , 1981 )",
+      "all_star": "n/a",
+      "hall_of_fame_year": "2005"
+    },
+    {
+      "name": "Renato Agustin",
+      "school": "Lyceum",
+      "teams": "San Miguel (1989–1996) Sunkist/Pop Cola (1996–1997) Sta Lucia (1999–2000) Red Bull (2000–2001)",
+      "mvp": "1 ( 1992 )",
+      "all_star": "",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Francis Arnaiz *",
+      "school": "Ateneo",
+      "teams": "Toyota (1975–1983) Gilbey's Gin/Ginebra (1984–1986)",
+      "mvp": "none",
+      "all_star": "n/a",
+      "hall_of_fame_year": "2005"
+    },
+    {
+      "name": "Ricardo Brown *",
+      "school": "Pepperdine , DLSU",
+      "teams": "Great Taste (1983–1987) San Miguel (1987–1989)",
+      "mvp": "1 ( 1985 )",
+      "all_star": "n/a",
+      "hall_of_fame_year": "2009"
+    },
+    {
+      "name": "Allan Caidic *",
+      "school": "UE",
+      "teams": "Great Taste/Presto (1987–1992) San Miguel (1993–1998) Barangay Ginebra (1999)",
+      "mvp": "1 ( 1990 )",
+      "all_star": "",
+      "hall_of_fame_year": "2009"
+    },
+    {
+      "name": "Hector Calma *",
+      "school": "Adamson",
+      "teams": "San Miguel (1986–1994)",
+      "mvp": "none",
+      "all_star": "",
+      "hall_of_fame_year": "2009"
+    },
+    {
+      "name": "Philip Cezar *",
+      "school": "JRU",
+      "teams": "Crispa (1975–1984) Shell (1985–1986) Great Taste/Presto (1987–1989) Ginebra (1990–1991)",
+      "mvp": "1 ( 1980 )",
+      "all_star": "",
+      "hall_of_fame_year": "2005"
+    },
+    {
+      "name": "Atoy Co *",
+      "school": "Mapúa",
+      "teams": "Crispa (1975–1984) Manila Beer (1985–1986) Great Taste/Presto (1987–1988)",
+      "mvp": "1 ( 1979 )",
+      "all_star": "n/a",
+      "hall_of_fame_year": "2005"
+    },
+    {
+      "name": "Jerry Codiñera",
+      "school": "UE",
+      "teams": "Purefoods (1988–1999) Mobiline/Talk N Text (1999–2002) FedEx (2002–2006)",
+      "mvp": "none",
+      "all_star": "",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Kenneth Duremdes",
+      "school": "Adamson",
+      "teams": "Sunkist/Pop Cola (1995–1997) Alaska (1998–2002) Sta. Lucia (2003–2006-07) Coca-Cola (2007–08)",
+      "mvp": "1 ( 1998 )",
+      "all_star": "",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Bernie Fabiosa",
+      "school": "USJ-R",
+      "teams": "Crispa (1975–1984) Shell (1985–1986) Presto (1987–1989) Purefoods (1990) Diet Sarsi/Swift (1991)",
+      "mvp": "none",
+      "all_star": "",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Ramon Fernandez *",
+      "school": "San Carlos",
+      "teams": "Toyota (1975–1984) Beer Hausen/Manila Beer (1984–1985) Tanduay (1986–1987) Purefoods (1988) San Miguel (1988–1994)",
+      "mvp": "4 ( 1982 , 1984 , 1986 , 1988 )",
+      "all_star": "",
+      "hall_of_fame_year": "2005"
+    },
+    {
+      "name": "Danny Florencio *",
+      "school": "UST",
+      "teams": "U/Tex (1975–1976) 7-Up (1977) Toyota (1977–1982) Galerie Dominique (1983)",
+      "mvp": "none",
+      "all_star": "n/a",
+      "hall_of_fame_year": "2007"
+    },
+    {
+      "name": "Alberto Guidaben *",
+      "school": "USJ-R",
+      "teams": "Crispa (1975–1984) Tanduay (1985) Manila Beer (1986) San Miguel (1987–1988) Purefoods (1988) Alaska (1989) Pepsi/7-Up (1990–1993) Shell (1994–1995)",
+      "mvp": "2 ( 1983 , 1987 )",
+      "all_star": "",
+      "hall_of_fame_year": "2007"
+    },
+    {
+      "name": "Freddie Hubalde *",
+      "school": "Mapúa",
+      "teams": "Crispa (1975–1984) Tanduay (1985–1987) Purefoods (1988) Shell (1988–1989) Añejo (1990–1991)",
+      "mvp": "1 ( 1977 )",
+      "all_star": "n/a",
+      "hall_of_fame_year": "2011"
+    },
+    {
+      "name": "Robert Jaworski *",
+      "school": "UE",
+      "teams": "Toyota (1975–1983) Ginebra (1984–1997)",
+      "mvp": "1 ( 1978 )",
+      "all_star": "",
+      "hall_of_fame_year": "2005"
+    },
+    {
+      "name": "Jojo Lastimosa",
+      "school": "Ateneo , USJ-R",
+      "teams": "Purefoods (1988–1991) Alaska (1992–2000, 2002–2003) Pop Cola (2000–2002)",
+      "mvp": "none",
+      "all_star": "",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Lim Eng Beng",
+      "school": "DLSU",
+      "teams": "Carrier (1975) U/Tex (1976–1982) San Miguel (1983) Crispa (1984) Shell Azodrin (1985) Manila Beer (1986)",
+      "mvp": "none",
+      "all_star": "n/a",
+      "hall_of_fame_year": "2013"
+    },
+    {
+      "name": "Samboy Lim *",
+      "school": "Letran",
+      "teams": "San Miguel (1986–1997)",
+      "mvp": "none",
+      "all_star": "",
+      "hall_of_fame_year": "2009"
+    },
+    {
+      "name": "Ronnie Magsanoc",
+      "school": "UP",
+      "teams": "Shell (1989–1999) Sta Lucia (2000–2001) Purefoods (2002)",
+      "mvp": "none",
+      "all_star": "",
+      "hall_of_fame_year": "2013"
+    },
+    {
+      "name": "Vergel Meneses",
+      "school": "JRU",
+      "teams": "Presto (1992) Sta. Lucia (1993) Swift/Sunkist/Pop Cola (1994–1999) Ginebra (1999–2002) FedEx (2002–2004–05) Red Bull (2004–05–2005–06) Talk N Text (2005–06–2006–07)",
+      "mvp": "1 ( 1995 )",
+      "all_star": "",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Manny Paner *",
+      "school": "UV",
+      "teams": "Royal/San Miguel (1975–1977) Great Taste (1978–1980) CDCP (1981) Royal/San Miguel/Magnolia (1982–1986)",
+      "mvp": "none",
+      "all_star": "n/a",
+      "hall_of_fame_year": "2007"
+    },
+    {
+      "name": "Alvin Patrimonio *",
+      "school": "Mapúa",
+      "teams": "Purefoods (1988–2004–05)",
+      "mvp": "4 ( 1991 , 1993 , 1994 , 1997 )",
+      "all_star": "",
+      "hall_of_fame_year": "2011"
+    },
+    {
+      "name": "Benjie Paras",
+      "school": "UP",
+      "teams": "Shell (1989–2002) San Miguel (2003)",
+      "mvp": "2 ( 1989 , 1999 )",
+      "all_star": "",
+      "hall_of_fame_year": "2013"
+    },
+    {
+      "name": "Danny Ildefonso *",
+      "school": "NU",
+      "teams": "San Miguel / Petron Blaze (1998–2013) Meralco (2013–2015)",
+      "mvp": "2 ( 2000 , 2001 )",
+      "all_star": "(1999–2001, 2003–2005, 2007, 2009)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Willie Miller",
+      "school": "Letran",
+      "teams": "Batang Red Bull (2001–2003) Talk 'N Text (2004–2006) Alaska (2006–2010) Ginebra (2010–2011) Barako Bull (2011–2012) GlobalPort (2012–2013) Barako Bull (2013–2014) Talk 'N Text (2015)",
+      "mvp": "2 ( 2002 , 2006–07 )",
+      "all_star": "11 (2001, 2003–2004, 2006–2011)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "James Yap",
+      "school": "UE",
+      "teams": "Purefoods/B-Meg/San Mig Coffee/Star (2004–2016) Rain or Shine (2016–kasalukuyan)",
+      "mvp": "2 ( 2005–06 , 2009–10 )",
+      "all_star": "13 (2004–2016)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Asi Taulava",
+      "school": "BYU",
+      "teams": "Talk 'N Text (1999–2007) Coca-Cola (2007–2010) Meralco (2010–2012) Air21 / NLEX (2013–kasalukuyan)",
+      "mvp": "1 ( 2003 )",
+      "all_star": "14",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Eric Menk",
+      "school": "Lake Superior State",
+      "teams": "Tanduay (1999–2001) Barangay Ginebra (2001–2013) GlobalPort (2013–2014) Alaska (2014–2016)",
+      "mvp": "1 ( 2004–05 )",
+      "all_star": "10 (1999–2000, 2003–2007, 2009–2011)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Kelly Williams",
+      "school": "Oakland",
+      "teams": "Sta. Lucia (2006–2010) Talk 'N Text (2010–kasalukuyan)",
+      "mvp": "1 ( 2007–08 )",
+      "all_star": "5 (2007–2011)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Jayjay Helterbrand",
+      "school": "Kentucky State",
+      "teams": "Barangay Ginebra (2000–2017)",
+      "mvp": "1 ( 2008–09 )",
+      "all_star": "7 (2004–2010)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Jimmy Alapag",
+      "school": "Cal. State",
+      "teams": "Talk 'N Text (2003–2015) Meralco (2015–2016)",
+      "mvp": "1 ( 2010–11 )",
+      "all_star": "11 (2003–2011, 2014–2015)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Mark Caguioa",
+      "school": "Glendale CC",
+      "teams": "Barangay Ginebra (2001–kasalukuyan)",
+      "mvp": "1 ( 2011–12 )",
+      "all_star": "7",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Arwind Santos",
+      "school": "FEU",
+      "teams": "Air21 Express (2006–2009) San Miguel/Petron Blaze (2009–kasalukuyan)",
+      "mvp": "1 ( 2012–13 )",
+      "all_star": "6 (2008–2013)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Jayson Castro",
+      "school": "PCU",
+      "teams": "Talk 'N Text (2008–kasalukuyan)",
+      "mvp": "",
+      "all_star": "3 (2013–2015)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Marc Pingris",
+      "school": "FEU",
+      "teams": "FedEx Express (2004–2005) Purefoods (2005–2008) Magnolia/San Miguel (2008–2009) Purefoods (2009–kasalukuyan)",
+      "mvp": "",
+      "all_star": "11 (2005–2015)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Kerby Raymundo *",
+      "school": "Letran",
+      "teams": "Red Bull Thunder (2000–2001) Purefoods / B-Meg (2002–2012) Barangay Ginebra (2012–2013) Meralco (2013)",
+      "mvp": "",
+      "all_star": "10 (2001, 2003–2011)",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Chito Loyzaga *",
+      "school": "SBC",
+      "teams": "YCO-Tanduay (1981) Toyota (1983) Great Taste (1984–1985) Ginebra San Miguel (1986–1993)",
+      "mvp": "",
+      "all_star": "",
+      "hall_of_fame_year": ""
+    },
+    {
+      "name": "Marlou Aquino *",
+      "school": "Adamson",
+      "teams": "Ginebra/Gordon's Gin/Barangay Ginebra (1996–2000) Sta. Lucia (2000–2010) Meralco (2010–2011)",
+      "mvp": "",
+      "all_star": "",
+      "hall_of_fame_year": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Pinakadakilang Manlalaro sa Kasaysayan ng PBA - Free Download",
+    "description": "Talaan ng mga manlalarong pinarangalan bilang pinakadakila sa kasaysayan ng PBA: paaralan, mga koponan, MVP, All-Star at taon ng Hall of Fame. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pinakadakilang Manlalaro sa Kasaysayan ng PBA | ListBase",
+    "seo_description": "Download Mga Pinakadakilang Manlalaro sa Kasaysayan ng PBA — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/40_Pinakadakilang_Manlalaro_sa_Kasaysayan_ng_PBA"
+    ]
+  }
+}

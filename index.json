@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:59.121Z",
-  "total_datasets": 452,
-  "total_records": 443412,
+  "generated": "2026-10-27T02:18:01.674Z",
+  "total_datasets": 453,
+  "total_records": 443452,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -13242,6 +13242,33 @@
         "xlsx": {
           "name": "tl-mga-koponan-ng-pba_TL.xlsx",
           "size": 7548
+        }
+      }
+    },
+    {
+      "id": "tl-pinakadakilang-manlalaro-ng-pba",
+      "name": "Mga Pinakadakilang Manlalaro sa Kasaysayan ng PBA",
+      "category": "sports",
+      "record_count": 40,
+      "columns": [
+        "name",
+        "school",
+        "teams",
+        "mvp",
+        "all_star",
+        "hall_of_fame_year"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/40_Pinakadakilang_Manlalaro_sa_Kasaysayan_ng_PBA",
+      "updated": "2026-10",
+      "size": 12422,
+      "files": {
+        "csv": {
+          "name": "tl-pinakadakilang-manlalaro-ng-pba_TL.csv",
+          "size": 5707
+        },
+        "xlsx": {
+          "name": "tl-pinakadakilang-manlalaro-ng-pba_TL.xlsx",
+          "size": 9816
         }
       }
     },
