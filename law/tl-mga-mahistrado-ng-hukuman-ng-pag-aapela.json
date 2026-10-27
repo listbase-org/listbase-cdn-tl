@@ -1,0 +1,608 @@
+{
+  "id": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela",
+  "name": "Mga Mahistrado ng Hukuman ng Pag-aapela ng Pilipinas",
+  "title": "Mga Mahistrado ng Hukuman ng Pag-aapela ng Pilipinas",
+  "description": "Mga kasalukuyang mahistrado ng Court of Appeals ng Pilipinas: posisyon, petsa ng pagkakatalaga, nagtalagang pangulo, petsa ng pagreretiro at pinalitan.",
+  "category": "law",
+  "source": "https://tl.wikipedia.org/wiki/Hukuman_ng_Pag-aapela",
+  "source_url": "https://tl.wikipedia.org/wiki/Hukuman_ng_Pag-aapela",
+  "updated": "2026-10",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "position",
+      "label": "Position",
+      "type": "string"
+    },
+    {
+      "key": "justice",
+      "label": "Justice",
+      "type": "string"
+    },
+    {
+      "key": "appointed",
+      "label": "Appointed",
+      "type": "string"
+    },
+    {
+      "key": "appointed_by",
+      "label": "Appointed By",
+      "type": "string"
+    },
+    {
+      "key": "retirement",
+      "label": "Retirement",
+      "type": "string"
+    },
+    {
+      "key": "succeeded",
+      "label": "Succeeded",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "position": "Namumunmong Mahistrado",
+      "justice": "Fernanda Lampas-Peralta pinanganak 26 Hunyo 1960 ( 66 taong gulang)",
+      "appointed": "Nobyembre 18, 2024",
+      "appointed_by": "Marcos Jr.",
+      "retirement": "Hunyo 26, 2030",
+      "succeeded": "Punzalan-Castillo"
+    },
+    {
+      "position": "Nakakatandang Kasamang Mahistrado",
+      "justice": "Ramon Bato Jr. pinanganak 27 Agosto 1958 ( 68 taong gulang)",
+      "appointed": "Marso 15, 2004",
+      "appointed_by": "Macapagal-Arroyo",
+      "retirement": "Agosto 27, 2028",
+      "succeeded": "Regino"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Apolinario Bruselas Jr. 6 Mayo 1956 ( 70 taong gulang)",
+      "appointed": "Agosto 1, 2004",
+      "appointed_by": "Macapagal-Arroyo",
+      "retirement": "Mayo 6, 2026",
+      "succeeded": "Brawner , Sr."
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Ramon Garcia 10 Mayo 1954 ( 72 taong gulang)",
+      "appointed": "Agosto 1, 2004",
+      "appointed_by": "Macapagal-Arroyo",
+      "retirement": "Mayo 10, 2024",
+      "succeeded": ""
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Marlene Gonzales-Sison 28 Pebrero 1956 ( 70 taong gulang)",
+      "appointed": "Mayo 8, 2005",
+      "appointed_by": "Macapagal-Arroyo",
+      "retirement": "Pebrero 28, 2026",
+      "succeeded": "Pine"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Edwin Sorongon 29 Oktubre 1954 ( 71 taong gulang)",
+      "appointed": "Oktubre 30, 2009",
+      "appointed_by": "Macapagal-Arroyo",
+      "retirement": "Oktubre 29, 2024",
+      "succeeded": "Tagle"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Ramon Cruz 25 Agosto 1957 ( 69 taong gulang)",
+      "appointed": "Oktubre 30, 2009",
+      "appointed_by": "Macapagal-Arroyo",
+      "retirement": "Agosto 25, 2027",
+      "succeeded": "Bersamin"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Myra Garcia-Fernandez 24 Hunyo 1963 ( 63 taong gulang)",
+      "appointed": "Pebrero 24, 2010",
+      "appointed_by": "Macapagal-Arroyo",
+      "retirement": "Hunyo 24, 2033",
+      "succeeded": "del Castillo"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Eduardo Peralta Jr. 29 Setyembre 1962 ( 64 taong gulang)",
+      "appointed": "Pebrero 24, 2010",
+      "appointed_by": "Macapagal-Arroyo",
+      "retirement": "Setyembre 29, 2032",
+      "succeeded": "Villarama Jr."
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Nina Antonio-Valenzuela 13 Disyembre 1963 ( 62 taong gulang)",
+      "appointed": "Pebrero 24, 2010",
+      "appointed_by": "Macapagal-Arroyo",
+      "retirement": "Disyembre 13, 2033",
+      "succeeded": "Dimaranan-Vidal"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Victoria Isabel Paredes 1 Hulyo 1954 ( 72 taong gulang)",
+      "appointed": "Marso 1, 2011",
+      "appointed_by": "Aquino III",
+      "retirement": "Hulyo 1, 2024",
+      "succeeded": "Marella Jr."
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Pamela Ann Abella Maxino 31 Oktubre 1956 ( 69 taong gulang)",
+      "appointed": "Marso 1, 2011",
+      "appointed_by": "Aquino III",
+      "retirement": "Oktubre 31, 2026",
+      "succeeded": "Arevalo-Zenarosa"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Zenaida Galapate-Laguilles 16 Disyembre 1962 ( 63 taong gulang)",
+      "appointed": "Marso 15, 2011",
+      "appointed_by": "Aquino III",
+      "retirement": "Disyembre 16, 2032",
+      "succeeded": "Romilla-Lontok"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Pedro Corales 29 Abril 1957 ( 69 taong gulang)",
+      "appointed": "Nobyembre 11, 2011",
+      "appointed_by": "Aquino III",
+      "retirement": "Abril 29, 2027",
+      "succeeded": "Ayson"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Marilyn Lagura-Yap 29 Mayo 1957 ( 69 taong gulang)",
+      "appointed": "Pebrero 3, 2012",
+      "appointed_by": "Aquino III",
+      "retirement": "Mayo 29, 2027",
+      "succeeded": "Perlas-Bernabe"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Maria Elisa Sempio-Diy 25 Abril 1966 ( 60 taong gulang)",
+      "appointed": "Pebrero 16, 2012",
+      "appointed_by": "Aquino III",
+      "retirement": "Abril 25, 2036",
+      "succeeded": "B. Reyes"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Marie Christine Azcarraga-Jacob 15 Enero 1956 ( 70 taong gulang)",
+      "appointed": "Setyembre 14, 2012",
+      "appointed_by": "Aquino III",
+      "retirement": "Enero 15, 2026",
+      "succeeded": "Guevarra-Salonga"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Oscar Badelles 20 Abril 1954 ( 72 taong gulang)",
+      "appointed": "September 14, 2012",
+      "appointed_by": "Aquino III",
+      "retirement": "Abril 20, 2024",
+      "succeeded": "Enriquez"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Pablito Perez 15 Enero 1957 ( 69 taong gulang)",
+      "appointed": "Marso 13, 2014",
+      "appointed_by": "Aquino III",
+      "retirement": "Padron:Sorrname",
+      "succeeded": "Alberto-Gacutan"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Rafael Antonio Santos 16 Pebrero 1960 ( 66 taong gulang)",
+      "appointed": "Marso 13, 2014",
+      "appointed_by": "Aquino III",
+      "retirement": "Pebrero 16, 2030",
+      "succeeded": "Abarintos"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Germano Francisco Legaspi 29 Enero 1969 ( 57 taong gulang)",
+      "appointed": "Enero 8, 2015",
+      "appointed_by": "Aquino III",
+      "retirement": "Enero 29, 2039",
+      "succeeded": "Tolentino"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Ronaldo Roberto Martin 8 Oktubre 1964 ( 62 taong gulang)",
+      "appointed": "Mayo 5, 2015",
+      "appointed_by": "Aquino III",
+      "retirement": "Oktubre 8, 2034",
+      "succeeded": "Veloso III"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Geraldine Fiel-Macaraig 25 Marso 1963 ( 63 taong gulang)",
+      "appointed": "Nobyembre 6, 2015",
+      "appointed_by": "Aquino III",
+      "retirement": "Marso 25, 2033",
+      "succeeded": "De Guia-Salvador"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Gabriel Robeniol 7 Hunyo 1961 ( 65 taong gulang)",
+      "appointed": "Nobyembre 6, 2015",
+      "appointed_by": "Aquino III",
+      "retirement": "Hunyo 7, 2031",
+      "succeeded": "Diccican"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Perpetua Atal-Paño 20 Setyembre 1956 ( 70 taong gulang)",
+      "appointed": "Nobyembre 6, 2015",
+      "appointed_by": "Aquino III",
+      "retirement": "Setyembre 20, 2026",
+      "succeeded": "Abdulwahid"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Ruben Reynaldo Roxas 30 Marso 1962 ( 64 taong gulang)",
+      "appointed": "Nobyembre 6, 2015",
+      "appointed_by": "Aquino III",
+      "retirement": "Marso 30, 2032",
+      "succeeded": "Elbinias"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Louis Acosta 21 Hunyo 1961 ( 65 taong gulang)",
+      "appointed": "Marso 2, 2017",
+      "appointed_by": "Duterte",
+      "retirement": "Hunyo 21, 2031",
+      "succeeded": "Reyes-Carpio"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Tita Marilyn Payoyo-Villordon 16 Setyembre 1959 ( 67 taong gulang)",
+      "appointed": "Hunyo 28, 2017",
+      "appointed_by": "Duterte",
+      "retirement": "Setyembre 16, 2029",
+      "succeeded": "F. Acosta"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Walter Ong 13 Oktubre 1968 ( 58 taong gulang)",
+      "appointed": "Nobyembre 28, 2017",
+      "appointed_by": "Duterte",
+      "retirement": "Oktubre 13, 2038",
+      "succeeded": "Tijam"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Emily Aliño-Geluz 5 Oktubre 1971 ( 55 taong gulang)",
+      "appointed": "Abril 30, 2018",
+      "appointed_by": "Duterte",
+      "retirement": "Oktubre 5, 2041",
+      "succeeded": "Real-Dimagiba"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Evalyn Arellano-Morales 2 Pebrero 1956 ( 70 taong gulang)",
+      "appointed": "Hunyo 19, 2018",
+      "appointed_by": "Duterte",
+      "retirement": "Pebrero 2, 2026",
+      "succeeded": "Sandang"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Florencio Mamauag Jr. 14 Pebrero 1960 ( 66 taong gulang)",
+      "appointed": "Oktubre 10, 2018",
+      "appointed_by": "Duterte",
+      "retirement": "Pebrero 14, 2030",
+      "succeeded": "Macalino"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Alfredo Ampuan 2 Hunyo 1954 ( 72 taong gulang)",
+      "appointed": "Hulyo 8, 2019",
+      "appointed_by": "Duterte",
+      "retirement": "Hunyo 2, 2024",
+      "succeeded": "J. Reyes Jr."
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Lily Joy Villareal- Biton 29 Oktubre 1961 ( 64 taong gulang)",
+      "appointed": "Hulyo 8, 2019",
+      "appointed_by": "Duterte",
+      "retirement": "Oktubre 29, 2031",
+      "succeeded": "M. de Leon"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Angelene Mary Quimpo-Sale 26 Enero 1963 ( 63 taong gulang)",
+      "appointed": "Hulyo 8, 2019",
+      "appointed_by": "Duterte",
+      "retirement": "Enero 26, 2033",
+      "succeeded": "Francisco"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Carlito Capaltura 2 Enero 1963 ( 63 taong gulang)",
+      "appointed": "Hulyo 8, 2019",
+      "appointed_by": "Duterte",
+      "retirement": "Enero 2, 2033",
+      "succeeded": "Borja"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Raymond Reynold Lauigan 4 Setyembre 1968 ( 58 taong gulang)",
+      "appointed": "Marso 2, 2020",
+      "appointed_by": "Duterte",
+      "retirement": "Setyembre 4, 2038",
+      "succeeded": "Inting"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Lorenza Bordios 23 Agosto 1965 ( 61 taong gulang)",
+      "appointed": "Marso 2, 2020",
+      "appointed_by": "Duterte",
+      "retirement": "Agosto 23, 2035",
+      "succeeded": "Carandang"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Richard Mordeno 29 Nobyembre 1966 ( 59 taong gulang)",
+      "appointed": "Marso 2, 2020",
+      "appointed_by": "Duterte",
+      "retirement": "Nobyembre 29, 2036",
+      "succeeded": "Lazaro-Javier"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Bonifacio Pascua 30 Nobyembre 1970 ( 55 taong gulang)",
+      "appointed": "Marso 2, 2020",
+      "appointed_by": "Duterte",
+      "retirement": "Nobyembre 30, 2040",
+      "succeeded": "Villon"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Anisah Amanodin-Umpa 5 Hulyo 1961 ( 65 taong gulang)",
+      "appointed": "Abril 13, 2020",
+      "appointed_by": "Duterte",
+      "retirement": "Hulyo 5, 2031",
+      "succeeded": "Hernando"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Bautista Corpin Jr. 7 Setyembre 1965 ( 61 taong gulang)",
+      "appointed": "Abril 13, 2020",
+      "appointed_by": "Duterte",
+      "retirement": "Setyembre 7, 2035",
+      "succeeded": "Salandanan-Manahan"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Roberto Quiroz 13 Agosto 1964 ( 62 taong gulang)",
+      "appointed": "Abril 13, 2020",
+      "appointed_by": "Duterte",
+      "retirement": "Agosto 13, 2034",
+      "succeeded": "Pizarro"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Nancy Rivas-Palmones 14 Nobyembre 1966 ( 59 taong gulang)",
+      "appointed": "Abril 15, 2020",
+      "appointed_by": "Duterte",
+      "retirement": "Nobyembre 14, 2038",
+      "succeeded": "Contreras"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Alfonso Ruiz II 30 Marso 1971 ( 55 taong gulang)",
+      "appointed": "Mayo 20, 2021",
+      "appointed_by": "Duterte",
+      "retirement": "Marso 30, 2041",
+      "succeeded": "M. Lopez"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Jennifer Joy Ong 12 Oktubre 1978 ( 48 taong gulang)",
+      "appointed": "Mayo 20, 2021",
+      "appointed_by": "Duterte",
+      "retirement": "Oktubre 12, 2048",
+      "succeeded": "Quijano-Padilla"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Michael Ong 18 Disyembre 1975 ( 50 taong gulang)",
+      "appointed": "Mayo 20, 2021",
+      "appointed_by": "Duterte",
+      "retirement": "Disyembre 18, 2045",
+      "succeeded": "Gaerlan"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Maximo De Leon 10 Nobyembre 1965 ( 60 taong gulang)",
+      "appointed": "Mayo 24, 2021",
+      "appointed_by": "Duterte",
+      "retirement": "Nobyembre 10, 2035",
+      "succeeded": "Zalameda"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Ana Marie Mas 30 Enero 1973 ( 53 taong gulang)",
+      "appointed": "Mayo 24, 2021",
+      "appointed_by": "Duterte",
+      "retirement": "Enero 30, 2040",
+      "succeeded": "E. De Los Santos"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Mercedita Dadole-Ignacio 26 Agosto 1970 ( 56 taong gulang)",
+      "appointed": "Marso 7, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "Agosto 26, 2040",
+      "succeeded": "Baltazar-Padilla"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Jaime Fortunato Caringal 10 Oktubre 1977 ( 49 taong gulang)",
+      "appointed": "Marso 7, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "Oktubre 10, 2047",
+      "succeeded": "Rosario"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Eduardo Ramos Jr. 23 Oktubre 1979 ( 47 taong gulang)",
+      "appointed": "Marso 7, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "Oktubre 23, 2049",
+      "succeeded": "Librea-Leagogo"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Jill Rose Jaugan-Lo 9 Marso 1972 ( 54 taong gulang)",
+      "appointed": "Marso 7, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "Marso 9, 2042",
+      "succeeded": "J. Lopez"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Jose Lorenzo Dela Rosa 5 Enero 1973 ( 53 taong gulang)",
+      "appointed": "Marso 7, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "Enero 5, 2043",
+      "succeeded": "Lloren"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Rex Bernardo Pascual 6 Oktubre 1966 ( 60 taong gulang)",
+      "appointed": "Marso 7, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "Oktubre 6, 2036",
+      "succeeded": "Ybañez"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Emily San Gaspar-Gito 31 Enero 1973 ( 53 taong gulang)",
+      "appointed": "Marso 7, 2022",
+      "appointed_by": "Duterte Duterte",
+      "retirement": "Enero 31, 2043",
+      "succeeded": "Diamante"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Ronald Tolentino 13 Hulyo 1966 ( 60 taong gulang)",
+      "appointed": "Marso 8, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "Hulyo 13, 2036",
+      "succeeded": "Cruz"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Rogelio Largo 27 Mayo 1973 ( 53 taong gulang)",
+      "appointed": "Marso 8, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "May 27, 2043",
+      "succeeded": "Bueser"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Mary Charlene Hernandez-Azura 19 Pebrero 1963 ( 63 taong gulang)",
+      "appointed": "Marso 8, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "Pebrero 19, 2036",
+      "succeeded": "Salazar-Fernando"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Eleutherio Bathan 27 Hulyo 1971 ( 55 taong gulang)",
+      "appointed": "Mayo 19, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "Hunyo 27, 2041",
+      "succeeded": "Dimaampao"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "John Lee 24 Pebrero 1980 ( 46 taong gulang)",
+      "appointed": "Mayo 19, 2022",
+      "appointed_by": "Duterte",
+      "retirement": "Pebrero 24, 2050",
+      "succeeded": "Montejo-Gonzaga"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Selma Palacio-Alaras 15 Pebrero 1963 ( 63 taong gulang)",
+      "appointed": "Oktubre 11, 2022",
+      "appointed_by": "Marcos Jr.",
+      "retirement": "Pebrero 15, 2033",
+      "succeeded": "Ingles"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Wilhelmina Jorge-Wagan 24 Agosto 1968 ( 58 taong gulang)",
+      "appointed": "Oktubre 11, 2022",
+      "appointed_by": "Marcos, Jr.",
+      "retirement": "Agosto 24, 2038",
+      "succeeded": "Camello"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Raymond Joseph Javier 24 Hunyo 1974 ( 52 taong gulang)",
+      "appointed": "Setyembre 26, 2023",
+      "appointed_by": "Marcos, Jr.",
+      "retirement": "Hunyo 24, 2044",
+      "succeeded": "Singh"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Maria Consejo Gengos-Ignalaga 6 Setyembre 1968 ( 58 taong gulang)",
+      "appointed": "Setyembre 26, 2023",
+      "appointed_by": "Marcos, Jr.",
+      "retirement": "Setyembre 6, 2038",
+      "succeeded": "Barrios"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Lorna Francisca Chua-Cheng 10 Oktubre 1962 ( 64 taong gulang)",
+      "appointed": "Setyembre 26, 2023",
+      "appointed_by": "Marcos, Jr.",
+      "retirement": "Oktubre 10, 2032",
+      "succeeded": "Posadas-Kahulugan"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Bakante",
+      "appointed": "-",
+      "appointed_by": "Marcos, Jr.",
+      "retirement": "-",
+      "succeeded": "Punzalan-Castillo"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Bakante",
+      "appointed": "-",
+      "appointed_by": "Marcos, Jr.",
+      "retirement": "-",
+      "succeeded": "Lampas-Peralta"
+    },
+    {
+      "position": "Kasamang Mahistrado",
+      "justice": "Bakante",
+      "appointed": "-",
+      "appointed_by": "Marcos, Jr.",
+      "retirement": "-",
+      "succeeded": "Fajardo Jr."
+    }
+  ],
+  "meta": {
+    "title": "Mga Mahistrado ng Hukuman ng Pag-aapela ng Pilipinas - Free Download",
+    "description": "Mga kasalukuyang mahistrado ng Court of Appeals ng Pilipinas: posisyon, petsa ng pagkakatalaga, nagtalagang pangulo, petsa ng pagreretiro at pinalitan. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Mahistrado ng Hukuman ng Pag-aapela ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Mahistrado ng Hukuman ng Pag-aapela ng Pilipinas — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Hukuman_ng_Pag-aapela"
+    ]
+  }
+}

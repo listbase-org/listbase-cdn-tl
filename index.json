@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:33.342Z",
-  "total_datasets": 442,
-  "total_records": 442706,
+  "generated": "2026-10-27T02:17:35.834Z",
+  "total_datasets": 443,
+  "total_records": 442775,
   "categories": [
     {
       "id": "culture",
@@ -42,6 +42,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "law",
       "dataset_count": 1
     },
     {
@@ -4536,6 +4540,33 @@
         "xlsx": {
           "name": "tl-mga-wika_TL.xlsx",
           "size": 20772
+        }
+      }
+    },
+    {
+      "id": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela",
+      "name": "Mga Mahistrado ng Hukuman ng Pag-aapela ng Pilipinas",
+      "category": "law",
+      "record_count": 69,
+      "columns": [
+        "position",
+        "justice",
+        "appointed",
+        "appointed_by",
+        "retirement",
+        "succeeded"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Hukuman_ng_Pag-aapela",
+      "updated": "2026-10",
+      "size": 20529,
+      "files": {
+        "csv": {
+          "name": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela_TL.csv",
+          "size": 9508
+        },
+        "xlsx": {
+          "name": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela_TL.xlsx",
+          "size": 11119
         }
       }
     },
