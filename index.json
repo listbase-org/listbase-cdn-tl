@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:38.486Z",
-  "total_datasets": 444,
-  "total_records": 442787,
+  "generated": "2026-10-27T02:17:41.145Z",
+  "total_datasets": 445,
+  "total_records": 442796,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "food",
@@ -3267,6 +3267,32 @@
         "xlsx": {
           "name": "tl-mga-gobernador-ng-bangko-sentral_TL.xlsx",
           "size": 7357
+        }
+      }
+    },
+    {
+      "id": "tl-mga-perang-papel-ng-piso",
+      "name": "Mga Perang Papel ng Piso ng Pilipinas (Bagong Salinlahi)",
+      "category": "finance",
+      "record_count": 9,
+      "columns": [
+        "denomination",
+        "main_color",
+        "obverse",
+        "reverse",
+        "first_issued"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Piso_ng_Pilipinas",
+      "updated": "2026-10",
+      "size": 4871,
+      "files": {
+        "csv": {
+          "name": "tl-mga-perang-papel-ng-piso_TL.csv",
+          "size": 2115
+        },
+        "xlsx": {
+          "name": "tl-mga-perang-papel-ng-piso_TL.xlsx",
+          "size": 7715
         }
       }
     },
