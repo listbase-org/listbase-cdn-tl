@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:43.590Z",
-  "total_datasets": 446,
-  "total_records": 442834,
+  "generated": "2026-10-27T02:17:46.071Z",
+  "total_datasets": 447,
+  "total_records": 442843,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -4592,6 +4592,29 @@
         "xlsx": {
           "name": "tl-mga-wika_TL.xlsx",
           "size": 20772
+        }
+      }
+    },
+    {
+      "id": "tl-mga-wika-sa-pilipinas-ayon-sa-mananalita",
+      "name": "Mga Pangunahing Wika sa Pilipinas ayon sa Bilang ng Mananalita",
+      "category": "language",
+      "record_count": 9,
+      "columns": [
+        "language",
+        "speakers"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Pilipinas",
+      "updated": "2026-10",
+      "size": 2289,
+      "files": {
+        "csv": {
+          "name": "tl-mga-wika-sa-pilipinas-ayon-sa-mananalita_TL.csv",
+          "size": 372
+        },
+        "xlsx": {
+          "name": "tl-mga-wika-sa-pilipinas-ayon-sa-mananalita_TL.xlsx",
+          "size": 6931
         }
       }
     },

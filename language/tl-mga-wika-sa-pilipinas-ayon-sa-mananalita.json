@@ -1,0 +1,72 @@
+{
+  "id": "tl-mga-wika-sa-pilipinas-ayon-sa-mananalita",
+  "name": "Mga Pangunahing Wika sa Pilipinas ayon sa Bilang ng Mananalita",
+  "title": "Mga Pangunahing Wika sa Pilipinas ayon sa Bilang ng Mananalita",
+  "description": "Mga pinakamalaking wika sa Pilipinas (Tagalog, Sebwano, Ilokano, atbp.) at ang bilang ng kanilang katutubong mananalita.",
+  "category": "language",
+  "source": "https://tl.wikipedia.org/wiki/Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Pilipinas",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "speakers",
+      "label": "Speakers",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "language": "Tagalog",
+      "speakers": 22512089
+    },
+    {
+      "language": "Sebwano",
+      "speakers": 19665453
+    },
+    {
+      "language": "Ilokano",
+      "speakers": 8074536
+    },
+    {
+      "language": "Hiligaynon",
+      "speakers": 7773655
+    },
+    {
+      "language": "Waray",
+      "speakers": 3660645
+    },
+    {
+      "language": "Iba pang mga katutubong wika/diyalekto",
+      "speakers": 24027005
+    },
+    {
+      "language": "Iba pang mga dayuhang wika/diyalekto",
+      "speakers": 78862
+    },
+    {
+      "language": "Hindi iniulat/hindi inihayag",
+      "speakers": 6450
+    },
+    {
+      "language": "Pinagkunan: Pangasiwaan ng Estadistika ng Pilipinas",
+      "speakers": "Pinagkunan: Pangasiwaan ng Estadistika ng Pilipinas"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pangunahing Wika sa Pilipinas ayon sa Bilang ng Mananalita - Free Download",
+    "description": "Mga pinakamalaking wika sa Pilipinas (Tagalog, Sebwano, Ilokano, atbp.) at ang bilang ng kanilang katutubong mananalita. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pangunahing Wika sa Pilipinas ayon sa Bilang ng Mananalita | ListBase",
+    "seo_description": "Download Mga Pangunahing Wika sa Pilipinas ayon sa Bilang ng Mananalita — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Pilipinas"
+    ]
+  }
+}
