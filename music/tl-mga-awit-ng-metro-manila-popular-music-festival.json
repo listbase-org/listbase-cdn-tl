@@ -1,0 +1,856 @@
+{
+  "id": "tl-mga-awit-ng-metro-manila-popular-music-festival",
+  "name": "Mga Awit sa Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978–1985)",
+  "title": "Mga Awit sa Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978–1985)",
+  "description": "Mga kalahok at nagwaging awit sa Metro Manila Popular Music Festival bawat taon: pamagat ng awit, kompositor at mang-aawit.",
+  "category": "music",
+  "source": "https://tl.wikipedia.org/wiki/Paligsahan_ng_mga_Musikang_Popular_ng_Kalakhang_Maynila",
+  "source_url": "https://tl.wikipedia.org/wiki/Paligsahan_ng_mga_Musikang_Popular_ng_Kalakhang_Maynila",
+  "updated": "2026-10",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "composer",
+      "label": "Composer",
+      "type": "string"
+    },
+    {
+      "key": "performer",
+      "label": "Performer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Ngumiti... Tumawa... Magsaya... Kumanta",
+      "composer": "Joe Reyes",
+      "performer": "Cynthia Garcia at ang Kabataan"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Minsan Pa",
+      "composer": "Jose Mari Chan",
+      "performer": "Janet Basco"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Anak",
+      "composer": "Freddie Aguilar",
+      "performer": "Freddie Aguilar"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Ang Dampa sa Gulod",
+      "composer": "Joe Reyes",
+      "performer": "Imelda Papin"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Kay Ganda ng Ating Musika (Una)",
+      "composer": "Ryan Cayabyab",
+      "performer": "Hajji Alejandro"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Pagdating Mo (Ikalawa)",
+      "composer": "Nonoy Gallardo",
+      "performer": "Celeste Legaspi"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Saan Ako Patutungo",
+      "composer": "Jose Ilacad, Jr. Nanette Inventor",
+      "performer": "Nanette Inventor"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Narito Ako, Umiibig (Ikatlo)",
+      "composer": "Nonong Pedero",
+      "performer": "Maricris Bermont"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Pangako",
+      "composer": "Vic Villafuerte Rolando Tinio",
+      "performer": "Rex Damavivas"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Tayo'y Mga Pinoy",
+      "composer": "Heber Bartolome",
+      "performer": "Judas"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Mahal",
+      "composer": "James Villafuerte",
+      "performer": "Lehan Lopez"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Suwerte-Suwerte Lang",
+      "composer": "Joel Navarro",
+      "performer": "Joel Navarro"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Pag-ibig Ako na Nga Ba",
+      "composer": "Cecille Marcaida",
+      "performer": "Nick Gonzales"
+    },
+    {
+      "year": 1978,
+      "edition": "Unang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978)",
+      "song": "Ibig Kong Ibigin Ka (Ikaapat)",
+      "composer": "Vic Villafuerte Rolando Tinio",
+      "performer": "Anthony Castelo"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Lupa (Ikatlo)",
+      "composer": "Charo Unite Ernie Dela Pena",
+      "performer": "Rico J. Puno"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Itay, Saan Ka Man Naroroon",
+      "composer": "Chito Sibayan",
+      "performer": "Chito Sibayan"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Umagang Kay Ganda",
+      "composer": "Butch Monserrat Babes Conde Gryk Ortaleza Anabelle Lee",
+      "performer": "Ray-an Fuentes Tillie Moreno"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Laging Buhay ang Buhay",
+      "composer": "Celia T. Lising",
+      "performer": "Jacqui Magno"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Masdan, Tingnan ang Buhay",
+      "composer": "Ma. Isabella Mijares",
+      "performer": "Malou Evidente"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Ako ang Nasawi, Ako ang Nagwagi",
+      "composer": "George Canseco",
+      "performer": "Dulce"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Laruan",
+      "composer": "Edgar Guerrero",
+      "performer": "Cynthia Patag"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Panaginip, Pangarap",
+      "composer": "Manuel Perlas",
+      "performer": "God's Ego"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Bulag, Pipi at Bingi (Isang Pag-aalay) (Una)",
+      "composer": "Freddie Aguilar",
+      "performer": "Freddie Aguilar"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Ewan (Ikalawa)",
+      "composer": "Louie Ocampo Winnie Arrieta",
+      "performer": "Apo Hiking Society"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Ang Aking Awitin",
+      "composer": "Bong Gabriel",
+      "performer": "Bong Gabriel"
+    },
+    {
+      "year": 1979,
+      "edition": "Ikalawang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1979)",
+      "song": "Gusto Kong Umawit",
+      "composer": "Ernie Tagle",
+      "performer": "Ernie Tagle"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Mahalaga",
+      "composer": "Louie Ocampo",
+      "performer": "Rene Puno"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Isang Mundo, Isang Awit (Una)",
+      "composer": "Nonong Pedero",
+      "performer": "Leah Navarro"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Buhay Ko'y Mayro'ng Ikaw",
+      "composer": "Felipe Monserrat, Jr. Diana Legaspi",
+      "performer": "Pinky de Leon"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Hahanapin Ko",
+      "composer": "Jose Mari Chan Jimmy Santiago",
+      "performer": "Anthony Castelo"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Kailangan Ko, Kailangan Mo",
+      "composer": "Gerry Paraiso",
+      "performer": "Richard Tan Bambi Bonus"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Sa Duyan ng Pag-ibig",
+      "composer": "Willy Cruz",
+      "performer": "Passionata"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Nasaan ang Palakpakan",
+      "composer": "Nonoy Gallardo",
+      "performer": "Celeste Legaspi"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Langit Mo'y Likha Mo Rin",
+      "composer": "Babes Tolentino",
+      "performer": "Babes Tolentino Celso Llarina Mon Gaskell"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Nandoon Na, Nawala Pa (Ikatlo)",
+      "composer": "Alfredo Lozano Jr.",
+      "performer": "Ray-an Fuentes"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Ikaw, Ako, Tayo (Magkapatid) (Ikalawa)",
+      "composer": "Jose Lozano",
+      "performer": "New Minstrels"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Larawan",
+      "composer": "Thomas Santos",
+      "performer": "Joel Navarro"
+    },
+    {
+      "year": 1980,
+      "edition": "Ikatlong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1980)",
+      "song": "Sa 'Yong Pag-Alis",
+      "composer": "Felipe Monserrat, Jr.",
+      "performer": "Tillie Moreno"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Magkaisa",
+      "composer": "J. Miguel Salvador",
+      "performer": "Eugene Villaluz"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Pusong Rock-n-Roll",
+      "composer": "Felix Chok Oy Viernes",
+      "performer": "Pabs Dadivas"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Hatinggabi (Bawat Pangarap)",
+      "composer": "Conrado Ricafort",
+      "performer": "Boy Camara"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Sino ang Baliw?",
+      "composer": "Elizabeth Barcelona",
+      "performer": "Mon del Rosario Jr."
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Kahit Konti (Ikalawa)",
+      "composer": "Gary Granada",
+      "performer": "Florante"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Magsimula Ka (Ikatlo)",
+      "composer": "Gines Tan",
+      "performer": "Leo Valdez"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Aawitan Ko na Lang",
+      "composer": "Gary Granada",
+      "performer": "Bong Gabriel"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Ang Buhay Ay Ngayon",
+      "composer": "Benjamin Chua Benilda Sison Manas",
+      "performer": "Rene Puno"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Insomnia",
+      "composer": "Joseph Olfindo",
+      "performer": "Joseph Olfindo"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Babae Ka (Una)",
+      "composer": "Ananias Montano",
+      "performer": "Something Special"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Mr. Musikero",
+      "composer": "Sonny Nicolas",
+      "performer": "Sonny Nicolas"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Buhay/Pag-Asa",
+      "composer": "Butch Monserrat Marilyn Villapando",
+      "performer": "Pol Enriquez"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Uhaw na Lupa",
+      "composer": "Emilio Sanglay",
+      "performer": "Emilio Sanglay at Ang Bagong Pen Pen"
+    },
+    {
+      "year": 1981,
+      "edition": "Ikaapat na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1981)",
+      "song": "Landas",
+      "composer": "James Villafuerte",
+      "performer": "Marco Sison"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Dibisyong pampropesyon",
+      "composer": "Dibisyong pampropesyon",
+      "performer": "Dibisyong pampropesyon"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Don't Deceive Yourself",
+      "composer": "Freddie Lozano",
+      "performer": "Susana Pichay"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Nothing I Want More (Una)",
+      "composer": "Jun Latonio Tillie Moreno",
+      "performer": "Louie Reyes Eugene Villaluz"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Isang Dakot",
+      "composer": "Vehnee Saturno",
+      "performer": "Sonia Singson"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Ang Aking Kubo",
+      "composer": "Gary Granada",
+      "performer": "Florante"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "What Are You Doing on a Rainy Sunday Morning",
+      "composer": "Julie Lingan",
+      "performer": "Rico J. Puno Ivy Violan"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "You Made Me Live Again",
+      "composer": "Nonoy Tan",
+      "performer": "Janet Basco"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Magkaibigan, Nagkaibigan, Nagka-ibigan (Ikatlo)",
+      "composer": "Topy Lozano",
+      "performer": "Something Special"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Inay, Bakit",
+      "composer": "Eddie Nicolas Sonny Nicolas",
+      "performer": "Sonny Nicolas"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Dibisyong pambaguhan",
+      "composer": "Dibisyong pambaguhan",
+      "performer": "Dibisyong pambaguhan"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Give Me a Chance (Ikalawa)",
+      "composer": "Odette Quesada",
+      "performer": "Ric Segreto"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Memories",
+      "composer": "Paul Melendez",
+      "performer": "Eilene Espina"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Pag-Ibig Mo, Pag-ibig Ko",
+      "composer": "Ernesto Mendiola",
+      "performer": "Zander Kahn Miriam Pantig"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Kahit La La La Pwede Na",
+      "composer": "Bernardita Lui Nonoy Tan",
+      "performer": "Pol Enriquez"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Coming Back",
+      "composer": "Alden Lim John Joseph Nite",
+      "performer": "Zoey Zuñiga"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Magbabalik Pa Rin Ako",
+      "composer": "Jorge Sison",
+      "performer": "The New Minstrels"
+    },
+    {
+      "year": 1982,
+      "edition": "Ikalimang Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1982)",
+      "song": "Buhay Nasa Ating Palad",
+      "composer": "Mike Monserrat Julie Lingan",
+      "performer": "Ray-An Fuentes"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Dibisyong pampropesyon",
+      "composer": "Dibisyong pampropesyon",
+      "performer": "Dibisyong pampropesyon"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Dapithapon",
+      "composer": "Boy Christopher",
+      "performer": "Idonnah"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Ako'y Ako",
+      "composer": "Vehnee Saturno",
+      "performer": "Lerma dela Cruz"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Till I Met You (Una)",
+      "composer": "Odette Quesada",
+      "performer": "Kuh Ledesma"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Away From You",
+      "composer": "Boy Katindig",
+      "performer": "Jennifer Ramos"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Gabay Mo Ako",
+      "composer": "Rey Valera",
+      "performer": "Rey Valera"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Kagandahan",
+      "composer": "Nonoy Tan",
+      "performer": "Filipina"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Be My Lady",
+      "composer": "Vehnee Saturno",
+      "performer": "Pedrito Montaire"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Dibisyong pambaguhan",
+      "composer": "Dibisyong pambaguhan",
+      "performer": "Dibisyong pambaguhan"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Laging Mayroong Bukas",
+      "composer": "Jun Cerino",
+      "performer": "Pat Castillo"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Kahit Ako'y Mahirap",
+      "composer": "Mary Rose del Rosario",
+      "performer": "Mon del Rosario, Jr."
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "My Love, My Soul, My Everything",
+      "composer": "Elizabeth Mendiola",
+      "performer": "Vernie Varga"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "We're In Love",
+      "composer": "Mario Lapid Robert Rodriguez",
+      "performer": "Miriam Pantig"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Habang May Sikat Pa",
+      "composer": "Alex San Buenaventura Menchie Soloria",
+      "performer": "Rainmakers Millie Beltran"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Still Got Love",
+      "composer": "Alfredo Marbella",
+      "performer": "Labuyo"
+    },
+    {
+      "year": 1983,
+      "edition": "Ikaanim na Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1983)",
+      "song": "Pain",
+      "composer": "Alvina Eileen Sy",
+      "performer": "Martin Nievera"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "Dibisyong pampropesyon",
+      "composer": "Dibisyong pampropesyon",
+      "performer": "Dibisyong pampropesyon"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "Salamat, Salamat Musika (Una)",
+      "composer": "Gary Granada",
+      "performer": "Nanette Inventor"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "Mga Kulay",
+      "composer": "Cynthia Guzman",
+      "performer": "Lerma dela Cruz"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "I Got What It Takes",
+      "composer": "Ray-An Fuentes",
+      "performer": "Ray-An Fuentes"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "Part of the Way",
+      "composer": "Jun Latonio",
+      "performer": "Jacqui Magno"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "You Turn Me On",
+      "composer": "Jograd dela Torre",
+      "performer": "Chona Cruz The Platinumates"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "A Little Smile",
+      "composer": "Cynthia Guzman",
+      "performer": "Carla Martinez"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "Romeo and Juliet",
+      "composer": "Jessie Jodloman Toto Mortel",
+      "performer": "Musikinesis"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "A Smile in Your Heart",
+      "composer": "Rene Novelles",
+      "performer": "Jam Morales"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "Falling In Love Again",
+      "composer": "Jose La Viña",
+      "performer": "Louie Reyes Eugene Villaluz"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "Where Did the Heartaches Go",
+      "composer": "Jose La Viña",
+      "performer": "Tillie Moreno"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "Let Us Stay the Way We Used To Be",
+      "composer": "Al Lopez Tammi Li Lopez",
+      "performer": "Al Lopez"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "Think It Over",
+      "composer": "Mel Villena Elleanor Villena",
+      "performer": "Richard Tan Maraya"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "It Used To Be You",
+      "composer": "Renato Buzon",
+      "performer": "Jennifer Ramos"
+    },
+    {
+      "year": 1984,
+      "edition": "Ikapitong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1984)",
+      "song": "I Don’t Want You",
+      "composer": "Reynaldo Cuerdo, Jr.",
+      "performer": "Hiyas"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Dibisyong pampropesyon",
+      "composer": "Dibisyong pampropesyon",
+      "performer": "Dibisyong pampropesyon"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Pag-asa ng Mundo (Una)",
+      "composer": "Alvina Eileen Sy",
+      "performer": "Ivy Violan"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Manalig Ka",
+      "composer": "Joel Navaroo Arnel de Pano",
+      "performer": "Dio Marco"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Sa Ating Daigdig",
+      "composer": "Sonny Angeles",
+      "performer": "Manilyn Reynes"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "You're My Home",
+      "composer": "Odette Quesada",
+      "performer": "Odette Quesada"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Ani-a Ako ang Imong Higala",
+      "composer": "Philip Abrogar",
+      "performer": "Philip Abrogar"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Kuwarta, Kuwarta",
+      "composer": "Sonny Ilacad",
+      "performer": "Vincent Daffalong"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Anting-Anting",
+      "composer": "Emil Sanglay",
+      "performer": "Emil Sanglay at ang Pen-Pen"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Ang Sinisi",
+      "composer": "Alejandra Ramos",
+      "performer": "Gloria Belen"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Kinabukasan",
+      "composer": "Ruby delos Reyes",
+      "performer": "Joanne Feliciano"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Musika, Lata, Sipol at La La La",
+      "composer": "Tess Concepcion",
+      "performer": "Lea Salonga Gerald Salonga"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Come Be a Part of My Song",
+      "composer": "Ed Nepomuceno Edward Granadosin",
+      "performer": "Iwi Laurel"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Pilipino Ako",
+      "composer": "Jun Sta. Maria Larry Tan Nina Florentino",
+      "performer": "Veronica"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Pag-ibig sa Ating Musika",
+      "composer": "Bobby Bonus",
+      "performer": "Nailclippers"
+    },
+    {
+      "year": 1985,
+      "edition": "Ikawalong Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1985)",
+      "song": "Ito Na Nga",
+      "composer": "Angelica Lim",
+      "performer": "Robby Miguel"
+    }
+  ],
+  "meta": {
+    "title": "Mga Awit sa Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978–1985) - Free Download",
+    "description": "Mga kalahok at nagwaging awit sa Metro Manila Popular Music Festival bawat taon: pamagat ng awit, kompositor at mang-aawit. Contains 115 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Awit sa Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978–1985) | ListBase",
+    "seo_description": "Download Mga Awit sa Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978–1985) — 115 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 115 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Paligsahan_ng_mga_Musikang_Popular_ng_Kalakhang_Maynila"
+    ]
+  }
+}

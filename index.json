@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:18.534Z",
-  "total_datasets": 436,
-  "total_records": 442521,
+  "generated": "2026-10-27T02:17:20.984Z",
+  "total_datasets": 437,
+  "total_records": 442636,
   "categories": [
     {
       "id": "culture",
@@ -42,6 +42,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "music",
       "dataset_count": 1
     },
     {
@@ -4452,6 +4456,32 @@
         "xlsx": {
           "name": "tl-mga-wika_TL.xlsx",
           "size": 20772
+        }
+      }
+    },
+    {
+      "id": "tl-mga-awit-ng-metro-manila-popular-music-festival",
+      "name": "Mga Awit sa Paligsahan ng mga Musikang Popular ng Kalakhang Maynila (1978–1985)",
+      "category": "music",
+      "record_count": 115,
+      "columns": [
+        "year",
+        "edition",
+        "song",
+        "composer",
+        "performer"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Paligsahan_ng_mga_Musikang_Popular_ng_Kalakhang_Maynila",
+      "updated": "2026-10",
+      "size": 29458,
+      "files": {
+        "csv": {
+          "name": "tl-mga-awit-ng-metro-manila-popular-music-festival_TL.csv",
+          "size": 16346
+        },
+        "xlsx": {
+          "name": "tl-mga-awit-ng-metro-manila-popular-music-festival_TL.xlsx",
+          "size": 12336
         }
       }
     },
