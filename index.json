@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:12.990Z",
-  "total_datasets": 434,
-  "total_records": 441892,
+  "generated": "2026-10-27T02:17:16.160Z",
+  "total_datasets": 435,
+  "total_records": 442138,
   "categories": [
     {
       "id": "culture",
@@ -58,6 +58,10 @@
     },
     {
       "id": "society",
+      "dataset_count": 1
+    },
+    {
+      "id": "tech",
       "dataset_count": 1
     },
     {
@@ -12881,6 +12885,38 @@
         "xlsx": {
           "name": "tl-hotline-pangemerhensiya_TL.xlsx",
           "size": 8683
+        }
+      }
+    },
+    {
+      "id": "tl-dihital-na-himpilang-pantelebisyon",
+      "name": "Mga Dihital na Himpilang Pantelebisyon sa Pilipinas (DTT)",
+      "category": "tech",
+      "record_count": 246,
+      "columns": [
+        "area",
+        "callsign",
+        "uhf_channel",
+        "frequency",
+        "lcn",
+        "broadcaster",
+        "short_name",
+        "programming",
+        "picture_format",
+        "broadcast_hours",
+        "notes"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_dihital_na_himpilang_pantelebisyon_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 120404,
+      "files": {
+        "csv": {
+          "name": "tl-dihital-na-himpilang-pantelebisyon_TL.csv",
+          "size": 60417
+        },
+        "xlsx": {
+          "name": "tl-dihital-na-himpilang-pantelebisyon_TL.xlsx",
+          "size": 21759
         }
       }
     },
