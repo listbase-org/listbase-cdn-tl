@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:18:06.559Z",
-  "total_datasets": 455,
-  "total_records": 443480,
+  "generated": "2026-10-27T02:18:09.295Z",
+  "total_datasets": 456,
+  "total_records": 443498,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -13567,6 +13567,32 @@
         "xlsx": {
           "name": "tl-palayaw-ng-lungsod-at-bayan_TL.xlsx",
           "size": 25516
+        }
+      }
+    },
+    {
+      "id": "tl-turista-ayon-sa-rehiyon",
+      "name": "Mga Turista ayon sa Rehiyon ng Pilipinas",
+      "category": "tourism",
+      "record_count": 18,
+      "columns": [
+        "region",
+        "foreign",
+        "ofw",
+        "domestic",
+        "total"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Turismo_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 4322,
+      "files": {
+        "csv": {
+          "name": "tl-turista-ayon-sa-rehiyon_TL.csv",
+          "size": 1176
+        },
+        "xlsx": {
+          "name": "tl-turista-ayon-sa-rehiyon_TL.xlsx",
+          "size": 7595
         }
       }
     },

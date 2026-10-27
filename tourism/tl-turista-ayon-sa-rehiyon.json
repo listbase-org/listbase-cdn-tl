@@ -1,0 +1,177 @@
+{
+  "id": "tl-turista-ayon-sa-rehiyon",
+  "name": "Mga Turista ayon sa Rehiyon ng Pilipinas",
+  "title": "Mga Turista ayon sa Rehiyon ng Pilipinas",
+  "description": "Bilang ng mga bisitang turista (banyaga, OFW, at domestiko) sa bawat rehiyon ng Pilipinas.",
+  "category": "tourism",
+  "source": "https://tl.wikipedia.org/wiki/Turismo_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Turismo_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "foreign",
+      "label": "Foreign",
+      "type": "number"
+    },
+    {
+      "key": "ofw",
+      "label": "Ofw",
+      "type": "number"
+    },
+    {
+      "key": "domestic",
+      "label": "Domestic",
+      "type": "number"
+    },
+    {
+      "key": "total",
+      "label": "Total",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Pambansang Rehiyong Kapital",
+      "foreign": 2355069,
+      "ofw": 5827,
+      "domestic": 4666549,
+      "total": 7027445
+    },
+    {
+      "region": "Rehiyong Administratibo ng Cordillera",
+      "foreign": 29821,
+      "ofw": 775,
+      "domestic": 1654537,
+      "total": 1685133
+    },
+    {
+      "region": "Rehiyon I (Rehiyon ng Ilocos)",
+      "foreign": 43454,
+      "ofw": 500,
+      "domestic": 1785166,
+      "total": 1829120
+    },
+    {
+      "region": "Rehiyon II (Lambak ng Cagayan)",
+      "foreign": 9297,
+      "ofw": 41,
+      "domestic": 953684,
+      "total": 963022
+    },
+    {
+      "region": "Rehiyon III (Gitnang Luzon)",
+      "foreign": 642901,
+      "ofw": 2002,
+      "domestic": 4699577,
+      "total": 5344480
+    },
+    {
+      "region": "Rehiyon IV-A (Calabarzon )",
+      "foreign": 113190,
+      "ofw": 3975,
+      "domestic": 9288101,
+      "total": 9405266
+    },
+    {
+      "region": "Rehiyong IV-B (Mimaropa)",
+      "foreign": 780637,
+      "ofw": 11761,
+      "domestic": 1525171,
+      "total": 2317569
+    },
+    {
+      "region": "Rehiyon V (Rehiyon ng Bikol)",
+      "foreign": 78562,
+      "ofw": 1314,
+      "domestic": 4283312,
+      "total": 4363188
+    },
+    {
+      "region": "Rehiyon VI (Kanlurang Kabisayaan)",
+      "foreign": 550357,
+      "ofw": 51268,
+      "domestic": 4758433,
+      "total": 5360058
+    },
+    {
+      "region": "Rehiyon VII (Gitnang Kabisayaaan)",
+      "foreign": 1870607,
+      "ofw": 4232,
+      "domestic": 3611104,
+      "total": 5485943
+    },
+    {
+      "region": "Rehiyon VIII (Silangang Kabisayaan)",
+      "foreign": 26219,
+      "ofw": 826,
+      "domestic": 1307203,
+      "total": 1334248
+    },
+    {
+      "region": "Rehiyon IX (Tangway ng Zamboanga)",
+      "foreign": 13412,
+      "ofw": 84,
+      "domestic": 1278817,
+      "total": 1292313
+    },
+    {
+      "region": "Rehiyon X (Hilagang Mindanao)",
+      "foreign": 38784,
+      "ofw": 20,
+      "domestic": 2557066,
+      "total": 2595870
+    },
+    {
+      "region": "Rehiyon XI (Rehiyon ng Davao)",
+      "foreign": 93015,
+      "ofw": 10459,
+      "domestic": 3124561,
+      "total": 3228035
+    },
+    {
+      "region": "Rehiyon XII (Soccssargen)",
+      "foreign": 5713,
+      "ofw": 2,
+      "domestic": 1632370,
+      "total": 1638085
+    },
+    {
+      "region": "Rehiyon XIII (Caraga)",
+      "foreign": 63255,
+      "ofw": "",
+      "domestic": 1396944,
+      "total": 1460199
+    },
+    {
+      "region": "",
+      "foreign": "",
+      "ofw": "",
+      "domestic": "",
+      "total": ""
+    },
+    {
+      "region": "Kabuuan",
+      "foreign": 6714293,
+      "ofw": 93086,
+      "domestic": 48522595,
+      "total": 55329974
+    }
+  ],
+  "meta": {
+    "title": "Mga Turista ayon sa Rehiyon ng Pilipinas - Free Download",
+    "description": "Bilang ng mga bisitang turista (banyaga, OFW, at domestiko) sa bawat rehiyon ng Pilipinas. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Turista ayon sa Rehiyon ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Turista ayon sa Rehiyon ng Pilipinas — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Turismo_sa_Pilipinas"
+    ]
+  }
+}
