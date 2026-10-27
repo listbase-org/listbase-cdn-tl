@@ -1,0 +1,2644 @@
+{
+  "id": "tl-palayaw-ng-lungsod-at-bayan",
+  "name": "Mga Palayaw ng mga Lungsod at Bayan sa Pilipinas",
+  "title": "Mga Palayaw ng mga Lungsod at Bayan sa Pilipinas",
+  "description": "Mga kilalang palayaw (bansag) ng mga lungsod at munisipalidad sa Pilipinas, ayon sa lalawigan at rehiyon.",
+  "category": "tourism",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_palayaw_ng_mga_lungsod_at_bayan_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_palayaw_ng_mga_lungsod_at_bayan_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 433,
+  "columns": [
+    {
+      "key": "city_municipality",
+      "label": "City Municipality",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "nickname",
+      "label": "Nickname",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_municipality": "Caloocan",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The City of Heroes Cradle of Katipunan Motorcycle Capital of NCR"
+    },
+    {
+      "city_municipality": "Las Piñas",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "Home of the Bamboo Organ City of Love and Progress Salt Center of Metro Manila Lantern Capital of Metro Manila"
+    },
+    {
+      "city_municipality": "Makati",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The Wall Street of the Philippines The Financial Capital of the Philippines The Business Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Mandaluyong",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The Tiger City of the Philippines The Shopping Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Maynila",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The Distinguished and Ever Loyal City The Queen City of the Pacific The Pearl of the Orient"
+    },
+    {
+      "city_municipality": "Marikina",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The Shoe Capital of the Philippines Home of the World's Largest Shoes"
+    },
+    {
+      "city_municipality": "Muntinlupa",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The Emerald City of the Philippines Gateway to Calabarzon"
+    },
+    {
+      "city_municipality": "Navotas",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The Fishing Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Parañaque",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The Fashion Capital of the Philippines The City of Lights The Bay City"
+    },
+    {
+      "city_municipality": "Pasay",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The Gateway to the Philippine Islands The Travel City The Travel Capital of the Philippines Home of Aliwan Fiesta Trading Wall of the Philippines Festival Capital of Metro Manila Asian City of Metro Manila Japanese City of the Philippines The Second City of Stars"
+    },
+    {
+      "city_municipality": "Pateros",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "A Small Town with a Big Heart Balut Capital of the Philippines Home of the world-famous Balut"
+    },
+    {
+      "city_municipality": "Lungsod Quezon",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The City of Stars The Dragon City of the Philippines Largest City of the Philippines Home of the Philippine Congress"
+    },
+    {
+      "city_municipality": "San Juan",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "Heart of Metro Manila Home of Philippine Presidents Tiangge Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Taguig",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "Metro Manila's ProbinSyudad"
+    },
+    {
+      "city_municipality": "Valenzuela",
+      "province": "",
+      "region": "National Capital Region (NCR): Maynila",
+      "nickname": "The Vibrant City The City of Discipline"
+    },
+    {
+      "city_municipality": "Alaminos",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "The Hundred Islander Capital of the World"
+    },
+    {
+      "city_municipality": "Anda, Pangasinan",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Mother of the Hundred Islands"
+    },
+    {
+      "city_municipality": "Bani",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Golden West"
+    },
+    {
+      "city_municipality": "Batac",
+      "province": "Ilocos Norte",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Home of Great Leaders City of My Dreams"
+    },
+    {
+      "city_municipality": "Bautista",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "The Walis Tambo ( walis ) Capital of the Philippines Lupang Hinirang"
+    },
+    {
+      "city_municipality": "Binalonan",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Pangasinan's Cleanest Town"
+    },
+    {
+      "city_municipality": "Binmaley",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Yellow Beach"
+    },
+    {
+      "city_municipality": "Cervantes",
+      "province": "Ilocos Sur",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Summer Capital of Ilocos Sur"
+    },
+    {
+      "city_municipality": "Dagupan",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "The Bangus ( Milkfish ) Capital of the Philippines Melting Pot of Pangasinan Former Queen City of the North Business Capital of North Central Luzon Education Capital of the North"
+    },
+    {
+      "city_municipality": "Laoag",
+      "province": "Ilocos Norte",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Northernmost City of the Philippines Northern Gateway of the Philippines Sunshine City Political, Commercial and Industrial Hub of Ilocos Norte The Sparkling Gem of Ilocandia"
+    },
+    {
+      "city_municipality": "Lingayen",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Most Romantic Place in the Philippines"
+    },
+    {
+      "city_municipality": "Luna",
+      "province": "La Union",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Home of Apo Baket Namacpacan"
+    },
+    {
+      "city_municipality": "Manaoag",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Home of the Our Lady of Manaoag"
+    },
+    {
+      "city_municipality": "Mapandan",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Pangasinan's Greenest Municipality"
+    },
+    {
+      "city_municipality": "Pagudpud",
+      "province": "Ilocos Norte",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Sicogon Island of the North"
+    },
+    {
+      "city_municipality": "Rosario",
+      "province": "La Union",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Gateway to Ilocandia"
+    },
+    {
+      "city_municipality": "San Carlos",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Mango-Bamboo Capital of the Philippines"
+    },
+    {
+      "city_municipality": "San Fernando",
+      "province": "La Union",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Regional Center of Ilocos Region The Prime Capital of Ilocandia Botanical Garden City"
+    },
+    {
+      "city_municipality": "San Juan",
+      "province": "Ilocos Sur",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Buri Capital of Ilocos Sur"
+    },
+    {
+      "city_municipality": "San Juan",
+      "province": "La Union",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Surfing Capital of the North/Northern Philippines"
+    },
+    {
+      "city_municipality": "Santa Maria",
+      "province": "Ilocos Sur",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Home of the Our Lady of the Assumption Church (Nuestra Señora de la Asuncion), a UNESCO World Heritage Site"
+    },
+    {
+      "city_municipality": "Santiago",
+      "province": "Ilocos Sur",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Sicogon Island of Ilocos Sur Isla de Gigantes of Ilocos Sur"
+    },
+    {
+      "city_municipality": "Santo Tomas",
+      "province": "La Union",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Regional Center for Inland Fisheries Research Tabo-an of the North Home of Señora Virgen del Mar Cautiva (Virgen of the Sea)"
+    },
+    {
+      "city_municipality": "Sinait",
+      "province": "Ilocos Sur",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Garlic Center of the North"
+    },
+    {
+      "city_municipality": "Tubao",
+      "province": "La Union",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Home of the Native Tobacco"
+    },
+    {
+      "city_municipality": "Urdaneta",
+      "province": "Pangasinan",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "Gateway to Northern Philippines"
+    },
+    {
+      "city_municipality": "Vigan",
+      "province": "Ilocos Sur",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "The Heritage City of the Philippines"
+    },
+    {
+      "city_municipality": "Vintar",
+      "province": "Ilocos Norte",
+      "region": "Rehiyon ng Ilokos (Rehiyon I): San Fernando, La Union",
+      "nickname": "The Territory of Siwawers (Siwawer is a high-flying, black and orange-colored bird) Municipality of Canaoays (Canaoay is a low-flying, black and white-colored bird) Center Municipality of Ilocos Norte Area of Mighty Eagles"
+    },
+    {
+      "city_municipality": "Baguio",
+      "province": "Benguet",
+      "region": "Pampangasiwaan ng Cordillera (CAR): Baguio",
+      "nickname": "The Summer Capital of the Philippines The City of Pines Center of Education in the North The Highest City Capital of the North Convention City Artists Heaven Little America"
+    },
+    {
+      "city_municipality": "Banaue",
+      "province": "Ifugao",
+      "region": "Pampangasiwaan ng Cordillera (CAR): Baguio",
+      "nickname": "The site of the UNESCO World Heritage Site, the Batad Rice Terraces and Bangaan Rice Terraces"
+    },
+    {
+      "city_municipality": "La Trinidad",
+      "province": "Benguet",
+      "region": "Pampangasiwaan ng Cordillera (CAR): Baguio",
+      "nickname": "Strawberry Capital of the Philippines Salad Bowl of the Philippines"
+    },
+    {
+      "city_municipality": "Sagada",
+      "province": "Mountain Province",
+      "region": "Pampangasiwaan ng Cordillera (CAR): Baguio",
+      "nickname": "Home of the world-famous hanging coffins"
+    },
+    {
+      "city_municipality": "Tinglayan",
+      "province": "Kalinga",
+      "region": "Pampangasiwaan ng Cordillera (CAR): Baguio",
+      "nickname": "Home of the Last “ Mambabatok ”"
+    },
+    {
+      "city_municipality": "Aglipay",
+      "province": "Quirino",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "The Heart of Quirino"
+    },
+    {
+      "city_municipality": "Bagabag",
+      "province": "Nueva Vizcaya",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Pineapple Region of Nueva Vizcaya"
+    },
+    {
+      "city_municipality": "Buguey",
+      "province": "Cagayan",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Crab Capital of the North"
+    },
+    {
+      "city_municipality": "Cabarroguis",
+      "province": "Quirino",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "The Golden Park of Quirino"
+    },
+    {
+      "city_municipality": "Cabatuan",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Land of the Golden Grains"
+    },
+    {
+      "city_municipality": "Cauayan",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Mushroom City of the North Bamboo City of Isabela Agro-Industrial Capital of Cagayan Valley Central Business District of Region 2 The Ideal City of the North"
+    },
+    {
+      "city_municipality": "Diffun",
+      "province": "Quirino",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Gateway to Quirino Province"
+    },
+    {
+      "city_municipality": "Echague",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Queen Town of Isabela"
+    },
+    {
+      "city_municipality": "Gamu",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "The Mother Town of the 2nd District of Isabela The Oldest Town of Mallig Plains Region"
+    },
+    {
+      "city_municipality": "Iguig",
+      "province": "Cagayan",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Holy Land of the North Pottery Center of Cagayan"
+    },
+    {
+      "city_municipality": "Ilagan",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Corn Capital of the Philippines The Center of Eco-Tourism Adventure in Region 2 Home of the World's Largest Wooden Lounge Chair Primary Growth Center of Region 2"
+    },
+    {
+      "city_municipality": "Maddela",
+      "province": "Quirino",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Commercial Hub of Quirino"
+    },
+    {
+      "city_municipality": "Nagtipunan",
+      "province": "Quirino",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Tourism Capital of Quirino Land of the Origin"
+    },
+    {
+      "city_municipality": "Piat",
+      "province": "Cagayan",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Pilgrimage Center of Cagayan Valley"
+    },
+    {
+      "city_municipality": "Ramon",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Tilapia Capital of Isabela Province Hub of the Famous Magat Dam"
+    },
+    {
+      "city_municipality": "Roxas",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "The Commercial Center of the Mallig Plains Region"
+    },
+    {
+      "city_municipality": "Saguday",
+      "province": "Quirino",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "The Rice Granary of Quirino"
+    },
+    {
+      "city_municipality": "San Mariano",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Rice Bowl of Luzon"
+    },
+    {
+      "city_municipality": "San Mateo",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Agro-Ecological City Munggo Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Santa Ana",
+      "province": "Cagayan",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "The Game Fishing Mecca of the Philippines"
+    },
+    {
+      "city_municipality": "Santa Fe",
+      "province": "Nueva Vizcaya",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Southern Gateway to the Cagayan Valley Region"
+    },
+    {
+      "city_municipality": "Santa Maria",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Finest Pottery of the North"
+    },
+    {
+      "city_municipality": "Santa Praxedes",
+      "province": "Cagayan",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Northern Gateway of the Cagayan Valley Region"
+    },
+    {
+      "city_municipality": "Santa Teresita",
+      "province": "Cagayan",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Vannamei Capital of the North Youngest Town of Cagayan"
+    },
+    {
+      "city_municipality": "Santiago",
+      "province": "Isabela",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Queen City of the North Commercial and Trading Center of Cagayan Valley Investment Hub of Northern Philippines"
+    },
+    {
+      "city_municipality": "Solano",
+      "province": "Nueva Vizcaya",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "Central Business District of Nueva Vizcaya"
+    },
+    {
+      "city_municipality": "Tuguegarao",
+      "province": "Cagayan",
+      "region": "Lambak ng Cagayan (Rehiyon II): Tuguegarao",
+      "nickname": "The Premier Ybanag City Regional Center of Cagayan Valley"
+    },
+    {
+      "city_municipality": "Angeles",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "City of Angels Entertainment Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Aliaga",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Home of Taong Putik Festival"
+    },
+    {
+      "city_municipality": "Apalit",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Pampanga's Gateway to Manila The Blacksmith Capital of Pampanga"
+    },
+    {
+      "city_municipality": "Bacolor",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Athens of Pampanga"
+    },
+    {
+      "city_municipality": "Baler",
+      "province": "Aurora",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Birthplace of Philippine Surfing"
+    },
+    {
+      "city_municipality": "Bocaue",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Fireworks Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Bongabon",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Onion Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Bulakan",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The First Capital of the Province of Bulacan"
+    },
+    {
+      "city_municipality": "Bustos",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Home of Minasa Cookies"
+    },
+    {
+      "city_municipality": "Cabanatuan",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Tricycle Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Cabiao",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Sorghum Capital of Nueva Ecija"
+    },
+    {
+      "city_municipality": "Capas",
+      "province": "Tarlac",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Gateway to Pinatubo Volcano"
+    },
+    {
+      "city_municipality": "Carranglan",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Largest Municipality in Nueva Ecija"
+    },
+    {
+      "city_municipality": "Dilasag",
+      "province": "Aurora",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Last Paradise of the North"
+    },
+    {
+      "city_municipality": "Doña Remedios Trinidad",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Bulacan's Last Frontier"
+    },
+    {
+      "city_municipality": "Gabaldon",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Stone Capital of Nueva Ecija"
+    },
+    {
+      "city_municipality": "Gapan",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Footwear Capital of the North"
+    },
+    {
+      "city_municipality": "General Tinio",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Papaya Capital of Nueva Ecija"
+    },
+    {
+      "city_municipality": "Guiguinto",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Garden Haven of Bulacan Garden City"
+    },
+    {
+      "city_municipality": "Guimba",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Organic Capital of Nueva Ecija"
+    },
+    {
+      "city_municipality": "Hagonoy",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Aquaculture Capital of Bulacan Leviticus Town"
+    },
+    {
+      "city_municipality": "Iba",
+      "province": "Zambales",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Beach Capital of Zambales"
+    },
+    {
+      "city_municipality": "Jaen",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Mango Capital of Nueva Ecija"
+    },
+    {
+      "city_municipality": "La Paz",
+      "province": "Tarlac",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Home of Our Lady of Peace and Good Voyage"
+    },
+    {
+      "city_municipality": "Licab",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Home of Kariton Festival"
+    },
+    {
+      "city_municipality": "Lubao",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Balen Baba"
+    },
+    {
+      "city_municipality": "Mabalacat",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Industrial Capital of Pampanga"
+    },
+    {
+      "city_municipality": "Macabebe",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Pampanga Mini Sea"
+    },
+    {
+      "city_municipality": "Magalang",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Sweet Tamarind Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Malolos",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Cradle of the Philippine Republic The Renaissance City The Historic and Heritage City of Bulacan"
+    },
+    {
+      "city_municipality": "Mariveles",
+      "province": "Bataan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Home of Five Fingers"
+    },
+    {
+      "city_municipality": "Mayantoc",
+      "province": "Tarlac",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Summer Capital of Tarlac"
+    },
+    {
+      "city_municipality": "Meycauayan",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Hub of Jewelry Production in the Philippines and in Asia"
+    },
+    {
+      "city_municipality": "Minalin",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Egg Basket of the Philippines"
+    },
+    {
+      "city_municipality": "Muñoz",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Science City of the Philippines"
+    },
+    {
+      "city_municipality": "Olongapo",
+      "province": "Zambales",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "City of Volunteers City of a Thousand Bumble Bees"
+    },
+    {
+      "city_municipality": "Pantabangan",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Tilapia Capital of Nueva Ecija"
+    },
+    {
+      "city_municipality": "Paombong",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Vinegar Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Peñaranda",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The IKMO Capital of Nueva Ecija"
+    },
+    {
+      "city_municipality": "Pulilan",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Home of the Kneeling Carabao Festival"
+    },
+    {
+      "city_municipality": "San Antonio",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Watermelon Capital of Nueva Ecija"
+    },
+    {
+      "city_municipality": "San Antonio",
+      "province": "Zambales",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Surfing Capital of Central Luzon"
+    },
+    {
+      "city_municipality": "San Isidro",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Chicken Capital of Nueva Ecija"
+    },
+    {
+      "city_municipality": "San Fernando",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Christmas City of the Philippines"
+    },
+    {
+      "city_municipality": "San Jose",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Central Luzon's City of the Golden Harvests A Rice Bowl of the Philippines"
+    },
+    {
+      "city_municipality": "San Jose del Monte",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The First City of Bulacan The Evergreen City"
+    },
+    {
+      "city_municipality": "San Leonardo",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Town of Progress"
+    },
+    {
+      "city_municipality": "San Marcelino",
+      "province": "Zambales",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Singkamas Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Santa Maria",
+      "province": "Bulacan",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Chicharon Capital of Bulacan"
+    },
+    {
+      "city_municipality": "Santo Tomas",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Coffin Capital of Central Luzon"
+    },
+    {
+      "city_municipality": "Sasmuan",
+      "province": "Pampanga",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Pampanga Mini SEA"
+    },
+    {
+      "city_municipality": "Subic",
+      "province": "Zambales",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Wreck Diving Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Talavera",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Home of the Best Fish Sauce in Nueva Ecija"
+    },
+    {
+      "city_municipality": "Lungsod ng Tarlac",
+      "province": "Tarlac",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "Home of Sugar, Rice and Everything Nice"
+    },
+    {
+      "city_municipality": "Zaragoza",
+      "province": "Nueva Ecija",
+      "region": "Gitnang Luzon (Rehiyon III): San Fernando, Pampanga",
+      "nickname": "The Home of the Best Fermented Rice in Nueva Ecija"
+    },
+    {
+      "city_municipality": "Alabat",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Hidden Gem of Quezon Gateway to the Pacific Alabat, A Lost Paradise"
+    },
+    {
+      "city_municipality": "Alaminos",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Home of the Coramblan Festival"
+    },
+    {
+      "city_municipality": "Alfonso",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Agro-Industrial Center of Upland Cavite"
+    },
+    {
+      "city_municipality": "Alitagtag",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Float Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Amadeo",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Coffee Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Angono",
+      "province": "Rizal",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Arts Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Antipolo",
+      "province": "Rizal",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Pilgrimage City of the Philippines The City in the Sky"
+    },
+    {
+      "city_municipality": "Bacoor",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Cavite's Gateway to the Metropolis Marching Band Capital of the Philippines City of Transformation"
+    },
+    {
+      "city_municipality": "Balete",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Land of Honeybees"
+    },
+    {
+      "city_municipality": "Lungsod ng Batangas",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Industrial Port City of Calabarzon Tourist City of the Past, Present and Future"
+    },
+    {
+      "city_municipality": "Bauan",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Town that Refuses to Die"
+    },
+    {
+      "city_municipality": "Bae",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Flower Garden of Laguna The First Capital of Laguna"
+    },
+    {
+      "city_municipality": "Cabuyao",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Pamantasan ng Cabuyao"
+    },
+    {
+      "city_municipality": "Cainta",
+      "province": "Rizal",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Your Gateway to the East Information Technology Capital of the Province of Rizal Bibingka Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Calamba",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Hot Spring/Resort Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Calauan",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Home of the Sweetest Pineapple"
+    },
+    {
+      "city_municipality": "Candelaria",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Industrial Town of Quezon Desiccated Coconut Capital"
+    },
+    {
+      "city_municipality": "Carmona",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Center for Investment & Sports of Cavite Industrial Corridor of Cavite"
+    },
+    {
+      "city_municipality": "Catanauan",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Heart of the Bondoc Peninsula"
+    },
+    {
+      "city_municipality": "Cavinti",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Eventful, Adventure, Falls, Caves and Eco-Tourism Capital of Laguna"
+    },
+    {
+      "city_municipality": "Lungsod ng Cavite",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Historic and Cultural City of 3 Bays International Transport Hub of the Future"
+    },
+    {
+      "city_municipality": "Cuenca",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Home of the Bakers"
+    },
+    {
+      "city_municipality": "Dasmariñas",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "University City of Cavite Industrial Giant of Calabarzon Melting Pot of Cavite Tiger City of the South"
+    },
+    {
+      "city_municipality": "Dolores",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Foot of Majestic Mt. Banahaw"
+    },
+    {
+      "city_municipality": "Famy",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Home of Bamboo Weavers"
+    },
+    {
+      "city_municipality": "Imus",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Flag Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Indang",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Upland Market Center"
+    },
+    {
+      "city_municipality": "Infanta",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Gateway to the Pacific"
+    },
+    {
+      "city_municipality": "Kalayaan",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Laguna's Symbol of Peace and Unity"
+    },
+    {
+      "city_municipality": "Kawit",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Birthplace of Philippine Independence"
+    },
+    {
+      "city_municipality": "Liliw",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Tsinelas Capital of the Philippines Footwear Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Lipa",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Next Wave City City of Pride"
+    },
+    {
+      "city_municipality": "Lobo",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Atis Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Los Baños",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Special Science and Nature City of the Philippines"
+    },
+    {
+      "city_municipality": "Lucban",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Home of Pahiyas"
+    },
+    {
+      "city_municipality": "Lucena",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Biofuel City Cocopalm City of the South The Gateway to the South Entertainment Capital of Southern Luzon Bagong Lucena"
+    },
+    {
+      "city_municipality": "Luisiana",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Little Baguio of Laguna Pandán Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Lumban",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Embroidery Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Mabini",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Diving Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Mabitac",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Site of the Fabled Battle of Mabitac"
+    },
+    {
+      "city_municipality": "Magdalena",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Little Hollywood of Laguna The Bamboo Capital of Laguna"
+    },
+    {
+      "city_municipality": "Majayjay",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Town of Rivers and Waterfalls"
+    },
+    {
+      "city_municipality": "Maragondon",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Historic Town & A Wildlife Sanctuary"
+    },
+    {
+      "city_municipality": "Morong",
+      "province": "Rizal",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Puso ng Rizal"
+    },
+    {
+      "city_municipality": "Naic",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Industrial Terminal & Amusement Center of the Future"
+    },
+    {
+      "city_municipality": "Nagcarlan",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Vegetable Basket of Laguna Home of Ana Kalang Festival"
+    },
+    {
+      "city_municipality": "Padre Garcia",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Cattle Trading Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Paete",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Woodcarving Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Pagbilao",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Power Port of Quezon"
+    },
+    {
+      "city_municipality": "Pagsanjan",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Tourist Capital of Laguna Athens of Laguna Home of Our Lady of Guadalupe"
+    },
+    {
+      "city_municipality": "Pakil",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Home of the Turumba Festival"
+    },
+    {
+      "city_municipality": "Pangil",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Home of the Nuestra Señora de la O and the Santo Niño de la O"
+    },
+    {
+      "city_municipality": "Pila",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "La Noble Villa de Pila"
+    },
+    {
+      "city_municipality": "Rizal",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Tayak Adventure and Nature Park of Laguna"
+    },
+    {
+      "city_municipality": "Rosario",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Agro-Industrial Capital of Southern Tagalog Rice Granary of Batangas"
+    },
+    {
+      "city_municipality": "Rosario",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "An Agricultural-Commercial-Industrial Center"
+    },
+    {
+      "city_municipality": "San Jose",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Egg Basket Capital of the Philippines"
+    },
+    {
+      "city_municipality": "San Mateo",
+      "province": "Rizal",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Mountain Biking Capital of the Philippines"
+    },
+    {
+      "city_municipality": "San Pablo",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The City of Seven Lakes The City of Buko Pie"
+    },
+    {
+      "city_municipality": "San Pedro",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Sampaguita Capital of the Philippines Rooster City of the Philippines Laguna's Gateway to Metro Manila Shrine City of the Southern Tagalog"
+    },
+    {
+      "city_municipality": "Santa Cruz",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Capital of Laguna Kesong Puti Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Santa Rosa",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Lion City of South Luzon Next ICT Hub of the Philippines Makati of the South"
+    },
+    {
+      "city_municipality": "Sariaya",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Heritage Town of Quezon Art Deco Capital of Southern Luzon"
+    },
+    {
+      "city_municipality": "Silang",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Food Bastion of Metro Manila"
+    },
+    {
+      "city_municipality": "Siniloan",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Waterfalls Sanctuary of Laguna"
+    },
+    {
+      "city_municipality": "Taal",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Heritage Town Balisong and Barong Tagalog Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Tagaytay",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Country's 2nd Summer Capital"
+    },
+    {
+      "city_municipality": "Talisay",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Seedling Bowl of the Nation"
+    },
+    {
+      "city_municipality": "Tanauan",
+      "province": "Batangas",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Premiere City of Calabarzon City of Colors"
+    },
+    {
+      "city_municipality": "Tayabas",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "City of Festivals Home of The Finest Lambanog Rest and Recreation Destination of Quezon City of 11 Spanish Bridges"
+    },
+    {
+      "city_municipality": "Taytay",
+      "province": "Rizal",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Woodworks and Garments Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Tiaong",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Home of the Legendary Lake Ticob"
+    },
+    {
+      "city_municipality": "Trece Martires",
+      "province": "Cavite",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The Drug and Gambling Free City The Seat of Provincial Government (Cavite)"
+    },
+    {
+      "city_municipality": "Unisan",
+      "province": "Quezon",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "The First Capital of Quezon The Oldest Town in the Philippines"
+    },
+    {
+      "city_municipality": "Victoria",
+      "province": "Laguna",
+      "region": "Calabarzon/Timog Katagalugan (Rehiyon IV-A): Calamba",
+      "nickname": "Duck Raising Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Boac",
+      "province": "Marinduque",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "The Heart's Capital"
+    },
+    {
+      "city_municipality": "Brooke's Point",
+      "province": "Palawan",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "Original Home of the Biggest Pearl in the World. (Pearl of Lao Tzu or the Pearl of Allah)"
+    },
+    {
+      "city_municipality": "Buenavista",
+      "province": "Marinduque",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "Home of the Famous Bellaroca Island Resort and Spa"
+    },
+    {
+      "city_municipality": "Calapan",
+      "province": "Oriental Mindoro",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "Administrative Center of Mimaropa The Center of Commerce, Industry, Transportation, Communication, Religious Activities and Education in the entire Province of Oriental Mindoro"
+    },
+    {
+      "city_municipality": "El Nido",
+      "province": "Palawan",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "Gateway to Wild Adventure Heaven on Earth"
+    },
+    {
+      "city_municipality": "Gasan",
+      "province": "Marinduque",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "The Cultural Nerve Center of the Marinduque"
+    },
+    {
+      "city_municipality": "Magdiwang",
+      "province": "Romblon",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "The Gateway to Mount Guiting-Guiting"
+    },
+    {
+      "city_municipality": "Mamburao",
+      "province": "Occidental Mindoro",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "The Economic, Political and Tourism Center of Occidental Mindoro"
+    },
+    {
+      "city_municipality": "Mogpog",
+      "province": "Marinduque",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "The Original Home of the Moriones Primary Gateway of the Province"
+    },
+    {
+      "city_municipality": "Pinamalayan",
+      "province": "Oriental Mindoro",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "Rainbow City"
+    },
+    {
+      "city_municipality": "Puerto Galera",
+      "province": "Oriental Mindoro",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "The World's Most Beautiful Bay Poor Man's Boracay"
+    },
+    {
+      "city_municipality": "Puerto Princesa",
+      "province": "Palawan",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "The Eco-Tourism Capital of the Philippines The City in the Forest"
+    },
+    {
+      "city_municipality": "Torrijos",
+      "province": "Marinduque",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "Home of the Famous Poctoy White Beach Little Baguio / Summer Capital of Marinduque"
+    },
+    {
+      "city_municipality": "Victoria",
+      "province": "Oriental Mindoro",
+      "region": "Mimaropa/Timog Katagalugan (Rehiyon IV-B): Calapan",
+      "nickname": "Fruit Basket of Oriental Mindoro"
+    },
+    {
+      "city_municipality": "Barcelona",
+      "province": "Sorsogon",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Little Switzerland of Asia"
+    },
+    {
+      "city_municipality": "Buhi",
+      "province": "Camarines Sur",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Home of Lake Buhi and the World's Smallest Commercial Fish locally known as the Sinarapan (Mystychtis Luzonensis)"
+    },
+    {
+      "city_municipality": "Canaman",
+      "province": "Camarines Sur",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Citadel of Bicol Culture Birthplace of Tancong Vaca Guerilla Unit"
+    },
+    {
+      "city_municipality": "Daet",
+      "province": "Camarines Norte",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Gateway to Bicolandia"
+    },
+    {
+      "city_municipality": "Daraga",
+      "province": "Albay",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Home of the (Cagsawa) Ruins"
+    },
+    {
+      "city_municipality": "Donsol",
+      "province": "Sorsogon",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Whale Shark Capital of the World"
+    },
+    {
+      "city_municipality": "Legazpi",
+      "province": "Albay",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "The City of Fun and Adventure ATV Capital of the Philippines Queen City of Southern Luzon Gateway of Southern Luzon Gateway City of Bicol"
+    },
+    {
+      "city_municipality": "Libmanan",
+      "province": "Camarines Sur",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Rice Granary of Camarines Sur"
+    },
+    {
+      "city_municipality": "Lungsod ng Masbate",
+      "province": "Masbate",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "City of Hearts Rodeo Capital of the Philippines Melting Pot of Diverse Cultures and Traditions in Central Philippines"
+    },
+    {
+      "city_municipality": "Naga",
+      "province": "Camarines Sur",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "The Queen City of Bicol The Heart of Bicol The Pilgrim City An Maogmang Lugar (The Happy Place) Titan City Spanish Royal City One of the Seven Golden Cities of the Sun"
+    },
+    {
+      "city_municipality": "Pandan",
+      "province": "Catanduanes",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "The Fishing Capital of Catanduanes"
+    },
+    {
+      "city_municipality": "Paracale",
+      "province": "Camarines Norte",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Gold Town"
+    },
+    {
+      "city_municipality": "Pasacao",
+      "province": "Camarines Sur",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Summer Capital of Camarines Sur"
+    },
+    {
+      "city_municipality": "Pili",
+      "province": "Camarines Sur",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Pili Nut Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Sipocot",
+      "province": "Camarines Sur",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Egg Basket of Camarines Sur Native Chicken Capital of Camarines Sur Where Andaya Highway Ends"
+    },
+    {
+      "city_municipality": "Lungsod ng Sorsogon",
+      "province": "Sorsogon",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Gateway to Southern Philippines"
+    },
+    {
+      "city_municipality": "Tabaco",
+      "province": "Albay",
+      "region": "Rehiyon ng Bikol (Rehiyon V): Legazpi",
+      "nickname": "Padyak Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Alimodian",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Banana Capital of Western Visayas Strawberry Capital of Iloilo"
+    },
+    {
+      "city_municipality": "Bacolod",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The City of Smiles"
+    },
+    {
+      "city_municipality": "Bago",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Home of Historical and Natural Treasures"
+    },
+    {
+      "city_municipality": "Banga",
+      "province": "Aklan",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Banga the Beautiful"
+    },
+    {
+      "city_municipality": "Barotac Nuevo",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Football Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Binalbagan",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "\"Banwang Panganay\" (Oldest Town) of Negros Island The True Heart of Negros"
+    },
+    {
+      "city_municipality": "Bugasong",
+      "province": "Antique",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Bugas Sa Lusong The First Capital of Antique"
+    },
+    {
+      "city_municipality": "Cadiz",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "City of Whales Dinagsa Country of the North"
+    },
+    {
+      "city_municipality": "Carles",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "True Alaska of the Philippines"
+    },
+    {
+      "city_municipality": "Dingle",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Spelunker's Paradise"
+    },
+    {
+      "city_municipality": "Estancia",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Alaska of Panay"
+    },
+    {
+      "city_municipality": "Himamaylan",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Home of Himaya-an Festival and Patik Kawayan"
+    },
+    {
+      "city_municipality": "Hinigaran",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Gateway to Southern Negros Firecrackers Capital of Negros Occidental"
+    },
+    {
+      "city_municipality": "Ilog",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The First Capital of the Historical Province of Negros Home of the Kisi-Kisi Festival"
+    },
+    {
+      "city_municipality": "Lungsod ng Iloilo",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Queen's City of the South ( de jure ) The Most Loyal and Noble City The City of Love Textile Capital of the Philippines Contemporary City of the Philippines The City of Firsts The Pioneer City of the Philippines Heritage City Emerging Museum City Athens of the Philippines Fireworks Capital of Western Visayas Rising Giant Of The South Festival Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Isabela",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Sweet Heart of Negros"
+    },
+    {
+      "city_municipality": "Jordan",
+      "province": "Guimaras",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Home Of The Sweetest Mangoes In The World"
+    },
+    {
+      "city_municipality": "Kabankalan",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Rising City of the South"
+    },
+    {
+      "city_municipality": "Kalibo",
+      "province": "Aklan",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Ati-Atihan Town"
+    },
+    {
+      "city_municipality": "La Carlota",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Home of (Negros Island's) Our Lady of Peace and Good Voyage"
+    },
+    {
+      "city_municipality": "Leon",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Vegetable Basket of Iloilo Province Food Basket of Iloilo Province Summer Capital of Iloilo"
+    },
+    {
+      "city_municipality": "Madalag",
+      "province": "Aklan",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Land of the Sweetest Lanzones"
+    },
+    {
+      "city_municipality": "Malay",
+      "province": "Aklan",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Home of the Boracay resort island"
+    },
+    {
+      "city_municipality": "Manapla",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Negrosanon Top End"
+    },
+    {
+      "city_municipality": "Miagao",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Onion Capital of the Visayas"
+    },
+    {
+      "city_municipality": "Nabas",
+      "province": "Aklan",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Nature Lovers' Haven"
+    },
+    {
+      "city_municipality": "New Washington",
+      "province": "Aklan",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Bountiful Town"
+    },
+    {
+      "city_municipality": "Panay",
+      "province": "Capiz",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Heritage Capital of Capiz"
+    },
+    {
+      "city_municipality": "Pandan",
+      "province": "Antique",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Jewel of Antique"
+    },
+    {
+      "city_municipality": "Passi",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Sweet City at the Heart of Panay"
+    },
+    {
+      "city_municipality": "Pavia",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Regional Agro-Industrial Center for Western Visayas"
+    },
+    {
+      "city_municipality": "Pototan",
+      "province": "Iloilo",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Christmas Capital of Western Visayas Rice Granary of Iloilo"
+    },
+    {
+      "city_municipality": "Roxas",
+      "province": "Capiz",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Seafood Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Sagay",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Garden City of the North"
+    },
+    {
+      "city_municipality": "Salvador Benedicto",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Summer Capital of Negros Occidental"
+    },
+    {
+      "city_municipality": "Sibalom",
+      "province": "Antique",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Rice Bowl of Antique"
+    },
+    {
+      "city_municipality": "Silay",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Paris of Negros"
+    },
+    {
+      "city_municipality": "Sipalay",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Jewel of The Sugar Island The \"Little Boracay\""
+    },
+    {
+      "city_municipality": "Talisay",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Home to The Ruins (dubbed as \"The Taj Mahal of Negros\")"
+    },
+    {
+      "city_municipality": "Valladolid",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "Rice Granary of Negros Occidental Fruit Basket of Negros Occidental"
+    },
+    {
+      "city_municipality": "Victorias",
+      "province": "Negros Occidental",
+      "region": "Kanlurang Bisayas (Rehiyon VI): Iloilo City",
+      "nickname": "The Sugarlandia of Negros The Sweet and Green City of Negros"
+    },
+    {
+      "city_municipality": "Bais",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "City of Whales and Dolphins Sugar Estate of the South"
+    },
+    {
+      "city_municipality": "Balamban",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Ship Building Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Balilihan",
+      "province": "Bohol",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Vegetable Capital of Bohol"
+    },
+    {
+      "city_municipality": "Bantayan",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Holy Week Celebration Capital of the World"
+    },
+    {
+      "city_municipality": "Bayawan",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Character City (as per International Association of Character Cities) A Pioneer \"Healthy City\" (DOH certified)"
+    },
+    {
+      "city_municipality": "Bien Unido",
+      "province": "Bohol",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Seaweed Capital of the Visayas"
+    },
+    {
+      "city_municipality": "Canlaon",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Home to Mount Kanlaon Vegetable Capital of Negros Island"
+    },
+    {
+      "city_municipality": "Carcar",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Heritage City of Cebu Little Marikina of Cebu"
+    },
+    {
+      "city_municipality": "Carmen",
+      "province": "Bohol",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Home to the Chocolate Hills"
+    },
+    {
+      "city_municipality": "Lungsod ng Cebu",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Queen City of the South ( de facto ) Oldest City in the Philippines First Capital of the Philippines Cradle of Christianity in Asia"
+    },
+    {
+      "city_municipality": "Compostela",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Land of the Free"
+    },
+    {
+      "city_municipality": "Corella",
+      "province": "Bohol",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Home of the Endemic Philippine Tarsier"
+    },
+    {
+      "city_municipality": "Danao",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Gunsmith Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Dumaguete",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The City of Gentle People The University Town of the Visayas The Motorcycle Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Jimalalud",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Little Big Town"
+    },
+    {
+      "city_municipality": "Lapu-Lapu",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Historic Resort City"
+    },
+    {
+      "city_municipality": "Liloan",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Light of the North"
+    },
+    {
+      "city_municipality": "Loboc",
+      "province": "Bohol",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Music Capital of Bohol"
+    },
+    {
+      "city_municipality": "Mabinay",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Caves Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Mandaue",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Furniture Capital of the Philippines Industrial City of Southern Philippines"
+    },
+    {
+      "city_municipality": "Manjuyod",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Maldives of the Philippines"
+    },
+    {
+      "city_municipality": "Minglanilla",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Sugat Capital of the South"
+    },
+    {
+      "city_municipality": "Naga",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Industrial Hub of Southern Cebu"
+    },
+    {
+      "city_municipality": "Oslob",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Whaleshark Capital of the Visayas"
+    },
+    {
+      "city_municipality": "San Jose",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Regional Pineapple Capital"
+    },
+    {
+      "city_municipality": "Siaton",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Southland by the Sea"
+    },
+    {
+      "city_municipality": "Sibonga",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Home to the Simala-Lindogon Church"
+    },
+    {
+      "city_municipality": "Sierra Bullones",
+      "province": "Bohol",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Golden Town of Bohol Home of the Tallest Santa Clause in the Philippines"
+    },
+    {
+      "city_municipality": "Siquijor",
+      "province": "Siquijor",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Mystical Town"
+    },
+    {
+      "city_municipality": "Tagbilaran",
+      "province": "Bohol",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "City of Peace and Friendship"
+    },
+    {
+      "city_municipality": "Talisay",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Aqua City"
+    },
+    {
+      "city_municipality": "Tanjay",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "City of Professionals City of Music and Fun City of Lights"
+    },
+    {
+      "city_municipality": "Toledo",
+      "province": "Cebu",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "The Copper City with a Heart of Gold"
+    },
+    {
+      "city_municipality": "Ubay",
+      "province": "Bohol",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "Town of Warmest Friendship"
+    },
+    {
+      "city_municipality": "Vallehermoso",
+      "province": "Negros Oriental",
+      "region": "Gitnang Bisayas (Rehiyon VII): Cebu City",
+      "nickname": "All-Around Suburb"
+    },
+    {
+      "city_municipality": "Abuyog",
+      "province": "Leyte",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "Home of the Buyogan Festival"
+    },
+    {
+      "city_municipality": "Basey",
+      "province": "Samar",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "Banig Capital of Region 8 Home of the Famous Sohoton Caves and Natural Bridge National Park"
+    },
+    {
+      "city_municipality": "Baybay",
+      "province": "Leyte",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "A Place of Discovery, Beauty and Serenity"
+    },
+    {
+      "city_municipality": "Biliran",
+      "province": "Biliran",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "Biliran's Oldest Town"
+    },
+    {
+      "city_municipality": "Borongan",
+      "province": "Eastern Samar",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "The City of the Golden Sunrise The Sunshine Capital King City of the East"
+    },
+    {
+      "city_municipality": "Calbayog",
+      "province": "Samar",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "City of Waterfalls The City of Pilgrimage The City of Heritage"
+    },
+    {
+      "city_municipality": "Catarman",
+      "province": "Northern Samar",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "The Commercial, Financial, Educational and Government Center of the Province of Northern Samar"
+    },
+    {
+      "city_municipality": "Catbalogan",
+      "province": "Samar",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "The Gateway to Samar Island The Quadricentennial City of Samar The City of Manaragat The City of Captivating Contrasts"
+    },
+    {
+      "city_municipality": "Dolores",
+      "province": "Eastern Samar",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "Rice Granary of Eastern Samar"
+    },
+    {
+      "city_municipality": "Guiuan",
+      "province": "Eastern Samar",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "Magellan's First Landing Site ( Homonhon ) Surfing Capital of the Visayas Fish and Aquaculture Town of Eastern Visayas"
+    },
+    {
+      "city_municipality": "Hinunangan",
+      "province": "Southern Leyte",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "Rice Granary of Southern Leyte"
+    },
+    {
+      "city_municipality": "Laoang",
+      "province": "Northern Samar",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "The Economic, Educational, Socio-Cultural and Political Center of Northern Samar's 2nd Congressional District"
+    },
+    {
+      "city_municipality": "Leyte",
+      "province": "Leyte",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "The Mother Municipality of Leyte province"
+    },
+    {
+      "city_municipality": "Limasawa",
+      "province": "Southern Leyte",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "The First Mass Site in the Philippines"
+    },
+    {
+      "city_municipality": "Maasin",
+      "province": "Southern Leyte",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "Religious and Miraculous City in the Philippines"
+    },
+    {
+      "city_municipality": "Naval",
+      "province": "Biliran",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "The Undiscovered Paradise"
+    },
+    {
+      "city_municipality": "Ormoc",
+      "province": "Leyte",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "The economic, cultural, commercial and transportation hub of western Leyte"
+    },
+    {
+      "city_municipality": "San Antonio",
+      "province": "Hilagang Samar",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "Undisturbed Paradise and Future Premier Tourist Destination in Eastern Visayas"
+    },
+    {
+      "city_municipality": "Tacloban",
+      "province": "Leyte",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "Queen City of the Orient Seas Regional Center of Eastern Visayas The Gateway to Eastern Visayas City of Hope"
+    },
+    {
+      "city_municipality": "Tanauan",
+      "province": "Leyte",
+      "region": "Silangang Bisayas (Rehiyon VIII): Tacloban",
+      "nickname": "Cradle of the Intellectuals Skimboarding Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Baliguian",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Philippine Eagle Capital of Zanorte"
+    },
+    {
+      "city_municipality": "Dapitan",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "The Shrine City of the Philippines Historic City of the South Amusement Capital of the South Rizal City of the South"
+    },
+    {
+      "city_municipality": "Dipolog",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "The Locust City The Orchid City of the Philippines Bottled Sardines Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Gutalac",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Pebbles Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Ipil",
+      "province": "Zamboanga Sibugay",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Heart of Zamboanga Peninsula"
+    },
+    {
+      "city_municipality": "Isabela",
+      "province": "Basilan",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "The Economic Center of Basilan"
+    },
+    {
+      "city_municipality": "Kalawit",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Carabao Capital of Mindanao"
+    },
+    {
+      "city_municipality": "Katipunan",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Adventure Capital of Zanorte The Highest Mountain of Zanorte"
+    },
+    {
+      "city_municipality": "Labason",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Fresh Fish Capital of Zanorte Danggit Capital of the South"
+    },
+    {
+      "city_municipality": "Lapuyan",
+      "province": "Zamboanga del Sur",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Little America Subanen Land Culture-Friendly Municipality"
+    },
+    {
+      "city_municipality": "Liloy",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Peanut Capital of Zanorte"
+    },
+    {
+      "city_municipality": "Manukan",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Chicken Capital of the South"
+    },
+    {
+      "city_municipality": "Mutia",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Mountain Resort of Zanorte"
+    },
+    {
+      "city_municipality": "Pagadian",
+      "province": "Zamboanga del Sur",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "The Little Hong Kong of the South"
+    },
+    {
+      "city_municipality": "Piñan",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Inland Resort Capital of Zanorte"
+    },
+    {
+      "city_municipality": "Polanco",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Marang Capital of the Philippines"
+    },
+    {
+      "city_municipality": "President Manuel A. Roxas",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Industrial Capital of Zanorte"
+    },
+    {
+      "city_municipality": "Salug",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Magnificent View Capital of Zanorte"
+    },
+    {
+      "city_municipality": "Sergio Osmeña Sr.",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Vegetable Bowl of Zanorte"
+    },
+    {
+      "city_municipality": "Sibuco",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Last Frontier of Zanorte in the South"
+    },
+    {
+      "city_municipality": "Sibutad",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Mineral Premier Capital of the South"
+    },
+    {
+      "city_municipality": "Sindangan",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Fishing Capital of Zanorte"
+    },
+    {
+      "city_municipality": "Siocon",
+      "province": "Zamboanga del Norte",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Kalaw (hornbill) Capital of Zanorte"
+    },
+    {
+      "city_municipality": "Titay",
+      "province": "Zamboanga Sibugay",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "The Central Axis of Zampen"
+    },
+    {
+      "city_municipality": "Tukuran",
+      "province": "Zamboanga del Sur",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Swimming Capital of Zamboanga del Sur The Isthmus of Zamboanga Peninsula"
+    },
+    {
+      "city_municipality": "Dumingag",
+      "province": "Zamboanga del Sur",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "Gold Town Child Friendly Municipality Organic Capital Zamboanga Peninsula"
+    },
+    {
+      "city_municipality": "Lungsod ng Zamboanga",
+      "province": "",
+      "region": "Tangway ng Zamboanga (Rehiyon IX): Pagadian",
+      "nickname": "The City of Flowers Asia's Latin City The Sardines Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Cagayan de Oro",
+      "province": "Misamis Oriental",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "The City of Golden Friendship The Heart of Northern Mindanao The Gateway to the Land of Promise The City of Gold The River Rafting Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Clarin",
+      "province": "Misamis Occidental",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Suman Town"
+    },
+    {
+      "city_municipality": "Damulog",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Passway to Northern Mindanao Land of the Virgin Nature"
+    },
+    {
+      "city_municipality": "Don Carlos",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Little Vigan of Bukidnon"
+    },
+    {
+      "city_municipality": "El Salvador",
+      "province": "Misamis Oriental",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "The City of Mercy or \"City of The Saviour\" Christ City of the Philippines"
+    },
+    {
+      "city_municipality": "Gingoog",
+      "province": "Misamis Oriental",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "The City of Good Luck"
+    },
+    {
+      "city_municipality": "Iligan",
+      "province": "Lanao del Norte",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "The Industrial Center of the South The City of Majestic Waterfalls"
+    },
+    {
+      "city_municipality": "Impasugong",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Home of the Finest Cowboys"
+    },
+    {
+      "city_municipality": "Jimenez",
+      "province": "Misamis Occidental",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Heritage Town"
+    },
+    {
+      "city_municipality": "Kadingilan",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Green Haven of the South"
+    },
+    {
+      "city_municipality": "Kalilangan",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Gateway to Bangsamoro"
+    },
+    {
+      "city_municipality": "Kitaotao",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Mango Capital of Bukidnon"
+    },
+    {
+      "city_municipality": "Lantapan",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Vegetable Basket of Mindanao Heart of Bukidnon"
+    },
+    {
+      "city_municipality": "Linamon",
+      "province": "Lanao del Norte",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Beach Capital of Lanao del Norte"
+    },
+    {
+      "city_municipality": "Malaybalay",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "South Summer Capital of the Philippines The City in the Forest of the South"
+    },
+    {
+      "city_municipality": "Malitbog",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Bukidnon's Great North"
+    },
+    {
+      "city_municipality": "Mambajao",
+      "province": "Camiguin",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Lanzones Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Manolo Fortich",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Adventure Capital of Bukidnon"
+    },
+    {
+      "city_municipality": "Maramag",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "The Place for Secured Investment"
+    },
+    {
+      "city_municipality": "Tangub",
+      "province": "Misamis Occidental",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "The Christmas Symbols City of the Philippines"
+    },
+    {
+      "city_municipality": "Tubod",
+      "province": "Lanao del Norte",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Motocross Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Oroquieta",
+      "province": "Misamis Occidental",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "The City of Good Life"
+    },
+    {
+      "city_municipality": "Ozamiz",
+      "province": "Misamis Occidental",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "The Historical, Cultural, and Pilgrimage Destination Gem of Panguil Bay Gateway to Northwestern Mindanao"
+    },
+    {
+      "city_municipality": "Quezon",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Sugar Capital of Bukidnon"
+    },
+    {
+      "city_municipality": "San Fernando",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Bukidnon's Gateway to Davao"
+    },
+    {
+      "city_municipality": "Sugbongcogon",
+      "province": "Misamis Oriental",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "Greenest Municipality of Misamis Oriental"
+    },
+    {
+      "city_municipality": "Talakag",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "The Highlander's Golden Paradise of Bukidnon"
+    },
+    {
+      "city_municipality": "Valencia",
+      "province": "Bukidnon",
+      "region": "Hilagang Mindanao (Rehiyon X): Cagayan de Oro",
+      "nickname": "The City of Golden Harvest"
+    },
+    {
+      "city_municipality": "Lungsod ng Dabaw",
+      "province": "Davao del Sur",
+      "region": "Rehiyon ng Davao (Rehiyon XI): Davao City",
+      "nickname": "King City of the South Crown Jewel of Mindanao Fruit Basket of the Philippines Philippines' Little Japan Eco-Adventure Capital of the Philippines Durian Capital of the Philippines City of Royalties"
+    },
+    {
+      "city_municipality": "Digos",
+      "province": "Davao del Sur",
+      "region": "Rehiyon ng Davao (Rehiyon XI): Davao City",
+      "nickname": "City of Sweet Mangoes Clay Capital of Mindanao Gate City of the South Champion City of Good Governance"
+    },
+    {
+      "city_municipality": "Mati",
+      "province": "Davao Oriental",
+      "region": "Rehiyon ng Davao (Rehiyon XI): Davao City",
+      "nickname": "Coconut Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Malita",
+      "province": "Davao Occidental",
+      "region": "Rehiyon ng Davao (Rehiyon XI): Davao City",
+      "nickname": "Banana Capital of Davao Occidental Whaleshark Capital of Mindanao"
+    },
+    {
+      "city_municipality": "Mawab",
+      "province": "Davao de Oro",
+      "region": "Rehiyon ng Davao (Rehiyon XI): Davao City",
+      "nickname": "Bibingka Capital of Davao Region"
+    },
+    {
+      "city_municipality": "Monkayo",
+      "province": "Davao de Oro",
+      "region": "Rehiyon ng Davao (Rehiyon XI): Davao City",
+      "nickname": "Gold Ore Capital of Davao de Oro"
+    },
+    {
+      "city_municipality": "Nabunturan",
+      "province": "Davao de Oro",
+      "region": "Rehiyon ng Davao (Rehiyon XI): Davao City",
+      "nickname": "Home of the Biggest Gold Ring in the Philippines"
+    },
+    {
+      "city_municipality": "Panabo",
+      "province": "Davao del Norte",
+      "region": "Rehiyon ng Davao (Rehiyon XI): Davao City",
+      "nickname": "Banana Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Samal",
+      "province": "Davao del Norte",
+      "region": "Rehiyon ng Davao (Rehiyon XI): Davao City",
+      "nickname": "Island Garden City Philippines' Largest Resort City IGaCoS"
+    },
+    {
+      "city_municipality": "Tagum",
+      "province": "Davao del Norte",
+      "region": "Rehiyon ng Davao (Rehiyon XI): Davao City",
+      "nickname": "Music Capital of the South Palm City of the Philippines City of Golden Opportunities The Little Green Singapore of the South Tourist Capital of the South City of Perfect Harmony City of Parks City of Festivals"
+    },
+    {
+      "city_municipality": "Alamada",
+      "province": "Cotabato",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "Home to the Asik-Asik Falls"
+    },
+    {
+      "city_municipality": "Antipas",
+      "province": "Cotabato",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "The Economic Center of Arakan Valley Complex"
+    },
+    {
+      "city_municipality": "Bagumbayan",
+      "province": "Sultan Kudarat",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "Central Mindanao's new source for export-quality Banana and Pineapple"
+    },
+    {
+      "city_municipality": "Heneral Santos",
+      "province": "",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "The Tuna Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Kidapawan",
+      "province": "Cotabato",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "Spring in the Highlands City of Fruits Second Fruit Basket of the Philippines City at the Foot of Mt. Apo"
+    },
+    {
+      "city_municipality": "Koronadal",
+      "province": "South Cotabato",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "The Ilonggo City of Mindanao The Crown City of the South The Sports Mecca of the South"
+    },
+    {
+      "city_municipality": "Maitum",
+      "province": "Sarangani",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "Sarangani's Cradle of Civilization"
+    },
+    {
+      "city_municipality": "Norala",
+      "province": "South Cotabato",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "Land of the Dreamweavers Rice Bowl of South Cotabato"
+    },
+    {
+      "city_municipality": "President Quirino",
+      "province": "Sultan Kudarat",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "Banana Capital of Sultan Kudarat"
+    },
+    {
+      "city_municipality": "Surallah",
+      "province": "South Cotabato",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "Alternate Provincial Agro-Industrial Center"
+    },
+    {
+      "city_municipality": "Tacurong",
+      "province": "Sultan Kudarat",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "The City of Goodwill Commercial Center of Sultan Kudarat"
+    },
+    {
+      "city_municipality": "Tupi",
+      "province": "South Cotabato",
+      "region": "SOCCSKSARGEN (Rehiyon XII): Koronadal",
+      "nickname": "Fruit, Vegetable and Flower Basket of South Cotabato"
+    },
+    {
+      "city_municipality": "Bayugan",
+      "province": "Agusan del Sur",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "City of Rice, Corn and Flowers Cut Flower Capital of Agusan del Sur Agusan del Sur Growth Center Timberland City Rice Capital of Agusan del Sur"
+    },
+    {
+      "city_municipality": "Bislig",
+      "province": "Surigao del Sur",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "The Booming City by the Bay The City of Wonders The Organic City of the Philippines"
+    },
+    {
+      "city_municipality": "Butuan",
+      "province": "Agusan del Norte",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "Home of the Balangays Caraga's Economic Hub Timber City of the South Premier Forest City"
+    },
+    {
+      "city_municipality": "Cantilan",
+      "province": "Surigao del Sur",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "The Cradle Town"
+    },
+    {
+      "city_municipality": "Dapa",
+      "province": "Surigao del Norte",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "Growth Center of the Beautiful Islands of Siargao"
+    },
+    {
+      "city_municipality": "Dinagat",
+      "province": "Dinagat Islands",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "The Mother Municipality of Dinagat Islands"
+    },
+    {
+      "city_municipality": "Esperanza",
+      "province": "Agusan del Sur",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "Tilapia Capital of Agusan del Sur The Home of Cultural Diversity"
+    },
+    {
+      "city_municipality": "General Luna",
+      "province": "Surigao del Norte",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "Surfing Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Hinatuan",
+      "province": "Surigao del Sur",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "The Home to the Enchanted River"
+    },
+    {
+      "city_municipality": "Lanuza",
+      "province": "Surigao del Sur",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "Surfing Gateway of the Philippines"
+    },
+    {
+      "city_municipality": "Magallanes",
+      "province": "Agusan del Norte",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "Safety Matches Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Nasipit",
+      "province": "Agusan del Norte",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "Gateway to Agusan del Norte"
+    },
+    {
+      "city_municipality": "Placer",
+      "province": "Surigao del Norte",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "The Golden Town"
+    },
+    {
+      "city_municipality": "San Francisco",
+      "province": "Agusan del Sur",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "The Commercial Capital of Agusan del Sur"
+    },
+    {
+      "city_municipality": "San Jose",
+      "province": "Dinagat Islands",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "The Place of Mystical Adventure"
+    },
+    {
+      "city_municipality": "Lungsod ng Surigao",
+      "province": "Surigao del Norte",
+      "region": "Caraga Region (Region XIII): Butuan",
+      "nickname": "City of Island Adventures Gateway to Mindanao"
+    },
+    {
+      "city_municipality": "Lungsod ng Cotabato",
+      "province": "",
+      "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM): Lungsod ng Cotabato",
+      "nickname": "City of Cultural Charms City of Rivers and Creeks Tagalog City of Mindanao Stone Fortress of Mindanao Halal Capital of the Philippines"
+    },
+    {
+      "city_municipality": "Jolo",
+      "province": "Sulu",
+      "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM): Lungsod ng Cotabato",
+      "nickname": "Home to Mindanao's Original Royalties"
+    },
+    {
+      "city_municipality": "Lamitan",
+      "province": "Basilan",
+      "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM): Lungsod ng Cotabato",
+      "nickname": "Lami-Lamihan City"
+    },
+    {
+      "city_municipality": "Marawi",
+      "province": "Lanao del Sur",
+      "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM): Lungsod ng Cotabato",
+      "nickname": "The Only Islamic City in the Philippines"
+    },
+    {
+      "city_municipality": "Shariff Aguak",
+      "province": "Maguindanao",
+      "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM): Lungsod ng Cotabato",
+      "nickname": "Maguindanao's Political Dynasty Town"
+    },
+    {
+      "city_municipality": "Sibutu",
+      "province": "Tawi-Tawi",
+      "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM): Lungsod ng Cotabato",
+      "nickname": "Home to the descendants of Malay Royalty in Borneo"
+    },
+    {
+      "city_municipality": "Simunul",
+      "province": "Tawi-Tawi",
+      "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM): Lungsod ng Cotabato",
+      "nickname": "The site of Oldest Mosque in the Philippines and Home of Sheikh Makdum"
+    },
+    {
+      "city_municipality": "Sitangkai",
+      "province": "Tawi-Tawi",
+      "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM): Lungsod ng Cotabato",
+      "nickname": "Southernmost Municipality in the Philippines; known as \"Venice of the South\""
+    }
+  ],
+  "meta": {
+    "title": "Mga Palayaw ng mga Lungsod at Bayan sa Pilipinas - Free Download",
+    "description": "Mga kilalang palayaw (bansag) ng mga lungsod at munisipalidad sa Pilipinas, ayon sa lalawigan at rehiyon. Contains 433 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Palayaw ng mga Lungsod at Bayan sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Palayaw ng mga Lungsod at Bayan sa Pilipinas — 433 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 433 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_palayaw_ng_mga_lungsod_at_bayan_sa_Pilipinas"
+    ]
+  }
+}
