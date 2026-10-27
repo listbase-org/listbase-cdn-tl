@@ -1,12 +1,16 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:46.071Z",
-  "total_datasets": 447,
-  "total_records": 442843,
+  "generated": "2026-10-27T02:17:48.595Z",
+  "total_datasets": 448,
+  "total_records": 442853,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 39
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -1528,6 +1532,34 @@
         "xlsx": {
           "name": "tl-zamboanga-peninsula-simbahan_TL.xlsx",
           "size": 7625
+        }
+      }
+    },
+    {
+      "id": "tl-padala-pinakamalaking-tumatanggap",
+      "name": "Mga Bansang Pinakamalaking Tumatanggap ng Padala (Remittance)",
+      "category": "economy",
+      "record_count": 10,
+      "columns": [
+        "country",
+        "remittances_2012",
+        "remittances_2013",
+        "remittances_2014",
+        "remittances_2015",
+        "remittances_2016",
+        "remittances_2017"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Padala",
+      "updated": "2026-10",
+      "size": 4384,
+      "files": {
+        "csv": {
+          "name": "tl-padala-pinakamalaking-tumatanggap_TL.csv",
+          "size": 637
+        },
+        "xlsx": {
+          "name": "tl-padala-pinakamalaking-tumatanggap_TL.xlsx",
+          "size": 7194
         }
       }
     },

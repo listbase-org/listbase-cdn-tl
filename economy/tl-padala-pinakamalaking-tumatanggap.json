@@ -1,0 +1,151 @@
+{
+  "id": "tl-padala-pinakamalaking-tumatanggap",
+  "name": "Mga Bansang Pinakamalaking Tumatanggap ng Padala (Remittance)",
+  "title": "Mga Bansang Pinakamalaking Tumatanggap ng Padala (Remittance)",
+  "description": "Mga bansang may pinakamalaking natatanggap na padala mula sa mga manggagawa sa ibayong-dagat, kasama ang Pilipinas (bilyong dolyar), 2012–2017.",
+  "category": "economy",
+  "source": "https://tl.wikipedia.org/wiki/Padala",
+  "source_url": "https://tl.wikipedia.org/wiki/Padala",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "remittances_2012",
+      "label": "Remittances 2012",
+      "type": "number"
+    },
+    {
+      "key": "remittances_2013",
+      "label": "Remittances 2013",
+      "type": "number"
+    },
+    {
+      "key": "remittances_2014",
+      "label": "Remittances 2014",
+      "type": "number"
+    },
+    {
+      "key": "remittances_2015",
+      "label": "Remittances 2015",
+      "type": "number"
+    },
+    {
+      "key": "remittances_2016",
+      "label": "Remittances 2016",
+      "type": "number"
+    },
+    {
+      "key": "remittances_2017",
+      "label": "Remittances 2017",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Indiya",
+      "remittances_2012": 68.82,
+      "remittances_2013": 69.97,
+      "remittances_2014": 70.97,
+      "remittances_2015": 72.2,
+      "remittances_2016": 62.7,
+      "remittances_2017": 69
+    },
+    {
+      "country": "Tsina",
+      "remittances_2012": 57.99,
+      "remittances_2013": 59.49,
+      "remittances_2014": 61.49,
+      "remittances_2015": 63.9,
+      "remittances_2016": 61,
+      "remittances_2017": 64
+    },
+    {
+      "country": "Pilipinas",
+      "remittances_2012": 24.61,
+      "remittances_2013": 26.7,
+      "remittances_2014": 27.9,
+      "remittances_2015": 29.8,
+      "remittances_2016": 29.9,
+      "remittances_2017": 33
+    },
+    {
+      "country": "Mehiko",
+      "remittances_2012": 23.37,
+      "remittances_2013": 23.02,
+      "remittances_2014": 24.5,
+      "remittances_2015": 25.7,
+      "remittances_2016": 28.5,
+      "remittances_2017": 31
+    },
+    {
+      "country": "Niherya",
+      "remittances_2012": 20.63,
+      "remittances_2013": 20.89,
+      "remittances_2014": 20.88,
+      "remittances_2015": 20.89,
+      "remittances_2016": 19,
+      "remittances_2017": 22
+    },
+    {
+      "country": "Pakistan",
+      "remittances_2012": 14.01,
+      "remittances_2013": 14.63,
+      "remittances_2014": 17.8,
+      "remittances_2015": 20.1,
+      "remittances_2016": 19.8,
+      "remittances_2017": 20
+    },
+    {
+      "country": "Egypt",
+      "remittances_2012": 19.24,
+      "remittances_2013": 17.83,
+      "remittances_2014": 19.83,
+      "remittances_2015": 20.4,
+      "remittances_2016": 16.6,
+      "remittances_2017": 20
+    },
+    {
+      "country": "Biyetnam",
+      "remittances_2012": 10,
+      "remittances_2013": 11,
+      "remittances_2014": 11.8,
+      "remittances_2015": 12.3,
+      "remittances_2016": 13.4,
+      "remittances_2017": 14
+    },
+    {
+      "country": "Bangladesh",
+      "remittances_2012": 14.24,
+      "remittances_2013": 13.86,
+      "remittances_2014": 15.1,
+      "remittances_2015": 15.8,
+      "remittances_2016": 13.7,
+      "remittances_2017": 13
+    },
+    {
+      "country": "Nepal",
+      "remittances_2012": 5.88,
+      "remittances_2013": 6.01,
+      "remittances_2014": 5.29,
+      "remittances_2015": 5.8,
+      "remittances_2016": 6.4,
+      "remittances_2017": 6.68
+    }
+  ],
+  "meta": {
+    "title": "Mga Bansang Pinakamalaking Tumatanggap ng Padala (Remittance) - Free Download",
+    "description": "Mga bansang may pinakamalaking natatanggap na padala mula sa mga manggagawa sa ibayong-dagat, kasama ang Pilipinas (bilyong dolyar), 2012–2017. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Bansang Pinakamalaking Tumatanggap ng Padala (Remittance) | ListBase",
+    "seo_description": "Download Mga Bansang Pinakamalaking Tumatanggap ng Padala (Remittance) — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Padala"
+    ]
+  }
+}
