@@ -1,9 +1,13 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:18:04.183Z",
-  "total_datasets": 454,
-  "total_records": 443462,
+  "generated": "2026-10-27T02:18:06.559Z",
+  "total_datasets": 455,
+  "total_records": 443480,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 40
@@ -94,6 +98,35 @@
     }
   ],
   "datasets": [
+    {
+      "id": "tl-produksyon-agrikultura-rehiyon",
+      "name": "Produksiyon ng mga Produktong Agrikultural ayon sa Rehiyon",
+      "category": "agriculture",
+      "record_count": 18,
+      "columns": [
+        "region",
+        "rice",
+        "corn",
+        "coconut",
+        "sugarcane",
+        "pineapple",
+        "watermelon",
+        "banana"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Agrikultura_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 5920,
+      "files": {
+        "csv": {
+          "name": "tl-produksyon-agrikultura-rehiyon_TL.csv",
+          "size": 1408
+        },
+        "xlsx": {
+          "name": "tl-produksyon-agrikultura-rehiyon_TL.xlsx",
+          "size": 7945
+        }
+      }
+    },
     {
       "id": "tl-bangsamoro-bantayog-pangkasaysayan",
       "name": "Makasaysayang Pananda ng NHCP — Bangsamoro (BARMM)",

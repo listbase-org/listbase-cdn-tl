@@ -1,0 +1,246 @@
+{
+  "id": "tl-produksyon-agrikultura-rehiyon",
+  "name": "Produksiyon ng mga Produktong Agrikultural ayon sa Rehiyon",
+  "title": "Produksiyon ng mga Produktong Agrikultural ayon sa Rehiyon",
+  "description": "Ilan sa mga pangunahing produktong agrikultural ng Pilipinas (bigas, mais, niyog, tubo, pinya, pakwan, saging) sa bawat rehiyon.",
+  "category": "agriculture",
+  "source": "https://tl.wikipedia.org/wiki/Agrikultura_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Agrikultura_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "rice",
+      "label": "Rice",
+      "type": "number"
+    },
+    {
+      "key": "corn",
+      "label": "Corn",
+      "type": "number"
+    },
+    {
+      "key": "coconut",
+      "label": "Coconut",
+      "type": "number"
+    },
+    {
+      "key": "sugarcane",
+      "label": "Sugarcane",
+      "type": "number"
+    },
+    {
+      "key": "pineapple",
+      "label": "Pineapple",
+      "type": "number"
+    },
+    {
+      "key": "watermelon",
+      "label": "Watermelon",
+      "type": "number"
+    },
+    {
+      "key": "banana",
+      "label": "Banana",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Ilocos",
+      "rice": 1777122,
+      "corn": 490943,
+      "coconut": 39463,
+      "sugarcane": 19512,
+      "pineapple": 197,
+      "watermelon": 26936,
+      "banana": 43164
+    },
+    {
+      "region": "Cordillera (CAR)",
+      "rice": 400911,
+      "corn": 237823,
+      "coconut": 1165,
+      "sugarcane": 51787,
+      "pineapple": 814,
+      "watermelon": 141,
+      "banana": 26576
+    },
+    {
+      "region": "Lambak ng Cagayan",
+      "rice": 2489647,
+      "corn": 1801194,
+      "coconut": 77118,
+      "sugarcane": 583808,
+      "pineapple": 35129,
+      "watermelon": 7416,
+      "banana": 384134
+    },
+    {
+      "region": "Gitnang Luzon",
+      "rice": 3304310,
+      "corn": 271319,
+      "coconut": 167737,
+      "sugarcane": 678439,
+      "pineapple": 1657,
+      "watermelon": 7103,
+      "banana": 58439
+    },
+    {
+      "region": "NCR",
+      "rice": 0,
+      "corn": 0,
+      "coconut": 0,
+      "sugarcane": 0,
+      "pineapple": 0,
+      "watermelon": 0,
+      "banana": 0
+    },
+    {
+      "region": "CALABARZON",
+      "rice": 392907,
+      "corn": 64823,
+      "coconut": 1379297,
+      "sugarcane": 1741706,
+      "pineapple": 88660,
+      "watermelon": 2950,
+      "banana": 96306
+    },
+    {
+      "region": "MIMAROPA",
+      "rice": 1081833,
+      "corn": 125492,
+      "coconut": 818146,
+      "sugarcane": 0,
+      "pineapple": 448,
+      "watermelon": 3192,
+      "banana": 168299
+    },
+    {
+      "region": "Kabikulan",
+      "rice": 1264448,
+      "corn": 243908,
+      "coconut": 1105743,
+      "sugarcane": 239010,
+      "pineapple": 130595,
+      "watermelon": 5598,
+      "banana": 76452
+    },
+    {
+      "region": "Kanlurang Kabisayaan",
+      "rice": 1565585,
+      "corn": 213362,
+      "coconut": 294547,
+      "sugarcane": 1682940,
+      "pineapple": 12687,
+      "watermelon": 83336,
+      "banana": 200222
+    },
+    {
+      "region": "Rehiyon ng Pulo ng Negros",
+      "rice": 557632,
+      "corn": 185747,
+      "coconut": 274315,
+      "sugarcane": 13440259,
+      "pineapple": 9468,
+      "watermelon": 546,
+      "banana": 157974
+    },
+    {
+      "region": "Gitnang Kabisayaan",
+      "rice": 269801,
+      "corn": 101333,
+      "coconut": 274069,
+      "sugarcane": 241573,
+      "pineapple": 998,
+      "watermelon": 1161,
+      "banana": 126220
+    },
+    {
+      "region": "Silangang Kabisayaan",
+      "rice": 955709,
+      "corn": 91145,
+      "coconut": 1165867,
+      "sugarcane": 179363,
+      "pineapple": 7186,
+      "watermelon": 670,
+      "banana": 227223
+    },
+    {
+      "region": "Tangway ng Zamboanga",
+      "rice": 661775,
+      "corn": 220180,
+      "coconut": 1682121,
+      "sugarcane": 107,
+      "pineapple": 1657,
+      "watermelon": 638,
+      "banana": 281856
+    },
+    {
+      "region": "Hilagang Mindanao",
+      "rice": 725120,
+      "corn": 1216301,
+      "coconut": 1851702,
+      "sugarcane": 3065463,
+      "pineapple": 1468386,
+      "watermelon": 2024,
+      "banana": 1832173
+    },
+    {
+      "region": "Rehiyon ng Davao",
+      "rice": 441868,
+      "corn": 224100,
+      "coconut": 2246188,
+      "sugarcane": 208743,
+      "pineapple": 26880,
+      "watermelon": 1070,
+      "banana": 3455014
+    },
+    {
+      "region": "Soccsksargen",
+      "rice": 1291644,
+      "corn": 1239275,
+      "coconut": 1159818,
+      "sugarcane": 680383,
+      "pineapple": 794334,
+      "watermelon": 2132,
+      "banana": 1159091
+    },
+    {
+      "region": "Caraga",
+      "rice": 653431,
+      "corn": 118774,
+      "coconut": 804722,
+      "sugarcane": 0,
+      "pineapple": 2682,
+      "watermelon": 3010,
+      "banana": 259738
+    },
+    {
+      "region": "ARMM",
+      "rice": 488215,
+      "corn": 673036,
+      "coconut": 1393168,
+      "sugarcane": 113343,
+      "pineapple": 921,
+      "watermelon": 80,
+      "banana": 531048
+    }
+  ],
+  "meta": {
+    "title": "Produksiyon ng mga Produktong Agrikultural ayon sa Rehiyon - Free Download",
+    "description": "Ilan sa mga pangunahing produktong agrikultural ng Pilipinas (bigas, mais, niyog, tubo, pinya, pakwan, saging) sa bawat rehiyon. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produksiyon ng mga Produktong Agrikultural ayon sa Rehiyon | ListBase",
+    "seo_description": "Download Produksiyon ng mga Produktong Agrikultural ayon sa Rehiyon — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Agrikultura_sa_Pilipinas"
+    ]
+  }
+}
