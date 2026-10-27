@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:28.493Z",
-  "total_datasets": 440,
-  "total_records": 442682,
+  "generated": "2026-10-27T02:17:30.943Z",
+  "total_datasets": 441,
+  "total_records": 442694,
   "categories": [
     {
       "id": "culture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tech",
@@ -13000,6 +13000,32 @@
         "xlsx": {
           "name": "tl-medalya-ng-pilipinas-sea-games-2019_TL.xlsx",
           "size": 26400
+        }
+      }
+    },
+    {
+      "id": "tl-mga-koponan-ng-pba",
+      "name": "Mga Koponan ng Philippine Basketball Association (PBA)",
+      "category": "sports",
+      "record_count": 12,
+      "columns": [
+        "team",
+        "company",
+        "joined",
+        "championships",
+        "head_coach"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Philippine_Basketball_Association",
+      "updated": "2026-10",
+      "size": 4009,
+      "files": {
+        "csv": {
+          "name": "tl-mga-koponan-ng-pba_TL.csv",
+          "size": 1063
+        },
+        "xlsx": {
+          "name": "tl-mga-koponan-ng-pba_TL.xlsx",
+          "size": 7548
         }
       }
     },

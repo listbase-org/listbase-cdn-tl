@@ -1,0 +1,135 @@
+{
+  "id": "tl-mga-koponan-ng-pba",
+  "name": "Mga Koponan ng Philippine Basketball Association (PBA)",
+  "title": "Mga Koponan ng Philippine Basketball Association (PBA)",
+  "description": "Mga kasalukuyang koponan ng PBA: kumpanyang may-ari, taon ng pagsali, bilang ng kampiyonato at punong tagagabay.",
+  "category": "sports",
+  "source": "https://tl.wikipedia.org/wiki/Philippine_Basketball_Association",
+  "source_url": "https://tl.wikipedia.org/wiki/Philippine_Basketball_Association",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "team",
+      "label": "Team",
+      "type": "string"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "joined",
+      "label": "Joined",
+      "type": "number"
+    },
+    {
+      "key": "championships",
+      "label": "Championships",
+      "type": "number"
+    },
+    {
+      "key": "head_coach",
+      "label": "Head Coach",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "team": "Barangay Ginebra San Miguel",
+      "company": "Ginebra San Miguel, Inc. ♯",
+      "joined": 1979,
+      "championships": 14,
+      "head_coach": "Tim Cone"
+    },
+    {
+      "team": "Blackwater Bossing",
+      "company": "Ever Bilena Cosmetics, Inc.",
+      "joined": 2014,
+      "championships": 0,
+      "head_coach": "Nash Racela"
+    },
+    {
+      "team": "Converge FiberXers",
+      "company": "Converge ICT Solutions, Inc.",
+      "joined": 2022,
+      "championships": 0,
+      "head_coach": "Jeffrey Cariaso"
+    },
+    {
+      "team": "Magnolia Chicken Timplados Hotshots",
+      "company": "San Miguel Food and Beverage ♯",
+      "joined": 1988,
+      "championships": 14,
+      "head_coach": "Chito Victolero"
+    },
+    {
+      "team": "Meralco Bolts",
+      "company": "Manila Electric Company °",
+      "joined": 2010,
+      "championships": 0,
+      "head_coach": "Norman Black"
+    },
+    {
+      "team": "NLEX Road Warriors",
+      "company": "Manila North Tollways Corporation °",
+      "joined": 2014,
+      "championships": 0,
+      "head_coach": "Jong Uichico"
+    },
+    {
+      "team": "Phoenix Super LPG Fuel Masters",
+      "company": "Phoenix Petroleum Philippines, Inc.",
+      "joined": 2016,
+      "championships": 0,
+      "head_coach": "Topex Robinson"
+    },
+    {
+      "team": "Rain or Shine Elasto Painters",
+      "company": "Asian Coatings Philippines, Inc.",
+      "joined": 2006,
+      "championships": 2,
+      "head_coach": "Chris Gavina"
+    },
+    {
+      "team": "San Miguel Beermen",
+      "company": "San Miguel Brewery, Inc. ♯",
+      "joined": 1975,
+      "championships": 27,
+      "head_coach": "Leo Austria"
+    },
+    {
+      "team": "Terrafirma Dyip",
+      "company": "Terrafirma Realty Development Corporation",
+      "joined": 2014,
+      "championships": 0,
+      "head_coach": "Johnedel Cardel"
+    },
+    {
+      "team": "Titan Ultra Giant Risers",
+      "company": "Pureblends Corporation",
+      "joined": 2025,
+      "championships": 0,
+      "head_coach": "Rensy Bajar"
+    },
+    {
+      "team": "TNT Tropang 5G",
+      "company": "Smart Communications °",
+      "joined": 1990,
+      "championships": 8,
+      "head_coach": "Chot Reyes"
+    }
+  ],
+  "meta": {
+    "title": "Mga Koponan ng Philippine Basketball Association (PBA) - Free Download",
+    "description": "Mga kasalukuyang koponan ng PBA: kumpanyang may-ari, taon ng pagsali, bilang ng kampiyonato at punong tagagabay. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Koponan ng Philippine Basketball Association (PBA) | ListBase",
+    "seo_description": "Download Mga Koponan ng Philippine Basketball Association (PBA) — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Philippine_Basketball_Association"
+    ]
+  }
+}
