@@ -1,0 +1,403 @@
+{
+  "id": "tl-mga-websayt-na-nakaharang",
+  "name": "Mga Websayt na Nakaharang sa Pilipinas",
+  "title": "Mga Websayt na Nakaharang sa Pilipinas",
+  "description": "Talaan ng mga websayt na hinarangan sa Pilipinas: URL, kategorya, wika, petsa ng pagkaharang, katayuan sa mga ISP at dahilan (batas o kautusan).",
+  "category": "tech",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_websayt_na_nakaharang_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_websayt_na_nakaharang_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "blocked_since",
+      "label": "Blocked Since",
+      "type": "string"
+    },
+    {
+      "key": "isp_status",
+      "label": "Isp Status",
+      "type": "string"
+    },
+    {
+      "key": "reason",
+      "label": "Reason",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "website": "Pornhub",
+      "url": "www.pornhub.com",
+      "category": "Pornograpiya",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Enero 14–16, 2017–Kasalukuyan",
+      "isp_status": "Bahagyang Naka-harang sa ilang ISP ( NTC 2017)",
+      "reason": "Batas Republika Blg. 9775 (Batas Laban sa Paggawa at Pagpapalaganap ng Pornograpiya sa Bata) at Batas Republika Blg. 7610 (Batas Para sa Natatanging Pagprotekta sa mga Bata Laban sa Pang-aabuso, Eksploytasyon at Diskriminasyon)."
+    },
+    {
+      "website": "XVideos",
+      "url": "www.xvideos.com",
+      "category": "Pornograpiya",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Enero 14–16, 2017–Kasalukuyan",
+      "isp_status": "Bahagyang Naka-harang sa ilang ISP",
+      "reason": "Batas Republika Blg. 9775 (Batas Laban sa Paggawa at Pagpapalaganap ng Pornograpiya sa Bata) at Batas Republika Blg. 7610 (Batas Para sa Natatanging Pagprotekta sa mga Bata Laban sa Pang-aabuso, Eksploytasyon at Diskriminasyon)."
+    },
+    {
+      "website": "XHamster",
+      "url": "www.xhamster.com",
+      "category": "Pornograpiya",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Enero 14–16, 2017–Kasalukuyan",
+      "isp_status": "Bahagyang Naka-harang sa ilang ISP",
+      "reason": "Batas Republika Blg. 9775 (Batas Laban sa Paggawa at Pagpapalaganap ng Pornograpiya sa Bata) at Batas Republika Blg. 7610 (Batas Para sa Natatanging Pagprotekta sa mga Bata Laban sa Pang-aabuso, Eksploytasyon at Diskriminasyon)."
+    },
+    {
+      "website": "RedTube",
+      "url": "www.redtube.com",
+      "category": "Pornograpiya",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Enero 14–16, 2017–Kasalukuyan",
+      "isp_status": "Bahagyang Naka-harang sa ilang ISP",
+      "reason": "Batas Republika Blg. 9775 (Batas Laban sa Paggawa at Pagpapalaganap ng Pornograpiya sa Bata) at Batas Republika Blg. 7610 (Batas Para sa Natatanging Pagprotekta sa mga Bata Laban sa Pang-aabuso, Eksploytasyon at Diskriminasyon)."
+    },
+    {
+      "website": "Motherless",
+      "url": "motherless.com",
+      "category": "Pornograpiya",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Enero 14–16, 2017–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Batas Republika Blg. 9775 (Batas Laban sa Paggawa at Pagpapalaganap ng Pornograpiya sa Bata) at Batas Republika Blg. 7610 (Batas Para sa Natatanging Pagprotekta sa mga Bata Laban sa Pang-aabuso, Eksploytasyon at Diskriminasyon)."
+    },
+    {
+      "website": "YouPorn",
+      "url": "www.youporn.com",
+      "category": "Pornograpiya",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Enero 14–16, 2017–Kasalukuyan",
+      "isp_status": "Bahagyang Naka-harang sa ilang ISP",
+      "reason": "Batas Republika Blg. 9775 (Batas Laban sa Paggawa at Pagpapalaganap ng Pornograpiya sa Bata) at Batas Republika Blg. 7610 (Batas Para sa Natatanging Pagprotekta sa mga Bata Laban sa Pang-aabuso, Eksploytasyon at Diskriminasyon)."
+    },
+    {
+      "website": "ThisVid",
+      "url": "www.thisvid.com",
+      "category": "Pornograpiya",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Enero 14–16, 2017–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Batas Republika Blg. 9775 (Batas Laban sa Paggawa at Pagpapalaganap ng Pornograpiya sa Bata) at Batas Republika Blg. 7610 (Batas Para sa Natatanging Pagprotekta sa mga Bata Laban sa Pang-aabuso, Eksploytasyon at Diskriminasyon). - DNS filtering ang gamit sa pang harang ng websayt."
+    },
+    {
+      "website": "alt.sex.stories",
+      "url": "asstr.org",
+      "category": "Panitikang erotiko",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Enero 1, 2023–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Maaaring naglalaman ng erotikong nilalaman na hindi sumusunod sa mga patakaran ng NTC at maaaring may kasamang hindi naaangkop o ilegal na materyal"
+    },
+    {
+      "website": "Binance",
+      "url": "www.binance.com",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Hunyo 2024–Kasalukuyan ( Naa-access pa ang mobile app at desktop app ng binance )",
+      "isp_status": "Naka-harang",
+      "reason": "Hindi nagbibigay ng lisensiya, buwis o regulasyon sa Bangko Sentral ng Pilipinas (BSP) at Komisyon sa mga Sapi at Palitan; lumalabag sa Regulasyon sa mga Serbisyong Pinansyal at Mga Batas Laban sa Money Laundering ."
+    },
+    {
+      "website": "Binance (Estados Unidos)",
+      "url": "www.binance.us",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Ingles (Estados Unidos)",
+      "blocked_since": "Hindi Naka-harang",
+      "isp_status": "Di-Nakaharang",
+      "reason": "Dahil meron lamang ito sa Estados Unidos at sumusunod lamang sa mga regulasyon ng batas ng Amerika."
+    },
+    {
+      "website": "Bitget",
+      "url": "www.bitget.com",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Agosto 1, 2025–Kasalukuyan ( Naa-access pa ang mobile app at desktop app nito )",
+      "isp_status": "Naka-harang",
+      "reason": "Nag-operate sa Pilipinas nang walang kinakailangang lisensya o rehistrasyon mula sa SEC bilang isang Tagapagbigay ng Serbisyo sa Crypto Asset (TSC), na lumalabag sa SEC Memorandum Circular Blg. 4 at 5 (2025) alinsunod sa Batas sa Mga Crypto Asset, na nag-aatas ng lokal na rehistrasyon, pisikal na presensya ng opisina, kinakailangang kapital, at pagsusumite ng ulat para sa pagsunod."
+    },
+    {
+      "website": "BitMart",
+      "url": "www.bitmart.com",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Agosto 1, 2025–Kasalukuyan ( Naa-access pa ang mobile app at desktop app nito )",
+      "isp_status": "Naka-harang",
+      "reason": "Nag-operate sa Pilipinas nang walang kinakailangang lisensya o rehistrasyon mula sa SEC bilang isang Tagapagbigay ng Serbisyo sa Crypto Asset (TSC), na lumalabag sa SEC Memorandum Circular Blg. 4 at 5 (2025) alinsunod sa Batas sa Mga Crypto Asset, na nag-aatas ng lokal na rehistrasyon, pisikal na presensya ng opisina, kinakailangang kapital, at pagsusumite ng ulat para sa pagsunod."
+    },
+    {
+      "website": "Bybit",
+      "url": "www.bybit.com",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Agosto 1, 2025–Kasalukuyan ( Naa-access pa ang mobile app at desktop app nito )",
+      "isp_status": "Naka-harang",
+      "reason": "Nag-operate sa Pilipinas nang walang kinakailangang lisensya o rehistrasyon mula sa SEC bilang isang Tagapagbigay ng Serbisyo sa Crypto Asset (TSC), na lumalabag sa SEC Memorandum Circular Blg. 4 at 5 (2025) alinsunod sa Batas sa Mga Crypto Asset, na nag-aatas ng lokal na rehistrasyon, pisikal na presensya ng opisina, kinakailangang kapital, at pagsusumite ng ulat para sa pagsunod."
+    },
+    {
+      "website": "CoinEx",
+      "url": "www.coinex.com",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Agosto 1, 2025–Kasalukuyan ( Naa-access pa ang mobile app at desktop app nito )",
+      "isp_status": "Naka-harang",
+      "reason": "Nag-operate sa Pilipinas nang walang kinakailangang lisensya o rehistrasyon mula sa SEC bilang isang Tagapagbigay ng Serbisyo sa Crypto Asset (TSC), na lumalabag sa SEC Memorandum Circular Blg. 4 at 5 (2025) alinsunod sa Batas sa Mga Crypto Asset, na nag-aatas ng lokal na rehistrasyon, pisikal na presensya ng opisina, kinakailangang kapital, at pagsusumite ng ulat para sa pagsunod."
+    },
+    {
+      "website": "Kraken",
+      "url": "www.kraken.com",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Agosto 1, 2025–Kasalukuyan ( Naa-access pa ang mobile app at desktop app nito )",
+      "isp_status": "Naka-harang",
+      "reason": "Nag-operate sa Pilipinas nang walang kinakailangang lisensya o rehistrasyon mula sa SEC bilang isang Tagapagbigay ng Serbisyo sa Crypto Asset (TSC), na lumalabag sa SEC Memorandum Circular Blg. 4 at 5 (2025) alinsunod sa Batas sa Mga Crypto Asset, na nag-aatas ng lokal na rehistrasyon, pisikal na presensya ng opisina, kinakailangang kapital, at pagsusumite ng ulat para sa pagsunod."
+    },
+    {
+      "website": "KuCoin",
+      "url": "www.kucoin.com",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Agosto 1, 2025–Kasalukuyan ( Naa-access pa ang mobile app at desktop app nito )",
+      "isp_status": "Naka-harang",
+      "reason": "Nag-operate sa Pilipinas nang walang kinakailangang lisensya o rehistrasyon mula sa SEC bilang isang Tagapagbigay ng Serbisyo sa Crypto Asset (TSC), na lumalabag sa SEC Memorandum Circular Blg. 4 at 5 (2025) alinsunod sa Batas sa Mga Crypto Asset, na nag-aatas ng lokal na rehistrasyon, pisikal na presensya ng opisina, kinakailangang kapital, at pagsusumite ng ulat para sa pagsunod."
+    },
+    {
+      "website": "MEXC",
+      "url": "www.mexc.com",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Agosto 1, 2025–Kasalukuyan ( Naa-access pa ang mobile app at desktop app nito )",
+      "isp_status": "Naka-harang",
+      "reason": "Nag-operate sa Pilipinas nang walang kinakailangang lisensya o rehistrasyon mula sa SEC bilang isang Tagapagbigay ng Serbisyo sa Crypto Asset (TSC), na lumalabag sa SEC Memorandum Circular Blg. 4 at 5 (2025) alinsunod sa Batas sa Mga Crypto Asset, na nag-aatas ng lokal na rehistrasyon, pisikal na presensya ng opisina, kinakailangang kapital, at pagsusumite ng ulat para sa pagsunod."
+    },
+    {
+      "website": "OKX",
+      "url": "www.okx.com",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Agosto 1, 2025–Kasalukuyan ( Naa-access pa ang mobile app at desktop app nito )",
+      "isp_status": "Naka-harang",
+      "reason": "Nag-operate sa Pilipinas nang walang kinakailangang lisensya o rehistrasyon mula sa SEC bilang isang Tagapagbigay ng Serbisyo sa Crypto Asset (TSC), na lumalabag sa SEC Memorandum Circular Blg. 4 at 5 (2025) alinsunod sa Batas sa Mga Crypto Asset, na nag-aatas ng lokal na rehistrasyon, pisikal na presensya ng opisina, kinakailangang kapital, at pagsusumite ng ulat para sa pagsunod."
+    },
+    {
+      "website": "Phemex",
+      "url": "www.okx.com",
+      "category": "Salaping Kripto (Cryptocurrency)",
+      "language": "Maraming Wika/Multilingguwal",
+      "blocked_since": "Agosto 1, 2025–Kasalukuyan ( Naa-access pa ang mobile app at desktop app nito )",
+      "isp_status": "Naka-harang",
+      "reason": "Nag-operate sa Pilipinas nang walang kinakailangang lisensya o rehistrasyon mula sa SEC bilang isang Tagapagbigay ng Serbisyo sa Crypto Asset (TSC), na lumalabag sa SEC Memorandum Circular Blg. 4 at 5 (2025) alinsunod sa Batas sa Mga Crypto Asset, na nag-aatas ng lokal na rehistrasyon, pisikal na presensya ng opisina, kinakailangang kapital, at pagsusumite ng ulat para sa pagsunod."
+    },
+    {
+      "website": "anonym",
+      "url": "anonym.to",
+      "category": "Redirect tool upang itago ang pinanggalingang site.",
+      "language": "Multilingual",
+      "blocked_since": "Enero 1, 2023–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Maaaring ginagamit upang itago ang aktwal na destinasyon ng mga link, na nagiging hadlang sa pagsubaybay ng ilegal na nilalaman at maaaring maglaman ng malisyosong link."
+    },
+    {
+      "website": "Trendsmap",
+      "url": "trendsmap.com",
+      "category": "Analitika ng social media",
+      "language": "Sumusuporta lamang sa ilang wika, ngunit nakatuon lamang sa Ingles.",
+      "blocked_since": "Enero 1, 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Maaaring naglalaman o nagpapakita ng mga real-time na datos o lokasyon ng aktibidad sa social media (tulad ng Twitter/X) na maaaring gamitin para sa disimpormasyon o mapanganib na layunin."
+    },
+    {
+      "website": "YTS (kilala rin bilang YIFY Torrents)",
+      "url": "yts.mx",
+      "category": "Torrent website na she-share ng mga pirata o copyright na pelikula gamit ang torrent.",
+      "language": "Multilingual",
+      "blocked_since": "Mayo 18, 2024–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Batas Republika Blg. 8293 (Kodigo sa Ari-ariang Intelektwal ng Pilipinas)"
+    },
+    {
+      "website": "PokerStars",
+      "url": "pokerstars.com",
+      "category": "Online poker",
+      "language": "Ingles",
+      "blocked_since": "Mayo 3, 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Batas Republika Blg. 9287 (Batas para sa Pagpapabigat ng Parusa sa Ipinagbabawal na Palarong Pataya sa Numero)"
+    },
+    {
+      "website": "Betfair",
+      "url": "betfair.com",
+      "category": "Sports betting",
+      "language": "Ingles",
+      "blocked_since": "Mayo 3, 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Batas Republika Blg. 9287 (Batas para sa Pagpapabigat ng Parusa sa Ipinagbabawal na Palarong Pataya sa Numero)"
+    },
+    {
+      "website": "PartyPoker",
+      "url": "partypoker.com",
+      "category": "Online poker",
+      "language": "Ingles",
+      "blocked_since": "Mayo 3, 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Batas Republika Blg. 9287 (Batas para sa Pagpapabigat ng Parusa sa Ipinagbabawal na Palarong Pataya sa Numero)"
+    },
+    {
+      "website": "888 Casino",
+      "url": "888casino.com",
+      "category": "Casino games",
+      "language": "Ingles",
+      "blocked_since": "Mayo 3, 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Batas Republika Blg. 9287 (Batas para sa Pagpapabigat ng Parusa sa Ipinagbabawal na Palarong Pataya sa Numero)"
+    },
+    {
+      "website": "Golden Palace",
+      "url": "goldenpalace.com",
+      "category": "Casino games",
+      "language": "Ingles",
+      "blocked_since": "Mayo 3, 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Batas Republika Blg. 9287 (Batas para sa Pagpapabigat ng Parusa sa Ipinagbabawal na Palarong Pataya sa Numero)"
+    },
+    {
+      "website": "Bulatlat",
+      "url": "www.bulatlat.com",
+      "category": "Alternatibong media",
+      "language": "Ingles at Filipino",
+      "blocked_since": "Hunyo 2022–Kasalukuyan",
+      "isp_status": "Bahagyang Naka-harang sa ilang ISP",
+      "reason": "Red-tagging; paglabag umano sa Anti-Terrorism Law."
+    },
+    {
+      "website": "Bagong Alyansang Makabayan",
+      "url": "www.bayan.ph",
+      "category": "Progresibong grupo",
+      "language": "Filipino",
+      "blocked_since": "Hunyo 2022–Kasalukuyan",
+      "isp_status": "Bahagyang Naka-harang sa ilang ISP",
+      "reason": "Umano'y koneksyon sa CPP-NPA; alinsunod sa Anti-Terrorism Law."
+    },
+    {
+      "website": "CounterPunch",
+      "url": "counterpunch.org",
+      "category": "Amerikanong alternatibong media",
+      "language": "Ingles",
+      "blocked_since": "Hunyo 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Propaganda umano ng komunista"
+    },
+    {
+      "website": "Partido Komunista ng Pilipinas ( Communist Party of the Philippines )",
+      "url": "cpp.ph (nagre-redirekta sa philippinerevolution.nu)",
+      "category": "Sangay ng midya ng CPP",
+      "language": "Filipino",
+      "blocked_since": "Hunyo 6, 2022–Kasalukuyan",
+      "isp_status": "Naka-harang (cpp.ph) (Hindi nakaharang ang philippinerevolution.nu)",
+      "reason": "Opisyal na websayt ng CPP"
+    },
+    {
+      "website": "Pinoy Weekly",
+      "url": "pinoyweekly.org",
+      "category": "Alternatibong media",
+      "language": "Filipino",
+      "blocked_since": "Hunyo 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Red-tagging; konektado umano sa CPP-NPA-NDF"
+    },
+    {
+      "website": "Save Our Schools Network",
+      "url": "saveourschools.net saveourschoolsnetwork.wordpress.com",
+      "category": "Ugnayang Pang-Adbokasiya",
+      "language": "Ingles",
+      "blocked_since": "Hunyo 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Adbokasiya laban sa mga patakaran ng estado; red-tagging."
+    },
+    {
+      "website": "Rural Missionaries of the Philippines",
+      "url": "ruralmissionaries.ph rmp-national.weebly.com",
+      "category": "Organisasyong di-pampahalaan",
+      "language": "Ingles",
+      "blocked_since": "Hunyo 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Pinaghihinalaang koneksyon sa rebelde ."
+    },
+    {
+      "website": "Pamalakaya-Pilipinas",
+      "url": "pamalakayapilipinas.ph pamalakayaweb.wordpress.com",
+      "category": "Organisasyong sektoral",
+      "language": "Filipino",
+      "blocked_since": "Hunyo 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Grupo ng adbokasiyana ni-red tag."
+    },
+    {
+      "website": "Monthly Review",
+      "url": "monthlyreview.org",
+      "category": "Amerikanong Internasyunal na socialist site",
+      "language": "Ingles",
+      "blocked_since": "Hunyo 2022–Kasalukuyan",
+      "isp_status": "Naka-harang",
+      "reason": "Umano'y makakaliwang nilalaman"
+    },
+    {
+      "website": "Philippine Revolution Web Central",
+      "url": "prwcnewsroom.org",
+      "category": "Sangay ng midya ng CPP",
+      "language": "Ingles at Filipino",
+      "blocked_since": "Hunyo 2022–Kasalukuyan",
+      "isp_status": "Bahagyang Naka-harang sa ilang ISP",
+      "reason": "Opisyal na websayt ng CPP"
+    },
+    {
+      "website": "Liberation News",
+      "url": "liberationnews.org",
+      "category": "Balitang aktibista (Estados Unidos)",
+      "language": "Ingles",
+      "blocked_since": "Hunyo 2022–Kasalukuyan",
+      "isp_status": "Bahagyang Naka-harang sa ilang ISP",
+      "reason": "Kontra-gobyerno/makakaliwang pananaw"
+    }
+  ],
+  "meta": {
+    "title": "Mga Websayt na Nakaharang sa Pilipinas - Free Download",
+    "description": "Talaan ng mga websayt na hinarangan sa Pilipinas: URL, kategorya, wika, petsa ng pagkaharang, katayuan sa mga ISP at dahilan (batas o kautusan). Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Websayt na Nakaharang sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Websayt na Nakaharang sa Pilipinas — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_websayt_na_nakaharang_sa_Pilipinas"
+    ]
+  }
+}

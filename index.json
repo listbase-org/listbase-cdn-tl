@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:41.145Z",
-  "total_datasets": 445,
-  "total_records": 442796,
+  "generated": "2026-10-27T02:17:43.590Z",
+  "total_datasets": 446,
+  "total_records": 442834,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -13193,6 +13193,34 @@
         "xlsx": {
           "name": "tl-mga-frequency-ng-smart_TL.xlsx",
           "size": 7383
+        }
+      }
+    },
+    {
+      "id": "tl-mga-websayt-na-nakaharang",
+      "name": "Mga Websayt na Nakaharang sa Pilipinas",
+      "category": "tech",
+      "record_count": 38,
+      "columns": [
+        "website",
+        "url",
+        "category",
+        "language",
+        "blocked_since",
+        "isp_status",
+        "reason"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_websayt_na_nakaharang_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 20372,
+      "files": {
+        "csv": {
+          "name": "tl-mga-websayt-na-nakaharang_TL.csv",
+          "size": 13003
+        },
+        "xlsx": {
+          "name": "tl-mga-websayt-na-nakaharang_TL.xlsx",
+          "size": 10156
         }
       }
     },
