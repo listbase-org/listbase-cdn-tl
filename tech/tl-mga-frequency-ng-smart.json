@@ -1,0 +1,192 @@
+{
+  "id": "tl-mga-frequency-ng-smart",
+  "name": "Mga Frequency at Band ng Smart Communications",
+  "title": "Mga Frequency at Band ng Smart Communications",
+  "description": "Mga frequency, protocol (GSM/UMTS/LTE/5G), band at duplex mode na ginagamit ng Smart Communications sa Pilipinas.",
+  "category": "tech",
+  "source": "https://tl.wikipedia.org/wiki/Smart_Communications",
+  "source_url": "https://tl.wikipedia.org/wiki/Smart_Communications",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "frequency",
+      "label": "Frequency",
+      "type": "string"
+    },
+    {
+      "key": "protocol",
+      "label": "Protocol",
+      "type": "string"
+    },
+    {
+      "key": "generation",
+      "label": "Generation",
+      "type": "string"
+    },
+    {
+      "key": "band",
+      "label": "Band",
+      "type": "number"
+    },
+    {
+      "key": "duplex",
+      "label": "Duplex",
+      "type": "string"
+    },
+    {
+      "key": "common_name",
+      "label": "Common Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "frequency": "850 MHz",
+      "protocol": "GSM / GPRS / EDGE",
+      "generation": "2G",
+      "band": "5",
+      "duplex": "FDD",
+      "common_name": "CLR"
+    },
+    {
+      "frequency": "900 MHz",
+      "protocol": "GSM / GPRS / EDGE",
+      "generation": "2G",
+      "band": "8",
+      "duplex": "FDD",
+      "common_name": "E- GSM"
+    },
+    {
+      "frequency": "1800 MHz",
+      "protocol": "GSM / GPRS / EDGE",
+      "generation": "2G",
+      "band": "3",
+      "duplex": "FDD",
+      "common_name": "DCS"
+    },
+    {
+      "frequency": "850 MHz",
+      "protocol": "UMTS / HSDPA / HSPA+",
+      "generation": "3G",
+      "band": "5",
+      "duplex": "FDD",
+      "common_name": "CLR"
+    },
+    {
+      "frequency": "900 MHz",
+      "protocol": "UMTS / HSDPA / HSPA+",
+      "generation": "3G",
+      "band": "8",
+      "duplex": "FDD",
+      "common_name": "E- GSM"
+    },
+    {
+      "frequency": "2100 MHz",
+      "protocol": "UMTS / HSDPA / HSPA+",
+      "generation": "3G",
+      "band": "1",
+      "duplex": "FDD",
+      "common_name": "IMT"
+    },
+    {
+      "frequency": "700 MHz",
+      "protocol": "LTE / LTE-A / LTE-A Pro",
+      "generation": "4G",
+      "band": "28",
+      "duplex": "FDD",
+      "common_name": "APT"
+    },
+    {
+      "frequency": "850 MHz",
+      "protocol": "LTE / LTE-A / LTE-A Pro",
+      "generation": "4G",
+      "band": "5",
+      "duplex": "FDD",
+      "common_name": "CLR"
+    },
+    {
+      "frequency": "1800 MHz",
+      "protocol": "LTE / LTE-A / LTE-A Pro",
+      "generation": "4G",
+      "band": "3",
+      "duplex": "FDD",
+      "common_name": "DCS"
+    },
+    {
+      "frequency": "2100 MHz",
+      "protocol": "LTE / LTE-A / LTE-A Pro",
+      "generation": "4G",
+      "band": "1",
+      "duplex": "FDD",
+      "common_name": "IMT"
+    },
+    {
+      "frequency": "2300 MHz",
+      "protocol": "LTE / LTE-A / LTE-A Pro",
+      "generation": "4G",
+      "band": "40",
+      "duplex": "TDD",
+      "common_name": "S-Band"
+    },
+    {
+      "frequency": "2500 MHz",
+      "protocol": "LTE / LTE-A / LTE-A Pro",
+      "generation": "4G",
+      "band": "41",
+      "duplex": "TDD",
+      "common_name": "BRS"
+    },
+    {
+      "frequency": "2600 MHz",
+      "protocol": "LTE / LTE-A / LTE-A Pro",
+      "generation": "4G",
+      "band": "7",
+      "duplex": "FDD",
+      "common_name": "IMT -E"
+    },
+    {
+      "frequency": "3400 MHz",
+      "protocol": "LTE / LTE-A / LTE-A Pro",
+      "generation": "4G",
+      "band": "42",
+      "duplex": "TDD",
+      "common_name": "CBRS"
+    },
+    {
+      "frequency": "700 MHz",
+      "protocol": "NR",
+      "generation": "5G",
+      "band": "n28",
+      "duplex": "FDD",
+      "common_name": "APT"
+    },
+    {
+      "frequency": "2500 MHz",
+      "protocol": "NR",
+      "generation": "5G",
+      "band": "n41",
+      "duplex": "TDD",
+      "common_name": "BRS"
+    },
+    {
+      "frequency": "3500 MHz",
+      "protocol": "NR",
+      "generation": "5G",
+      "band": "n78",
+      "duplex": "TDD",
+      "common_name": "C-Band"
+    }
+  ],
+  "meta": {
+    "title": "Mga Frequency at Band ng Smart Communications - Free Download",
+    "description": "Mga frequency, protocol (GSM/UMTS/LTE/5G), band at duplex mode na ginagamit ng Smart Communications sa Pilipinas. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Frequency at Band ng Smart Communications | ListBase",
+    "seo_description": "Download Mga Frequency at Band ng Smart Communications — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Smart_Communications"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:23.511Z",
-  "total_datasets": 438,
-  "total_records": 442652,
+  "generated": "2026-10-27T02:17:25.930Z",
+  "total_datasets": 439,
+  "total_records": 442669,
   "categories": [
     {
       "id": "culture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -13007,6 +13007,33 @@
         "xlsx": {
           "name": "tl-dihital-na-himpilang-pantelebisyon_TL.xlsx",
           "size": 21759
+        }
+      }
+    },
+    {
+      "id": "tl-mga-frequency-ng-smart",
+      "name": "Mga Frequency at Band ng Smart Communications",
+      "category": "tech",
+      "record_count": 17,
+      "columns": [
+        "frequency",
+        "protocol",
+        "generation",
+        "band",
+        "duplex",
+        "common_name"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Smart_Communications",
+      "updated": "2026-10",
+      "size": 4832,
+      "files": {
+        "csv": {
+          "name": "tl-mga-frequency-ng-smart_TL.csv",
+          "size": 983
+        },
+        "xlsx": {
+          "name": "tl-mga-frequency-ng-smart_TL.xlsx",
+          "size": 7383
         }
       }
     },
