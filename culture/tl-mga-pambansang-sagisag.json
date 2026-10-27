@@ -1,0 +1,135 @@
+{
+  "id": "tl-mga-pambansang-sagisag",
+  "name": "Mga Pambansang Sagisag ng Pilipinas",
+  "title": "Mga Pambansang Sagisag ng Pilipinas",
+  "description": "Mga opisyal na pambansang sagisag ng Pilipinas: uri, simbolo, petsa ng pagpapatibay at batayang legal.",
+  "category": "culture",
+  "source": "https://tl.wikipedia.org/wiki/Mga_pambansang_sagisag_ng_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Mga_pambansang_sagisag_ng_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "adopted",
+      "label": "Adopted",
+      "type": "string"
+    },
+    {
+      "key": "legal_basis",
+      "label": "Legal Basis",
+      "type": "string"
+    },
+    {
+      "key": "declared_by",
+      "label": "Declared By",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "Coat ng mga armas",
+      "symbol": "Coat ng arm ng Pilipinas",
+      "adopted": "3 Hulyo 1946 (Na-Rofirmed 12 Pebrero 1998)",
+      "legal_basis": "Batas ng Komonwelt Blg 731 Na-reperensya ng Batas Republika Bilang 8491",
+      "declared_by": "Ipinahayag sa pamamagitan ng Batas Republika Bilang 8491 at ng Saligang Batas ng Pilipinas"
+    },
+    {
+      "type": "Mahusay na Selyo",
+      "symbol": "Mahusay na Selyo ng Pilipinas",
+      "adopted": "12 Pebrero 1998",
+      "legal_basis": "Batas Republika Bilang 8491, Kabanata V",
+      "declared_by": "Ipinahayag sa pamamagitan ng Batas Republika Bilang 8491 at ng Saligang Batas ng Pilipinas"
+    },
+    {
+      "type": "Pambansang awit",
+      "symbol": "Lupang Hinirang",
+      "adopted": "Music : 12 June 1898 Lyrics : 26 May 1958 (Reaffirmed 12 February 1998)",
+      "legal_basis": "Music : Proklamasyon ni dating Presidente Emilio Aguinaldo Lyrics : Departamento ng Edukasyon Administrative Order Reaffirmed by Batas Republika Bilang 8491",
+      "declared_by": "Ipinahayag sa pamamagitan ng Batas Republika Bilang 8491 at ng Saligang Batas ng Pilipinas"
+    },
+    {
+      "type": "Pambansang watawat",
+      "symbol": "Watawat ng Pilipinas",
+      "adopted": "12 June 1898 (Reaffirmed 12 February 1998)",
+      "legal_basis": "Proklamasyon ng dating Presidente Emilio Aguinaldo Reaffirmed by Batas Republika Bilang 8491",
+      "declared_by": "Ipinahayag sa pamamagitan ng Batas Republika Bilang 8491 at ng Saligang Batas ng Pilipinas"
+    },
+    {
+      "type": "Pambansang wika",
+      "symbol": "Filipino",
+      "adopted": "11 February 1987",
+      "legal_basis": "Article XIV, Sec. 6 of the 1987",
+      "declared_by": "Ipinahayag sa pamamagitan ng Batas Republika Bilang 8491 at ng Saligang Batas ng Pilipinas"
+    },
+    {
+      "type": "Pambansang motto",
+      "symbol": "Pambansang motto ng Pilipinas",
+      "adopted": "12 February 1998",
+      "legal_basis": "Batas Republika Bilang 8491, Chapter III, Section 40",
+      "declared_by": "Ipinahayag sa pamamagitan ng Batas Republika Bilang 8491 at ng Saligang Batas ng Pilipinas"
+    },
+    {
+      "type": "Pambansang ibon",
+      "symbol": "Philippine eagle ( Pithecophaga jefferyi )",
+      "adopted": "4 July 1995",
+      "legal_basis": "Proclamation No. 615",
+      "declared_by": "Naideklara sa pamamagitan ng mga executive orders at ng iba pang Batas Republika"
+    },
+    {
+      "type": "Pambansang bulaklak",
+      "symbol": "Sampaguita (Jasminum sambac)",
+      "adopted": "1 February 1934",
+      "legal_basis": "Executive Proclamation No. 652, issued by Governor General Frank Murphy",
+      "declared_by": "Naideklara sa pamamagitan ng mga executive orders at ng iba pang Batas Republika"
+    },
+    {
+      "type": "Pambansang hiyas",
+      "symbol": "Philippine pearl ( Pinctada maxima )",
+      "adopted": "15 October 1996",
+      "legal_basis": "Proclamation No. 905",
+      "declared_by": "Naideklara sa pamamagitan ng mga executive orders at ng iba pang Batas Republika"
+    },
+    {
+      "type": "Pambansang sign language",
+      "symbol": "Filipino Sign Language",
+      "adopted": "30 October 2018",
+      "legal_basis": "Batas Republika Bilang 11106",
+      "declared_by": "Naideklara sa pamamagitan ng mga executive orders at ng iba pang Batas Republika"
+    },
+    {
+      "type": "Pambansang laro at martial art",
+      "symbol": "Arnis (Eskrima/Kali)",
+      "adopted": "11 December 2009",
+      "legal_basis": "Batas Republika Bilang 9850",
+      "declared_by": "Naideklara sa pamamagitan ng mga executive orders at ng iba pang Batas Republika"
+    },
+    {
+      "type": "Pambansang puno",
+      "symbol": "Narra ( Pterocarpus indicus )",
+      "adopted": "1 February 1934",
+      "legal_basis": "Executive Proclamation No. 652",
+      "declared_by": "Naideklara sa pamamagitan ng mga executive orders at ng iba pang Batas Republika"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pambansang Sagisag ng Pilipinas - Free Download",
+    "description": "Mga opisyal na pambansang sagisag ng Pilipinas: uri, simbolo, petsa ng pagpapatibay at batayang legal. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pambansang Sagisag ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Pambansang Sagisag ng Pilipinas — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Mga_pambansang_sagisag_ng_Pilipinas"
+    ]
+  }
+}
