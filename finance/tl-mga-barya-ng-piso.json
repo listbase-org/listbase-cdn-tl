@@ -1,0 +1,247 @@
+{
+  "id": "tl-mga-barya-ng-piso",
+  "name": "Mga Barya ng Piso ng Pilipinas",
+  "title": "Mga Barya ng Piso ng Pilipinas",
+  "description": "Mga baryang salapi ng Piso ng Pilipinas (serye ng BSP at Bagong Salinlahi 2018): halaga, dyametro, bigat, komposisyon, gilid, disenyo at taon ng unang isyu.",
+  "category": "finance",
+  "source": "https://tl.wikipedia.org/wiki/Piso_ng_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Piso_ng_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "denomination",
+      "label": "Denomination",
+      "type": "string"
+    },
+    {
+      "key": "diameter",
+      "label": "Diameter",
+      "type": "string"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "type": "string"
+    },
+    {
+      "key": "composition",
+      "label": "Composition",
+      "type": "string"
+    },
+    {
+      "key": "edge",
+      "label": "Edge",
+      "type": "string"
+    },
+    {
+      "key": "obverse",
+      "label": "Obverse",
+      "type": "string"
+    },
+    {
+      "key": "reverse",
+      "label": "Reverse",
+      "type": "string"
+    },
+    {
+      "key": "first_issued",
+      "label": "First Issued",
+      "type": "number"
+    },
+    {
+      "key": "series",
+      "label": "Series",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denomination": "1 sentimo",
+      "diameter": "15.5 mm",
+      "weight": "2.0 g",
+      "composition": "Bakal na tubog sa tanso",
+      "edge": "Payak",
+      "obverse": "\" Republika ng Pilipinas \", halaga at taon ng paggawa ng salaping barya",
+      "reverse": "Sagisag ng Bangko Sentral ng Pilipinas",
+      "first_issued": "1995",
+      "series": "BSP (1995)"
+    },
+    {
+      "denomination": "5 sentimos",
+      "diameter": "15.5 mm",
+      "weight": "1.9 g",
+      "composition": "Bakal na tubog sa tanso",
+      "edge": "Payak (may 4 mm butas sa gitna)",
+      "obverse": "\"Republika ng Pilipinas\", halaga at taon ng paggawa ng salaping barya",
+      "reverse": "Sagisag ng Bangko Sentral ng Pilipinas",
+      "first_issued": "1995",
+      "series": "BSP (1995)"
+    },
+    {
+      "denomination": "10 sentimos",
+      "diameter": "17.0 mm",
+      "weight": "2.5 g",
+      "composition": "Bakal na tubog sa tanso",
+      "edge": "Mala-tinubuan ng tambo",
+      "obverse": "\"Republika ng Pilipinas\", halaga at taon ng paggawa ng salaping barya",
+      "reverse": "Sagisag ng Bangko Sentral ng Pilipinas",
+      "first_issued": "1995",
+      "series": "BSP (1995)"
+    },
+    {
+      "denomination": "25 sentimos",
+      "diameter": "20.0 mm",
+      "weight": "3.8 g",
+      "composition": "Tanso",
+      "edge": "Payak",
+      "obverse": "\"Republika ng Pilipinas\", halaga at taon ng paggawa ng salaping barya",
+      "reverse": "Sagisag ng Bangko Sentral ng Pilipinas",
+      "first_issued": "1995",
+      "series": "BSP (1995)"
+    },
+    {
+      "denomination": "25 sentimos",
+      "diameter": "20.0 mm",
+      "weight": "3.6 g",
+      "composition": "Bakal na tubog sa tanso",
+      "edge": "Payak",
+      "obverse": "\"Republika ng Pilipinas\", halaga at taon ng paggawa ng salaping barya",
+      "reverse": "Sagisag ng Bangko Sentral ng Pilipinas",
+      "first_issued": "2004",
+      "series": "BSP (1995)"
+    },
+    {
+      "denomination": "1 piso",
+      "diameter": "24.0 mm",
+      "weight": "6.1 g",
+      "composition": "Cupronikel",
+      "edge": "Mala-tinubuan ng tambo",
+      "obverse": "Sagisag ng Bangko Sentral ng Pilipinas \"Republika ng Pilipinas\", tagiliran ni Jose Rizal , halaga at taon ng paggawa ng salaping barya",
+      "reverse": "Sagisag ng Bangko Sentral ng Pilipinas",
+      "first_issued": "1995",
+      "series": "BSP (1995)"
+    },
+    {
+      "denomination": "1 piso",
+      "diameter": "24.0 mm",
+      "weight": "5.35 g",
+      "composition": "Bakal na tubog sa nikel",
+      "edge": "Mala-tinubuan ng tambo",
+      "obverse": "Sagisag ng Bangko Sentral ng Pilipinas \"Republika ng Pilipinas\", tagiliran ni Jose Rizal , halaga at taon ng paggawa ng salaping barya",
+      "reverse": "Sagisag ng Bangko Sentral ng Pilipinas",
+      "first_issued": "2004",
+      "series": "BSP (1995)"
+    },
+    {
+      "denomination": "5 piso",
+      "diameter": "27.0 mm",
+      "weight": "7.7 g",
+      "composition": "70% tanso 5.5% nikel 24.5% sink",
+      "edge": "Payak",
+      "obverse": "12-tulis na disenyong mala-kabibe sa tagiliran, \"Republika ng Pilipinas\", tagiliran ni Emilio Aguinaldo , halaga at taon ng paggawa ng salaping barya",
+      "reverse": "12-tulis na disenyong mala-kabibe sa tagiliran, Sagisag ng Bangko Sentral ng Pilipinas",
+      "first_issued": "1995",
+      "series": "BSP (1995)"
+    },
+    {
+      "denomination": "10 piso",
+      "diameter": "26.5 mm",
+      "weight": "8.7 g",
+      "composition": "Argola: Cupronickel",
+      "edge": "Naantalang pagkabyaw",
+      "obverse": "Argola: \"Republika ng Pilipinas\", taon ng paggawa ng salaping barya",
+      "reverse": "Sagisag ng Bangko Sentral ng Pilipinas",
+      "first_issued": "2000",
+      "series": "BSP (1995)"
+    },
+    {
+      "denomination": "10 piso",
+      "diameter": "26.5 mm",
+      "weight": "8.7 g",
+      "composition": "Gitna: Tansong aluminyo",
+      "edge": "Naantalang pagkabyaw",
+      "obverse": "Gitna: Tagiliran nina Andrés Bonifacio at Apolinario Mabini , halaga",
+      "reverse": "Sagisag ng Bangko Sentral ng Pilipinas",
+      "first_issued": "2000",
+      "series": "BSP (1995)"
+    },
+    {
+      "denomination": "1 sentimo",
+      "diameter": "15 mm",
+      "weight": "1.90 g",
+      "composition": "Bakal na tubog sa nikel",
+      "edge": "Payak",
+      "obverse": "\"Republika ng Pilipinas\"; Tatlong bituin at ang araw (inistilong representasyon ng Watawat ng Pilipinas ); Halaga; Taon ng paggawa; Marka ng mint",
+      "reverse": "Xanthostemon verdugonianus (Mangkono); tatak ng Bangko Sentral ng Pilipinas",
+      "first_issued": "2018",
+      "series": "Bagong Salinlahi (2018)"
+    },
+    {
+      "denomination": "5 sentimo",
+      "diameter": "16 mm",
+      "weight": "2.20 g",
+      "composition": "Bakal na tubog sa nikel",
+      "edge": "Mala-tinubuan ng tambo",
+      "obverse": "\"Republika ng Pilipinas\"; Tatlong bituin at ang araw (inistilong representasyon ng Watawat ng Pilipinas ); Halaga; Taon ng paggawa; Marka ng mint",
+      "reverse": "Calotropis gigantea (Kapal-kapal Baging); tatak ng Bangko Sentral ng Pilipinas",
+      "first_issued": "2018",
+      "series": "Bagong Salinlahi (2018)"
+    },
+    {
+      "denomination": "25 sentimo",
+      "diameter": "20 mm",
+      "weight": "3.60 g",
+      "composition": "Bakal na tubog sa nikel",
+      "edge": "Payak",
+      "obverse": "\"Republika ng Pilipinas\"; Tatlong bituin at ang araw (inistilong representasyon ng Watawat ng Pilipinas ); Halaga; Taon ng paggawa; Marka ng mint",
+      "reverse": "Dillenia philippinensis (Katmon); tatak ng Bangko Sentral ng Pilipinas",
+      "first_issued": "2018",
+      "series": "Bagong Salinlahi (2018)"
+    },
+    {
+      "denomination": "₱1",
+      "diameter": "23 mm",
+      "weight": "6.00 g",
+      "composition": "Bakal na tubog sa nikel",
+      "edge": "Naantalang pagkabyaw",
+      "obverse": "\"Republika ng Pilipinas\"; José Rizal ; Halaga; Taon ng paggawa; Marka ng mint",
+      "reverse": "Vanda sanderiana (Waling-waling); tatak ng Bangko Sentral ng Pilipinas",
+      "first_issued": "2018",
+      "series": "Bagong Salinlahi (2018)"
+    },
+    {
+      "denomination": "₱5",
+      "diameter": "25 mm",
+      "weight": "7.40 g",
+      "composition": "Bakal na tubog sa nikel",
+      "edge": "Payak",
+      "obverse": "\"Republika ng Pilipinas\"; Andrés Bonifacio ; Halaga; Microprint ng \"Republika ng Pilipinas\"; Taon ng paggawa; Marka ng mint",
+      "reverse": "Strongylodon macrobotrys (Tayabak); tatak ng Bangko Sentral ng Pilipinas ; Microprint ng \"Bangko Sentral ng Pilipinas\"",
+      "first_issued": "2017",
+      "series": "Bagong Salinlahi (2018)"
+    },
+    {
+      "denomination": "₱10",
+      "diameter": "27 mm",
+      "weight": "8.00 g",
+      "composition": "Bakal na tubog sa nikel",
+      "edge": "Mala-tinubuan ng tambo na may letrang \"BANGKO SENTRAL NG PILIPINAS\"",
+      "obverse": "\"Republika ng Pilipinas\"; Apolinario Mabini ; Halaga; Microprint ng \"Republika ng Pilipinas\"; Taon ng paggawa; Marka ng mint",
+      "reverse": "Medinilla magnifica (Kapa-kapa); tatak ng Bangko Sentral ng Pilipinas ; Microprint ng \"Bangko Sentral ng Pilipinas\"; Microdots",
+      "first_issued": "2018",
+      "series": "Bagong Salinlahi (2018)"
+    }
+  ],
+  "meta": {
+    "title": "Mga Barya ng Piso ng Pilipinas - Free Download",
+    "description": "Mga baryang salapi ng Piso ng Pilipinas (serye ng BSP at Bagong Salinlahi 2018): halaga, dyametro, bigat, komposisyon, gilid, disenyo at taon ng unang isyu. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Barya ng Piso ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Barya ng Piso ng Pilipinas — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Piso_ng_Pilipinas"
+    ]
+  }
+}

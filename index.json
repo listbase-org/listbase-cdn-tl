@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:20.984Z",
-  "total_datasets": 437,
-  "total_records": 442636,
+  "generated": "2026-10-27T02:17:23.511Z",
+  "total_datasets": 438,
+  "total_records": 442652,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "food",
@@ -3182,6 +3182,36 @@
         "xlsx": {
           "name": "tl-planta-ng-kuryente_TL.xlsx",
           "size": 15610
+        }
+      }
+    },
+    {
+      "id": "tl-mga-barya-ng-piso",
+      "name": "Mga Barya ng Piso ng Pilipinas",
+      "category": "finance",
+      "record_count": 16,
+      "columns": [
+        "denomination",
+        "diameter",
+        "weight",
+        "composition",
+        "edge",
+        "obverse",
+        "reverse",
+        "first_issued",
+        "series"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Piso_ng_Pilipinas",
+      "updated": "2026-10",
+      "size": 9319,
+      "files": {
+        "csv": {
+          "name": "tl-mga-barya-ng-piso_TL.csv",
+          "size": 4436
+        },
+        "xlsx": {
+          "name": "tl-mga-barya-ng-piso_TL.xlsx",
+          "size": 8275
         }
       }
     },
