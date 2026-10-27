@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:18:01.674Z",
-  "total_datasets": 453,
-  "total_records": 443452,
+  "generated": "2026-10-27T02:18:04.183Z",
+  "total_datasets": 454,
+  "total_records": 443462,
   "categories": [
     {
       "id": "culture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -3265,6 +3265,32 @@
         "xlsx": {
           "name": "tl-pelikulang-pilipino_TL.xlsx",
           "size": 75581
+        }
+      }
+    },
+    {
+      "id": "tl-pinakamataas-na-kita-viva-films",
+      "name": "Mga Pelikula ng Viva Films na may Pinakamataas na Kita",
+      "category": "entertainment",
+      "record_count": 10,
+      "columns": [
+        "rank",
+        "title",
+        "year",
+        "box_office",
+        "notes"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Viva_Films",
+      "updated": "2026-10",
+      "size": 3462,
+      "files": {
+        "csv": {
+          "name": "tl-pinakamataas-na-kita-viva-films_TL.csv",
+          "size": 929
+        },
+        "xlsx": {
+          "name": "tl-pinakamataas-na-kita-viva-films_TL.xlsx",
+          "size": 7249
         }
       }
     },

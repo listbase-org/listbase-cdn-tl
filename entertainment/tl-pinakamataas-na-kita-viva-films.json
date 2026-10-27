@@ -1,0 +1,121 @@
+{
+  "id": "tl-pinakamataas-na-kita-viva-films",
+  "name": "Mga Pelikula ng Viva Films na may Pinakamataas na Kita",
+  "title": "Mga Pelikula ng Viva Films na may Pinakamataas na Kita",
+  "description": "Mga pelikula ng Viva Films na may pinakamalaking kita sa takilya: pamagat, taon at tinatayang kita.",
+  "category": "entertainment",
+  "source": "https://tl.wikipedia.org/wiki/Viva_Films",
+  "source_url": "https://tl.wikipedia.org/wiki/Viva_Films",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "box_office",
+      "label": "Box Office",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "title": "Gandarrapiddo: The Revenger Squad",
+      "year": 2017,
+      "box_office": "₱571,000,000",
+      "notes": "kasamang i-prinodyus sa Star Cinema"
+    },
+    {
+      "rank": 2,
+      "title": "Beauty and the Bestie",
+      "year": 2015,
+      "box_office": "₱526,000,000",
+      "notes": "kasamang i-prinodyus sa Star Cinema"
+    },
+    {
+      "rank": 3,
+      "title": "The Amazing Praybeyt Benjamin",
+      "year": 2014,
+      "box_office": "₱440,000,000",
+      "notes": "kasamang i-prinodyus sa Star Cinema"
+    },
+    {
+      "rank": 4,
+      "title": "Miracle in Cell No. 7",
+      "year": 2019,
+      "box_office": "₱475,000,000",
+      "notes": ""
+    },
+    {
+      "rank": 5,
+      "title": "Girl, Boy, Bakla, Tomboy",
+      "year": 2013,
+      "box_office": "₱421,000,000",
+      "notes": "kasamang i-prinodyus sa Star Cinema"
+    },
+    {
+      "rank": 6,
+      "title": "It Takes a Man and a Woman",
+      "year": 2013,
+      "box_office": "₱405,000,000",
+      "notes": "kasamang i-prinodyus sa Star Cinema"
+    },
+    {
+      "rank": 7,
+      "title": "Sisterakas",
+      "year": 2012,
+      "box_office": "₱393,000,000",
+      "notes": "kasamang i-prinodyus sa Star Cinema"
+    },
+    {
+      "rank": 8,
+      "title": "The Mall, The Merrier",
+      "year": 2019,
+      "box_office": "₱338,000,000",
+      "notes": "kasamang i-prinodyus sa Star Cinema"
+    },
+    {
+      "rank": 9,
+      "title": "The Unkabogable Praybeyt Benjamin",
+      "year": 2011,
+      "box_office": "₱331,000,000",
+      "notes": "kasamang i-prinodyus sa Star Cinema"
+    },
+    {
+      "rank": 10,
+      "title": "Kita Kita",
+      "year": 2017,
+      "box_office": "₱320,000,000",
+      "notes": "kasamang i-prinodyus sa Spring Films"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pelikula ng Viva Films na may Pinakamataas na Kita - Free Download",
+    "description": "Mga pelikula ng Viva Films na may pinakamalaking kita sa takilya: pamagat, taon at tinatayang kita. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pelikula ng Viva Films na may Pinakamataas na Kita | ListBase",
+    "seo_description": "Download Mga Pelikula ng Viva Films na may Pinakamataas na Kita — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Viva_Films"
+    ]
+  }
+}
