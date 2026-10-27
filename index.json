@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:48.595Z",
-  "total_datasets": 448,
-  "total_records": 442853,
+  "generated": "2026-10-27T02:17:51.256Z",
+  "total_datasets": 449,
+  "total_records": 442882,
   "categories": [
     {
       "id": "culture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "transport",
@@ -13379,6 +13379,30 @@
         "xlsx": {
           "name": "tl-dayuhang-turista-ayon-sa-bansa_TL.xlsx",
           "size": 10933
+        }
+      }
+    },
+    {
+      "id": "tl-pagdating-ng-turista-bawat-taon",
+      "name": "Taunang Pagdating ng mga Dayuhang Turista sa Pilipinas",
+      "category": "tourism",
+      "record_count": 29,
+      "columns": [
+        "year",
+        "arrivals",
+        "change"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Turismo_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 4007,
+      "files": {
+        "csv": {
+          "name": "tl-pagdating-ng-turista-bawat-taon_TL.csv",
+          "size": 737
+        },
+        "xlsx": {
+          "name": "tl-pagdating-ng-turista-bawat-taon_TL.xlsx",
+          "size": 7425
         }
       }
     },

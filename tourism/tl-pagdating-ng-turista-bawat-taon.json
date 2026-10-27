@@ -1,0 +1,186 @@
+{
+  "id": "tl-pagdating-ng-turista-bawat-taon",
+  "name": "Taunang Pagdating ng mga Dayuhang Turista sa Pilipinas",
+  "title": "Taunang Pagdating ng mga Dayuhang Turista sa Pilipinas",
+  "description": "Kabuuang bilang ng mga dayuhang turistang dumating sa Pilipinas bawat taon mula 1996 at ang pagbabago kumpara sa nakaraang taon.",
+  "category": "tourism",
+  "source": "https://tl.wikipedia.org/wiki/Turismo_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Turismo_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "arrivals",
+      "label": "Arrivals",
+      "type": "number"
+    },
+    {
+      "key": "change",
+      "label": "Change",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1996,
+      "arrivals": 1049367,
+      "change": ""
+    },
+    {
+      "year": 1997,
+      "arrivals": 1222523,
+      "change": "16.5%"
+    },
+    {
+      "year": 1998,
+      "arrivals": 1149357,
+      "change": "5.9%"
+    },
+    {
+      "year": 1999,
+      "arrivals": 1170514,
+      "change": "1.8%"
+    },
+    {
+      "year": 2000,
+      "arrivals": 1992169,
+      "change": "70.1%"
+    },
+    {
+      "year": 2001,
+      "arrivals": 1796893,
+      "change": "9.8%"
+    },
+    {
+      "year": 2002,
+      "arrivals": 1932677,
+      "change": "7.5%"
+    },
+    {
+      "year": 2003,
+      "arrivals": 1907226,
+      "change": "1.3%"
+    },
+    {
+      "year": 2004,
+      "arrivals": 2291352,
+      "change": "20.1%"
+    },
+    {
+      "year": 2005,
+      "arrivals": 2623084,
+      "change": "14.4%"
+    },
+    {
+      "year": 2006,
+      "arrivals": 2843335,
+      "change": "8.3%"
+    },
+    {
+      "year": 2007,
+      "arrivals": 3091993,
+      "change": "8.7%"
+    },
+    {
+      "year": 2008,
+      "arrivals": 3139422,
+      "change": "1.5%"
+    },
+    {
+      "year": 2009,
+      "arrivals": 3017099,
+      "change": "3.8%"
+    },
+    {
+      "year": 2010,
+      "arrivals": 3520471,
+      "change": "16.6%"
+    },
+    {
+      "year": 2011,
+      "arrivals": 3917454,
+      "change": "11.2%"
+    },
+    {
+      "year": 2012,
+      "arrivals": 4272811,
+      "change": "9.0%"
+    },
+    {
+      "year": 2013,
+      "arrivals": 4681307,
+      "change": "9.5%"
+    },
+    {
+      "year": 2014,
+      "arrivals": 4833368,
+      "change": "3.2%"
+    },
+    {
+      "year": 2015,
+      "arrivals": 5360682,
+      "change": "10.9%"
+    },
+    {
+      "year": 2016,
+      "arrivals": 5967005,
+      "change": "11.3%"
+    },
+    {
+      "year": 2017,
+      "arrivals": 6620908,
+      "change": "10.9%"
+    },
+    {
+      "year": 2018,
+      "arrivals": 7168467,
+      "change": "8.2%"
+    },
+    {
+      "year": 2019,
+      "arrivals": 8260913,
+      "change": "15.2%"
+    },
+    {
+      "year": 2020,
+      "arrivals": 1482535,
+      "change": "82.0%"
+    },
+    {
+      "year": 2021,
+      "arrivals": 163879,
+      "change": "88.9%"
+    },
+    {
+      "year": 2022,
+      "arrivals": 2653858,
+      "change": "1519.4%"
+    },
+    {
+      "year": 2023,
+      "arrivals": 5450557,
+      "change": "105.3%"
+    },
+    {
+      "year": "Okt 2024",
+      "arrivals": 4879022,
+      "change": ""
+    }
+  ],
+  "meta": {
+    "title": "Taunang Pagdating ng mga Dayuhang Turista sa Pilipinas - Free Download",
+    "description": "Kabuuang bilang ng mga dayuhang turistang dumating sa Pilipinas bawat taon mula 1996 at ang pagbabago kumpara sa nakaraang taon. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Taunang Pagdating ng mga Dayuhang Turista sa Pilipinas | ListBase",
+    "seo_description": "Download Taunang Pagdating ng mga Dayuhang Turista sa Pilipinas — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Turismo_sa_Pilipinas"
+    ]
+  }
+}
