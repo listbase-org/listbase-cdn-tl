@@ -1,0 +1,118 @@
+{
+  "id": "tl-mga-litsonang-restawran",
+  "name": "Mga Litsonang Restawran sa Pilipinas",
+  "title": "Mga Litsonang Restawran sa Pilipinas",
+  "description": "Talaan ng mga kilalang restawran ng litson (lechon manok, litson baboy) sa Pilipinas: taon ng pagkatatag, lokasyon at tagapagtatag.",
+  "category": "food",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_litsonang_restawrant_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_litsonang_restawrant_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "restaurant",
+      "label": "Restaurant",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "founder",
+      "label": "Founder",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "restaurant": "Andok's",
+      "founded": 1985,
+      "location": "West Avenue, Lungsod ng Quezon",
+      "founder": "Leonardo “Sandy” Javier Jr."
+    },
+    {
+      "restaurant": "Baliwag Lechon Manok",
+      "founded": 1985,
+      "location": "Baliwag, Bulacan",
+      "founder": "Dwight & Dolores Salcedo"
+    },
+    {
+      "restaurant": "Bochog Litson House",
+      "founded": 2020,
+      "location": "Carmel, Canlubang , Calamba, Laguna",
+      "founder": "Arfel Jacinto Jurich Jacinto Marco Arfel Jacinto"
+    },
+    {
+      "restaurant": "Chooks-to-Go",
+      "founded": 2009,
+      "location": "Pasig , Kalakhang Maynila",
+      "founder": "Bounty Agro Ventures Ronald Mascariñas"
+    },
+    {
+      "restaurant": "Dadas Litson",
+      "founded": 2005,
+      "location": "Taguig",
+      "founder": "Alina Corillo Sison"
+    },
+    {
+      "restaurant": "Gudaca Litson Manok",
+      "founded": 2010,
+      "location": "Meycauayan, Bulacan",
+      "founder": "Arnel E. Gudaca"
+    },
+    {
+      "restaurant": "Mang Inasal",
+      "founded": 2003,
+      "location": "Lungsod ng Iloilo",
+      "founder": "Tony Tan Caktiong & Ferdinand J. Sia"
+    },
+    {
+      "restaurant": "Migs Lechon w/Liempo",
+      "founded": 2013,
+      "location": "Baclaran, Cabuyao, Laguna",
+      "founder": "Christopher C. Miguel"
+    },
+    {
+      "restaurant": "Mr. Liempo",
+      "founded": 2009,
+      "location": "Lungsod ng Cebu",
+      "founder": "Cesar Suan &Grace Suan"
+    },
+    {
+      "restaurant": "Marinduqueños Litson Manok",
+      "founded": "",
+      "location": "Biñan",
+      "founder": "TBA"
+    },
+    {
+      "restaurant": "Ang Lechon Manok ni Sr. Pedro",
+      "founded": 1992,
+      "location": "Cagayan de Oro",
+      "founder": "Peter Unabia &Nieto Unabia"
+    },
+    {
+      "restaurant": "Uling Roasters Litson",
+      "founded": 1997,
+      "location": "Ortigas , Pasig",
+      "founder": "Bounty Agro Ventures Ronald Mascariñas"
+    }
+  ],
+  "meta": {
+    "title": "Mga Litsonang Restawran sa Pilipinas - Free Download",
+    "description": "Talaan ng mga kilalang restawran ng litson (lechon manok, litson baboy) sa Pilipinas: taon ng pagkatatag, lokasyon at tagapagtatag. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Litsonang Restawran sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Litsonang Restawran sa Pilipinas — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_litsonang_restawrant_sa_Pilipinas"
+    ]
+  }
+}
