@@ -1,0 +1,205 @@
+{
+  "id": "tl-pambansang-utang",
+  "name": "Pambansang Utang ng Pilipinas (bilyong piso)",
+  "title": "Pambansang Utang ng Pilipinas (bilyong piso)",
+  "description": "Lokal at panlabas na utang ng Pambansang Pamahalaan ng Pilipinas, pangkalahatang utang ng pamahalaan, porsiyento ng GDP at GDP bawat taon (bilyong piso).",
+  "category": "economy",
+  "source": "https://tl.wikipedia.org/wiki/Pambansang_utang_ng_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Pambansang_utang_ng_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "domestic",
+      "label": "Domestic",
+      "type": "number"
+    },
+    {
+      "key": "external",
+      "label": "External",
+      "type": "number"
+    },
+    {
+      "key": "national_government_debt",
+      "label": "National Government Debt",
+      "type": "number"
+    },
+    {
+      "key": "general_government_debt",
+      "label": "General Government Debt",
+      "type": "number"
+    },
+    {
+      "key": "pct_gdp",
+      "label": "Pct Gdp",
+      "type": "string"
+    },
+    {
+      "key": "gdp",
+      "label": "Gdp",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2005,
+      "domestic": 2164.3,
+      "external": 1723.9,
+      "national_government_debt": 3888.2,
+      "general_government_debt": 3359.5,
+      "pct_gdp": "56.8%",
+      "gdp": 5917.3
+    },
+    {
+      "year": 2006,
+      "domestic": 2154.1,
+      "external": 1697.4,
+      "national_government_debt": 3851.5,
+      "general_government_debt": 3230,
+      "pct_gdp": "49.3%",
+      "gdp": 6550.4
+    },
+    {
+      "year": 2007,
+      "domestic": 2201.2,
+      "external": 1511.3,
+      "national_government_debt": 3712.5,
+      "general_government_debt": 3044.2,
+      "pct_gdp": "42.3%",
+      "gdp": 7198.2
+    },
+    {
+      "year": 2008,
+      "domestic": 2414.4,
+      "external": 1806.5,
+      "national_government_debt": 4220.9,
+      "general_government_debt": 3406.5,
+      "pct_gdp": "49.3%",
+      "gdp": 8050.2
+    },
+    {
+      "year": 2009,
+      "domestic": 2470,
+      "external": 1926.6,
+      "national_government_debt": 4396.6,
+      "general_government_debt": 3555.7,
+      "pct_gdp": "42.4%",
+      "gdp": 8390.4
+    },
+    {
+      "year": 2010,
+      "domestic": 2718.2,
+      "external": 2000,
+      "national_government_debt": 4718.2,
+      "general_government_debt": 3854.7,
+      "pct_gdp": "41.0%",
+      "gdp": 9399.5
+    },
+    {
+      "year": 2011,
+      "domestic": 2873.4,
+      "external": 2077.8,
+      "national_government_debt": 4951.2,
+      "general_government_debt": 4020.4,
+      "pct_gdp": "39.6%",
+      "gdp": 10144.7
+    },
+    {
+      "year": 2012,
+      "domestic": 3468.4,
+      "external": 1968.7,
+      "national_government_debt": 5437.1,
+      "general_government_debt": 4288.7,
+      "pct_gdp": "38.8%",
+      "gdp": 11060.6
+    },
+    {
+      "year": 2013,
+      "domestic": 3733.4,
+      "external": 1947.7,
+      "national_government_debt": 5681.2,
+      "general_government_debt": 4529.9,
+      "pct_gdp": "37.6%",
+      "gdp": 12050.6
+    },
+    {
+      "year": 2014,
+      "domestic": 3820.6,
+      "external": 1914.6,
+      "national_government_debt": 5735.2,
+      "general_government_debt": 4602.5,
+      "pct_gdp": "34.8%",
+      "gdp": 13206.8
+    },
+    {
+      "year": 2015,
+      "domestic": 3884.4,
+      "external": 2070.2,
+      "national_government_debt": 5954.5,
+      "general_government_debt": 4828.8,
+      "pct_gdp": "34.6%",
+      "gdp": 13994.2
+    },
+    {
+      "year": 2016,
+      "domestic": 3934.1,
+      "external": 2156.2,
+      "national_government_debt": 6090.3,
+      "general_government_debt": 5016.9,
+      "pct_gdp": "33.2%",
+      "gdp": 15132.4
+    },
+    {
+      "year": 2017,
+      "domestic": 4441.3,
+      "external": 2211.2,
+      "national_government_debt": 6652.5,
+      "general_government_debt": 5778.8,
+      "pct_gdp": "34.9%",
+      "gdp": 16556.7
+    },
+    {
+      "year": 2018,
+      "domestic": 4776.9,
+      "external": 2515.6,
+      "national_government_debt": 7292.5,
+      "general_government_debt": 6280.6,
+      "pct_gdp": "34.4%",
+      "gdp": 18265.2
+    },
+    {
+      "year": 2019,
+      "domestic": 5128,
+      "external": 2604,
+      "national_government_debt": 7731,
+      "general_government_debt": "",
+      "pct_gdp": "39.6%",
+      "gdp": 19516.4
+    },
+    {
+      "year": 2020,
+      "domestic": 7077,
+      "external": 2950,
+      "national_government_debt": 10028,
+      "general_government_debt": "",
+      "pct_gdp": "53.9%",
+      "gdp": 12809.1
+    }
+  ],
+  "meta": {
+    "title": "Pambansang Utang ng Pilipinas (bilyong piso) - Free Download",
+    "description": "Lokal at panlabas na utang ng Pambansang Pamahalaan ng Pilipinas, pangkalahatang utang ng pamahalaan, porsiyento ng GDP at GDP bawat taon (bilyong piso). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pambansang Utang ng Pilipinas (bilyong piso) | ListBase",
+    "seo_description": "Download Pambansang Utang ng Pilipinas (bilyong piso) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Pambansang_utang_ng_Pilipinas"
+    ]
+  }
+}

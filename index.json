@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:56.661Z",
-  "total_datasets": 451,
-  "total_records": 443396,
+  "generated": "2026-10-27T02:17:59.121Z",
+  "total_datasets": 452,
+  "total_records": 443412,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -1585,6 +1585,34 @@
         "xlsx": {
           "name": "tl-padala-pinakamalaking-tumatanggap_TL.xlsx",
           "size": 7194
+        }
+      }
+    },
+    {
+      "id": "tl-pambansang-utang",
+      "name": "Pambansang Utang ng Pilipinas (bilyong piso)",
+      "category": "economy",
+      "record_count": 16,
+      "columns": [
+        "year",
+        "domestic",
+        "external",
+        "national_government_debt",
+        "general_government_debt",
+        "pct_gdp",
+        "gdp"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Pambansang_utang_ng_Pilipinas",
+      "updated": "2026-10",
+      "size": 5413,
+      "files": {
+        "csv": {
+          "name": "tl-pambansang-utang_TL.csv",
+          "size": 1041
+        },
+        "xlsx": {
+          "name": "tl-pambansang-utang_TL.xlsx",
+          "size": 7604
         }
       }
     },
