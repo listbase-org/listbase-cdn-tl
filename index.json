@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-20T04:13:16.372Z",
-  "total_datasets": 433,
-  "total_records": 441856,
+  "generated": "2026-10-27T02:17:12.990Z",
+  "total_datasets": 434,
+  "total_records": 441892,
   "categories": [
     {
       "id": "culture",
@@ -63,6 +63,10 @@
     {
       "id": "time",
       "dataset_count": 2
+    },
+    {
+      "id": "tourism",
+      "dataset_count": 1
     },
     {
       "id": "transport",
@@ -12942,6 +12946,44 @@
         "xlsx": {
           "name": "tl-pista-opisyal-completos_TL.xlsx",
           "size": 39093
+        }
+      }
+    },
+    {
+      "id": "tl-dayuhang-turista-ayon-sa-bansa",
+      "name": "Mga Dayuhang Turista sa Pilipinas ayon sa Bansang Pinagmulan",
+      "category": "tourism",
+      "record_count": 36,
+      "columns": [
+        "rank",
+        "country",
+        "arrivals_okt_2024",
+        "arrivals_2023",
+        "arrivals_2022",
+        "arrivals_2021",
+        "arrivals_2020",
+        "arrivals_2019",
+        "arrivals_2018",
+        "arrivals_2017",
+        "arrivals_2016",
+        "arrivals_2015",
+        "arrivals_2014",
+        "arrivals_2013",
+        "arrivals_2012",
+        "arrivals_2011",
+        "arrivals_2010"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Turismo_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 21473,
+      "files": {
+        "csv": {
+          "name": "tl-dayuhang-turista-ayon-sa-bansa_TL.csv",
+          "size": 5220
+        },
+        "xlsx": {
+          "name": "tl-dayuhang-turista-ayon-sa-bansa_TL.xlsx",
+          "size": 10933
         }
       }
     },
