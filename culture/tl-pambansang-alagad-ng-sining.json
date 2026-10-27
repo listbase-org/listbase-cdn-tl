@@ -1,0 +1,532 @@
+{
+  "id": "tl-pambansang-alagad-ng-sining",
+  "name": "Mga Pambansang Alagad ng Sining ng Pilipinas",
+  "title": "Mga Pambansang Alagad ng Sining ng Pilipinas",
+  "description": "Talaan ng mga ginawaran ng Orden ng Pambansang Alagad ng Sining: larangan (musika, sayaw, panitikan, pelikula, atbp.), taon ng pagkilala at nagproklamang pangulo.",
+  "category": "culture",
+  "source": "https://tl.wikipedia.org/wiki/Pambansang_Alagad_ng_Sining_ng_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Pambansang_Alagad_ng_Sining_ng_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "proclaimed_by",
+      "label": "Proclaimed By",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Pablo S. Antonio",
+      "field": "Arkitektura",
+      "year": 1976,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Leandro V. Locsin",
+      "field": "Arkitektura",
+      "year": 1990,
+      "proclaimed_by": "Corazon Aquino"
+    },
+    {
+      "name": "Juan F. Nakpil",
+      "field": "Arkitektura",
+      "year": 1973,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Ildefonso P. Santos",
+      "field": "Arkitektura (Arkitekturang Tanawin)",
+      "year": 2006,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Jose Maria V. Zaragoza",
+      "field": "Arkitektura",
+      "year": 2014,
+      "proclaimed_by": "Benigno Aquino III"
+    },
+    {
+      "name": "Francisco T. Mañosa",
+      "field": "Arkitektura",
+      "year": 2018,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Ramon Valera",
+      "field": "Moda",
+      "year": 2006,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Salvacion Lim-Higgins",
+      "field": "Moda",
+      "year": 2022,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Antonino R. Buenaventura",
+      "field": "Musika",
+      "year": 1988,
+      "proclaimed_by": "Corazon Aquino"
+    },
+    {
+      "name": "Jose Maceda",
+      "field": "Musika",
+      "year": 1997,
+      "proclaimed_by": "Fidel V. Ramos"
+    },
+    {
+      "name": "Lucrecia R. Kasilag",
+      "field": "Musika",
+      "year": 1989,
+      "proclaimed_by": "Corazon Aquino"
+    },
+    {
+      "name": "Ernani J. Cuenco",
+      "field": "Musika",
+      "year": 1999,
+      "proclaimed_by": "Joseph Estrada"
+    },
+    {
+      "name": "Lucio D. San Pedro",
+      "field": "Musika",
+      "year": 1991,
+      "proclaimed_by": "Corazon Aquino"
+    },
+    {
+      "name": "Antonio J. Molina",
+      "field": "Musika",
+      "year": 1973,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Francisco Feliciano",
+      "field": "Musika",
+      "year": 2014,
+      "proclaimed_by": "Benigno Aquino III"
+    },
+    {
+      "name": "Levi Celerio",
+      "field": "Musika at Panitikan",
+      "year": 1997,
+      "proclaimed_by": "Fidel V. Ramos"
+    },
+    {
+      "name": "Ramon P. Santos",
+      "field": "Musika",
+      "year": 2014,
+      "proclaimed_by": "Benigno Aquino III"
+    },
+    {
+      "name": "Jovita Fuentes",
+      "field": "Musika",
+      "year": 1976,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Felipe Padilla De Leon",
+      "field": "Musika",
+      "year": 1997,
+      "proclaimed_by": "Fidel V. Ramos"
+    },
+    {
+      "name": "Andrea O. Veneracion",
+      "field": "Musika",
+      "year": 1999,
+      "proclaimed_by": "Joseph Estrada"
+    },
+    {
+      "name": "Honorata “Atang” dela Rama",
+      "field": "Musika at Teatro",
+      "year": 1987,
+      "proclaimed_by": "Corazon Aquino"
+    },
+    {
+      "name": "Ryan Cayabyab",
+      "field": "Musika",
+      "year": 2018,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Fides Cuyugan-Asensio",
+      "field": "Musika",
+      "year": 2022,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Francisco Arcellana",
+      "field": "Panitikan",
+      "year": 1990,
+      "proclaimed_by": "Corazon Aquino"
+    },
+    {
+      "name": "Edith L. Tiempo",
+      "field": "Panitikan",
+      "year": 1999,
+      "proclaimed_by": "Joseph Estrada"
+    },
+    {
+      "name": "Bienvenido Lumbera",
+      "field": "Panitikan",
+      "year": 2006,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "N.V.M. Gonzalez",
+      "field": "Panitikan",
+      "year": 1997,
+      "proclaimed_by": "Fidel V. Ramos"
+    },
+    {
+      "name": "Virgilio S. Almario",
+      "field": "Panitikan",
+      "year": 2003,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Cirilo F. Bautista",
+      "field": "Panitikan",
+      "year": 2014,
+      "proclaimed_by": "Benigno Aquino III"
+    },
+    {
+      "name": "Nick Joaquin",
+      "field": "Panitikan",
+      "year": 1976,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Amado V. Hernandez",
+      "field": "Panitikan",
+      "year": 1973,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Lazaro Francisco",
+      "field": "Panitikan",
+      "year": 2009,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "F. Sionil Jose",
+      "field": "Panitikan",
+      "year": 2001,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Carlos P. Romulo",
+      "field": "Panitikan",
+      "year": 1982,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Jose Garcia Villa",
+      "field": "Panitikan",
+      "year": 1973,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Alejandro R. Roces",
+      "field": "Panitikan",
+      "year": 2003,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Resil Mojares",
+      "field": "Panitikan",
+      "year": 2018,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Ramon Muzones",
+      "field": "Panitikan",
+      "year": 2018,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Gemino Abad",
+      "field": "Panitikan",
+      "year": 2022,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Carlos Quirino",
+      "field": "Panitikang Pangkasaysayan",
+      "year": 1997,
+      "proclaimed_by": "Fidel V. Ramos"
+    },
+    {
+      "name": "Lino Brocka",
+      "field": "Pelikula",
+      "year": 1997,
+      "proclaimed_by": "Fidel V. Ramos"
+    },
+    {
+      "name": "Ishmael Bernal",
+      "field": "Pelikula",
+      "year": 2001,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Manuel Conde",
+      "field": "Pelikula",
+      "year": 2009,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Gerardo de León",
+      "field": "Pelikula",
+      "year": 1982,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Fernando Poe, Jr.",
+      "field": "Pelikula",
+      "year": 2006,
+      "proclaimed_by": "Gloria Macapagal Arroyo (2006), Benigno Aquino III (2012)"
+    },
+    {
+      "name": "Eddie S. Romero",
+      "field": "Pelikula",
+      "year": 2003,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Eric \"Kidlat Tahimik\" de Guia",
+      "field": "Pelikula",
+      "year": 2018,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Marilou Diaz-Abaya",
+      "field": "Pelikula",
+      "year": 2022,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Nora Aunor",
+      "field": "Pelikula",
+      "year": 2022,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Ricky Lee",
+      "field": "Pelikula",
+      "year": 2022,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Francisca Reyes-Aquino",
+      "field": "Sayaw",
+      "year": 1973,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Ramon Obusan",
+      "field": "Sayaw",
+      "year": 2006,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Alice Reyes",
+      "field": "Sayaw",
+      "year": 2014,
+      "proclaimed_by": "Benigno Aquino III"
+    },
+    {
+      "name": "Leonor Orosa-Goquingco",
+      "field": "Sayaw",
+      "year": 1976,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Lucrecia Reyes-Urtula",
+      "field": "Sayaw",
+      "year": 1988,
+      "proclaimed_by": "Corazon Aquino"
+    },
+    {
+      "name": "Agnes D. Locsin",
+      "field": "Sayaw",
+      "year": 2022,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Fernando Amorsolo",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 1972,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Hernando R. Ocampo",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 1991,
+      "proclaimed_by": "Corazon Aquino"
+    },
+    {
+      "name": "Benedicto \"BenCab\" R. Cabrera",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 2006,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Carlos \"Botong\" V. Francisco",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 1973,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Cesar Legaspi",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 1990,
+      "proclaimed_by": "Corazon Aquino"
+    },
+    {
+      "name": "Abdulmari Asia Imao",
+      "field": "Sining Biswal (Iskultura)",
+      "year": 2006,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Guillermo Tolentino",
+      "field": "Sining Biswal (Iskultura)",
+      "year": 1973,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Arturo R. Luz",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 1997,
+      "proclaimed_by": "Fidel V. Ramos"
+    },
+    {
+      "name": "Federico Aguilar Alcuaz",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 2009,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Napoleon Abueva",
+      "field": "Sining Biswal (Iskultura)",
+      "year": 1976,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "J. Elizalde Navarro",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 1999,
+      "proclaimed_by": "Joseph Estrada"
+    },
+    {
+      "name": "Francisco V. Coching",
+      "field": "Sining Biswal (Komiks)",
+      "year": 2014,
+      "proclaimed_by": "Benigno Aquino III"
+    },
+    {
+      "name": "Victorio C. Edades",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 1976,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Ang Kiukok",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 2001,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Jose T. Joya",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 2003,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Vicente S. Manansala",
+      "field": "Sining Biswal (Pagpipinta)",
+      "year": 1981,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Larry Alcala",
+      "field": "Sining Biswal (Kartoons)",
+      "year": 2018,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Daisy Hontiveros-Avellana",
+      "field": "Teatro (Sining Pandulaan)",
+      "year": 1999,
+      "proclaimed_by": "Joseph Estrada"
+    },
+    {
+      "name": "Rolando S. Tinio",
+      "field": "Teatro at Panitikan",
+      "year": 1997,
+      "proclaimed_by": "Fidel V. Ramos"
+    },
+    {
+      "name": "Wilfrido Ma. Guerrero",
+      "field": "Teatro",
+      "year": 1997,
+      "proclaimed_by": "Fidel V. Ramos"
+    },
+    {
+      "name": "Severino Montano",
+      "field": "Teatro",
+      "year": 2001,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    },
+    {
+      "name": "Lamberto V. Avellana",
+      "field": "Teatro at Pelikula",
+      "year": 1976,
+      "proclaimed_by": "Ferdinand Marcos"
+    },
+    {
+      "name": "Amelia Lapeña-Bonifacio",
+      "field": "Teatro",
+      "year": 2018,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Tony Mabesa",
+      "field": "Teatro",
+      "year": 2022,
+      "proclaimed_by": "Rodrigo Duterte"
+    },
+    {
+      "name": "Salvador F. Bernal",
+      "field": "Teatro at Disenyong Pang-Teatro",
+      "year": 2003,
+      "proclaimed_by": "Gloria Macapagal Arroyo"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pambansang Alagad ng Sining ng Pilipinas - Free Download",
+    "description": "Talaan ng mga ginawaran ng Orden ng Pambansang Alagad ng Sining: larangan (musika, sayaw, panitikan, pelikula, atbp.), taon ng pagkilala at nagproklamang pangulo. Contains 81 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pambansang Alagad ng Sining ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Pambansang Alagad ng Sining ng Pilipinas — 81 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 81 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Pambansang_Alagad_ng_Sining_ng_Pilipinas"
+    ]
+  }
+}

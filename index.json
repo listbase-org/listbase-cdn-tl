@@ -1,12 +1,12 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:54.222Z",
-  "total_datasets": 450,
-  "total_records": 443315,
+  "generated": "2026-10-27T02:17:56.661Z",
+  "total_datasets": 451,
+  "total_records": 443396,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 39
+      "dataset_count": 40
     },
     {
       "id": "economy",
@@ -1278,6 +1278,31 @@
         "xlsx": {
           "name": "tl-pamanang-pandaigdig-unesco_TL.xlsx",
           "size": 8682
+        }
+      }
+    },
+    {
+      "id": "tl-pambansang-alagad-ng-sining",
+      "name": "Mga Pambansang Alagad ng Sining ng Pilipinas",
+      "category": "culture",
+      "record_count": 81,
+      "columns": [
+        "name",
+        "field",
+        "year",
+        "proclaimed_by"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Pambansang_Alagad_ng_Sining_ng_Pilipinas",
+      "updated": "2026-10",
+      "size": 13372,
+      "files": {
+        "csv": {
+          "name": "tl-pambansang-alagad-ng-sining_TL.csv",
+          "size": 5184
+        },
+        "xlsx": {
+          "name": "tl-pambansang-alagad-ng-sining_TL.xlsx",
+          "size": 9604
         }
       }
     },
