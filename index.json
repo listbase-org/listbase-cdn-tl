@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:16.160Z",
-  "total_datasets": 435,
-  "total_records": 442138,
+  "generated": "2026-10-27T02:17:18.534Z",
+  "total_datasets": 436,
+  "total_records": 442521,
   "categories": [
     {
       "id": "culture",
@@ -58,6 +58,10 @@
     },
     {
       "id": "society",
+      "dataset_count": 1
+    },
+    {
+      "id": "sports",
       "dataset_count": 1
     },
     {
@@ -12885,6 +12889,32 @@
         "xlsx": {
           "name": "tl-hotline-pangemerhensiya_TL.xlsx",
           "size": 8683
+        }
+      }
+    },
+    {
+      "id": "tl-medalya-ng-pilipinas-sea-games-2019",
+      "name": "Mga Nagwagi ng Medalya para sa Pilipinas sa SEA Games 2019",
+      "category": "sports",
+      "record_count": 383,
+      "columns": [
+        "no",
+        "medal",
+        "name",
+        "sport",
+        "date"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Pilipinas_sa_Palaro_ng_Timog_Silangang_Asya_2019",
+      "updated": "2026-10",
+      "size": 72528,
+      "files": {
+        "csv": {
+          "name": "tl-medalya-ng-pilipinas-sea-games-2019_TL.csv",
+          "size": 38167
+        },
+        "xlsx": {
+          "name": "tl-medalya-ng-pilipinas-sea-games-2019_TL.xlsx",
+          "size": 26400
         }
       }
     },
