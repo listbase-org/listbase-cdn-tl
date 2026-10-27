@@ -1,0 +1,124 @@
+{
+  "id": "tl-mga-gobernador-ng-bangko-sentral",
+  "name": "Mga Gobernador ng Bangko Sentral ng Pilipinas",
+  "title": "Mga Gobernador ng Bangko Sentral ng Pilipinas",
+  "description": "Mga naging tagapangasiwa/gobernador ng Central Bank of the Philippines at Bangko Sentral ng Pilipinas at ang kanilang panahon ng panunungkulan.",
+  "category": "finance",
+  "source": "https://tl.wikipedia.org/wiki/Bangko_Sentral_ng_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Bangko_Sentral_ng_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "institution",
+      "label": "Institution",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "term_start": "3 Enero 1949",
+      "term_end": "31 Disyembre 1960",
+      "name": "Miguel Cuaderno, Sr.",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (luma)"
+    },
+    {
+      "term_start": "6 Enero 1961",
+      "term_end": "31 Disyembre 1967",
+      "name": "Andres V. Castillo",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (luma)"
+    },
+    {
+      "term_start": "1 Enero 1968",
+      "term_end": "9 Enero 1970",
+      "name": "Alfonso Calalang",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (luma)"
+    },
+    {
+      "term_start": "10 Enero 1970",
+      "term_end": "15 Enero 1981",
+      "name": "Gregorio S. Licaros",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (luma)"
+    },
+    {
+      "term_start": "16 Enero 1981",
+      "term_end": "18 Enero 1984",
+      "name": "Jaime C. Laya",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (luma)"
+    },
+    {
+      "term_start": "19 Enero 1984",
+      "term_end": "19 Pebrero 1990",
+      "name": "Jose B. Fernandez, Jr.",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (luma)"
+    },
+    {
+      "term_start": "20 Pebrero 1990",
+      "term_end": "2 Hulyo 1993",
+      "name": "Jose L. Cuisia, Jr.",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (luma)"
+    },
+    {
+      "term_start": "6 Hulyo 1993",
+      "term_end": "5 Hulyo 1999",
+      "name": "Gabriel C. Singson",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (bago)"
+    },
+    {
+      "term_start": "6 Hulyo 1999",
+      "term_end": "3 Hulyo 2005",
+      "name": "Rafael B. Buenaventura",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (bago)"
+    },
+    {
+      "term_start": "4 Hulyo 2005",
+      "term_end": "3 Hulyo 2017",
+      "name": "Amando M. Tetangco, Jr.",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (bago)"
+    },
+    {
+      "term_start": "3 Hulyo 2017",
+      "term_end": "23 Pebrero 2019",
+      "name": "Nestor Espenilla, Jr.",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (bago)"
+    },
+    {
+      "term_start": "4 Marso 2019",
+      "term_end": "30 Hunyo 2022",
+      "name": "Benjamin Diokno",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (bago)"
+    },
+    {
+      "term_start": "1 Hulyo 2022",
+      "term_end": "Kasalukuyan",
+      "name": "Felipe Medalla",
+      "institution": "Mga tagapangasiwa ng Bangko Sentral (bago)"
+    }
+  ],
+  "meta": {
+    "title": "Mga Gobernador ng Bangko Sentral ng Pilipinas - Free Download",
+    "description": "Mga naging tagapangasiwa/gobernador ng Central Bank of the Philippines at Bangko Sentral ng Pilipinas at ang kanilang panahon ng panunungkulan. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Gobernador ng Bangko Sentral ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Gobernador ng Bangko Sentral ng Pilipinas — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Bangko_Sentral_ng_Pilipinas"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:17:25.930Z",
-  "total_datasets": 439,
-  "total_records": 442669,
+  "generated": "2026-10-27T02:17:28.493Z",
+  "total_datasets": 440,
+  "total_records": 442682,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "food",
@@ -3212,6 +3212,31 @@
         "xlsx": {
           "name": "tl-mga-barya-ng-piso_TL.xlsx",
           "size": 8275
+        }
+      }
+    },
+    {
+      "id": "tl-mga-gobernador-ng-bangko-sentral",
+      "name": "Mga Gobernador ng Bangko Sentral ng Pilipinas",
+      "category": "finance",
+      "record_count": 13,
+      "columns": [
+        "term_start",
+        "term_end",
+        "name",
+        "institution"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Bangko_Sentral_ng_Pilipinas",
+      "updated": "2026-10",
+      "size": 4130,
+      "files": {
+        "csv": {
+          "name": "tl-mga-gobernador-ng-bangko-sentral_TL.csv",
+          "size": 1325
+        },
+        "xlsx": {
+          "name": "tl-mga-gobernador-ng-bangko-sentral_TL.xlsx",
+          "size": 7357
         }
       }
     },
