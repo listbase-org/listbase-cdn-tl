@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-28T02:20:39.184Z",
-  "total_datasets": 458,
-  "total_records": 443626,
+  "generated": "2026-10-28T02:20:41.393Z",
+  "total_datasets": 459,
+  "total_records": 443721,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "finance",
@@ -3324,6 +3324,29 @@
         "xlsx": {
           "name": "tl-pinakamataas-na-kita-viva-films_TL.xlsx",
           "size": 7249
+        }
+      }
+    },
+    {
+      "id": "tl-mga-ilog-at-estero-ng-kalakhang-maynila",
+      "name": "Mga Ilog at Estero sa Kalakhang Maynila",
+      "category": "environment",
+      "record_count": 95,
+      "columns": [
+        "name",
+        "description"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_ilog_at_estero_sa_Kalakhang_Maynila",
+      "updated": "2026-10",
+      "size": 14331,
+      "files": {
+        "csv": {
+          "name": "tl-mga-ilog-at-estero-ng-kalakhang-maynila_TL.csv",
+          "size": 8185
+        },
+        "xlsx": {
+          "name": "tl-mga-ilog-at-estero-ng-kalakhang-maynila_TL.xlsx",
+          "size": 10416
         }
       }
     },
