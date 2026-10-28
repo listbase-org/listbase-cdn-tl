@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-28T02:20:41.393Z",
-  "total_datasets": 459,
-  "total_records": 443721,
+  "generated": "2026-10-28T02:20:43.754Z",
+  "total_datasets": 460,
+  "total_records": 443793,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -4832,6 +4832,33 @@
         "xlsx": {
           "name": "tl-mga-wika-sa-pilipinas-ayon-sa-mananalita_TL.xlsx",
           "size": 6931
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-katarungan",
+      "name": "Mga Kalihim ng Katarungan ng Pilipinas",
+      "category": "law",
+      "record_count": 72,
+      "columns": [
+        "no",
+        "name",
+        "start",
+        "end",
+        "president",
+        "title"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Katarungan",
+      "updated": "2026-10",
+      "size": 16560,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-katarungan_TL.csv",
+          "size": 7219
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-katarungan_TL.xlsx",
+          "size": 10373
         }
       }
     },

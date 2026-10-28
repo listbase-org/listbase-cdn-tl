@@ -1,0 +1,632 @@
+{
+  "id": "tl-mga-kalihim-ng-katarungan",
+  "name": "Mga Kalihim ng Katarungan ng Pilipinas",
+  "title": "Mga Kalihim ng Katarungan ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim ng Kagawaran ng Katarungan ng Pilipinas: simula at pagtatapos ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "law",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Katarungan",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Katarungan",
+  "updated": "2026-10",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "president",
+      "label": "President",
+      "type": "string"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "A",
+      "name": "Gregorio S. Araneta",
+      "start": "26 Setyembre 1898",
+      "end": "19 Mayo 1899",
+      "president": "",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "1",
+      "name": "Florentino Torres",
+      "start": "29 Mayo 1899",
+      "end": "4 Hunyo 1901",
+      "president": "Emilio Aguinaldo",
+      "title": "Abogado Heneral"
+    },
+    {
+      "no": "B",
+      "name": "Henry C. Ide",
+      "start": "1 Setyembre 1901",
+      "end": "30 Hunyo 1908",
+      "president": "",
+      "title": "Kalihim ng Pananalapi at Katarungan"
+    },
+    {
+      "no": "C",
+      "name": "Gregorio S. Araneta",
+      "start": "1 Hulyo 1908",
+      "end": "10 Oktubre 1913",
+      "president": "",
+      "title": "Kalihim ng Pananalapi at Katarungan"
+    },
+    {
+      "no": "D",
+      "name": "Victorino Mapa",
+      "start": "1 Nobyembre 1913",
+      "end": "30 Hunyo 1920",
+      "president": "",
+      "title": "Kalihim ng Pananalapi at Katarungan"
+    },
+    {
+      "no": "E",
+      "name": "Quintin B. Paredes",
+      "start": "1 Hulyo 1920",
+      "end": "15 Disyembre 1921",
+      "president": "",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "F",
+      "name": "Jose Abad Santos",
+      "start": "26 Abril 1922",
+      "end": "17 Hulyo 1923",
+      "president": "",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "G",
+      "name": "Luis P. Torres",
+      "start": "18 Hunyo 1923",
+      "end": "31 Agosto 1928",
+      "president": "",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "H",
+      "name": "Jose Abad Santos",
+      "start": "1 Setyembre 1928",
+      "end": "18 Hunyo 1932",
+      "president": "",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "I",
+      "name": "Alexander A. Reyes",
+      "start": "19 Hunyo 1932",
+      "end": "31 Disyembre 1932",
+      "president": "",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "J",
+      "name": "Quirico M. Abeto",
+      "start": "1 Enero 1933",
+      "end": "5 Hulyo 1934",
+      "president": "",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "2",
+      "name": "Jose Yulo",
+      "start": "6 Hulyo 1934",
+      "end": "15 Nobyembre 1938",
+      "president": "",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "2",
+      "name": "Jose Yulo",
+      "start": "6 Hulyo 1934",
+      "end": "15 Nobyembre 1938",
+      "president": "Manuel Quezon",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "3",
+      "name": "Jose Abad Santos",
+      "start": "5 Disyembre 1938",
+      "end": "16 Hulyo 1941",
+      "president": "Manuel Quezon",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "4",
+      "name": "Teofilo L. Sison",
+      "start": "18 Hulyo 1941",
+      "end": "27 Nobyembre 1941",
+      "president": "Manuel Quezon",
+      "title": "Komisyoner ng Katarungan"
+    },
+    {
+      "no": "5",
+      "name": "Jose P. Laurel",
+      "start": "24 Disyembre 1941",
+      "end": "4 Disyembre 1942",
+      "president": "Manuel Quezon",
+      "title": "Komisyoner ng Katarungan"
+    },
+    {
+      "no": "(4)",
+      "name": "Teofilo L. Sison",
+      "start": "4 Disyembre 1942",
+      "end": "24 Oktubre 1944",
+      "president": "Manuel Quezon",
+      "title": "Komisyoner ng Katarungan"
+    },
+    {
+      "no": "(4)",
+      "name": "Teofilo L. Sison",
+      "start": "4 Disyembre 1942",
+      "end": "24 Oktubre 1944",
+      "president": "Sergio Osmeña",
+      "title": "Komisyoner ng Katarungan"
+    },
+    {
+      "no": "*",
+      "name": "Mariano A. Eraña",
+      "start": "1944",
+      "end": "1945",
+      "president": "Sergio Osmena",
+      "title": "Kalihim ng Katarungan, Paggawa at Kagalingan"
+    },
+    {
+      "no": "5",
+      "name": "Delfin J. Jaranilla",
+      "start": "8 Marso 1945",
+      "end": "31 Disyembre 1945",
+      "president": "Sergio Osmeña",
+      "title": "Kalihim ng Katarungan, Pagsasaka at Kalakalan"
+    },
+    {
+      "no": "6",
+      "name": "Ramon Quisumbing",
+      "start": "2 Enero 1946",
+      "end": "28 Mayo 1946",
+      "president": "Sergio Osmeña",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "6",
+      "name": "Ramon Quisumbing",
+      "start": "2 Enero 1946",
+      "end": "28 Mayo 1946",
+      "president": "Manuel Roxas",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "7",
+      "name": "Roman Ozaeta",
+      "start": "29 Mayo 1946",
+      "end": "17 Setyembre 1948",
+      "president": "Manuel Roxas",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "7",
+      "name": "Roman Ozaeta",
+      "start": "29 Mayo 1946",
+      "end": "17 Setyembre 1948",
+      "president": "Elpidio Quirino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "8",
+      "name": "Sabino B. Padilla",
+      "start": "19 Setyembre 1948",
+      "end": "30 Hunyo 1949",
+      "president": "Elpidio Quirino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "9",
+      "name": "Ricardo P. Nepomuceno",
+      "start": "1 Hulyo 1949",
+      "end": "25 Hulyo 1950",
+      "president": "Elpidio Quirino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "10",
+      "name": "Jose P. Bengzon",
+      "start": "29 Agosto 1950",
+      "end": "23 Setyembre 1951",
+      "president": "Elpidio Quirino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "11",
+      "name": "Oscar Castelo",
+      "start": "1 Enero 1952",
+      "end": "31 Disyembre 1953",
+      "president": "Elpidio Quirino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "*",
+      "name": "Roberto Gianzon",
+      "start": "17 Agosto 1953",
+      "end": "31 Disyembre 1953",
+      "president": "Elpidio Quirino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "12",
+      "name": "Pedro T. Tuazon",
+      "start": "4 Enero 1954",
+      "end": "4 Hunyo 1959",
+      "president": "Ramon Magsaysay",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "12",
+      "name": "Pedro T. Tuazon",
+      "start": "4 Enero 1954",
+      "end": "4 Hunyo 1959",
+      "president": "Carlos Garcia",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "*",
+      "name": "Jesus G. Barrera",
+      "start": "18 Abril 1958",
+      "end": "4 Hunyo 1959",
+      "president": "Carlos Garcia",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "13",
+      "name": "Enrique Fernandez",
+      "start": "11 Hunyo 1959",
+      "end": "13 Hulyo 1959",
+      "president": "Carlos Garcia",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "14",
+      "name": "Alejo R. Mabanag",
+      "start": "14 Hulyo 1959",
+      "end": "31 Disyembre 1961",
+      "president": "Carlos Garcia",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "15",
+      "name": "Jose W. Diokno",
+      "start": "2 Enero 1962",
+      "end": "19 Mayo 1962",
+      "president": "Diosdado Macapagal",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "16",
+      "name": "Juan R. Liwag",
+      "start": "20 Mayo 1962",
+      "end": "7 Hulyo 1963",
+      "president": "Diosdado Macapagal",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "17",
+      "name": "Salvador L. Marino",
+      "start": "8 Hulyo 1963",
+      "end": "31 Disyembre 1965",
+      "president": "Diosdado Macapagal",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "(2)",
+      "name": "Jose Yulo",
+      "start": "1 Enero 1966",
+      "end": "4 Agosto 1967",
+      "president": "Ferdinand Marcos",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "18",
+      "name": "Claudio Teehankee, Sr.",
+      "start": "5 Agosto 1967",
+      "end": "16 Disyembre 1968",
+      "president": "Ferdinand Marcos",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "19",
+      "name": "Juan Ponce Enrile",
+      "start": "17 Disyembre 1968",
+      "end": "7 Pebrero 1970",
+      "president": "Ferdinand Marcos",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "20",
+      "name": "Felix Makasiar",
+      "start": "8 Pebrero 1970",
+      "end": "1 Agosto 1970",
+      "president": "Ferdinand Marcos",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "21",
+      "name": "Vicente Abad Santos",
+      "start": "2 Agosto 1970",
+      "end": "1978",
+      "president": "Ferdinand Marcos",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "",
+      "name": "Vicente Abad Santos",
+      "start": "1978",
+      "end": "16 Enero 1979",
+      "president": "Ferdinand Marcos",
+      "title": "Ministro ng Katarungan"
+    },
+    {
+      "no": "22",
+      "name": "Catalino T. Macaraig, Jr.",
+      "start": "17 Enero 1979",
+      "end": "22 Hulyo 1979",
+      "president": "Ferdinand Marcos",
+      "title": "Ministro ng Katarungan"
+    },
+    {
+      "no": "23",
+      "name": "Ricardo C. Puno",
+      "start": "23 Hulyo 1979",
+      "end": "30 Hunyo 1984",
+      "president": "Ferdinand Marcos",
+      "title": "Ministro ng Katarungan"
+    },
+    {
+      "no": "24",
+      "name": "Estelito P. Mendoza",
+      "start": "30 Hunyo 1984",
+      "end": "27 Pebrero 1986",
+      "president": "Ferdinand Marcos",
+      "title": "Ministro ng Katarungan"
+    },
+    {
+      "no": "25",
+      "name": "Neptali A. Gonzales",
+      "start": "28 Pebrero 1986",
+      "end": "8 Marso 1987",
+      "president": "Corazon C. Aquino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "26",
+      "name": "Sedfrey A. Ordoñez",
+      "start": "13 Marso 1987",
+      "end": "2 Enero 1990",
+      "president": "Corazon C. Aquino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "27",
+      "name": "Franklin M. Drilon",
+      "start": "4 Enero 1990",
+      "end": "14 Hulyo 1991",
+      "president": "Corazon C. Aquino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "28",
+      "name": "Silvestre H. Bello III",
+      "start": "15 Hulyo 1991",
+      "end": "6 Pebrero 1992",
+      "president": "Corazon C. Aquino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "29",
+      "name": "Eduardo G. Montenegro",
+      "start": "10 Pebrero 1992",
+      "end": "30 Hunyo 1992",
+      "president": "Corazon C. Aquino",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "(27)",
+      "name": "Franklin M. Drilon",
+      "start": "1 Hulyo 1992",
+      "end": "2 Pebrero 1995",
+      "president": "Fidel V. Ramos",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "30",
+      "name": "Demetrio G. Demetria",
+      "start": "3 Pebrero 1995",
+      "end": "19 Mayo 1995",
+      "president": "Fidel V. Ramos",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "31",
+      "name": "Teofisto T. Guingona, Jr.",
+      "start": "20 Mayo 1995",
+      "end": "3 Pebrero 1998",
+      "president": "Fidel V. Ramos",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "(28)",
+      "name": "Silvestre H. Bello III",
+      "start": "4 Pebrero 1998",
+      "end": "30 Hunyo 1998",
+      "president": "Fidel V. Ramos",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "32",
+      "name": "Serafin R. Cuevas",
+      "start": "1 Hulyo 1998",
+      "end": "15 Pebrero 2000",
+      "president": "Joseph Ejercito Estrada",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "33",
+      "name": "Artemio G. Tuquero",
+      "start": "16 Pebrero 2000",
+      "end": "22 Enero 2001",
+      "president": "Joseph Ejercito Estrada",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "34",
+      "name": "Hernando B. Perez",
+      "start": "23 Enero 2001",
+      "end": "2 Enero 2002",
+      "president": "Gloria Macapagal-Arroyo",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "35",
+      "name": "Ma. Merceditas N. Gutierrez",
+      "start": "27 Nobyembre 2002",
+      "end": "15 Enero 2003",
+      "president": "Gloria Macapagal-Arroyo",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "36",
+      "name": "Simeon A. Datumanong",
+      "start": "16 Enero 2003",
+      "end": "23 Disyembre 2003",
+      "president": "Gloria Macapagal-Arroyo",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "(35)",
+      "name": "Ma. Merceditas N. Gutierrez",
+      "start": "24 Disyembre 2003",
+      "end": "31 Agosto 2004",
+      "president": "Gloria Macapagal-Arroyo",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "37",
+      "name": "Raul Gonzalez",
+      "start": "1 Setyembre 2004",
+      "end": "5 Setyembre 2007",
+      "president": "Gloria Macapagal-Arroyo",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "*",
+      "name": "Agnes Devanadera",
+      "start": "5 Setyembre 2007",
+      "end": "Nobyembre 2007",
+      "president": "Gloria Macapagal-Arroyo",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "(37)",
+      "name": "Raul M. Gonzalez",
+      "start": "Nobyembre 2007",
+      "end": "2009",
+      "president": "Gloria Macapagal-Arroyo",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "38",
+      "name": "Agnes Devanadera",
+      "start": "2009",
+      "end": "2010",
+      "president": "Gloria Macapagal-Arroyo",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "*",
+      "name": "Alberto Agra",
+      "start": "2010",
+      "end": "Hunyo 2010",
+      "president": "Gloria Macapagal-Arroyo",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "39",
+      "name": "Leila de Lima",
+      "start": "Hulyo 2010",
+      "end": "12 Oktubre 2015",
+      "president": "Benigno S. Aquino III",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "40",
+      "name": "Alfredo Caguioa",
+      "start": "12 Oktubre 2015",
+      "end": "21 Enero 2016",
+      "president": "Benigno S. Aquino III",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "*",
+      "name": "Emmanuel Caparas",
+      "start": "22 Enero 2016",
+      "end": "30 Hunyo 2016",
+      "president": "Benigno S. Aquino III",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "41",
+      "name": "Vitaliano Aguirre II",
+      "start": "30 Hunyo 2016",
+      "end": "5 Abril 2018",
+      "president": "Rodrigo Roa Duterte",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "42",
+      "name": "Menardo Guevarra",
+      "start": "5 Abril 2018",
+      "end": "30 Hunyo 2022",
+      "president": "Rodrigo Roa Duterte",
+      "title": "Kalihim ng Katarungan"
+    },
+    {
+      "no": "43",
+      "name": "Jesus Crispin Remulla",
+      "start": "30 Hunyo 2022",
+      "end": "Kasalukuyan",
+      "president": "Bongbong Marcos",
+      "title": "Kalihim ng Katarungan"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Katarungan ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim ng Kagawaran ng Katarungan ng Pilipinas: simula at pagtatapos ng panunungkulan at pangulong pinaglingkuran. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Katarungan ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Katarungan ng Pilipinas — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Katarungan"
+    ]
+  }
+}
