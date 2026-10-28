@@ -1,0 +1,501 @@
+{
+  "id": "tl-mga-iniretirong-pangalan-ng-bagyo",
+  "name": "Mga Iniretirong Pangalan ng Bagyo ng PAGASA",
+  "title": "Mga Iniretirong Pangalan ng Bagyo ng PAGASA",
+  "description": "Talaan ng mga lokal na pangalan ng bagyo na iniretiro ng PAGASA dahil sa matinding pinsala, ayon sa titik at taon ng pagretiro.",
+  "category": "environment",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_rinetirong_pangalan_ng_bagyo_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_rinetirong_pangalan_ng_bagyo_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "letter",
+      "label": "Letter",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "year_retired",
+      "label": "Year Retired",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "letter": "D",
+      "name": "Dading",
+      "year_retired": 1964
+    },
+    {
+      "letter": "W",
+      "name": "Welming",
+      "year_retired": 1967
+    },
+    {
+      "letter": "S",
+      "name": "Sening",
+      "year_retired": 1970
+    },
+    {
+      "letter": "T",
+      "name": "Titang",
+      "year_retired": 1970
+    },
+    {
+      "letter": "Y",
+      "name": "Yoling",
+      "year_retired": 1970
+    },
+    {
+      "letter": "W",
+      "name": "Wening",
+      "year_retired": 1974
+    },
+    {
+      "letter": "D",
+      "name": "Didang",
+      "year_retired": 1976
+    },
+    {
+      "letter": "U",
+      "name": "Unding",
+      "year_retired": 1977
+    },
+    {
+      "letter": "A",
+      "name": "Atang",
+      "year_retired": 1978
+    },
+    {
+      "letter": "N",
+      "name": "Nitang",
+      "year_retired": 1984
+    },
+    {
+      "letter": "U",
+      "name": "Unding",
+      "year_retired": 1984
+    },
+    {
+      "letter": "K",
+      "name": "Kading",
+      "year_retired": 1987
+    },
+    {
+      "letter": "S",
+      "name": "Sendong",
+      "year_retired": 1987
+    },
+    {
+      "letter": "U",
+      "name": "Undang",
+      "year_retired": 1988
+    },
+    {
+      "letter": "Y",
+      "name": "Yoning",
+      "year_retired": 1988
+    },
+    {
+      "letter": "R",
+      "name": "Ruping",
+      "year_retired": 1990
+    },
+    {
+      "letter": "U",
+      "name": "Unsang",
+      "year_retired": 1991
+    },
+    {
+      "letter": "M",
+      "name": "Monang",
+      "year_retired": 1993
+    },
+    {
+      "letter": "R",
+      "name": "Rosing",
+      "year_retired": 1995
+    },
+    {
+      "letter": "I",
+      "name": "Iliang",
+      "year_retired": 1998
+    },
+    {
+      "letter": "L",
+      "name": "Loleng",
+      "year_retired": 1998
+    },
+    {
+      "letter": "N",
+      "name": "Nanang",
+      "year_retired": 2001
+    },
+    {
+      "letter": "G",
+      "name": "Gloria",
+      "year_retired": 2002
+    },
+    {
+      "letter": "H",
+      "name": "Harurot",
+      "year_retired": 2002
+    },
+    {
+      "letter": "U",
+      "name": "Uring",
+      "year_retired": 2004
+    },
+    {
+      "letter": "V",
+      "name": "Violeta",
+      "year_retired": 2004
+    },
+    {
+      "letter": "W",
+      "name": "Winnie",
+      "year_retired": 2004
+    },
+    {
+      "letter": "M",
+      "name": "Milenyo",
+      "year_retired": 2006
+    },
+    {
+      "letter": "R",
+      "name": "Reming",
+      "year_retired": 2006
+    },
+    {
+      "letter": "C",
+      "name": "Cosme",
+      "year_retired": 2008
+    },
+    {
+      "letter": "F",
+      "name": "Frank",
+      "year_retired": 2008
+    },
+    {
+      "letter": "F",
+      "name": "Feria",
+      "year_retired": 2009
+    },
+    {
+      "letter": "O",
+      "name": "Ondoy",
+      "year_retired": 2009
+    },
+    {
+      "letter": "P",
+      "name": "Pepeng",
+      "year_retired": 2009
+    },
+    {
+      "letter": "J",
+      "name": "Juan",
+      "year_retired": 2010
+    },
+    {
+      "letter": "K",
+      "name": "Katring",
+      "year_retired": 2010
+    },
+    {
+      "letter": "B",
+      "name": "Bebeng",
+      "year_retired": 2011
+    },
+    {
+      "letter": "J",
+      "name": "Juaning",
+      "year_retired": 2011
+    },
+    {
+      "letter": "M",
+      "name": "Mina",
+      "year_retired": 2011
+    },
+    {
+      "letter": "N",
+      "name": "Nonoy",
+      "year_retired": 2011
+    },
+    {
+      "letter": "P",
+      "name": "Pedring",
+      "year_retired": 2011
+    },
+    {
+      "letter": "S",
+      "name": "Sisang",
+      "year_retired": 2011
+    },
+    {
+      "letter": "P",
+      "name": "Pablo",
+      "year_retired": 2012
+    },
+    {
+      "letter": "L",
+      "name": "Labuyo",
+      "year_retired": 2013
+    },
+    {
+      "letter": "S",
+      "name": "Santi",
+      "year_retired": 2013
+    },
+    {
+      "letter": "Y",
+      "name": "Yolanda",
+      "year_retired": 2013
+    },
+    {
+      "letter": "G",
+      "name": "Glenda",
+      "year_retired": 2014
+    },
+    {
+      "letter": "J",
+      "name": "Jose",
+      "year_retired": 2014
+    },
+    {
+      "letter": "K",
+      "name": "Kanor",
+      "year_retired": 2014
+    },
+    {
+      "letter": "M",
+      "name": "Mario",
+      "year_retired": 2014
+    },
+    {
+      "letter": "R",
+      "name": "Ruby",
+      "year_retired": 2014
+    },
+    {
+      "letter": "S",
+      "name": "Seniang",
+      "year_retired": 2014
+    },
+    {
+      "letter": "L",
+      "name": "Lando",
+      "year_retired": 2015
+    },
+    {
+      "letter": "N",
+      "name": "Nona",
+      "year_retired": 2015
+    },
+    {
+      "letter": "K",
+      "name": "Karen",
+      "year_retired": 2016
+    },
+    {
+      "letter": "L",
+      "name": "Lawin",
+      "year_retired": 2016
+    },
+    {
+      "letter": "N",
+      "name": "Nina",
+      "year_retired": 2016
+    },
+    {
+      "letter": "U",
+      "name": "Urduja",
+      "year_retired": 2017
+    },
+    {
+      "letter": "V",
+      "name": "Vinta",
+      "year_retired": 2017
+    },
+    {
+      "letter": "O",
+      "name": "Ompong",
+      "year_retired": 2018
+    },
+    {
+      "letter": "R",
+      "name": "Rosita",
+      "year_retired": 2018
+    },
+    {
+      "letter": "U",
+      "name": "Usman",
+      "year_retired": 2018
+    },
+    {
+      "letter": "T",
+      "name": "Tisoy",
+      "year_retired": 2019
+    },
+    {
+      "letter": "U",
+      "name": "Ursula",
+      "year_retired": 2019
+    },
+    {
+      "letter": "A",
+      "name": "Ambo",
+      "year_retired": 2020
+    },
+    {
+      "letter": "Q",
+      "name": "Quinta",
+      "year_retired": 2020
+    },
+    {
+      "letter": "R",
+      "name": "Rolly",
+      "year_retired": 2020
+    },
+    {
+      "letter": "U",
+      "name": "Ulysses",
+      "year_retired": 2020
+    },
+    {
+      "letter": "J",
+      "name": "Jolina",
+      "year_retired": 2021
+    },
+    {
+      "letter": "M",
+      "name": "Maring",
+      "year_retired": 2021
+    },
+    {
+      "letter": "O",
+      "name": "Odette",
+      "year_retired": 2021
+    },
+    {
+      "letter": "A",
+      "name": "Agaton",
+      "year_retired": 2022
+    },
+    {
+      "letter": "F",
+      "name": "Florita",
+      "year_retired": 2022
+    },
+    {
+      "letter": "K",
+      "name": "Karding",
+      "year_retired": 2022
+    },
+    {
+      "letter": "P",
+      "name": "Paeng",
+      "year_retired": 2022
+    },
+    {
+      "letter": "E",
+      "name": "Egay",
+      "year_retired": 2023
+    },
+    {
+      "letter": "G",
+      "name": "Goring",
+      "year_retired": 2023
+    },
+    {
+      "letter": "A",
+      "name": "Aghon",
+      "year_retired": 2024
+    },
+    {
+      "letter": "E",
+      "name": "Enteng",
+      "year_retired": 2024
+    },
+    {
+      "letter": "J",
+      "name": "Julian",
+      "year_retired": 2024
+    },
+    {
+      "letter": "K",
+      "name": "Kristine",
+      "year_retired": 2024
+    },
+    {
+      "letter": "L",
+      "name": "Leon",
+      "year_retired": 2024
+    },
+    {
+      "letter": "N",
+      "name": "Nika",
+      "year_retired": 2024
+    },
+    {
+      "letter": "O",
+      "name": "Ofel",
+      "year_retired": 2024
+    },
+    {
+      "letter": "P",
+      "name": "Pepito",
+      "year_retired": 2024
+    },
+    {
+      "letter": "C",
+      "name": "Crising",
+      "year_retired": 2025
+    },
+    {
+      "letter": "E",
+      "name": "Emong",
+      "year_retired": 2025
+    },
+    {
+      "letter": "M",
+      "name": "Mirasol",
+      "year_retired": 2025
+    },
+    {
+      "letter": "N",
+      "name": "Nando",
+      "year_retired": 2025
+    },
+    {
+      "letter": "O",
+      "name": "Opong",
+      "year_retired": 2025
+    },
+    {
+      "letter": "T",
+      "name": "Tino",
+      "year_retired": 2025
+    },
+    {
+      "letter": "U",
+      "name": "Uwan",
+      "year_retired": 2025
+    }
+  ],
+  "meta": {
+    "title": "Mga Iniretirong Pangalan ng Bagyo ng PAGASA - Free Download",
+    "description": "Talaan ng mga lokal na pangalan ng bagyo na iniretiro ng PAGASA dahil sa matinding pinsala, ayon sa titik at taon ng pagretiro. Contains 92 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Iniretirong Pangalan ng Bagyo ng PAGASA | ListBase",
+    "seo_description": "Download Mga Iniretirong Pangalan ng Bagyo ng PAGASA — 92 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 92 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_rinetirong_pangalan_ng_bagyo_sa_Pilipinas"
+    ]
+  }
+}

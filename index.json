@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-27T02:18:09.295Z",
-  "total_datasets": 456,
-  "total_records": 443498,
+  "generated": "2026-10-28T02:20:36.490Z",
+  "total_datasets": 457,
+  "total_records": 443590,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "finance",
@@ -3324,6 +3324,30 @@
         "xlsx": {
           "name": "tl-pinakamataas-na-kita-viva-films_TL.xlsx",
           "size": 7249
+        }
+      }
+    },
+    {
+      "id": "tl-mga-iniretirong-pangalan-ng-bagyo",
+      "name": "Mga Iniretirong Pangalan ng Bagyo ng PAGASA",
+      "category": "environment",
+      "record_count": 92,
+      "columns": [
+        "letter",
+        "name",
+        "year_retired"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_rinetirong_pangalan_ng_bagyo_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 9436,
+      "files": {
+        "csv": {
+          "name": "tl-mga-iniretirong-pangalan-ng-bagyo_TL.csv",
+          "size": 1841
+        },
+        "xlsx": {
+          "name": "tl-mga-iniretirong-pangalan-ng-bagyo_TL.xlsx",
+          "size": 8612
         }
       }
     },
