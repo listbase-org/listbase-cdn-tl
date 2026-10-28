@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-28T02:20:36.490Z",
-  "total_datasets": 457,
-  "total_records": 443590,
+  "generated": "2026-10-28T02:20:39.184Z",
+  "total_datasets": 458,
+  "total_records": 443626,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -4712,6 +4712,32 @@
         "xlsx": {
           "name": "tl-pasilidad-pangkalusugan-maxicare_TL.xlsx",
           "size": 39914
+        }
+      }
+    },
+    {
+      "id": "tl-malalaking-sakuna-sa-pilipinas",
+      "name": "Mga Malalaking Sakuna at Trahedya sa Pilipinas (1972–2023)",
+      "category": "history",
+      "record_count": 36,
+      "columns": [
+        "title",
+        "date",
+        "deaths",
+        "injured",
+        "location"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_sakuna_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 7915,
+      "files": {
+        "csv": {
+          "name": "tl-malalaking-sakuna-sa-pilipinas_TL.csv",
+          "size": 2806
+        },
+        "xlsx": {
+          "name": "tl-malalaking-sakuna-sa-pilipinas_TL.xlsx",
+          "size": 8786
         }
       }
     },

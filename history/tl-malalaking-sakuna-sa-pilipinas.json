@@ -1,0 +1,303 @@
+{
+  "id": "tl-malalaking-sakuna-sa-pilipinas",
+  "name": "Mga Malalaking Sakuna at Trahedya sa Pilipinas (1972–2023)",
+  "title": "Mga Malalaking Sakuna at Trahedya sa Pilipinas (1972–2023)",
+  "description": "Talaan ng mga pinakamalalaking sakuna at trahedya sa Pilipinas: petsa, bilang ng nasawi at sugatan, at lokasyon.",
+  "category": "history",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_sakuna_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_sakuna_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "deaths",
+      "label": "Deaths",
+      "type": "number"
+    },
+    {
+      "key": "injured",
+      "label": "Injured",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "title": "Pagguho ng tulay ng Colgante",
+      "date": "Setyembre 16, 1972",
+      "deaths": 138,
+      "injured": "100s",
+      "location": "Naga, Camarines Sur"
+    },
+    {
+      "title": "Pagguho ng Pelikulang Sentro ng Maynila",
+      "date": "Nobyembre 17, 1981",
+      "deaths": 169,
+      "injured": "",
+      "location": "Maynila"
+    },
+    {
+      "title": "Trahedya ng MV Doña Paz",
+      "date": "Disyembre 20, 1987",
+      "deaths": 4300,
+      "injured": "",
+      "location": "Tacloban, Leyte"
+    },
+    {
+      "title": "Lindol sa Luzon ng 1990",
+      "date": "Hulyo 16, 1990",
+      "deaths": 1621,
+      "injured": 3513,
+      "location": "Luzon"
+    },
+    {
+      "title": "Pagputok ng Bulkang Pinatubo",
+      "date": "Hunyo 15, 1991",
+      "deaths": "",
+      "injured": "",
+      "location": "Iba, Zambales"
+    },
+    {
+      "title": "Trahedya sa Pagoda ng Wawa",
+      "date": "Hulyo 2, 1993",
+      "deaths": 279,
+      "injured": "",
+      "location": "Bocaue, Bulacan"
+    },
+    {
+      "title": "Pagbomba sa Philippine Airlines Flight 434",
+      "date": "Disyembre 11, 1994",
+      "deaths": 1,
+      "injured": 10,
+      "location": "Tokyo, Japan"
+    },
+    {
+      "title": "Trahedya sa M/V Viva Antipolo VII",
+      "date": "Mayo 16, 1995",
+      "deaths": 62,
+      "injured": 10,
+      "location": "Maynila"
+    },
+    {
+      "title": "Sunog sa Ozone Disco",
+      "date": "Marso 18, 1996",
+      "deaths": 162,
+      "injured": 95,
+      "location": "Quezon City"
+    },
+    {
+      "title": "Pagdiskaril ng tren sa Muntinlupa",
+      "date": "Setyembre 22, 1997",
+      "deaths": 7,
+      "injured": 200,
+      "location": "Muntinlupa"
+    },
+    {
+      "title": "Trahedya sa Cebu Pacific Flight 387",
+      "date": "Pebrero 2, 1998",
+      "deaths": 104,
+      "injured": "",
+      "location": "Cagayan de Oro"
+    },
+    {
+      "title": "Pagguho ng lupa sa subdibisyon ng Cherry Hills",
+      "date": "Agosto 2, 1999",
+      "deaths": 60,
+      "injured": 0,
+      "location": "Antipolo"
+    },
+    {
+      "title": "Pagguho sa Payatas",
+      "date": "Hulyo 10, 2000",
+      "deaths": 218,
+      "injured": 0,
+      "location": "Quezon City"
+    },
+    {
+      "title": "Sunog sa Hotel ng Manor",
+      "date": "Agosto 18, 2001",
+      "deaths": 74,
+      "injured": 0,
+      "location": "Quezon City"
+    },
+    {
+      "title": "Pagbomba sa Heneral Santos ng 2002",
+      "date": "Abril 21, 2002",
+      "deaths": 13,
+      "injured": 60,
+      "location": "General Santos"
+    },
+    {
+      "title": "Pagbomba sa Paliparang Pandaigdig ng Francisco Bangoy ng 2003",
+      "date": "Marso 4, 2003",
+      "deaths": 21,
+      "injured": 146,
+      "location": "Davao City"
+    },
+    {
+      "title": "Pagbomba sa SuperFerry 14 ng 2004",
+      "date": "Pebrero 27, 2004",
+      "deaths": 116,
+      "injured": "",
+      "location": "Manila Bay"
+    },
+    {
+      "title": "Pagbomba sa Araw ng mga Puso",
+      "date": "Pebrero 14, 2005",
+      "deaths": 11,
+      "injured": 145,
+      "location": "Manila, Makati, Davao City"
+    },
+    {
+      "title": "Pag-ipit ng mga tao sa PhilSports Stadium ng 2006",
+      "date": "Pebrero 4, 2006",
+      "deaths": 73,
+      "injured": 400,
+      "location": "Pasig"
+    },
+    {
+      "title": "Pagsabog sa Glorietta ng 2007",
+      "date": "Oktubre 19, 2007",
+      "deaths": 11,
+      "injured": 129,
+      "location": "Makati"
+    },
+    {
+      "title": "Trahedya sa MV Princess of the Stars",
+      "date": "Hunyo 20, 2008",
+      "deaths": 814,
+      "injured": 48,
+      "location": "San Fernando, Romblon"
+    },
+    {
+      "title": "Masaker sa Maguindanao",
+      "date": "Nobyembre 23, 2009",
+      "deaths": 58,
+      "injured": 4,
+      "location": "Ampatuan, Maguindanao"
+    },
+    {
+      "title": "Pagbibihag ng bus sa Maynila (2010)",
+      "date": "Agosto 23, 2010",
+      "deaths": 8,
+      "injured": 10,
+      "location": "Maynila"
+    },
+    {
+      "title": "Bagyong Sendong",
+      "date": "Disyembre 17, 2011",
+      "deaths": 1472,
+      "injured": 0,
+      "location": "Cagayan de Oro"
+    },
+    {
+      "title": "Bagyong Pablo",
+      "date": "Disyembre 4, 2012",
+      "deaths": 1901,
+      "injured": 0,
+      "location": "Davao Oriental"
+    },
+    {
+      "title": "Aksidente sa bus sa Skyway ng Kalakhang Maynila",
+      "date": "Disyembre 16, 2013",
+      "deaths": 19,
+      "injured": 19,
+      "location": "Parañaque"
+    },
+    {
+      "title": "Aksidente sa bus ng Mountain Province",
+      "date": "Pebrero 7, 2014",
+      "deaths": 14,
+      "injured": 32,
+      "location": "Bontoc"
+    },
+    {
+      "title": "Sunog sa kompanya ng Kentex",
+      "date": "Mayo 13, 2015",
+      "deaths": 74,
+      "injured": 0,
+      "location": "Valenzuela"
+    },
+    {
+      "title": "Pagbomba sa Lungsod ng Dabaw ng 2016",
+      "date": "Setyembre 2, 2016",
+      "deaths": 15,
+      "injured": 74,
+      "location": "Davao City"
+    },
+    {
+      "title": "Sunog sa NCCC Mall",
+      "date": "Disyembre 23, 2017",
+      "deaths": 39,
+      "injured": "",
+      "location": "Davao City"
+    },
+    {
+      "title": "Pagguho ng lupa sa Naga, Cebu",
+      "date": "Setyembre 20, 2018",
+      "deaths": 78,
+      "injured": 18,
+      "location": "Naga, Cebu"
+    },
+    {
+      "title": "Trahedya ng Air Beechcraft",
+      "date": "Setyembre 1, 2019",
+      "deaths": 9,
+      "injured": 2,
+      "location": "Pansol, Calamba"
+    },
+    {
+      "title": "Pambobomba sa Jolo ng 2020",
+      "date": "Agosto 24, 2020",
+      "deaths": 14,
+      "injured": 78,
+      "location": "Jolo, Sulu"
+    },
+    {
+      "title": "Mga pagsalakay sa Calabarzon ng 2021",
+      "date": "Marso 7, 2021",
+      "deaths": 9,
+      "injured": 6,
+      "location": "Calabarzon"
+    },
+    {
+      "title": "Lindol sa Luzon (2022)",
+      "date": "Hulyo 27, 2022",
+      "deaths": 11,
+      "injured": 139,
+      "location": "Gitnang Luzon"
+    },
+    {
+      "title": "MV Aya Princess",
+      "date": "Hulyo 27, 2023",
+      "deaths": 27,
+      "injured": 80,
+      "location": "Binangonan, Rizal"
+    }
+  ],
+  "meta": {
+    "title": "Mga Malalaking Sakuna at Trahedya sa Pilipinas (1972–2023) - Free Download",
+    "description": "Talaan ng mga pinakamalalaking sakuna at trahedya sa Pilipinas: petsa, bilang ng nasawi at sugatan, at lokasyon. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Malalaking Sakuna at Trahedya sa Pilipinas (1972–2023) | ListBase",
+    "seo_description": "Download Mga Malalaking Sakuna at Trahedya sa Pilipinas (1972–2023) — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_sakuna_sa_Pilipinas"
+    ]
+  }
+}
