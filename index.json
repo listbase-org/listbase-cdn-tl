@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-28T02:20:43.754Z",
-  "total_datasets": 460,
-  "total_records": 443793,
+  "generated": "2026-10-28T02:20:46.490Z",
+  "total_datasets": 461,
+  "total_records": 443885,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -13349,6 +13349,31 @@
         "xlsx": {
           "name": "tl-hotline-pangemerhensiya_TL.xlsx",
           "size": 8683
+        }
+      }
+    },
+    {
+      "id": "tl-mga-pahayagan-sa-pilipinas",
+      "name": "Mga Pahayagan sa Pilipinas",
+      "category": "society",
+      "record_count": 92,
+      "columns": [
+        "name",
+        "language",
+        "type",
+        "circulation"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_pahayagan_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 13948,
+      "files": {
+        "csv": {
+          "name": "tl-mga-pahayagan-sa-pilipinas_TL.csv",
+          "size": 4808
+        },
+        "xlsx": {
+          "name": "tl-mga-pahayagan-sa-pilipinas_TL.xlsx",
+          "size": 9340
         }
       }
     },

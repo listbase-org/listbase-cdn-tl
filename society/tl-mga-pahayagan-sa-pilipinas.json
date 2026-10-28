@@ -1,0 +1,598 @@
+{
+  "id": "tl-mga-pahayagan-sa-pilipinas",
+  "name": "Mga Pahayagan sa Pilipinas",
+  "title": "Mga Pahayagan sa Pilipinas",
+  "description": "Talaan ng mga pahayagan sa Pilipinas ayon sa wika, uri (broadsheet, tabloid, negosyo) at saklaw ng sirkulasyon.",
+  "category": "society",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_pahayagan_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_pahayagan_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "circulation",
+      "label": "Circulation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Business Mirror",
+      "language": "Ingles",
+      "type": "Negosyo-araw-araw",
+      "circulation": ""
+    },
+    {
+      "name": "Business World",
+      "language": "Ingles",
+      "type": "Negosyo-araw-araw",
+      "circulation": ""
+    },
+    {
+      "name": "Chinese Commercial News (菲律賓商報)",
+      "language": "Tsino",
+      "type": "Negosyo-araw-araw",
+      "circulation": ""
+    },
+    {
+      "name": "Malaya",
+      "language": "Ingles",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "Manila Bulletin",
+      "language": "Ingles",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "Manila Shimbun",
+      "language": "Hapones",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "Philippine Daily Inquirer",
+      "language": "Ingles",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "The Daily Tribune",
+      "language": "Ingles",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "The Manila Times",
+      "language": "Ingles",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "The Philippine Star",
+      "language": "Ingles",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "The Standard (Philippines)",
+      "language": "Ingles",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "United Daily News (Philippines) (聯合日報)",
+      "language": "Tsino",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "United Daily Press",
+      "language": "Ingles",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "World News Philipphines (世界日報)",
+      "language": "Tsino",
+      "type": "Arawang broadsheet",
+      "circulation": ""
+    },
+    {
+      "name": "Abante",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Abante Tonite",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Bagong Tiktik",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Balita",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Bandera Inquirer",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Bomba Balita",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Bugso",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Pinoy Weekly PW PINOY WEEKLY.ORG",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Bulgar",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Hataw",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "People's Journal",
+      "language": "Ingles/Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Pilipino Star Ngayon",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Pinas",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Pinoy Paparazzi",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Pang-Masa",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Ratsada",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Remate",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Sagad",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Saksi sa Balita",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Sikat",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Taliba",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Tanod\"",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Tempo",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "Tumbok",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Pambansa"
+    },
+    {
+      "name": "University of the Philipphines Press",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Pang-Unibersidad"
+    },
+    {
+      "name": "Agila ng Bayan",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Banat",
+      "language": "Sebwano",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Bicol Standard",
+      "language": "Ingles/Bikolano",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "The Bohol Chronicle",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "The Bohol Standard",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Bohol Time",
+      "language": "Ingles/Sebwano",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Brigada News",
+      "language": "Sebwano",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Business Week Mindanao",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Cagayan de Oro Journal - Online",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Cagayan de Oro Times",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "The Cagayan Times",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Catanduanes Tribune",
+      "language": "Ingles/Bikolano",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Cebu Daily News",
+      "language": "Sebwano",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Cebu Examiner",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Golden Journal",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "The Daily Dipolognon",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "The Daily Sun",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Eastern Visayas Examiner",
+      "language": "Ingles/Waray",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Eastern Visayas Mail",
+      "language": "Ingles/Waray",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "The Filipino Express Online",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "The Freeman",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Hublas nga Kamatuoran",
+      "language": "Sebwano",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Inquirer Libre",
+      "language": "Tagalog",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Leyte-Samar Daily Express",
+      "language": "Ingles/Waray",
+      "type": "Broadsheet",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Maguindanao Network",
+      "language": "Ingless",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Manila Channel",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Mindanao Daily News",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Mindanao Examiner",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Mindanao Gold Star Daily",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Mindanao Star",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Mindanao Times",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "MindaNews",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Mindoro Bulletin",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Moro Information Agency",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "The News Today",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Olongapo News",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Panay News",
+      "language": "Ingles/Hiligaynon",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Periodiko Metro",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Pinoy Parazzi",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "The Reporter",
+      "language": "Ingles/Sebwano",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Samar News",
+      "language": "Ingles/Waray",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Sinirangan News",
+      "language": "Ingles/Waray",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Sino-Fil Daily",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Southern Leyte Times",
+      "language": "Ingles/Sebwano",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Subic Updater",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Sun.Star Daily",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Sunday Punch",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "SuperBalita",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Visayan Business Post",
+      "language": "Ingles/Sebwano",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Visayan Daily Star",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Voice of the South",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Zambo Times",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    },
+    {
+      "name": "Zamboanga Today Online",
+      "language": "Ingles",
+      "type": "Tabloid",
+      "circulation": "Panrehiyon"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pahayagan sa Pilipinas - Free Download",
+    "description": "Talaan ng mga pahayagan sa Pilipinas ayon sa wika, uri (broadsheet, tabloid, negosyo) at saklaw ng sirkulasyon. Contains 92 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pahayagan sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Pahayagan sa Pilipinas — 92 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 92 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_pahayagan_sa_Pilipinas"
+    ]
+  }
+}
