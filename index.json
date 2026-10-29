@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-29T02:20:54.067Z",
-  "total_datasets": 464,
-  "total_records": 444138,
+  "generated": "2026-10-29T02:20:56.559Z",
+  "total_datasets": 465,
+  "total_records": 444673,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -4830,6 +4830,31 @@
         "xlsx": {
           "name": "tl-mga-bayani_TL.xlsx",
           "size": 8701
+        }
+      }
+    },
+    {
+      "id": "tl-mga-salitang-hiniram-ng-tagalog",
+      "name": "Mga Salitang Hiniram ng Tagalog",
+      "category": "language",
+      "record_count": 535,
+      "columns": [
+        "salitang_tagalog",
+        "pinagmulang_wika",
+        "salitang_pinagmulan",
+        "kahulugan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_salitang_hiniram_ng_Tagalog",
+      "updated": "2026-10",
+      "size": 101427,
+      "files": {
+        "csv": {
+          "name": "tl-mga-salitang-hiniram-ng-tagalog_TL.csv",
+          "size": 37656
+        },
+        "xlsx": {
+          "name": "tl-mga-salitang-hiniram-ng-tagalog_TL.xlsx",
+          "size": 32241
         }
       }
     },

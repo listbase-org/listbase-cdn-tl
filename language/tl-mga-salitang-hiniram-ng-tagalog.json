@@ -1,0 +1,3256 @@
+{
+  "id": "tl-mga-salitang-hiniram-ng-tagalog",
+  "name": "Mga Salitang Hiniram ng Tagalog",
+  "title": "Mga Salitang Hiniram ng Tagalog",
+  "description": "Mga salitang Tagalog na hiniram mula sa ibang wika (Kastila, Malay, Sanskrito, Tamil, Arabe, Hokkien, Hapones, Nahuatl at iba pa) kasama ang orihinal na salita at kahulugan.",
+  "category": "language",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_salitang_hiniram_ng_Tagalog",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_salitang_hiniram_ng_Tagalog",
+  "updated": "2026-10",
+  "record_count": 535,
+  "columns": [
+    {
+      "key": "salitang_tagalog",
+      "label": "Salitang Tagalog",
+      "type": "string"
+    },
+    {
+      "key": "pinagmulang_wika",
+      "label": "Pinagmulang Wika",
+      "type": "string"
+    },
+    {
+      "key": "salitang_pinagmulan",
+      "label": "Salitang Pinagmulan",
+      "type": "string"
+    },
+    {
+      "key": "kahulugan",
+      "label": "Kahulugan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "salitang_tagalog": "Alahero",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Alhajero (\"kahon ng alahas\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Algodon",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Algodon (\"bulak\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Almohadilya",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Almohadilla (\"maliit na unan\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Almusal",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Almorzar (\"magtanghalian\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Asar",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Asar (\"ihawin\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Bahura",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Bajura (\"baybayin\" o \"mababaw na tubig\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Barkada",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Barcada (\"lulan ng bangka\" o \"biyahe sa bangka\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Basta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Basta (\"sapat\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Bida",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Vida (\"buhay\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Biskotso",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Bizcocho (\"mamon\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Bulsa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Bolsa (\"bag\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Dehado",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Dejado (\"naiwan\" o \"walang-ingat\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Delikado",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Delicado (\"maselan\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Dilihensiya",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Diligencia (\"sipag\" o \"bilin\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Disgrasya",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Desgracia (\"kasawian\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Diskarte",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Descarte (\"iwaksi\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Gisado",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Guisado (\"nilaga\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Harana",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Jarana (\"kaguluhan\", \"pakikisalu-salo\" o \"walang-taros na pagsasaya\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Hepe",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Jefe (\"puno\" o \"amo\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Impakto",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Impacto (\"salpok\" o \"dagok\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Inutil",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Inútil (\"walang silbi\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Iskiyerda",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Izquierda (\"kaliwa\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Kabayo",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Caballo (\"koda\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Kabisera",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cabecera (\"ulo\" o \"ulunan ng kama\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Kakawate",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cacahuate (\"mani\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Kasilyas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Casillas (\"kubikulo\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Konyo",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Coño (\"salitang bulgar at masama\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Kubeta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cubeta (\"balde\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Kulebra",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Culebra (\"ahas\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Kursonada",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Corazonada (\"kutob\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Kuryente",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Corriente (\"daloy\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Labakara",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Lavacara (\"hilamusan\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Lakwatsa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cuacha (\"dumi\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Lamyerda",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Mierda (\"dumi\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Libre",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Libre (\"malaya\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Liyamado",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Llamado (\"tinawagan\", \"pinangalanan\" o \"itinalaga\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Mantika",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Manteca (\"mantikilya\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Muta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Mota (\"batik\" o \"dumi\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Palengke",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Palenque (\"istakada\" o \"bakod\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Palitada",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Paletada (\"sanpala\" o \"sandulos\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Papagayo",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Papagayo (\"loro\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Parada",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Parada (\"hinto\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Parol",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Farol (\"ilawan\", \"lampara\" o \"ilaw sa kalye\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Parolero",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Farolero (\"tagapagsindi ng lampara\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Pasamano",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Pasamano (\"dalaydayan\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Pitso",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Pecho (\"dibdib\" o \"suso\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Postiso",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Postizo (\"huwad\" o \"nababakas\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Putahe",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Potaje (\"nilagang gulay o sopas\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Rebentador",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Reventador (\"manunulsol\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Rekado",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Recado (\"mensahe\" o \"bilin\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Ruweda",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Rueda (\"gulong\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Semilya",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Semilla (\"binhi\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Sentido",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Sentido (\"diwa\" o \"kahulugan\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Siguro",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Seguro (\"sigurado\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Silindro",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cilindro (\"silinder\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Sintas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cintas (\"laso\", \"teyp\" o \"sinturon\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Siyempre",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Siempre (\"palagi\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Suplado",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Soplado (\"hinanginan\" o \"pinapintog\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Suporta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Soportar (\"pagtiisan\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Sustansya",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Sustancia (meaning \"substance\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Tirada",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Tirada (\"ihagis\" o \"bilang ng nalimbag\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Todas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Todas (\"lahat\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Todo",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Todo (\"lahat\", \"buong\", \"bawat\", atbp.)",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Tosino",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Tocino (\"bacon\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Tsamporado",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Champurrado (\"atole batay sa tsokolate\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Tsika",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Chica (\"babae\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Turon",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Turrón (\"nougat\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Tuwalya",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Toalla (\"tuwalya\")",
+      "kahulugan": ""
+    },
+    {
+      "salitang_tagalog": "Alahas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Alhaja (maramihan: alhajas )",
+      "kahulugan": "Alahas; hiyas"
+    },
+    {
+      "salitang_tagalog": "Alkatsopas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Alcachofa (maramihan: alcachofas )",
+      "kahulugan": "Alkatsopas ( Cynara scolymus )"
+    },
+    {
+      "salitang_tagalog": "Aratiles",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Dátil (maramihan: dátiles )",
+      "kahulugan": "Datilero ( Phoenix dactilyfera )"
+    },
+    {
+      "salitang_tagalog": "Armas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Arma (maramihan: armas )",
+      "kahulugan": "Sandata; braso"
+    },
+    {
+      "salitang_tagalog": "Balbas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Barba (maramihan: barbas )",
+      "kahulugan": "Balbas"
+    },
+    {
+      "salitang_tagalog": "Banyos",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Baño (maramihan: baños )",
+      "kahulugan": "Banyo; paliguan"
+    },
+    {
+      "salitang_tagalog": "Bayabas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Guayaba (maramihan: guayabas )",
+      "kahulugan": "Bayabas ( Psidium guajava )"
+    },
+    {
+      "salitang_tagalog": "Beses",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Vez (maramihan: veces )",
+      "kahulugan": "Beses"
+    },
+    {
+      "salitang_tagalog": "Boses",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Voz (maramihan: voces )",
+      "kahulugan": "Boses; tinig"
+    },
+    {
+      "salitang_tagalog": "Butones (bar. bitones )",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Botón (maramihan: botones )",
+      "kahulugan": "Butones"
+    },
+    {
+      "salitang_tagalog": "Datos",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Dato (maramihan: datos )",
+      "kahulugan": "Katotohanan; detalye; piraso ng impormasyon; datos"
+    },
+    {
+      "salitang_tagalog": "Garbansos",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Garbanzo (maramihan: garbanzos )",
+      "kahulugan": "Garbansos ( Cicer arietinum )"
+    },
+    {
+      "salitang_tagalog": "Gastos",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Gasto (maramihan: gastos )",
+      "kahulugan": "Gastos; gugol; paggasta"
+    },
+    {
+      "salitang_tagalog": "Gisantes",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Guisante (maramihan: guisantes )",
+      "kahulugan": "Tsitsaro ( Pisum sativum )"
+    },
+    {
+      "salitang_tagalog": "Guwantes",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Guante (maramihan: guantes )",
+      "kahulugan": "Guwantes"
+    },
+    {
+      "salitang_tagalog": "Kalatas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Carta (maramihan: cartas )",
+      "kahulugan": "Sulat; talangguhit; karta"
+    },
+    {
+      "salitang_tagalog": "Kamatis",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Tomate (maramihan: tomates )",
+      "kahulugan": "Tomato ( Lycopersicum esculentum )"
+    },
+    {
+      "salitang_tagalog": "Kasilyas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Casilla (maramihan: casillas )",
+      "kahulugan": "Kubikulo; kubol"
+    },
+    {
+      "salitang_tagalog": "Kastanyas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Castaña (maramihan: castañas )",
+      "kahulugan": "Kastanyas ( Castanea spp.)"
+    },
+    {
+      "salitang_tagalog": "Kostilyas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Costilla (maramihan: costillas )",
+      "kahulugan": "Rib"
+    },
+    {
+      "salitang_tagalog": "Kubyertos",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cubierto (maramihan: cubiertos )",
+      "kahulugan": "Kubyertos"
+    },
+    {
+      "salitang_tagalog": "Kuwerdas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cuerda (maramihan: cuerdas )",
+      "kahulugan": "Lubid; tali; kuwerdas"
+    },
+    {
+      "salitang_tagalog": "Kuwintas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cuenta (maramihan: cuentas )",
+      "kahulugan": "Hiyas"
+    },
+    {
+      "salitang_tagalog": "Kuwitis",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cohete (maramihan: cohetes )",
+      "kahulugan": "Kuwitis"
+    },
+    {
+      "salitang_tagalog": "Labanos",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Rabano (maramihan: rabanos )",
+      "kahulugan": "Labanos ( Raphanus sativus )"
+    },
+    {
+      "salitang_tagalog": "Lansones",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Lanzón (maramihan: lanzones )",
+      "kahulugan": "P. Kast. para sa Lansium domesticum"
+    },
+    {
+      "salitang_tagalog": "Letsugas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Lechuga (maramihan: lechugas )",
+      "kahulugan": "Lettuce ( Lactuca sativa )"
+    },
+    {
+      "salitang_tagalog": "Manggas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Manga (maramihan: mangas )",
+      "kahulugan": "Manggas"
+    },
+    {
+      "salitang_tagalog": "Mansanas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Manzana (maramihan: manzanas )",
+      "kahulugan": "Mansanas ( Malus domestica )"
+    },
+    {
+      "salitang_tagalog": "Materyales",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Material (maramihan: materiales )",
+      "kahulugan": "Materyales"
+    },
+    {
+      "salitang_tagalog": "Medyas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Media (maramihan: medias )",
+      "kahulugan": "Medyas"
+    },
+    {
+      "salitang_tagalog": "Opisyales",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Oficial (maramihan: oficiales )",
+      "kahulugan": "Opisyales"
+    },
+    {
+      "salitang_tagalog": "Oras",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Hora (maramihan: horas )",
+      "kahulugan": "Oras (sukat ng panahon)"
+    },
+    {
+      "salitang_tagalog": "Panderetas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Pandereta (maramihan: panderetas )",
+      "kahulugan": "Panderetas"
+    },
+    {
+      "salitang_tagalog": "Palanas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Plana (maramihan: planas )",
+      "kahulugan": "Kapatagan"
+    },
+    {
+      "salitang_tagalog": "Papeles",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Papel (maramihan: papeles )",
+      "kahulugan": "Papel"
+    },
+    {
+      "salitang_tagalog": "Patatas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Patata (maramihan: patatas )",
+      "kahulugan": "Patatas ( Solanum tuberosum )"
+    },
+    {
+      "salitang_tagalog": "Pares",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Par (maramihan: pares )",
+      "kahulugan": "Pair"
+    },
+    {
+      "salitang_tagalog": "Pasas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Pasa (maramihan: pasas )",
+      "kahulugan": "Pasas"
+    },
+    {
+      "salitang_tagalog": "Pastilyas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Pastilla (maramihan: pastillas )",
+      "kahulugan": "Pilduras; tableta; kendi"
+    },
+    {
+      "salitang_tagalog": "Peras",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Pera (maramihan: peras )",
+      "kahulugan": "Peras ( Pyrus spp.)"
+    },
+    {
+      "salitang_tagalog": "Perlas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Perla (maramihan: perlas )",
+      "kahulugan": "Perlas"
+    },
+    {
+      "salitang_tagalog": "Pilduras",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Pildora (maramihan: pildoras )",
+      "kahulugan": "Pilduras; tableta"
+    },
+    {
+      "salitang_tagalog": "Pohas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Foja (maramihan: fojas )",
+      "kahulugan": "Pohas"
+    },
+    {
+      "salitang_tagalog": "Posas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Esposa (maramihan: esposas )",
+      "kahulugan": "Posas"
+    },
+    {
+      "salitang_tagalog": "Presas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Presa (maramihan: presas )",
+      "kahulugan": "Presas ( Fragaria x ananassa )"
+    },
+    {
+      "salitang_tagalog": "Prutas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Fruta (maramihan: frutas )",
+      "kahulugan": "Prutas"
+    },
+    {
+      "salitang_tagalog": "Pulbos",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Polvo (maramihan: polvos )",
+      "kahulugan": "Alikabok; pulbos"
+    },
+    {
+      "salitang_tagalog": "Pulseras",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Polvo (maramihan: pulseras )",
+      "kahulugan": "Pulseras"
+    },
+    {
+      "salitang_tagalog": "Puntos",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Punto (maramihan: puntos )",
+      "kahulugan": "Tuldok; punto; puntos (paligsahan)"
+    },
+    {
+      "salitang_tagalog": "Rehas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Reja (maramihan: rejas )",
+      "kahulugan": "Rehas"
+    },
+    {
+      "salitang_tagalog": "Riles",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Carril (maramihan: carriles )",
+      "kahulugan": "Landas; daanan"
+    },
+    {
+      "salitang_tagalog": "Rosas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Rosa (maramihan: rosas )",
+      "kahulugan": "Rose ( Rosa spp.)"
+    },
+    {
+      "salitang_tagalog": "Salas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Sala (maramihan: salas )",
+      "kahulugan": "Sala"
+    },
+    {
+      "salitang_tagalog": "Sapatos",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Zapato (maramihan: zapatos )",
+      "kahulugan": "Sapatos"
+    },
+    {
+      "salitang_tagalog": "Sardinas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Sardina (maramihan: sardinas )",
+      "kahulugan": "Sardinas ( Clupeidae )"
+    },
+    {
+      "salitang_tagalog": "Senyales",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Señal (maramihan: señales )",
+      "kahulugan": "Senyas; tanda"
+    },
+    {
+      "salitang_tagalog": "Senyas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Seña (maramihan: señas )",
+      "kahulugan": "Senyas; tanda"
+    },
+    {
+      "salitang_tagalog": "Sibuyas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cebolla (maramihan: cebollas )",
+      "kahulugan": "Sibuyas ( Allium cepa )"
+    },
+    {
+      "salitang_tagalog": "Sigarilyas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Seguidilla (maramihan: seguidillas )",
+      "kahulugan": "P. Kast. para sa Psophocarpus tetragonolobus"
+    },
+    {
+      "salitang_tagalog": "Silahis",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Celaje (maramihan: celajes )",
+      "kahulugan": "Kulumpon ng ulap"
+    },
+    {
+      "salitang_tagalog": "Singkamas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Jícama (maramihan: jícamas )",
+      "kahulugan": "Singkamas ( Pachyrhizus erosus )"
+    },
+    {
+      "salitang_tagalog": "Sintas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cinta (maramihan: cintas )",
+      "kahulugan": "Laso; teyp; puntas"
+    },
+    {
+      "salitang_tagalog": "Sintomas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Síntoma (maramihan: síntomas )",
+      "kahulugan": "Sintomas"
+    },
+    {
+      "salitang_tagalog": "Sopas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Sopa (maramihan: sopas )",
+      "kahulugan": "Sabaw"
+    },
+    {
+      "salitang_tagalog": "Sorbetes",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Sorbete (maramihan: sorbetes )",
+      "kahulugan": "Sorbetes"
+    },
+    {
+      "salitang_tagalog": "Tsinelas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Chinela (maramihan: chinelas )",
+      "kahulugan": "Tsinelas"
+    },
+    {
+      "salitang_tagalog": "Tsismis",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Chisme (maramihan: chismes )",
+      "kahulugan": "Chismis"
+    },
+    {
+      "salitang_tagalog": "Ubas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Uva (maramihan: uvas )",
+      "kahulugan": "Ubas ( Vitis spp.)"
+    },
+    {
+      "salitang_tagalog": "Uhales",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Ojal (maramihan: ojales )",
+      "kahulugan": "Uhales"
+    },
+    {
+      "salitang_tagalog": "Uhas",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Hoja (maramihan: hojas )",
+      "kahulugan": "Dahon"
+    },
+    {
+      "salitang_tagalog": "Akusa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Acusar",
+      "kahulugan": "Akusahan; paratangan"
+    },
+    {
+      "salitang_tagalog": "Alsa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Alzar",
+      "kahulugan": "Iangat; itaas; ipatayo"
+    },
+    {
+      "salitang_tagalog": "Analisa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Analizar",
+      "kahulugan": "Suriin"
+    },
+    {
+      "salitang_tagalog": "Apela",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Apelar",
+      "kahulugan": "Apela, mamanhik"
+    },
+    {
+      "salitang_tagalog": "Apruba",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Aprobar",
+      "kahulugan": "Magpatibay; pahintulutan"
+    },
+    {
+      "salitang_tagalog": "Apura",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Apurar",
+      "kahulugan": "Tapusin; magmadali (Lat. Am.)"
+    },
+    {
+      "salitang_tagalog": "Alkila (bar. arkila)",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Alquilar",
+      "kahulugan": "Magrenta; magparenta"
+    },
+    {
+      "salitang_tagalog": "Asinta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Asentar",
+      "kahulugan": "Itutok sa pook; ilapag"
+    },
+    {
+      "salitang_tagalog": "Aturga",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Otorgar",
+      "kahulugan": "Ipagkaloob; ibigay; igawad"
+    },
+    {
+      "salitang_tagalog": "Awtorisa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Autorizar",
+      "kahulugan": "Pahintulutan"
+    },
+    {
+      "salitang_tagalog": "Bara",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Barrar",
+      "kahulugan": "Putikan"
+    },
+    {
+      "salitang_tagalog": "Bati",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Batir",
+      "kahulugan": "Batihin"
+    },
+    {
+      "salitang_tagalog": "Beripika",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Verificar",
+      "kahulugan": "Patunayan"
+    },
+    {
+      "salitang_tagalog": "Bulkanisa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Vulcanizar",
+      "kahulugan": "Bulkanisa"
+    },
+    {
+      "salitang_tagalog": "Bura",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Borrar",
+      "kahulugan": "Magbura"
+    },
+    {
+      "salitang_tagalog": "Burda",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Bordar",
+      "kahulugan": "Magburda"
+    },
+    {
+      "salitang_tagalog": "Deklara",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Declarar",
+      "kahulugan": "Magpahayag"
+    },
+    {
+      "salitang_tagalog": "Determina",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Determinar",
+      "kahulugan": "Magpasiya"
+    },
+    {
+      "salitang_tagalog": "Dikta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Dictar",
+      "kahulugan": "Mag-utos"
+    },
+    {
+      "salitang_tagalog": "Dimiti",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Dimitir",
+      "kahulugan": "Magbitiw sa tungkulin"
+    },
+    {
+      "salitang_tagalog": "Dirihi",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Dirigir",
+      "kahulugan": "Mamahala; mangasiwa"
+    },
+    {
+      "salitang_tagalog": "Disapruba",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Disaprobar",
+      "kahulugan": "Di-sang-ayunan"
+    },
+    {
+      "salitang_tagalog": "Disarma",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Desarmar",
+      "kahulugan": "Mag-alis ng sandata"
+    },
+    {
+      "salitang_tagalog": "Disimpekta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Desinfectar",
+      "kahulugan": "Magdisimpekta"
+    },
+    {
+      "salitang_tagalog": "Disimula",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Disimular",
+      "kahulugan": "Itago; takpan"
+    },
+    {
+      "salitang_tagalog": "Diskarga",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Descargar",
+      "kahulugan": "Alisan ng kargada; ikarga-pakuha"
+    },
+    {
+      "salitang_tagalog": "Diskita",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Desquitar",
+      "kahulugan": "Bumawi"
+    },
+    {
+      "salitang_tagalog": "Diskubri",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Descubrir",
+      "kahulugan": "Matuklasan"
+    },
+    {
+      "salitang_tagalog": "Dismaya",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Desmayar",
+      "kahulugan": "Masira ang loob; masiphayo"
+    },
+    {
+      "salitang_tagalog": "Distrungka",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Destroncar",
+      "kahulugan": "Hawanin"
+    },
+    {
+      "salitang_tagalog": "Galbanisa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Galvanizar",
+      "kahulugan": "Galbanisahin"
+    },
+    {
+      "salitang_tagalog": "Gisa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Guisar",
+      "kahulugan": "Maglaga"
+    },
+    {
+      "salitang_tagalog": "Hulma",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Ahormar",
+      "kahulugan": "Hugisan"
+    },
+    {
+      "salitang_tagalog": "Husga",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Juzgar",
+      "kahulugan": "Hatulan"
+    },
+    {
+      "salitang_tagalog": "Imbestiga",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Investigar",
+      "kahulugan": "Mag-imbestiga; siyasatin"
+    },
+    {
+      "salitang_tagalog": "Imbita",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Invitar",
+      "kahulugan": "Mag-anyaya"
+    },
+    {
+      "salitang_tagalog": "Intindi",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Entender",
+      "kahulugan": "Intindihin; unawain"
+    },
+    {
+      "salitang_tagalog": "Itsa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Echar",
+      "kahulugan": "Ihagis"
+    },
+    {
+      "salitang_tagalog": "Kalkula",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Calcular",
+      "kahulugan": "Kalkulahin; tayahin"
+    },
+    {
+      "salitang_tagalog": "Kansela",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cancelar",
+      "kahulugan": "Ikansela"
+    },
+    {
+      "salitang_tagalog": "Kanta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cantar",
+      "kahulugan": "Mag-awit"
+    },
+    {
+      "salitang_tagalog": "Karga",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cargar",
+      "kahulugan": "Ikarga; punuin"
+    },
+    {
+      "salitang_tagalog": "Kodipika",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Codificar",
+      "kahulugan": "Isakodigo"
+    },
+    {
+      "salitang_tagalog": "Kondena",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Condenar",
+      "kahulugan": "Kondenahin"
+    },
+    {
+      "salitang_tagalog": "Konserba",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Conservar",
+      "kahulugan": "Makatipid"
+    },
+    {
+      "salitang_tagalog": "Konsidera",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Considerar",
+      "kahulugan": "Isaalang-alang; ituring"
+    },
+    {
+      "salitang_tagalog": "Kubli",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cubrir",
+      "kahulugan": "Itago; itakip"
+    },
+    {
+      "salitang_tagalog": "Kubra",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cobrar",
+      "kahulugan": "Maningil"
+    },
+    {
+      "salitang_tagalog": "Kula",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Colar",
+      "kahulugan": "Salain; Magpaputi"
+    },
+    {
+      "salitang_tagalog": "Kulti",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Curtir",
+      "kahulugan": "Magpaitim"
+    },
+    {
+      "salitang_tagalog": "Kumbida",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Convidar",
+      "kahulugan": "Mag-anyaya"
+    },
+    {
+      "salitang_tagalog": "Kumbinsi",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Convencir",
+      "kahulugan": "Kumbinsihin"
+    },
+    {
+      "salitang_tagalog": "Kumpara",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Comparar",
+      "kahulugan": "Ihambing"
+    },
+    {
+      "salitang_tagalog": "Kumpirma",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Confirmar",
+      "kahulugan": "Kumpirmahin"
+    },
+    {
+      "salitang_tagalog": "Kumpiska",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Confiscar",
+      "kahulugan": "Kumpiskahin; samsamin"
+    },
+    {
+      "salitang_tagalog": "Kumpuni (bar. kompone)",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Componer",
+      "kahulugan": "Ibuo; umakda; ayusin"
+    },
+    {
+      "salitang_tagalog": "Kusi",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cocer",
+      "kahulugan": "Magluto"
+    },
+    {
+      "salitang_tagalog": "Laba",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Lavar",
+      "kahulugan": "Maglaba; maghugas"
+    },
+    {
+      "salitang_tagalog": "Legalisa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Legalizar",
+      "kahulugan": "Legalisahin"
+    },
+    {
+      "salitang_tagalog": "Liberalisa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Liberalizar",
+      "kahulugan": "Liberalisahin"
+    },
+    {
+      "salitang_tagalog": "Manipula",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Manipular",
+      "kahulugan": "Manipulahin"
+    },
+    {
+      "salitang_tagalog": "Marka",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Marcar",
+      "kahulugan": "Magmarka"
+    },
+    {
+      "salitang_tagalog": "Nomina",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Nominar",
+      "kahulugan": "Hirangin"
+    },
+    {
+      "salitang_tagalog": "Obliga",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Obligar",
+      "kahulugan": "Pilitan; obligahin"
+    },
+    {
+      "salitang_tagalog": "Obserba",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Observar",
+      "kahulugan": "Obserbahan; pagmasdan"
+    },
+    {
+      "salitang_tagalog": "Opera",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Operar",
+      "kahulugan": "Magpatakbo"
+    },
+    {
+      "salitang_tagalog": "Palsipika",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Falsificar",
+      "kahulugan": "Palsipikahin; doktorin"
+    },
+    {
+      "salitang_tagalog": "Palya",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Fallar",
+      "kahulugan": "Mabigo"
+    },
+    {
+      "salitang_tagalog": "Paralisa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Paralizar",
+      "kahulugan": "Paralisahin"
+    },
+    {
+      "salitang_tagalog": "Pasa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Pasar",
+      "kahulugan": "Iabot; mangyari; danasin"
+    },
+    {
+      "salitang_tagalog": "Pasma",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Pasmar",
+      "kahulugan": "Magpahanga; magpamangha"
+    },
+    {
+      "salitang_tagalog": "Pinta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Pintar",
+      "kahulugan": "Magpinta"
+    },
+    {
+      "salitang_tagalog": "Pirma",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Firmar",
+      "kahulugan": "Maglagda"
+    },
+    {
+      "salitang_tagalog": "Pormalisa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Formalizar",
+      "kahulugan": "Gawing pormal"
+    },
+    {
+      "salitang_tagalog": "Prepara",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Preparar",
+      "kahulugan": "Maghanda"
+    },
+    {
+      "salitang_tagalog": "Preserba",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Preservar",
+      "kahulugan": "Panatilihin"
+    },
+    {
+      "salitang_tagalog": "Proklama",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Proclamar",
+      "kahulugan": "Ipahayag; iproklama"
+    },
+    {
+      "salitang_tagalog": "Pundi",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Fundir",
+      "kahulugan": "Tunawin; pagsamahin"
+    },
+    {
+      "salitang_tagalog": "Punta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Apuntar",
+      "kahulugan": "Pumuntirya; ituro; isulat"
+    },
+    {
+      "salitang_tagalog": "Purga",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Purgar",
+      "kahulugan": "Magpurga"
+    },
+    {
+      "salitang_tagalog": "Pursigi",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Perseguir",
+      "kahulugan": "Ipagpatuloy; sundan; habulin; umusig"
+    },
+    {
+      "salitang_tagalog": "Pusta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Apostar",
+      "kahulugan": "Pumusta; tumaya"
+    },
+    {
+      "salitang_tagalog": "Ratipika",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Ratificar",
+      "kahulugan": "Magpatibay"
+    },
+    {
+      "salitang_tagalog": "Reboka",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Revocar",
+      "kahulugan": "Bawiin"
+    },
+    {
+      "salitang_tagalog": "Rekomenda",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Recomendar",
+      "kahulugan": "Magrekomenda"
+    },
+    {
+      "salitang_tagalog": "Repina",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Refinar",
+      "kahulugan": "Pinuhin"
+    },
+    {
+      "salitang_tagalog": "Sangkutsa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Sancochar o Salcochar",
+      "kahulugan": "Pakuluan sa tubig at asin"
+    },
+    {
+      "salitang_tagalog": "Salba",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Salvar",
+      "kahulugan": "Iligtas"
+    },
+    {
+      "salitang_tagalog": "Sara",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Cerrar",
+      "kahulugan": "Isara"
+    },
+    {
+      "salitang_tagalog": "Silbi",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Servir",
+      "kahulugan": "Maglingkod"
+    },
+    {
+      "salitang_tagalog": "Sindi",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Encender",
+      "kahulugan": "Magpaapoy; buksan"
+    },
+    {
+      "salitang_tagalog": "Sulda",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Soldar",
+      "kahulugan": "Maghinang; pagkaisahin"
+    },
+    {
+      "salitang_tagalog": "Sulsi",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Zurcir",
+      "kahulugan": "Tumahi; maghayuma"
+    },
+    {
+      "salitang_tagalog": "Sumite",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Someter",
+      "kahulugan": "Sumupil; lupigin; ipasa"
+    },
+    {
+      "salitang_tagalog": "Suspende",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Suspendir",
+      "kahulugan": "Suspindihin"
+    },
+    {
+      "salitang_tagalog": "Tantiya",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Tantear",
+      "kahulugan": "Kapain; timbangin; tantiyahin"
+    },
+    {
+      "salitang_tagalog": "Taranta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Atarantar",
+      "kahulugan": "Magpatulala; magpasilaw"
+    },
+    {
+      "salitang_tagalog": "Tasa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Tajar",
+      "kahulugan": "Tumaga; gupitin; hiwain"
+    },
+    {
+      "salitang_tagalog": "Timpla",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Templar",
+      "kahulugan": "Magpalamig; gawing katamtaman"
+    },
+    {
+      "salitang_tagalog": "Tumba",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Tumbar",
+      "kahulugan": "Patumbahin"
+    },
+    {
+      "salitang_tagalog": "Tusta",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Tostar",
+      "kahulugan": "Tustahin"
+    },
+    {
+      "salitang_tagalog": "Umpisa",
+      "pinagmulang_wika": "Kastila",
+      "salitang_pinagmulan": "Empezar",
+      "kahulugan": "Magsimula"
+    },
+    {
+      "salitang_tagalog": "balaklaot",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "barat laut (Malay, \"hilagang-kanluran\")",
+      "kahulugan": "hilagang-kanlurang hangin"
+    },
+    {
+      "salitang_tagalog": "balisâ",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "belisah (Malay, \"hindi mapakali; malikot\")",
+      "kahulugan": "hindi mapakali; malikot"
+    },
+    {
+      "salitang_tagalog": "atubalanì",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "batu (Malay at Tagalog, \"bato\") + berani (Malay, \"magiting\")",
+      "kahulugan": "batong magneto"
+    },
+    {
+      "salitang_tagalog": "bibingka",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "kuih bingka (Malay, \"kakanin na gawa sa balinghoy o kamoteng-kahoy\")",
+      "kahulugan": "kakanin na gawa sa malagkit na bigkas at gata"
+    },
+    {
+      "salitang_tagalog": "binibini",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "bini-bini (Malay ng Brunay, \"asawang babae\")",
+      "kahulugan": "babaeng walang asawa"
+    },
+    {
+      "salitang_tagalog": "bunsô",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "bongsu (Malay, \"pinakahuling ipinanganak\")",
+      "kahulugan": "pinakabatang anak sa pamilya"
+    },
+    {
+      "salitang_tagalog": "dalamhatì",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "dalam (Malay, \"sa loob \" ) + hati (Malay, \"atay; puso\")",
+      "kahulugan": "matinding kalungkutan"
+    },
+    {
+      "salitang_tagalog": "dalubhasà",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "juru (Malay, \"eksperto\") + bahasa (Malay, \"wika\")",
+      "kahulugan": "eksperto (sa anumang larangan)"
+    },
+    {
+      "salitang_tagalog": "hatol",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "hatur (Malay, \"kaayusan; pagkakaayos\")",
+      "kahulugan": "pasya ng hukuman sa kaso"
+    },
+    {
+      "salitang_tagalog": "kanan",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "kanan (Malay, \"kanan\")",
+      "kahulugan": "kabaligtaran ng kaliwa"
+    },
+    {
+      "salitang_tagalog": "kawal",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "kawal (Malay, \"bantay, patrolya; tanod\")",
+      "kahulugan": "sundalo; mandirigma"
+    },
+    {
+      "salitang_tagalog": "kulambô",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "kelambu (Malay, \"muskitero\")",
+      "kahulugan": "muskitero"
+    },
+    {
+      "salitang_tagalog": "lagarì",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "gergaji (Malay, \"serutso\")",
+      "kahulugan": "serutso"
+    },
+    {
+      "salitang_tagalog": "lunggatî",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "lung (Tagalog - salitang ugat, \"lungkot\" ) + hati (Malay, \"atay; puso\")",
+      "kahulugan": "pagkasabik; ambisyon"
+    },
+    {
+      "salitang_tagalog": "luwalhatì",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "luwal (Tagalog, \"sa labas\") + hati (Malay, \"atay; puso\")",
+      "kahulugan": "kapayapaan sa loob; sukdulang kaligayahan"
+    },
+    {
+      "salitang_tagalog": "pighatî",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "pedih (Malay, \"sakit\") + hati (Malay, \"atay; puso\")",
+      "kahulugan": "pagdurusa; panggigipuspos; kaabahan"
+    },
+    {
+      "salitang_tagalog": "pilak",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "perak (Malay na talagang nagmula sa Khmer, \"plata\")",
+      "kahulugan": "plata (Ag)"
+    },
+    {
+      "salitang_tagalog": "piralî",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "pijar (Malay, \"borax\")",
+      "kahulugan": "apog"
+    },
+    {
+      "salitang_tagalog": "salaghatì",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "salag o salak (Tagalog, \"puno at pinatag\") + hati (Malay, \"atay; puso\")",
+      "kahulugan": "kawalang-kasiyahan; sama ng loob"
+    },
+    {
+      "salitang_tagalog": "Singapura",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "Singapura (Malay, \"Singapore\")",
+      "kahulugan": "Singapura"
+    },
+    {
+      "salitang_tagalog": "takal",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "takar (Malay, \"panukat ng kapasidad para sa langis, atbp.\")",
+      "kahulugan": "pagsukat ayon sa bolyum ng mga likido at ng mga binutil"
+    },
+    {
+      "salitang_tagalog": "tanghalì",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "tengah (Malay, \"kalahati\") + hari (Malay, \"araw\")",
+      "kahulugan": "panahon sa pagitan ng umaga at hapon"
+    },
+    {
+      "salitang_tagalog": "tiyanak",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "puntianak (Malay, tumutukoy sa bampira, multo o katawang muling-binuhay na sumisipsip ng dugo)",
+      "kahulugan": "malabampirang nilalang na gumagaya sa anyo ng isang bata"
+    },
+    {
+      "salitang_tagalog": "uluhatì",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "ulo (Tagalog) + hati (Malay, \"atay; puso\")",
+      "kahulugan": "pag-alaala; paggunita"
+    },
+    {
+      "salitang_tagalog": "usap",
+      "pinagmulang_wika": "Malay",
+      "salitang_pinagmulan": "ucap (Malay, \"pagbigkas\")",
+      "kahulugan": "pagsasalitaan"
+    },
+    {
+      "salitang_tagalog": "aghám",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "आगम ( āgama , \"pagkuha ng kaalaman, siyensiya\")",
+      "kahulugan": "siyensiya (modernong likha), karunungan"
+    },
+    {
+      "salitang_tagalog": "antalà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "अन्तर ( āntara , \"panahong itinagal, puwang\")",
+      "kahulugan": "balam"
+    },
+    {
+      "salitang_tagalog": "asal",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "आचार ( ācāra , \"paraan ng pagkilos, pag-uugali, gawi\")",
+      "kahulugan": "pag-uugali, gawi"
+    },
+    {
+      "salitang_tagalog": "bahalà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "भार ( bhāra , \"pasan, bigat, mabigat na trabaho\")",
+      "kahulugan": "pangasiwaan; alagaan; asikasuhin"
+    },
+    {
+      "salitang_tagalog": "balità",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "वार्त्ता ( vārttā , \"salaysay, ulat\")",
+      "kahulugan": "ulat hinggil sa mga pangyayari sa paligid"
+    },
+    {
+      "salitang_tagalog": "bansâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "वंश ( vaṃśá , \"tubo ng kawayan, talaangkanan, dinastiya, lahi\")",
+      "kahulugan": "bayan; nasyon (modernong likha)"
+    },
+    {
+      "salitang_tagalog": "banyagà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "वाणिज्यक ( vāṇijyaka : \"mangangalakal; negosyante\")",
+      "kahulugan": "dayuhan (modernong kahulugan)"
+    },
+    {
+      "salitang_tagalog": "basa",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "वाचा ( vācā , \"boses; pagsasalita\")",
+      "kahulugan": "pagtunghay at pag-unawa sa nakasulat"
+    },
+    {
+      "salitang_tagalog": "Bathalà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "भट्टार ( bhaṭṭāra , \"taong maharlika; kagalang-galang\")",
+      "kahulugan": "Kataas-taasang Tao; Diyos"
+    },
+    {
+      "salitang_tagalog": "bihasa",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "अभ्यास ( abhyāsa , \"kinaugalian\")",
+      "kahulugan": "dalubhasa; sanay"
+    },
+    {
+      "salitang_tagalog": "budhî",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "बुद्धि ( buddhi , \"pag-unawa\")",
+      "kahulugan": "konsiyensiya"
+    },
+    {
+      "salitang_tagalog": "dawà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "यव ( yava , \" Hordeum vulgare \")",
+      "kahulugan": "Panicum miliaceum"
+    },
+    {
+      "salitang_tagalog": "dayà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "द्वय ( dvaya : \"doble-kara; kasinungalingan\")",
+      "kahulugan": "pandaraya; panlilinlang"
+    },
+    {
+      "salitang_tagalog": "diwà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "जीव ( jīva , \"prinsipyo ng buhay; napakahalagang hininga\")",
+      "kahulugan": "espiritu; kaluluwa"
+    },
+    {
+      "salitang_tagalog": "diwatà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "देवता ( devatā , \"pagka-diyos\")",
+      "kahulugan": "anito; diyosa; nimpa (modernong kahulugan)"
+    },
+    {
+      "salitang_tagalog": "dukhâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "दुःख ( duḥkha , \"kalungkutan; karalitaan; kahirapan\")",
+      "kahulugan": "kahirapan"
+    },
+    {
+      "salitang_tagalog": "dusa",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "दोष ( doṣa , \"pinsala; kasiraan; masasamang bunga\")",
+      "kahulugan": "paghihirap, pighati"
+    },
+    {
+      "salitang_tagalog": "dustá",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "दूषित ( dūṣita , \"nadungisan; nahalay; nasaktan\")",
+      "kahulugan": "siniraan"
+    },
+    {
+      "salitang_tagalog": "gadyâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "गज ( gaja , \"elephante\")",
+      "kahulugan": "elepante"
+    },
+    {
+      "salitang_tagalog": "gandá",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "गन्ध ( gandha , \"bango; halimuyak\")",
+      "kahulugan": "karikitan"
+    },
+    {
+      "salitang_tagalog": "gurò",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "गुरु ( guru , \"maestro; guro\")",
+      "kahulugan": "tagapagturo; titser"
+    },
+    {
+      "salitang_tagalog": "halagá",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "अर्घ ( argha , \"halaga\")",
+      "kahulugan": "kabuluhan; presyo, saysay"
+    },
+    {
+      "salitang_tagalog": "halatâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "अर्थय ( arthaya , \"madama\")",
+      "kahulugan": "kapansin-pansin, kapuna-puna"
+    },
+    {
+      "salitang_tagalog": "harayà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "हृदय ( hṛdaya , \"puso\")",
+      "kahulugan": "imahinasyon; guni-guni"
+    },
+    {
+      "salitang_tagalog": "hinà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "हीन ( hīna , \"mas mahina/mababa kaysa sa; inabandona; kulang\")",
+      "kahulugan": "dupok, hunâ"
+    },
+    {
+      "salitang_tagalog": "hiwagà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "विहग ( vihaga , \"ibon\")",
+      "kahulugan": "misteryo; milagro"
+    },
+    {
+      "salitang_tagalog": "kasubhâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "कुसुम्भ ( kusumbha , \" Carthamus tinctorius \")",
+      "kahulugan": "Carthamus tinctorius"
+    },
+    {
+      "salitang_tagalog": "kastulì",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "कस्तूरी ( kastūrī , \" Abelmoschus moschatus \")",
+      "kahulugan": "Abelmoschus moschatus"
+    },
+    {
+      "salitang_tagalog": "kathâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "कथा ( kathā , \"isang mapagkunwaring kuwento; pabula\")",
+      "kahulugan": "akda; piksiyon; imbensyon, gawa"
+    },
+    {
+      "salitang_tagalog": "katâ-katâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "pag-uulit ng कथा ( kathā ), \"kuwento, pabula\")",
+      "kahulugan": "alamat; pabula; kuwentong-bayan"
+    },
+    {
+      "salitang_tagalog": "kalapati ; palapati",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "पारापत ( pārāpataḥ , \"pitson\")",
+      "kahulugan": "pitson"
+    },
+    {
+      "salitang_tagalog": "kubà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "कुब्ज ( kubja , \"bukot\")",
+      "kahulugan": "bukot"
+    },
+    {
+      "salitang_tagalog": "kutà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "कोट ( koṭa , \"muog, tanggulan\")",
+      "kahulugan": "muog, tanggulan"
+    },
+    {
+      "salitang_tagalog": "ladyâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "राज ( rāja , \"hari, pinuno,soberano\")",
+      "kahulugan": "raha, pinuno, puno"
+    },
+    {
+      "salitang_tagalog": "lagundî",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "निर्गुण्डी ( nirguṇḍī , \" Vitex negundo \")",
+      "kahulugan": "Vitex negundo"
+    },
+    {
+      "salitang_tagalog": "lahò",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "राहु ( rāhu , \"eklipse\")",
+      "kahulugan": "eklipse; mawala"
+    },
+    {
+      "salitang_tagalog": "lasa",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "रस ( rasa , \"presyong pandama sa pagkain, namnamin\")",
+      "kahulugan": "impresyong pandama sa pagkain"
+    },
+    {
+      "salitang_tagalog": "likhâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "लेखा ( lekhā , \"pagguhit; pigura\")",
+      "kahulugan": "lalangin, lalang"
+    },
+    {
+      "salitang_tagalog": "madlâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "मण्डल ( maṇḍala , \"bilog; pulutong\")",
+      "kahulugan": "publiko, sambayanan"
+    },
+    {
+      "salitang_tagalog": "maharlikâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "महर्द्धिक ( maharddhika , \"maunlad\")",
+      "kahulugan": "karingalan; panlipunang uri ng mga Tagalog bago ang panahon ng Kastila na binuo ng mga pinalaya, maginoo"
+    },
+    {
+      "salitang_tagalog": "makatà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "Tag. ma- + कथा ( kathā , \"kuwento; pabula\")",
+      "kahulugan": "manunula"
+    },
+    {
+      "salitang_tagalog": "mukhâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "मुख ( mukha , \"harapan ng ulo mula noo hanggang baba\")",
+      "kahulugan": "harapan ng ulo mula noo hanggang baba, ulo"
+    },
+    {
+      "salitang_tagalog": "mulâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "मूल ( mūla , \"batayan, saligan, pinagmulan, pinagsimulan\")",
+      "kahulugan": "galing sa; sapol noon, simulâ"
+    },
+    {
+      "salitang_tagalog": "mutyâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "मुत्य ( mutya , \"perlas\")",
+      "kahulugan": "anting-anting; perlas; irog"
+    },
+    {
+      "salitang_tagalog": "naga",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "नाग ( nāga , \"dragon\")",
+      "kahulugan": "dragon"
+    },
+    {
+      "salitang_tagalog": "paksâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "पक्ष ( pakṣa , \"isang punto o bagay na pinagtatalakayan\")",
+      "kahulugan": "tema; pinag-uusapan o tinatalakay na bagay"
+    },
+    {
+      "salitang_tagalog": "palibhasà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "परिभाषा ( paribhāṣā , \"pagsasalita; pamimintas; pagsumbat\")",
+      "kahulugan": "balintunay; uyam; pintas"
+    },
+    {
+      "salitang_tagalog": "parusa",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "Tag. pa- + dusa , mula sa Sanskritong दोष ( doṣa )",
+      "kahulugan": "kastigo"
+    },
+    {
+      "salitang_tagalog": "patola",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "पटोल ( paṭola , \" Trichosanthes dioica \")",
+      "kahulugan": "Luffa acutangula , upo"
+    },
+    {
+      "salitang_tagalog": "raha",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "राज ( rāja , \"hari, ladya\")",
+      "kahulugan": "ladya (makasaysayan)"
+    },
+    {
+      "salitang_tagalog": "saksí",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "साक्षी ( sākṣī , \"testigo\")",
+      "kahulugan": "testigo, nakakita, tunghay"
+    },
+    {
+      "salitang_tagalog": "sakunâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "शकुन ( śakuna , \"isang ibong nagbabadya\")",
+      "kahulugan": "riwara, unos"
+    },
+    {
+      "salitang_tagalog": "salamuhà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "समूह ( samūha , \"pagtitipon, pulutong\")",
+      "kahulugan": "pakikihalubilo sa mga tao, halubilo"
+    },
+    {
+      "salitang_tagalog": "salantâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "श्रान्त ( śrānta , \"nalumpo, baldado\")",
+      "kahulugan": "baldado, sira, wasak"
+    },
+    {
+      "salitang_tagalog": "salitâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "चरित ( carita , \"ugali, mga kilos, mga gawa, pakikipagsapalaran\")",
+      "kahulugan": "wikain; sabi; bukambibig"
+    },
+    {
+      "salitang_tagalog": "samantalà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "समान्तर ( samāntara , \"magkahilera\")",
+      "kahulugan": "habang"
+    },
+    {
+      "salitang_tagalog": "sampalataya",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "सम्प्रत्यय ( sampratyaya , \"tiwala, kumpiyansa\")",
+      "kahulugan": "manalig; maniwala sa Diyos; samba"
+    },
+    {
+      "salitang_tagalog": "sandata",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "संयत्त ( saṃyatta , \"handa, nakaalisto\")",
+      "kahulugan": "armas, balisong, patalim"
+    },
+    {
+      "salitang_tagalog": "siglá",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "शीघ्र ( śīghra , \"mabilis, matulin\")",
+      "kahulugan": "sigasig, bitalidad, matulin"
+    },
+    {
+      "salitang_tagalog": "sintá",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "चिन्ता ( cintā , \"isip\")",
+      "kahulugan": "mahal, pagmamahal sa bansa"
+    },
+    {
+      "salitang_tagalog": "sukà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "चुक्र ( cukra , \"binagre\")",
+      "kahulugan": "binagre, maasim"
+    },
+    {
+      "salitang_tagalog": "sutla",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "सूत्र ( sūtra , \"sinulid, pisi, kawad\")",
+      "kahulugan": "seda"
+    },
+    {
+      "salitang_tagalog": "talà",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "तारा ( tārā , \"bituin\")",
+      "kahulugan": "bituin, Tala (diyosa)"
+    },
+    {
+      "salitang_tagalog": "tanikalâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "शृङ्खल ( śṛṅkhala , \"kadena\")",
+      "kahulugan": "kadena"
+    },
+    {
+      "salitang_tagalog": "tinggâ",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "तीव्र ( tīvra , \"tin, bakal, asero\")",
+      "kahulugan": "plomo"
+    },
+    {
+      "salitang_tagalog": "tsampaka",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "चम्पक ( campaka , \" Magnolia champaca\")",
+      "kahulugan": "Magnolia champaca"
+    },
+    {
+      "salitang_tagalog": "upang",
+      "pinagmulang_wika": "Sanskrito",
+      "salitang_pinagmulan": "उप ( upa , \"patungo, malapit sa\")",
+      "kahulugan": "para; sa gayon; at nang"
+    },
+    {
+      "salitang_tagalog": "bagay",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "வகை ( vakai )",
+      "kahulugan": "bagay; artikulo"
+    },
+    {
+      "salitang_tagalog": "baríl",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "வெடில் ( veṭil )",
+      "kahulugan": "uri ng sandata"
+    },
+    {
+      "salitang_tagalog": "bilanggô",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "விலங்கு ( vilaṅku )",
+      "kahulugan": "preso"
+    },
+    {
+      "salitang_tagalog": "gulay",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "குழை ( kuḻai )",
+      "kahulugan": "pagkaing halaman"
+    },
+    {
+      "salitang_tagalog": "kalikam",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "காரிக்கம் ( kārikkam )",
+      "kahulugan": "burdadong balabal mula sa Brunei"
+    },
+    {
+      "salitang_tagalog": "kawal",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "காவல் ( kāval )",
+      "kahulugan": "sundalo; mandirigma"
+    },
+    {
+      "salitang_tagalog": "kawalì",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "குவளை ( kuvaḷai )",
+      "kahulugan": "prituhan"
+    },
+    {
+      "salitang_tagalog": "kiyapò",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "கயப்பூ ( kayappū )",
+      "kahulugan": "Pistia stratiotes"
+    },
+    {
+      "salitang_tagalog": "manggá",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "மாங்காய் ( māṅkāy )",
+      "kahulugan": "Mangifera indica"
+    },
+    {
+      "salitang_tagalog": "malunggáy",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "முருங்கை ( muruṅkai )",
+      "kahulugan": "Moringa oleifera"
+    },
+    {
+      "salitang_tagalog": "misáy",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "மீசை ( mīcai )",
+      "kahulugan": "bigote"
+    },
+    {
+      "salitang_tagalog": "palisay",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "பரிசை ( paricai )",
+      "kahulugan": "kalasag na ginagamit sa sayaw ng mandirigma"
+    },
+    {
+      "salitang_tagalog": "puto",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "புட்டு ( puṭṭu )",
+      "kahulugan": "uri ng kakanin"
+    },
+    {
+      "salitang_tagalog": "tupa",
+      "pinagmulang_wika": "Tamil",
+      "salitang_pinagmulan": "ஆட்டுப்பட்டி ( āṭṭuppaṭṭi )",
+      "kahulugan": "karnero"
+    },
+    {
+      "salitang_tagalog": "agimat",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng عَزِيمَة ( ʽazīma , \"anting-anting, mutya, pangkukulam\")",
+      "kahulugan": "anting-anting"
+    },
+    {
+      "salitang_tagalog": "alak",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng عَرَق ( ʽaraq , \"inuming alkohol\")",
+      "kahulugan": "inuming alkohol"
+    },
+    {
+      "salitang_tagalog": "anakura",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Persang ناخدا ( nāxuḏā , \"kapitan ng barko\")",
+      "kahulugan": "kapitan ng barko"
+    },
+    {
+      "salitang_tagalog": "daulat",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng دَوْلَة‎ ( dawla , \"pag-ikot, pagbaliktad ng kapalaran\")",
+      "kahulugan": "swerte; kapalaran"
+    },
+    {
+      "salitang_tagalog": "hukóm",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng حُكْم ( ḥukm , \"kahatulan\")",
+      "kahulugan": "tagahatol"
+    },
+    {
+      "salitang_tagalog": "katan",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng خَتْن ( ḵatn , \"pagtutuli\")",
+      "kahulugan": "tuli"
+    },
+    {
+      "salitang_tagalog": "kupyâ",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng كوفية ( kūfiyya , \" gora, keffieh\" )",
+      "kahulugan": "uri ng helmet"
+    },
+    {
+      "salitang_tagalog": "malim",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng معلم ( muʽallim , \"guro, nabegador\")",
+      "kahulugan": "pilotong pandagat"
+    },
+    {
+      "salitang_tagalog": "mansigit",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng مَسْجِد ( masjid , \"moske\")",
+      "kahulugan": "templo"
+    },
+    {
+      "salitang_tagalog": "paham",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng فَهْم ( fahm , \"pag-unawa \" )",
+      "kahulugan": "taong may pinag-aralan; iskolar"
+    },
+    {
+      "salitang_tagalog": "pangadyî",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Tag. pang- + Arabeng حَجِّي ( ḥajjī , \"isang peregrinasyon patungo sa Mecca\")",
+      "kahulugan": "dasal ng Muslim; dasal sa Tagalog na diyos"
+    },
+    {
+      "salitang_tagalog": "pinggán",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Persang پنگان ( pingān , \"tasa, mangkok\")",
+      "kahulugan": "plato"
+    },
+    {
+      "salitang_tagalog": "salabát",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng شربة ( sharbah , \"anumang inumin na walang alak\")",
+      "kahulugan": "tsaa na gawa sa luya"
+    },
+    {
+      "salitang_tagalog": "salamat",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Persang سَلَامَت ( salāmat , \"mabuting kalusugan\") mula sa Arabeng سلامت ( salāma , \"kapayapaan; pagpapala\", pambati o pampasalamat\")",
+      "kahulugan": "salamat"
+    },
+    {
+      "salitang_tagalog": "salapî",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng صَرْف ( ṣarf , \" magbayad, kumita\")",
+      "kahulugan": "barya; pera"
+    },
+    {
+      "salitang_tagalog": "salawál",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Persang شلوار ( šalvār , \"pantalon\")",
+      "kahulugan": "pang-ibabang damit"
+    },
+    {
+      "salitang_tagalog": "siyák",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng شَيْخ‎ ( šayḵ , \"matanda, maestro, guro, sheik\")",
+      "kahulugan": "klerigong Muslim"
+    },
+    {
+      "salitang_tagalog": "sultán",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng سُلْطَان‎ (‎ sulṭān , \"lakas ng soberanya o awtoridad\")",
+      "kahulugan": "hari o maharlika (makasaysayan)"
+    },
+    {
+      "salitang_tagalog": "sumbali",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng بِاسْمِ اللّٰه ( bismi llāh , \"sa ngalan ng Panginoon\")",
+      "kahulugan": "paghiwa ng lalamunan ng hayop"
+    },
+    {
+      "salitang_tagalog": "sunat",
+      "pinagmulang_wika": "Arabe/Persa",
+      "salitang_pinagmulan": "Arabeng سُنَّة ( sunnah : tradisyon, lalo na ang mga tradisyon sa Islam)",
+      "kahulugan": "pagpapatuli ng tilin"
+    },
+    {
+      "salitang_tagalog": "angkák",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "紅麴 ( âng-khak )",
+      "kahulugan": "pulang lebadura"
+    },
+    {
+      "salitang_tagalog": "apyán",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "鴉片 ( a-phiàn )",
+      "kahulugan": "opyo"
+    },
+    {
+      "salitang_tagalog": "ate",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "阿姊 ( á-chí )",
+      "kahulugan": "katawagan sa panganay na babae"
+    },
+    {
+      "salitang_tagalog": "baktáw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "墨斗 ( ba̍k-táu )",
+      "kahulugan": "tintang pananda ng karpintero"
+    },
+    {
+      "salitang_tagalog": "bakyâ",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "木屐 ( ba̍k-kia̍h )",
+      "kahulugan": "kahoy na sapatos"
+    },
+    {
+      "salitang_tagalog": "bataw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "扁豆 ( bah-tāu )",
+      "kahulugan": "bitsuwelas ( Lablab purpureus )"
+    },
+    {
+      "salitang_tagalog": "batsoy",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "肉水 ( bah-chhùi )",
+      "kahulugan": "sinabawang pansit na may lamanloob ng baboy"
+    },
+    {
+      "salitang_tagalog": "bihon",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "米粉 ( bî-hún )",
+      "kahulugan": "isang uri ng pansit"
+    },
+    {
+      "salitang_tagalog": "biko",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "米糕 ( bí-kō )",
+      "kahulugan": "pinatamis na kakanin"
+    },
+    {
+      "salitang_tagalog": "bilawo",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "米樓 ( bí-lâu )",
+      "kahulugan": "salaan ng bigas/lalagyan ng pagkain"
+    },
+    {
+      "salitang_tagalog": "bimpo",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "面布 ( bīn-pò͘ )",
+      "kahulugan": "labakara"
+    },
+    {
+      "salitang_tagalog": "bithay",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "米篩 ( bi-thaî )",
+      "kahulugan": "salaan ng butil at buhangin"
+    },
+    {
+      "salitang_tagalog": "bitso",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "米棗 ( bí-chó )",
+      "kahulugan": "katawagan sa youtiao sa Pilipinas"
+    },
+    {
+      "salitang_tagalog": "betsin",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "味精 ( bī-cheng )",
+      "kahulugan": "Monosodium glutamate"
+    },
+    {
+      "salitang_tagalog": "buwisit",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "無衣食 ( bô-ui-si̍t )",
+      "kahulugan": "istorbo"
+    },
+    {
+      "salitang_tagalog": "diko",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "二哥 ( jī-kô )",
+      "kahulugan": "katawagan sa ikalawang panganay na lalaki"
+    },
+    {
+      "salitang_tagalog": "disó",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "二嫂 ( jī-só )",
+      "kahulugan": "hipag"
+    },
+    {
+      "salitang_tagalog": "ditsé",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "二姊 ( jī-ché )",
+      "kahulugan": "katawagan sa ikalawang panganay na babae"
+    },
+    {
+      "salitang_tagalog": "gintô",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "金條 ( kim-tiâu )",
+      "kahulugan": "oro (Au)"
+    },
+    {
+      "salitang_tagalog": "goto",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "牛肚 ( gû-tǒ͘ )",
+      "kahulugan": "lugaw na may tuwalya ng baka"
+    },
+    {
+      "salitang_tagalog": "gunggóng",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "戇戇 ( gōng-gōng )",
+      "kahulugan": "bobo"
+    },
+    {
+      "salitang_tagalog": "hikaw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "耳鉤 ( hǐ-kau )",
+      "kahulugan": "aretes"
+    },
+    {
+      "salitang_tagalog": "hopya",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "好餅 ( hó piáⁿ )",
+      "kahulugan": "matamis na mamon na may munggo"
+    },
+    {
+      "salitang_tagalog": "hukbô",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "服務 ( ho̍k-bū )",
+      "kahulugan": "sandatahang pangkat"
+    },
+    {
+      "salitang_tagalog": "husi",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "富絲 ( hù-se )",
+      "kahulugan": "tela na may hibla ng pinya"
+    },
+    {
+      "salitang_tagalog": "huwepe",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "火把 ( hóe-pé )",
+      "kahulugan": "sulo"
+    },
+    {
+      "salitang_tagalog": "huweteng",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "花檔 ( hoe-tǹg )",
+      "kahulugan": "uri ng sugal"
+    },
+    {
+      "salitang_tagalog": "impó",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "花檔 ( ḿ-pô ) / 引婆 ( ín-pô )",
+      "kahulugan": "lola"
+    },
+    {
+      "salitang_tagalog": "ingkóng",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "引公 ( in-kông )",
+      "kahulugan": "lolo"
+    },
+    {
+      "salitang_tagalog": "insó",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "引嫂 ( ín-só )",
+      "kahulugan": "hipag sa kuya"
+    },
+    {
+      "salitang_tagalog": "Intsík",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "引叔 ( ín-chek )",
+      "kahulugan": "( impormal ) mga Tsinong tao, wika, o kultura"
+    },
+    {
+      "salitang_tagalog": "katay",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "共伊刣 ( kā i thâi )",
+      "kahulugan": "pagpapatay sa hayop na kakainin"
+    },
+    {
+      "salitang_tagalog": "kikiam",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "雞繭 ( ke-kián )",
+      "kahulugan": "ngo hiang"
+    },
+    {
+      "salitang_tagalog": "kintsáy",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "芹菜 ( khîn-chhài )",
+      "kahulugan": "Apium graveolens"
+    },
+    {
+      "salitang_tagalog": "kitî",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "雞弟 ( ke-tī )",
+      "kahulugan": "sisiw"
+    },
+    {
+      "salitang_tagalog": "kutsáy",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "韭菜 ( kú-chhài )",
+      "kahulugan": "Allium ramosum"
+    },
+    {
+      "salitang_tagalog": "kusot",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "鋸屑 ( kù-sut )",
+      "kahulugan": "piyaos"
+    },
+    {
+      "salitang_tagalog": "kuya",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "哥兄 ( ko-iá )",
+      "kahulugan": "katawagan sa nakatatandang kapatid na lalaki"
+    },
+    {
+      "salitang_tagalog": "lawin",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "老鷹 ( lāu-eng )",
+      "kahulugan": "anumang ibon mula sa Accipitridae o Falconidae"
+    },
+    {
+      "salitang_tagalog": "lawláw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "落落 ( làu-làu )",
+      "kahulugan": "nakabitin na umaalog-alog"
+    },
+    {
+      "salitang_tagalog": "litháw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "犁頭 ( lé-thaú )",
+      "kahulugan": "sudsod ng araro"
+    },
+    {
+      "salitang_tagalog": "lomi",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "滷麵 ( ló͘-mī )",
+      "kahulugan": "lomi – isang uri ng pansit ng mga Tsinoy"
+    },
+    {
+      "salitang_tagalog": "lumpiyâ",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "潤餅 ( lūn-piáⁿ )",
+      "kahulugan": "karne, gulay o hipon na ibinalot sa harinang pambalot"
+    },
+    {
+      "salitang_tagalog": "mami",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "肉麵 ( mah-mī )",
+      "kahulugan": "karne at pansit sa sabaw"
+    },
+    {
+      "salitang_tagalog": "maselan",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "ma- + 西儂 ( se-lâng )",
+      "kahulugan": "pihikan"
+    },
+    {
+      "salitang_tagalog": "miswa",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "麵線 (mī-sòaⁿ)",
+      "kahulugan": "uri ng pansit na may pinung-pinong hibla"
+    },
+    {
+      "salitang_tagalog": "pansít",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "扁食 ( pán-si̍t )",
+      "kahulugan": "anumang putahe na may luglog"
+    },
+    {
+      "salitang_tagalog": "pakyáw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "跋繳 ( pa̍k-kiáu )",
+      "kahulugan": "pagbibili nang maramihan o lahatan"
+    },
+    {
+      "salitang_tagalog": "pasláng",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "拍死人 ( phah-sí lāng )",
+      "kahulugan": "ipatay"
+    },
+    {
+      "salitang_tagalog": "petsay",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "白菜 ( pe̍h-chhài )",
+      "kahulugan": "Brassica rapa subsp. pekinensis"
+    },
+    {
+      "salitang_tagalog": "pesà",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "白煠魚 ( pe̍h-sa̍h hî )",
+      "kahulugan": "simpleng pinakuluang isda"
+    },
+    {
+      "salitang_tagalog": "pinsé",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "硼砂 ( phêng-se )",
+      "kahulugan": "borax"
+    },
+    {
+      "salitang_tagalog": "puntáw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "糞斗 ( pùn-táu )",
+      "kahulugan": "pandakot"
+    },
+    {
+      "salitang_tagalog": "putháw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "斧頭 ( pú-thâu )",
+      "kahulugan": "maliit na palakol"
+    },
+    {
+      "salitang_tagalog": "sampán",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "舢板 ( sam-pán )",
+      "kahulugan": "Tsinong barko"
+    },
+    {
+      "salitang_tagalog": "samyô",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "散藥 ( sám io̍h )",
+      "kahulugan": "halimuyak"
+    },
+    {
+      "salitang_tagalog": "sangko",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "三哥 ( saⁿ-ko )",
+      "kahulugan": "katawagan sa ikatlo sa panganay na lalaki"
+    },
+    {
+      "salitang_tagalog": "sangkî",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "三紀 ( saⁿ-kì )",
+      "kahulugan": "Illicium verum"
+    },
+    {
+      "salitang_tagalog": "sansé",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "三姊 ( saⁿ-ché )",
+      "kahulugan": "katawagan sa ikatlo sa panganay na babae"
+    },
+    {
+      "salitang_tagalog": "singkî",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "新客 ( sin-kheh )",
+      "kahulugan": "baguhan"
+    },
+    {
+      "salitang_tagalog": "sitaw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "青豆 ( chhiⁿ-tāu )",
+      "kahulugan": "Vigna unguiculata subsp. sesquipedalis"
+    },
+    {
+      "salitang_tagalog": "siyaho",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "姐夫 ( chiá-hu )",
+      "kahulugan": "asawa ng ate o babaeng pinsan"
+    },
+    {
+      "salitang_tagalog": "siyakoy",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "油炸粿 ( iû-cha̍h-kóe )",
+      "kahulugan": "shakoy o lubid-lubid"
+    },
+    {
+      "salitang_tagalog": "siyansí",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "煎匙 ( chian-sî )",
+      "kahulugan": "pambaligtad at panghango ng ipinrito sa kawali"
+    },
+    {
+      "salitang_tagalog": "sotanghon",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "山東粉 ( soaⁿ-tang-hún )",
+      "kahulugan": "uri ng pansit na may naaaninag na hibla"
+    },
+    {
+      "salitang_tagalog": "sukì",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "主客 ( chú-kheh )",
+      "kahulugan": "regular na kostumer; tagatangkilik"
+    },
+    {
+      "salitang_tagalog": "sungkî",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "伸齒 ( chhun-khí )",
+      "kahulugan": "baluktot na ngipin"
+    },
+    {
+      "salitang_tagalog": "susì",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "鎖匙 ( só–sî )",
+      "kahulugan": "pambukas o pansara ng kandado"
+    },
+    {
+      "salitang_tagalog": "suwahe",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "沙蝦 ( soa-hê )",
+      "kahulugan": "Metapenaeus ensis"
+    },
+    {
+      "salitang_tagalog": "suyà",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "衰啊 ( soe-a )",
+      "kahulugan": "yamot"
+    },
+    {
+      "salitang_tagalog": "siyokoy",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "水鬼 ( chúi-kúi )",
+      "kahulugan": "sireno"
+    },
+    {
+      "salitang_tagalog": "siyomay",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "燒賣 ( sio-mai )",
+      "kahulugan": "pinasingaw na dimsum"
+    },
+    {
+      "salitang_tagalog": "siyopaw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "燒包 ( sio-pau )",
+      "kahulugan": "bāozi na pinalamanan ng karne"
+    },
+    {
+      "salitang_tagalog": "tahô",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "豆花 ( tāu-hū )",
+      "kahulugan": "panghimagas na gawa sa utaw, arnibal , at sago"
+    },
+    {
+      "salitang_tagalog": "táhuré (bar. táhurí)",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "豆乳 ( tāu-jí )",
+      "kahulugan": "pinakasim na tokwa sa toyo"
+    },
+    {
+      "salitang_tagalog": "tanga",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "蟲仔 ( thâng-á )",
+      "kahulugan": "panggabing kulisap ( clothes moth )"
+    },
+    {
+      "salitang_tagalog": "tangláw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "燈樓 ( teng-lâu )",
+      "kahulugan": "ilaw"
+    },
+    {
+      "salitang_tagalog": "tansô",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "銅索 ( tâng-soh )",
+      "kahulugan": "kobre (Cu); bronse"
+    },
+    {
+      "salitang_tagalog": "tawsî",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "豆豉 ( tāu-sīⁿ )",
+      "kahulugan": "utaw na pinreserba sa toyo"
+    },
+    {
+      "salitang_tagalog": "timsím (bar. tingsím)",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "燈芯 ( teng-sim )",
+      "kahulugan": "mitsa ng ilawang de-langis"
+    },
+    {
+      "salitang_tagalog": "tinghóy",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "燈火 ( teng-hóe )",
+      "kahulugan": "kingki, paritan"
+    },
+    {
+      "salitang_tagalog": "tikoy",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "甜粿 ( tiⁿ-kóe )",
+      "kahulugan": "matamis na kakanin"
+    },
+    {
+      "salitang_tagalog": "titò",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "豬肚 ( ti-tǒ͘ )",
+      "kahulugan": "tripa ng baboy"
+    },
+    {
+      "salitang_tagalog": "tiyak",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "的 ( tiak )",
+      "kahulugan": "sigurado"
+    },
+    {
+      "salitang_tagalog": "toge",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "豆芽 ( tāu-gê )",
+      "kahulugan": "gulaying usbong ng monggo"
+    },
+    {
+      "salitang_tagalog": "tokwa",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "豆乾 ( tāu-koaⁿ )",
+      "kahulugan": "pagkain na gawa sa kinultang balatong"
+    },
+    {
+      "salitang_tagalog": "totso",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "豆油醋魚 ( tāu-iû- chhò͘-hî )",
+      "kahulugan": "ginisang isda na may tahure"
+    },
+    {
+      "salitang_tagalog": "toyò",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "豆油 ( tāu-iû )",
+      "kahulugan": "uri ng sawsawan"
+    },
+    {
+      "salitang_tagalog": "tutsang",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "頭鬃 ( thâu-chang )",
+      "kahulugan": "maikling buhok sa ulo ng babae"
+    },
+    {
+      "salitang_tagalog": "upo",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "葫匏 ( ô͘-pû )",
+      "kahulugan": "Lagenaria siceraria"
+    },
+    {
+      "salitang_tagalog": "utaw",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "烏豆 ( o͘-tāu )",
+      "kahulugan": "balatong ( Glycine max )"
+    },
+    {
+      "salitang_tagalog": "wansóy (bar. unsoy, yansoy)",
+      "pinagmulang_wika": "Hokkien",
+      "salitang_pinagmulan": "芫荽 ( oân-sui )",
+      "kahulugan": "kulantro ( coriandrum sativum )"
+    },
+    {
+      "salitang_tagalog": "bonsay",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "盆栽 ( bonsai )",
+      "kahulugan": "maliit na nakapaso na halaman; (balbal ) bansot sa tangkad"
+    },
+    {
+      "salitang_tagalog": "dorobo",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "泥棒 ( dorobō )",
+      "kahulugan": "magnanakaw; mangloloob"
+    },
+    {
+      "salitang_tagalog": "dyak en poy o jak en poy",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "じゃん拳ぽん ( jankenpon )",
+      "kahulugan": "larong bato–bato–pik"
+    },
+    {
+      "salitang_tagalog": "karaoke",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "カラオケ ( karaoke )",
+      "kahulugan": "pagkanta na may kasabay na musika na nairekord"
+    },
+    {
+      "salitang_tagalog": "karate",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "空手 ( karate )",
+      "kahulugan": "isang uri ng sining marsiyal"
+    },
+    {
+      "salitang_tagalog": "katanà",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "刀 ( katana )",
+      "kahulugan": "isang espadang Hapones"
+    },
+    {
+      "salitang_tagalog": "katól",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "蚊取り線香 ( katorisenkō )",
+      "kahulugan": "insensong pantaboy sa lamok"
+    },
+    {
+      "salitang_tagalog": "kimona",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "着物 ( kimono )",
+      "kahulugan": "tradisyonal na blusang Pilipino na gawa sa pinya o husi"
+    },
+    {
+      "salitang_tagalog": "kiréy",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "奇麗 ( kirei )",
+      "kahulugan": "( balbal ) maganda; kaibig-ibig; marikit"
+    },
+    {
+      "salitang_tagalog": "kokang",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "交換 ( kōkan )",
+      "kahulugan": "( balbal ) palitan; pagpapalitan"
+    },
+    {
+      "salitang_tagalog": "pampan",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "ぱんぱん ( panpan )",
+      "kahulugan": "( balbal ) patutot"
+    },
+    {
+      "salitang_tagalog": "shabú",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "シャブ ( shabu )",
+      "kahulugan": "methamphetamine hydrochloride"
+    },
+    {
+      "salitang_tagalog": "taksan-taksan",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "沢山 ( takusan )",
+      "kahulugan": "( balbal ) marami"
+    },
+    {
+      "salitang_tagalog": "tansan",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "炭酸 ( tansan )",
+      "kahulugan": "takip ng bote"
+    },
+    {
+      "salitang_tagalog": "tsunami",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "津波 ( tsunami )",
+      "kahulugan": "agwahe"
+    },
+    {
+      "salitang_tagalog": "toto",
+      "pinagmulang_wika": "Hapones",
+      "salitang_pinagmulan": "おとうと ( otōto )",
+      "kahulugan": "batang lalaki"
+    },
+    {
+      "salitang_tagalog": "abukado (bar. abokado)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "ahuacatl",
+      "kahulugan": "Persea americana"
+    },
+    {
+      "salitang_tagalog": "akapulko (bar. kapurko)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "acapolco",
+      "kahulugan": "Senna alata"
+    },
+    {
+      "salitang_tagalog": "alpasotis (bar. pasotis)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "epazotl",
+      "kahulugan": "chenopodium ambrosioides"
+    },
+    {
+      "salitang_tagalog": "atole",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "atolli",
+      "kahulugan": "kola na gawa sa harina"
+    },
+    {
+      "salitang_tagalog": "atsuwete",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "achiotl",
+      "kahulugan": "Bixa orellana"
+    },
+    {
+      "salitang_tagalog": "guwatsinanggo",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "cuauchilnacatl",
+      "kahulugan": "matalas; maulo; tuso"
+    },
+    {
+      "salitang_tagalog": "kakaw",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "cacáhuatl",
+      "kahulugan": "Theobroma cacao"
+    },
+    {
+      "salitang_tagalog": "kakawati (bar. kakawate)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "cacáhuatl",
+      "kahulugan": "Gliricidia sepium"
+    },
+    {
+      "salitang_tagalog": "kalatsutsi (bar. kalanotse)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "cacaloxochitl",
+      "kahulugan": "plumeria rubra"
+    },
+    {
+      "salitang_tagalog": "kamatis",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "tomatl",
+      "kahulugan": "Solanum lycopersicum"
+    },
+    {
+      "salitang_tagalog": "kamatsile",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "cuamóchitl",
+      "kahulugan": "Pithecellobium dulce"
+    },
+    {
+      "salitang_tagalog": "kamote",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "camotli",
+      "kahulugan": "Ipomoea batatas"
+    },
+    {
+      "salitang_tagalog": "koyote (bar. kayote)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "coyotl",
+      "kahulugan": "Canis latrans"
+    },
+    {
+      "salitang_tagalog": "kulitis",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "quilitl",
+      "kahulugan": "Amaranthus viridis"
+    },
+    {
+      "salitang_tagalog": "mekate",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "mecatl",
+      "kahulugan": "lubid o kordon na gawa sa abaka"
+    },
+    {
+      "salitang_tagalog": "Mehiko",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "Mēxihco",
+      "kahulugan": "Mehikanong Estados Unidos"
+    },
+    {
+      "salitang_tagalog": "nanay",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "nantli",
+      "kahulugan": "ina"
+    },
+    {
+      "salitang_tagalog": "paruparo (bar. paparo)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "papalotl",
+      "kahulugan": "lumilipad na insekto mula sa orden Lepidoptera"
+    },
+    {
+      "salitang_tagalog": "petate",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "petlatl",
+      "kahulugan": "hinabing banig na palma"
+    },
+    {
+      "salitang_tagalog": "peyote",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "peyotl",
+      "kahulugan": "Lophophora williamsii"
+    },
+    {
+      "salitang_tagalog": "pitaka",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "petlacalli",
+      "kahulugan": "lukbutan ng barya"
+    },
+    {
+      "salitang_tagalog": "sakate",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "zacatl",
+      "kahulugan": "damo na pangkumpay"
+    },
+    {
+      "salitang_tagalog": "sangkaka",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "chiancaca",
+      "kahulugan": "haleya na gawa sa pinatigas na pulut"
+    },
+    {
+      "salitang_tagalog": "sapote",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "tzapotl",
+      "kahulugan": "Pouteria sapota"
+    },
+    {
+      "salitang_tagalog": "sayote",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "chayotli",
+      "kahulugan": "Sechium edule"
+    },
+    {
+      "salitang_tagalog": "sili",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "chīlli",
+      "kahulugan": "Capsicum"
+    },
+    {
+      "salitang_tagalog": "singkamas",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "xicamatl",
+      "kahulugan": "Pachyrhizus erosus"
+    },
+    {
+      "salitang_tagalog": "sisiwa",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "chichiua",
+      "kahulugan": "tagapasuso"
+    },
+    {
+      "salitang_tagalog": "tamalis (bar. tamales)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "tamalli",
+      "kahulugan": "tamales na kanin na binalot sa dahon ng saging o balat ng mais"
+    },
+    {
+      "salitang_tagalog": "tapangko",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "tlapanco",
+      "kahulugan": "sibi"
+    },
+    {
+      "salitang_tagalog": "tatay",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "tahtli",
+      "kahulugan": "ama"
+    },
+    {
+      "salitang_tagalog": "tisa",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "tizatl",
+      "kahulugan": "yeso"
+    },
+    {
+      "salitang_tagalog": "tiyangge (bar. tsangge)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "tianquiztli",
+      "kahulugan": "pamilihang walang-bubong"
+    },
+    {
+      "salitang_tagalog": "tokayo (bar. tukayo, katukayo)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "tocayotia",
+      "kahulugan": "kangalan, kapangalan"
+    },
+    {
+      "salitang_tagalog": "tsiklet (bar. tsikle)",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "chictli",
+      "kahulugan": "chewing gum"
+    },
+    {
+      "salitang_tagalog": "tsiko",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "tzicozapotl",
+      "kahulugan": "Manilkara zapota"
+    },
+    {
+      "salitang_tagalog": "tsokolate",
+      "pinagmulang_wika": "Nahuatl",
+      "salitang_pinagmulan": "xocolatl",
+      "kahulugan": "sikulate"
+    },
+    {
+      "salitang_tagalog": "alpaka",
+      "pinagmulang_wika": "Quechua",
+      "salitang_pinagmulan": "alpaca code: na-promote ang que sa code: qu",
+      "kahulugan": "isang uri ng ngumangata at ang lana nito"
+    },
+    {
+      "salitang_tagalog": "kondor",
+      "pinagmulang_wika": "Quechua",
+      "salitang_pinagmulan": "condor code: na-promote ang que sa code: qu",
+      "kahulugan": "Vultur gryphus"
+    },
+    {
+      "salitang_tagalog": "gautso",
+      "pinagmulang_wika": "Quechua",
+      "salitang_pinagmulan": "gaucho code: na-promote ang que sa code: qu",
+      "kahulugan": "bakero, pastol"
+    },
+    {
+      "salitang_tagalog": "guwano",
+      "pinagmulang_wika": "Quechua",
+      "salitang_pinagmulan": "guano code: na-promote ang que sa code: qu",
+      "kahulugan": "dumi ng ibong-dagat na ginagamit bilang pataba"
+    },
+    {
+      "salitang_tagalog": "hipihapa",
+      "pinagmulang_wika": "Quechua",
+      "salitang_pinagmulan": "jipijapa code: na-promote ang que sa code: qu",
+      "kahulugan": "hibla na nakuha sa dahon ng palma para gumawa ng sombrero; ang sombrero na gawa sa materyales na ito"
+    },
+    {
+      "salitang_tagalog": "pampa",
+      "pinagmulang_wika": "Quechua",
+      "salitang_pinagmulan": "pampa code: na-promote ang que sa code: qu",
+      "kahulugan": "parang, kaparangan"
+    },
+    {
+      "salitang_tagalog": "papas",
+      "pinagmulang_wika": "Quechua",
+      "salitang_pinagmulan": "papa code: na-promote ang que sa code: qu",
+      "kahulugan": "patatas"
+    },
+    {
+      "salitang_tagalog": "kinina",
+      "pinagmulang_wika": "Quechua",
+      "salitang_pinagmulan": "quinin code: na-promote ang que sa code: qu",
+      "kahulugan": "sangkap mula sa balakbak ng ilang punungkahoy na panlunas ng lagnat"
+    },
+    {
+      "salitang_tagalog": "bayot",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "bayot",
+      "kahulugan": "bakla; bading"
+    },
+    {
+      "salitang_tagalog": "buang, buwang",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "buang",
+      "kahulugan": "baliw"
+    },
+    {
+      "salitang_tagalog": "daks",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "dakô",
+      "kahulugan": "( balbal ) may malaking titi"
+    },
+    {
+      "salitang_tagalog": "dugong",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "dugong",
+      "kahulugan": "dugong dugon"
+    },
+    {
+      "salitang_tagalog": "habal-habal",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "habal-habal",
+      "kahulugan": "motorsiklong pampasahero"
+    },
+    {
+      "salitang_tagalog": "indáy",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "indáy",
+      "kahulugan": "sinta; pagtawag sa babaeng kasambahay"
+    },
+    {
+      "salitang_tagalog": "juts",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "diyotay",
+      "kahulugan": "( balbal ) may maliit na titi"
+    },
+    {
+      "salitang_tagalog": "katarungan",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "katarongan",
+      "kahulugan": "hustisya (inimbento sa pasimula ng ika-20 siglo ni Eusebio T. Daluz)"
+    },
+    {
+      "salitang_tagalog": "kawatán",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "kawatán",
+      "kahulugan": "magnanakaw; kriminal"
+    },
+    {
+      "salitang_tagalog": "kawáy",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "gawáy",
+      "kahulugan": "pagtawag sa paggamit ng kamay"
+    },
+    {
+      "salitang_tagalog": "kuskos-balungos",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "kuskos balungos",
+      "kahulugan": "gulo; labis-labis na kilos, balisa, ligalig, o pag-uusap ukol sa isang bagay"
+    },
+    {
+      "salitang_tagalog": "Lumad",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "lumád",
+      "kahulugan": "alinman sa mga katutubong tao sa Mindanao na hindi Muslim"
+    },
+    {
+      "salitang_tagalog": "lungsód",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "lúngsod",
+      "kahulugan": "siyudad (ipinakilala noong pasimula ng ika-20 siglo ni Eusebio T. Daluz)"
+    },
+    {
+      "salitang_tagalog": "tulisán",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "tulisán",
+      "kahulugan": "mandarambong; buhong; bandido; manlalabag ng batas"
+    },
+    {
+      "salitang_tagalog": "ukay-ukay",
+      "pinagmulang_wika": "Sebwano",
+      "salitang_pinagmulan": "ukay-ukay",
+      "kahulugan": "tindahan para sa nagtitipid na nagbebenta ng mga segunda-manong damit, sapatos at iba pang kasuotan"
+    }
+  ],
+  "meta": {
+    "title": "Mga Salitang Hiniram ng Tagalog - Free Download",
+    "description": "Mga salitang Tagalog na hiniram mula sa ibang wika (Kastila, Malay, Sanskrito, Tamil, Arabe, Hokkien, Hapones, Nahuatl at iba pa) kasama ang orihinal na salita at kahulugan. Contains 535 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Salitang Hiniram ng Tagalog | ListBase",
+    "seo_description": "Download Mga Salitang Hiniram ng Tagalog — 535 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 535 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_salitang_hiniram_ng_Tagalog"
+    ]
+  }
+}
