@@ -1,0 +1,248 @@
+{
+  "id": "tl-mga-lutuing-pilipino",
+  "name": "Mga Lutuing Pilipino",
+  "title": "Mga Lutuing Pilipino",
+  "description": "Talaan ng mga tradisyonal na lutuing Pilipino ayon sa uri (ulam, matatamis, at iba pa).",
+  "category": "food",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_lutuing_Pilipino",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_lutuing_Pilipino",
+  "updated": "2026-10",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "pagkain",
+      "label": "Pagkain",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pagkain": "Adobo",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Adobong Atay na baboy",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Bangus en Tocho",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Bikol Ekspres",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Bistek Tagalog",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Bopis",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Caldereta",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Camaron Rebozado",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Corned Beef",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Chicken Afritada",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Chicken Curry",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Chop suey",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Crispy pata",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Diningding",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Dinuguan",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Inihaw",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Lauya ng Parañaque",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Litson kawali",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Lengua Estofada",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Kare-kare",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Laing",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Luto sa Gata",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Mechado",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Menudo",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Nilaga o Pesa",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Pakbet o Pinakbet",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Paksiw",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Pansit , iba't ibang luto",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Pinangat o Pangat",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Pochero",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Prito",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Sinigang",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Sinampalukan",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Sisig",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Sweet and Sour sa Isda/Karne",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Tapa",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Tinola",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Tochong Bangus / Bangus sa Tawsi",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Tusino",
+      "uri": "Ulam"
+    },
+    {
+      "pagkain": "Biko",
+      "uri": "Kanin"
+    },
+    {
+      "pagkain": "Goto",
+      "uri": "Kanin"
+    },
+    {
+      "pagkain": "Lugaw",
+      "uri": "Kanin"
+    },
+    {
+      "pagkain": "Paella",
+      "uri": "Kanin"
+    },
+    {
+      "pagkain": "Saing o Sinaing",
+      "uri": "Kanin"
+    },
+    {
+      "pagkain": "Sinangag",
+      "uri": "Kanin"
+    },
+    {
+      "pagkain": "Suman",
+      "uri": "Kanin"
+    },
+    {
+      "pagkain": "Suman sa Ibos",
+      "uri": "Kanin"
+    },
+    {
+      "pagkain": "Valenciana",
+      "uri": "Kanin"
+    },
+    {
+      "pagkain": "Espasol",
+      "uri": "Matatamis"
+    },
+    {
+      "pagkain": "Puto",
+      "uri": "Matatamis"
+    },
+    {
+      "pagkain": "Kutsinta",
+      "uri": "Matatamis"
+    },
+    {
+      "pagkain": "Yema",
+      "uri": "Matatamis"
+    },
+    {
+      "pagkain": "Tupig",
+      "uri": "Matatamis"
+    }
+  ],
+  "meta": {
+    "title": "Mga Lutuing Pilipino - Free Download",
+    "description": "Talaan ng mga tradisyonal na lutuing Pilipino ayon sa uri (ulam, matatamis, at iba pa). Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Lutuing Pilipino | ListBase",
+    "seo_description": "Download Mga Lutuing Pilipino — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_lutuing_Pilipino"
+    ]
+  }
+}

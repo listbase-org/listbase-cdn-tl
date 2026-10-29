@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-28T02:20:46.490Z",
-  "total_datasets": 461,
-  "total_records": 443885,
+  "generated": "2026-10-29T02:20:48.432Z",
+  "total_datasets": 462,
+  "total_records": 443938,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -3534,6 +3534,29 @@
         "xlsx": {
           "name": "tl-mga-litsonang-restawran_TL.xlsx",
           "size": 7468
+        }
+      }
+    },
+    {
+      "id": "tl-mga-lutuing-pilipino",
+      "name": "Mga Lutuing Pilipino",
+      "category": "food",
+      "record_count": 53,
+      "columns": [
+        "pagkain",
+        "uri"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_lutuing_Pilipino",
+      "updated": "2026-10",
+      "size": 4715,
+      "files": {
+        "csv": {
+          "name": "tl-mga-lutuing-pilipino_TL.csv",
+          "size": 1139
+        },
+        "xlsx": {
+          "name": "tl-mga-lutuing-pilipino_TL.xlsx",
+          "size": 7718
         }
       }
     },
