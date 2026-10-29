@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-29T02:20:48.432Z",
-  "total_datasets": 462,
-  "total_records": 443938,
+  "generated": "2026-10-29T02:20:51.276Z",
+  "total_datasets": 463,
+  "total_records": 443997,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -3557,6 +3557,28 @@
         "xlsx": {
           "name": "tl-mga-lutuing-pilipino_TL.xlsx",
           "size": 7718
+        }
+      }
+    },
+    {
+      "id": "tl-mga-panghimagas",
+      "name": "Mga Panghimagas sa Pilipinas",
+      "category": "food",
+      "record_count": 59,
+      "columns": [
+        "panghimagas"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Listahan_ng_mga_panghimagas_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 4170,
+      "files": {
+        "csv": {
+          "name": "tl-mga-panghimagas_TL.csv",
+          "size": 887
+        },
+        "xlsx": {
+          "name": "tl-mga-panghimagas_TL.xlsx",
+          "size": 7621
         }
       }
     },
