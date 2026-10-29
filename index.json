@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-29T02:20:51.276Z",
-  "total_datasets": 463,
-  "total_records": 443997,
+  "generated": "2026-10-29T02:20:54.067Z",
+  "total_datasets": 464,
+  "total_records": 444138,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -13445,6 +13445,34 @@
         "xlsx": {
           "name": "tl-medalya-ng-pilipinas-sea-games-2019_TL.xlsx",
           "size": 26400
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kampeon-ng-pba",
+      "name": "Mga Kampeon ng PBA",
+      "category": "sports",
+      "record_count": 141,
+      "columns": [
+        "panahon",
+        "kumperensiya",
+        "kampeon",
+        "serye",
+        "ikalawang_pwesto",
+        "ikatlong_pwesto",
+        "punong_gabay"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_kampeon_ng_Philippine_Basketball_Association",
+      "updated": "2026-10",
+      "size": 35850,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kampeon-ng-pba_TL.csv",
+          "size": 11006
+        },
+        "xlsx": {
+          "name": "tl-mga-kampeon-ng-pba_TL.xlsx",
+          "size": 12103
         }
       }
     },

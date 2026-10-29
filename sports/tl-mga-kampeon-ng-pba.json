@@ -1,0 +1,1330 @@
+{
+  "id": "tl-mga-kampeon-ng-pba",
+  "name": "Mga Kampeon ng PBA",
+  "title": "Mga Kampeon ng PBA",
+  "description": "Talaan ng mga kampeon ng Philippine Basketball Association bawat kumperensiya mula 1975, kasama ang serye, ikalawa at ikatlong puwesto, at punong-gabay.",
+  "category": "sports",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_kampeon_ng_Philippine_Basketball_Association",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_kampeon_ng_Philippine_Basketball_Association",
+  "updated": "2026-10",
+  "record_count": 141,
+  "columns": [
+    {
+      "key": "panahon",
+      "label": "Panahon",
+      "type": "number"
+    },
+    {
+      "key": "kumperensiya",
+      "label": "Kumperensiya",
+      "type": "string"
+    },
+    {
+      "key": "kampeon",
+      "label": "Kampeon",
+      "type": "string"
+    },
+    {
+      "key": "serye",
+      "label": "Serye",
+      "type": "string"
+    },
+    {
+      "key": "ikalawang_pwesto",
+      "label": "Ikalawang Pwesto",
+      "type": "string"
+    },
+    {
+      "key": "ikatlong_pwesto",
+      "label": "Ikatlong Pwesto",
+      "type": "string"
+    },
+    {
+      "key": "punong_gabay",
+      "label": "Punong Gabay",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "panahon": "1975",
+      "kumperensiya": "First Conference",
+      "kampeon": "Toyota",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Crispa",
+      "ikatlong_pwesto": "U/Tex",
+      "punong_gabay": "Dante Silverio"
+    },
+    {
+      "panahon": "1975",
+      "kumperensiya": "Second Conference",
+      "kampeon": "Toyota",
+      "serye": "2–1",
+      "ikalawang_pwesto": "Crispa",
+      "ikatlong_pwesto": "Noritake",
+      "punong_gabay": "Dante Silverio"
+    },
+    {
+      "panahon": "1975",
+      "kumperensiya": "All-Philippine",
+      "kampeon": "Crispa",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Toyota",
+      "ikatlong_pwesto": "U/Tex",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1976",
+      "kumperensiya": "First Conference",
+      "kampeon": "Crispa",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Toyota",
+      "ikatlong_pwesto": "Mariwasa",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1976",
+      "kumperensiya": "Second Conference",
+      "kampeon": "Crispa",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Toyota",
+      "ikatlong_pwesto": "Royal",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1976",
+      "kumperensiya": "All-Philippine",
+      "kampeon": "Crispa",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Toyota",
+      "ikatlong_pwesto": "U/Tex",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1977",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Crispa",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Mariwasa",
+      "ikatlong_pwesto": "Toyota",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1977",
+      "kumperensiya": "Open",
+      "kampeon": "Crispa",
+      "serye": "3–2",
+      "ikalawang_pwesto": "U/Tex",
+      "ikatlong_pwesto": "Toyota",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1977",
+      "kumperensiya": "Invitational",
+      "kampeon": "Toyota",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Crispa",
+      "ikatlong_pwesto": "Emtex ( Brazil )",
+      "punong_gabay": "Dante Silverio"
+    },
+    {
+      "panahon": "1978",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Toyota",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Filmanbank",
+      "ikatlong_pwesto": "Tanduay",
+      "punong_gabay": "Dante Silverio"
+    },
+    {
+      "panahon": "1978",
+      "kumperensiya": "Open",
+      "kampeon": "U/Tex",
+      "serye": "3–0",
+      "ikalawang_pwesto": "Crispa",
+      "ikatlong_pwesto": "Toyota",
+      "punong_gabay": "Tommy Manotoc"
+    },
+    {
+      "panahon": "1978",
+      "kumperensiya": "Invitational",
+      "kampeon": "Toyota",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Tanduay",
+      "ikatlong_pwesto": "Crispa",
+      "punong_gabay": "Dante Silverio"
+    },
+    {
+      "panahon": "1979",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Crispa",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Toyota",
+      "ikatlong_pwesto": "Tanduay",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1979",
+      "kumperensiya": "Open",
+      "kampeon": "Royal",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Toyota",
+      "ikatlong_pwesto": "Great Taste",
+      "punong_gabay": "Eddie Ocampo"
+    },
+    {
+      "panahon": "1979",
+      "kumperensiya": "Invitational",
+      "kampeon": "Toyota",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Crispa",
+      "ikatlong_pwesto": "U/Tex",
+      "punong_gabay": "Fort Acuña"
+    },
+    {
+      "panahon": "1980",
+      "kumperensiya": "Open",
+      "kampeon": "U/Tex",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Toyota",
+      "ikatlong_pwesto": "Walk Tall",
+      "punong_gabay": "Tommy Manotoc"
+    },
+    {
+      "panahon": "1980",
+      "kumperensiya": "Invitational",
+      "kampeon": "Nicholas Stoodley ( USA )",
+      "serye": "2–0",
+      "ikalawang_pwesto": "Toyota",
+      "ikatlong_pwesto": "Adidas ( France )",
+      "punong_gabay": "Jerry Webber"
+    },
+    {
+      "panahon": "1980",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Crispa",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Toyota",
+      "ikatlong_pwesto": "Tanduay",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1981",
+      "kumperensiya": "Open",
+      "kampeon": "Toyota",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Crispa",
+      "ikatlong_pwesto": "U/Tex",
+      "punong_gabay": "Eddie Ocampo"
+    },
+    {
+      "panahon": "1981",
+      "kumperensiya": "Invitational",
+      "kampeon": "Crispa",
+      "serye": "3–1",
+      "ikalawang_pwesto": "U/Tex",
+      "ikatlong_pwesto": "Presto",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1982",
+      "kumperensiya": "Reinforced Filipino",
+      "kampeon": "Toyota",
+      "serye": "4–3",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "Crispa",
+      "punong_gabay": "Eddie Ocampo"
+    },
+    {
+      "panahon": "1982",
+      "kumperensiya": "Invitational",
+      "kampeon": "San Miguel",
+      "serye": "2–1",
+      "ikalawang_pwesto": "Crispa",
+      "ikatlong_pwesto": "South Korea",
+      "punong_gabay": "Tommy Manotoc"
+    },
+    {
+      "panahon": "1982",
+      "kumperensiya": "Open",
+      "kampeon": "Toyota",
+      "serye": "3–0",
+      "ikalawang_pwesto": "Gilbey's",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Eddie Ocampo"
+    },
+    {
+      "panahon": "1983",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Crispa",
+      "serye": "3–0",
+      "ikalawang_pwesto": "Gilbey's",
+      "ikatlong_pwesto": "Great Taste",
+      "punong_gabay": "Tommy Manotoc"
+    },
+    {
+      "panahon": "1983",
+      "kumperensiya": "Reinforced Filipino",
+      "kampeon": "Crispa",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Great Taste",
+      "ikatlong_pwesto": "Tanduay",
+      "punong_gabay": "Tommy Manotoc"
+    },
+    {
+      "panahon": "1983",
+      "kumperensiya": "Open",
+      "kampeon": "Crispa",
+      "serye": "3–0",
+      "ikalawang_pwesto": "Great Taste",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Tommy Manotoc"
+    },
+    {
+      "panahon": "1984",
+      "kumperensiya": "First All-Filipino",
+      "kampeon": "Crispa",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Great Taste",
+      "ikatlong_pwesto": "Northern Cement",
+      "punong_gabay": "Narciso Bernardo"
+    },
+    {
+      "panahon": "1984",
+      "kumperensiya": "Second All-Filipino",
+      "kampeon": "Great Taste",
+      "serye": "3–0",
+      "ikalawang_pwesto": "Beer Hausen",
+      "ikatlong_pwesto": "Tanduay",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1984",
+      "kumperensiya": "Invitational",
+      "kampeon": "Great Taste",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Crispa",
+      "ikatlong_pwesto": "Beer Hausen",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1985",
+      "kumperensiya": "Open",
+      "kampeon": "Great Taste",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Magnolia",
+      "ikatlong_pwesto": "Northern Cement",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1985",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Great Taste",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Shell",
+      "ikatlong_pwesto": "Tanduay",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1985",
+      "kumperensiya": "Reinforced",
+      "kampeon": "Northern Cement",
+      "serye": "4–0",
+      "ikalawang_pwesto": "Manila Beer",
+      "ikatlong_pwesto": "Ginebra",
+      "punong_gabay": "Ron Jacobs"
+    },
+    {
+      "panahon": "1986",
+      "kumperensiya": "Reinforced",
+      "kampeon": "Tanduay",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Great Taste",
+      "ikatlong_pwesto": "Ginebra",
+      "punong_gabay": "Turo Valenzona"
+    },
+    {
+      "panahon": "1986",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Tanduay",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Ginebra",
+      "ikatlong_pwesto": "Shell",
+      "punong_gabay": "Turo Valenzona"
+    },
+    {
+      "panahon": "1986",
+      "kumperensiya": "Open",
+      "kampeon": "Ginebra",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Manila Beer",
+      "ikatlong_pwesto": "Great Taste",
+      "punong_gabay": "Robert Jaworski"
+    },
+    {
+      "panahon": "1987",
+      "kumperensiya": "Open",
+      "kampeon": "Tanduay",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Great Taste",
+      "ikatlong_pwesto": "Magnolia",
+      "punong_gabay": "Turo Valenzona"
+    },
+    {
+      "panahon": "1987",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Great Taste",
+      "serye": "3–0",
+      "ikalawang_pwesto": "Hills Bros.",
+      "ikatlong_pwesto": "Magnolia",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1987",
+      "kumperensiya": "PBA-IBA*",
+      "kampeon": "IBA All-Stars",
+      "serye": "1–0",
+      "ikalawang_pwesto": "Great Taste",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Ted Owens"
+    },
+    {
+      "panahon": "1987",
+      "kumperensiya": "Reinforced",
+      "kampeon": "San Miguel",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Hills Bros.",
+      "ikatlong_pwesto": "Ginebra",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "1988",
+      "kumperensiya": "Open",
+      "kampeon": "San Miguel",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "1988",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Añejo",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Robert Jaworski"
+    },
+    {
+      "panahon": "1988",
+      "kumperensiya": "PBA-IBA*",
+      "kampeon": "Añejo",
+      "serye": "1–0",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "Los Angeles Jaguars",
+      "punong_gabay": "Robert Jaworski"
+    },
+    {
+      "panahon": "1988",
+      "kumperensiya": "Reinforced",
+      "kampeon": "San Miguel",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Shell",
+      "ikatlong_pwesto": "Añejo",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "1989",
+      "kumperensiya": "Open",
+      "kampeon": "San Miguel",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Shell",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "1989",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "San Miguel",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "Shell",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "1989",
+      "kumperensiya": "Reinforced",
+      "kampeon": "San Miguel",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Añejo",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "1990",
+      "kumperensiya": "First Conference",
+      "kampeon": "Shell",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Añejo",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Arlene Rodriguez"
+    },
+    {
+      "panahon": "1990",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Presto",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "Añejo",
+      "punong_gabay": "Jimmy Mariano"
+    },
+    {
+      "panahon": "1990",
+      "kumperensiya": "Third Conference",
+      "kampeon": "Purefoods",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "Shell",
+      "punong_gabay": "Baby Dalupan"
+    },
+    {
+      "panahon": "1991",
+      "kumperensiya": "First Conference",
+      "kampeon": "Ginebra",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Shell",
+      "ikatlong_pwesto": "Sarsi",
+      "punong_gabay": "Robert Jaworski"
+    },
+    {
+      "panahon": "1991",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Purefoods",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Sarsi",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Ely Capacio"
+    },
+    {
+      "panahon": "1991",
+      "kumperensiya": "Third Conference",
+      "kampeon": "Alaska",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Ginebra",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "1992",
+      "kumperensiya": "First Conference",
+      "kampeon": "Shell",
+      "serye": "4–1",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Rino Salazar"
+    },
+    {
+      "panahon": "1992",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "San Miguel",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "Swift",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "1992",
+      "kumperensiya": "Third Conference",
+      "kampeon": "Swift",
+      "serye": "4–0",
+      "ikalawang_pwesto": "7-Up",
+      "ikatlong_pwesto": "Ginebra",
+      "punong_gabay": "Yeng Guiao"
+    },
+    {
+      "panahon": "1993",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Coney Island",
+      "serye": "4–2",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "Swift",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "1993",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Swift",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Coney Island",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Yeng Guiao"
+    },
+    {
+      "panahon": "1993",
+      "kumperensiya": "Governors'",
+      "kampeon": "San Miguel",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Swift",
+      "ikatlong_pwesto": "Sta. Lucia",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "1994",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "San Miguel",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Coney Island",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "1994",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Coney Island",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "Swift",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "1994",
+      "kumperensiya": "Governors'",
+      "kampeon": "Alaska",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Swift",
+      "ikatlong_pwesto": "Pepsi",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "1995",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Sunkist",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "Sta. Lucia",
+      "punong_gabay": "Derrick Pumaren"
+    },
+    {
+      "panahon": "1995",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Sunkist",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "Sta. Lucia",
+      "punong_gabay": "Derrick Pumaren"
+    },
+    {
+      "panahon": "1995",
+      "kumperensiya": "Governors'",
+      "kampeon": "Alaska",
+      "serye": "4–3",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "Sunkist",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "1996",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Alaska",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "1996",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Alaska",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Shell",
+      "ikatlong_pwesto": "Sta. Lucia",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "1996",
+      "kumperensiya": "Governors'",
+      "kampeon": "Alaska",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Ginebra",
+      "ikatlong_pwesto": "Shell",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "1997",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Purefoods",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Gordon's",
+      "ikatlong_pwesto": "Sta. Lucia",
+      "punong_gabay": "Eric Altamirano"
+    },
+    {
+      "panahon": "1997",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Gordon's",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Robert Jaworski"
+    },
+    {
+      "panahon": "1997",
+      "kumperensiya": "Governors'",
+      "kampeon": "Alaska",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "1998",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Alaska",
+      "serye": "4–3",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "Pop Cola",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "1998",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Alaska",
+      "serye": "4–2",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "Pop Cola",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "1998",
+      "kumperensiya": "Centennial *",
+      "kampeon": "Mobiline",
+      "serye": "1–0",
+      "ikalawang_pwesto": "Shell",
+      "ikatlong_pwesto": "Pop Cola",
+      "punong_gabay": "Eric Altamirano"
+    },
+    {
+      "panahon": "1998",
+      "kumperensiya": "Governors'",
+      "kampeon": "Shell",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Mobiline",
+      "ikatlong_pwesto": "Purefoods",
+      "punong_gabay": "Perry Ronquillo"
+    },
+    {
+      "panahon": "1999",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Shell",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Tanduay",
+      "ikatlong_pwesto": "Barangay Ginebra",
+      "punong_gabay": "Perry Ronquillo"
+    },
+    {
+      "panahon": "1999",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "San Miguel",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Shell",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Jong Uichico"
+    },
+    {
+      "panahon": "1999",
+      "kumperensiya": "Governors'",
+      "kampeon": "San Miguel",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "Tanduay",
+      "punong_gabay": "Jong Uichico"
+    },
+    {
+      "panahon": "2000",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Alaska",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "Tanduay",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2000",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "San Miguel",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Sta. Lucia",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Jong Uichico"
+    },
+    {
+      "panahon": "2000",
+      "kumperensiya": "Governors'",
+      "kampeon": "San Miguel",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "Red Bull",
+      "punong_gabay": "Jong Uichico"
+    },
+    {
+      "panahon": "2001",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "San Miguel",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Barangay Ginebra",
+      "ikatlong_pwesto": "Pop Cola",
+      "punong_gabay": "Jong Uichico"
+    },
+    {
+      "panahon": "2001",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Red Bull",
+      "serye": "4–2",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Yeng Guiao"
+    },
+    {
+      "panahon": "2001",
+      "kumperensiya": "Governors'",
+      "kampeon": "Sta. Lucia",
+      "serye": "4–2",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "Shell",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "2002",
+      "kumperensiya": "Governors'",
+      "kampeon": "Purefoods",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "Coca-Cola",
+      "punong_gabay": "Ryan Gregorio"
+    },
+    {
+      "panahon": "2002",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Red Bull",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Talk 'N Text",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Yeng Guiao"
+    },
+    {
+      "panahon": "2002",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Coca-Cola",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "2003",
+      "kumperensiya": "All-Filipino",
+      "kampeon": "Talk 'N Text",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Coca-Cola",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Joel Banal"
+    },
+    {
+      "panahon": "2003",
+      "kumperensiya": "Invitational*",
+      "kampeon": "Alaska",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Coca-Cola",
+      "ikatlong_pwesto": "FedEx",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2003",
+      "kumperensiya": "Reinforced",
+      "kampeon": "Coca-Cola",
+      "serye": "4–3",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "Talk 'N Text",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "2004–05",
+      "kumperensiya": "Philippine",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Talk 'N Text",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Siot Tanquincen"
+    },
+    {
+      "panahon": "2004–05",
+      "kumperensiya": "Fiesta",
+      "kampeon": "San Miguel",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Talk 'N Text",
+      "ikatlong_pwesto": "Shell",
+      "punong_gabay": "Jong Uichico"
+    },
+    {
+      "panahon": "2005–06",
+      "kumperensiya": "Fiesta",
+      "kampeon": "Red Bull",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "Air21",
+      "punong_gabay": "Yeng Guiao"
+    },
+    {
+      "panahon": "2005–06",
+      "kumperensiya": "Philippine",
+      "kampeon": "Purefoods",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Red Bull",
+      "ikatlong_pwesto": "Alaska",
+      "punong_gabay": "Ryan Gregorio"
+    },
+    {
+      "panahon": "2006–07",
+      "kumperensiya": "Philippine",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Magnolia",
+      "ikatlong_pwesto": "Talk 'N Text",
+      "punong_gabay": "Jong Uichico"
+    },
+    {
+      "panahon": "2006–07",
+      "kumperensiya": "Fiesta",
+      "kampeon": "Alaska",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Talk 'N Text",
+      "ikatlong_pwesto": "Red Bull",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2007–08",
+      "kumperensiya": "Philippine",
+      "kampeon": "Sta. Lucia",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Purefoods",
+      "ikatlong_pwesto": "Red Bull",
+      "punong_gabay": "Boyet Fernandez"
+    },
+    {
+      "panahon": "2007–08",
+      "kumperensiya": "Fiesta",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Air21",
+      "ikatlong_pwesto": "Red Bull",
+      "punong_gabay": "Jong Uichico"
+    },
+    {
+      "panahon": "2008–09",
+      "kumperensiya": "Philippine",
+      "kampeon": "Talk 'N Text",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "Sta. Lucia",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "2008–09",
+      "kumperensiya": "Fiesta",
+      "kampeon": "San Miguel",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Barangay Ginebra",
+      "ikatlong_pwesto": "Burger King",
+      "punong_gabay": "Siot Tanquingcen"
+    },
+    {
+      "panahon": "2009–10",
+      "kumperensiya": "Philippine",
+      "kampeon": "Purefoods",
+      "serye": "4–0",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "San Miguel",
+      "punong_gabay": "Ryan Gregorio"
+    },
+    {
+      "panahon": "2009–10",
+      "kumperensiya": "Fiesta",
+      "kampeon": "Alaska",
+      "serye": "4–2",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "Talk 'N Text",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2010–11",
+      "kumperensiya": "Philippine",
+      "kampeon": "Talk 'N Text",
+      "serye": "4–2",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "2010–11",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Talk 'N Text",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Barangay Ginebra",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "2010–11",
+      "kumperensiya": "Governors'",
+      "kampeon": "Petron",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Talk 'N Text",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Ato Agustin"
+    },
+    {
+      "panahon": "2011–12",
+      "kumperensiya": "Philippine",
+      "kampeon": "Talk 'N Text",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Powerade",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "2011–12",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "B-Meg",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Talk 'N Text",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2011–12",
+      "kumperensiya": "Governors'",
+      "kampeon": "Rain or Shine",
+      "serye": "4–3",
+      "ikalawang_pwesto": "B-Meg",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Yeng Guiao"
+    },
+    {
+      "panahon": "2012–13",
+      "kumperensiya": "Philippine",
+      "kampeon": "Talk 'N Text",
+      "serye": "4–0",
+      "ikalawang_pwesto": "Rain or Shine",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Norman Black"
+    },
+    {
+      "panahon": "2012–13",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Alaska",
+      "serye": "3–0",
+      "ikalawang_pwesto": "Barangay Ginebra",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Luigi Trillo"
+    },
+    {
+      "panahon": "2012–13",
+      "kumperensiya": "Governors'",
+      "kampeon": "San Mig Coffee",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Petron",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2013–14",
+      "kumperensiya": "Philippine",
+      "kampeon": "San Mig Super Coffee",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Rain or Shine",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2013–14",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "San Mig Super Coffee",
+      "serye": "3–1",
+      "ikalawang_pwesto": "Talk 'N Text",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2013–14",
+      "kumperensiya": "Governors'",
+      "kampeon": "San Mig Super Coffee",
+      "serye": "3–2",
+      "ikalawang_pwesto": "Rain or Shine",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2014–15",
+      "kumperensiya": "Philippine",
+      "kampeon": "San Miguel",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2014–15",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Talk 'N Text",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Rain or Shine",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Jong Uichico"
+    },
+    {
+      "panahon": "2014–15",
+      "kumperensiya": "Governors'",
+      "kampeon": "San Miguel",
+      "serye": "4–0",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2015–16",
+      "kumperensiya": "Philippine",
+      "kampeon": "San Miguel",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2015–16",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Rain or Shine",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Yeng Guiao"
+    },
+    {
+      "panahon": "2015–16",
+      "kumperensiya": "Governors'",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Meralco",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2016–17",
+      "kumperensiya": "Philippine",
+      "kampeon": "San Miguel",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Barangay Ginebra",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2016–17",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "San Miguel",
+      "serye": "4–2",
+      "ikalawang_pwesto": "TNT",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2016–17",
+      "kumperensiya": "Governors'",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Meralco",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2017–18",
+      "kumperensiya": "Philippine",
+      "kampeon": "San Miguel",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Magnolia",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2017–18",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–2",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2017–18",
+      "kumperensiya": "Governors'",
+      "kampeon": "Magnolia",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Alaska",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Chito Victolero"
+    },
+    {
+      "panahon": "2019",
+      "kumperensiya": "Philippine",
+      "kampeon": "San Miguel",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Magnolia",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2019",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "San Miguel",
+      "serye": "4–2",
+      "ikalawang_pwesto": "TNT",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2019",
+      "kumperensiya": "Governors'",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Meralco",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2020",
+      "kumperensiya": "Philippine",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–1",
+      "ikalawang_pwesto": "TNT",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2021",
+      "kumperensiya": "Philippine",
+      "kampeon": "TNT",
+      "serye": "4–1",
+      "ikalawang_pwesto": "Magnolia",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "2021",
+      "kumperensiya": "Governors'",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Meralco",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2022–23",
+      "kumperensiya": "Philippine",
+      "kampeon": "San Miguel",
+      "serye": "4–3",
+      "ikalawang_pwesto": "TNT",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2022–23",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Bay Area",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    },
+    {
+      "panahon": "2022–23",
+      "kumperensiya": "Governors'",
+      "kampeon": "TNT",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Barangay Ginebra",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Jojo Lastimosa"
+    },
+    {
+      "panahon": "2023–24",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "San Miguel",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Magnolia",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Jorge Gallent"
+    },
+    {
+      "panahon": "2023–24",
+      "kumperensiya": "Philippine",
+      "kampeon": "Meralco",
+      "serye": "4–2",
+      "ikalawang_pwesto": "San Miguel",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Luigi Trillo"
+    },
+    {
+      "panahon": "2024–25",
+      "kumperensiya": "Governors'",
+      "kampeon": "TNT",
+      "serye": "4–2",
+      "ikalawang_pwesto": "Barangay Ginebra",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "2024–25",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "TNT",
+      "serye": "4–3",
+      "ikalawang_pwesto": "Barangay Ginebra",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Chot Reyes"
+    },
+    {
+      "panahon": "2024–25",
+      "kumperensiya": "Philippine",
+      "kampeon": "San Miguel",
+      "serye": "4–2",
+      "ikalawang_pwesto": "TNT",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2025–26",
+      "kumperensiya": "Philippine",
+      "kampeon": "San Miguel",
+      "serye": "4–2",
+      "ikalawang_pwesto": "TNT",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Leo Austria"
+    },
+    {
+      "panahon": "2025–26",
+      "kumperensiya": "Commissioner's",
+      "kampeon": "Barangay Ginebra",
+      "serye": "4–3",
+      "ikalawang_pwesto": "TNT",
+      "ikatlong_pwesto": "",
+      "punong_gabay": "Tim Cone"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kampeon ng PBA - Free Download",
+    "description": "Talaan ng mga kampeon ng Philippine Basketball Association bawat kumperensiya mula 1975, kasama ang serye, ikalawa at ikatlong puwesto, at punong-gabay. Contains 141 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kampeon ng PBA | ListBase",
+    "seo_description": "Download Mga Kampeon ng PBA — 141 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 141 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_kampeon_ng_Philippine_Basketball_Association"
+    ]
+  }
+}
