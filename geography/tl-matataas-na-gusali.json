@@ -1,0 +1,504 @@
+{
+  "id": "tl-matataas-na-gusali",
+  "name": "Mga Matataas na Gusali sa Pilipinas",
+  "title": "Mga Matataas na Gusali sa Pilipinas",
+  "description": "Talaan ng mga matataas na gusali (itinatayo at pinaplano) sa Pilipinas kasama ang lokasyon, taas sa metro, bilang ng palapag at kalagayan.",
+  "category": "geography",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_matataas_na_gusali_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_matataas_na_gusali_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "lokasyon",
+      "label": "Lokasyon",
+      "type": "string"
+    },
+    {
+      "key": "taas_m",
+      "label": "Taas M",
+      "type": "number"
+    },
+    {
+      "key": "palapag",
+      "label": "Palapag",
+      "type": "number"
+    },
+    {
+      "key": "inaasahang_matatapos",
+      "label": "Inaasahang Matatapos",
+      "type": "number"
+    },
+    {
+      "key": "kalagayan",
+      "label": "Kalagayan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "One Galleon Place",
+      "lokasyon": "Metro Manila",
+      "taas_m": 400,
+      "palapag": 75,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Pinaplano"
+    },
+    {
+      "pangalan": "Skycity",
+      "lokasyon": "Metro Manila",
+      "taas_m": 335,
+      "palapag": 80,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Several basement floors partially built (on-hold)"
+    },
+    {
+      "pangalan": "The Stratford Residences",
+      "lokasyon": "Metro Manila",
+      "taas_m": 312,
+      "palapag": 76,
+      "inaasahang_matatapos": "2015",
+      "kalagayan": "Itinatayo palang"
+    },
+    {
+      "pangalan": "Kirov Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 260,
+      "palapag": 58,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Preparation, The Proscenium"
+    },
+    {
+      "pangalan": "Trump Tower Manila",
+      "lokasyon": "Metro Manila",
+      "taas_m": 250,
+      "palapag": 60,
+      "inaasahang_matatapos": "",
+      "kalagayan": "PGinangawa na ang Pag-huhukay"
+    },
+    {
+      "pangalan": "Shangri-La at the Fort",
+      "lokasyon": "Metro Manila",
+      "taas_m": 250,
+      "palapag": 61,
+      "inaasahang_matatapos": "2014",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "Federal Land Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 250,
+      "palapag": 66,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Itinatayo, Grand Hyatt sa Maynila"
+    },
+    {
+      "pangalan": "Discovery Primea",
+      "lokasyon": "Metro Manila",
+      "taas_m": 250,
+      "palapag": 68,
+      "inaasahang_matatapos": "2015",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "The Royalton",
+      "lokasyon": "Metro Manila",
+      "taas_m": 230,
+      "palapag": 65,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Inihahanda palang, Capital Commons"
+    },
+    {
+      "pangalan": "Grand Riviera Suites",
+      "lokasyon": "Metro Manila",
+      "taas_m": 230,
+      "palapag": 57,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Underconstruction"
+    },
+    {
+      "pangalan": "The Knightsbridge Residences",
+      "lokasyon": "Metro Manila",
+      "taas_m": 220,
+      "palapag": 64,
+      "inaasahang_matatapos": "2013",
+      "kalagayan": "Topped-out"
+    },
+    {
+      "pangalan": "Corral Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 220,
+      "palapag": 46,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Preparation, The Proscenium"
+    },
+    {
+      "pangalan": "The Suites at One Bonifacio High Street",
+      "lokasyon": "Metro Manila",
+      "taas_m": 220,
+      "palapag": 63,
+      "inaasahang_matatapos": "",
+      "kalagayan": ""
+    },
+    {
+      "pangalan": "The Shang Salcedo",
+      "lokasyon": "Metro Manila",
+      "taas_m": 220,
+      "palapag": 67,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Pinaplano"
+    },
+    {
+      "pangalan": "BDO Tower Ortigas",
+      "lokasyon": "Metro Manila",
+      "taas_m": 210,
+      "palapag": 50,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "One Shangri-La Place North Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 227,
+      "palapag": 64,
+      "inaasahang_matatapos": "2014",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "One Shangri-La Place South Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 227,
+      "palapag": 64,
+      "inaasahang_matatapos": "2014",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "GA Sky Suites",
+      "lokasyon": "Metro Manila",
+      "taas_m": 220,
+      "palapag": 44,
+      "inaasahang_matatapos": "2012",
+      "kalagayan": "Currently on-hold"
+    },
+    {
+      "pangalan": "Park Terraces Point Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 210,
+      "palapag": 59,
+      "inaasahang_matatapos": "2015",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "St. Regis Residences Tower 1",
+      "lokasyon": "Metro Manila",
+      "taas_m": 210,
+      "palapag": 55,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "Birch Residences",
+      "lokasyon": "Metro Cebu",
+      "taas_m": 208,
+      "palapag": 53,
+      "inaasahang_matatapos": "2015",
+      "kalagayan": "Inimumungkahing ipatayo."
+    },
+    {
+      "pangalan": "St. Regis Residences Tower 2",
+      "lokasyon": "Metro Manila",
+      "taas_m": 200,
+      "palapag": 52,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "Edades Tower and Garden Villas",
+      "lokasyon": "Metro Manila",
+      "taas_m": 205,
+      "palapag": 53,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Net Lima & Park Towers",
+      "lokasyon": "Metro Manila",
+      "taas_m": 200,
+      "palapag": 48,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Under construction, 3 towers"
+    },
+    {
+      "pangalan": "Three Central",
+      "lokasyon": "Metro Manila",
+      "taas_m": 200,
+      "palapag": 51,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Itinatayo na Sa ngyon"
+    },
+    {
+      "pangalan": "AIC Empire Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 200,
+      "palapag": 52,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "Milano Residences",
+      "lokasyon": "Metro Manila",
+      "taas_m": 200,
+      "palapag": 53,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Under construction, already reached the first above ground floor"
+    },
+    {
+      "pangalan": "Park Point Residences Towers",
+      "lokasyon": "Metro Cebu",
+      "taas_m": 200,
+      "palapag": 38,
+      "inaasahang_matatapos": "2015",
+      "kalagayan": "Itinatayo palang"
+    },
+    {
+      "pangalan": "Wil Tower Mall",
+      "lokasyon": "Metro Manila",
+      "taas_m": 200,
+      "palapag": 38,
+      "inaasahang_matatapos": "2012",
+      "kalagayan": ""
+    },
+    {
+      "pangalan": "One Central",
+      "lokasyon": "Metro Manila",
+      "taas_m": 195,
+      "palapag": 50,
+      "inaasahang_matatapos": "2013",
+      "kalagayan": "Topped-out"
+    },
+    {
+      "pangalan": "8 Forbestown Road",
+      "lokasyon": "Metro Manila",
+      "taas_m": 194,
+      "palapag": 54,
+      "inaasahang_matatapos": "2013",
+      "kalagayan": "]Itinatayo Palang"
+    },
+    {
+      "pangalan": "Anchor Skysuites",
+      "lokasyon": "Metro Manila",
+      "taas_m": 193,
+      "palapag": 55,
+      "inaasahang_matatapos": "",
+      "kalagayan": ""
+    },
+    {
+      "pangalan": "Park Terraces Tower 2",
+      "lokasyon": "Metro Manila",
+      "taas_m": 187,
+      "palapag": 49,
+      "inaasahang_matatapos": "2015",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Park Terraces Tower 1",
+      "lokasyon": "Metro Manila",
+      "taas_m": 187,
+      "palapag": 49,
+      "inaasahang_matatapos": "2015",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "Alphaland Makati Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 185,
+      "palapag": 34,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Under construction already covering glass exterior"
+    },
+    {
+      "pangalan": "Marco Polo Ortigas",
+      "lokasyon": "Metro Manila",
+      "taas_m": 180,
+      "palapag": 41,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Horizons 101 Tower A",
+      "lokasyon": "Metro Cebu",
+      "taas_m": 178,
+      "palapag": 55,
+      "inaasahang_matatapos": "2013",
+      "kalagayan": "It will be the tallest building in Metro Cebu underconstruction"
+    },
+    {
+      "pangalan": "Admiral Baysuites",
+      "lokasyon": "Metro Manila",
+      "taas_m": 179,
+      "palapag": 53,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "Avant Garde Residences",
+      "lokasyon": "Metro Manila",
+      "taas_m": 179,
+      "palapag": 45,
+      "inaasahang_matatapos": "2015",
+      "kalagayan": "Excavation on-going"
+    },
+    {
+      "pangalan": "Birch Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 178,
+      "palapag": 50,
+      "inaasahang_matatapos": "2013",
+      "kalagayan": "Under construction"
+    },
+    {
+      "pangalan": "Aspire Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 175,
+      "palapag": 48,
+      "inaasahang_matatapos": "2013",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Twin Oaks Place",
+      "lokasyon": "Metro Manila",
+      "taas_m": 173,
+      "palapag": 43,
+      "inaasahang_matatapos": "2013",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "The Beacon - Arnaiz Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 170,
+      "palapag": 50,
+      "inaasahang_matatapos": "2012",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Trion Towers",
+      "lokasyon": "Metro Manila",
+      "taas_m": 170,
+      "palapag": 49,
+      "inaasahang_matatapos": "2012",
+      "kalagayan": "Tripleng Tore"
+    },
+    {
+      "pangalan": "The BeauFort",
+      "lokasyon": "Metro Manila",
+      "taas_m": 170,
+      "palapag": 43,
+      "inaasahang_matatapos": "2012",
+      "kalagayan": "Dobleng Tore"
+    },
+    {
+      "pangalan": "New Philippine Stock Exchange Building",
+      "lokasyon": "Metro Manila",
+      "taas_m": 160,
+      "palapag": 30,
+      "inaasahang_matatapos": "2016",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Tribeca Grand Tower",
+      "lokasyon": "Metro Cebu",
+      "taas_m": 150,
+      "palapag": 35,
+      "inaasahang_matatapos": "2016",
+      "kalagayan": "Pinaplano"
+    },
+    {
+      "pangalan": "Limketkai Hotel and Resort",
+      "lokasyon": "Cagayan de Oro",
+      "taas_m": 164,
+      "palapag": 36,
+      "inaasahang_matatapos": "2018",
+      "kalagayan": "Itinatayo. It will be the tallest building in Mindanao"
+    },
+    {
+      "pangalan": "The Beacon - Roces Tower",
+      "lokasyon": "Metro Manila",
+      "taas_m": 158,
+      "palapag": 44,
+      "inaasahang_matatapos": "2011",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Lancaster Suites Two",
+      "lokasyon": "Metro Manila",
+      "taas_m": 158,
+      "palapag": 42,
+      "inaasahang_matatapos": "2012",
+      "kalagayan": "Malapit nang Matapos"
+    },
+    {
+      "pangalan": "Wharton Parksuites",
+      "lokasyon": "Metro Manila",
+      "taas_m": 154,
+      "palapag": 39,
+      "inaasahang_matatapos": "2012",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Aeon Towers",
+      "lokasyon": "Metro Davao",
+      "taas_m": 160,
+      "palapag": 35,
+      "inaasahang_matatapos": "2016",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Jazz Residences tower 1",
+      "lokasyon": "Metro Manila",
+      "taas_m": 142,
+      "palapag": 41,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Jazz Residences tower 2",
+      "lokasyon": "Metro Manila",
+      "taas_m": 142,
+      "palapag": 41,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Itinatayo"
+    },
+    {
+      "pangalan": "Jazz Residences tower 3",
+      "lokasyon": "Metro Manila",
+      "taas_m": 142,
+      "palapag": 41,
+      "inaasahang_matatapos": "",
+      "kalagayan": "topped out as of 2013"
+    },
+    {
+      "pangalan": "Jazz Residences tower 4",
+      "lokasyon": "Metro Manila",
+      "taas_m": 142,
+      "palapag": 41,
+      "inaasahang_matatapos": "",
+      "kalagayan": "Matatapos ng 2013"
+    }
+  ],
+  "meta": {
+    "title": "Mga Matataas na Gusali sa Pilipinas - Free Download",
+    "description": "Talaan ng mga matataas na gusali (itinatayo at pinaplano) sa Pilipinas kasama ang lokasyon, taas sa metro, bilang ng palapag at kalagayan. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Matataas na Gusali sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Matataas na Gusali sa Pilipinas — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_matataas_na_gusali_sa_Pilipinas"
+    ]
+  }
+}

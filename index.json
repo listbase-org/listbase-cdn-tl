@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-30T02:12:59.855Z",
-  "total_datasets": 466,
-  "total_records": 444799,
+  "generated": "2026-10-30T02:13:08.111Z",
+  "total_datasets": 467,
+  "total_records": 444855,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 35
+      "dataset_count": 36
     },
     {
       "id": "health",
@@ -3871,6 +3871,33 @@
         "xlsx": {
           "name": "tl-lungsod_TL.xlsx",
           "size": 14050
+        }
+      }
+    },
+    {
+      "id": "tl-matataas-na-gusali",
+      "name": "Mga Matataas na Gusali sa Pilipinas",
+      "category": "geography",
+      "record_count": 56,
+      "columns": [
+        "pangalan",
+        "lokasyon",
+        "taas_m",
+        "palapag",
+        "inaasahang_matatapos",
+        "kalagayan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_matataas_na_gusali_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 13498,
+      "files": {
+        "csv": {
+          "name": "tl-matataas-na-gusali_TL.csv",
+          "size": 4313
+        },
+        "xlsx": {
+          "name": "tl-matataas-na-gusali_TL.xlsx",
+          "size": 9365
         }
       }
     },
