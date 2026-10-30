@@ -1,0 +1,868 @@
+{
+  "id": "tl-mga-gobernador-heneral-ng-pilipinas",
+  "name": "Mga Gobernador-Heneral ng Pilipinas",
+  "title": "Mga Gobernador-Heneral ng Pilipinas",
+  "description": "Talaan ng mga Gobernador-Heneral ng Pilipinas sa panahon ng Espanya at Amerika, kasama ang petsa ng simula at pagtatapos ng panunungkulan.",
+  "category": "history",
+  "source": "https://tl.wikipedia.org/wiki/Mga_Gobernador-Heneral_ng_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Mga_Gobernador-Heneral_ng_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 137,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "mula",
+      "label": "Mula",
+      "type": "number"
+    },
+    {
+      "key": "hanggang",
+      "label": "Hanggang",
+      "type": "number"
+    },
+    {
+      "key": "panahon",
+      "label": "Panahon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "Miguel López de Legazpi (kongkistador)",
+      "mula": "1565",
+      "hanggang": "1572",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Guido de Lavezaris",
+      "mula": "1572",
+      "hanggang": "1575",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Francisco de Sande",
+      "mula": "1575",
+      "hanggang": "1580",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Gonzalo Ronquillo de Peñaloza",
+      "mula": "1580",
+      "hanggang": "1583",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Diego Ronquilla",
+      "mula": "1583",
+      "hanggang": "1584",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Santiago de Vera",
+      "mula": "1584",
+      "hanggang": "1590",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Gómez Pérez Dasmariñas",
+      "mula": "1590",
+      "hanggang": "1593",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Pedro de Rojas",
+      "mula": "1593",
+      "hanggang": "1593",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Luis Pérez Dasmariñas",
+      "mula": "1593",
+      "hanggang": "1596",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Francisco de Tello de Guzmán",
+      "mula": "1596",
+      "hanggang": "1602",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Pedro Bravo de Acuña",
+      "mula": "1602",
+      "hanggang": "1606",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Cristóbal Téllez de Almanza (Gobernador ng Audiensya ng Maynila)",
+      "mula": "1606",
+      "hanggang": "1608",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Rodrigo de Vivero y Aberrucia",
+      "mula": "1608",
+      "hanggang": "1609",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Juan de Silva",
+      "mula": "1609",
+      "hanggang": "1616",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Andrés Alcaraz (Gobernador ng Audiensya ng Maynila)",
+      "mula": "1616",
+      "hanggang": "1618",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Alonso Fajardo y Tenza",
+      "mula": "1618",
+      "hanggang": "1624",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Jeronimo de Silva (Gobernador ng Audiensya ng Maynila)",
+      "mula": "1624",
+      "hanggang": "1625",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Fernándo de Silva",
+      "mula": "1625",
+      "hanggang": "1626",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Juan Niño de Tabora",
+      "mula": "1626",
+      "hanggang": "1632",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Lorenzo de Olaza (Gobernador ng Audiensya ng Maynila)",
+      "mula": "1632",
+      "hanggang": "1633",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Juan Cerezo de Salamanca",
+      "mula": "1633",
+      "hanggang": "1635",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Sebastián Hurtado de Corcuera",
+      "mula": "1635",
+      "hanggang": "1644",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Diego Fajardo",
+      "mula": "1644",
+      "hanggang": "1653",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Sabiniano Manrique de Lara",
+      "mula": "1653",
+      "hanggang": "1663",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Diego de Salcedo",
+      "mula": "1663",
+      "hanggang": "1668",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Juan Manuel de la Peña Bonifaz",
+      "mula": "1668",
+      "hanggang": "1669",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Manuel de León",
+      "mula": "1669",
+      "hanggang": "1677",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Francisco Coloma (Gobernador ng Audiencia ng Maynila)",
+      "mula": "1677",
+      "hanggang": "1677",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Francisco Sotomayor y Mansilla (Gobernador ng Audiensya ng Maynila)",
+      "mula": "1677",
+      "hanggang": "1678",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Juan de Vargas Hurtado",
+      "mula": "1678",
+      "hanggang": "1684",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Gabriel de Curuzealegui y Arriola",
+      "mula": "1684",
+      "hanggang": "1689",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Alonso de Avila Fuertes (Gobernador ng Audiensya ng Maynila)",
+      "mula": "1689",
+      "hanggang": "1690",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Fausto Cruzat y Gongora",
+      "mula": "1690",
+      "hanggang": "1701",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Domingo Zabálburu de Echevarri",
+      "mula": "1701",
+      "hanggang": "1709",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Martín de Urzua y Arismendi",
+      "mula": "1709",
+      "hanggang": "1715",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Jose Torralba (Gobernador ng Audiensya ng Maynila)",
+      "mula": "1715",
+      "hanggang": "1717",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Fernando Manuel de Bustillo Bustamente y Rueda",
+      "mula": "1717",
+      "hanggang": "1719",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Francisco de la Cuesta",
+      "mula": "1719",
+      "hanggang": "1721",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Toribio José Cosio y Campo",
+      "mula": "1721",
+      "hanggang": "1729",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Fernándo Valdés y Tamon",
+      "mula": "1729",
+      "hanggang": "1739",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Gaspar de la Torre",
+      "mula": "1739",
+      "hanggang": "1745",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Juan Arrechederra",
+      "mula": "1745",
+      "hanggang": "1750",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "José Francisco de Obando y Solis",
+      "mula": "1750",
+      "hanggang": "1754",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Pedro Manuel de Arandía Santisteban",
+      "mula": "1754",
+      "hanggang": "1759",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Miguel Lino de Ezpeleta",
+      "mula": "1759",
+      "hanggang": "1761",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Manuel Rojo",
+      "mula": "1761",
+      "hanggang": "1762",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Simón de Anda y Salazar (panohon ika-1)",
+      "mula": "1762",
+      "hanggang": "1764",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Dawson Drake",
+      "mula": "1762",
+      "hanggang": "1764",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Francisco Javíer de la Torre",
+      "mula": "1764",
+      "hanggang": "1765",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "José Raón",
+      "mula": "1765",
+      "hanggang": "1770",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Simón de Anda y Salazar (panohon ika-2)",
+      "mula": "1770",
+      "hanggang": "1776",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Pedro Sarrio",
+      "mula": "1776",
+      "hanggang": "1778",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "José Basco y Vargas",
+      "mula": "1778",
+      "hanggang": "1787",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Pedro de Sarrio",
+      "mula": "1787",
+      "hanggang": "1788",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Félix Berenguer de Marquina",
+      "mula": "1788",
+      "hanggang": "1793",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Rafael María de Aguilar y Ponce de León",
+      "mula": "1793",
+      "hanggang": "1806",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Mariano Fernández de Folgueras",
+      "mula": "1806",
+      "hanggang": "1810",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Manuel Gonzalez de Aguilar",
+      "mula": "1810",
+      "hanggang": "1813",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "José Gardoqui Jaraveitia",
+      "mula": "1813",
+      "hanggang": "1816",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Mariano Fernández de Folgueras",
+      "mula": "1816",
+      "hanggang": "1822",
+      "panahon": "Bireynato ng Bagong Espanya (1565-1822)"
+    },
+    {
+      "pangalan": "Juan Antonio Martínez",
+      "mula": "1822",
+      "hanggang": "1825",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Marinao Ricafort Palacín y Ararca",
+      "mula": "1825",
+      "hanggang": "1830",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Pascual Enrile y Alcedo",
+      "mula": "1830",
+      "hanggang": "1835",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Gabriel de Torres",
+      "mula": "1835",
+      "hanggang": "1835",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Joaquín de Crame",
+      "mula": "1835",
+      "hanggang": "1835",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Pedro Antonio Salazar Castillo y Varona",
+      "mula": "1835",
+      "hanggang": "1837",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Andrés García Camba",
+      "mula": "1837",
+      "hanggang": "1838",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Luis Lardizábal",
+      "mula": "1838",
+      "hanggang": "1841",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Marcelino de Oraá Lecumberri",
+      "mula": "1841",
+      "hanggang": "1843",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Francisco de Paula Alcalá de la Torre",
+      "mula": "1843",
+      "hanggang": "1844",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Narciso Clavería y Zaldua",
+      "mula": "1844",
+      "hanggang": "1849",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Antonio María Blanco",
+      "mula": "1849",
+      "hanggang": "1850",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Antonio de Urbistondo y Eguía",
+      "mula": "1850",
+      "hanggang": "1853",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Ramón Montero y Blandino (panohon ika-1)",
+      "mula": "1853",
+      "hanggang": "1854",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Manuel Pavía y Lay",
+      "mula": "1854",
+      "hanggang": "1854",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Ramón Montero y Blandino (panohon ika-2)",
+      "mula": "1854",
+      "hanggang": "1854",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Manuel Crespo y Cebrían",
+      "mula": "1854",
+      "hanggang": "1856",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Ramón Montero y Blandino (panohon ika-3)",
+      "mula": "1856",
+      "hanggang": "1857",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Fernándo Norzagaray y Escudero",
+      "mula": "1857",
+      "hanggang": "1860",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Ramón María Solano y LLanderal",
+      "mula": "1860",
+      "hanggang": "1860",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Juan Herrera Dávila",
+      "mula": "1860",
+      "hanggang": "1861",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "José Lemery É Ibarrola Ney y González",
+      "mula": "1861",
+      "hanggang": "1862",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Salvador Valdés",
+      "mula": "1862",
+      "hanggang": "1862",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Rafael de Echaque",
+      "mula": "1862",
+      "hanggang": "1865",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Joaquín del Solar É Ibáñez",
+      "mula": "1865",
+      "hanggang": "1865",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Juan de Lara É Irigoyen",
+      "mula": "1865",
+      "hanggang": "1866",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "José Laureano de Sanz y Posse",
+      "mula": "1866",
+      "hanggang": "1866",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Antonio Osorio",
+      "mula": "1866",
+      "hanggang": "1866",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Joaquín del Solar",
+      "mula": "1866",
+      "hanggang": "1866",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "José de la Gándara y Navarro",
+      "mula": "1866",
+      "hanggang": "1869",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Manuel Maldonado",
+      "mula": "1869",
+      "hanggang": "1869",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Cárlos María de la Torre y Nava Cerrada",
+      "mula": "1869",
+      "hanggang": "1871",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Rafael de Izquierdo y Gutíerrez",
+      "mula": "1871",
+      "hanggang": "1873",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Manuel Mac-crohon",
+      "mula": "1873",
+      "hanggang": "1873",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Juan Alminos y Pe Vivar",
+      "mula": "1873",
+      "hanggang": "1874",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Manuel Blanco Valderrama",
+      "mula": "1874",
+      "hanggang": "1874",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "José Malcampo y Monje",
+      "mula": "1874",
+      "hanggang": "1877",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Domingo Moriones y Murillo",
+      "mula": "1877",
+      "hanggang": "1880",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Rafael Rodríguez Arias",
+      "mula": "1880",
+      "hanggang": "1880",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Fernando Primo de Rivera (panohon ika-1)",
+      "mula": "1880",
+      "hanggang": "1883",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Emilio Molíns (panohon ika-1)",
+      "mula": "1883",
+      "hanggang": "1883",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Joaquín Jovellar",
+      "mula": "1883",
+      "hanggang": "1885",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Emilio Molíns (panohon ika-2)",
+      "mula": "1885",
+      "hanggang": "1885",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Emilio Terrero y Perinat",
+      "mula": "1885",
+      "hanggang": "1888",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Antonio Molto",
+      "mula": "1888",
+      "hanggang": "1888",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Federico Lobaton",
+      "mula": "1888",
+      "hanggang": "1888",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Valeriano Wéyler",
+      "mula": "1888",
+      "hanggang": "1891",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Eulogio Despujol",
+      "mula": "1891",
+      "hanggang": "1893",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Federico Ochando",
+      "mula": "1893",
+      "hanggang": "1893",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Ramón Blanco",
+      "mula": "1893",
+      "hanggang": "1896",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Camilo Polavieja",
+      "mula": "1896",
+      "hanggang": "1897",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Fernando Primo de Rivera (panohon ika-2)",
+      "mula": "1897",
+      "hanggang": "1898",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Basilio Agustín",
+      "mula": "1898",
+      "hanggang": "1898",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Mario Jaudenes",
+      "mula": "1898",
+      "hanggang": "1898",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Agustin de los Rios",
+      "mula": "1898",
+      "hanggang": "1898",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Fermín Jáudenes",
+      "mula": "1898",
+      "hanggang": "1898",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Francisco Rizzo",
+      "mula": "1898",
+      "hanggang": "1898",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Diego de los Ríos",
+      "mula": "1898",
+      "hanggang": "1898",
+      "panahon": "Gobernador ng koloniyang direktang pinamahalaan ng monarkiya ng Espanya (1822-1898)"
+    },
+    {
+      "pangalan": "Wesley Merritt",
+      "mula": "Agosto 13, 1898",
+      "hanggang": "Agosto 29, 1898",
+      "panahon": "Mga Gobernador-Heneral ng Amerika (1898-1901)"
+    },
+    {
+      "pangalan": "Elwell S. Otis",
+      "mula": "Agosto 29, 1898",
+      "hanggang": "Mayo 5, 1900",
+      "panahon": "Mga Gobernador-Heneral ng Amerika (1898-1901)"
+    },
+    {
+      "pangalan": "Arthur MacArthur, Jr.",
+      "mula": "Mayo 5, 1900",
+      "hanggang": "Hulyo 4, 1901",
+      "panahon": "Mga Gobernador-Heneral ng Amerika (1898-1901)"
+    },
+    {
+      "pangalan": "William Howard Taft",
+      "mula": "Hulyo 4, 1901",
+      "hanggang": "Pebrero 1, 1904",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Luke Edward Wright",
+      "mula": "Pebrero 1, 1904",
+      "hanggang": "Nobyembre 3, 1905",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Henry Clay Ide",
+      "mula": "Nobyembre 3, 1905",
+      "hanggang": "Setyembre 19, 1906",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "James Francis Smith",
+      "mula": "Setyembre 20, 1906",
+      "hanggang": "Nobyembre 11, 1909",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "William Cameron Forbes",
+      "mula": "Nobyembre 11, 1909",
+      "hanggang": "Setyembre 1, 1913",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Newton W. Gilbert (Pansamantala Gobernador-Heneral)",
+      "mula": "Setyembre 1, 1913",
+      "hanggang": "Oktubre 6, 1913",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Francis Burton Harrison",
+      "mula": "Oktubre 6, 1913",
+      "hanggang": "Marso 5, 1921",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Charles Yeater (Pansamantala Gobernador-Heneral)",
+      "mula": "Marso 5, 1921",
+      "hanggang": "Oktubre 14, 1921",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Leonard Wood",
+      "mula": "Oktubre 14, 1921",
+      "hanggang": "Agosto 7, 1927",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Eugene Allen Gilmore (Pansamantala Gobernador-Heneral)",
+      "mula": "Agosto 7, 1927",
+      "hanggang": "Disyembre 27, 1927",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Henry L. Stimson",
+      "mula": "Disyembre 27, 1927",
+      "hanggang": "Pebrero 23, 1929",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Eugene Allen Gilmore (Pansamantala Gobernador-Heneral)",
+      "mula": "Pebrero 23, 1929",
+      "hanggang": "Hulyo 8, 1929",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Dwight F. Davis",
+      "mula": "Hulyo 8, 1929",
+      "hanggang": "Enero 9, 1932",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "George C. Butte (Pansamantala Gobernador-Heneral)",
+      "mula": "Enero 9, 1932",
+      "hanggang": "Pebrero 29, 1932",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Theodore Roosevelt, Jr.",
+      "mula": "Pebrero 29, 1932",
+      "hanggang": "Hulyo 15, 1933",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    },
+    {
+      "pangalan": "Frank Murphy",
+      "mula": "Hulyo 15, 1933",
+      "hanggang": "Nobyembre 14, 1935",
+      "panahon": "Mga Gobernador-Heneral ng Kolonyal na Amerika (1901- 1935)"
+    }
+  ],
+  "meta": {
+    "title": "Mga Gobernador-Heneral ng Pilipinas - Free Download",
+    "description": "Talaan ng mga Gobernador-Heneral ng Pilipinas sa panahon ng Espanya at Amerika, kasama ang petsa ng simula at pagtatapos ng panunungkulan. Contains 137 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Gobernador-Heneral ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Gobernador-Heneral ng Pilipinas — 137 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 137 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Mga_Gobernador-Heneral_ng_Pilipinas"
+    ]
+  }
+}

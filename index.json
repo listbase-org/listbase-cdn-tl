@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-30T02:13:18.980Z",
-  "total_datasets": 468,
-  "total_records": 445099,
+  "generated": "2026-10-30T02:13:26.671Z",
+  "total_datasets": 469,
+  "total_records": 445236,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -4857,6 +4857,31 @@
         "xlsx": {
           "name": "tl-mga-bayani_TL.xlsx",
           "size": 8701
+        }
+      }
+    },
+    {
+      "id": "tl-mga-gobernador-heneral-ng-pilipinas",
+      "name": "Mga Gobernador-Heneral ng Pilipinas",
+      "category": "history",
+      "record_count": 137,
+      "columns": [
+        "pangalan",
+        "mula",
+        "hanggang",
+        "panahon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Mga_Gobernador-Heneral_ng_Pilipinas",
+      "updated": "2026-10",
+      "size": 28035,
+      "files": {
+        "csv": {
+          "name": "tl-mga-gobernador-heneral-ng-pilipinas_TL.csv",
+          "size": 15051
+        },
+        "xlsx": {
+          "name": "tl-mga-gobernador-heneral-ng-pilipinas_TL.xlsx",
+          "size": 11697
         }
       }
     },
