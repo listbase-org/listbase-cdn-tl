@@ -1,0 +1,566 @@
+{
+  "id": "tl-mga-himpilan-ng-radyo-sa-kalakhang-maynila",
+  "name": "Mga Himpilan ng Radyo sa Kalakhang Maynila (AM at FM)",
+  "title": "Mga Himpilan ng Radyo sa Kalakhang Maynila (AM at FM)",
+  "description": "Talaan ng mga himpilan ng radyong AM at FM sa Kalakhang Maynila: frequency, call sign, tatak, lakas, may-ari at lokasyon.",
+  "category": "entertainment",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Kalakhang_Maynila",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Kalakhang_Maynila",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "frequency",
+      "label": "Frequency",
+      "type": "string"
+    },
+    {
+      "key": "banda",
+      "label": "Banda",
+      "type": "string"
+    },
+    {
+      "key": "call_sign",
+      "label": "Call Sign",
+      "type": "string"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "lakas_kw",
+      "label": "Lakas Kw",
+      "type": "number"
+    },
+    {
+      "key": "may_ari",
+      "label": "May Ari",
+      "type": "string"
+    },
+    {
+      "key": "lokasyon_ng_himpilan",
+      "label": "Lokasyon Ng Himpilan",
+      "type": "string"
+    },
+    {
+      "key": "lokasyon_ng_transmiter",
+      "label": "Lokasyon Ng Transmiter",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "frequency": "558 AM",
+      "banda": "AM",
+      "call_sign": "DZXL",
+      "pangalan": "DZXL Radyo Trabaho 558",
+      "lakas_kw": 50,
+      "may_ari": "Radio Mindanao Network (RMN)",
+      "lokasyon_ng_himpilan": "Lungsod Makati",
+      "lokasyon_ng_transmiter": "Bulakan, Bulacan"
+    },
+    {
+      "frequency": "594 AM",
+      "banda": "AM",
+      "call_sign": "DZBB",
+      "pangalan": "Super Radyo DZBB 594",
+      "lakas_kw": 50,
+      "may_ari": "GMA Network, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Obando, Bulacan"
+    },
+    {
+      "frequency": "666 AM",
+      "banda": "AM",
+      "call_sign": "DZRH",
+      "pangalan": "DZRH Nationwide 666",
+      "lakas_kw": "50/25",
+      "may_ari": "Manila Broadcasting Company (MBC)",
+      "lokasyon_ng_himpilan": "Lungsod Pasay",
+      "lokasyon_ng_transmiter": "Lungsod Valenzuela"
+    },
+    {
+      "frequency": "702 AM",
+      "banda": "AM",
+      "call_sign": "DZAS",
+      "pangalan": "702 DZAS (Agapay ng Sambayanan)",
+      "lakas_kw": 50,
+      "may_ari": "Far East Broadcasting Company (FEBC)",
+      "lokasyon_ng_himpilan": "Lungsod Pasig",
+      "lokasyon_ng_transmiter": "Bocaue, Bulacan"
+    },
+    {
+      "frequency": "738 AM",
+      "banda": "AM",
+      "call_sign": "DZRB",
+      "pangalan": "DZRB Radyo Pilipinas 1",
+      "lakas_kw": "40-60",
+      "may_ari": "Philippine Broadcasting Service (PBS)",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Lungsod Valenzuela"
+    },
+    {
+      "frequency": "774 AM",
+      "banda": "AM",
+      "call_sign": "DWWW (DWAT)",
+      "pangalan": "DWWW 774 (Your Ultimate AM Radio)",
+      "lakas_kw": 25,
+      "may_ari": "Interactive Broadcast Media, Inc. (Radio Mindanao Network)",
+      "lokasyon_ng_himpilan": "Lungsod San Juan",
+      "lokasyon_ng_transmiter": "Lungsod Valenzuela"
+    },
+    {
+      "frequency": "810 AM",
+      "banda": "AM",
+      "call_sign": "DZRJ",
+      "pangalan": "DZRJ 810 Radyo Bandido (The Voice of The Philippines)",
+      "lakas_kw": 50,
+      "may_ari": "Rajah Broadcasting Network, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Makati",
+      "lokasyon_ng_transmiter": "Lungsod Quezon"
+    },
+    {
+      "frequency": "846 AM",
+      "banda": "AM",
+      "call_sign": "DZRV (DZNN)",
+      "pangalan": "Veritas 846 (Ang Radyo ng Simbahan)",
+      "lakas_kw": 50,
+      "may_ari": "Catholic Media Network: Radio Veritas-Global Broadcasting System",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Bulakan, Bulacan"
+    },
+    {
+      "frequency": "882 AM",
+      "banda": "AM",
+      "call_sign": "DWIZ",
+      "pangalan": "DWIZ 882 (Todong Lakas!)",
+      "lakas_kw": 50,
+      "may_ari": "Aliw Broadcasting Corporation (Insular Broadcasting System)",
+      "lokasyon_ng_himpilan": "Lungsod Pasig",
+      "lokasyon_ng_transmiter": "Obando, Bulacan"
+    },
+    {
+      "frequency": "918 AM",
+      "banda": "AM",
+      "call_sign": "DZSR (DZFM/ DZRB)",
+      "pangalan": "DZSR Radyo Pilipinas 2",
+      "lakas_kw": 10,
+      "may_ari": "Philippine Broadcasting Service (PBS)",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Lungsod Malolos"
+    },
+    {
+      "frequency": "954 AM",
+      "banda": "AM",
+      "call_sign": "DZEM",
+      "pangalan": "DZEM INC Radio 954 (Tinig Ng Katotohanan)",
+      "lakas_kw": 40,
+      "may_ari": "Christian Era Broadcasting Service International",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Obando, Bulacan"
+    },
+    {
+      "frequency": "990 AM",
+      "banda": "AM",
+      "call_sign": "DZIQ (DWRT)",
+      "pangalan": "DZIQ Radyo Inquirer 990",
+      "lakas_kw": 10,
+      "may_ari": "Trans-Radio Broadcasting Corporation",
+      "lokasyon_ng_himpilan": "Lungsod Makati",
+      "lokasyon_ng_transmiter": "Obando, Bulacan"
+    },
+    {
+      "frequency": "1026 AM",
+      "banda": "AM",
+      "call_sign": "DZAR (DZAM)",
+      "pangalan": "DZAR Sonshine Radio 1026",
+      "lakas_kw": 50,
+      "may_ari": "Trans-Radio Broadcasting Corporation",
+      "lokasyon_ng_himpilan": "Lungsod Makati",
+      "lokasyon_ng_transmiter": "Obando, Bulacan"
+    },
+    {
+      "frequency": "1062 AM",
+      "banda": "AM",
+      "call_sign": "DZEC",
+      "pangalan": "DZEC Radyo Agila 1062",
+      "lakas_kw": 40,
+      "may_ari": "Eagle Broadcasting Corporation",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Obando, Bulacan"
+    },
+    {
+      "frequency": "1098 AM",
+      "banda": "AM",
+      "call_sign": "DWAD",
+      "pangalan": "DWAD Now Radio",
+      "lakas_kw": 10,
+      "may_ari": "Crusaders Broadcasting Systems",
+      "lokasyon_ng_himpilan": "Lungsod Mandaluyong",
+      "lokasyon_ng_transmiter": "Lungsod Mandaluyong"
+    },
+    {
+      "frequency": "1134 AM",
+      "banda": "AM",
+      "call_sign": "DWDD",
+      "pangalan": "DWDD 1134 Ka-Tropa Radio/Armed Forces Radio",
+      "lakas_kw": 10,
+      "may_ari": "Sandatahang Lakas ng Pilipinas (Kagawaran ng Tanggulang Pambansa)",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Lungsod Quezon"
+    },
+    {
+      "frequency": "1242 AM",
+      "banda": "AM",
+      "call_sign": "DWBL",
+      "pangalan": "DWBL 1242 Serbisyo Publiko",
+      "lakas_kw": 10,
+      "may_ari": "FBS Radio Network, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Mandaluyong",
+      "lokasyon_ng_transmiter": "Lungsod Valenzuela"
+    },
+    {
+      "frequency": "1314 AM",
+      "banda": "AM",
+      "call_sign": "DWXI",
+      "pangalan": "DWXI 1314",
+      "lakas_kw": "10-30",
+      "may_ari": "Delta Broadcasting System, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Makati",
+      "lokasyon_ng_transmiter": "Noveleta, Cavite"
+    },
+    {
+      "frequency": "1350 AM",
+      "banda": "AM",
+      "call_sign": "DZXQ (DWUN)",
+      "pangalan": "UNTV Radyo La Verdad 1350",
+      "lakas_kw": 50,
+      "may_ari": "Information Broadcast Unlimited",
+      "lokasyon_ng_himpilan": "Lungsod Caloocan",
+      "lokasyon_ng_transmiter": "Lungsod Malabon"
+    },
+    {
+      "frequency": "1458 AM",
+      "banda": "AM",
+      "call_sign": "DZJV",
+      "pangalan": "DZJV 1458",
+      "lakas_kw": "",
+      "may_ari": "ZOE Broadcasting Network",
+      "lokasyon_ng_himpilan": "",
+      "lokasyon_ng_transmiter": ""
+    },
+    {
+      "frequency": "1494 AM",
+      "banda": "AM",
+      "call_sign": "DWSS",
+      "pangalan": "DWSS 1494 Entertainment Radio",
+      "lakas_kw": 10,
+      "may_ari": "Supreme Broadcasting Systems",
+      "lokasyon_ng_himpilan": "Lungsod Mandaluyong",
+      "lokasyon_ng_transmiter": "Lungsod Valenzuela"
+    },
+    {
+      "frequency": "1530 AM",
+      "banda": "AM",
+      "call_sign": "DZME",
+      "pangalan": "DZME 1530",
+      "lakas_kw": 25,
+      "may_ari": "Capitol Broadcasting Center (Jose M. Luison and Sons, Inc)",
+      "lokasyon_ng_himpilan": "Lungsod Pasig",
+      "lokasyon_ng_transmiter": "Obando, Bulacan"
+    },
+    {
+      "frequency": "1602 AM",
+      "banda": "AM",
+      "call_sign": "DZUP",
+      "pangalan": "DZUP 1602 (Kasali Ka!)",
+      "lakas_kw": 1,
+      "may_ari": "Unibersidad ng Pilipinas, Diliman",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Lungsod Quezon"
+    },
+    {
+      "frequency": "1674 AM",
+      "banda": "AM",
+      "call_sign": "DZBF",
+      "pangalan": "DZBF Radyo Marikina 1674",
+      "lakas_kw": 1,
+      "may_ari": "Pamahalaan ng Lungsod Marikina",
+      "lokasyon_ng_himpilan": "Lungsod Marikina",
+      "lokasyon_ng_transmiter": "Lungsod Marikina"
+    },
+    {
+      "frequency": "87.5 FM",
+      "banda": "FM",
+      "call_sign": "DWFO",
+      "pangalan": "87.5 FM1",
+      "lakas_kw": 25,
+      "may_ari": "Philippine Broadcasting Service (PBS)",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Lungsod Quezon"
+    },
+    {
+      "frequency": "88.3 FM",
+      "banda": "FM",
+      "call_sign": "DWJM",
+      "pangalan": "Jam 88.3",
+      "lakas_kw": 25,
+      "may_ari": "Raven Broadcasting Corporation; Tiger 22 Media Corporation",
+      "lokasyon_ng_himpilan": "Lungsod Pasig",
+      "lokasyon_ng_transmiter": "Lungsod Antipolo"
+    },
+    {
+      "frequency": "89.1 FM",
+      "banda": "FM",
+      "call_sign": "DWAV",
+      "pangalan": "Wave 89.1",
+      "lakas_kw": 25,
+      "may_ari": "Blockbuster Broadcasting System, Inc.; Tiger 22 Media Corporation",
+      "lokasyon_ng_himpilan": "Lungsod Pasig",
+      "lokasyon_ng_transmiter": "Lungsod Quezon"
+    },
+    {
+      "frequency": "89.9 FM",
+      "banda": "FM",
+      "call_sign": "DWTM",
+      "pangalan": "Magic 89.9",
+      "lakas_kw": 25,
+      "may_ari": "Quest Broadcasting, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Mandaluyong",
+      "lokasyon_ng_transmiter": "Lungsod Mandaluyong"
+    },
+    {
+      "frequency": "90.7 FM",
+      "banda": "FM",
+      "call_sign": "DZMB",
+      "pangalan": "90.7 Love Radio",
+      "lakas_kw": 25,
+      "may_ari": "Manila Broadcasting Company (Cebu Broadcasting Company)",
+      "lokasyon_ng_himpilan": "Lungsod Pasay",
+      "lokasyon_ng_transmiter": "Lungsod Mandaluyong"
+    },
+    {
+      "frequency": "91.5 FM",
+      "banda": "FM",
+      "call_sign": "DWKY",
+      "pangalan": "91.5 Win Radio (dating Energy FM)",
+      "lakas_kw": 25,
+      "may_ari": "Mabuhay Broadcasting System, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Mandaluyong",
+      "lokasyon_ng_transmiter": "Lungsod Mandaluyong"
+    },
+    {
+      "frequency": "92.3 FM",
+      "banda": "FM",
+      "call_sign": "DWFM",
+      "pangalan": "Radyo5 92.3 News FM",
+      "lakas_kw": 25,
+      "may_ari": "Nation Broadcasting Corporation; MediaQuest Holdings, Inc.: TV5 Network, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Mandaluyong",
+      "lokasyon_ng_transmiter": "Lungsod Antipolo"
+    },
+    {
+      "frequency": "93.1 FM",
+      "banda": "FM",
+      "call_sign": "DWRX",
+      "pangalan": "Monster RX 93.1",
+      "lakas_kw": 25,
+      "may_ari": "Audiovisual Communicators, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Pasig",
+      "lokasyon_ng_transmiter": "Lungsod Pasig"
+    },
+    {
+      "frequency": "93.9 FM",
+      "banda": "FM",
+      "call_sign": "DWKC",
+      "pangalan": "93.9 iFM",
+      "lakas_kw": 25,
+      "may_ari": "Radio Mindanao Network (RMN)",
+      "lokasyon_ng_himpilan": "Lungsod Makati",
+      "lokasyon_ng_transmiter": "Lungsod San Juan"
+    },
+    {
+      "frequency": "94.7 FM",
+      "banda": "FM",
+      "call_sign": "DWLL",
+      "pangalan": "Mellow 947",
+      "lakas_kw": 25,
+      "may_ari": "FBS Radio Network, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Mandaluyong",
+      "lokasyon_ng_transmiter": "Lungsod Mandaluyong"
+    },
+    {
+      "frequency": "95.5 FM",
+      "banda": "FM",
+      "call_sign": "DWDM",
+      "pangalan": "Pinas FM 95.5",
+      "lakas_kw": 25,
+      "may_ari": "Eagle Broadcasting Corporation",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Lungsod Quezon"
+    },
+    {
+      "frequency": "96.3 FM",
+      "banda": "FM",
+      "call_sign": "DWRK",
+      "pangalan": "96.3 Easy Rock",
+      "lakas_kw": 25,
+      "may_ari": "Cebu Broadcasting Company: Manila Broadcasting Company",
+      "lokasyon_ng_himpilan": "Lungsod Pasay",
+      "lokasyon_ng_transmiter": "Lungsod Mandaluyong"
+    },
+    {
+      "frequency": "97.1 FM",
+      "banda": "FM",
+      "call_sign": "DWLS",
+      "pangalan": "Barangay LS 97.1",
+      "lakas_kw": 25,
+      "may_ari": "GMA Network, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Lungsod Quezon"
+    },
+    {
+      "frequency": "97.9 FM",
+      "banda": "FM",
+      "call_sign": "DWQZ",
+      "pangalan": "979 Home Radio",
+      "lakas_kw": 25,
+      "may_ari": "Aliw Broadcasting Corporation (Insular Broadcasting System)",
+      "lokasyon_ng_himpilan": "Lungsod Pasig",
+      "lokasyon_ng_transmiter": "Lungsod Antipolo"
+    },
+    {
+      "frequency": "98.7 FM",
+      "banda": "FM",
+      "call_sign": "DZFE",
+      "pangalan": "98.7 DZFE The Master's Touch",
+      "lakas_kw": 25,
+      "may_ari": "Far East Broadcasting Company, Inc. (FEBC)",
+      "lokasyon_ng_himpilan": "Lungsod Pasig",
+      "lokasyon_ng_transmiter": "Lungsod Pasig"
+    },
+    {
+      "frequency": "99.5 FM",
+      "banda": "FM",
+      "call_sign": "DWRT",
+      "pangalan": "99.5 Play FM (dating 99.5 RT)",
+      "lakas_kw": 25,
+      "may_ari": "Real Radio Network Inc. (Tiger 22 Media Corporation)",
+      "lokasyon_ng_himpilan": "Lungsod Mandaluyong",
+      "lokasyon_ng_transmiter": "Lungsod Antipolo"
+    },
+    {
+      "frequency": "100.3 FM",
+      "banda": "FM",
+      "call_sign": "DZRJ",
+      "pangalan": "RJ FM (RJ 100)",
+      "lakas_kw": 25,
+      "may_ari": "Rajah Broadcasting Network, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Makati",
+      "lokasyon_ng_transmiter": "Lungsod Antipolo"
+    },
+    {
+      "frequency": "101.1 FM",
+      "banda": "FM",
+      "call_sign": "DWYS",
+      "pangalan": "101.1 Yes the Best",
+      "lakas_kw": 25,
+      "may_ari": "Pacific Broadcasting System, Inc.: Manila Broadcasting Company",
+      "lokasyon_ng_himpilan": "Lungsod Pasay",
+      "lokasyon_ng_transmiter": "Lungsod Mandaluyong"
+    },
+    {
+      "frequency": "102.7 FM",
+      "banda": "FM",
+      "call_sign": "DWSM",
+      "pangalan": "102.7 Star FM",
+      "lakas_kw": 25,
+      "may_ari": "People's Broadcasting Service, Inc.: Bombo Radyo Philippines",
+      "lokasyon_ng_himpilan": "Lungsod Pasig",
+      "lokasyon_ng_transmiter": "Lungsod Pasig"
+    },
+    {
+      "frequency": "103.5 FM",
+      "banda": "FM",
+      "call_sign": "DWOW",
+      "pangalan": "103.5 K-Lite FM",
+      "lakas_kw": 25,
+      "may_ari": "Advanced Media Broadcasting System, Inc.",
+      "lokasyon_ng_himpilan": "Lungsod Mandaluyong",
+      "lokasyon_ng_transmiter": "Lungsod Mandaluyong"
+    },
+    {
+      "frequency": "104.3 FM",
+      "banda": "FM",
+      "call_sign": "DWFT (DWBR)",
+      "pangalan": "104.3 FM2",
+      "lakas_kw": 25,
+      "may_ari": "Philippine Broadcasting Service (PBS)",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Lungsod Quezon"
+    },
+    {
+      "frequency": "104.7 FM",
+      "banda": "FM",
+      "call_sign": "DWEY",
+      "pangalan": "104.7 Brigada News FM Mega Manila",
+      "lakas_kw": 5,
+      "may_ari": "Brigada Mass Media Corporation",
+      "lokasyon_ng_himpilan": "Lungsod Makati",
+      "lokasyon_ng_transmiter": "Batangas"
+    },
+    {
+      "frequency": "105.1 FM",
+      "banda": "FM",
+      "call_sign": "DWBM",
+      "pangalan": "Q Radio 105.1",
+      "lakas_kw": 25,
+      "may_ari": "Mareco Broadcasting Network",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Binangonan, Rizal"
+    },
+    {
+      "frequency": "105.9 FM",
+      "banda": "FM",
+      "call_sign": "DWLA",
+      "pangalan": "Neo Retro 105.9",
+      "lakas_kw": 25,
+      "may_ari": "Bright Star Broadcasting Network",
+      "lokasyon_ng_himpilan": "Lungsod Parañaque",
+      "lokasyon_ng_transmiter": "Lungsod Antipolo"
+    },
+    {
+      "frequency": "106.7 FM",
+      "banda": "FM",
+      "call_sign": "DWET",
+      "pangalan": "106.7 Energy FM",
+      "lakas_kw": 25,
+      "may_ari": "Ultrasonic Broadcasting System (lnteractive Broadcast Media, Inc.; ABC Development Corporation)",
+      "lokasyon_ng_himpilan": "Lungsod Pasig",
+      "lokasyon_ng_transmiter": "Lungsod Pasig"
+    },
+    {
+      "frequency": "107.5 FM",
+      "banda": "FM",
+      "call_sign": "DWNU",
+      "pangalan": "Wish 1075 (Wish FM; dating Win Radio)",
+      "lakas_kw": 25,
+      "may_ari": "Progressive Broadcasting Corporation",
+      "lokasyon_ng_himpilan": "Lungsod Quezon",
+      "lokasyon_ng_transmiter": "Lungsod Antipolo"
+    }
+  ],
+  "meta": {
+    "title": "Mga Himpilan ng Radyo sa Kalakhang Maynila (AM at FM) - Free Download",
+    "description": "Talaan ng mga himpilan ng radyong AM at FM sa Kalakhang Maynila: frequency, call sign, tatak, lakas, may-ari at lokasyon. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Himpilan ng Radyo sa Kalakhang Maynila (AM at FM) | ListBase",
+    "seo_description": "Download Mga Himpilan ng Radyo sa Kalakhang Maynila (AM at FM) — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Kalakhang_Maynila"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-30T02:13:26.671Z",
-  "total_datasets": 469,
-  "total_records": 445236,
+  "generated": "2026-10-30T02:13:33.569Z",
+  "total_datasets": 470,
+  "total_records": 445286,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -3121,6 +3121,35 @@
         "xlsx": {
           "name": "tl-zamboanga-peninsula-shs-paaralan_TL.xlsx",
           "size": 27806
+        }
+      }
+    },
+    {
+      "id": "tl-mga-himpilan-ng-radyo-sa-kalakhang-maynila",
+      "name": "Mga Himpilan ng Radyo sa Kalakhang Maynila (AM at FM)",
+      "category": "entertainment",
+      "record_count": 50,
+      "columns": [
+        "frequency",
+        "banda",
+        "call_sign",
+        "pangalan",
+        "lakas_kw",
+        "may_ari",
+        "lokasyon_ng_himpilan",
+        "lokasyon_ng_transmiter"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Kalakhang_Maynila",
+      "updated": "2026-10",
+      "size": 18066,
+      "files": {
+        "csv": {
+          "name": "tl-mga-himpilan-ng-radyo-sa-kalakhang-maynila_TL.csv",
+          "size": 6692
+        },
+        "xlsx": {
+          "name": "tl-mga-himpilan-ng-radyo-sa-kalakhang-maynila_TL.xlsx",
+          "size": 10367
         }
       }
     },
