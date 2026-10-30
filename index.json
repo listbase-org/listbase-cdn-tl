@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-29T02:20:56.559Z",
-  "total_datasets": 465,
-  "total_records": 444673,
+  "generated": "2026-10-30T02:12:59.855Z",
+  "total_datasets": 466,
+  "total_records": 444799,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -4830,6 +4830,30 @@
         "xlsx": {
           "name": "tl-mga-bayani_TL.xlsx",
           "size": 8701
+        }
+      }
+    },
+    {
+      "id": "tl-etimolohiya-ng-pangalan-ng-lungsod",
+      "name": "Etimolohiya ng mga Pangalan ng Lungsod sa Pilipinas",
+      "category": "language",
+      "record_count": 126,
+      "columns": [
+        "lungsod",
+        "lalawigan",
+        "pinagmulan_ng_pangalan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_etimolohiya_ng_mga_pangalan_ng_mga_lungsod_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 25965,
+      "files": {
+        "csv": {
+          "name": "tl-etimolohiya-ng-pangalan-ng-lungsod_TL.csv",
+          "size": 13866
+        },
+        "xlsx": {
+          "name": "tl-etimolohiya-ng-pangalan-ng-lungsod_TL.xlsx",
+          "size": 13344
         }
       }
     },

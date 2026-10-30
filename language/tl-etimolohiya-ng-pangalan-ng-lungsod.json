@@ -1,0 +1,671 @@
+{
+  "id": "tl-etimolohiya-ng-pangalan-ng-lungsod",
+  "name": "Etimolohiya ng mga Pangalan ng Lungsod sa Pilipinas",
+  "title": "Etimolohiya ng mga Pangalan ng Lungsod sa Pilipinas",
+  "description": "Pinagmulan ng pangalan ng mga lungsod sa Pilipinas, kasama ang lalawigan ng bawat lungsod.",
+  "category": "language",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_etimolohiya_ng_mga_pangalan_ng_mga_lungsod_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_etimolohiya_ng_mga_pangalan_ng_mga_lungsod_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 126,
+  "columns": [
+    {
+      "key": "lungsod",
+      "label": "Lungsod",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "pinagmulan_ng_pangalan",
+      "label": "Pinagmulan Ng Pangalan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lungsod": "Alaminos",
+      "lalawigan": "Pangasinan",
+      "pinagmulan_ng_pangalan": "Juan Alaminos y Vivar, Kastilang Gobernador-Heneral ng Pilipinas."
+    },
+    {
+      "lungsod": "Angeles",
+      "lalawigan": "Pampanga",
+      "pinagmulan_ng_pangalan": "isang pag-ikli ng kanyang orihinal na pangalan sa Kastila El Pueblo de los Angeles na may kahulugang \"Ang Bayan ng mga Anghel.\""
+    },
+    {
+      "lungsod": "Antipolo",
+      "lalawigan": "Rizal",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng parilalang Tagalog na ang tipolo na may kahulugang \"ang rimas \" bilang pagtukoy sa mga punong tumutubo nang sagana sa lungsod."
+    },
+    {
+      "lungsod": "Bacolod",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng bakolod, isang lumang salitang Hiligaynon para sa \"burol\" bilang pagtukoy sa maburol na lugar sa lungsod na kilala ngayon bilang barangay ng Granada."
+    },
+    {
+      "lungsod": "Bacoor",
+      "lalawigan": "Cavite",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng bacood, nagmula sa salitang Tagalog na \"bakod.\""
+    },
+    {
+      "lungsod": "Bago",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Mula sa bago-bago, isang lokal na palumpong."
+    },
+    {
+      "lungsod": "Baguio",
+      "lalawigan": "Benguet",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng salitang Ibaloi na bagiw na may kahulugang \"lumot.\""
+    },
+    {
+      "lungsod": "Bais",
+      "lalawigan": "Negros Oriental",
+      "pinagmulan_ng_pangalan": "Sebwano para sa \"malaking, makakaing ayunging igat.\""
+    },
+    {
+      "lungsod": "Balanga",
+      "lalawigan": "Bataan",
+      "pinagmulan_ng_pangalan": "Pampango para sa \"palayok.\""
+    },
+    {
+      "lungsod": "Batac",
+      "lalawigan": "Ilocos Norte",
+      "pinagmulan_ng_pangalan": "Higit sa isang pinagmulan, ngunit pinaniniwalan na nakuha ang pangalan ng lugar mula sa batak, isang salitang Ilocano na may kahulugang \"hila\" bilang pagtukoy sa pakikipagtulungan o ang pagbibigay-tulong sa isang taong nangangailangan. Dahil doon, marahil na nagmula ang pangalan mula sa karaniwang katangian ng mga tao na palaging handa na magbigay-tulong sa sinuman."
+    },
+    {
+      "lungsod": "Batangas",
+      "lalawigan": "Batangas",
+      "pinagmulan_ng_pangalan": "Mula sa batang, ang salitang Tagalog para sa \"kalap\" bilang pagtukoy sa mga baol ng mga natrosong puno na dating pinapalutang sa Ilog Calumpang na umaagos sa kabuuan ng lungsod."
+    },
+    {
+      "lungsod": "Bayawan",
+      "lalawigan": "Negros Oriental",
+      "pinagmulan_ng_pangalan": "Mula sa bayaw, isang salitang Cebuano na may kahulugang \"itaas\" or \"ilayog.\""
+    },
+    {
+      "lungsod": "Biñan",
+      "lalawigan": "Laguna",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng binyagan, ang salitang Tagalog para sa \"pinagbibinyagang lugar.\""
+    },
+    {
+      "lungsod": "Bislig",
+      "lalawigan": "Surigao del Sur",
+      "pinagmulan_ng_pangalan": "Mula sa bizlin, isang sinaunang salaping ginto."
+    },
+    {
+      "lungsod": "Butuan",
+      "lalawigan": "Agusan del Norte",
+      "pinagmulan_ng_pangalan": "Mula sa batuan, isang Bisayang maasim na prutas."
+    },
+    {
+      "lungsod": "Cabanatuan",
+      "lalawigan": "Nueva Ecija",
+      "pinagmulan_ng_pangalan": "Mula sa banatu, isang matipunong bagin na tumubo sa mga tanlak ng io Grande de Pampanga."
+    },
+    {
+      "lungsod": "Cabuyao",
+      "lalawigan": "Laguna",
+      "pinagmulan_ng_pangalan": "Mula sa cabuyao, ang karaniwang pangalan para sa Citrus macroptera, isang sarihay ng kamuntay."
+    },
+    {
+      "lungsod": "Cadiz",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Ang lungsod of Cádiz sa Espanya."
+    },
+    {
+      "lungsod": "Cagayan de Oro",
+      "lalawigan": "Misamis Oriental",
+      "pinagmulan_ng_pangalan": "Cagayan, ang lalawigan sa Pilipinas sa hilagang Luzon, at ang Kastilang pariralang de oro na may kahulugang \"ng ginto.\""
+    },
+    {
+      "lungsod": "Calamba",
+      "lalawigan": "Laguna",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng kalan-banga, Tagalog for \"kalan na gawa sa luad.\""
+    },
+    {
+      "lungsod": "Calapan",
+      "lalawigan": "Mindoro Oriental",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng kalapang, isang salita sa lumang Tagalog na may kahulugang \"sangay.\""
+    },
+    {
+      "lungsod": "Calbayog",
+      "lalawigan": "Samar",
+      "pinagmulan_ng_pangalan": "Mula sa bayog, salitang Bisaya para sa punong \" Pterospermum diversifolium\" na masagana sa lungsod."
+    },
+    {
+      "lungsod": "Caloocan",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng Tagalog na salitang ugat na lo-ok; kalook-lookan (o kaloob-looban) na may kahulugang \"kaibuturang pook.\""
+    },
+    {
+      "lungsod": "Candon",
+      "lalawigan": "Ilocos Sur",
+      "pinagmulan_ng_pangalan": "Mula sa kandung, isang Ilokanong apalit na pinaniniwalang lipol na; o Candón, isang munisipalidad ng Espanya sa Huelva, Andalucia."
+    },
+    {
+      "lungsod": "Canlaon",
+      "lalawigan": "Negros Oriental",
+      "pinagmulan_ng_pangalan": "Bulkang Kanlaon."
+    },
+    {
+      "lungsod": "Cauayan",
+      "lalawigan": "Isabela",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng kawayan."
+    },
+    {
+      "lungsod": "Cavite",
+      "lalawigan": "Cavite",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng kawit o korapsyon ng kalawit bilang pagtukoy sa mga maliit na tangway na hugis-kalawit umuungos sa Look ng Maynila."
+    },
+    {
+      "lungsod": "Cebu",
+      "lalawigan": "Cebu",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng sugbu, ang salitang Bisaya para sa \"paglalakad sa mababaw na tubig\" bilang pagtukoy sa mga mabababaw na kinailangang pag-iinut-inutan para maabutan ang tuyong lupa mula sa daungan ng lungsod."
+    },
+    {
+      "lungsod": "Cotabato",
+      "lalawigan": "Maguindanao",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng kuta wato, Maguindanao (mula sa Malay - \"Kota Batu\") para sa \"kutang bato.\""
+    },
+    {
+      "lungsod": "Dagupan",
+      "lalawigan": "Pangasinan",
+      "pinagmulan_ng_pangalan": "Mula sa pandaragupan, isang salitang Pangasinense na may kahulugang \"tipunan\" dahil sa kasaysayan ng lungsod bilang sentro ng merkado."
+    },
+    {
+      "lungsod": "Danao",
+      "lalawigan": "Cebu",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng danawan, isang salitang Sebwano para sa \"lago.\""
+    },
+    {
+      "lungsod": "Dapitan",
+      "lalawigan": "Zamboanga del Norte",
+      "pinagmulan_ng_pangalan": "Sebwano para sa \"anyayahan.\""
+    },
+    {
+      "lungsod": "Dasmariñas",
+      "lalawigan": "Cavite",
+      "pinagmulan_ng_pangalan": "Gómez Pérez Dasmariñas, ang ikapitong Kastilang Gobernador-Heneral ng Pilipinas."
+    },
+    {
+      "lungsod": "Davao",
+      "lalawigan": "Davao del Sur",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng dawaw, isang pangalang Guiangan para sa Ilog Davao."
+    },
+    {
+      "lungsod": "Digos",
+      "lalawigan": "Davao del Sur",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng padigus, isang salitang Lumad na may kahulugang \"maligo\" bilang pagtukoy sa Ilog Digos."
+    },
+    {
+      "lungsod": "Dipolog",
+      "lalawigan": "Zamboanga del Norte",
+      "pinagmulan_ng_pangalan": "Mula sa dipag, Subanon para \"sa kabila ng ilog.\""
+    },
+    {
+      "lungsod": "Dumaguete",
+      "lalawigan": "Negros Oriental",
+      "pinagmulan_ng_pangalan": "Mula sa dagit, isang salitang Sebwano na may kahulugang \"agawin\" bilang pagtukoy sa maladas na nagdadarambong na atake ng mga pirata sa nakaraan at sa kabisaan ng lungsod na akitin at ipalagi ang mga turista at bisita."
+    },
+    {
+      "lungsod": "Escalante",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Ang Escalante, isang Kastilang munisipalidad."
+    },
+    {
+      "lungsod": "Gapan",
+      "lalawigan": "Nueva Ecija",
+      "pinagmulan_ng_pangalan": "Mula sa gapang."
+    },
+    {
+      "lungsod": "General Santos",
+      "lalawigan": "South Cotabato",
+      "pinagmulan_ng_pangalan": "Si Paulino Santos, isang Filipino Namumunong Heneral ng Hukbong Katihan ng Pilipinas."
+    },
+    {
+      "lungsod": "Gingoog",
+      "lalawigan": "Misamis Oriental",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng hingoog, isang salitang Manobo na may kahulugang \"gud lak.\""
+    },
+    {
+      "lungsod": "Himamaylan",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Mula sa hima babaylan, isang pariralang Hiligaynon na may kahulugang \"doktor ng paa.\""
+    },
+    {
+      "lungsod": "Iligan",
+      "lalawigan": "Lanao del Norte",
+      "pinagmulan_ng_pangalan": "Ang salitang Higaonon para sa \"kuta\"."
+    },
+    {
+      "lungsod": "Iloilo",
+      "lalawigan": "Iloilo",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon of irong-irong, ang salitang Hiligaynon para sa \"mala-ilong\" na tumutukoy sa hugis ng deltang nabuo ng mga Kailugang Iloilo and Salog."
+    },
+    {
+      "lungsod": "Iriga",
+      "lalawigan": "Camarines Sur",
+      "pinagmulan_ng_pangalan": "Mula sa i raga, isang pariralang Bicolano na may kahulugang \"may lupa.\""
+    },
+    {
+      "lungsod": "Isabela",
+      "lalawigan": "Basilan",
+      "pinagmulan_ng_pangalan": "Si Isabella II, Reyna ng Espanya."
+    },
+    {
+      "lungsod": "Kabankalan",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Mula sa bangkal, isang Pilipinong punong Leichhardt."
+    },
+    {
+      "lungsod": "Kidapawan",
+      "lalawigan": "Cotabato",
+      "pinagmulan_ng_pangalan": "Mula sa tida pawan, isang pariralang Manobo na may kahulugang \"kataasang balintang\"."
+    },
+    {
+      "lungsod": "Koronadal",
+      "lalawigan": "South Cotabato",
+      "pinagmulan_ng_pangalan": "Mula sa koron nadal, isang pariralang B'laan na may kahulugang \"damuhan.\""
+    },
+    {
+      "lungsod": "La Carlota",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Ang La Carlota, isang munsipalidad ng Espanya."
+    },
+    {
+      "lungsod": "Laoag",
+      "lalawigan": "Ilocos Norte",
+      "pinagmulan_ng_pangalan": "Salitang Ilokano para sa \"liwanag o kalinawan.\""
+    },
+    {
+      "lungsod": "Lapu-Lapu",
+      "lalawigan": "Cebu",
+      "pinagmulan_ng_pangalan": "Si Lapu-Lapu, ang sinaunang pinuno ng Mactan."
+    },
+    {
+      "lungsod": "Las Piñas",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Kastila para sa \"Ang Mga Pinya\"; ngunit ang lumang pangalan ng lungsod ay \"Las Peñas\" na may kahulugang \"Ang Mga Bato\"."
+    },
+    {
+      "lungsod": "Legazpi",
+      "lalawigan": "Albay",
+      "pinagmulan_ng_pangalan": "Si Miguel López de Legazpi, ang unang Kastilang Gobernador-Heneral ng Pilipinas."
+    },
+    {
+      "lungsod": "Ligao",
+      "lalawigan": "Albay",
+      "pinagmulan_ng_pangalan": "Mula sa ticao, isang salitang Bikolano para sa isang puno na may makamandag na dahon."
+    },
+    {
+      "lungsod": "Lipa",
+      "lalawigan": "Batangas",
+      "pinagmulan_ng_pangalan": "Mula sa lipa, isang Pilipinong linden tree."
+    },
+    {
+      "lungsod": "Lucena",
+      "lalawigan": "Quezon",
+      "pinagmulan_ng_pangalan": "Ang Lucena, isang munsipalidad ng Espanya."
+    },
+    {
+      "lungsod": "Maasin",
+      "lalawigan": "Southern Leyte",
+      "pinagmulan_ng_pangalan": "Salitang Sebwano para sa \"maalat.\""
+    },
+    {
+      "lungsod": "Makati",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Mula sa kumakati (tubig); pinaikling at isinafilipinong anyo ng kanyang orihinal na pangalan sa Kastila, San Pedro de Macati.\""
+    },
+    {
+      "lungsod": "Malaybalay",
+      "lalawigan": "Bukidnon",
+      "pinagmulan_ng_pangalan": "Mula sa pariralang Sebwano na may kahulugang \" bahay ng mga Malay \"."
+    },
+    {
+      "lungsod": "Malolos",
+      "lalawigan": "Bulacan",
+      "pinagmulan_ng_pangalan": "Mula sa paluslos, isang salitang Kapampangan na may kahulugang \"ilawod\" bilang pagtukoy sa Ilog Calumpit."
+    },
+    {
+      "lungsod": "Mandaluyong",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Mula sa daluyong, salitang Tagalog para sa \"malalaking alon mula sa dagat\"; ang dating pangalan ng lungsod ay San Felipe Neri."
+    },
+    {
+      "lungsod": "Mandaue",
+      "lalawigan": "Cebu",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng mantawi, isang Sebwano uri ng alak."
+    },
+    {
+      "lungsod": "Manila",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng pariralang Tagalog - Sanskrito na may nila bilang pagtukoy sa paglaganap ng puno."
+    },
+    {
+      "lungsod": "Marawi",
+      "lalawigan": "Lanao del Sur",
+      "pinagmulan_ng_pangalan": "Mula sa rawi, isang salitang Maranao na may kahulugang \"sumasandal\" bilang pagtukoy sa mga liryong yumuyuko pahilaga sa tabing-ilog sa delta ng Ilog Agus."
+    },
+    {
+      "lungsod": "Marikina",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Si Félix Berenguer de Marquina, ang Kastilang Gobernador-Heneral ng Pilipinas."
+    },
+    {
+      "lungsod": "Masbate",
+      "lalawigan": "Masbate",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon of masabat, salitang Bikolano para sa \"masalubong,\" bilang pagtukoy sa madiskarteng posisyon ng lungsod sa mga tagatabing-dagat na ruta ng pangangalakal sa Pilipinas."
+    },
+    {
+      "lungsod": "Meycauayan",
+      "lalawigan": "Bulacan",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng pariralang Tagalog na may kawayan."
+    },
+    {
+      "lungsod": "Muntinlupa",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Mula sa munting lupa."
+    },
+    {
+      "lungsod": "Muñoz",
+      "lalawigan": "Nueva Ecija",
+      "pinagmulan_ng_pangalan": "Si Francisco Muñoz, isang Kastilang pulitiko at dating gobernadorcillo ng Nueva Ecija."
+    },
+    {
+      "lungsod": "Naga",
+      "lalawigan": "Camarines Sur",
+      "pinagmulan_ng_pangalan": "Salitang Bikolano para sa narra."
+    },
+    {
+      "lungsod": "Naga",
+      "lalawigan": "Cebu",
+      "pinagmulan_ng_pangalan": "Salitang Sebwano para sa narra."
+    },
+    {
+      "lungsod": "Navotas",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng salitang Tagalog na nabutas bilang pagtukoy sa pagbuo ng Ilog Navotas."
+    },
+    {
+      "lungsod": "Olongapo",
+      "lalawigan": "Zambales",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng olo nin apo, isang pariralang Sambal na may kahulugang \"ulo ng matanda.\""
+    },
+    {
+      "lungsod": "Ormoc",
+      "lalawigan": "Leyte",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng ogmok, isang salitang Sebwano na may kahulugang \"libis\" or \"kapatagan.\""
+    },
+    {
+      "lungsod": "Oroquieta",
+      "lalawigan": "Misamis Occidental",
+      "pinagmulan_ng_pangalan": "Ang barrio ng Oroquieta sa distrito ng Villaverde sa Madrid, Espanya."
+    },
+    {
+      "lungsod": "Ozamiz",
+      "lalawigan": "Misamis Occidental",
+      "pinagmulan_ng_pangalan": "Si José Ozámiz, isang Filipinong pulitika mula sa Mindanao."
+    },
+    {
+      "lungsod": "Pagadian",
+      "lalawigan": "Zamboanga del Sur",
+      "pinagmulan_ng_pangalan": "Mula sa padian, isang salitang Iranun para sa \"merkado.\""
+    },
+    {
+      "lungsod": "Palayan",
+      "lalawigan": "Nueva Ecija",
+      "pinagmulan_ng_pangalan": "Ang salitang palayan."
+    },
+    {
+      "lungsod": "Panabo",
+      "lalawigan": "Davao del Norte",
+      "pinagmulan_ng_pangalan": "Mula sa taboan, isang salitang Sebwano na may kahulugang \"pamilihan.\""
+    },
+    {
+      "lungsod": "Parañaque",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng Palanyag, ang pangalan sa lumang Tagalog ng Ilog Parañaque."
+    },
+    {
+      "lungsod": "Pasay",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Si Dayang-dayang Pasay, isang prinsesang Namayan. Ang lumang pangalan ng lungsod ay Pineda mula kay Cornelio Pineda, isang Kastilang hortikulturista."
+    },
+    {
+      "lungsod": "Pasig",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Mula sa pasi, isang salitang Sanskrito na may kahulugang \"tabing-ilog.\""
+    },
+    {
+      "lungsod": "Passi",
+      "lalawigan": "Iloilo",
+      "pinagmulan_ng_pangalan": "Mula sa passis, isang salitang Kinaray-a na may kahulugang \"palay.\""
+    },
+    {
+      "lungsod": "Puerto Princesa",
+      "lalawigan": "Palawan",
+      "pinagmulan_ng_pangalan": "Isang pag-ikli ng kanyang orihinal na pangalan sa wikang Kastila na Puerto de la Princesa na may kahulugang \"Daungan ng Prinsesa\" na ipinangalan kay Prinsesa Eulalia ng Espanya."
+    },
+    {
+      "lungsod": "Quezon",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Si Manuel Luis Quezon, ang ikalawang pangulo ng Pilipinas."
+    },
+    {
+      "lungsod": "Roxas",
+      "lalawigan": "Capiz",
+      "pinagmulan_ng_pangalan": "Si Manuel Acuña Roxas, ang ikalimang pangulo ng Pilipinas."
+    },
+    {
+      "lungsod": "Sagay",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Mula sa sigay, isang salitang Hiligaynon para sa \"kabibe.\""
+    },
+    {
+      "lungsod": "Samal",
+      "lalawigan": "Davao del Norte",
+      "pinagmulan_ng_pangalan": "Ang mga Sama, isang katutubong pangkat-etniko sa Mindanao."
+    },
+    {
+      "lungsod": "San Carlos",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Si San Carlos Borromeo."
+    },
+    {
+      "lungsod": "San Carlos",
+      "lalawigan": "Pangasinan",
+      "pinagmulan_ng_pangalan": "Ipinangalan kay Carlos III ng Espanya na nag-utos sa mga Kastilang pinuno na pugnawin ang bayan ng Binalatongan (ang kanyang dating pangalan)."
+    },
+    {
+      "lungsod": "San Fernando",
+      "lalawigan": "La Union",
+      "pinagmulan_ng_pangalan": "Si San Fernando, Hari ng Espanya."
+    },
+    {
+      "lungsod": "San Fernando",
+      "lalawigan": "Pampanga",
+      "pinagmulan_ng_pangalan": "Si San Fernando, Hari ng Espanya."
+    },
+    {
+      "lungsod": "San Jose",
+      "lalawigan": "Nueva Ecija",
+      "pinagmulan_ng_pangalan": "Si San Jose."
+    },
+    {
+      "lungsod": "San Jose del Monte",
+      "lalawigan": "Bulacan",
+      "pinagmulan_ng_pangalan": "Si San Jose ng Bundok."
+    },
+    {
+      "lungsod": "San Juan",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Si San Juan Bautista; ang mas mahabang opisyal na pangalan ng lungsod ay San Juan del Monte, \"San Juan ng Bundok\" sa wikang Kastila."
+    },
+    {
+      "lungsod": "San Pablo",
+      "lalawigan": "Laguna",
+      "pinagmulan_ng_pangalan": "Si San Pablo de Tebas."
+    },
+    {
+      "lungsod": "Santa Rosa",
+      "lalawigan": "Laguna",
+      "pinagmulan_ng_pangalan": "Si Santa Rosa de Lima."
+    },
+    {
+      "lungsod": "Santiago",
+      "lalawigan": "Isabela",
+      "pinagmulan_ng_pangalan": "Si Santiago ang Nakatatanda."
+    },
+    {
+      "lungsod": "Silay",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Mula sa kansilay, isang katutubong puno."
+    },
+    {
+      "lungsod": "Sipalay",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Suludnon para sa \"may palay\""
+    },
+    {
+      "lungsod": "Sorsogon",
+      "lalawigan": "Sorsogon",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng sogsogon, isang pandiwang Bikolano na may kahulugang \"tumuloy nang tumuloy sa isang daan tulad ng landas o ilog.\""
+    },
+    {
+      "lungsod": "Surigao",
+      "lalawigan": "Surigao del Norte",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng suligan, isang salitang Manobo para sa \"kung saan may sulig,\" isang sarihay ng isda."
+    },
+    {
+      "lungsod": "Tabaco",
+      "lalawigan": "Albay",
+      "pinagmulan_ng_pangalan": "Salitang Kastila para sa \"tabako.\""
+    },
+    {
+      "lungsod": "Tacloban",
+      "lalawigan": "Leyte",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon ng tarakluban, isang salitang Waray-Waray na may kahulugang \"manghuli ng isda.\""
+    },
+    {
+      "lungsod": "Tacurong",
+      "lalawigan": "Sultan Kudarat",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon of talakudong, isang salitang Maguindanao na nagtutukoy sa isang tradisyonal na \"sambalilo.\""
+    },
+    {
+      "lungsod": "Tagaytay",
+      "lalawigan": "Cavite",
+      "pinagmulan_ng_pangalan": "Ang salitang tagatay."
+    },
+    {
+      "lungsod": "Tagbilaran",
+      "lalawigan": "Bohol",
+      "pinagmulan_ng_pangalan": "Mula sa tagubilaan, isang pariralang Boholano na may kahulugang \"magtago sa mga Moro.\""
+    },
+    {
+      "lungsod": "Taguig",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng taga-giik."
+    },
+    {
+      "lungsod": "Tagum",
+      "lalawigan": "Davao del Norte",
+      "pinagmulan_ng_pangalan": "Mula sa magugpo, isang salitang Mandaya na may kahulugang \"mataas na puno.\""
+    },
+    {
+      "lungsod": "Talisay",
+      "lalawigan": "Cebu",
+      "pinagmulan_ng_pangalan": "Mula sa talisay, isang Bisayang baryante ng almendro."
+    },
+    {
+      "lungsod": "Talisay",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Mula sa talisay, isang Bisayang baryante ng almendro."
+    },
+    {
+      "lungsod": "Tanauan",
+      "lalawigan": "Batangas",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng tanawan."
+    },
+    {
+      "lungsod": "Tangub",
+      "lalawigan": "Misamis Occidental",
+      "pinagmulan_ng_pangalan": "Mula sa tangkob, isang salitang Subanon na may kahulugang \"bilao.\""
+    },
+    {
+      "lungsod": "Tanjay",
+      "lalawigan": "Negros Oriental",
+      "pinagmulan_ng_pangalan": "Kinastilang korapsyon of taytay, isang salitang Sebwano na may kahulugang \"tulay na gawa sa kawayan.\""
+    },
+    {
+      "lungsod": "Tarlac",
+      "lalawigan": "Tarlac",
+      "pinagmulan_ng_pangalan": "Kinastilang pagsasalin ng tarlak, isang terminong Aeta para sa isang uri ng damo na magkaugnay sa talahib (cogon) at tanglar (salitang Zambal para sa tanglad)."
+    },
+    {
+      "lungsod": "Tayabas",
+      "lalawigan": "Quezon",
+      "pinagmulan_ng_pangalan": "Mula sa bayabas o \" guava \"."
+    },
+    {
+      "lungsod": "Toledo",
+      "lalawigan": "Cebu",
+      "pinagmulan_ng_pangalan": "Ang Toledo, isang lungsod sa Espanya."
+    },
+    {
+      "lungsod": "Trece Martires",
+      "lalawigan": "Cavite",
+      "pinagmulan_ng_pangalan": "Kastila para sa \"tatlumpung martir.\" Ipinangalan ang lungsod sa karangalan ng mga Tatlumpung Martir ng Cavite."
+    },
+    {
+      "lungsod": "Tuguegarao",
+      "lalawigan": "Cagayan",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng pariralang Ibanag na tuggui gari yaw na nangangahulugang \"apoy ito dati.\""
+    },
+    {
+      "lungsod": "Urdaneta",
+      "lalawigan": "Pangasinan",
+      "pinagmulan_ng_pangalan": "Si Andrés de Urdaneta, isang Kastilang prayle, sirkumnabigador at manggagalugad."
+    },
+    {
+      "lungsod": "Valencia",
+      "lalawigan": "Bukidnon",
+      "pinagmulan_ng_pangalan": "Ipinangalan ng unang lokal na guro ng paaralan sa nayon na nanggaling mula sa Valencia, Bohol."
+    },
+    {
+      "lungsod": "Valenzuela",
+      "lalawigan": "Kalakhang Maynila",
+      "pinagmulan_ng_pangalan": "Si Pío Valenzuela, isang Filipinong patriota."
+    },
+    {
+      "lungsod": "Victorias",
+      "lalawigan": "Negros Occidental",
+      "pinagmulan_ng_pangalan": "Mula sa Nuestra Señora de las Victorias, wikang Kastila para sa \"Birhen ng Pagwawagi\"."
+    },
+    {
+      "lungsod": "Vigan",
+      "lalawigan": "Ilocos Sur",
+      "pinagmulan_ng_pangalan": "Pagkakastila ng bî-gán (美岸), salitang Hokkien para sa \"magandang baybayin\"."
+    },
+    {
+      "lungsod": "Zamboanga",
+      "lalawigan": "Zamboanga del Sur",
+      "pinagmulan_ng_pangalan": "Kinastilang anyo ng samboangan, salitang Sinama para sa \"daong,\" o sa letra por letra, \"pook ng pugalan,\" na nagtutukoy sa panirahanan at bayang daungan sa timugang dulo ng kanlurang tangway ng Mindanao."
+    }
+  ],
+  "meta": {
+    "title": "Etimolohiya ng mga Pangalan ng Lungsod sa Pilipinas - Free Download",
+    "description": "Pinagmulan ng pangalan ng mga lungsod sa Pilipinas, kasama ang lalawigan ng bawat lungsod. Contains 126 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Etimolohiya ng mga Pangalan ng Lungsod sa Pilipinas | ListBase",
+    "seo_description": "Download Etimolohiya ng mga Pangalan ng Lungsod sa Pilipinas — 126 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 126 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_etimolohiya_ng_mga_pangalan_ng_mga_lungsod_sa_Pilipinas"
+    ]
+  }
+}
