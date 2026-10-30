@@ -1,0 +1,1510 @@
+{
+  "id": "tl-mga-estasyon-ng-pnr",
+  "name": "Mga Estasyon ng Pambansang Daambakal ng Pilipinas (PNR)",
+  "title": "Mga Estasyon ng Pambansang Daambakal ng Pilipinas (PNR)",
+  "description": "Talaan ng mga estasyon (kasalukuyan at dating) ng Philippine National Railways sa Hilaga at Timog na linya, ayon sa lalawigan.",
+  "category": "transport",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_estasyon_ng_Pambansang_Daambakal_ng_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_estasyon_ng_Pambansang_Daambakal_ng_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 244,
+  "columns": [
+    {
+      "key": "estasyon",
+      "label": "Estasyon",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "lokasyon_barangay",
+      "label": "Lokasyon Barangay",
+      "type": "string"
+    },
+    {
+      "key": "linya",
+      "label": "Linya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "estasyon": "Sudipen",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Sudipen (ang linyang ito ay idinugtong noong pananakop ng mga Hapones)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Quirino",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Quirino, Bacnotan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Maragayap",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Maragayap, Bacnotan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Santa Cruz",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Santa Cruz, Bacnotan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Bulala",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Bulala, Bacnotan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Bacnotan",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Bacnotan (dulo mula noong 1955)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Baroro",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Baroro, Bacnotan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Taboc",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "San Juan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "San Juan",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "San Juan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Bato",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Bato, San Juan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Mameltac",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Saoay, San Fernando",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Biday",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Biday, San Fernando",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "San Fernando (San Fernando U)",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "San Fernando",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Sevilla",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Sevilla, San Fernando",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Romas",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Paringao, Bauang (binuksan noong 1931)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Bauang",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Bauang",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Calumbaya (Bauang Sur)",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Calumbaya, Bauang",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Santiago",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Santiago, Bauang",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Urayong",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Urayong, Bauang",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Caba (Cava)",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Caba",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Aringay",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Aringay [Dulo para sa Linyang Aringay-Baguio]",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "South Aringay",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Aringay (Pansmantalang estasyon noong pagtatayo ng Tulay ng Aringay)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Paraton",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. San Eugenio, Aringay",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Agoo",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Agoo",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Santo Tomas (Santo Tomas U)",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Santo Tomas",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Cupang",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Cupang, Santo Tomas",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Old Damortis",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Damortis, Rosario (Unang Estasyong Damortis)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Damortis",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Damortis, Rosario [dulo para sa serbisyong sasakyan/bus shuttle papuntang Baguio gamit ang Daang Kennon ]",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Bani",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Bani, Rosario (binuksan noong 1926)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Rabon",
+      "lalawigan": "La Union",
+      "lokasyon_barangay": "Brgy. Rabon, Rosario",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Alacan",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Brgy. Alacan, San Fabian",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Sapdaan",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Brgy. Sapdaan, San Fabian (Sapdaan)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "San Fabian",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "San Fabian [Dulo para sa linyang sangay ng San Fabian-Camp One/San Fabian-Binday]",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Patalan",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Brgy. Patalan, San Fabian",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Mangaldan",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Mangaldan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Maasin",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Brgy. Maasin, Mangaldan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Dagupan",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Brgy. Mayombo, Dagupan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Calasiao",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Calasiao (mga guho)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Buenlag",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Brgy. Buenlag, Calasiao",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "San Carlos",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "San Carlos",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Malasiqui",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Malasiqui",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Polong",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Brgy. Polong, Malasiqui (flag stop, binuksan noong 1939)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Don Pedro",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Brgy. Don Pedro, Malasiqui",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Quesada",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Brgy. Nalsian Norte, Malasiqui (isa na ngayong basketball court)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Bayambang (Bayambang Pasajeros)",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Bayambang",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Bautista (Bayambang Mercancias)",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Bautista (Una bilang Bayambang Freight sa pagitan ng 1892 at 1900).",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Poponto",
+      "lalawigan": "Pangasinan",
+      "lokasyon_barangay": "Brgy. Poponto, Bautista",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Moncada",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Moncada (mga guho)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "San Julian",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Brgy. San Julian, Moncada (binuksan noong 1926)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Paniqui",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Paniqui",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Gerona",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Gerona (mga guho)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Parsolingan",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Brgy. Parsolingan, Gerona (binuksan noong 1929)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Amacalan",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Brgy. Amacalan, Gerona",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Dalayap",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Brgy. Dalayap, Lungsod ng Tarlac",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Lungsod ng Tarlac",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Lungsod ng Tarlac",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "San Miguel",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Brgy San Miguel, Lungsod ng Tarlac (binuksan noong 1929)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Murcia (San Agustin)",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Concepcion",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "New Clark City (ipinanukala)",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Capas",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Capas",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Capas (Museo para sa Martsa ng Kamatayan)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Bamban (Bambang)",
+      "lalawigan": "Tarlac",
+      "lokasyon_barangay": "Bamban (mga guho)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Mabalacat",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Mabalacat",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Dau",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Brgy. Dau, Mabalacat",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Paliparang Pandaigdig ng Clark (ipinapanukala)",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Paliparang Pandaigdig ng Clark, Clark Special Economic Zone, Angeles",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Clark (ipinapanukala)",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Clark Special Economic Zone, Angeles",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Balibago",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Brgy. Balibago, Angeles (Pangunahing tarangkahan - Clark Special Economic Zone)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Angeles (Culiat)",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Angeles (ipinanumbalik)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Tablante",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Brgy. Baliti, San Fernando (binuksan noong 1924)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Calulut",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Brgy. Calulut, San Fernando (flag stop)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "San Fernando",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "San Fernando (ipinanumbalik)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Santo Tomas",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Santo Tomas (mga guho)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Macaluc",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Brgy. Lourdes, Minalin (flag stop)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Apalit",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Apalit",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Sulipan",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Brgy. Sulipan, Apalit",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Calumpit Norte",
+      "lalawigan": "Pampanga",
+      "lokasyon_barangay": "Brgy. Sulipan (pansamantalang estasyon noong itinatayo pa ang Tulay ng Daambakal ng Ilog Pampanga, tinanggal noong 1894 pagkaraang natapos ang pagtatayo ng tulay)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Calumpit",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "Calumpit (unang isinara, ngunit nananatiling estasyong hintuan)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Bagbag",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "Calumpit (binuksan bilang isang pansamantalang estasyon noong 1891)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Malolos",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "malapit sa Kapitolyong Panlalawigan ng Bulacan, Malolos (kasalukuyang ginagamit bilang tanggapan ng PNR)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Dakila",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "Brgy. Dakila, Malolos",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Santa Isabel",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "Brgy. Santa Isabel, Malolos",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Tabang",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "Brgy, Tabang, Guiguinto",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Guiguinto",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "Guiguinto (mga guho)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Bocaue (Bocaue)",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "Bocaue (mga guho)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Marilao",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "Marilao (giniba)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "ITM",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "Imperial Textile Mills, Marilao (wala na)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Meycauayan",
+      "lalawigan": "Bulacan",
+      "lokasyon_barangay": "Meycauayan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Valenzuela (Polo)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "malapit sa Gen. T. de Leon Street, Barangay General T. de Leon, Valenzuela",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Governor Pascual (Acacia/Malabon)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Abenida Gov. Pascual, Brgy. Acacia, Malabon",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Caloocan (Caloocan-Sangandaan/Kalookan)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Sangandaan, Caloocan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Caloocan",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "(Kalookan) - Brgy. 73 Zone 7, Caloocan (wala na)",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "10th Avenue (Asistio Avenue)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Grace Park, Caloocan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "5th Avenue (C-3)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Grace Park, Caloocan",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Solis",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Tondo, Maynila",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Tutuban",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Tondo, Maynila",
+      "linya": "Hilagang Linya (Northrail)"
+    },
+    {
+      "estasyon": "Tayuman",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Tayuman Street, Tondo, Maynila (pansamantala)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Tutuban (Maynila/Tondo)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Tondo, Maynila",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Blumentritt (San Lazaro/Santa Cruz)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Sampaloc, Maynila",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Laon Laan (Dapitan)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Sampaloc, Maynila",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "España",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Sampaloc, Maynila",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Legarda",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Sampaloc, Maynila [flag stop] (wala na, pinalitan ng España)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Sampaloc",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Sampaloc, Maynila (wala na, pinalitan ng España)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Santa Mesa",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Santa Mesa, Maynila (sa tabi ng Politeknikong Unibersidad ng Pilipinas)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pandacan (Beata)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Pandacan, Maynila",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Paco",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Paco, Maynila",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "San Andres",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "San Andres, Maynila",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Vito Cruz",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "San Andres, Maynila",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Dela Rosa",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Dela Rosa Street Pio del Pilar, Makati",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Buendia",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Brgy. Pio del Pilar, Makati (isinara, pinalitan ng Dela Rosa)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pasay Road (Culi-culi/Pio del Pilar)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Brgy. Pio del Pilar, Makati",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "EDSA",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Magallanes Village, Makati",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Nichols (Bonifacio-Villamor)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Brgy. Western Bicutan, Taguig",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Balagbag",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Balagbag, Pasay (wala na, pinalitan ng FTI)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "FTI",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "(Food Terminal Junction/Arca South) Brgy. Western Bicutan, Taguig",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Philippine-American Embroidery (Gelmart)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Brgy. San Martin de Porres, Parañaque (wala na, pinalitan ng Bicutan)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Bicutan",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Brgy. San Martin de Porres, Parañaque",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Bagumbayan",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Brgy. Bagumbayan, Taguig (dating flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Batisan",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Brgy. Bagumbayan, Taguig (dating flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Sucat",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Sucat, Muntinlupa",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Buli (Cupang)",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Brgy. Cupang, Muntinlupa (wala na)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Alabang",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Alabang, Muntinlupa (dulo para sa linyang komyuter ng PNR)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Muntinlupa",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Poblacion, Muntinlupa",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Tunasan",
+      "lalawigan": "N.C.R",
+      "lokasyon_barangay": "Tunasan, Muntinlupa [flag stop] (wala na)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "San Pedro (San Pedro Tunasan)",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "San Vicente, San Pedro (Dulo ng linyang sangay ng San Pedro-Carmona)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pacita MG",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Hugnayang Pacita, San Pedro",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Golden City 1",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Subdibisyong Golden City, Biñan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Biñan (Biñang)",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Biñan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Santa Rosa",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. Labas, City Proper, Lungsod ng Santa Rosa",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Golden City 2",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Subdibisyong Golden City, Santa Rosa",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Cabuyao",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "malapit sa Plantang Paggawaan ng Asia Brewery, Inc., Cabuyao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Mamatid",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. Mamatid, Cabuyao (Dulo para sa linyang Mamatid-Canlubang)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Banlic",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. Banlic, Cabuyao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Calamba",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. 1, Calamba (Dulo para sa linyang sangay ng Calamba-Batangas)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Bucal",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. Bucal, Calamba (tinanggal noong 1916)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pansol",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. Pansol, Calamba",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Masile",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. Masile, Calamba (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Los Baños",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. Bambang, Los Baños",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "UP Los Baños (Junction/College)",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Unibersidad ng Pilipinas, Brgy. Batong Malake, Los Baños (Dulo para sa linyang sangay ng UP Los Baños-Sta. Cruz)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Masaya",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. Masaya, Bay",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "San Crispin",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. San Crispin, San Pablo (mga guho)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "San Pablo",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "San Pablo",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "McCord",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. San Miguel, San Pablo (wala na)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Santa Ana",
+      "lalawigan": "Laguna",
+      "lokasyon_barangay": "Brgy. Santa Ana, San Pablo (wala na)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Tiaong (Tiaon)",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Tiaong",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Lusacan",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy Lusacan, Tiaong",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Candelaria",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Candelaria",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Concepcion",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Concepcion, Sariaya (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Lutucan",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Barangay Lutucan, Sariaya",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Morong",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Morong, Sariaya",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Lucena",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "South City Proper, Lucena",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Mayao",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Mayao, Lucena (dating flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Castillo",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Castillo, Pagbilao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pagbilao",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Pagbilao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pinagbayanan",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Pinagbayanan, Pagbilao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Palsabangon",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Ibabang Palsabangon, Pagbilao (flagstop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Binahaan",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Binahaan, Pagbilao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Malicboy",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Malicboy, Pagbilao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Guintong",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Guinto, Pagbilao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Sipa",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Sipa, Pagbilao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Hinguiwin",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Hinguiwin, Padre Burgos",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Padre Burgos (Laguimanoc)",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Padre Burgos",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Marao",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Marao, Padre Burgos",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pinaninding",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Danlagan, Padre Burgos",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "San Isidro (Yawe)",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. San Isidro, Padre Burgos",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Walay",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Walay, Padre Burgos",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Cabuyao",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Cabuyao Sur, Padre Burgos (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Agdangan",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Agdangan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Panaon",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Panaon, Unisan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Poctol",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Poctol, Unisan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Atimonan (Summit)",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Inalig, Atimonan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Plaridel (Siain)",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Plaridel",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Inaclagan",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Inaclagan, Gumaca",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Villa Bota",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Villa Bota, Gumaca",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Gumaca",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Gumaca",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Panikihan",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Panikihan, Gumaca",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Bamban",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Bamban, Gumaca",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Hagakhakin",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Hagakhakin, Gumaca",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "San Vicente",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. San Vicente, Gumaca",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pansol",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Pansol, Lopez (dating flag stop, binuksan noong 1923)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Lopez",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Lopez",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Santa Lucia",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Santa Lucia, Lopez",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Hondagua",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Hondagua, Lopez",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Calauag",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Santa Maria, Calauag",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Sumulong",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Sumulong, Calauag",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Santo Domingo",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Santo Domingo, Calauag",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Danlagan",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Danlagan Reserva, Guinayangan (nawasak noong 1945)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Aloneros",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Aloneros, Guinayangan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Cabugwang",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Cabugwang, Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Manato",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Manato station, Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "New Aloneros",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Manato station, Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Mangayao",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Mangayao, Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Katimo",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Katimo, Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Buyabod",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Buyabod, Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Kinatakutan",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Kinatakutan, Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Laurel",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Laurel, Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Aliji",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Aliji, Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Morato",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Brgy. Morato, Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Tagkawayan",
+      "lalawigan": "Quezon",
+      "lokasyon_barangay": "Tagkawayan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pasay (Pasay C.S.)",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Pasay, Del Gallego",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Del Gallego",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Del Gallego",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "San Juan",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. San Juan, Del Gallego",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Sinuknipan",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Sinuknipan, Del Gallego",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Catabangan (Godofredo Reyes Sr.)",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Godofredo Reyes Sr. (Tagpuang Catabangan), Ragay",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Port Junction",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Port Junction, Ragay",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Fort Simeon (Pugod)",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Fort Simeon, Ragay",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Liboro",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Liboro, Ragay",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Ragay",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Ragay",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Banga Caves",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Banga Caves, Ragay",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Del Rosario",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Colacling (Del Rosario), Lupi (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Lupi Viejo",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Lupi (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Lupi Nuevo",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Tapi, Lupi",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Manangle",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Manangle, Sipocot",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Sipocot",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Sipocot",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Awayan",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Awayan, Sipocot (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Mantalisay",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Mantalisay, Libmanan (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Camambugan",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Camambugan, Libmanan (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Libmanan",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Libmanan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Rongos",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Rongos, Libmanan [flag stop]",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Malansad",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Malansad, Libmanan [flag stop]",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Mambulo",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Mambulo Viejo, Libmanan (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pamplona",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Pamplona",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Burabod",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Burabod, Pamplona (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Sampaloc",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Sampaloc, Gainza (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Naga",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Triangulo, Naga",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "San Antonio (San Antonio C.S.)",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. San Antonio, Milaor",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Maycatmon",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Maycatmon, Milaor",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "San Jose",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. San Jose, Pili",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Pili",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Pili",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Bula",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Bula",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Agdangan",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Agdangan, Baao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Baao",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Baao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Iriga",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Iriga",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Lourdes Old",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Brgy. Lourdes Old, Nabua (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Bato",
+      "lalawigan": "Camarines Sur",
+      "lokasyon_barangay": "Bato",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Matacon",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Brgy. Matacon, Polangui (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Santicon",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Brgy. Santicon, Polangui",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Apad",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Brgy. Apad, Polangui",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Polangui",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Polangui",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Oas",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Oas (flag stop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Ligao",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Ligao",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Guinobatan",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Brgy. Masarawag, Guinobatan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Travesia",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Brgy. Travesia, Guinobatan",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Camalig",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Camalig [Inabandona dahil sa isang linyang panlihis na itinayo ng PNR upang maibsan ang orihinal na bahaging naapektuhan ng kumukulong putik o lava sa pagitan ng Camalig at Daraga]",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Daraga",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Brgy. Sagpon, Daraga",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Washington Drive",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Brgy. 16 Kawit-East Washington Drive, Legazpi (flagstop)",
+      "linya": "Timog Linya (Southrail)"
+    },
+    {
+      "estasyon": "Legazpi (Legaspi)",
+      "lalawigan": "Albay",
+      "lokasyon_barangay": "Legazpi (Dulo para sa linyang Legazpi-Tabaco)",
+      "linya": "Timog Linya (Southrail)"
+    }
+  ],
+  "meta": {
+    "title": "Mga Estasyon ng Pambansang Daambakal ng Pilipinas (PNR) - Free Download",
+    "description": "Talaan ng mga estasyon (kasalukuyan at dating) ng Philippine National Railways sa Hilaga at Timog na linya, ayon sa lalawigan. Contains 244 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Estasyon ng Pambansang Daambakal ng Pilipinas (PNR) | ListBase",
+    "seo_description": "Download Mga Estasyon ng Pambansang Daambakal ng Pilipinas (PNR) — 244 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 244 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_estasyon_ng_Pambansang_Daambakal_ng_Pilipinas"
+    ]
+  }
+}

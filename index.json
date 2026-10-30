@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-30T02:13:08.111Z",
-  "total_datasets": 467,
-  "total_records": 444855,
+  "generated": "2026-10-30T02:13:18.980Z",
+  "total_datasets": 468,
+  "total_records": 445099,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 26
+      "dataset_count": 27
     }
   ],
   "datasets": [
@@ -14337,6 +14337,31 @@
         "xlsx": {
           "name": "tl-ilocos-paliparan_TL.xlsx",
           "size": 7285
+        }
+      }
+    },
+    {
+      "id": "tl-mga-estasyon-ng-pnr",
+      "name": "Mga Estasyon ng Pambansang Daambakal ng Pilipinas (PNR)",
+      "category": "transport",
+      "record_count": 244,
+      "columns": [
+        "estasyon",
+        "lalawigan",
+        "lokasyon_barangay",
+        "linya"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_estasyon_ng_Pambansang_Daambakal_ng_Pilipinas",
+      "updated": "2026-10",
+      "size": 45586,
+      "files": {
+        "csv": {
+          "name": "tl-mga-estasyon-ng-pnr_TL.csv",
+          "size": 20647
+        },
+        "xlsx": {
+          "name": "tl-mga-estasyon-ng-pnr_TL.xlsx",
+          "size": 15389
         }
       }
     },
