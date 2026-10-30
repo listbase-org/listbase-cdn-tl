@@ -1,0 +1,224 @@
+{
+  "id": "tl-mga-mabilisang-daanan",
+  "name": "Mga Mabilisang Daanan (Expressway) sa Pilipinas",
+  "title": "Mga Mabilisang Daanan (Expressway) sa Pilipinas",
+  "description": "Talaan ng mga expressway sa Pilipinas na gumagana at itinatayo, kasama ang haba, paglalarawan at tagapamahala.",
+  "category": "transport",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_mabilisang_daanan_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_mabilisang_daanan_sa_Pilipinas",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "kalagayan",
+      "label": "Kalagayan",
+      "type": "string"
+    },
+    {
+      "key": "haba",
+      "label": "Haba",
+      "type": "string"
+    },
+    {
+      "key": "paglalarawan",
+      "label": "Paglalarawan",
+      "type": "string"
+    },
+    {
+      "key": "tagapamahala",
+      "label": "Tagapamahala",
+      "type": "string"
+    },
+    {
+      "key": "mayhawak",
+      "label": "Mayhawak",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "Manila–Cavite Expressway (Coastal Road/CAVITEX)",
+      "kalagayan": "Gumagana",
+      "haba": "14 km",
+      "paglalarawan": "Nag-uugnay ng Parañaque, Las Piñas, at lalawigan ng Kabite.",
+      "tagapamahala": "Cavite Infrastructure Corporation. °",
+      "mayhawak": "Cavite Infrastructure Corporation. °"
+    },
+    {
+      "pangalan": "Metro Manila Skyway (MMSWS/Skyway)",
+      "kalagayan": "Gumagana",
+      "haba": "31.2 km",
+      "paglalarawan": "Nakaangat na mabilisang daanan sa ibabaw ng South Luzon Expressway at nag-uugnay ng nasabing mabilisang daanan sa North Luzon Expressway.",
+      "tagapamahala": "Skyway Operations and Maintenance Corporation (SOMCo.). ♯",
+      "mayhawak": "Citra Metro Manila Tollways Corporation ♯"
+    },
+    {
+      "pangalan": "Muntinlupa–Cavite Expressway (MCX)",
+      "kalagayan": "Gumagana",
+      "haba": "4.0 km",
+      "paglalarawan": "Nag-uugnay ng Bacoor at Muntinlupa.",
+      "tagapamahala": "Ayala Corporation.",
+      "mayhawak": "Ayala Corporation."
+    },
+    {
+      "pangalan": "NAIA Expressway (NAIAX)",
+      "kalagayan": "Gumagana",
+      "haba": "11.6 km",
+      "paglalarawan": "Nakaangat na mabilisang daanan sa ibabaw ng Abenida Andrews.",
+      "tagapamahala": "Vertex Tollways Development, Inc. ♯",
+      "mayhawak": "Vertex Tollways Development, Inc. ♯"
+    },
+    {
+      "pangalan": "North Luzon Expressway (NLEX)",
+      "kalagayan": "Gumagana",
+      "haba": "84 km",
+      "paglalarawan": "Nag-uugnay ng Balintawak, Lungsod Quezon sa mga lungsod ng Caloocan, Valenzuela, at mga lalawigan ng Bulacan at Pampanga.",
+      "tagapamahala": "Tollways Management Corporation. °",
+      "mayhawak": "Manila North Tollways Corporation. °"
+    },
+    {
+      "pangalan": "NLEX-Mindanao Avenue Link (NLEX Segment 8.1)",
+      "kalagayan": "Gumagana",
+      "haba": "2.7 km",
+      "paglalarawan": "Maiksing mabilisang daanan na naguugnay ng NLEX sa C-5 (sa pamamagitan ng Abenida Mindanao sa Lungsod Quezon)",
+      "tagapamahala": "Tollways Management Corporation. °",
+      "mayhawak": "Manila North Tollways Corporation. °"
+    },
+    {
+      "pangalan": "NLEX-Karuhatan Link (NLEX Segment 9)",
+      "kalagayan": "Gumagana",
+      "haba": "2.42 km",
+      "paglalarawan": "Maiksing mabilisang daanan na naguugnay ng NLEX sa Lansangang MacArthur sa Valenzuela.",
+      "tagapamahala": "Tollways Management Corporation. °",
+      "mayhawak": "Manila North Tollways Corporation. °"
+    },
+    {
+      "pangalan": "South Luzon Expressway (SLEX)",
+      "kalagayan": "Gumagana",
+      "haba": "51 km",
+      "paglalarawan": "Nag-uugnay ng lungsod ng Maynila sa Makati, Pasay, Taguig, Muntinlupa, at mga lalawigan ng Laguna, Kabite, at Batangas",
+      "tagapamahala": "Manila Toll Expressway Systems (Alabang-Santo Tomas) ♯",
+      "mayhawak": "South Luzon Tollway Corporation (Alabang-Santo Tomas) ♯"
+    },
+    {
+      "pangalan": "Southern Tagalog Arterial Road (STAR Tollway)",
+      "kalagayan": "Gumagana",
+      "haba": "42 km",
+      "paglalarawan": "Karugtong ng SLEX sa lalawigan ng Batangas",
+      "tagapamahala": "STAR Tollway Corporation ♯",
+      "mayhawak": "STAR Infrastructure Development Corporation ♯"
+    },
+    {
+      "pangalan": "Subic–Clark–Tarlac Expressway (SCTEX)",
+      "kalagayan": "Gumagana",
+      "haba": "93.8 km",
+      "paglalarawan": "Nag-uugnay ng Hermosa, Bataan sa Lungsod ng Tarlac",
+      "tagapamahala": "Tollways Management Corporation. °",
+      "mayhawak": "Manila North Tollways Corporation. °"
+    },
+    {
+      "pangalan": "Subic Freeport Expressway (NLEx Segment 7/SFEX)",
+      "kalagayan": "Gumagana",
+      "haba": "8.8 km",
+      "paglalarawan": "Nag-uugnay ng SCTEX sa Olongapo at Subic Bay Freeport Zone",
+      "tagapamahala": "Tollways Management Corporation. °",
+      "mayhawak": "Manila North Tollways Corporation. °"
+    },
+    {
+      "pangalan": "Tarlac–Pangasinan–La Union Expressway (TPLEX)",
+      "kalagayan": "Gumagana (Tarlac-Binalonan) Itinatayo (Binalonan-Rosario; inaasahang matatapos ang huling bahagi Hunyo 2019)",
+      "haba": "88.85 km",
+      "paglalarawan": "Nag-uugnay ng Lungsod ng Tarlac sa Rosario, La Union",
+      "tagapamahala": "Private Infra Dev Corporation ♯",
+      "mayhawak": "Private Infra Dev Corporation ♯"
+    },
+    {
+      "pangalan": "C-6 Expressway",
+      "kalagayan": "Gumagana (Taguig lamang) Itinatayo (Bulacan Cavite Rizal)",
+      "haba": "",
+      "paglalarawan": "Mabilisang daanan sa hinaharap na mag-uugnay ng Bulacan sa Rizal, mga lungsod ng Pasig at Taguig, at Kabite",
+      "tagapamahala": "",
+      "mayhawak": ""
+    },
+    {
+      "pangalan": "CAVITEX–C-5 Link Expressway",
+      "kalagayan": "Itinatayo",
+      "haba": "",
+      "paglalarawan": "Ang mabilisang daanang magpupuno sa puwang ng Daang C-5 mula SLEX hanggang CAVITEx.",
+      "tagapamahala": "",
+      "mayhawak": ""
+    },
+    {
+      "pangalan": "Cavite–Laguna Expressway (CALAx)",
+      "kalagayan": "Itinatayo",
+      "haba": "",
+      "paglalarawan": "Mabilisang daanan na mag-uugnay ng mga lalawigan ng Kabite at Laguna at gayundin ng CAVITEX sa SLEX.",
+      "tagapamahala": "",
+      "mayhawak": ""
+    },
+    {
+      "pangalan": "Cebu–Cordova Link Expressway (CCLEx)",
+      "kalagayan": "Itinatayo",
+      "haba": "",
+      "paglalarawan": "Unang mabilisang daanan sa Pilipinas na matatagpuan sa labas ng Luzon; mabilisang daanan sa hinaharap na mag-uugnay ng Lungsod ng Cebu at Cordova; ikatlong tulay na mag-uugnay ng Pulo ng Cebu sa Pulo ng Mactan.",
+      "tagapamahala": "",
+      "mayhawak": ""
+    },
+    {
+      "pangalan": "Central Luzon Link Expressway (CLLEx)",
+      "kalagayan": "Itinatayo",
+      "haba": "",
+      "paglalarawan": "Mabilisang daanan sa hinaharap na mag-uugnay ng Nueva Ecija sa Tarlac",
+      "tagapamahala": "",
+      "mayhawak": ""
+    },
+    {
+      "pangalan": "North Luzon East Expressway (NLEE)",
+      "kalagayan": "Itinatayo",
+      "haba": "",
+      "paglalarawan": "Mabilisang daanan sa hinaharap na mag-uugnay ng Lungsod Quezon sa Bulacan at Nueva Ecija",
+      "tagapamahala": "",
+      "mayhawak": ""
+    },
+    {
+      "pangalan": "North Luzon Expressway Segment 10 (Harbor Link Expressway)",
+      "kalagayan": "Itinatayo",
+      "haba": "",
+      "paglalarawan": "Ugnayan ng NLEx-Karuhatan Link (NLEx Segment 9) sa Daang C-3 at karugtong sa Daang Radyal Blg. 10",
+      "tagapamahala": "",
+      "mayhawak": ""
+    },
+    {
+      "pangalan": "North Luzon Expressway Segment 10.2 (NLEX-SLEX Connector Road)",
+      "kalagayan": "Itinatayo",
+      "haba": "",
+      "paglalarawan": "Segment 10.2 ng North Luzon Expressway Phase 2 na mag-uugnay ng NLEX sa SLEX",
+      "tagapamahala": "",
+      "mayhawak": ""
+    },
+    {
+      "pangalan": "Southeast Metro Manila Expressway (SEMME)",
+      "kalagayan": "Itinatayo",
+      "haba": "",
+      "paglalarawan": "",
+      "tagapamahala": "",
+      "mayhawak": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Mabilisang Daanan (Expressway) sa Pilipinas - Free Download",
+    "description": "Talaan ng mga expressway sa Pilipinas na gumagana at itinatayo, kasama ang haba, paglalarawan at tagapamahala. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Mabilisang Daanan (Expressway) sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Mabilisang Daanan (Expressway) sa Pilipinas — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_mabilisang_daanan_sa_Pilipinas"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-30T02:13:33.569Z",
-  "total_datasets": 470,
-  "total_records": 445286,
+  "generated": "2026-10-30T02:13:46.333Z",
+  "total_datasets": 471,
+  "total_records": 445307,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 27
+      "dataset_count": 28
     }
   ],
   "datasets": [
@@ -14416,6 +14416,33 @@
         "xlsx": {
           "name": "tl-mga-estasyon-ng-pnr_TL.xlsx",
           "size": 15389
+        }
+      }
+    },
+    {
+      "id": "tl-mga-mabilisang-daanan",
+      "name": "Mga Mabilisang Daanan (Expressway) sa Pilipinas",
+      "category": "transport",
+      "record_count": 21,
+      "columns": [
+        "pangalan",
+        "kalagayan",
+        "haba",
+        "paglalarawan",
+        "tagapamahala",
+        "mayhawak"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_mabilisang_daanan_sa_Pilipinas",
+      "updated": "2026-10",
+      "size": 8861,
+      "files": {
+        "csv": {
+          "name": "tl-mga-mabilisang-daanan_TL.csv",
+          "size": 4318
+        },
+        "xlsx": {
+          "name": "tl-mga-mabilisang-daanan_TL.xlsx",
+          "size": 8639
         }
       }
     },
