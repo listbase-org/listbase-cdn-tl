@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-10-30T02:13:46.333Z",
-  "total_datasets": 471,
-  "total_records": 445307,
+  "generated": "2026-11-02T02:13:49.624Z",
+  "total_datasets": 472,
+  "total_records": 445351,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -13499,6 +13499,29 @@
         "xlsx": {
           "name": "tl-lindol-katalog_TL.xlsx",
           "size": 4110150
+        }
+      }
+    },
+    {
+      "id": "tl-mga-palya-sa-pilipinas",
+      "name": "Mga Palya (Fault) sa Pilipinas",
+      "category": "science",
+      "record_count": 44,
+      "columns": [
+        "palya",
+        "lokasyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_palya_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 4850,
+      "files": {
+        "csv": {
+          "name": "tl-mga-palya-sa-pilipinas_TL.csv",
+          "size": 1410
+        },
+        "xlsx": {
+          "name": "tl-mga-palya-sa-pilipinas_TL.xlsx",
+          "size": 7787
         }
       }
     },

@@ -1,0 +1,212 @@
+{
+  "id": "tl-mga-palya-sa-pilipinas",
+  "name": "Mga Palya (Fault) sa Pilipinas",
+  "title": "Mga Palya (Fault) sa Pilipinas",
+  "description": "Talaan ng mga kilalang palya o fault line sa Pilipinas mula Luzon hanggang Mindanao, kasama ang lokasyon kung nakasaad.",
+  "category": "science",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_palya_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_palya_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "palya",
+      "label": "Palya",
+      "type": "string"
+    },
+    {
+      "key": "lokasyon",
+      "label": "Lokasyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "palya": "Bangui Fault",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "palya": "Tubao Fault",
+      "lokasyon": "La Unuion"
+    },
+    {
+      "palya": "West Ilocos Fault",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "palya": "Abra Fault",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Philippine Fault Zone",
+      "lokasyon": "Digdig segment"
+    },
+    {
+      "palya": "Divalacan Fault",
+      "lokasyon": "Isabela"
+    },
+    {
+      "palya": "Dummon River",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "palya": "Casiguran Fault",
+      "lokasyon": "Aurora"
+    },
+    {
+      "palya": "Digdig Fault",
+      "lokasyon": "Aurora"
+    },
+    {
+      "palya": "East Zambales Fault",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Iba Fault",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Marikina Valley Fault System",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Marikina \"West\" Valley Fault",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Guinayangan Fault",
+      "lokasyon": "Quezon"
+    },
+    {
+      "palya": "Infanta Fault",
+      "lokasyon": "Quezon"
+    },
+    {
+      "palya": "Marikina \"East\" Valley Fault",
+      "lokasyon": "Rizal"
+    },
+    {
+      "palya": "Marikina \"West\" Valley Fault",
+      "lokasyon": "Cavite, Laguna; Calamba"
+    },
+    {
+      "palya": "Sistema ng mga Palya ng Batangas",
+      "lokasyon": "Batangas"
+    },
+    {
+      "palya": "Central Marinduque Fault",
+      "lokasyon": "Boac"
+    },
+    {
+      "palya": "Central Mindoro Fault",
+      "lokasyon": "Pinamalayan, Bansud"
+    },
+    {
+      "palya": "Aglubang Mindoro Fault",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Souhtern Mindoro Fault",
+      "lokasyon": "Bongabong"
+    },
+    {
+      "palya": "Tablas Fault",
+      "lokasyon": "Romblon"
+    },
+    {
+      "palya": "Lake Bato",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "palya": "Pasacao Linement",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "palya": "PFZ Masbate Fault",
+      "lokasyon": ""
+    },
+    {
+      "palya": "West Panay Fault",
+      "lokasyon": "Aklan, Capiz, Iloilo"
+    },
+    {
+      "palya": "Cebu Linement",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Sistema ng mga Palya ng Bohol",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Northern Samar Linement",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Southern Samar Linement",
+      "lokasyon": ""
+    },
+    {
+      "palya": "PFZ Leyte Fault",
+      "lokasyon": ""
+    },
+    {
+      "palya": "West Mindanao Extension",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Zamboanga Fault System",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Cabanglasan Fault",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "palya": "Tagoloan River Fault",
+      "lokasyon": "Cagayan de Oro"
+    },
+    {
+      "palya": "Central Mindanao Fault",
+      "lokasyon": "Bukidnon"
+    },
+    {
+      "palya": "Davao River Fault",
+      "lokasyon": "Davao City"
+    },
+    {
+      "palya": "PFZ Mati Fault",
+      "lokasyon": "Davao Oriental"
+    },
+    {
+      "palya": "Tangbulan Fault",
+      "lokasyon": "Davao Occidental"
+    },
+    {
+      "palya": "Mindanao Fault (MF) Daguma extension",
+      "lokasyon": ""
+    },
+    {
+      "palya": "PFZ Eastern Mindanao Fault",
+      "lokasyon": ""
+    },
+    {
+      "palya": "PFZ Lianga Fault",
+      "lokasyon": ""
+    },
+    {
+      "palya": "Lanao Fault System",
+      "lokasyon": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Palya (Fault) sa Pilipinas - Free Download",
+    "description": "Talaan ng mga kilalang palya o fault line sa Pilipinas mula Luzon hanggang Mindanao, kasama ang lokasyon kung nakasaad. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Palya (Fault) sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Palya (Fault) sa Pilipinas — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_palya_sa_Pilipinas"
+    ]
+  }
+}
