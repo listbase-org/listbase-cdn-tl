@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-02T02:14:22.090Z",
-  "total_datasets": 476,
-  "total_records": 445585,
+  "generated": "2026-11-02T02:14:28.877Z",
+  "total_datasets": 477,
+  "total_records": 445603,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -1672,6 +1672,33 @@
         "xlsx": {
           "name": "tl-pambansang-utang_TL.xlsx",
           "size": 7604
+        }
+      }
+    },
+    {
+      "id": "tl-pinakamayamang-pilipino-2013",
+      "name": "Mga Pinakamayamang Tao sa Pilipinas (2013)",
+      "category": "economy",
+      "record_count": 18,
+      "columns": [
+        "ranggo_pilipinas",
+        "ranggo_daigdig",
+        "pangalan",
+        "yaman_usd",
+        "edad",
+        "pinagmulan_ng_yaman"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_pinakamayamang_tao_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 5660,
+      "files": {
+        "csv": {
+          "name": "tl-pinakamayamang-pilipino-2013_TL.csv",
+          "size": 1224
+        },
+        "xlsx": {
+          "name": "tl-pinakamayamang-pilipino-2013_TL.xlsx",
+          "size": 7773
         }
       }
     },

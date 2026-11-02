@@ -1,0 +1,200 @@
+{
+  "id": "tl-pinakamayamang-pilipino-2013",
+  "name": "Mga Pinakamayamang Tao sa Pilipinas (2013)",
+  "title": "Mga Pinakamayamang Tao sa Pilipinas (2013)",
+  "description": "Talaan ng mga pinakamayamang Pilipino noong 2013 ayon sa Forbes, kasama ang ranggo sa Pilipinas at daigdig, tinatayang yaman at pinagmulan ng kayamanan.",
+  "category": "economy",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_pinakamayamang_tao_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_pinakamayamang_tao_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "ranggo_pilipinas",
+      "label": "Ranggo Pilipinas",
+      "type": "number"
+    },
+    {
+      "key": "ranggo_daigdig",
+      "label": "Ranggo Daigdig",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "yaman_usd",
+      "label": "Yaman Usd",
+      "type": "string"
+    },
+    {
+      "key": "edad",
+      "label": "Edad",
+      "type": "number"
+    },
+    {
+      "key": "pinagmulan_ng_yaman",
+      "label": "Pinagmulan Ng Yaman",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ranggo_pilipinas": 1,
+      "ranggo_daigdig": 68,
+      "pangalan": "Henry Sy",
+      "yaman_usd": "$12.0 billion",
+      "edad": 89,
+      "pinagmulan_ng_yaman": "SM Prime Holdings"
+    },
+    {
+      "ranggo_pilipinas": 2,
+      "ranggo_daigdig": 248,
+      "pangalan": "Lucio Tan",
+      "yaman_usd": "$7.5 billion",
+      "edad": 79,
+      "pinagmulan_ng_yaman": "Philippine Airlines"
+    },
+    {
+      "ranggo_pilipinas": 3,
+      "ranggo_daigdig": "",
+      "pangalan": "Imelda Marcos",
+      "yaman_usd": "$5.0 billion",
+      "edad": 84,
+      "pinagmulan_ng_yaman": "Inheritance"
+    },
+    {
+      "ranggo_pilipinas": 4,
+      "ranggo_daigdig": 354,
+      "pangalan": "Andrew Tan",
+      "yaman_usd": "$4.6 billion",
+      "edad": 61,
+      "pinagmulan_ng_yaman": "Alliance Global Group"
+    },
+    {
+      "ranggo_pilipinas": 5,
+      "ranggo_daigdig": 254,
+      "pangalan": "Enrique Razon",
+      "yaman_usd": "$4.5 billion",
+      "edad": 53,
+      "pinagmulan_ng_yaman": "International Container Terminal Services"
+    },
+    {
+      "ranggo_pilipinas": 6,
+      "ranggo_daigdig": "",
+      "pangalan": "John Gokongwei",
+      "yaman_usd": "$3.4 billion",
+      "edad": 86,
+      "pinagmulan_ng_yaman": "JG Summit"
+    },
+    {
+      "ranggo_pilipinas": 7,
+      "ranggo_daigdig": 349,
+      "pangalan": "Jaime Zobel de Ayala",
+      "yaman_usd": "$3.4 billion",
+      "edad": 78,
+      "pinagmulan_ng_yaman": "Ayala Corporation"
+    },
+    {
+      "ranggo_pilipinas": 8,
+      "ranggo_daigdig": "",
+      "pangalan": "Jon Ramon Aboitiz",
+      "yaman_usd": "$3.0 billion",
+      "edad": "-",
+      "pinagmulan_ng_yaman": "Aboitiz Group"
+    },
+    {
+      "ranggo_pilipinas": 9,
+      "ranggo_daigdig": 503,
+      "pangalan": "David Consunji",
+      "yaman_usd": "$2.7 billion",
+      "edad": 92,
+      "pinagmulan_ng_yaman": "DMCI"
+    },
+    {
+      "ranggo_pilipinas": 10,
+      "ranggo_daigdig": 554,
+      "pangalan": "George Ty",
+      "yaman_usd": "$2.6 billion",
+      "edad": 81,
+      "pinagmulan_ng_yaman": "MetroBank"
+    },
+    {
+      "ranggo_pilipinas": 11,
+      "ranggo_daigdig": 736,
+      "pangalan": "Lucio Co",
+      "yaman_usd": "$1.9 billion",
+      "edad": 52,
+      "pinagmulan_ng_yaman": "Puregold"
+    },
+    {
+      "ranggo_pilipinas": 12,
+      "ranggo_daigdig": 1031,
+      "pangalan": "Tony Tan Caktiong",
+      "yaman_usd": "$1.7 billion",
+      "edad": 61,
+      "pinagmulan_ng_yaman": "Jollibee"
+    },
+    {
+      "ranggo_pilipinas": 13,
+      "ranggo_daigdig": 931,
+      "pangalan": "Robert Coyiuto, Jr.",
+      "yaman_usd": "$1.5 billion",
+      "edad": 61,
+      "pinagmulan_ng_yaman": "National Grid"
+    },
+    {
+      "ranggo_pilipinas": 14,
+      "ranggo_daigdig": "",
+      "pangalan": "Emilio Yap",
+      "yaman_usd": "$1.35 billion",
+      "edad": 88,
+      "pinagmulan_ng_yaman": "Philtrust Bank"
+    },
+    {
+      "ranggo_pilipinas": 15,
+      "ranggo_daigdig": "",
+      "pangalan": "Roberto Ongpin",
+      "yaman_usd": "$1.3 billion",
+      "edad": 77,
+      "pinagmulan_ng_yaman": "AIA Capital"
+    },
+    {
+      "ranggo_pilipinas": 16,
+      "ranggo_daigdig": "",
+      "pangalan": "Inigo Zobel",
+      "yaman_usd": "$1.2 billion",
+      "edad": 58,
+      "pinagmulan_ng_yaman": "Ayala Corporation"
+    },
+    {
+      "ranggo_pilipinas": 17,
+      "ranggo_daigdig": "",
+      "pangalan": "Manuel Villar",
+      "yaman_usd": "$1.05 billion",
+      "edad": 64,
+      "pinagmulan_ng_yaman": "Starmalls"
+    },
+    {
+      "ranggo_pilipinas": 18,
+      "ranggo_daigdig": 1175,
+      "pangalan": "Andrew Gotianum",
+      "yaman_usd": "$1.0 billion",
+      "edad": 86,
+      "pinagmulan_ng_yaman": "Filinvest Land, Inc."
+    }
+  ],
+  "meta": {
+    "title": "Mga Pinakamayamang Tao sa Pilipinas (2013) - Free Download",
+    "description": "Talaan ng mga pinakamayamang Pilipino noong 2013 ayon sa Forbes, kasama ang ranggo sa Pilipinas at daigdig, tinatayang yaman at pinagmulan ng kayamanan. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pinakamayamang Tao sa Pilipinas (2013) | ListBase",
+    "seo_description": "Download Mga Pinakamayamang Tao sa Pilipinas (2013) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_pinakamayamang_tao_sa_Pilipinas"
+    ]
+  }
+}
