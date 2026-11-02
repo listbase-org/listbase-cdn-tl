@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-02T02:14:13.518Z",
-  "total_datasets": 475,
-  "total_records": 445550,
+  "generated": "2026-11-02T02:14:22.090Z",
+  "total_datasets": 476,
+  "total_records": 445585,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 28
+      "dataset_count": 29
     }
   ],
   "datasets": [
@@ -14541,6 +14541,34 @@
         "xlsx": {
           "name": "tl-mga-mabilisang-daanan_TL.xlsx",
           "size": 8639
+        }
+      }
+    },
+    {
+      "id": "tl-mga-tulay-sa-pilipinas",
+      "name": "Mga Tulay sa Pilipinas",
+      "category": "transport",
+      "record_count": 35,
+      "columns": [
+        "tulay",
+        "tumatawid_sa",
+        "lungsod_o_bayan",
+        "rehiyon",
+        "pangkat_ng_pulo",
+        "haba_m",
+        "binuksan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_tulay_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 11060,
+      "files": {
+        "csv": {
+          "name": "tl-mga-tulay-sa-pilipinas_TL.csv",
+          "size": 3873
+        },
+        "xlsx": {
+          "name": "tl-mga-tulay-sa-pilipinas_TL.xlsx",
+          "size": 9014
         }
       }
     },

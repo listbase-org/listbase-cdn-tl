@@ -1,0 +1,376 @@
+{
+  "id": "tl-mga-tulay-sa-pilipinas",
+  "name": "Mga Tulay sa Pilipinas",
+  "title": "Mga Tulay sa Pilipinas",
+  "description": "Talaan ng mga pangunahing tulay sa Luzon, Kabisayaan at Mindanao kasama ang tinatawid, rehiyon, haba sa metro at taon ng pagbubukas.",
+  "category": "transport",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_tulay_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_tulay_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "tulay",
+      "label": "Tulay",
+      "type": "string"
+    },
+    {
+      "key": "tumatawid_sa",
+      "label": "Tumatawid Sa",
+      "type": "string"
+    },
+    {
+      "key": "lungsod_o_bayan",
+      "label": "Lungsod O Bayan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "pangkat_ng_pulo",
+      "label": "Pangkat Ng Pulo",
+      "type": "string"
+    },
+    {
+      "key": "haba_m",
+      "label": "Haba M",
+      "type": "number"
+    },
+    {
+      "key": "binuksan",
+      "label": "Binuksan",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tulay": "Tulay ng Agat (Bued)",
+      "tumatawid_sa": "Ilog Bued sa pagitan ng Sison at Rosario",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Ilocos",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 500,
+      "binuksan": "2010"
+    },
+    {
+      "tulay": "Tulay ng Aluling",
+      "tumatawid_sa": "Ilog Abra sa pagitan ng Cervantes at Tadian",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Ilocos at Rehiyong Pampangasiwaan ng Cordillera",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 180,
+      "binuksan": "2013"
+    },
+    {
+      "tulay": "Tulay ng Bamban",
+      "tumatawid_sa": "Ilog Sacobia sa pagitan ng Bamban at Mabalacat",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Gitnang Luzon",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 174,
+      "binuksan": "1998"
+    },
+    {
+      "tulay": "Tulay ng Buntun",
+      "tumatawid_sa": "Rio Grande de Cagayan sa pagitan ng Tuguegarao at Solana",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Lambak ng Cagayan",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 1369,
+      "binuksan": "1974"
+    },
+    {
+      "tulay": "Biyadukto ng Candaba",
+      "tumatawid_sa": "Ilog Pampanga sa pagitan ng Apalit at Pulilan",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Gitnang Luzon",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 5000,
+      "binuksan": "1976"
+    },
+    {
+      "tulay": "Tulay ng Gilbert",
+      "tumatawid_sa": "Ilog Padsan sa Laoag",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Ilocos",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 800,
+      "binuksan": "1914 (unang tulay) 1973 (kasalukuyang tulay)"
+    },
+    {
+      "tulay": "Tulay ng Jones",
+      "tumatawid_sa": "Rio Grande de Cagayan sa pagitan ng Jones at San Agustin",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Lambak ng Cagayan",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 350,
+      "binuksan": "2008"
+    },
+    {
+      "tulay": "Magapit Suspension Bridge",
+      "tumatawid_sa": "Rio Grande de Cagayan in Lal-lo",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Lambak ng Cagayan",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 449.14,
+      "binuksan": "1978"
+    },
+    {
+      "tulay": "Tulay ng Magat",
+      "tumatawid_sa": "Ilog Magat sa pagitan ng Cabatuan at Aurora",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Lambak ng Cagayan",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 926,
+      "binuksan": "1991"
+    },
+    {
+      "tulay": "Tulay ng Naguilian",
+      "tumatawid_sa": "Rio Grande de Cagayan sa Naguilian",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Lambak ng Cagayan",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 687.9,
+      "binuksan": "hindi tiyak"
+    },
+    {
+      "tulay": "Tulay ng Narciso Ramos",
+      "tumatawid_sa": "Ilog Agno sa pagitan ng Asingan at Santa Maria",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Ilocos",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 1442,
+      "binuksan": "1997"
+    },
+    {
+      "tulay": "Old Amburayan Bridge",
+      "tumatawid_sa": "Ilog Amburayan sa pagitan ng Tagudin at Sudipen",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Ilocos",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 535,
+      "binuksan": "2010"
+    },
+    {
+      "tulay": "Tulay ng Pantal",
+      "tumatawid_sa": "Ilog Pantal sa Dagupan",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Ilocos",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 380,
+      "binuksan": "2008"
+    },
+    {
+      "tulay": "Biyadukto ng Patapat",
+      "tumatawid_sa": "Bangin ng Patapat sa Pagudpud",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Ilocos",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 1300,
+      "binuksan": "1986"
+    },
+    {
+      "tulay": "Tulay ng Quirino",
+      "tumatawid_sa": "Ilog Abra sa pagitan ng Bantay at Santa",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Ilocos",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 456,
+      "binuksan": "hindi tiyak"
+    },
+    {
+      "tulay": "Tulay ng Sacobia",
+      "tumatawid_sa": "Ilog Sacobia sa Bamban",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Gitnang Luzon",
+      "pangkat_ng_pulo": "Luzon",
+      "haba_m": 894,
+      "binuksan": ""
+    },
+    {
+      "tulay": "Tulay ng Agas-Agas",
+      "tumatawid_sa": "Lambak ng Kahupian sa Sogod",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Silangang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": 350,
+      "binuksan": "2006"
+    },
+    {
+      "tulay": "Tulay ng Biliran",
+      "tumatawid_sa": "Kipot ng Biliran sa pagitan ng Biliran at Leyte",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Silangang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": 150,
+      "binuksan": "1975"
+    },
+    {
+      "tulay": "Tulay ng Look ng Cansaga",
+      "tumatawid_sa": "Look ng Cansaga sa pagitan ng Mandaue at Consolacion",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Gitnang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": 640.3,
+      "binuksan": "2010"
+    },
+    {
+      "tulay": "Tulay-bakal ng Guimbal",
+      "tumatawid_sa": "Ilog Guimbal sa Guimbal",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Kanlurang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": 350,
+      "binuksan": "1931"
+    },
+    {
+      "tulay": "Tulay ng Kalibo",
+      "tumatawid_sa": "Ilog Aklan sa Lezo at Kalibo, Aklan",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Kanlurang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": 770,
+      "binuksan": "2020"
+    },
+    {
+      "tulay": "Tulay ng Mactan–Mandaue",
+      "tumatawid_sa": "Bambang ng Mactan sa pagitan ng Lapu-Lapu at Mandaue",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Gitnang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": 864,
+      "binuksan": "1972"
+    },
+    {
+      "tulay": "Tulay ng Marcelo Fernan",
+      "tumatawid_sa": "Bambang ng Mactan sa pagitan ng Lapu-Lapu at Mandaue",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Gitnang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": 1237,
+      "binuksan": "1999"
+    },
+    {
+      "tulay": "Tulay ng Mawo",
+      "tumatawid_sa": "Ilog Mauo sa Victoria",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Silangang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": 280,
+      "binuksan": "dekada-1970"
+    },
+    {
+      "tulay": "Tulay ng Lungsod ng Roxas (dating Tulay ng Capiz)",
+      "tumatawid_sa": "Ilog Panay sa Roxas",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Kanlurang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": "-",
+      "binuksan": "1910"
+    },
+    {
+      "tulay": "Tulay ng San Juanico",
+      "tumatawid_sa": "Kipot ng San Juanico sa pagitan ng Tacloban at Santa Rita",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Silangang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": 2160,
+      "binuksan": "1973"
+    },
+    {
+      "tulay": "Tulay ng Wawa",
+      "tumatawid_sa": "Kipot ng Panaon sa Liloan",
+      "lungsod_o_bayan": "",
+      "rehiyon": "Silangang Kabisayaan",
+      "pangkat_ng_pulo": "Kabisayaan",
+      "haba_m": 297,
+      "binuksan": "1977"
+    },
+    {
+      "tulay": "Tulay ng Agus",
+      "tumatawid_sa": "Ilog Agus",
+      "lungsod_o_bayan": "Iligan",
+      "rehiyon": "Hilagang Mindanao",
+      "pangkat_ng_pulo": "Mindanao",
+      "haba_m": 104,
+      "binuksan": ""
+    },
+    {
+      "tulay": "Tulay ng Ilog Davao",
+      "tumatawid_sa": "Ilog Davao",
+      "lungsod_o_bayan": "Lungsod ng Davao",
+      "rehiyon": "Rehiyon ng Davao",
+      "pangkat_ng_pulo": "Mindanao",
+      "haba_m": 227.38,
+      "binuksan": ""
+    },
+    {
+      "tulay": "Tulay ng Macapagal",
+      "tumatawid_sa": "Ilog Agusan",
+      "lungsod_o_bayan": "Butuan",
+      "rehiyon": "Caraga",
+      "pangkat_ng_pulo": "Mindanao",
+      "haba_m": 907.6,
+      "binuksan": "2007"
+    },
+    {
+      "tulay": "Tulay ng Magsaysay",
+      "tumatawid_sa": "Agusan",
+      "lungsod_o_bayan": "Butuan",
+      "rehiyon": "Caraga",
+      "pangkat_ng_pulo": "Mindanao",
+      "haba_m": 220.16,
+      "binuksan": "1960"
+    },
+    {
+      "tulay": "Tulay ng Puntod-Kauswagan",
+      "tumatawid_sa": "Ilog Cagayan de Oro",
+      "lungsod_o_bayan": "Cagayan de Oro",
+      "rehiyon": "Hilagang Mindanao",
+      "pangkat_ng_pulo": "Mindanao",
+      "haba_m": 352,
+      "binuksan": "2007"
+    },
+    {
+      "tulay": "Tulay ng Quirino",
+      "tumatawid_sa": "Rio Grande de Mindanao",
+      "lungsod_o_bayan": "Lungsod ng Cotabato",
+      "rehiyon": "Bangsamoro",
+      "pangkat_ng_pulo": "Mindanao",
+      "haba_m": 155,
+      "binuksan": "1950"
+    },
+    {
+      "tulay": "Magkalinyang Tulay ng Tagoloan",
+      "tumatawid_sa": "Ilog Tagoloan",
+      "lungsod_o_bayan": "Tagoloan, Misamis Oriental",
+      "rehiyon": "Hilagang Mindanao",
+      "pangkat_ng_pulo": "Mindanao",
+      "haba_m": 529.3,
+      "binuksan": "2007"
+    },
+    {
+      "tulay": "Tulay ng Tamontaka",
+      "tumatawid_sa": "Ilog Tamontaka",
+      "lungsod_o_bayan": "Lungsod ng Cotabato at Datu Odin Sinsuat, Maguindanao",
+      "rehiyon": "Bangsamoro",
+      "pangkat_ng_pulo": "Mindanao",
+      "haba_m": 230,
+      "binuksan": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Tulay sa Pilipinas - Free Download",
+    "description": "Talaan ng mga pangunahing tulay sa Luzon, Kabisayaan at Mindanao kasama ang tinatawid, rehiyon, haba sa metro at taon ng pagbubukas. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Tulay sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Tulay sa Pilipinas — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_tulay_sa_Pilipinas"
+    ]
+  }
+}
