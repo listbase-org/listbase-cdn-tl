@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-02T02:14:05.297Z",
-  "total_datasets": 474,
-  "total_records": 445518,
+  "generated": "2026-11-02T02:14:13.518Z",
+  "total_datasets": 475,
+  "total_records": 445550,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -4802,6 +4802,30 @@
         "xlsx": {
           "name": "tl-klinikang-dental-maxicare_TL.xlsx",
           "size": 20521
+        }
+      }
+    },
+    {
+      "id": "tl-mga-sugatan-sa-paputok-bagong-taon",
+      "name": "Bilang ng mga Sugatan sa Paputok tuwing Bagong Taon sa Pilipinas (1993–2024)",
+      "category": "health",
+      "record_count": 32,
+      "columns": [
+        "taon",
+        "bilang_ng_sugatan",
+        "sugatan_sa_ligaw_na_bala"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_paputok_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 5157,
+      "files": {
+        "csv": {
+          "name": "tl-mga-sugatan-sa-paputok-bagong-taon_TL.csv",
+          "size": 683
+        },
+        "xlsx": {
+          "name": "tl-mga-sugatan-sa-paputok-bagong-taon_TL.xlsx",
+          "size": 7328
         }
       }
     },

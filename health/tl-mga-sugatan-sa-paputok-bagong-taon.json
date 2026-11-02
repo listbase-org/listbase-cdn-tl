@@ -1,0 +1,201 @@
+{
+  "id": "tl-mga-sugatan-sa-paputok-bagong-taon",
+  "name": "Bilang ng mga Sugatan sa Paputok tuwing Bagong Taon sa Pilipinas (1993–2024)",
+  "title": "Bilang ng mga Sugatan sa Paputok tuwing Bagong Taon sa Pilipinas (1993–2024)",
+  "description": "Taunang bilang ng mga nasugatan dahil sa paputok at ligaw na bala tuwing pagdiriwang ng Bagong Taon sa Pilipinas.",
+  "category": "health",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_paputok_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_paputok_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "bilang_ng_sugatan",
+      "label": "Bilang Ng Sugatan",
+      "type": "number"
+    },
+    {
+      "key": "sugatan_sa_ligaw_na_bala",
+      "label": "Sugatan Sa Ligaw Na Bala",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "taon": 1993,
+      "bilang_ng_sugatan": 705,
+      "sugatan_sa_ligaw_na_bala": "12"
+    },
+    {
+      "taon": 1994,
+      "bilang_ng_sugatan": 520,
+      "sugatan_sa_ligaw_na_bala": "21"
+    },
+    {
+      "taon": 1995,
+      "bilang_ng_sugatan": 760,
+      "sugatan_sa_ligaw_na_bala": "Walang data"
+    },
+    {
+      "taon": 1996,
+      "bilang_ng_sugatan": 623,
+      "sugatan_sa_ligaw_na_bala": "15"
+    },
+    {
+      "taon": 1997,
+      "bilang_ng_sugatan": 1147,
+      "sugatan_sa_ligaw_na_bala": "20"
+    },
+    {
+      "taon": 1998,
+      "bilang_ng_sugatan": 847,
+      "sugatan_sa_ligaw_na_bala": "27"
+    },
+    {
+      "taon": 1999,
+      "bilang_ng_sugatan": 1567,
+      "sugatan_sa_ligaw_na_bala": "--"
+    },
+    {
+      "taon": 2000,
+      "bilang_ng_sugatan": 1325,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2001,
+      "bilang_ng_sugatan": "Walang data",
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2002,
+      "bilang_ng_sugatan": 503,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2003,
+      "bilang_ng_sugatan": "35 patay (590)",
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2004,
+      "bilang_ng_sugatan": 585,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2005,
+      "bilang_ng_sugatan": 610,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2006,
+      "bilang_ng_sugatan": 306,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2007,
+      "bilang_ng_sugatan": 869,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2008,
+      "bilang_ng_sugatan": 733,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2009,
+      "bilang_ng_sugatan": 1036,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2010,
+      "bilang_ng_sugatan": 1022,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2011,
+      "bilang_ng_sugatan": 287,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2012,
+      "bilang_ng_sugatan": 1000,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2013,
+      "bilang_ng_sugatan": 400,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2014,
+      "bilang_ng_sugatan": 804,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2015,
+      "bilang_ng_sugatan": 593,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2016,
+      "bilang_ng_sugatan": 839,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2017,
+      "bilang_ng_sugatan": 86,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2018,
+      "bilang_ng_sugatan": 463,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2019,
+      "bilang_ng_sugatan": 139,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2020,
+      "bilang_ng_sugatan": 249,
+      "sugatan_sa_ligaw_na_bala": "TBA"
+    },
+    {
+      "taon": 2021,
+      "bilang_ng_sugatan": 85,
+      "sugatan_sa_ligaw_na_bala": "3"
+    },
+    {
+      "taon": 2022,
+      "bilang_ng_sugatan": 183,
+      "sugatan_sa_ligaw_na_bala": "3"
+    },
+    {
+      "taon": 2023,
+      "bilang_ng_sugatan": 163,
+      "sugatan_sa_ligaw_na_bala": "--"
+    },
+    {
+      "taon": 2024,
+      "bilang_ng_sugatan": 188,
+      "sugatan_sa_ligaw_na_bala": "--"
+    }
+  ],
+  "meta": {
+    "title": "Bilang ng mga Sugatan sa Paputok tuwing Bagong Taon sa Pilipinas (1993–2024) - Free Download",
+    "description": "Taunang bilang ng mga nasugatan dahil sa paputok at ligaw na bala tuwing pagdiriwang ng Bagong Taon sa Pilipinas. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bilang ng mga Sugatan sa Paputok tuwing Bagong Taon sa Pilipinas (1993–2024) | ListBase",
+    "seo_description": "Download Bilang ng mga Sugatan sa Paputok tuwing Bagong Taon sa Pilipinas (1993–2024) — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_paputok_sa_Pilipinas"
+    ]
+  }
+}
