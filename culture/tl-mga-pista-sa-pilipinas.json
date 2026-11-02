@@ -1,0 +1,1080 @@
+{
+  "id": "tl-mga-pista-sa-pilipinas",
+  "name": "Mga Pista at Pagdiriwang sa Pilipinas ayon sa Buwan",
+  "title": "Mga Pista at Pagdiriwang sa Pilipinas ayon sa Buwan",
+  "description": "Talaan ng mga pista at pagdiriwang sa iba't ibang bahagi ng Pilipinas, kasama ang petsa, lugar at tema ng bawat pista.",
+  "category": "culture",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_pista_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_pista_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 147,
+  "columns": [
+    {
+      "key": "pista",
+      "label": "Pista",
+      "type": "string"
+    },
+    {
+      "key": "buwan",
+      "label": "Buwan",
+      "type": "string"
+    },
+    {
+      "key": "kailan",
+      "label": "Kailan",
+      "type": "string"
+    },
+    {
+      "key": "lugar",
+      "label": "Lugar",
+      "type": "string"
+    },
+    {
+      "key": "tema",
+      "label": "Tema",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pista": "Pista ng Itim na Nazareno",
+      "buwan": "Enero",
+      "kailan": "Enero 9",
+      "lugar": "Quiapo, Maynila",
+      "tema": "Upang ipagdiwang ang isang daang taong gulang na rebulto ng Itim na Nazareno"
+    },
+    {
+      "pista": "Pista ng Sinulog",
+      "buwan": "Enero",
+      "kailan": "Enero 15 o tuwing ikalawang Linggo ng Enero",
+      "lugar": "Lungsod ng Cebu",
+      "tema": ""
+    },
+    {
+      "pista": "Pista ng Ati-atihan",
+      "buwan": "Enero",
+      "kailan": "Ikatlong Linggo ng Enero",
+      "lugar": "Kalibo, Aklan",
+      "tema": "Ipinagdiriwang bilang parangal sa Sanggol na Hesus"
+    },
+    {
+      "pista": "Pista ng Dinagyang",
+      "buwan": "Enero",
+      "kailan": "Ikaapat na Linggo ng Enero",
+      "lugar": "Iloilo",
+      "tema": "Ipinagdiriwang nito ang kapistahan ng Sanggol na Hesus at ang kasunduan sa pagitan ng mga Datu at ng mga lokal"
+    },
+    {
+      "pista": "Pista ng Kuyamis",
+      "buwan": "Enero",
+      "kailan": "Enero 6 - 11",
+      "lugar": "Misamis Oriental",
+      "tema": "Pagdiriwang ng pasasalamat at pagkilala sa mga kaugalian ng mga lumad na naninirahan sa Misamis"
+    },
+    {
+      "pista": "Pista ng Diyandi",
+      "buwan": "Enero",
+      "kailan": "Ikatlong Lunes ng Enero",
+      "lugar": "Balingasag, Misamis Oriental",
+      "tema": "Ipinagdiriwang ang kultura at pamana ng mga tribu ng Higaonon ng Balingasag"
+    },
+    {
+      "pista": "Pista ng Pasalamat",
+      "buwan": "Enero",
+      "kailan": "Ikatlong Linggo ng Enero",
+      "lugar": "Lungsod ng Pagadian",
+      "tema": "Ipinagdiriwang bilang parangal kay Sr. Santo Nino at bilang paggunita sa pagdating ng imahen ng santo sa Pilipinas at sa Lungsod ng Pagadian."
+    },
+    {
+      "pista": "Pista ng Tsinoy",
+      "buwan": "Enero",
+      "kailan": "Enero 26",
+      "lugar": "Lungsod ng Legazpi",
+      "tema": "Pagdiriwang ng bagong taon ng mga Tsinoy"
+    },
+    {
+      "pista": "Paraw Regatta",
+      "buwan": "Pebrero",
+      "kailan": "Ikatlong Linggo ng Pebrero",
+      "lugar": "Kipot sa pagitan ng Lungsod ng Iloilo at isla ng Guimaras",
+      "tema": ""
+    },
+    {
+      "pista": "Pista ng Taytay Hamaka",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 10 - 16",
+      "lugar": "Taytay, Rizal",
+      "tema": "Ipinapakita ang pagkamasining, pagkamalikhain at iba't ibang talento ng mga taga-Taytay"
+    },
+    {
+      "pista": "Pista ng International Bamboo Organ",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 20 - 27",
+      "lugar": "Las Piñas",
+      "tema": "Kaganapang pangkultura na nakatuon sa natatanging organo na gawa sa kawayan"
+    },
+    {
+      "pista": "Pista ng mga Bulaklak ng Baguio",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero",
+      "lugar": "Lungsod ng Baguio",
+      "tema": "Itinampok ang parada ng mga float na yari sa mga sariwang bulaklak"
+    },
+    {
+      "pista": "Pista ng Ollalion",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 14",
+      "lugar": "Tabuk, Kalinga",
+      "tema": "Ipinagdiriwang ang kultura ng mga Kalinga"
+    },
+    {
+      "pista": "Pista ng Babaylanes",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 19",
+      "lugar": "Lungsod ng Bago, Negros Occidental",
+      "tema": "Itinatampok ang kultura ng mga unang nanirahan sa Bago City bago dumating ang mga mananakop na Kastila"
+    },
+    {
+      "pista": "Pista ng Kalilangan",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 20 - 27",
+      "lugar": "Lungsod ng Heneral Santos, South Cotabato",
+      "tema": ""
+    },
+    {
+      "pista": "Pista ng Mahaguyog",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 27 - Marso 7",
+      "lugar": "Sto. Tomas, Batangas",
+      "tema": "Ipinagdiriwang bilang pasasalamat ng mga magsasaka kay Santo Tomas ng Aquinas para sa masaganang ani"
+    },
+    {
+      "pista": "Pista ng mga Pagkaing dagat",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero",
+      "lugar": "Taguilon, Lungsod ng Dapitan",
+      "tema": "Ipinagdiriwang upang buhayin muli ang interes at mapanatili ang tradisyonal na mga pagkain na ang pangunahing sangkap ay ang kagang"
+    },
+    {
+      "pista": "National Arts Month: Bikol Arts Festival (NAM:BAF)",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 1 - 28",
+      "lugar": "Lungsod ng Legazpi",
+      "tema": "Ipinapakita ang kultura at sining ng rehiyon at ang mga likhang sining at agro-industrial na produkto ng iba't ibang lalawigan at lungsod ng rehiyon"
+    },
+    {
+      "pista": "Pista ng Cagsawa",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 1 - 28",
+      "lugar": "Daraga, Albay",
+      "tema": "Bilang paggunita sa pagsabog ng Bulkang Mayon noong 1814 na nagbaon sa simbahan ng Cagsawa at daan-daang tao"
+    },
+    {
+      "pista": "Pista ng Patunob",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 9",
+      "lugar": "Binuangan, Misamis Oriental",
+      "tema": "Pagdiriwang na pangrelihiyon kung saan ay dinadagsa ng mga deboto ang dambana ng Birhen sa Lourdes upang magsindi ng kandila, magpanibagong panata, at humingi ng mga petisyon at pagpapala"
+    },
+    {
+      "pista": "Pista ng Tinagba",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 11",
+      "lugar": "Lungsod ng Iriga, Camarines Sur",
+      "tema": "Tradisyon ng pag-aalay ng unang ani na kasabay ng kapistahan ng Our Lady of Lourdes"
+    },
+    {
+      "pista": "Karanowan Fish-Tival",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 15",
+      "lugar": "Bato, Camarines Sur",
+      "tema": "Ipinagdiriwang ang kagandahan at kasaganahan ng Bato"
+    },
+    {
+      "pista": "Pista ng Sibug-Sibug at Anibersaryo ng Pagkakatatag ng Probinsiya ng Zamboanga Sibugay",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 18 - 25",
+      "lugar": "Zamboanga Sibugay",
+      "tema": "Bilang paggunita sa araw ng pagkakatatag ng Zamboanga Sibugay bilang isang Lalawigan"
+    },
+    {
+      "pista": "Sunggod Ta KaManga",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 18 - 19",
+      "lugar": "Doña Ressing Park, Quezon, Bukidnon",
+      "tema": "Ipinagdiriwang ang kultura ng mga Manobo"
+    },
+    {
+      "pista": "Pista ng Nangkaan",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 27",
+      "lugar": "Maigo, Lanao del Norte",
+      "tema": "Ipinagdiriwang ang kasaganaan ng Lanao sa Munisipyo ng Maigo"
+    },
+    {
+      "pista": "Festival of Lights Tangub City Charter Day",
+      "buwan": "Pebrero",
+      "kailan": "Pebrero 29",
+      "lugar": "Lungsod ng Tangub",
+      "tema": ""
+    },
+    {
+      "pista": "UNESCO-ITI World Theater Week",
+      "buwan": "Marso",
+      "kailan": "Marso 21 - 27",
+      "lugar": "",
+      "tema": "Okasyon upang ipagdiwang ang kakayahan ng teatro na pagsama-samahin ang mga tao at oportunidad upang maibahagi sa mga manonood ang kultura at yaman ng bawat bansa"
+    },
+    {
+      "pista": "Pista ng Island Garden City of Samal",
+      "buwan": "Marso",
+      "kailan": "Unang linggo ng Marso",
+      "lugar": "",
+      "tema": "Ipinagdiriwang ang pagkakatatag ng Samal"
+    },
+    {
+      "pista": "Pista ng Anibina Bulawanun",
+      "buwan": "Marso",
+      "kailan": "Marso 8",
+      "lugar": "Compostela Valley",
+      "tema": "Ipinagdiriwang ang masaganag ani ng agrikultura, masaganang yamang mineral, mga tagumpay ng pamamahala, turismo, at pagpapakita ng kultura at tradisyon ng mga tao tulad ng Al-law Ng Kalomonan (Inggles: Tribal Day) tuwing ika-7 araw ng Anibina"
+    },
+    {
+      "pista": "Mahal na Araw",
+      "buwan": "Marso",
+      "kailan": "Marso - Abril",
+      "lugar": "",
+      "tema": "Isang pagdiriwang na nagpaparangal sa pagkamatay ni Hesus"
+    },
+    {
+      "pista": "Moriones",
+      "buwan": "Marso",
+      "kailan": "Mahal na Araw",
+      "lugar": "Marinduque",
+      "tema": "Sa Biyernes Santo ay isinagawa ang kuwento ni Longinus na isang senturion na nagbagong loob dahil muli itong nakakita nang bumagsak sa bulag nitong mata ang dugo ni Hesus noong ito'y kanyang sinibat sa tagiliran"
+    },
+    {
+      "pista": "Pagdiriwang ng Centurion",
+      "buwan": "Marso",
+      "kailan": "Mahal na Araw",
+      "lugar": "Heneral Luna, Quezon",
+      "tema": "Pinaniniwalaang pinagmulan ng Moriones na ipinagdiriwang sa Marinduque"
+    },
+    {
+      "pista": "Ang Pagtaltal",
+      "buwan": "Marso",
+      "kailan": "Biyernes Santo",
+      "lugar": "Jordan, Guimaras",
+      "tema": "Prusisyon ng mga deboto at nagpepenitensiya na nagtatapos sa dambana ng Balaan Bukid"
+    },
+    {
+      "pista": "Ritwal ng Pangalap",
+      "buwan": "Marso",
+      "kailan": "Biyernes Santo",
+      "lugar": "Nueva Valencia",
+      "tema": "Ritwal ng paggapang ng mga mananampalataya sa kweba ng Catilaran habang umaawit ng mga panalangin sa pag-asang sila'y magkakaroon ng supernatural na kapangyarihan na magtatakwil ng mga masasamanag espiritu"
+    },
+    {
+      "pista": "Witches Festival",
+      "buwan": "Marso",
+      "kailan": "Mahal na Araw",
+      "lugar": "Siquijor",
+      "tema": "Kapag kabilugan ng buwan ay may ginagawang ritwal ang mga mangbabarang sa isang liblib na kuweba sa madaling araw"
+    },
+    {
+      "pista": "Pista ng Alimango",
+      "buwan": "Marso",
+      "kailan": "Marso 22",
+      "lugar": "Lala, Lanao del Norte",
+      "tema": "Ipinagdiriwang ang kasaganahan ng mga alimango sa Lala"
+    },
+    {
+      "pista": "Pista ng Kaamulan",
+      "buwan": "Marso",
+      "kailan": "Marso 23 - Abril 13",
+      "lugar": "Malaybalay, Bukidnon",
+      "tema": "Ipinagdiriwang ang pitong tribu ng Bukidnon na kinabibilangan ng Higaonon, Umayamnon, Bukidnon, Talaandig, Manobo, Matigsalog, at Tigwahanon"
+    },
+    {
+      "pista": "Pista ng Sunflower ng Ligao",
+      "buwan": "Marso",
+      "kailan": "Marso 24",
+      "lugar": "Lungsod ng Ligao",
+      "tema": "Ipinagdiriwang ang pagiging lungsod ng ng Ligao"
+    },
+    {
+      "pista": "Turumba",
+      "buwan": "Abril",
+      "kailan": "Abril",
+      "lugar": "Pakil, Laguna",
+      "tema": "Ipinagdiriwang bilang parangal sa Our Lady of Sorrows"
+    },
+    {
+      "pista": "Pista ng Lami-Lamihan",
+      "buwan": "Abril",
+      "kailan": "Abril 14 - 16",
+      "lugar": "Basilan",
+      "tema": "Ipinagdiriwang ang mayamang tradisyon ng mga Yakan"
+    },
+    {
+      "pista": "Kadaugan sa Mactan",
+      "buwan": "Abril",
+      "kailan": "Abril 27",
+      "lugar": "Cebu",
+      "tema": "Pagsasadula ng Paglalaban sa Mactan"
+    },
+    {
+      "pista": "Pista ng Bantayog",
+      "buwan": "Abril",
+      "kailan": "Abril 2 - Mayo 6",
+      "lugar": "Camarines Norte",
+      "tema": "Ipinagdiriwang kasabay ng anibersaryo ng pagkakakatatag ng lalawigan, ang pistang ito ay tungkol sa unang bantayog ni Jose Rizal"
+    },
+    {
+      "pista": "Panaad",
+      "buwan": "Abril",
+      "kailan": "Abril 7 - 10",
+      "lugar": "Camiguin",
+      "tema": "Sa panahon ng Mahal na Araw, naglalakbay ang mga deboto at naglalakad sa 64 kilometrong daan sa Camiguin bilang sakripisyo"
+    },
+    {
+      "pista": "Pista ng Rodeo",
+      "buwan": "Abril",
+      "kailan": "Abril 9 - 13",
+      "lugar": "Masbate",
+      "tema": "Rodeo sa Masbate"
+    },
+    {
+      "pista": "Pista ng Mananap",
+      "buwan": "Abril",
+      "kailan": "Abril 23 - 29",
+      "lugar": "San Vicente, Camarines Norte",
+      "tema": "Pagpapalaganap ng kultura at turismo ng San Vicente"
+    },
+    {
+      "pista": "Hugyaw Sa Kadagatan",
+      "buwan": "Abril",
+      "kailan": "Abril 24",
+      "lugar": "Kauswagan, Lanao del Norte",
+      "tema": "Kasabay ng pagkakatatag ng munisipalidad at pista ay ipinagdiriwang ang masaganang ani"
+    },
+    {
+      "pista": "Pista ng Sakayan",
+      "buwan": "Abril",
+      "kailan": "Abril 25",
+      "lugar": "Lungsod ng Isabela, Basilan",
+      "tema": "Ipinagdiriwang nang may sayawan at musika mula sa mga kulintang"
+    },
+    {
+      "pista": "Pista ng Alinao",
+      "buwan": "Abril",
+      "kailan": "Abril 27 - Mayo 8",
+      "lugar": "Malinao, Albay",
+      "tema": "Ipinagdiriwang ang kultura at tradisyon ng mga Malinaonons"
+    },
+    {
+      "pista": "Pista ng Isla Carahan",
+      "buwan": "Abril",
+      "kailan": "Abril 30 - Mayo 8",
+      "lugar": "Caramoan, Camarines Sur",
+      "tema": "Ipinaggiriwang ang kagandahan at kasaganahan ng Caramoan"
+    },
+    {
+      "pista": "Capiztahan",
+      "buwan": "Abril",
+      "kailan": "Abril 11 - Mayo 1",
+      "lugar": "Capiz",
+      "tema": "Ipinagdiriwang ang pagkakatatag ng sibil na pamahalaan ng Capiz"
+    },
+    {
+      "pista": "Flores de Mayo",
+      "buwan": "Mayo",
+      "kailan": "Buong buwan ng Mayo",
+      "lugar": "",
+      "tema": "Isang Katolikong pagdiriwang na pinararangalan ang Birheng Maria"
+    },
+    {
+      "pista": "Pista y Dayat",
+      "buwan": "Mayo",
+      "kailan": "Mayo 1",
+      "lugar": "Pangasinan",
+      "tema": "Araw ng pasasalamat ng mga mangingisda"
+    },
+    {
+      "pista": "Boa-Boahan",
+      "buwan": "Mayo",
+      "kailan": "Mayo 2",
+      "lugar": "Nabua, Camarines Sur",
+      "tema": "Pagsasadula ng pag-aalay ng boa sa mga diyos"
+    },
+    {
+      "pista": "Carabao-Carozza Race",
+      "buwan": "Mayo",
+      "kailan": "Mayo 3",
+      "lugar": "Pavia, Iloilo",
+      "tema": "Paligsahan ng mga kalabaw sa paghila ng kariton na gawa sa kawayan"
+    },
+    {
+      "pista": "Ritwal ng Lanahan",
+      "buwan": "Mayo",
+      "kailan": "Mayo 1 - 3",
+      "lugar": "Balabag, Digos, Davao del Sur",
+      "tema": "Ritwal na ginagawa ng mga Bagobo"
+    },
+    {
+      "pista": "Pista ng Balanghai",
+      "buwan": "Mayo",
+      "kailan": "",
+      "lugar": "Butuan",
+      "tema": "Paggunita sa pagdating ng mga naunang migrante mula sa Borneo at Celebes na nakasakay sa balanghai"
+    },
+    {
+      "pista": "Pista ng Tapusan",
+      "buwan": "Mayo",
+      "kailan": "Buong buwan ng Mayo",
+      "lugar": "Alitagtag, Batangas",
+      "tema": "Pagdiriwang bilang pagpaparangal sa Banal na Krus"
+    },
+    {
+      "pista": "Barangay Boat Festival",
+      "buwan": "Mayo",
+      "kailan": "Mayo 11",
+      "lugar": "Aparri, Cagayan",
+      "tema": "Pagdiriwang bilang parangal kay Saint Peter Thelmo na patron ng bayan"
+    },
+    {
+      "pista": "Pista ng Kalabaw",
+      "buwan": "Mayo",
+      "kailan": "Mayo 15",
+      "lugar": "Pulilan, Bulacan",
+      "tema": "Ipinagdiriwang bilang parangal kay San Isidro Labrador"
+    },
+    {
+      "pista": "Pista ng Magayon",
+      "buwan": "Mayo",
+      "kailan": "Buong buwan ng Mayo",
+      "lugar": "Albay",
+      "tema": "Pasasalamat sa masagang ani"
+    },
+    {
+      "pista": "Pista ng Alinsangan “Bowa-bowahan”",
+      "buwan": "Mayo",
+      "kailan": "Mayo 1 - 2",
+      "lugar": "Nabua, Camarines Sur",
+      "tema": "Pagdiriwang ng pasasalamat na may paganong pinagmulan"
+    },
+    {
+      "pista": "Pista ng Palong",
+      "buwan": "Mayo",
+      "kailan": "Mayo 11 - 13",
+      "lugar": "Capalonga, Camarines Norte",
+      "tema": "Pagdiriwang ng pista ng Itim na Nazareno at pasasalamat sa pagkakaroon ng maraming tandang sa bayan"
+    },
+    {
+      "pista": "Pista ng Isla Rancho",
+      "buwan": "Mayo",
+      "kailan": "Mayo 12-17",
+      "lugar": "San Pascual, Masbate",
+      "tema": "Naglalarawan ng pamana ng mga mamamayan ng San Pascual"
+    },
+    {
+      "pista": "Pista ng P’gsalabuk",
+      "buwan": "Mayo",
+      "kailan": "Ikatlong linggo ng Abril - Ikaapat na Sabado ng Mayo",
+      "lugar": "Rehiyon IX",
+      "tema": "Pagsasalarawan at pagdiriwang ng pagkakaisa at ugnayan ng mga kultura ng mga Kristiyano, Muslim, at lumad"
+    },
+    {
+      "pista": "Pista ng Butanding",
+      "buwan": "Mayo",
+      "kailan": "Mayo 17 - 24",
+      "lugar": "Donsol, Sorsogon",
+      "tema": "Pagdiriwang ng pasasalamat sa mga biyayang hatid ng mga butanding at pagsisimula ng kasagsagan ng mga ito"
+    },
+    {
+      "pista": "Pista ng Pasa Pasa",
+      "buwan": "Mayo",
+      "kailan": "Mayo 18 - 26",
+      "lugar": "Monreal, Masbate",
+      "tema": "Nakasentro ang pagdiriwang sa proteksiyon at pangangalaga ng likas na kayamanan"
+    },
+    {
+      "pista": "Pista ng Sarung Banggi",
+      "buwan": "Mayo",
+      "kailan": "Mayo 19 - 27",
+      "lugar": "Sto. Domingo, Albay",
+      "tema": "Paggunita sa kapanganakan ni Potenciano V. Gregorio na kompositor ng awit ng pag-ibig na Sarung Banggi"
+    },
+    {
+      "pista": "Pista ng Kaogma",
+      "buwan": "Mayo",
+      "kailan": "Mayo 21-27",
+      "lugar": "Camarines Sur",
+      "tema": "Anibersaryo ng pagkakatatag ng Camarines Sur"
+    },
+    {
+      "pista": "Pista ng Lubi-Lubi",
+      "buwan": "Mayo",
+      "kailan": "Mayo 22",
+      "lugar": "Lungsod ng Gingoog",
+      "tema": "Pagbibigay pugay kay Sta. Rita de Cascia na lokal na patron"
+    },
+    {
+      "pista": "Pista ng Layag",
+      "buwan": "Mayo",
+      "kailan": "Mayo 22 - 27",
+      "lugar": "Rapu-Rapu, Albay",
+      "tema": "Nagpapakita ng pananampalataya ng mga tao"
+    },
+    {
+      "pista": "Pista ng Abaca",
+      "buwan": "Mayo",
+      "kailan": "Mayo 27 - 31",
+      "lugar": "Catanduanes",
+      "tema": "Ipinagdiriwang ang industriya at produkto ng abaka"
+    },
+    {
+      "pista": "Pista ng Naliyagan",
+      "buwan": "Hunyo",
+      "kailan": "Ikalawang linggo ng Hunyo",
+      "lugar": "Agusan del Sur",
+      "tema": "Naglalarawan ng cultura at pamana ng mga Agusanon at pagkilala sa katapatan ng mga Manobo sa kanilang pinuno na si Datu Lipus Makapandong"
+    },
+    {
+      "pista": "Pista ng Pagdayao",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 11 -12",
+      "lugar": "Tacloban, Leyte at Masbate",
+      "tema": "Pistang pasasalamat sa Panginoon"
+    },
+    {
+      "pista": "Araw ng Cotabato",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 12 - 20",
+      "lugar": "Lungsod ng Kotabato",
+      "tema": "Pagdiriwang ng pagkakatatag ng lungsod"
+    },
+    {
+      "pista": "Parada ng mga Lechon",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 24",
+      "lugar": "Balayan, Batangas",
+      "tema": "Parada ng mga lechon"
+    },
+    {
+      "pista": "Pista ng Hibok-Hibok",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 24",
+      "lugar": "Camiguin",
+      "tema": "Ipinagdiriwang bilang parangal kay San Juan"
+    },
+    {
+      "pista": "Pista ng Tacloban",
+      "buwan": "Hunyo",
+      "kailan": "Huling linggo ng Hunyo",
+      "lugar": "Tacloban, Leyte",
+      "tema": "Kinabibilangan ng Subiran Regatta, Balyuan, at Pista ng Pintados"
+    },
+    {
+      "pista": "Pista ng Piat Sambali",
+      "buwan": "Hunyo",
+      "kailan": "Huling linggo ng Hunyo",
+      "lugar": "Piat, Cagayan",
+      "tema": "Ginugunita ang pagiging Kristiyano ng mga Ytawes sa Cagayan"
+    },
+    {
+      "pista": "Pista ng Pinya ng Lungsod ng Ormoc",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 23",
+      "lugar": "Lungsod ng Ormoc",
+      "tema": "Pagpupugay sa mga santong patron ng lungsod at pinya na inaani sa lungsod"
+    },
+    {
+      "pista": "Pista ng Saulog",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 1 - 6",
+      "lugar": "Zamboanga Del Norte",
+      "tema": "Pagdiriwang ng pagkakatatag ng lalawigan"
+    },
+    {
+      "pista": "Pista ng Kamalig",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 5 - 13",
+      "lugar": "Camaligan, Camarines Sur",
+      "tema": "Ipinagdiriwang ang pagkakatatag ng bayan at pista ng bayan"
+    },
+    {
+      "pista": "Lechonan sa Baroy",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 10",
+      "lugar": "Baroy, Lanao del Norte",
+      "tema": "Pagdiriwang ng masagang produktong pang-agrikultura"
+    },
+    {
+      "pista": "Pista ng Pinangat",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 10 - 24",
+      "lugar": "Camalig, Albay",
+      "tema": "Kasabay ng pistang bayan ay ipinagdiriwang ang kultura at pamana ng bayan"
+    },
+    {
+      "pista": "Pista ng Ginubat",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 11 - 12",
+      "lugar": "Gubat, Sorsogon",
+      "tema": ""
+    },
+    {
+      "pista": "Pista ng Pinyasan",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 15 - 24",
+      "lugar": "Daet, Camarines Norte",
+      "tema": "Ipinapakita ang pinya bilang pangunahing produktong pang-agrikultura"
+    },
+    {
+      "pista": "Pista ng Tabak",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 15 - 24",
+      "lugar": "Lungsod ng Tabaco",
+      "tema": "Ipinagdiriwang ang kapistahan ni San Juan na santong patron ng lungsod at ang anibersaryo ng pagkakatatag ng lungsod"
+    },
+    {
+      "pista": "Pista ng Pulang-Angui",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 15 - 30",
+      "lugar": "Polangui, Albay",
+      "tema": "Ipinagdiriwang ang kultura ng bayan"
+    },
+    {
+      "pista": "Pista ng Naro",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 17 - 19",
+      "lugar": "Dimasalang, Masbate",
+      "tema": "Ipinagdiriwang ang pagkakatatag ng bayan"
+    },
+    {
+      "pista": "Pista ng Pili",
+      "buwan": "Hunyo",
+      "kailan": "Huling linggo ng Hunyo",
+      "lugar": "Lungsod ng Sorsogon",
+      "tema": "Itinatampok sa pagdiriwang ang pili na katutubong pananim sa rehiyon ng Bikol"
+    },
+    {
+      "pista": "Pista ng Sagayan",
+      "buwan": "Hunyo",
+      "kailan": "Hunyo 28 - Hulyo 2",
+      "lugar": "Tubod, Lanao del Norte",
+      "tema": "Pagdiriwang ng mga Maranao na naglalarawan kay Prinsipe Bantugan"
+    },
+    {
+      "pista": "Pista ng Pagoda",
+      "buwan": "Hulyo",
+      "kailan": "Hulyo 4 - 7",
+      "lugar": "Bocaue, Bulacan",
+      "tema": "Ipinagdiriwang ang pista bilang parangal sa Banal na Krus na natagpuan sa ilog ng Bocaue"
+    },
+    {
+      "pista": "Sublian sa Batangas",
+      "buwan": "Hulyo",
+      "kailan": "Hulyo 23",
+      "lugar": "Lungsod ng Batangas",
+      "tema": "Ibinabalik ang tradisyon ng pagsasayaw ng subli kasabay ng pagdiriwang ng pagkakatatag sa lungsod"
+    },
+    {
+      "pista": "Pista ng Sinulog ng Tanjay",
+      "buwan": "Hulyo",
+      "kailan": "Huling linggo ng Hulyo",
+      "lugar": "Tanjay, Negros Oriental",
+      "tema": "Itinatampok ang pinagmulan ng kultura ng sinulog"
+    },
+    {
+      "pista": "Pista ng Kahimoan Abayan",
+      "buwan": "Hulyo",
+      "kailan": "Huling linggo ng Hulyo",
+      "lugar": "Lungsod ng Butuan, Agusan del Norte",
+      "tema": "Pagpaparangal kay Santa Ana na kilala na nagpoprotekta sa mga nakatira sa tabi ng Agusan River mula sa mga buwaya"
+    },
+    {
+      "pista": "Pista ng Sandugo",
+      "buwan": "Hulyo",
+      "kailan": "Huling linggo ng Hulyo",
+      "lugar": "Bohol",
+      "tema": "Ginugunita ang kasunduang ginamitan ng dugo sa pagitan nina Legaspi at Sikatuna"
+    },
+    {
+      "pista": "Pista ng Tagsibol",
+      "buwan": "Hulyo",
+      "kailan": "Hulyo 1",
+      "lugar": "Maramag, Bukidnon",
+      "tema": "Pagdiriwang ng kasaganahan ng tagsibol"
+    },
+    {
+      "pista": "Pista ng Magalleones",
+      "buwan": "Hulyo",
+      "kailan": "Hulyo 9 - 16",
+      "lugar": "Magallanes, Sorsogon",
+      "tema": "Ipinagdiriwang ang reputasyon ng bayan bilang pangunahing gumagawa ng mga barko sa Bikol noong panahon ng mga Kastila"
+    },
+    {
+      "pista": "Pista ng Lubid",
+      "buwan": "Hulyo",
+      "kailan": "Hulyo 9 - 16",
+      "lugar": "Malilipot, Albay",
+      "tema": "Ipinagdiriwang ang tradisyon at kultura ng Malilipot"
+    },
+    {
+      "pista": "Pista ng Subayan Keg Subanen",
+      "buwan": "Hulyo",
+      "kailan": "Hulyo 16",
+      "lugar": "Lungsod ng Ozamiz",
+      "tema": "Ipinagdiriwang ang pamumuhay ng mga Subanon"
+    },
+    {
+      "pista": "Pista ng Libon Paroy",
+      "buwan": "Hulyo",
+      "kailan": "Hulyo 22 - 25",
+      "lugar": "Libon, Albay",
+      "tema": "Isinasalarawan ang paroy o bigas na pangunahing pinagkakakitaan ng mga tao"
+    },
+    {
+      "pista": "Pista ng Kinabayo",
+      "buwan": "Hulyo",
+      "kailan": "Hulyo 23 - 27",
+      "lugar": "Lungsod ng Dapitan, Zamboanga del Norte",
+      "tema": "Pista ng Lungsod ng Dapitan na pinararangalan si Saint James"
+    },
+    {
+      "pista": "Grand Kaliga Festival",
+      "buwan": "Hulyo",
+      "kailan": "Hulyo 23",
+      "lugar": "Lungsod ng Gingoog",
+      "tema": "Ipinagdiriwang ang kultura at tradisyon ng mga Manobo at Higaonon"
+    },
+    {
+      "pista": "Pista ng Pangapog",
+      "buwan": "Agosto",
+      "kailan": "Agosto 1 – 7",
+      "lugar": "Isla ng Samal",
+      "tema": "Pagdiriwang ng masaganang ani at parangal sa kultura ng mga Sama"
+    },
+    {
+      "pista": "Pista ng Palu-Palo",
+      "buwan": "Agosto",
+      "kailan": "Agosto 4 - 5",
+      "lugar": "Basco, Batanes",
+      "tema": "Ipinapakita ang kultura ng mga Ivatan"
+    },
+    {
+      "pista": "Pista ng Marang",
+      "buwan": "Agosto",
+      "kailan": "Agosto 5",
+      "lugar": "Basco, Batanes",
+      "tema": "Ipinagdiriwang ang masagang ani ng marang"
+    },
+    {
+      "pista": "Mercedes FISHtival",
+      "buwan": "Agosto",
+      "kailan": "Agosto 6 - 11",
+      "lugar": "Mercedes, Camarines Norte",
+      "tema": "Pasasalamat ng mga mangingisda sa masaganang pangingisda"
+    },
+    {
+      "pista": "Pista ng Kawayan ng Pangasinan",
+      "buwan": "Agosto",
+      "kailan": "Agosto 14",
+      "lugar": "Calasiao at Sta. Barbara, Pangasinan",
+      "tema": "Ipinapakita ang mga produktong gawa sa kawaya"
+    },
+    {
+      "pista": "Pista ng Pasaka",
+      "buwan": "Agosto",
+      "kailan": "Agosto 14",
+      "lugar": "Tanuan, Leyte",
+      "tema": "Parangal sa Our Lady of Assumption"
+    },
+    {
+      "pista": "Pista ng Kalivungan",
+      "buwan": "Agosto",
+      "kailan": "Agosto 17 - 18",
+      "lugar": "Kidapawan, Cotabato",
+      "tema": "Pagsasama-sama ng mga Bagobo at Manobo"
+    },
+    {
+      "pista": "Pista ng Kadayawan sa Dabaw",
+      "buwan": "Agosto",
+      "kailan": "Ikatlong linggo ng Agosto",
+      "lugar": "Lungsod ng Davao",
+      "tema": "Pista ng pasasalamat at parangal sa mga katutubo"
+    },
+    {
+      "pista": "Gigantes",
+      "buwan": "Agosto",
+      "kailan": "Agosto 19",
+      "lugar": "Lucban, Quezon",
+      "tema": "Ang mga higanteng pigura na gawa sa papel ay pinapasan ng mga namamanata para sa kahilingan na natupad"
+    },
+    {
+      "pista": "Pista ng Buyogan",
+      "buwan": "Agosto",
+      "kailan": "Agosto 19",
+      "lugar": "Abuyog, Leyte",
+      "tema": "Nakasentro sa mga bubuyog kung saan ang bayan ay ipinangalan"
+    },
+    {
+      "pista": "Pista ng Higalaay",
+      "buwan": "Agosto",
+      "kailan": "Buong buwan ng Agosto",
+      "lugar": "Lungsod ng Cagayan de Oro",
+      "tema": "Pista ng pasasalamat at pista ng santong patron ng lungsod na si San Agustin"
+    },
+    {
+      "pista": "Pista ng Mercedes Kadagatan",
+      "buwan": "Agosto",
+      "kailan": "Agosto 1 - 8",
+      "lugar": "Mercedes, Camarines Norte",
+      "tema": "Pasasalamat ng mga mangingisda sa masaganang pangingisda"
+    },
+    {
+      "pista": "Pista ng Coron",
+      "buwan": "Agosto",
+      "kailan": "Agosto 5 - 13",
+      "lugar": "Tiwi, Albay",
+      "tema": "Parangal sa santong patron ng Albay na si Nuestra Seiiora de Salvacion"
+    },
+    {
+      "pista": "Pista ng Tig-Aw",
+      "buwan": "Agosto",
+      "kailan": "Agosto 5 - 12",
+      "lugar": "Tigaon, Camarines Sur",
+      "tema": "Pasasalamat sa santong patron na si Santa Clara ng Assisi"
+    },
+    {
+      "pista": "Pista ng Longganisa ng Guinobatan",
+      "buwan": "Agosto",
+      "kailan": "Agosto 5 - 15",
+      "lugar": "Guinobatan, Albay",
+      "tema": "Ipinapakita ang kultura at likas na pamana ng bayan kasama na ang mga produktong gawa sa longganisa"
+    },
+    {
+      "pista": "Pista ng Ibalong",
+      "buwan": "Agosto",
+      "kailan": "Agosto 12 - 30",
+      "lugar": "Lungsod ng Legazpi",
+      "tema": "Isinasalarawan ang simula ng Bikol na nasasaad sa epikong Ibalong"
+    },
+    {
+      "pista": "KUMBIRA Culinary Show and Live Competitions",
+      "buwan": "Agosto",
+      "kailan": "Agosto 19 - 21",
+      "lugar": "Limketkai Atrium, Lungsod ng Cagayan de Oro",
+      "tema": "Itinuturing na pinakamatagal na kaganapan sa pagluluto sa Pilipinas"
+    },
+    {
+      "pista": "Pista ng Aurora",
+      "buwan": "Setyembre",
+      "kailan": "Huling Linggo ng Agosto hanggang unang linggo ng Setyembre",
+      "lugar": "Tanjay, Negros Oriental",
+      "tema": "Tampok sa pista ang nobena na ginaganap sa gabi na nilalahukan ng mahigit sa 40 na mga angkan at nagtatapos sa isang prusisyon sa gabi sa ilog ng Tanjay"
+    },
+    {
+      "pista": "Pista ng Hin-ay",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 1 - 29",
+      "lugar": "Irosin, Sorsogon",
+      "tema": "Kasama sa pagdiriwang ang street dance na naglalarawan ng pagkapanalo ng arkanghel laban sa mga Black Angels"
+    },
+    {
+      "pista": "Pista ng mga Pagkain sa Bikol",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 1 - 30",
+      "lugar": "Lungsod ng Naga",
+      "tema": "Ipinagdiriwang ang mga pagkain ng Bikol katulad ng pinangat, laing, Bicol Express, inolokan o tilmak, pecadillo at cocido."
+    },
+    {
+      "pista": "Pista ng Sarakiki",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 1 - 8",
+      "lugar": "Lungsod ng Calbayog",
+      "tema": "Tampok sa pagdiriwang ang mga sumasayaw sa lansangan na nakasuot na parang manok at sumasayaw sa tugtog ng mga katutubong instrumento ng mga taga-Samar"
+    },
+    {
+      "pista": "Pista ng Tribu ng mga T’boli",
+      "buwan": "Setyembre",
+      "kailan": "Ikatlong linggo ng Setyembre",
+      "lugar": "Timog Cotabato",
+      "tema": "Pagsasama-sama ito ng mga etnolingguistikong pangkat sa lalawigan"
+    },
+    {
+      "pista": "Pista ng Djanggo",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 28 - 29",
+      "lugar": "Nassiping, Gattaran, Cagayan",
+      "tema": "Ipinagdiriwang ang kultural at relihiyosong tradition batay kay San Miguel"
+    },
+    {
+      "pista": "Pista ng Banigan-Kawayan",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 29",
+      "lugar": "Basey, Samar",
+      "tema": "Ipinagdiriwang ang industriya ng paggawa ng banig at ng mga produktong yari sa kawayan ng Basey"
+    },
+    {
+      "pista": "Pista ng Pagsasalo-salo ng Pagkain sa Linapit",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 30",
+      "lugar": "Gueday, Besno",
+      "tema": "Ipinagdiriwang ang pista bago ang pagtatanim kung saan ang mga katutubo ay ibinabahagi ang kanilang mga pagkain sa kaninuman"
+    },
+    {
+      "pista": "Pista ng Busig-On",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 7 - 9",
+      "lugar": "Labo, Camarines Norte",
+      "tema": "Batay sa epikong Busig-on na ipinapakita ang kabayanihan at mga pinahahalagahan ng mga Bikolano"
+    },
+    {
+      "pista": "Traslacion (Pista ng Penafrancia)",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 13",
+      "lugar": "Lungsod ng Naga",
+      "tema": "Nagsisimula ang pista at ang siyam na araw na Misa para sa Our Lady of Penafrancia ng rehiyon ng Bikol sa pamamagitan ng traslacion kung saan inililipat ang imahe ng INA sa papamagitan ng pagbuhat ng mga deboto mula sa Basilika papunta sa Katedral ng Naga"
+    },
+    {
+      "pista": "Pista ng Peñafrancia",
+      "buwan": "Setyembre",
+      "kailan": "Ikatlong Linggo ng Setyembre (Setyembre 21)",
+      "lugar": "Lungsod ng Naga, Camarines Sur",
+      "tema": "Relihiyosong pagdiriwang na nagpaparangal sa araw ng kapistahan ng Our Lady of Penafrancia, ang Santong patron ng rehiyon ng Bikol"
+    },
+    {
+      "pista": "Pista ng Dalit",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 21",
+      "lugar": "Lungsod ng Tangub",
+      "tema": "Pasasalamat sa masaganang ani"
+    },
+    {
+      "pista": "Dahunog sa Dipolog",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 26 - Oktubre 7",
+      "lugar": "Lungsod ng Dipolog",
+      "tema": "Ang \"Dahunog\" ay pagdiriwang sa Dipolog kung saan nagsasama-sama ang mga banda para sa isang parada at kompetisyon ng mga talento sa paggawa ng pinakamadagundong, masigla at nakakaaliw na musikal na pagsasaya."
+    },
+    {
+      "pista": "Pista ng Megayon",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 27 - 30",
+      "lugar": "Dao, Lungsod ng Pagadian",
+      "tema": "Pagdiriwang ng pagkakaisa ng iba't ibang grupo na pang-kultural"
+    },
+    {
+      "pista": "Pista ng Diyandi sa Iligan",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 27",
+      "lugar": "Lungsod ng Iligan",
+      "tema": "Parangal kay San Miguel Arkanghel"
+    },
+    {
+      "pista": "Pista ng Sayaw ng Lapay ng Bantigue",
+      "buwan": "Setyembre",
+      "kailan": "Setyembre 28",
+      "lugar": "Lungsod ng Masbate",
+      "tema": "Ipinagdiriwang ang sining ng pagsayaw na nagmula sa matikas na galaw ng mga lapay na matatagpuan sa Barangay Bantigue sa Masbate."
+    },
+    {
+      "pista": "Halaran",
+      "buwan": "Oktubre",
+      "kailan": "Unang linggo ng Oktubre",
+      "lugar": "Lungsod ng Roxas",
+      "tema": "Ipinapakita ang kasaysayan at kultura ng mga taga-Capiz noong bago dumating ang mga Kastila"
+    },
+    {
+      "pista": "Universal Children’s Festival",
+      "buwan": "Oktubre",
+      "kailan": "Unang linggo ng Oktubre",
+      "lugar": "Lungsod ng Dapitan",
+      "tema": "Parada sa paligid ng lungsod ng mga bata na nakasuot ng mga kasuotan ng mga bansang kasama sa Nagkakaisang Bansa"
+    },
+    {
+      "pista": "Pista ng Masskara",
+      "buwan": "Oktubre",
+      "kailan": "",
+      "lugar": "Lungsod ng Bacolod",
+      "tema": "Pagdiriwang na may karnabal, perya at pagsasayaw sa lansangan ng mga mananayaw sa nakamaskara"
+    },
+    {
+      "pista": "Pista ng La Naval ng Maynila",
+      "buwan": "Oktubre",
+      "kailan": "Oktubre 11",
+      "lugar": "Lungsod ng Quezon",
+      "tema": "Ipinaparada sa lungsod ang imahe ng Birhen na nasa isang makulay na karuwahe na parang barko. Pinaniniwalang milagroso ang imahe at tinitiyak ang kaligtasan sa paglalakbay ng mga taong nagdarasal dito."
+    },
+    {
+      "pista": "Marangyang Karakol ng Calbayog",
+      "buwan": "Oktubre",
+      "kailan": "Oktubre 16",
+      "lugar": "Lungsod ng Calbayog",
+      "tema": "Pagdiriwang ng pasasalamat ng mga deboto ni San Rafael."
+    },
+    {
+      "pista": "Pista ng Kasanggayahan",
+      "buwan": "Oktubre",
+      "kailan": "Buong buwan ng Oktubre",
+      "lugar": "Sorsogon, Sorsogon",
+      "tema": "Pagdiriwang na nagpapakita ng mga lokal na produktong agrikultural kabilang ang mga produkto mula sa puno ng pili."
+    },
+    {
+      "pista": "Pista ng Unod",
+      "buwan": "Oktubre",
+      "kailan": "Oktubre 1 - 7",
+      "lugar": "Castilla, Sorsogon",
+      "tema": "Pagdiriwang ng pasasalamat ng mga taga-Castilla sa masaganang ani at pagpapahalaga sa kasipagan ng mga mamamayan."
+    },
+    {
+      "pista": "Pista ng Parau",
+      "buwan": "Oktubre",
+      "kailan": "Oktubre 1 - 12",
+      "lugar": "Pilar, Sorsogon",
+      "tema": "Pagdiriwang na nagpapakita ng kultura ng bayan kasabay ang pista ng Our Lady of the Pillar"
+    },
+    {
+      "pista": "Pista ng Cimarrones",
+      "buwan": "Oktubre",
+      "kailan": "Oktubre 1 - 26",
+      "lugar": "",
+      "tema": "Pagdiriwang na nagtatampok ng kultura ng bayan"
+    },
+    {
+      "pista": "Pista ng Mambulawan",
+      "buwan": "Oktubre",
+      "kailan": "Oktubre 6 - 7",
+      "lugar": "Jose Panganiban, Camarines Norte",
+      "tema": "Pagdiriwang na idinaraos kasabay ng Kapistahan ng Mahal na Birhen ng Kabanal-banalang Rosaryo"
+    },
+    {
+      "pista": "Pista ng Inug-og",
+      "buwan": "Oktubre",
+      "kailan": "Oktubre 14",
+      "lugar": "Lungsod ng Òroquieta",
+      "tema": "Etnikong pagdiriwang ng kultura ng Suban-on"
+    },
+    {
+      "pista": "Pista ng Kamgbegu",
+      "buwan": "Oktubre",
+      "kailan": "Oktubre 15-16",
+      "lugar": "Lapuyan, Zamboanga del Sur",
+      "tema": "Pistang ipinagdiriwang ng mga taga-Lapuyan"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pista at Pagdiriwang sa Pilipinas ayon sa Buwan - Free Download",
+    "description": "Talaan ng mga pista at pagdiriwang sa iba't ibang bahagi ng Pilipinas, kasama ang petsa, lugar at tema ng bawat pista. Contains 147 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pista at Pagdiriwang sa Pilipinas ayon sa Buwan | ListBase",
+    "seo_description": "Download Mga Pista at Pagdiriwang sa Pilipinas ayon sa Buwan — 147 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 147 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_pista_sa_Pilipinas"
+    ]
+  }
+}

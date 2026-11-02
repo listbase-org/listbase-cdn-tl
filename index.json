@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-02T02:13:49.624Z",
-  "total_datasets": 472,
-  "total_records": 445351,
+  "generated": "2026-11-02T02:13:57.453Z",
+  "total_datasets": 473,
+  "total_records": 445498,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 40
+      "dataset_count": 41
     },
     {
       "id": "economy",
@@ -1058,6 +1058,32 @@
         "xlsx": {
           "name": "tl-mga-pambansang-sagisag_TL.xlsx",
           "size": 7756
+        }
+      }
+    },
+    {
+      "id": "tl-mga-pista-sa-pilipinas",
+      "name": "Mga Pista at Pagdiriwang sa Pilipinas ayon sa Buwan",
+      "category": "culture",
+      "record_count": 147,
+      "columns": [
+        "pista",
+        "buwan",
+        "kailan",
+        "lugar",
+        "tema"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_pista_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 37391,
+      "files": {
+        "csv": {
+          "name": "tl-mga-pista-sa-pilipinas_TL.csv",
+          "size": 22169
+        },
+        "xlsx": {
+          "name": "tl-mga-pista-sa-pilipinas_TL.xlsx",
+          "size": 17453
         }
       }
     },
