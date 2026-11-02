@@ -1,0 +1,166 @@
+{
+  "id": "tl-mga-praternidad-at-sororidad",
+  "name": "Mga Praternidad at Sororidad sa Pilipinas",
+  "title": "Mga Praternidad at Sororidad sa Pilipinas",
+  "description": "Talaan ng mga praternidad at sororidad sa Pilipinas kasama ang mga titik Griyego, petsa ng pagkakatatag at unibersidad o lugar na pinagmulan.",
+  "category": "society",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_praternidad_at_sororidad_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_praternidad_at_sororidad_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "griyegong_titik",
+      "label": "Griyegong Titik",
+      "type": "string"
+    },
+    {
+      "key": "itinatag",
+      "label": "Itinatag",
+      "type": "string"
+    },
+    {
+      "key": "lugar_ng_pagkakatatag",
+      "label": "Lugar Ng Pagkakatatag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "Alpha Kappa Rho",
+      "griyegong_titik": "ΑΚΡ",
+      "itinatag": "8 Agosto 1973",
+      "lugar_ng_pagkakatatag": "University of Santo Tomas"
+    },
+    {
+      "pangalan": "Alpha Phi Omega",
+      "griyegong_titik": "ΑΦΩ",
+      "itinatag": "2 Marso 1950 (Phil) 16 Disyembre 1925 (USA)",
+      "lugar_ng_pagkakatatag": "Far Eastern University"
+    },
+    {
+      "pangalan": "Alpha Sigma Phi (Pilipinas)",
+      "griyegong_titik": "ΑΣΦ",
+      "itinatag": "29 Setyembre 1959",
+      "lugar_ng_pagkakatatag": "Silliman University"
+    },
+    {
+      "pangalan": "Beta Sigma Omega Phi",
+      "griyegong_titik": "βΣΩΦ",
+      "itinatag": "10 Oktubre 1968",
+      "lugar_ng_pagkakatatag": "University of Bohol"
+    },
+    {
+      "pangalan": "Delta Fraternity and Sorority International",
+      "griyegong_titik": "Δ, δ",
+      "itinatag": "24 Oktubre 1961",
+      "lugar_ng_pagkakatatag": "University of Santo Tomas"
+    },
+    {
+      "pangalan": "Delta Sigma Xi",
+      "griyegong_titik": "ΔΣΞ",
+      "itinatag": "14 Pebrero 1971",
+      "lugar_ng_pagkakatatag": "Manuel L. Quezon University"
+    },
+    {
+      "pangalan": "Delta Sphinx Family",
+      "griyegong_titik": "ΔSF",
+      "itinatag": "2 Oktubre 1978",
+      "lugar_ng_pagkakatatag": "Ateneo de Zamboanga University"
+    },
+    {
+      "pangalan": "Gamma Kappa Phi",
+      "griyegong_titik": "ΓΚΦ",
+      "itinatag": "9 Oktubre 1952",
+      "lugar_ng_pagkakatatag": "Divine Word College"
+    },
+    {
+      "pangalan": "Gamma Omicron Delta Sigma",
+      "griyegong_titik": "ΓΟΔΣ",
+      "itinatag": "7 Hulyo 1990",
+      "lugar_ng_pagkakatatag": "Mabolo, Cebu City"
+    },
+    {
+      "pangalan": "Job's Daughters International",
+      "griyegong_titik": "JDI",
+      "itinatag": "Oktubre 20, 1920",
+      "lugar_ng_pagkakatatag": "Omaha, Nebraska"
+    },
+    {
+      "pangalan": "Kappa Sigma",
+      "griyegong_titik": "ΚΣ",
+      "itinatag": "30 Nobyembre 1985",
+      "lugar_ng_pagkakatatag": "University of the Philippines"
+    },
+    {
+      "pangalan": "Order of DeMolay",
+      "griyegong_titik": "ODM",
+      "itinatag": "18 Marso 1919",
+      "lugar_ng_pagkakatatag": "Kansas City, Missouri"
+    },
+    {
+      "pangalan": "Phi Beta Rho",
+      "griyegong_titik": "ΦΒΡ",
+      "itinatag": "24 Hunyo 1962",
+      "lugar_ng_pagkakatatag": "Central Luzon State University"
+    },
+    {
+      "pangalan": "Pi Sigma",
+      "griyegong_titik": "ΠΣ",
+      "itinatag": "15 Agosto 1972",
+      "lugar_ng_pagkakatatag": "University of the Philippines Diliman"
+    },
+    {
+      "pangalan": "Samahang Ilocano",
+      "griyegong_titik": "CIAI-SI",
+      "itinatag": "1940s",
+      "lugar_ng_pagkakatatag": ""
+    },
+    {
+      "pangalan": "Tau Gamma Phi (1968)",
+      "griyegong_titik": "ΤΓΦ",
+      "itinatag": "4 Oktubre 1968",
+      "lugar_ng_pagkakatatag": "University of the Philippines Diliman"
+    },
+    {
+      "pangalan": "Tau Gamma Sigma (1969)",
+      "griyegong_titik": "ΤΓΣ",
+      "itinatag": "17 Enero 1969",
+      "lugar_ng_pagkakatatag": "University of the Philippines Diliman"
+    },
+    {
+      "pangalan": "Upsilon Phi Sigma",
+      "griyegong_titik": "ΥΦΣ",
+      "itinatag": "14 Pebrero 1935",
+      "lugar_ng_pagkakatatag": "University of the Philippines Los Baños"
+    },
+    {
+      "pangalan": "Upsilon Sigma Phi",
+      "griyegong_titik": "ΥΣΦ",
+      "itinatag": "1918",
+      "lugar_ng_pagkakatatag": "University of the Philippines"
+    },
+    {
+      "pangalan": "Alpha Phi Chi",
+      "griyegong_titik": "AФΧ",
+      "itinatag": "18 Setyembre 1969",
+      "lugar_ng_pagkakatatag": "Davao City"
+    }
+  ],
+  "meta": {
+    "title": "Mga Praternidad at Sororidad sa Pilipinas - Free Download",
+    "description": "Talaan ng mga praternidad at sororidad sa Pilipinas kasama ang mga titik Griyego, petsa ng pagkakatatag at unibersidad o lugar na pinagmulan. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Praternidad at Sororidad sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Praternidad at Sororidad sa Pilipinas — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_praternidad_at_sororidad_sa_Pilipinas"
+    ]
+  }
+}

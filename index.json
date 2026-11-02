@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-02T02:13:57.453Z",
-  "total_datasets": 473,
-  "total_records": 445498,
+  "generated": "2026-11-02T02:14:05.297Z",
+  "total_datasets": 474,
+  "total_records": 445518,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -13598,6 +13598,31 @@
         "xlsx": {
           "name": "tl-mga-pahayagan-sa-pilipinas_TL.xlsx",
           "size": 9340
+        }
+      }
+    },
+    {
+      "id": "tl-mga-praternidad-at-sororidad",
+      "name": "Mga Praternidad at Sororidad sa Pilipinas",
+      "category": "society",
+      "record_count": 20,
+      "columns": [
+        "pangalan",
+        "griyegong_titik",
+        "itinatag",
+        "lugar_ng_pagkakatatag"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_praternidad_at_sororidad_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 5450,
+      "files": {
+        "csv": {
+          "name": "tl-mga-praternidad-at-sororidad_TL.csv",
+          "size": 1579
+        },
+        "xlsx": {
+          "name": "tl-mga-praternidad-at-sororidad_TL.xlsx",
+          "size": 7883
         }
       }
     },
