@@ -1,0 +1,371 @@
+{
+  "id": "tl-mga-minumultong-lugar",
+  "name": "Mga Naiulat na Minumultong Lugar sa Pilipinas",
+  "title": "Mga Naiulat na Minumultong Lugar sa Pilipinas",
+  "description": "Talaan ng mga lugar sa Pilipinas na iniuulat na pinagmumultuhan, ayon sa lungsod o lalawigan, kasama ang maikling paglalarawan.",
+  "category": "entertainment",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_naiulat_na_mga_minumultong_lugar_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_naiulat_na_mga_minumultong_lugar_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "lugar",
+      "label": "Lugar",
+      "type": "string"
+    },
+    {
+      "key": "lokasyon",
+      "label": "Lokasyon",
+      "type": "string"
+    },
+    {
+      "key": "paglalarawan",
+      "label": "Paglalarawan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lugar": "Ateneo de Manila University",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Isa sa mga pinakaprestihiyosong institusyong pang-edukasyon sa bansa, ipinahahayag ng mga nainiwala na minumulto ang ADMU"
+    },
+    {
+      "lugar": "Balete Drive",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Isang pangunahing abenidang pampamahayan sa silangang bahagi ng distrito ng New Manila, Lungsod Quezon, kinikilala ng mga naniniwala na ang Kalye Balete ay sityo ng mga pagpapapakita ng isang babaeng nakaputi, na ayon sa mga naniniwala ay kaluluwa ng isanh babaeng tinedyer na ginahasa at pinatay ng isang drayber ng taksi noong dekada-1950."
+    },
+    {
+      "lugar": "Capitol Medical Center",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Iniulat na minumulto ang isang asensor ng ospital. Sinabi ng mga saksi na dinala sila ng asensor na ito, kasalukuyang off-limits, sa pinakamababang palapag na nagsilbing morge noon, sa halip ng inaasahan nilang paroroonan."
+    },
+    {
+      "lugar": "De La Salle University",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Dahil sa marahas na kasaysayan nito noong Ikalawang Digmaang Pandaigdig, naiulat na minumulto ang DLSU. Saksi ang Kapilya ng Lubos na Pinagpalang Sakramento ng Bulwagang St. La Salle sa walang awang pagpatay ng mga takas na kumubli sa loob nito sa kamay ng mga sundalong Hapones. Pinaniniwalaan ng naniniwalang mga mag-aaral na minumulto ang Bulwagang Bro. Connon ng isang babaeng mag-aaral na namatay pagkaraang nakulong sa asensor ng gusali. Ang ibang mga lugar na may iniulat na mga pagpaparamdam ay ang Bulwagang Bro. Andrew Gonzalez, Bulwagang St. Mutien Marie, at Bulwagang St. Joseph."
+    },
+    {
+      "lugar": "Fort Bonifacio Tenement",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Mayroong higit na 700 mga yunit ang gusaling ito na itinayo noong 1963. Isa sa mga ito ang Yunit 771, na tinitirhan ng kasalukuyang umookupa mula noong 1989. Iginigiit niyang pinagmumultuhan ito ng kaluluwa ng isang tumataghoy na babaeng humihingi ng tulong. Itinampok ito sa espesyal na kabanatang Pang-Halloween ng Kapuso Mo, Jessica Soho noong 2022."
+    },
+    {
+      "lugar": "Fort Santiago",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Sinasabi ng mga naniniwala na minumulto ang makasaysayang kuta na ito sa Intramuros ng mga kaluluwa ng sundalo at sibilyang biktima na namatay noong Ikalawang Digmaang Pandaigdig."
+    },
+    {
+      "lugar": "Libingan ng mga Bayani",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Iniulat ng naniniwalang mga sundalong rumoronda na minumulto ito ng sari-saring mga multo, ilan ay naka-uniporme habang ang iba ay naka-sibilyan na pananamit."
+    },
+    {
+      "lugar": "Malacañang Palace",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Pinaniniwalaang minumulto ang opisyal na tahanan at pangunahing lugar ng trabaho ng Pangulo ng Pilipinas ng maraming mga multo, kabilang ang ilang mga dating pangulo (Manuel L. Quezón, Manuel Roxas, at Ramon Magsaysay), mga dating katrabaho o katulong ng mga pangulo, kaluluwa ng ilang mga yumao noong bago ang panahong Kastila, kaluluwa ng mga nasawi noong Ikalawang Digmaang Pandaigdig, at ng isang babaeng naka-itim na dumudungaw sa Ilog Pasig mula sa isang bintana ng Bulwagang Mabini sa bandang hulihan ng gabi. Kabilang sa mga lugar ng umano'y mga pagpaparamdam ay ang Bulwagang Mabini, Bulwagan ng mga Bayani, Tanggapan ng Korespondensiya, Bagong Gusaling Ehekutibo, at Silid ng Musika. Nakatayo sa pangunahing pasukan sa Liwasan ng Kalayaan (sa bakuran ng Malacañang kaharap ng mga Gusaling Pampangasiwaan at Ehekutibo) ang isang puno ng balite, na itinalagang Pambansang Pamanang Puno noong 2011 subalit pinaniniwalaan ng mga naniniwala na tahanan ito ng isang kapre."
+    },
+    {
+      "lugar": "Manila Central Post Office",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Naging isang mahalagang garison ng mga Hapones ang gusali noong Ikalawang Digmaang Pandaigdig, ayon kay historyador Gerard Lico, kung kaya sa gusaling ito namatay rin ang mga sundalong Hapones. Iginigiit ng mga empleyado, dati man o kasalukuyan, ang samot-saring mga pagpaparamdam na residuwal buhat sa panahon ng digmaan sa makasaysayang gusaling ito. Itinampok ito sa palatuntunang Kapuso Mo, Jessica Soho ng GMA Network."
+    },
+    {
+      "lugar": "Manila City Hall",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Naniniwala ang ilang mga empleyado na ang gusaling panlungsod ay minumulto paglampas ng 6:00 sa gabi. Pinatunayan ng mga dalubhasa sa paranormal na nagsiyasat sa lugar ang mga pagpaparamdam ng mga multong maingay (poltergeist), mga pagpaparamdam na residuwal buhat sa panahon ng mga Hapones, at kaluluwa ng isang babaeng pinaniniwalaang namatay sa mga premisa nito noong Ikalawang Digmaang Pandaigdig. Nakasentro sa tore ng orasan ng gusali ang karamihan sa mga pagmumulto. Ayon din sa mga naniniwala, hugis-\"kabaong\" ang gusali pag-tiningnan mula sa itaas, ngunit sinasabi naman ng iba na kahawig lamang ito ng kalasag ng Knights Templar."
+    },
+    {
+      "lugar": "Manila Film Center",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Isang pangunahing bahagi ng Sentrong Pangkultura ng Pilipinas, naging sityo ang pasilidad ng isang sakuna sa pagtatayo. Minadali ang pagtatayo dahil papalapit na ang araw ng unang Kapistahang Pampelikula ng Maynila, at noong ika-17 ng Nobyembre 1981 bumigay ang andamyong sumusuporta sa ikaapat na palapag. Lumagapak ang mga manggagawa sa sementong madaling matuyo. Iniutos ni Betty Benitez, tagapamahala ng proyekto, na ituloy ang pagtatayo sa halip na kunin ang mga katawan ng nasawing mga manggagawa, sa pangambang hindi umabot sa takdang araw ang proyekto. Nagsimula ang mga pagpaparamdam sa mismong araw kung kailang itinuloy ang pagtatayo; nagpakita ang yumaong mga manggagawa sa mga kasamahan nila. Sinabi ng mga akomodadorang inanyaya para sa araw ng kapistahang pampelikula noong ika-18 ng Enero 1982, na nakaramdam sila ng malamig na hangin at nakaamoy sila ng kakaibang amoy sa bastidores. Namatay si Benitez sa isang kakatwang aksidente sa daan. Iginigiit ng mga naniniwala na patuloy ang pagpaparamdam ng kaluluwa ng namatay na mga manggagawa sa teatro."
+    },
+    {
+      "lugar": "Miriam College",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Sinasabi ng mga naniniwalang mag-aaral na may isang multo ng madre na nagpaparamdam sa banyo ng mga babae sa ikalawang palapag ng Gusaling Caritas."
+    },
+    {
+      "lugar": "Ozone Disco",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Isang dating disco sa Lungsod Quezon na pinangyarihan ng pinakamalalang sunog sa kasaysayan ng Pilipinas. Ikinasawi ito ng di-bababa sa 162 katao at ikinasaktan ito ng di-bababa sa 95 katao. Giniba ang gusali ng disco noong 2015, at kasalukuyang inookupahan ang lugar ng GoodAh!!!, isang 24-oras na kainan na pinatatakbo rin ni Boy Abunda, at sinasabing nabawasan ang mga pagpaparamdam ng mga multo sa lugar magmula noon."
+    },
+    {
+      "lugar": "PNB Branch Pasay",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Ang ikalimang palapag ng sangay ng PNB sa Pasay sa Bulebar Roxas ay ginamit bilang morge para sa 16-hanggang-25 biktima sa isang sunog sa otel ng Regent of Manila noong Pebrero 13, 1985. Sa hiling ng mga dating umokupa, nagsagawa ng mga eksorsismo (o pagpapalayas ng mga masasamang espiritu) sa nabanggit na palapag dahil sa napapadalas na aktibidad-paranormal."
+    },
+    {
+      "lugar": "Polytechnic University of the Philippines",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Ang Bulwagang Claro M. Recto ay kinaroroonan ng isang tanghalang kung saan ang mga silid sa likod ng entablado ay lugar ng pagpapakita ng isang sunog na nilalang na pinatunayan ni Segundo \"Dodie\" Dizon, direktor at propesor ng tanghalan. Isa ring lugar ng mga aktibidad paranormal ang Kolehiyo ng Inhenyeriya kung saang malimit na tinutunguhan ito ng kaluluwa ng isang yumaong propesor, maliban sa multo ng isang bata at isang babaeng nakaputi. Itinampok ang unibersidad sa programang Magandang Gabi... Bayan ng ABS-CBN bilang bahagi ng Espesyal na Kabanatang Pang- Halloween nito noong 2005."
+    },
+    {
+      "lugar": "Starmall Alabang",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Matatagpuan ito sa dating kinatatayuan ng Sementeryong Alabang. Sinasabi ng mga naniniwala na may mga multong nagpaparamdam sa mga teatro o sinehan nito."
+    },
+    {
+      "lugar": "University of the Philippines Diliman Campus",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Sinasabi ng mga naniniwala na ang mahabang kasaysayan nito ay sanhi ng umano ay mga pagpapamulto nito. Ilan sa mga pook ng iniulat na aktibidad paranormal ay Kolehiyo ng Musika, Gusaling Vanguard, at Bulwagang Palma. Ang Tanghalang Guerrero na nasa ikalawang palapag ng Bulwagang Palma ay di-umano pinamamahayan ng kaluluwa ng isang batang babaeng aktres ng bulwagan na nagpakamatay sanhi ng pangingibabaw ng isang bagong aktres sa kaniyang katanyagan."
+    },
+    {
+      "lugar": "University of Santo Tomas",
+      "lokasyon": "Kalakhang Maynila",
+      "paglalarawan": "Pinaniniwalaang minumulto rin ang pinakamatandang pamantasan sa bansa dahil sa napakahabang kasaysayan nitong buhat pa ng panahon ng mga Kastila. Nagsilbi rin itong kampong piitan noong Ikalawang Digmaang Pandaigdig kung saang karamihan sa mga bihag ay \"mga kalabang banyaga,\" karamihan ay mga Amerikano, na nakatira sa Pilipinas. Marami sa mga nabilanggo ay namatay sa gutom, sakit, at iba pa. Saksi rin ang unibersidad sa pagpapatiwakal ng sinawing-palad na mga mag-aaral, tulad ng babaeng multo sa isa sa mga banyo ng Pangunahing Gusali. Pinatunayan ni Rolando de la Rosa, dating Rector Magnificus ng UST, sa isang panayam hinggil sa di umano ay isang lansakang libingan malapit sa museo ng UST."
+    },
+    {
+      "lugar": "Casa Vallejo",
+      "lokasyon": "Baguio",
+      "paglalarawan": "Ang pinakalumang otel sa lungsod na itinayo noong 1909 upang tirhan ng mga pangunahing tauhan ng Bureau of Public Works, bago maging isang otel noong 1923. Sinasabing naging lugar ng detensiyon ito noong 1917 para sa mga Alemang nabihag."
+    },
+    {
+      "lugar": "Dominican Hill Retreat House",
+      "lokasyon": "Baguio",
+      "paglalarawan": "Kadalasang kilala bilang Diplomat Hotel, isa itong seminaryo na naging isang otel paglaon. Matatagpuan sa ibabaw ng Burol Dominikano, itinuturi itong pinakaminumultong lugar ng lungsod dahil ito'y naging sityo ng maraming mga karahasang ginawa ng mga sundalong Hapones noong Ikalawang Digmaang Pandaigdig. Pinahirapan, ginahasa, at pinugutan ng kanilang mga ulo ang mga padre, madre, at takas na kumanlong sa gusali, sa kamay ng mga puwersang Hapones."
+    },
+    {
+      "lugar": "Hotel Nevada",
+      "lokasyon": "Baguio",
+      "paglalarawan": "Isa sa mga gusaling winasak ng lindol noong 1990. Giit ng midyum na si Dion Fernandez, nakalaya na ang mga kaluluwa ng mga pumanaw sa lindol."
+    },
+    {
+      "lugar": "Hyatt Terraces Hotel",
+      "lokasyon": "Baguio",
+      "paglalarawan": "Dati isang otel na may labindalawang palapag na gumuho noong lindol ng 1991. Ikinamatay ito ng hindi bababa sa 50 katao. Sinasabi ng mga naniniwala na lumilibot ang mga kaluluwa ng mga nasawi sa ngayo'y bakanteng sityo. Ngunit ayon kay Fernandez, nakalaya na umano ang mga kaluluwa tulad ng kaso ng Otel ng Nevada."
+    },
+    {
+      "lugar": "Japanese Tunnels",
+      "lokasyon": "Baguio",
+      "paglalarawan": "Isang kalambatan ng mga tunel sa ilalim ng lupa na ginawa ng Hukbong Imperyal ng Hapon."
+    },
+    {
+      "lugar": "Laperal White House",
+      "lokasyon": "Baguio",
+      "paglalarawan": "Kilala rin bilang Laperal Guesthouse, itinatag ito ni Roberto Laperal noong dekada-1930 bilang bahay-bakasyunan para sa kaniyang pamilya. Noong Ikalawang Digmaang Pandaigdig, inokupa ito ng mga sundalong Hapones at ginawang kampamento na kung saang gumawa sila ng samot-saring mga karahasan, tulad ng labis na pagpapahirap o pagpatay sa mga hinihinalaan nilang tiktik na naglilingkod sa Estados Unidos at mga kaalyadong bansa nito. Binili ito ng Tsinong Pilipino na negosyanteng si Lucio Tan noong 2007 at ginawang museo ng gawang-lokal na mga Filipinong sining-gawa yari sa kawayan at kahoy. Mula noong Disyembre 26, 2022, isa na itong pangmayaman na kainan na tinatawag na \" Joseph's Baguio \", na nakatuon sa lutuing Pranses."
+    },
+    {
+      "lugar": "Loakan Road",
+      "lokasyon": "Baguio",
+      "paglalarawan": "Ang pasukang daan sa Paliparan ng Loakan, ipinahahayag ng mga naniniwala na may nagmumulto na naglalahong nakikisakay sa daan, na sinasabing isa siyang biktima ng panggagahasa. Tahanan umano niya ang isang puno na dating nakatayo sa gitnang bahagi ng daan, at ayon sa mga naniniwala namatay sa naputol na puno ang tauhan ng DPWH na pumutol sa punong ito."
+    },
+    {
+      "lugar": "Philippine Military Academy",
+      "lokasyon": "Baguio",
+      "paglalarawan": "Pinaniniwalaang minumulto rin ang paaralang militar ng Sandatahang Lakas ng Pilipinas (AFP), tulad ng isang kadeteng walang mukha na hindi nakasuot ng tamang uniporme at gumagala sa institusyon kapag gabi."
+    },
+    {
+      "lugar": "Teacher's Camp",
+      "lokasyon": "Baguio",
+      "paglalarawan": "Unang itinayo ng mga Tomasitong guro na Amerikano bilang lugar ng pagsasanay, isa na itong sentro ng pagsasanay sa mga guro ng bansa. Sinasabing itinayo ito sa lugar ng pakikibaka ag digmaan ng mga dating katutubo."
+    },
+    {
+      "lugar": "Bahay Panuluyan ng Burol Dominikano",
+      "lokasyon": "Baguio",
+      "paglalarawan": ""
+    },
+    {
+      "lugar": "Bahay Laperal",
+      "lokasyon": "Baguio",
+      "paglalarawan": ""
+    },
+    {
+      "lugar": "Akademiyang Militar ng Pilipinas",
+      "lokasyon": "Baguio",
+      "paglalarawan": ""
+    },
+    {
+      "lugar": "Kampo ng mga Guro",
+      "lokasyon": "Baguio",
+      "paglalarawan": ""
+    },
+    {
+      "lugar": "Casa Gorordo Museum",
+      "lokasyon": "Lungsod ng Cebu",
+      "paglalarawan": "Ang museong ito ay dating pampamilyang tahanan ni Juan Gorordo na unang Filipinong obispo ng bansa. Pumanaw siya sa kaniyang silid-tulugan noong 1934. Ngunit ayon sa mga naniniwala, ang kasalukuyang museo ay minumulto ng isang babaeng multo na sinasabing kaluluwa ng isa sa mga matandang dalaga na kapatid ni Gorordo."
+    },
+    {
+      "lugar": "Cebu Normal University",
+      "lokasyon": "Lungsod ng Cebu",
+      "paglalarawan": "Naging kampamento ng mga Hapones ang pamantasan na ito noong panahon ng mga Hapones."
+    },
+    {
+      "lugar": "Escario Pension House",
+      "lokasyon": "Lungsod ng Cebu",
+      "paglalarawan": "Isang gusaling may apat na palapag na matatagpuan sa Kalye Escario. Sang-ayon sa mga naniniwala, may mga salaysay na nagsasaad na noong itinatayo ang gusali, isang manggagawa ay namamatay kada buwan."
+    },
+    {
+      "lugar": "Fort San Pedro",
+      "lokasyon": "Lungsod ng Cebu",
+      "paglalarawan": "Pinaniniwalaan ding minumulto ang makasaysayang kutang militar na ito."
+    },
+    {
+      "lugar": "Museo Sugbo",
+      "lokasyon": "Lungsod ng Cebu",
+      "paglalarawan": "Isa pang lugar sa Lungsod ng Cebu na minumulto ayon sa mga naniniwala, dahil isa itong bilangguan noong panahon ng mga Kastila (bilang Cárcel de Cebú) at panahon ng pananakop ng mga Hapones sa bansa."
+    },
+    {
+      "lugar": "Villalon Mansion",
+      "lokasyon": "Lungsod ng Cebu",
+      "paglalarawan": "Naging tahanan ito ng isang mayaman at masaganang pamilyang Sebwano. Ipinahahayag ngayon ng mga naniniwala na may mga multo (kabilang na ang isang babaeng nakaputi) na gumagala sa kasalukuyang hindi mapapasukan (off-limits) na sityo, na matatagpuan sa Sityong Kapitolyo."
+    },
+    {
+      "lugar": "Museo ng Casa Gorordo",
+      "lokasyon": "Lungsod ng Cebu",
+      "paglalarawan": ""
+    },
+    {
+      "lugar": "Kutang San Pedro",
+      "lokasyon": "Lungsod ng Cebu",
+      "paglalarawan": ""
+    },
+    {
+      "lugar": "Mansiyong Villalon",
+      "lokasyon": "Lungsod ng Cebu",
+      "paglalarawan": ""
+    },
+    {
+      "lugar": "Ateneo de Davao University - Matina campus",
+      "lokasyon": "Lungsod ng Dabaw",
+      "paglalarawan": "Matatagpuan ang kampus sa dating kinaroroonan ng isang palapagan ng mga Hapones noong Ikalawang Digmaang Pandaigdig. Iginigiit ng mga naniniwalang mag-aaral, kaguro, tauhan, at tauhan sa seguridad na may mga multo ng mga yumaong sundalong Hapones, pati ang kaluluwa ng mga yumaong mag-aaral."
+    },
+    {
+      "lugar": "Department of Interior and Local Government (DILG) regional office",
+      "lokasyon": "Lungsod ng Dabaw",
+      "paglalarawan": "Ayon sa mga naniniwala, minumulto umano ito ng mga kapre. Hitik sa mga puno ng balite ang lugar bago tinirahan ng mga tao, at kasalukuyang nakapuwesto rito ang opisinang panrehiyon ng DILG."
+    },
+    {
+      "lugar": "Francisco Bangoy International Airport",
+      "lokasyon": "Lungsod ng Dabaw",
+      "paglalarawan": "Kasalukuyang tinitirhan ng mga pamilyang walang tahanan ang mga dating terminal ng pangunahing paliparan ng Lungsod ng Dabaw na matatagpuan sa distrito ng Sasa. Naniniwala silang minumulto ito ng mga yumaong biktima ng pagbobomba noong Marso 2003 na ikinasawi ng 21 katao."
+    },
+    {
+      "lugar": "Palm Drive",
+      "lokasyon": "Lungsod ng Dabaw",
+      "paglalarawan": "Isang maigsing daan sa distrito ng Buhangin na nasa kanluran ng SSS Bajada at Southern Philippine Medical Center ang katimugang dulo nito. Pinaniniwalaan ng mga naniniwala na minumulto ito ng isang babaeng kayumanggi na sinasabing isang katulong ng isa sa mga bahay sa kahabaan ng kalye na pinatay nang naganap ang sinubukang panloloob."
+    },
+    {
+      "lugar": "Si residence",
+      "lokasyon": "Lungsod ng Dabaw",
+      "paglalarawan": "Minumulto umano ang lumang tahanan ng pamilyang Si sa Kalye Champaca, ayon sa mga naniniwala. Subalit lumipat sa Maynila ang pamilya noong kalagitnaan ng dekada-1990, taliwas sa karaniwang paniniwala na pinaslang sila."
+    },
+    {
+      "lugar": "Dalampasigan ng Talomo",
+      "lokasyon": "Lungsod ng Dabaw",
+      "paglalarawan": "Isang hanay ng mga bahay panuluyan ay sinasabing minumulto ng mga kaluluwa ng mga batang nalunod sa mga pampang ng dalampasigan."
+    },
+    {
+      "lugar": "Tree of Life - 9/2",
+      "lokasyon": "Lungsod ng Dabaw",
+      "paglalarawan": "Isang memoryal ang binuo noong Oktubre 2016 matapos ang \"Setyembre 2, 2016 Davao City bombing\" na matatagpuan sa Barangay ng Talomo tapat ng \"Ateneo de Davao University\" ay pinaniniwalaang mayroon nag paparamdam sa memoryal."
+    },
+    {
+      "lugar": "FitMart Heneral Santos",
+      "lokasyon": "Heneral Santos",
+      "paglalarawan": "Isang hilerang kalye ang nabulabog ng pag-sabog noong Abril 20, 2002 ng hapon sa isang FitMart Dept. Store, Timog Dadiangas ay pinaniniwalaang may mga nag-mumulto at nag-tala ito ng 13 patay na ka-tao."
+    },
+    {
+      "lugar": "Pampublikong Pamilihan sa Heneral Santos",
+      "lokasyon": "Heneral Santos",
+      "paglalarawan": "Isang hanay sa Meat section ay pinaniniwalaang may mga nag-mumulto sa palengke, dahil sa pambobomba noong Disyembre 12, 2004, 14 ang patay, ginunita nito ang anibersaryo noong Disyembre 12, 2005 makalipas ang 1 taon sa pagtitirik ng kandila."
+    },
+    {
+      "lugar": "Central Philippine University",
+      "lokasyon": "Lungsod ng Iloilo",
+      "paglalarawan": "Sinasabing pinagmumultuhan ito ayon sa mga naniniwala dahil sa mga nagawang kabuktutan noong Ikalawang Digmaang Pandaigdig. Maraming mga Amerikanong nagtatag sa pamantasan ay pinatay ng mga kawal na Hapones."
+    },
+    {
+      "lugar": "Bahay na Pula (o Ilusorio Mansion)",
+      "lokasyon": "Bulacan",
+      "paglalarawan": "Isang lugar buhat ng Ikalawang Digmaang Pandaigdig sa San Ildefonso na ginamit ng Hukbong Imperyal ng Hapon bilang kanilang kuwartel at naging lugar na kung saang pilit na pinagtatrabaho ang kung tawagin ay mga babaeng taga-aliw. Giniba ito noong 2016 dahil sa panloob na alitan sa pagitan ng mga kasalukuyang miyembro ng pamilyang Ilusorio."
+    },
+    {
+      "lugar": "Pagoda sa Wawa",
+      "lokasyon": "Bulacan",
+      "paglalarawan": "ang ilog ng Bocaue o Wawa sa Bulacan ay isang kapistahang idinadaos gamit ang pagoda sa ilog na dinadaluhan ng mga deboto, isa sa mga trahedya sa kasaysayan ng Pilipinas ang ilog ay mahigit 266 ang mga nasawi sa pagoda, pasadong 8 ng gabi."
+    },
+    {
+      "lugar": "Corregidor",
+      "lokasyon": "Cavite",
+      "paglalarawan": "Isang makasaysayang pulo sa pasukan ng Loók ng Maynila na may mahalagang papel noong Ikalawang Digmaang Pandaigdig, sa kasagsagan ng pananalakay at pagpapalaya ng Pilipinas mula sa mga hukbong Hapones. Isang minumultong lugar sa pulo ay ang Tunel ng Malinta, na unang ginamit ng Hukbong Katihan ng Estados Unidos bilang kanilang pasilidad ng imbakan, subalit ginawa itong ospital paglaon kung saang ginamot ang nasugatang mga sundalo."
+    },
+    {
+      "lugar": "Kaybiang Tunnel",
+      "lokasyon": "Cavite",
+      "paglalarawan": "Tinaguriang pinakamahabang tunel ng daan sa Pilipinas, iniuugnay nito ang mga bayan ng Ternate, Cavite at Nasugbu, Batangas. Sinasabi ng mga naniniwala na nagpaparamdam sa tunel ang mga kaluluwa ng mga taong namatay sa mga aksidente."
+    },
+    {
+      "lugar": "Carcar City Museum",
+      "lokasyon": "Cebu",
+      "paglalarawan": "Isang dalawang-palapag na museo sa Carcar na nagpapakita ng mga bagay pangkalinangan ng lungsod. Una itong itinatag noong 1929 bilang dispensaryo para sa mga taong nakatira sa malalayong mga lugar, at ginawa itong museo noong 2008. Ayon sa pampook na mga mananalaysay, naging pasilidad ng mga puwersa ng Hapones ang gusali noong Ikalawang Digmaang Pandaigdig, kung saang pinahirapan nila ang hinihinalaang mga tagasuporta ng mga gerilya. Pinalulunod umano nila ang mga ito sa palanguyan, na wala nang laman sa kasalukuyan, hanggang sa mamatay ang mga ito."
+    },
+    {
+      "lugar": "Lambusan Public Cemetery",
+      "lokasyon": "Cebu",
+      "paglalarawan": "Isang pampublikong libingan sa Barangay Lambusan, San Remigio na matatagpuan sa isa sa mga pinakamahirap na lugar sa lalawigan. Iniulat na ilan sa mga labi ng mga yumao ay nakatambak lamang sa isang common area, sapagkat wala nang sapat na pera ang kani-kanilang mga pamilya at kamag-anak para makapag-bayad ng taunang upa ng mga puntod. Iniulat ng mga naniniwala na may mga multong nagpapakita sa sementeryo."
+    },
+    {
+      "lugar": "Pindangan Ruins (San Fernando, La Union)",
+      "lokasyon": "La Union",
+      "paglalarawan": ""
+    },
+    {
+      "lugar": "RCBC Cabuyao - Isang isolated na RCBC branch, ang matatagpuan sa Concepcion barrier, sa loob ng isang Laguna Science Industrial Park (LISP) sa lungsod ng Cabuyao, hindi bababa sa 10 ang mga pinatay ng holdaper, pinaniniwalaang ang bakanteng gusali ay pinamumugaran ng mga kaluluwa, saksi rito ang mga karpinterong nanirahan sa gusaling abandonado. [ kailangan ng sanggunian ]",
+      "lokasyon": "Laguna",
+      "paglalarawan": ""
+    },
+    {
+      "lugar": "Sampiruhan, Calamba",
+      "lokasyon": "Laguna",
+      "paglalarawan": "Saksi ang baranggay sa isang karahasan noong Ikalawang Digmaang Pandaigdig, kung saang 70 katao ang walang-awang pinaslang ng mga Hapones. Kasalukuyang tinatanda ng isang bantayog na hugis-kandila ang sityo ng masaker, na pinaniniwalaan ng mga naniniwalang minumulto ng mga kaluluwa ng mga biktima ng karahasang iyon. Itinampok ito sa espesyal na kabanatang Pang-Halloween ng Magandang Gabi... Bayan."
+    },
+    {
+      "lugar": "University of the Philippines Los Baños Campus",
+      "lokasyon": "Laguna",
+      "paglalarawan": "Isang saksi sa mga karahasan noong Ikalawang Digmaang Pandaigdig. Ang Bulwagang Pang-ala-ala ng Baker ay ginamit bilang kampong piitan ng humigit-kumulang 2,500 bihag na taga-Amerika at mga bansang kaalyado pati mga sibilyan noong 1943–1945. Ginamit din itong punong himpilan ng mga puwersa ng Hukbong Imperyal ng Hapon na nakadestino sa Los Baños. Iginigiit ng mga naniniwala ang pamamalagi ng mga iginaroteng multong sa loob ng gusali. Ang iba pang mga lugar ng mga pagpaparamdam ay ang Dormitoryo ng mga Lalaki, Pangunahing Aklatan, Gusaling Student Union, isang tawirang tulay malapit sa UPLB CEAT (winasak ng Bagyong Milenyo noong 2006), at Pili Drive."
+    },
+    {
+      "lugar": "Balay Negrense",
+      "lokasyon": "Negros Occidental",
+      "paglalarawan": "Isang pamanang sityo at museo sa Silay na kilala rin bilang Victor Gaston Ancestral House. Tahanan ito noon ng isang baron sa negosyong asukal ng huling bahagi ng ika-19 na dantaon. Sinasabi ng naniniwalang mga bisita na mayroong mga nagpaparamdam tuwing mga pagbisita nila sa museo."
+    },
+    {
+      "lugar": "Silliman University",
+      "lokasyon": "Negros Oriental",
+      "paglalarawan": "Isang institusyong Presbiteryano sa Dumaguete na naiulat na minumulto ayon sa mga naniniwala. Ginamit itong himpilan ng mga sundalong Hapones noong Ikalawang Digmaang Pandaigdig. Kabilang sa mga minumultong gusali sa pamantasan ang Katipunan Hall gayundin ang mga tatlong gusaling dormitoryo: Edith Carson Hall, Channon Hall, at Doltz Hall. Ang Channon Hall ay ginamit ng Kempeitai (kapulisan ng puwersang Hapones) bilang kanilang punong-tanggapan at lugar ng pagpapahirap ng mga bilanggo, habang dating '\"Dumaguete Mission Hospital\" ang Katipunan Hall na pangunahing ospital ng Silliman gayundin pangkalahatang ospital ng buong lugar na pumapalibot sa Dumaguete at mga bayan sa mga hangganan nito."
+    },
+    {
+      "lugar": "Clark Air Base Hospital",
+      "lokasyon": "Pampanga",
+      "paglalarawan": "Itinuturing na pinakaminumultuhang lugar sa Pilipinas. Nagsilbi itong asilo ng mga sugatan (at namamatay) na mga sundalong Amerikano noong Ikalawang Digmaang Pandaigdig ag ng kasunod na Digmaang Biyetnam. Binisita ng Ghost Hunters International ang abandonadong ospital noong 2009, at napatunayan nila ang mga gawaing paranormal sa lugar. Sinasabi ng mga naniniwala na ang mga taong bumibisita sa ospital at natulog nang walong oras (o mababa pa) pagkaraan ng pagbisita ay nakararanas ng mga matinding bangungot sa loob ng isang linggo."
+    },
+    {
+      "lugar": "Herrera Mansion",
+      "lokasyon": "Quezon",
+      "paglalarawan": "Kilala rin bilang Old Stone House, malawakang itinuturing ito na pinakalumang bahay ng Tiaong. Dinisenyo ito ni Tomás Mapua noong 1920. Ang mga unang may-ari nito ay sina Isidro at Juliana Herrera, ngunit matagal na ito nakatiwangwang at nasisira na ito dahil sa mga dekada ng hindi paggamit. Ginigiit ng mga naniniwala ang mga multo mula sa panahon ng pananakop ng mga Hapones sa bansa."
+    },
+    {
+      "lugar": "Mount San Cristobal",
+      "lokasyon": "Quezon",
+      "paglalarawan": "Isang bundok sa bayan ng Dolores na pinaniniwalaan ng mga katutubo na naglalabas umano ito ng hindi kaaya-ayang enerhiya."
+    },
+    {
+      "lugar": "Siquijor",
+      "lokasyon": "Siquijor",
+      "paglalarawan": "Isang lalawigang-pulo sa Gitnang Kabisayaan na karaniwang ini-uugnay sa mga mahiwagang tradisyon, tulad ng salamangka at pagpapagaling sa pamamagitan ng pananampalataya na pinakikinabangan ng lumalagong industriya ng turismo sa lalawigan."
+    }
+  ],
+  "meta": {
+    "title": "Mga Naiulat na Minumultong Lugar sa Pilipinas - Free Download",
+    "description": "Talaan ng mga lugar sa Pilipinas na iniuulat na pinagmumultuhan, ayon sa lungsod o lalawigan, kasama ang maikling paglalarawan. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Naiulat na Minumultong Lugar sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Naiulat na Minumultong Lugar sa Pilipinas — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_naiulat_na_mga_minumultong_lugar_sa_Pilipinas"
+    ]
+  }
+}

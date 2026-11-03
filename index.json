@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-03T02:09:33.450Z",
-  "total_datasets": 479,
-  "total_records": 445853,
+  "generated": "2026-11-03T02:09:41.160Z",
+  "total_datasets": 480,
+  "total_records": 445919,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -3228,6 +3228,30 @@
         "xlsx": {
           "name": "tl-mga-himpilan-ng-radyo-sa-kalakhang-maynila_TL.xlsx",
           "size": 10367
+        }
+      }
+    },
+    {
+      "id": "tl-mga-minumultong-lugar",
+      "name": "Mga Naiulat na Minumultong Lugar sa Pilipinas",
+      "category": "entertainment",
+      "record_count": 66,
+      "columns": [
+        "lugar",
+        "lokasyon",
+        "paglalarawan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_naiulat_na_mga_minumultong_lugar_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 29079,
+      "files": {
+        "csv": {
+          "name": "tl-mga-minumultong-lugar_TL.csv",
+          "size": 22841
+        },
+        "xlsx": {
+          "name": "tl-mga-minumultong-lugar_TL.xlsx",
+          "size": 15940
         }
       }
     },
