@@ -1,0 +1,862 @@
+{
+  "id": "tl-pelikulang-pilipino-ayon-sa-kita",
+  "name": "Mga Pelikulang Pilipino na may Pinakamataas na Kita sa Takilya",
+  "title": "Mga Pelikulang Pilipino na may Pinakamataas na Kita sa Takilya",
+  "description": "Talaan ng mga pelikulang Pilipino ayon sa kabuuang kita sa takilya, kasama ang taon, pamagat at kompanya ng produksyon.",
+  "category": "entertainment",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_pelikulang_Pilipino_ayon_sa_kabuuang_kita",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_pelikulang_Pilipino_ayon_sa_kabuuang_kita",
+  "updated": "2026-11",
+  "record_count": 136,
+  "columns": [
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "pamagat",
+      "label": "Pamagat",
+      "type": "string"
+    },
+    {
+      "key": "kompanya_ng_produksyon",
+      "label": "Kompanya Ng Produksyon",
+      "type": "string"
+    },
+    {
+      "key": "kabuuang_kita",
+      "label": "Kabuuang Kita",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "taon": 2019,
+      "pamagat": "Hello, Love, Goodbye",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱880.6 milyon"
+    },
+    {
+      "taon": 2018,
+      "pamagat": "The Hows of Us",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱810 milyon"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "The Super Parental Guardians",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱590 million"
+    },
+    {
+      "taon": 2018,
+      "pamagat": "Fantastica",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱596 million"
+    },
+    {
+      "taon": 2017,
+      "pamagat": "Gandarrapiddo: The Revenger Squad",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱571 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "A Second Chance",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱556 million"
+    },
+    {
+      "taon": 2019,
+      "pamagat": "Miracle in Cell No. 7",
+      "kompanya_ng_produksyon": "Viva Films",
+      "kabuuang_kita": "₱543 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "Beauty and the Bestie",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱529 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "The Amazing Praybeyt Benjamin",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱455 million"
+    },
+    {
+      "taon": 2013,
+      "pamagat": "Girl, Boy, Bakla, Tomboy",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱421 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "Starting Over Again",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱410.8 million"
+    },
+    {
+      "taon": 2017,
+      "pamagat": "My Ex and Whys",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱400 million"
+    },
+    {
+      "taon": 2012,
+      "pamagat": "Sisterakas",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱393.4 million"
+    },
+    {
+      "taon": 2013,
+      "pamagat": "It Takes a Man and a Woman",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱387 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "My Bebe Love: KiligPaMore",
+      "kompanya_ng_produksyon": "GMA Pictures, OctoArts Films, M-Zet Productions, APT Entertainment, MEDA Productions",
+      "kabuuang_kita": "₱385 million"
+    },
+    {
+      "taon": 2018,
+      "pamagat": "Jack Em Popoy: The Puliscredibles",
+      "kompanya_ng_produksyon": "M-Zet Productions, APT Entertainment, CCM Film Productions",
+      "kabuuang_kita": "₱383 million"
+    },
+    {
+      "taon": 2017,
+      "pamagat": "Ang Panday",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films, CCM Film Productions",
+      "kabuuang_kita": "₱379 million"
+    },
+    {
+      "taon": 2013,
+      "pamagat": "My Little Bossings",
+      "kompanya_ng_produksyon": "OctoArts Films, M-Zet Productions, APT Entertainment, K Productions",
+      "kabuuang_kita": "₱375.9 million"
+    },
+    {
+      "taon": 2019,
+      "pamagat": "Alone/Together",
+      "kompanya_ng_produksyon": "Black Sheep Productions, Project 8 Corner San Joaquin Projects",
+      "kabuuang_kita": "₱370 million"
+    },
+    {
+      "taon": 2018,
+      "pamagat": "Exes Baggage",
+      "kompanya_ng_produksyon": "Black Sheep Productions",
+      "kabuuang_kita": "₱355.5 million"
+    },
+    {
+      "taon": 2011,
+      "pamagat": "The Unkabogable Praybeyt Benjamin",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱332 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "Bride for Rent",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱326 million"
+    },
+    {
+      "taon": 2019,
+      "pamagat": "The Mall, The Merrier",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱322 million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "Barcelona: A Love Untold",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱321 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "Crazy Beautiful You",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱320 million"
+    },
+    {
+      "taon": 2017,
+      "pamagat": "Can't Help Falling in Love",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱320 million"
+    },
+    {
+      "taon": 2017,
+      "pamagat": "Kita Kita",
+      "kompanya_ng_produksyon": "Viva Films, Spring Films, Sharo Entertainment Productions",
+      "kabuuang_kita": "₱320 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "The Love Affair",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱320 million"
+    },
+    {
+      "taon": 2017,
+      "pamagat": "Finally Found Someone",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱316.5 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "She's Dating the Gangster",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱286 million"
+    },
+    {
+      "taon": 2011,
+      "pamagat": "No Other Woman",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱278.4 million"
+    },
+    {
+      "taon": 2011,
+      "pamagat": "Enteng ng Ina Mo",
+      "kompanya_ng_produksyon": "Star Cinema, OctoArts Films, M-Zet Productions, APT Entertainment",
+      "kabuuang_kita": "₱272 million"
+    },
+    {
+      "taon": 2017,
+      "pamagat": "Seven Sundays",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱271 million"
+    },
+    {
+      "taon": 2012,
+      "pamagat": "The Mistress",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱262.8 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "Heneral Luna",
+      "kompanya_ng_produksyon": "Artikulo Uno Productions",
+      "kabuuang_kita": "₱256 million"
+    },
+    {
+      "taon": 2017,
+      "pamagat": "Unexpectedly Yours",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱249 million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "The Unmarried Wife",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱246.3 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "Feng Shui 2",
+      "kompanya_ng_produksyon": "Star Cinema, K Productions",
+      "kabuuang_kita": "₱235 million"
+    },
+    {
+      "taon": 2009,
+      "pamagat": "You Changed My Life",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "232.2 million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "Just the 3 of Us",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱230 million"
+    },
+    {
+      "taon": 2008,
+      "pamagat": "Ang Tanging Ina N'yong Lahat",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱229.9 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "Felix Manalo",
+      "kompanya_ng_produksyon": "Viva Films",
+      "kabuuang_kita": "₱226 million"
+    },
+    {
+      "taon": 2019,
+      "pamagat": "The Panti Sisters",
+      "kompanya_ng_produksyon": "Black Sheep Productions, The IdeaFirst Company, Quantum Films",
+      "kabuuang_kita": "₱213.9 million"
+    },
+    {
+      "taon": 2012,
+      "pamagat": "One More Try",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱213 million"
+    },
+    {
+      "taon": 2010,
+      "pamagat": "Ang Tanging Ina Mo (Last na 'To!)",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱210 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "You're My Boss",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱210 million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "Everything About Her",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱208 million"
+    },
+    {
+      "taon": 2006,
+      "pamagat": "Sukob",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱203 Million"
+    },
+    {
+      "taon": 2019,
+      "pamagat": "Eerie",
+      "kompanya_ng_produksyon": "Star Cinema, Cre8 Productions",
+      "kabuuang_kita": "₱201 Million"
+    },
+    {
+      "taon": 2012,
+      "pamagat": "This Guy's in Love with U Mare!",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱200 Million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "Imagine You and Me",
+      "kompanya_ng_produksyon": "GMA Pictures, M-Zet Productions, APT Entertainment",
+      "kabuuang_kita": "₱190 million"
+    },
+    {
+      "taon": 2013,
+      "pamagat": "Pagpag: Siyam na Buhay",
+      "kompanya_ng_produksyon": "Star Cinema, Regal Entertainment",
+      "kabuuang_kita": "₱188 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "The Breakup Playlist",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱188 million"
+    },
+    {
+      "taon": 2006,
+      "pamagat": "Kasal, Kasali, Kasalo",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱187 million"
+    },
+    {
+      "taon": 2008,
+      "pamagat": "A Very Special Love",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱185.2 million"
+    },
+    {
+      "taon": 2010,
+      "pamagat": "Si Agimat at si Enteng Kabisote",
+      "kompanya_ng_produksyon": "GMA Pictures, OctoArts Films, M-Zet Productions, APT Entertainment, Imus Productions",
+      "kabuuang_kita": "₱171 million"
+    },
+    {
+      "taon": 2018,
+      "pamagat": "Kasal",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱170 million"
+    },
+    {
+      "taon": 2000,
+      "pamagat": "Anak",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱165.9 million"
+    },
+    {
+      "taon": 2010,
+      "pamagat": "My Amnesia Girl",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱164 million"
+    },
+    {
+      "taon": 2013,
+      "pamagat": "Bromance: My Brother's Romance",
+      "kompanya_ng_produksyon": "Star Cinema, Skylight Films",
+      "kabuuang_kita": "₱163.5 million"
+    },
+    {
+      "taon": 2018,
+      "pamagat": "Sid &amp; Aya: Not a Love Story",
+      "kompanya_ng_produksyon": "Viva Films, N² Productions",
+      "kabuuang_kita": "₱160 million"
+    },
+    {
+      "taon": 2005,
+      "pamagat": "Enteng Kabisote 2: Okay Ka, Fairy Ko",
+      "kompanya_ng_produksyon": "OctoArts Films, M-Zet Productions",
+      "kabuuang_kita": "₱158 million"
+    },
+    {
+      "taon": 2006,
+      "pamagat": "First Day High",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱158 million"
+    },
+    {
+      "taon": 2012,
+      "pamagat": "Unofficially Yours",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱157.2 million"
+    },
+    {
+      "taon": 2007,
+      "pamagat": "One More Chance",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱152.7 million"
+    },
+    {
+      "taon": 2012,
+      "pamagat": "Si Agimat, si Enteng Kabisote at si Ako",
+      "kompanya_ng_produksyon": "GMA Pictures, OctoArts Films, M-Zet Productions, APT Entertainment, Imus Productions",
+      "kabuuang_kita": "₱152 million"
+    },
+    {
+      "taon": 2018,
+      "pamagat": "Ang Dalawang Mrs. Reyes",
+      "kompanya_ng_produksyon": "Star Cinema, The IdeaFirst Company, Quantum Films",
+      "kabuuang_kita": "₱150 million"
+    },
+    {
+      "taon": 2007,
+      "pamagat": "Sakal, Sakali, Saklolo",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱150 million"
+    },
+    {
+      "taon": 2019,
+      "pamagat": "Unforgettable",
+      "kompanya_ng_produksyon": "Viva Films, The IdeaFirst Company",
+      "kabuuang_kita": "₱150 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "Ex with Benefits",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱145 million"
+    },
+    {
+      "taon": 2013,
+      "pamagat": "Four Sisters and a Wedding",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱145 million"
+    },
+    {
+      "taon": 2006,
+      "pamagat": "Enteng Kabisote 3: Okay Ka, Fairy Ko",
+      "kompanya_ng_produksyon": "OctoArts Films, M-Zet Productions",
+      "kabuuang_kita": "₱144 million"
+    },
+    {
+      "taon": 2010,
+      "pamagat": "Miss You Like Crazy",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱143 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "Maybe This Time",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱140.6 million"
+    },
+    {
+      "taon": 2009,
+      "pamagat": "In My Life",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱140.5 million"
+    },
+    {
+      "taon": 2018,
+      "pamagat": "Miss Granny",
+      "kompanya_ng_produksyon": "Viva Films, N² Productions",
+      "kabuuang_kita": "₱140 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "My Big Bossing",
+      "kompanya_ng_produksyon": "OctoArts Films, M-Zet Productions, APT Entertainment",
+      "kabuuang_kita": "₱140 million"
+    },
+    {
+      "taon": 2007,
+      "pamagat": "A Love Story",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱139.6 million"
+    },
+    {
+      "taon": 2008,
+      "pamagat": "Caregiver",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱139 million"
+    },
+    {
+      "taon": 2011,
+      "pamagat": "Segunda Mano",
+      "kompanya_ng_produksyon": "Star Cinema, AgostoDos Pictures, MJM Productions",
+      "kabuuang_kita": "₱138.7 million"
+    },
+    {
+      "taon": 2013,
+      "pamagat": "She's The One",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱137 million"
+    },
+    {
+      "taon": 2003,
+      "pamagat": "Ang Tanging Ina",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱136 million"
+    },
+    {
+      "taon": 2018,
+      "pamagat": "My Perfect You",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱136 million"
+    },
+    {
+      "taon": 2004,
+      "pamagat": "Milan",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱135.8 million"
+    },
+    {
+      "taon": 2006,
+      "pamagat": "Don't Give Up on Us",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱135 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "English Only, Please",
+      "kompanya_ng_produksyon": "Quantum Films, MJM Productions, Tuko Film Productions, Buchi Boy Films",
+      "kabuuang_kita": "₱135 million"
+    },
+    {
+      "taon": 2008,
+      "pamagat": "For the First Time",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱134.7 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "That Thing Called Tadhana",
+      "kompanya_ng_produksyon": "Cinema One Originals, Epicmedia, Monoxide Works, One Dash Zero Cinetools",
+      "kabuuang_kita": "₱134 million"
+    },
+    {
+      "taon": 2012,
+      "pamagat": "Kimmy Dora and the Temple of Kiyeme",
+      "kompanya_ng_produksyon": "Star Cinema, Spring Films",
+      "kabuuang_kita": "₱133.4 million"
+    },
+    {
+      "taon": 2011,
+      "pamagat": "Catch Me, I'm in Love",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱130 million"
+    },
+    {
+      "taon": 2004,
+      "pamagat": "Enteng Kabisote 1: Okay Ka, Fairy Ko",
+      "kompanya_ng_produksyon": "OctoArts Films, M-Zet Productions",
+      "kabuuang_kita": "₱130 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "Haunted Mansion",
+      "kompanya_ng_produksyon": "Regal Entertainment",
+      "kabuuang_kita": "₱128 million"
+    },
+    {
+      "taon": 2006,
+      "pamagat": "Close To You",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱127 million"
+    },
+    {
+      "taon": 2010,
+      "pamagat": "Dalaw",
+      "kompanya_ng_produksyon": "Star Cinema, CineMedia, MJM Productions",
+      "kabuuang_kita": "₱125 million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "Vince and Kath and James",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱123 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "Da Possessed",
+      "kompanya_ng_produksyon": "Star Cinema, Regal Entertainment",
+      "kabuuang_kita": "₱122 million"
+    },
+    {
+      "taon": 2007,
+      "pamagat": "Ouija",
+      "kompanya_ng_produksyon": "GMA Pictures, Viva Films",
+      "kabuuang_kita": "₱120.6 million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "Camp Sawi",
+      "kompanya_ng_produksyon": "Viva Films, N² Productions",
+      "kabuuang_kita": "₱120 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "Diary ng Panget",
+      "kompanya_ng_produksyon": "Viva Films",
+      "kabuuang_kita": "₱120 million"
+    },
+    {
+      "taon": 2009,
+      "pamagat": "I Love You, Goodbye",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱120 million"
+    },
+    {
+      "taon": 2008,
+      "pamagat": "Shake, Rattle & Roll X",
+      "kompanya_ng_produksyon": "Regal Entertainment, Regal Multimedia, Inc.",
+      "kabuuang_kita": "₱119 million"
+    },
+    {
+      "taon": 2010,
+      "pamagat": "Here Comes the Bride",
+      "kompanya_ng_produksyon": "Star Cinema, OctoArts Films, Quantum Films",
+      "kabuuang_kita": "₱117 million"
+    },
+    {
+      "taon": 2011,
+      "pamagat": "In the Name of Love",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱117 million"
+    },
+    {
+      "taon": 2008,
+      "pamagat": "Iskul Bukol 20 Years After",
+      "kompanya_ng_produksyon": "OctoArts Films, M-Zet Productions, APT Entertainment",
+      "kabuuang_kita": "₱116 million"
+    },
+    {
+      "taon": 2005,
+      "pamagat": "Dubai",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱115 million"
+    },
+    {
+      "taon": 2019,
+      "pamagat": "Jowable",
+      "kompanya_ng_produksyon": "Viva Films, VinCentiments",
+      "kabuuang_kita": "₱115 million"
+    },
+    {
+      "taon": 2003,
+      "pamagat": "Ngayong Nandito Ka",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱115 million"
+    },
+    {
+      "taon": 2004,
+      "pamagat": "Feng Shui",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱114.2 million"
+    },
+    {
+      "taon": 2012,
+      "pamagat": "My Kontrabida Girl",
+      "kompanya_ng_produksyon": "GMA Pictures",
+      "kabuuang_kita": "₱113 million"
+    },
+    {
+      "taon": 2002,
+      "pamagat": "Got 2 Believe",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱112.2 million"
+    },
+    {
+      "taon": 2017,
+      "pamagat": "Love You to the Stars and Back",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱112 million"
+    },
+    {
+      "taon": 2007,
+      "pamagat": "Ang Cute Ng Ina Mo",
+      "kompanya_ng_produksyon": "Star Cinema, Viva Films",
+      "kabuuang_kita": "₱110 million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "Die Beautiful",
+      "kompanya_ng_produksyon": "Regal Entertainment, Octobertrain Films, The IdeaFirst Company",
+      "kabuuang_kita": "₱110 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "The Gifted",
+      "kompanya_ng_produksyon": "Viva Films, MVP Entertainment",
+      "kabuuang_kita": "₱110 million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "The Third Party",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱110 million"
+    },
+    {
+      "taon": 2009,
+      "pamagat": "Ang Panday",
+      "kompanya_ng_produksyon": "GMA Pictures, Imus Productions",
+      "kabuuang_kita": "₱108 million"
+    },
+    {
+      "taon": 2003,
+      "pamagat": "Till There Was You",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱107.4 million"
+    },
+    {
+      "taon": 2018,
+      "pamagat": "Aurora",
+      "kompanya_ng_produksyon": "Viva Films, Aliud Entertainment",
+      "kabuuang_kita": "₱107 million"
+    },
+    {
+      "taon": 2008,
+      "pamagat": "My Best Friend's Girlfriend",
+      "kompanya_ng_produksyon": "GMA Pictures, Regal Entertainment",
+      "kabuuang_kita": "₱107 million"
+    },
+    {
+      "taon": 2005,
+      "pamagat": "Let the Love Begin",
+      "kompanya_ng_produksyon": "GMA Pictures",
+      "kabuuang_kita": "₱106 million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "Always Be My Maybe",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱105 million"
+    },
+    {
+      "taon": 2019,
+      "pamagat": "Cuddle Weather",
+      "kompanya_ng_produksyon": "Regal Entertainment, Project 8 Corner San Joaquin Projects",
+      "kabuuang_kita": "₱105 million"
+    },
+    {
+      "taon": 2008,
+      "pamagat": "I.T.A.L.Y.",
+      "kompanya_ng_produksyon": "GMA Pictures",
+      "kabuuang_kita": "₱104.7 million"
+    },
+    {
+      "taon": 2012,
+      "pamagat": "The Healing",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱104.6 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "Etiquette for Mistresses",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱103.2 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "Everyday, I Love You",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱102.7 million"
+    },
+    {
+      "taon": 2014,
+      "pamagat": "Somebody to Love",
+      "kompanya_ng_produksyon": "Regal Entertainment",
+      "kabuuang_kita": "₱102.6 million"
+    },
+    {
+      "taon": 2009,
+      "pamagat": "BFF: Best Friends Forever",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱102.5 million"
+    },
+    {
+      "taon": 2013,
+      "pamagat": "Bakit Hindi Ka Crush ng Crush Mo?",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱102.3 million"
+    },
+    {
+      "taon": 2006,
+      "pamagat": "Till I Met You",
+      "kompanya_ng_produksyon": "GMA Pictures, Viva Films",
+      "kabuuang_kita": "₱100.4 million"
+    },
+    {
+      "taon": 2005,
+      "pamagat": "Can This Be Love",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱100 million"
+    },
+    {
+      "taon": 2019,
+      "pamagat": "Just a Stranger",
+      "kompanya_ng_produksyon": "Viva Films",
+      "kabuuang_kita": "₱100 million"
+    },
+    {
+      "taon": 2015,
+      "pamagat": "Just the Way You Are",
+      "kompanya_ng_produksyon": "Star Cinema",
+      "kabuuang_kita": "₱100 million"
+    },
+    {
+      "taon": 2006,
+      "pamagat": "Moments of Love",
+      "kompanya_ng_produksyon": "GMA Pictures",
+      "kabuuang_kita": "₱100 million"
+    },
+    {
+      "taon": 2009,
+      "pamagat": "Sundo",
+      "kompanya_ng_produksyon": "GMA Pictures",
+      "kabuuang_kita": "₱100 million"
+    },
+    {
+      "taon": 2016,
+      "pamagat": "This Time",
+      "kompanya_ng_produksyon": "Viva Films",
+      "kabuuang_kita": "₱100 million"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pelikulang Pilipino na may Pinakamataas na Kita sa Takilya - Free Download",
+    "description": "Talaan ng mga pelikulang Pilipino ayon sa kabuuang kita sa takilya, kasama ang taon, pamagat at kompanya ng produksyon. Contains 136 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pelikulang Pilipino na may Pinakamataas na Kita sa Takilya | ListBase",
+    "seo_description": "Download Mga Pelikulang Pilipino na may Pinakamataas na Kita sa Takilya — 136 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 136 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_pelikulang_Pilipino_ayon_sa_kabuuang_kita"
+    ]
+  }
+}

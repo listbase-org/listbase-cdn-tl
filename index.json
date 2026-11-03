@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-03T02:09:48.572Z",
-  "total_datasets": 481,
-  "total_records": 446008,
+  "generated": "2026-11-03T02:09:55.486Z",
+  "total_datasets": 482,
+  "total_records": 446144,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -3429,6 +3429,31 @@
         "xlsx": {
           "name": "tl-pelikulang-pilipino_TL.xlsx",
           "size": 75581
+        }
+      }
+    },
+    {
+      "id": "tl-pelikulang-pilipino-ayon-sa-kita",
+      "name": "Mga Pelikulang Pilipino na may Pinakamataas na Kita sa Takilya",
+      "category": "entertainment",
+      "record_count": 136,
+      "columns": [
+        "taon",
+        "pamagat",
+        "kompanya_ng_produksyon",
+        "kabuuang_kita"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_pelikulang_Pilipino_ayon_sa_kabuuang_kita",
+      "updated": "2026-11",
+      "size": 25215,
+      "files": {
+        "csv": {
+          "name": "tl-pelikulang-pilipino-ayon-sa-kita_TL.csv",
+          "size": 9823
+        },
+        "xlsx": {
+          "name": "tl-pelikulang-pilipino-ayon-sa-kita_TL.xlsx",
+          "size": 12087
         }
       }
     },
