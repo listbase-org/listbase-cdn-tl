@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-02T02:14:28.877Z",
-  "total_datasets": 477,
-  "total_records": 445603,
+  "generated": "2026-11-03T02:09:26.575Z",
+  "total_datasets": 478,
+  "total_records": 445790,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 41
+      "dataset_count": 42
     },
     {
       "id": "economy",
@@ -1032,6 +1032,31 @@
         "xlsx": {
           "name": "tl-metro-manila-simbahan_TL.xlsx",
           "size": 19153
+        }
+      }
+    },
+    {
+      "id": "tl-mga-diwata-at-bathala",
+      "name": "Mga Diwata, Bathala at Nilalang sa Mitolohiyang Pilipino",
+      "category": "culture",
+      "record_count": 187,
+      "columns": [
+        "pangalan",
+        "pangkat_etniko",
+        "uri",
+        "paglalarawan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_diwata_at_bathala_sa_mitolohiyang_Pilipino",
+      "updated": "2026-11",
+      "size": 61869,
+      "files": {
+        "csv": {
+          "name": "tl-mga-diwata-at-bathala_TL.csv",
+          "size": 42695
+        },
+        "xlsx": {
+          "name": "tl-mga-diwata-at-bathala_TL.xlsx",
+          "size": 21510
         }
       }
     },

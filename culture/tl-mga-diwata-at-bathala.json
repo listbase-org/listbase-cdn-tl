@@ -1,0 +1,1168 @@
+{
+  "id": "tl-mga-diwata-at-bathala",
+  "name": "Mga Diwata, Bathala at Nilalang sa Mitolohiyang Pilipino",
+  "title": "Mga Diwata, Bathala at Nilalang sa Mitolohiyang Pilipino",
+  "description": "Talaan ng mga diwata, bathala, espiritu at tauhan sa mitolohiya ng iba't ibang pangkat etniko sa Pilipinas, kasama ang maikling paglalarawan.",
+  "category": "culture",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_diwata_at_bathala_sa_mitolohiyang_Pilipino",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_diwata_at_bathala_sa_mitolohiyang_Pilipino",
+  "updated": "2026-11",
+  "record_count": 187,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "pangkat_etniko",
+      "label": "Pangkat Etniko",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "paglalarawan",
+      "label": "Paglalarawan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "Mayo",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "ang pinakamataas na nilalang; may mga ritwal na iniaalay kay Mayo lalo na sa panahon ng pangingisda"
+    },
+    {
+      "pangalan": "Mayo",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "isang bayaning mangingisda na nagpakilala ng yuyus na ginagamit sa paghuli ng lumilipad na isdang tinatawag na dibang, na siya namang ginagamit sa paghuli ng isdang arayu tuwing tag-init"
+    },
+    {
+      "pangalan": "Ang Tagapagbigay",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "ang nilalang na nagbibigay ng lahat ng bagay; ang kaluluwa ng mga may mataas na katayuan sa lipunan ay naglalakbay patungo sa tahanan ng nilalang na ito sa langit at nagiging mga bituin"
+    },
+    {
+      "pangalan": "Añitu",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "tumutukoy sa mga kaluluwa ng mga patay, mga espiritu ng lugar, at mga hindi nakikitang nilalang na hindi nauugnay sa isang tiyak na lugar o bagay"
+    },
+    {
+      "pangalan": "Añitu sa pagitan ng Chavidug at Chavayan",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "mga espiritung Añitu na iniulat na gumagawa ng tunog noong ginagawa ang bangin sa pagitan ng Chavidug at Chavayan gamit ang pagsabog ng dinamita; pinaniniwalaang lumipat ng tirahan matapos maitayo ang daanan"
+    },
+    {
+      "pangalan": "Rirryaw Añitu",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "mga espiritu ng lugar na tumutugtog ng musika at umaawit sa loob ng isang kuweba sa Sabtang, habang nag-aapoy ng ilaw; pinaniniwalaang lumipat ng tirahan matapos maistorbo ng isang tao"
+    },
+    {
+      "pangalan": "ji Rahet Añitu",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "isang nakangiting espiritu ng lugar na nanirahan sa isang matandang puno; nang putulin ng isang lalaki ang puno, natagpuan niya ang isang banga na pinaniniwalaang pag-aari ng Añitu"
+    },
+    {
+      "pangalan": "Nuvwan Añitu",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "mabubuting espiritu ng lugar na nagligtas sa isang babae mula sa isang bumabagsak na puno; iniaalay sila ng mga ritwal sa pamamagitan ng vivyayin"
+    },
+    {
+      "pangalan": "ji P'Supwan Añitu",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "mabubuting espiritu ng lugar na naging kaibigan at kakampi ng isang mortal na babaeng nagngangalang Carmen Acido; minsan ay nag-aanyong mga aso, tumulong sila sa kanya at ginabayan siya sa maraming gawain hanggang sa kanyang katandaan; sa kabila ng kanilang kabaitan, iniiwasan ng karamihan ang bukirin kung saan sila naninirahan"
+    },
+    {
+      "pangalan": "Mayavusay Añitu",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "mga espiritu ng lugar na naninirahan sa isang lupain sa Mayavusay; minsan ay nag-aanyong mga biik at kayang ibalik ang pinitas na bahagi ng halaman sa punong halaman nito"
+    },
+    {
+      "pangalan": "Añitu sa mga Batong Tambak",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "mga espiritu ng lugar na nanirahan sa batong tambak at isinumpa ang isang lalaking sumira sa kanilang tahanan; nagpakita bilang mga tao, kinausap sila ng shaman na si Balaw upang itama ang nagawang pagkakamali laban sa kanilang tirahan"
+    },
+    {
+      "pangalan": "Mayuray Añitu",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "isang gumagalang Añitu na lumawak at napuno ng kadiliman; nakasalubong ng isang batang lalaki ngunit hindi siya sinaktan; tinutukoy bilang isang kapri, isang uri ng Añitu na naglalakad at lumalaki ayon sa taas ng paligid nito"
+    },
+    {
+      "pangalan": "Dayanak Añitu",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Walang Kamatayan at mga bathala",
+      "paglalarawan": "isang uri ng napakaliit na Añitu na may pulang mata at gintong alahas; ang pagtanggap ng kanilang gintong alahas ay nagdudulot ng kasawian"
+    },
+    {
+      "pangalan": "Benita",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang mortal na babae na dinalaw ng Añitu ng kanyang yumaong asawa, na humantong sa pagbabalik ng tatlong piraso ng lupa sa tunay na may-ari; sa ibang kuwento, siya ay dinalaw ng Añitu ng kanyang yumaong inaanak, na nagresulta sa pagsasagawa ng tamang ritwal upang mapayapa ang kaluluwa nito"
+    },
+    {
+      "pangalan": "Maria",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang mortal na babae na dinalaw ng tahimik na Añitu ng kamag-anak ng kanyang asawa; napayapa ang espiritu sa pamamagitan ng panalangin"
+    },
+    {
+      "pangalan": "Juanito",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang mortal na lalaki na dinalaw sa panaginip ng Añitu ng kanyang yumaong ama, na humantong sa kanyang pagsang-ayon na bigyan ng mas malaking bahagi ng mana ang kanyang kalahating kapatid na si Maring"
+    },
+    {
+      "pangalan": "Asawa ni Leoncio Cabading",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Mortal",
+      "paglalarawan": "dinalaw ng Añitu ng kanyang yumaong asawa, na nagsabi sa kanya na ihinto ang mga panalangin dahil wala itong magagawa, sapagkat siya ay namatay sa isang marahas na pagguho ng lupa; inalok siya ng espiritu na sumama, ngunit tinanggihan niya ito"
+    },
+    {
+      "pangalan": "Carmen Acido",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang mortal na babae na naging kaibigan at kakampi ng mga Añitu mula sa ji P'Supwan; nabuhay siya nang mahigit 80 taon"
+    },
+    {
+      "pangalan": "Balaw",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang manggagamot at shaman na may kakayahang makipag-usap at kumontrol sa ilang Añitu"
+    },
+    {
+      "pangalan": "Maria Barios",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang babae na may likod-basket na sinakyan ng isang gumagalang Añitu, na kanyang dinala hanggang sa makarating siya sa sentro ng bayan"
+    },
+    {
+      "pangalan": "Juan Galarion",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang lalaki na nakakita ng isang dambuhalang gumagalang Añitu, kasinglaki ng simbahan ng Mahataw; pinaniniwalaan niyang ito ay isang kapri"
+    },
+    {
+      "pangalan": "Tita",
+      "pangkat_etniko": "Ivatan",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang batang babae na kinidnap at kalaunan ay ibinalik ng gumagalang mga Añitu; habang dinadala siya ng mga Añitu, siya ay dinatnan ng regla, na naging dahilan upang tumakas ang mga Añitu; ang lugar kung saan siya bumagsak ay tinawag na Ranum ñi Tita"
+    },
+    {
+      "pangalan": "Ama-Gaolay",
+      "pangkat_etniko": "Pangasinan/Pangasinense",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Pangasinense",
+      "paglalarawan": "ang kataas-taasang diyos; simpleng tinatawag bilang Ama, ang tagapamahala ng iba pang diyos at ang lumikha ng sangkatauhan; nakikita ang lahat mula sa kanyang tahanang panghimpapawid; ama nina Agueo at Bulan"
+    },
+    {
+      "pangalan": "Agueo",
+      "pangkat_etniko": "Pangasinan/Pangasinense",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Pangasinense",
+      "paglalarawan": "ang malungkutin at tahimik na diyos ng araw na masunurin sa kanyang amang si Ama; naninirahan sa isang palasyo ng liwanag at ginto"
+    },
+    {
+      "pangalan": "Bulan",
+      "pangkat_etniko": "Pangasinan/Pangasinense",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Pangasinense",
+      "paglalarawan": "ang masayahin, mapaglaro at pilyong diyos ng buwan, na ang malamlam na palasyong pilak ang pinagmulan ng walang hanggang liwanag na naging mga bituin; gumagabay sa mga landas ng mga magnanakaw"
+    },
+    {
+      "pangalan": "Apolaqui",
+      "pangkat_etniko": "Pangasinan/Pangasinense",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Pangasinense",
+      "paglalarawan": "isang diyos ng digmaan; tinatawag ding Apolaki, ang kanyang pangalan ay kalaunan ginamit upang tukuyin ang diyos ng mga Kristiyanong nagbagong-loob"
+    },
+    {
+      "pangalan": "Anito",
+      "pangkat_etniko": "Pangasinan/Pangasinense",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Pangasinense",
+      "paglalarawan": "mga espiritung naninirahan saanman; may kakayahang magdulot ng sakit at pagdurusa, o magbigay ng gantimpala"
+    },
+    {
+      "pangalan": "Mga diwata ng katubigan",
+      "pangkat_etniko": "Pangasinan/Pangasinense",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Pangasinense",
+      "paglalarawan": "Mga Espiritu at diwata ng katubigan at ng Pistay Dayat: mga diyos na pinapayapa sa pamamagitan ng ritwal na Pistay Dayat, kung saan inihahandog ang mga alay sa mga espiritu ng tubig na nagpapakalma sa mga diyos"
+    },
+    {
+      "pangalan": "Saguday",
+      "pangkat_etniko": "Pangasinan/Pangasinense",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Pangasinense",
+      "paglalarawan": "ang diyos ng hangin"
+    },
+    {
+      "pangalan": "Sipnget",
+      "pangkat_etniko": "Pangasinan/Pangasinense",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Pangasinense",
+      "paglalarawan": "ang diyos ng kadiliman at anino"
+    },
+    {
+      "pangalan": "Mangetchay",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "tinatawag ding Mangatia; ang pinakamataas na diyos na lumikha ng buhay sa mundo bilang pag-alala sa kanyang yumaong anak na babae; naninirahan sa araw sa ibang bersyon, siya ang lumikha at tagapaghabi ng kalangitan"
+    },
+    {
+      "pangalan": "Diwata",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "anak na babae ni Mangetchay na ang kagandahan ay nagpasimula ng malaking digmaan sa pagitan ng mga diyos, na nagresulta sa pagbuo ng mundo sa pamamagitan ng mga batong itinapon ng mga diyos; nanirahan sa planetang Venus"
+    },
+    {
+      "pangalan": "Asawa ni Mangetchay",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "asawa ni Mangetchay na nanganak ng kanilang anak na babae na ang kagandahan ay nagpasimula ng malaking digmaan; naninirahan sa buwan"
+    },
+    {
+      "pangalan": "Suku",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "tinatawag ding Sinukwan, isang dambuhalang nilalang na naglalabas ng positibong mga katangian"
+    },
+    {
+      "pangalan": "Makiling",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "isang diyosa na pinakasalan si Suku"
+    },
+    {
+      "pangalan": "Malagu",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "diyosa ng kagandahan na pinakasalan ang isang mortal; anak ni Makiling at Suku"
+    },
+    {
+      "pangalan": "Mahinhin",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "diyosa ng kababaang-loob na pinakasalan ang isang mortal; anak ni Makiling at Suku"
+    },
+    {
+      "pangalan": "Matimtiman",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "diyosa ng alindog na pinakasalan ang isang mortal; anak ni Makiling at Suku"
+    },
+    {
+      "pangalan": "Aring Sinukûan",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "diyos ng araw ng digmaan at kamatayan, nagturo sa mga unang naninirahan ng industriya ng metalurhiya, paggugubat, paglilinang ng palay at kahit pagpapasimula ng digmaan; naninirahan sa Mount Arayat, at kalaunan ay isinama ang isang pambabaeng anyo; namumuno sa Arayat kasama ang diyos, si Mingan"
+    },
+    {
+      "pangalan": "Mingan",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "isang diyos na namumuno kasama si Sinukuan sa Arayat, tinatawag ding Kalaya at Alaya"
+    },
+    {
+      "pangalan": "Apolaqui",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "diyos ng araw na nakipaglaban sa kanyang kapatid na si Mayari"
+    },
+    {
+      "pangalan": "Mayari",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "diyosa ng buwan na nakipaglaban sa kanyang kapatid na si Apolaqui"
+    },
+    {
+      "pangalan": "Apûng Malyari",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "diyos ng buwan na naninirahan sa Mt. Pinatubo at namumuno sa walong ilog"
+    },
+    {
+      "pangalan": "Tálâ",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "ang maliwanag na bituin, ang nagpakilala ng pagninigosyo ng palay"
+    },
+    {
+      "pangalan": "Munag Sumalâ",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "ang gintong ahas na anak ni Aring Sinukuan; kumakatawan sa bukang-liwayway"
+    },
+    {
+      "pangalan": "Lakandanup",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "anak ni Aring Sinukuan; ang diyos ng kasakiman at kumakatawan sa araw sa tanghali"
+    },
+    {
+      "pangalan": "Gatpanapun",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "anak ni Aring Sinukuan; ang marangal na tanging nakakakilala ng kasiyahan at kumakatawan sa hapon"
+    },
+    {
+      "pangalan": "Sisilim",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "anak ni Apûng Malyari; kumakatawan sa dapithapon at tinatanggap ng mga awit ng kuliglig sa kanyang pagdating"
+    },
+    {
+      "pangalan": "Galurâ",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "kalihim na may pakpak ni Aring Sinukuan; isang dambuhalang agila at nagdadala ng mga bagyo"
+    },
+    {
+      "pangalan": "Nága",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "mga serpenteng diyos na kilala sa kanilang protektibong kalikasan; ang kanilang presensya sa mga istruktura ay mga talisman laban sa apoy"
+    },
+    {
+      "pangalan": "Lakandanum",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "isang uri ng Naga, kilala sa pamumuno sa mga katubigan"
+    },
+    {
+      "pangalan": "Lakandánup",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "diyosang ahas na dumarating tuwing kabuuang paglubog ng araw; sinusundan ng taggutom; kinakain ang anino ng isang tao, na nagiging sanhi ng pagkalanta at kamatayan; anak ni Áring Sínukuan at Dápu"
+    },
+    {
+      "pangalan": "Apung Iru (Panginoon ng Ilog)",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "inilalarawan bilang isang dambuhalang kosmikong buwaya na sumusuporta sa mundo sa kanyang likod, at matatagpuan sa ilalim ng malaking Ilog ng Mundo. Kapag nagalit, Apung Iru ay nagdudulot ng pagbaha sa mga ilog; kaya, ito ang pinagmulan ng libad o ang prosesyon ng tubig tuwing kabilugan ng buwan na pinakamalapit sa summer solstice, na isinasagawa sa taunang pagdiriwang na tinatawag na Bayung Danum (Bagong Tubig) upang placmanhin ang diyos."
+    },
+    {
+      "pangalan": "Dápu",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "diyosa ng buwaya na humahawak sa mundo sa kanyang likod; isang nunu o diyosa ng lupa, at kilala bilang ina ng dagat"
+    },
+    {
+      "pangalan": "Láwû",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "isang dambuhalang nilalang na kahaluan ng ibon, ahas, at buwaya na nagnanais sum swallowing kay Aldó at Búlan; ang kaluluwa ni Dápu na gumagawa ng kanyang mga utos habang si Dápu ay humina nang pumutok ang kanyang tiyan; sa isang hindi gaanong kilalang bersyon, si Láwû ay ang multo ni Dápu; samantalang sa isa pang bersyon, si Láwû ay isang inapo ni Dápu, na naglalayon ng paghihiganti para sa ina ng diyosa"
+    },
+    {
+      "pangalan": "Batálâ",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "diyos ng kingfisher, kilala bilang ama ng langit; kilala bilang Salaksak, siya ay nilamon ni Dápu, kung saan siya ay natunaw at ang kanyang dalawang kaluluwa ay lumabas, sumabog mula sa tiyan ni Dápu"
+    },
+    {
+      "pangalan": "Aldó",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "ang puting naglalagablab na ibon"
+    },
+    {
+      "pangalan": "Búlan",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "ang pulang naglalagablab na ibon"
+    },
+    {
+      "pangalan": "Rizal",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "isang bayani ng kultura na muling babangon sa pamamagitan ng muling pagkabuhay upang tulungan ang kanyang mga tao sa kanilang laban"
+    },
+    {
+      "pangalan": "Felipe Salvador",
+      "pangkat_etniko": "Kapampangan",
+      "uri": "Mga Walang Kamatayan at Mga bathala",
+      "paglalarawan": "isang bayani na isang araw ay magbabalik upang tulungan ang mga tao sa kanilang laban; batay sa isang makasaysayang tao"
+    },
+    {
+      "pangalan": "Bernardo Carpio",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Ang taong anyo ng sinaunang higanteng buwaya ng kailaliman na sanhi ng lindol sa mitolohiyang Tagalog bago dumating ang mga Kastila, at ng Palangíyi, ang maalamat na Hari ng mga Tagalog. Ayon sa alamat, may isang higanteng hari ang mga Tagalog—isang mesyanikong pigura —na nagngangalang Bernardo Carpio, naipit sa pagitan ng dalawang bundok o dalawang dambuhalang bato sa Kabundukan ng Montalban, at nagdudulot ng lindol tuwing sinusubukan niyang palayain ang kanyang sarili. Kapag naputol ang huling tanikala na gumagapos sa kanya, ang pang-aalipin at pang-aapi sa kanyang bayan ay mapapalitan ng kalayaan at kasiyahan. Sinasabing nagbigay-pugay sa alamat ni Bernardo Carpio ang mga rebolusyonaryong bayani ng Pilipinas na sina Jose Rizal at Andres Bonifacio —ang una sa pamamagitan ng paglalakbay sa Montalban, at ang huli sa pamamagitan ng paggawa sa mga kuweba ng Montalban bilang lihim na tagpuan ng kilusang Katipunan."
+    },
+    {
+      "pangalan": "Maria Makiling",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Ang diwata ng mga lambana at diwata ng Bundok Makiling."
+    },
+    {
+      "pangalan": "Palangíyi (mula sa Malay Palángi = bahaghari)",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Ang maalamat na hari ng mga Tagalog."
+    },
+    {
+      "pangalan": "Balitóc (Balitók = ginto)",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Isang huwarang mangkukulam (manggagaway) ng sinaunang Tagalog. Marahil siya ay espiritu ng isang tanyag na babaylan o isang kilalang mangkukulam, maaaring maalamat, hal. Si Balitók ang gumáway sa bátang yarí = Si Balitók ang bumarang sa batang ito [SB 1613: 284]."
+    },
+    {
+      "pangalan": "Bulan-hari",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Isa sa mga diyos na ipinadala ni Bathala upang tulungan ang mga tao ng Pinak; may kakayahang utusan ang ulan na bumagsak; asawa ni Bitu-in."
+    },
+    {
+      "pangalan": "Bitu-in",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Asawa ni Bulan hari, Isa sa mga diyosa na ipinadala ni Bathala upang tulungan ang mga tao ng Pinak."
+    },
+    {
+      "pangalan": "Alitaptap",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Anak nina Bulan-hari at Bitu-in; may bituin sa kanyang noo, na tinamaan ni Bulan-hari, na naging sanhi ng kanyang pagkamatay; ang kanyang natamong bituin ay naging alitaptap."
+    },
+    {
+      "pangalan": "Sidapa",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Diyos ng digmaan na nagpapasiya sa mga pagtatalo ng mga mortal. Lumitaw rin siya sa kuwentong Tagalog na \"Bakit Tumatilaok ang Manok sa Umaga.\""
+    },
+    {
+      "pangalan": "Amansinaya",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Diyosa ng mga mangingisda."
+    },
+    {
+      "pangalan": "Amihan",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Isang pangunahing diyos na namagitan nang si Bathala at Amansinaya ay naglalaban. Siya rin ay isang mahinhing diyos ng hangin, anak ni Bathala, na naglalaro sa kalahati ng taon, sapagkat kung magkasabay silang maglaro ng kanyang kapatid na si Habagat, masyado itong malakas para sa mundo."
+    },
+    {
+      "pangalan": "Habagat",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Isang masiglang diyos ng hangin, anak ni Bathala, na naglalaro sa kalahati ng taon."
+    },
+    {
+      "pangalan": "Ulilangkalulua",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Isang dambuhalang ahas na may kakayahang lumipad; kalaban ni Bathala, na napatay sa kanilang labanan."
+    },
+    {
+      "pangalan": "Galangkalulua",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Isang diyos na may pakpak at mahilig maglakbay; kasama ni Bathala na namatay dahil sa isang sakit, kung saan ang kanyang ulo ay inilibing sa libingan ni Ulilangkalulua, na naging sanhi ng pagsibol ng unang puno ng niyog, na ginamit ni Bathala sa paglikha ng unang mga tao."
+    },
+    {
+      "pangalan": "Bighari",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Ang diyosa ng bahaghari na mahilig sa mga bulaklak; anak ni Bathala."
+    },
+    {
+      "pangalan": "Rajo",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Isang higanteng nagnakaw ng pormula sa paggawa ng alak mula sa mga diyos; isinuplong ng bantay sa gabi na siya ang buwan; ang kanyang alitan sa buwan ay naging sanhi ng eklipse."
+    },
+    {
+      "pangalan": "Rizal",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Isang bayani ng kultura na namuno sa paghahanap ng Gintong Guya ng Banahaw; ayon sa alamat, kapag sumiklab ang isang pandaigdigang digmaan, siya at ang Doce Pares ay bababa mula sa bundok kasama ang Gintong Guya upang tulungan ang kanyang bayan sa kanilang pakikibaka; isang bersyon ang nagsasaad na siya ay darating sa pamamagitan ng isang barko."
+    },
+    {
+      "pangalan": "Nuno",
+      "pangkat_etniko": "Tagalog",
+      "uri": "Ibang mga Nilalang sa Mitolohiya",
+      "paglalarawan": "Ang nagmamay-ari ng bundok ng Taal, na hindi pinayagang bungkalin ang tuktok ng Taal."
+    },
+    {
+      "pangalan": "Gugurang",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "ang pinakamataas na diyos at diyos ng kabutihan. Naninirahan sa Bulkang Mayon, siya ang tagapagbantay ng sagradong apoy. Sa tuwing magagalit, pinapayanig niya ang bunganga ng bulkan at hinahati ang Bundok Malinao gamit ang kidlat. Ang kanyang pangalan ay nangangahulugang \"ang matanda\"."
+    },
+    {
+      "pangalan": "Linti",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "tagapaglingkod ni Gugurang na may kapangyarihang mamahala sa kidlat."
+    },
+    {
+      "pangalan": "Dalogdog",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "tagapaglingkod ni Gugurang na may kapangyarihang mamahala sa kulog."
+    },
+    {
+      "pangalan": "Asuang",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "kapatid ni Gugurang at isang masamang diyos na nagnanais makuha ang apoy ni Gugurang. Tinipon niya ang masasamang espiritu upang manaig ang imortalidad at krimen. Natalo siya ni Gugurang at nakaselyo sa ilalim ng bulkang Malinao, ngunit nananatili ang kanyang impluwensya. Siya ay naninirahan sa Bundok Malinao."
+    },
+    {
+      "pangalan": "Adlao",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "Diyos ng araw at init. Lalaking anak nina Dagat at Paros at pagsasakatawan ng araw. Sumali siya sa rebelyon ni Daga at ang kanyang katawan ay naging araw. Sa ibang alamat, sa isang labanan, pinutol niya ang isang braso ni Bulan na naging lupa, habang ang kanyang mga luha ay naging ilog at dagat."
+    },
+    {
+      "pangalan": "Bulan",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "diyos ng buwan at pinakabata sa mga lalaking anak nina Dagat at Paros. Inilalarawan bilang isang binatang may pambihirang kagandahan na nagpapasupil sa mga mababangis na hayop at sirena (Magindara). Siya ay may malalim na pagmamahal kay Magindang ngunit madalas tumatakas dahil sa kanyang hiya. Sa ibang alamat, buhay siya at mula sa kanyang naputol na braso nabuo ang lupa, habang mula sa kanyang mga luha nabuo ang mga ilog at dagat."
+    },
+    {
+      "pangalan": "Haliya",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "ang diyosa ng liwanag ng buwan na may maskara at mortal na kaaway ni Bakunawa. Siya ang tagapagtanggol ni Bulan. Ang kanyang kulto ay binubuo ng mga kababaihan, at may ritwal na sayaw bilang proteksyon laban kay Bakunawa."
+    },
+    {
+      "pangalan": "Magindang",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "diyos ng dagat at pangingisda. Gumagabay siya sa mga mangingisda upang makakuha ng maraming huli gamit ang tunog at mga palatandaan. Siya ay patuloy na hinahabol si Bulan ngunit hindi kailanman nahuhuli."
+    },
+    {
+      "pangalan": "Bakunawa",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "isang dambuhalang igat-ahas na nais lunukin ang buwan at nagiging sanhi ng mga eklipse. Siya ay mortal na kaaway ni Haliya."
+    },
+    {
+      "pangalan": "Okot",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "diyos ng kagubatan at pangangaso. Ang kanyang sipol ay nag-aakay sa mga mangangaso patungo sa kanilang mabibiktima."
+    },
+    {
+      "pangalan": "Languiton",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "diyos ng langit."
+    },
+    {
+      "pangalan": "Tubigan",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "diyos ng tubig."
+    },
+    {
+      "pangalan": "Dagat",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "diyosa ng dagat at asawa ni Paros."
+    },
+    {
+      "pangalan": "Paros",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "diyos ng hangin at asawa ni Dagat."
+    },
+    {
+      "pangalan": "Daga",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "anak nina Dagat at Paros. Minana niya ang kapangyarihan ng kanyang ama sa hangin at nag-alsa laban sa kanyang lolo na si Languit ngunit nabigo. Sa kanyang pagkamatay, ang kanyang katawan ay naging mundo."
+    },
+    {
+      "pangalan": "Bitoon",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "bunsong babaeng anak nina Dagat at Paros. Aksidenteng napatay siya ni Languit sa galit sa pagrerebelde ng kanyang mga apo. Ang kanyang katawan ay naging mga bituin."
+    },
+    {
+      "pangalan": "Ang Higante",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "sumusuporta sa mundo. Ang paggalaw ng kanyang hintuturo ay nagdudulot ng maliit na lindol, habang ang paggalaw ng kanyang pangatlong daliri ay nagdudulot ng malalakas na lindol. Kung igagalaw niya ang buong katawan, ang mundo ay masisira."
+    },
+    {
+      "pangalan": "Sirinaw",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "isang diyos ng araw na umibig sa isang mortal na si Rosa. Tumangging sindihan ang mundo hangga't hindi pumapayag ang kanyang ama sa kanilang kasal. Nang bumisita siya kay Rosa, nakalimutan niyang tanggalin ang kanyang kapangyarihan sa apoy at aksidenteng sinunog ang buong nayon, na nag-iwan lamang ng maiinit na bukal."
+    },
+    {
+      "pangalan": "Batala",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "isang mabuting diyos na lumaban kay Kalaon. Kinakatawan ng mga lambana at namamahala sa mga anito"
+    },
+    {
+      "pangalan": "Kalaon",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "isang masamang diyos ng apoy, bulkan at pagkawasak."
+    },
+    {
+      "pangalan": "Anak ni Kalaon",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "sinuway ang masasamang utos ng kanyang ama."
+    },
+    {
+      "pangalan": "Onos",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "ang diyos ng sakuna at kalamidad nagpakawala ng malaking baha na nagbago sa anyo ng lupa."
+    },
+    {
+      "pangalan": "Oryol",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala",
+      "paglalarawan": "isang magandang engkantada na kalahating higanteng ahas ang ibabang bahagi ng katawan. Siya ay tusong nilalang na nag-anyong magandang dalaga na may kaakit-akit na tinig. Humanga siya sa katapangan ni Handyong kaya tinulungan niya itong linisin ang lupain mula sa mababangis na nilalang hanggang sa maghari ang kapayapaan."
+    },
+    {
+      "pangalan": "Baltog",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "Si Baltog ang unang puting tao o tawong-lipod na dumating sa Bikol. Ipinanganak sa India (na tinawag na \"Boltavara\" sa epiko) mula sa matatapang na angkan ng Lipod, ipinakilala niya ang pagsasaka sa Bikol sa pamamagitan ng pagtatanim ng linsa o apay, na isang katangian ng mga maagang mananakop mula sa India. Pinatay niya ang mabangis na baboy na si Tandayag sa isang matinding labanan."
+    },
+    {
+      "pangalan": "Magayon",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "isang magandang na dalaga mula sa alamat ng Bulkang Mayon. Si Pagtuga ay isang mayabang na mang-uugpo at pinuno ng tribong Iriga, na sinubukang manalo ng pag-ibig ni Magayon ngunit tinanggihan. Si Panganoron ay ang diyos ng ulap na nagligtas kay Magayon mula sa pagkalunod at naging tunay niyang pag-ibig. Ang Bulkang Mayon, na ipinangalan kay Magayon, ay sinasabing siya ang naging bulkan, habang si Panganoron naman ay naging mga ulap na yumayakap dito."
+    },
+    {
+      "pangalan": "Panganoron",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "ay ang prinsipe ng mga ulap nagmula sa lipi ng tawong lipod nagligtas kay Magayon at naging tunay niyang pag-ibig."
+    },
+    {
+      "pangalan": "Bantong",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "Si Bantong ay isang matapang at tusong mandirigma na mag-isang pumatay sa kalahating-tao at kalahating-hayop na si Rabot, kahit na binigyan siya ni Handyong ng 1,000 mandirigma upang tulungan siya."
+    },
+    {
+      "pangalan": "Dinahong",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "Ang pangalang Dinahong ay nangangahulugang \"binalot ng dahon\". Siya ang orihinal na Bikolanong magpapalayok na pinaniniwalaang isang Agta (Negrito) o pigmiy. Tinuruan niya ang mga tao sa pagluluto, paggawa ng mga palayok na tinatawag na coron, kalan, banga, at iba pang gamit sa kusina."
+    },
+    {
+      "pangalan": "Ginantong",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "Siya ang gumawa ng araro, suyod, at iba pang kasangkapan sa pagsasaka."
+    },
+    {
+      "pangalan": "Hablom",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "Mula sa salitang hablon na nangangahulugang “maghabi”, siya ang lumikha ng unang habihan at mga panggulong sinulid sa rehiyon ng Bikol, lalo na sa paghahabi ng damit mula sa abaka."
+    },
+    {
+      "pangalan": "Handyong",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "Si Handyong ang pangunahing tauhan sa epiko. Dumating siya sa Bikol kasunod ni Baltog at naging pinakatanyag sa mga tawong-lipod. Nilinis niya ang lupain mula sa mababangis na halimaw, hinikayat ang iba't ibang imbensyon, muling ipinakilala ang pagsasaka, nagtayo ng mga bahay sa puno kung saan iniingatan ang mga anito na tinatawag na moog, at nagpatupad ng batas na nagdala ng ginintuang panahon sa kanyang kapanahunan. Kilala rin siya bilang gumawa ng unang bangka at nagpaunlad ng pagtatanim ng palay sa binabahang lugar."
+    },
+    {
+      "pangalan": "Kimantong",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "Siya ang unang Bikolanong gumawa ng timon para sa bangka, layag, araro, suyod, at iba pang kasangkapang pang-agrikultura. May isang barangay sa Daraga, Albay na ipinangalan sa kanya."
+    },
+    {
+      "pangalan": "Sural",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "Mula sa salitang surat na nangangahulugang “magsulat” o “sulat”, siya ang unang Bikolanong nakaisip ng isang sistema ng pagsusulat. Inukit niya ito sa isang puting batong slab mula sa Libong, na pinakinis naman ni Gapon."
+    },
+    {
+      "pangalan": "Takay",
+      "pangkat_etniko": "Bicolano",
+      "uri": "Mga mortal at bayani sa alamat",
+      "paglalarawan": "Si Takay ay isang magandang dalaga na, ayon sa alamat, nalunod sa malaking baha sa epiko. Pinaniniwalaang naging halamang-tubig na tinatawag na water hyacinth sa kasalukuyang Lawa ng Bato."
+    },
+    {
+      "pangalan": "Kaptan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "ang kataas-taasan at diyos ng langit na lumaban kay Magauayan sa loob ng mahabang panahon hanggang sa namagitan si Manaul; pinuno ng Kahilwayan, ang kaharian sa langit; may kapangyarihan sa hangin at kidlat; sa ilang mga alamat, asawa ni Maguyaen; tinatawag ding Bathala sa isang alamat; tinawag ding Abba sa isang kronika"
+    },
+    {
+      "pangalan": "Maguayan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng mga katubigan; ama ni Lidagat; kapatid ni Kaptan"
+    },
+    {
+      "pangalan": "Dalagan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "ang pinakamabilis na higanteng may pakpak, may sandatang mahahabang sibat at matutulis na espada"
+    },
+    {
+      "pangalan": "Guidala",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "ang pinakamatapang na higanteng may pakpak, may hawak ding mahahabang sibat at matutulis na espada"
+    },
+    {
+      "pangalan": "Sinogo",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "ang pinakamakisig na higanteng may pakpak, paboritong lingkod ni Kaptan ngunit nagkanulo sa kanya kaya't ikinulong sa ilalim ng dagat"
+    },
+    {
+      "pangalan": "Maguyaen",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyosa ng hanging-dagat"
+    },
+    {
+      "pangalan": "Magauayan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "lumaban kay Kaptan sa loob ng mahabang panahon hanggang sa mamagitan si Manaul"
+    },
+    {
+      "pangalan": "Manaul",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "ang dakilang ibon na naghulog ng malalaking bato sa labanan nina Kaptan at Magauayan, na naging sanhi ng pagbuo ng mga isla"
+    },
+    {
+      "pangalan": "Lidagat",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyosa ng dagat; asawa ng hangin; anak ni Maguayan"
+    },
+    {
+      "pangalan": "Lihangin",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng hangin; asawa ng dagat; anak ni Kaptan"
+    },
+    {
+      "pangalan": "Licalibutan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "anak na lalaki nina Lidagat at Lihangin na may katawang bato; nagmana ng kapangyarihan sa hangin mula sa kanyang ama; nag-alsa laban kay Kaptan at pinatay ng galit ng kanyang lolo; naging lupa ang kanyang katawan"
+    },
+    {
+      "pangalan": "Liadlao",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "anak na lalaki nina Lidagat at Lihangin na may gintong katawan; pinatay ng galit ni Kaptan sa panahon ng paghihimagsik; naging araw ang kanyang katawan"
+    },
+    {
+      "pangalan": "Libulan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "anak na lalaki nina Lidagat at Lihangin na may katawang tanso; pinatay ng galit ni Kaptan sa panahon ng paghihimagsik; naging buwan ang kanyang katawan"
+    },
+    {
+      "pangalan": "Lisuga",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "anak na babae nina Lidagat at Lihangin na may pilak na katawan; di sinasadyang napatay ni Kaptan sa kanyang galit; naging mga bituin ang kanyang katawan"
+    },
+    {
+      "pangalan": "Adlaw",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng araw na sinasamba ng mga mabubuti"
+    },
+    {
+      "pangalan": "Bulan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng buwan na nagbibigay-liwanag sa mga makasalanan at gumagabay sa gabi"
+    },
+    {
+      "pangalan": "Bakunawa",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng serpiyente na kayang pumalupot sa mundo; naghangad na lamunin ang pitong buwan, at matagumpay na nilamon ang anim; ang huli ay binantayan ng kawayan"
+    },
+    {
+      "pangalan": "Makilum-sa-twan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng mga kapatagan at lambak"
+    },
+    {
+      "pangalan": "Makilum-sa-bagidan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng apoy"
+    },
+    {
+      "pangalan": "Makilum-sa-tubig",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng dagat"
+    },
+    {
+      "pangalan": "Kasaray-sarayan-sa-silgan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng mga batis"
+    },
+    {
+      "pangalan": "Magdan-durunoon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng mga nakatagong lawa"
+    },
+    {
+      "pangalan": "Sarangan-sa-bagtiw",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng bagyo"
+    },
+    {
+      "pangalan": "Suklang-malaon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyosa ng masayang tahanan"
+    },
+    {
+      "pangalan": "Alunsina",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyosa ng langit"
+    },
+    {
+      "pangalan": "Abyang",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "isa pang diyos sa ilalim ni Kaptan"
+    },
+    {
+      "pangalan": "Maka-ako",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "tinatawag ding Laon; lumikha ng sansinukob"
+    },
+    {
+      "pangalan": "Linok",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng lindol"
+    },
+    {
+      "pangalan": "Makabosog",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "pinayukod na pinuno na nagbibigay ng pagkain sa mga nagugutom"
+    },
+    {
+      "pangalan": "Sidapa",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "Mataas na diwata at diyos ng kamatayan; kasamang namumuno sa gitnang mundo, Kamaritaan, halos sing lakas ni Makaptan"
+    },
+    {
+      "pangalan": "Makaptan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos ng sakit; kasamang namumuno sa Kamaritaan, kasama si Sidapa; kapatid nina Magyan at Sumpoy"
+    },
+    {
+      "pangalan": "Lalahon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyosa ng apoy, bulkan, at ani; tinatawag ding Laon"
+    },
+    {
+      "pangalan": "Santonilyo",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "diyos na nagpapadala ng ulan kapag inilulubog ang kanyang imahen sa dagat; tinawag ding diyos ng mga Kastila"
+    },
+    {
+      "pangalan": "Cacao",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "Maria Kakaw ang diwata ng Bundok Lantoy na nagbebenta ng kanyang produkto sa pamamagitan ng gintong barko na kayang bumaha sa mga ilog"
+    },
+    {
+      "pangalan": "Mangao",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Walang Kamatayan, Mga Diwata at bathala ng mga Sinaunang Bisaya",
+      "paglalarawan": "asawa ni Cacao"
+    },
+    {
+      "pangalan": "Sicabay",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "ang unang babae"
+    },
+    {
+      "pangalan": "Sicalac",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "ang unang lalaki"
+    },
+    {
+      "pangalan": "Libo",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "ang unang anak at anak na lalaki ni Sicabay at Sicalac; dinala patimog pagkatapos ng pagkatalo ni Pandaguan; naging ninuno ng isang lahing may kayumangging balat"
+    },
+    {
+      "pangalan": "Saman",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "ang unang anak na babae at pangalawang anak ni Sicabay at Sicalac; dinala patimog pagkatapos ng pagkatalo ni Pandaguan; naging ninuno ng isang lahing may kayumangging balat *Pandaguan: isang bunso na anak ni Sicabay at Sicalac; isang matalinong lalaki na nag-imbento ng lambat pangisda na nakahuli ng isang higanteng pating; ama ni Arion; hinamon ang mga diyos at pinarusahan ng pagkakabasag"
+    },
+    {
+      "pangalan": "Arion",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "anak ni Pandaguan na dinala hilaga pagkatapos ng pagkatalo ni Pandaguan; naging ninuno ng isang lahing may maputing balat *Anak ni Saman at Sicalac: dinala silangan pagkatapos ng pagkatalo ni Pandaguan; naging ninuno ng isang lahing may dilaw na balat"
+    },
+    {
+      "pangalan": "Lapulapu",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang pinuno ng Mactan na matapang, malakas, at marangal, pati na rin matiyaga at walang takot lalo na sa mga oras ng armadong labanan; sa isang kwento, siya rin ay isang mangatang (pirata); natalo si Humabon sa politika, kalakalan, at teritoryo sa dagat sa karamihang kwento, ngunit sa isang kwento, natalo ni Humabon si Lapulapu; tinalo ang mga pwersa ng mga Kastila kasama ang tulong mula sa mga pwersa ng kalikasan; isang beripikadong makasaysayang tao *Humabon: isang pinuno ng Sugbo na maingat at mataas ang paggalang, ngunit matapang at magiting lalo na sa mga oras ng armadong labanan; isang beripikadong makasaysayang tao"
+    },
+    {
+      "pangalan": "Sri Lumay Bataugong",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "ang alamat na tagapagtatag ng Sugbo na sinasabing nagmula sa Sumatra"
+    },
+    {
+      "pangalan": "Sri Bantug",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang pinuno ng Sugbo *Binibini Anduki: kapatid na babae ni Sri Lumay *Bulakna: asawa ni Lapulapu; sa ibang epiko, si Lapulapu ay may tatlong asawa at labing isang anak *Sawili: anak ni Lapulapu at Bulakna *Zula: isang pinuno na may alitan kay Lapulapu dahil sa pagmamahal nila kay Bulakna *Datu Mangal: ama ni Lapulapu sa karamihan ng bersyon ng kwento at pinuno ng Mactan bago si Lapulapu; sa ibang bersyon, siya ay tiyuhin o kaibigan ni Lapulapu at kanang kamay; may mga supernatural na kapangyarihan, iba't ibang amulet ng mga buhol ng alon at langis, at isang lumilipad na kabayo"
+    },
+    {
+      "pangalan": "Matang Mataunas",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "ina ni Lapulapu; sa ibang kwento, ang ina ni Lapulapu ay si Matang Matana; kilala rin bilang Matang Mantaunas o Bauga *Malingin: anak na babae ni Datu Mangal at kapatid na babae ni Lapulapu *Sri Mohammed: lolo sa ama ni Lapulapu sa isang kwento *Sri Lamaraw Dula: kapatid ni Humabon *Bali-Alho: pinuno ng Bo. Maribago; kayang wasakin ang mga panghampas na gamit gamit ang kamay; isa sa mga pinuno ng Mactan na tapat na kaalyado ni Datu Mangal *Tindak-Bukid: pinuno ng Bo. Marigondon; kayang magpatag ng bundok gamit ang isang sipa; isa sa mga pinuno ng Mactan na tapat na kaalyado ni Datu Mangal"
+    },
+    {
+      "pangalan": "Umindig",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "pinuno ng Bo. Ibo, isang kampeon sa pakikipaglaban; isa sa mga pinuno ng Mactan na tapat na kaalyado ni Datu Mangal *Sagpang-Baha: kilala rin bilang Sampong-Baha; kayang itulak pabalik ang rumaragasang baha; isa sa mga pinuno ng Mactan na tapat na kaalyado ni Datu Mangal"
+    },
+    {
+      "pangalan": "Bugto-Pasan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "kayang putulin ang matibay na mga baging gamit ang kamay; isa sa mga pinuno ng Mactan na tapat na kaalyado ni Datu Mangal"
+    },
+    {
+      "pangalan": "Silyo",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang pinuno na humiram ng amulet kay Datu Mangal; hindi ito ibinalik at nahuli ni Datu Mangal habang tumatakas; naging bato siya kasama ang kanyang mga tauhan sa pamamagitan ng isang sumpa ni Datu Mangal; bago siya naging bato ng tuluyan, nagbigay din siya ng sumpa upang gawing bato si Datu Mangal; may kwento ring nagsasabing si Matang Mataunas at Malingin ay naging bato rin"
+    },
+    {
+      "pangalan": "Presidenteng may sungay",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga Mortal",
+      "paglalarawan": "isang presidente ng isang bayan na nais magpatuloy sa pagkontrol sa mga tao kaya't humiling siya ng mga sungay upang takutin sila; ngunit bumulusok ang kanyang hiling, at nag-withdraw ang mga tao ng kanilang suporta, na nagdulot ng kanyang kamatayan"
+    },
+    {
+      "pangalan": "Labaw Donggon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isang bayani ng epiko na naglakbay sa maraming lugar"
+    },
+    {
+      "pangalan": "Gimbitinan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "asawa ni Labaw Donggon; ina ng bayani na si Asu Mangga"
+    },
+    {
+      "pangalan": "Anggoy Doronoon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "asawa ni Labaw Donggon; ina ng bayani na si Buyung Baranugun"
+    },
+    {
+      "pangalan": "Nagmationg Yawa Sinagmaling Diwata",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isang magandang binukot at diwata na asawa ni Saragnayon; iniibig siya ni Labaw Donggon, kaya't nagkaroon ng labanan sa pagitan nila ni Saragnayon"
+    },
+    {
+      "pangalan": "Saragnayon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "asawa ni Yawa Sinagmaling; naging mortal matapos mapatay ang babuy ramo na nagbabantay sa kanyang imortalidad"
+    },
+    {
+      "pangalan": "Asu Mangga",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "bayani na anak ni Gimbitinan at Labaw Donggon; nakipaglaban kay Saragnayon upang palayain ang kanyang ama"
+    },
+    {
+      "pangalan": "Buyung Baranugun",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "bayani na anak ni Anggoy Doronoon at Labaw Donggon; nakipaglaban kay Saragnayon upang palayain ang kanyang ama"
+    },
+    {
+      "pangalan": "Humadapnon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isang bayani ng epiko; kapatid ni Labaw Donggon at asawa ni Nagmalitung Yawa; tinulungan ng isang engkantadong puno at tatlong ibong mensahero sa panliligaw kay Nagmaliyung Yawa"
+    },
+    {
+      "pangalan": "Nagmalitung Yawa",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isang makapangyarihang binukot na kay Humadapnon sa pamamagitan ng pagbabago ng anyo bilang isang lalaki na tinatawag na Buyung Sunmasakay o Datu Sunmasakay; tinalo ang isang hukbong may libo-libo sa Tarangban; nang ang kanyang ina na si Matan-ayon ay tumanda, isang ritwal ang isinagawa kung saan nalaman ni Nagmalitung Yawa ang pakikiapid ni Humadapnon; ang mga kapangyarihan ni Matan-ayon ay nailipat sa kanya, at umakyat siya sa langit kasama ang tulong ng kanyang lola na si Laonsina"
+    },
+    {
+      "pangalan": "Malubay Hanginon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isang makapangyarihang binukot na nahuli at ikinulong ni Humadapnon; tinalo ni Nagmalitung Yawa sa kanyang anyong lalaki"
+    },
+    {
+      "pangalan": "Paglambuhan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isang mandirigma na nag-iingat ng Timpara Alimuon, isang sagradong bangka, sa kanyang kuta; tinalo ni Nagmalitung Yawa, Humadapnon, at Dumalapdap"
+    },
+    {
+      "pangalan": "Matan-ayon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "ina ni Nagmalitung Yawa; nang akalaing patay na si Humadapnon, pinilit niyang ipagkasal si Nagmalitung Yawa kay Paglambuhan na muling binuhay; pinatay ni Humadapnon ang mag-asawa, ngunit muling nagkita sila ni Nagmalitung Yawa; sa epikong Sugidanon, pinakasalan niya ang nag-aalanganing si Labaw Donggon"
+    },
+    {
+      "pangalan": "Dumalapdap",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isang bayani ng epiko; kapatid ni Labaw Donggon *Tikim Kadlum: isang engkantadong aso na nagpapagalit sa halimaw na si Makabagting"
+    },
+    {
+      "pangalan": "Datu Paiburong",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "may-ari ng Tikim Kadlum"
+    },
+    {
+      "pangalan": "Amburukay",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "pinakasalan si Labaw Donggon matapos niyang payagan na gamitin ang kanyang gintong buhok sa pubis sa kudyapi ni Labaw Donggon"
+    },
+    {
+      "pangalan": "Pahagunon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isang nilalang mula sa ilalim ng lupa na nang-agaw ng isa sa mga asawa ni Labaw Donggon, si Ayon"
+    },
+    {
+      "pangalan": "Ayon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "inagaw ni Pahagunon matapos magbago ng anyo si Labaw Donggon bilang isang pagong *Diwata ng alimango: isang guro na may alaga na higanteng alimango, na tumulong sa pag-agaw ng isa sa mga asawa ni Labaw Donggon; ang kanyang tapat na alimango ay maaaring magbago ng anyo at maging isang isla na may mga puno ng betel-nut"
+    },
+    {
+      "pangalan": "Sanagnayan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isang nilalang na ang buhay-puwersa ay nasa isang itlog sa puso ng leon; ang kapatid ni Matan-ayon ay iniligtas ni Labaw Donggon mula kay Sanagnayan"
+    },
+    {
+      "pangalan": "Balanakon",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "pinigilan ng diyos ng kalangitan na maglayag papunta sa teritoryo ni Labaw Donggon, na nagdulot ng isang mahabang laban"
+    },
+    {
+      "pangalan": "Polpulan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "ama ni Marikudo, at pinuno ng Panay bago umakyat sa trono ang kanyang anak *Marikudo: ang pinuno ng Panay na tumanggap sa sampung Datus ng Borneo, na nanirahan sa isla sa pamamagitan ng mga pag-uusap sa kanya at sa kanyang mga tao; pinakasalan si Maniuantiuan at kinilala ng sampung Datus ng Borneo bilang kanilang pinuno"
+    },
+    {
+      "pangalan": "Maniuantiuan",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "ang maganda at magalang na asawa ni Marikudo na nakipagkasundo kay Pinampang; nagmula siya sa isang pook ng mga karaniwang tao"
+    },
+    {
+      "pangalan": "Mambusay",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "anak ni Marikudo na unang nakipag-usap sa sampung Datus ng Borneo at narinig ang kanilang apela"
+    },
+    {
+      "pangalan": "Makatunao",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isang tirano na pinuno na ang mga aksyon ay nagpilit sa sampung Datus ng Borneo na tumakas patungong Panay *Puti: ang pinuno ng sampung Datus ng Borneo na tumakas patungong Panay; bumalik sa Borneo at nakipaglaban kay Makatunao"
+    },
+    {
+      "pangalan": "Pinampang",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "asawa ni Puti na nakipagkasundo kay Maniuantiuan"
+    },
+    {
+      "pangalan": "Lumbay",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isa sa sampung Datus ng Borneo"
+    },
+    {
+      "pangalan": "Bankaya",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isa sa sampung Datus ng Borneo; nanirahan sa Aklan *Sumakuel: isa sa sampung Datus ng Borneo; nanirahan sa Hamtik"
+    },
+    {
+      "pangalan": "Damangsil",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isa sa sampung Datus ng Borneo *Dalugdog: isa sa sampung Datus ng Borneo *Paiburong: isa sa sampung Datus ng Borneo; nanirahan sa Irong-Irong"
+    },
+    {
+      "pangalan": "Padohinog",
+      "pangkat_etniko": "Bisaya",
+      "uri": "Mga bayani at tauhan sa mga alamat at epiko",
+      "paglalarawan": "isa sa sampung Datus ng Borneo *Dumocsol: isa sa sampung Datus ng Borneo *Kalengsusu: isa sa sampung Datus ng Borneo"
+    }
+  ],
+  "meta": {
+    "title": "Mga Diwata, Bathala at Nilalang sa Mitolohiyang Pilipino - Free Download",
+    "description": "Talaan ng mga diwata, bathala, espiritu at tauhan sa mitolohiya ng iba't ibang pangkat etniko sa Pilipinas, kasama ang maikling paglalarawan. Contains 187 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Diwata, Bathala at Nilalang sa Mitolohiyang Pilipino | ListBase",
+    "seo_description": "Download Mga Diwata, Bathala at Nilalang sa Mitolohiyang Pilipino — 187 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 187 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_diwata_at_bathala_sa_mitolohiyang_Pilipino"
+    ]
+  }
+}
