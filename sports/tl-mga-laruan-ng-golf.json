@@ -1,0 +1,288 @@
+{
+  "id": "tl-mga-laruan-ng-golf",
+  "name": "Mga Laruan ng Golf sa Pilipinas",
+  "title": "Mga Laruan ng Golf sa Pilipinas",
+  "description": "Talaan ng mga golf course at country club sa Pilipinas ayon sa lungsod o lalawigan.",
+  "category": "sports",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_laruan_ng_golf_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_laruan_ng_golf_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "lokasyon",
+      "label": "Lokasyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "Southlinks Golf Club",
+      "lokasyon": "Las Piñas"
+    },
+    {
+      "pangalan": "Club Intramuros (Intramuros)",
+      "lokasyon": "Maynila"
+    },
+    {
+      "pangalan": "Wack Wack Golf and Country Club",
+      "lokasyon": "Mandaluyong"
+    },
+    {
+      "pangalan": "Ayala Alabang Country Club. (Alabang Village)",
+      "lokasyon": "Muntinlupa"
+    },
+    {
+      "pangalan": "Ayala Southlinks Golf Club (Ayala Southvale Executive Village, Daang Hari)",
+      "lokasyon": "Muntinlupa"
+    },
+    {
+      "pangalan": "Villamor Golf Club",
+      "lokasyon": "Pasay"
+    },
+    {
+      "pangalan": "Camp Aguinaldo Golf Club",
+      "lokasyon": "Lungsod Quezon"
+    },
+    {
+      "pangalan": "Capitol Hills Golf & Country Club",
+      "lokasyon": "Lungsod Quezon"
+    },
+    {
+      "pangalan": "Veterans Golf Course (Veterans Hospital)",
+      "lokasyon": "Lungsod Quezon"
+    },
+    {
+      "pangalan": "Fort Bonifacio Golf Club (Fort Bonifacio)",
+      "lokasyon": "Taguig"
+    },
+    {
+      "pangalan": "Manila Golf & Country Club",
+      "lokasyon": "Taguig"
+    },
+    {
+      "pangalan": "Philippine Navy Golf Club",
+      "lokasyon": "Taguig"
+    },
+    {
+      "pangalan": "Kagitingan Exclusive Golf club",
+      "lokasyon": "Taguig"
+    },
+    {
+      "pangalan": "Baguio Country Club",
+      "lokasyon": "Baguio"
+    },
+    {
+      "pangalan": "Camp John Hay Golf Club",
+      "lokasyon": "Baguio"
+    },
+    {
+      "pangalan": "Calatagan Golf Club",
+      "lokasyon": "Batangas"
+    },
+    {
+      "pangalan": "Canyon Woods Resort Club",
+      "lokasyon": "Batangas"
+    },
+    {
+      "pangalan": "KC Hillcrest, formerly Evercrest Golf Club and Resort",
+      "lokasyon": "Batangas"
+    },
+    {
+      "pangalan": "Mount Malarayat Golf & Country Club",
+      "lokasyon": "Batangas"
+    },
+    {
+      "pangalan": "Club Punta Fuego",
+      "lokasyon": "Batangas"
+    },
+    {
+      "pangalan": "The Royal Northwoods Golf Club",
+      "lokasyon": "Bulacan"
+    },
+    {
+      "pangalan": "Apuao Grande Island Golf Course",
+      "lokasyon": "Camarines Norte"
+    },
+    {
+      "pangalan": "Eagle Ridge Golf & Country Club",
+      "lokasyon": "Cavite"
+    },
+    {
+      "pangalan": "Manila Southwoods Golf & Country Club",
+      "lokasyon": "Cavite"
+    },
+    {
+      "pangalan": "Puerto Azul Beach and Country Club",
+      "lokasyon": "Cavite"
+    },
+    {
+      "pangalan": "Riviera Golf and Country Club",
+      "lokasyon": "Cavite"
+    },
+    {
+      "pangalan": "Royale Tagaytay Country Club",
+      "lokasyon": "Cavite"
+    },
+    {
+      "pangalan": "Sherwood Hills Golf Club",
+      "lokasyon": "Cavite"
+    },
+    {
+      "pangalan": "Splendido Taal Residential Golf & Country Club",
+      "lokasyon": "Cavite"
+    },
+    {
+      "pangalan": "Tagaytay Highlands International Highlands Course",
+      "lokasyon": "Cavite"
+    },
+    {
+      "pangalan": "Tagaytay Highlands International Midlands course",
+      "lokasyon": "Cavite"
+    },
+    {
+      "pangalan": "The Orchard Golf & Country Club",
+      "lokasyon": "Cavite"
+    },
+    {
+      "pangalan": "Fort Ilocandia Resort Hotel",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "pangalan": "The Cliffs Golf and Beach Club",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "pangalan": "Caliraya Springs Golf & Country Club",
+      "lokasyon": "Laguna"
+    },
+    {
+      "pangalan": "Canlubang Golf & Country Club",
+      "lokasyon": "Laguna"
+    },
+    {
+      "pangalan": "South Forbes Golf Course",
+      "lokasyon": "Laguna"
+    },
+    {
+      "pangalan": "Sta. Elena Golf Club",
+      "lokasyon": "Laguna"
+    },
+    {
+      "pangalan": "TAT Filipinas Golf Club (formerly the Holiday Hills Golf & Country Club)",
+      "lokasyon": "Laguna"
+    },
+    {
+      "pangalan": "Fantasy Elephant Club",
+      "lokasyon": "Marinduque"
+    },
+    {
+      "pangalan": "Subic Bay Golf Course",
+      "lokasyon": "Olongapo"
+    },
+    {
+      "pangalan": "Mimosa Golf & Country Club (formerly called Clark Golf Club)",
+      "lokasyon": "Pampanga"
+    },
+    {
+      "pangalan": "Beverly Place Golf Club",
+      "lokasyon": "Pampanga"
+    },
+    {
+      "pangalan": "Eastridge Golf Club",
+      "lokasyon": "Rizal"
+    },
+    {
+      "pangalan": "Forest Hills Golf & Country Club",
+      "lokasyon": "Rizal"
+    },
+    {
+      "pangalan": "Valley Golf and Country Club",
+      "lokasyon": "Rizal"
+    },
+    {
+      "pangalan": "Wack Wack Golf & Country Club",
+      "lokasyon": "Rizal"
+    },
+    {
+      "pangalan": "Luisita Golf & Country Club",
+      "lokasyon": "Tarlac"
+    },
+    {
+      "pangalan": "Bacolod Golf & Country",
+      "lokasyon": "Bacolod"
+    },
+    {
+      "pangalan": "Negros Occidental Golf & Country Club",
+      "lokasyon": "Bacolod"
+    },
+    {
+      "pangalan": "Fairways and Bluewater Golf & Country Club",
+      "lokasyon": "Boracay"
+    },
+    {
+      "pangalan": "Alta Vista Golf & Country Club",
+      "lokasyon": "Cebu"
+    },
+    {
+      "pangalan": "Cebu Country Club",
+      "lokasyon": "Cebu"
+    },
+    {
+      "pangalan": "Cebu International Golf and Resort",
+      "lokasyon": "Cebu"
+    },
+    {
+      "pangalan": "Green Island Golf & Beach Resort",
+      "lokasyon": "Cebu"
+    },
+    {
+      "pangalan": "Verdemar Golf",
+      "lokasyon": "Cebu"
+    },
+    {
+      "pangalan": "Iloilo Golf & Country Club",
+      "lokasyon": "Iloilo"
+    },
+    {
+      "pangalan": "Ormoc City Golf Course",
+      "lokasyon": "Leyte"
+    },
+    {
+      "pangalan": "Dumaguete Golf and Country Club",
+      "lokasyon": "Negros Oriental"
+    },
+    {
+      "pangalan": "Del Monte Golf Club",
+      "lokasyon": "Bukidnon"
+    },
+    {
+      "pangalan": "Apo Golf & Country Club",
+      "lokasyon": "Davao"
+    },
+    {
+      "pangalan": "Rancho Palos Verdes",
+      "lokasyon": "Davao"
+    },
+    {
+      "pangalan": "Zamboanga Golf & Country Club",
+      "lokasyon": "Zamboanga"
+    }
+  ],
+  "meta": {
+    "title": "Mga Laruan ng Golf sa Pilipinas - Free Download",
+    "description": "Talaan ng mga golf course at country club sa Pilipinas ayon sa lungsod o lalawigan. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Laruan ng Golf sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Laruan ng Golf sa Pilipinas — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_laruan_ng_golf_sa_Pilipinas"
+    ]
+  }
+}

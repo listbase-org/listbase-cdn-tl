@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-03T02:09:26.575Z",
-  "total_datasets": 478,
-  "total_records": 445790,
+  "generated": "2026-11-03T02:09:33.450Z",
+  "total_datasets": 479,
+  "total_records": 445853,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -13779,6 +13779,29 @@
         "xlsx": {
           "name": "tl-mga-koponan-ng-pba_TL.xlsx",
           "size": 7548
+        }
+      }
+    },
+    {
+      "id": "tl-mga-laruan-ng-golf",
+      "name": "Mga Laruan ng Golf sa Pilipinas",
+      "category": "sports",
+      "record_count": 63,
+      "columns": [
+        "pangalan",
+        "lokasyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_laruan_ng_golf_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 7279,
+      "files": {
+        "csv": {
+          "name": "tl-mga-laruan-ng-golf_TL.csv",
+          "size": 2799
+        },
+        "xlsx": {
+          "name": "tl-mga-laruan-ng-golf_TL.xlsx",
+          "size": 8399
         }
       }
     },
