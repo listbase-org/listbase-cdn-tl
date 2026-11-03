@@ -1,0 +1,580 @@
+{
+  "id": "tl-mga-obispo-katoliko-sa-pilipinas",
+  "name": "Mga Obispo Katoliko sa Pilipinas ayon sa Diyosesis",
+  "title": "Mga Obispo Katoliko sa Pilipinas ayon sa Diyosesis",
+  "description": "Talaan ng mga arkidiyosesis at diyosesis ng Simbahang Katoliko sa Pilipinas, kasama ang lalawigang eklesiyastiko, kasalukuyang obispo o arsobispo at titulo.",
+  "category": "society",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_Obispo_Katoliko_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_Obispo_Katoliko_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "lalawigang_eklesiyastiko",
+      "label": "Lalawigang Eklesiyastiko",
+      "type": "string"
+    },
+    {
+      "key": "luklukan",
+      "label": "Luklukan",
+      "type": "string"
+    },
+    {
+      "key": "obispo",
+      "label": "Obispo",
+      "type": "string"
+    },
+    {
+      "key": "titulo",
+      "label": "Titulo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lalawigang_eklesiyastiko": "Cáceres",
+      "luklukan": "Arkidyosesis ng Cáceres",
+      "obispo": "Rex Andrew C. Alarcon",
+      "titulo": "Arsobispo ng Cáceres"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cáceres",
+      "luklukan": "Dyosesis ng Daet",
+      "obispo": "Herman G. Abcede, RCJ",
+      "titulo": "Obispo ng Daet"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cáceres",
+      "luklukan": "Dyosesis ng Legazpi",
+      "obispo": "Joel Z. Baylon",
+      "titulo": "Obispo ng Legazpi"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cáceres",
+      "luklukan": "Dyosesis ng Libmanan",
+      "obispo": "José R. Rojas Jr.",
+      "titulo": "Obispo ng Libmanan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cáceres",
+      "luklukan": "Dyosesis ng Masbate",
+      "obispo": "Sede vacante",
+      "titulo": "Obispo ng Masbate"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cáceres",
+      "luklukan": "Dyosesis ng Sorsogon",
+      "obispo": "Jose Alan V. Dialogo",
+      "titulo": "Obispo ng Sorsogon"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cáceres",
+      "luklukan": "Dyosesis ng Virac",
+      "obispo": "Luisito A. Occiano",
+      "titulo": "Obispo ng Virac"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cagayan de Oro",
+      "luklukan": "Arkidyosesis ng Cagayan de Oro",
+      "obispo": "Jose A. Cabantan",
+      "titulo": "Arsobispo ng Cagayan de Oro"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cagayan de Oro",
+      "luklukan": "Dyosesis ng Butuan",
+      "obispo": "Cosme Damian R. Almedilla",
+      "titulo": "Obispo ng Butuan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cagayan de Oro",
+      "luklukan": "Dyosesis ng Malaybalay",
+      "obispo": "Noel P. Pedregong",
+      "titulo": "Obispo ng Malaybalay"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cagayan de Oro",
+      "luklukan": "Dyosesis ng Prosperidad",
+      "obispo": "Ruben C. Labajo",
+      "titulo": "Obispo ng Prosperidad"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cagayan de Oro",
+      "luklukan": "Dyosesis ng Surigao",
+      "obispo": "Antonieto D. Cabajog",
+      "titulo": "Obispo ng Surigao"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cagayan de Oro",
+      "luklukan": "Dyosesis ng Tandag",
+      "obispo": "Raul B. Dael",
+      "titulo": "Obispo ng Tandag"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Capiz",
+      "luklukan": "Arkidyosesis ng Capiz",
+      "obispo": "Victor B. Bendico",
+      "titulo": "Arsobispo ng Capiz"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Capiz",
+      "luklukan": "Dyosesis ng Kalibo",
+      "obispo": "Cyril B. Villareal",
+      "titulo": "Obispo-pinili ng Kalibo"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Capiz",
+      "luklukan": "Dyosesis ng Romblon",
+      "obispo": "Narciso V. Abellana, MSC",
+      "titulo": "Obispo ng Romblon"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cebu",
+      "luklukan": "Arkidyosesis ng Cebu",
+      "obispo": "Alberto S. Uy",
+      "titulo": "Arsobispo ng Cebu"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cebu",
+      "luklukan": "Dyosesis ng Dumaguete",
+      "obispo": "Julito B. Cortes",
+      "titulo": "Obispo ng Dumaguete"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cebu",
+      "luklukan": "Dyosesis ng Maasin",
+      "obispo": "Precioso D. Cantillas, SDB",
+      "titulo": "Obispo ng Maasin"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cebu",
+      "luklukan": "Dyosesis ng Tagbilaran",
+      "obispo": "Sede vacante",
+      "titulo": "Obispo ng Tagbilaran"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cebu",
+      "luklukan": "Dyosesis ng Talibon",
+      "obispo": "Patrick Daniel Y. Parcon",
+      "titulo": "Obispo ng Talibon"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cotabato",
+      "luklukan": "Arkidyosesis ng Cotabato",
+      "obispo": "Charlie M. Inzon, OMI",
+      "titulo": "Arsobispo ng Cotabato"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cotabato",
+      "luklukan": "Dyosesis ng Kidapawan",
+      "obispo": "Jose Colin M. Bagaforo",
+      "titulo": "Obispo ng Kidapawan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Cotabato",
+      "luklukan": "Dyosesis ng Marbel",
+      "obispo": "Cerilo U. Casicas",
+      "titulo": "Obispo ng Marbel"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Davao",
+      "luklukan": "Arkidyosesis ng Davao",
+      "obispo": "Romulo G. Valles",
+      "titulo": "Arsobispo ng Davao"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Davao",
+      "luklukan": "Arkidyosesis ng Davao",
+      "obispo": "George B. Rimando",
+      "titulo": "Obispo Auxiliar ng Davao"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Davao",
+      "luklukan": "Dyosesis ng Digos",
+      "obispo": "Guillermo V. Afable",
+      "titulo": "Obispo ng Digos"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Davao",
+      "luklukan": "Dyosesis ng Mati",
+      "obispo": "Abel C. Apigo",
+      "titulo": "Obispo ng Mati"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Davao",
+      "luklukan": "Dyosesis ng Tagum",
+      "obispo": "Medel S. Aseo",
+      "titulo": "Obispo ng Tagum"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Jaro",
+      "luklukan": "Arkidyosesis ng Jaro",
+      "obispo": "Midyphil B. Billones",
+      "titulo": "Arsobispo ng Jaro"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Jaro",
+      "luklukan": "Dyosesis ng Bacolod",
+      "obispo": "Patricio A. Buzon, SDB",
+      "titulo": "Obispo ng Bacolod"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Jaro",
+      "luklukan": "Dyosesis ng Kabankalan",
+      "obispo": "Louie P. Galbines",
+      "titulo": "Obispo ng Kabankalan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Jaro",
+      "luklukan": "Dyosesis ng San Carlos",
+      "obispo": "Gerardo A. Alminaza",
+      "titulo": "Obispo ng San Carlos"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Jaro",
+      "luklukan": "Dyosesis ng San Jose de Antique",
+      "obispo": "Marvyn A. Maceda",
+      "titulo": "Obispo ng San Jose de Antique"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lingayen-Dagupan",
+      "luklukan": "Arkidyosesis ng Lingayen-Dagupan",
+      "obispo": "Socrates B. Villegas",
+      "titulo": "Arsobispo ng Lingayen-Dagupan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lingayen-Dagupan",
+      "luklukan": "Arkidyosesis ng Lingayen-Dagupan",
+      "obispo": "Fidelis B. Layog",
+      "titulo": "Obispo Auxiliar ng Lingayen-Dagupan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lingayen-Dagupan",
+      "luklukan": "Dyosesis ng Alaminos",
+      "obispo": "Napoleon B. Sipalay Jr., OP",
+      "titulo": "Obispo ng Alaminos"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lingayen-Dagupan",
+      "luklukan": "Dyosesis ng Cabanatuan",
+      "obispo": "Prudencio P. Andaya, Jr., CICM",
+      "titulo": "Obispo ng Cabanatuan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lingayen-Dagupan",
+      "luklukan": "Dyosesis ng San Fernando de La Union",
+      "obispo": "Daniel O. Presto",
+      "titulo": "Obispo ng San Fernando de La Union"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lingayen-Dagupan",
+      "luklukan": "Dyosesis ng San Jose (Nueva Ecija)",
+      "obispo": "Samuel N. Agcaracar, SVD",
+      "titulo": "Obispo ng San Jose (Nueva Ecija)"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lingayen-Dagupan",
+      "luklukan": "Dyosesis ng Urdaneta",
+      "obispo": "Jacinto A. Jose",
+      "titulo": "Obispo ng Urdaneta"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lipa",
+      "luklukan": "Arkidyosesis ng Lipa",
+      "obispo": "Gilbert A. Garcera",
+      "titulo": "Arsobispo ng Lipa"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lipa",
+      "luklukan": "Dyosesis ng Boac",
+      "obispo": "Edwin O. Panergo",
+      "titulo": "Obispo ng Boac"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lipa",
+      "luklukan": "Dyosesis ng Gumaca",
+      "obispo": "Euginius L. Cañete, MJ",
+      "titulo": "Obispo ng Gumaca"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lipa",
+      "luklukan": "Dyosesis ng Lucena",
+      "obispo": "Mel Rey M. Uy",
+      "titulo": "Obispo ng Lucena"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Lipa",
+      "luklukan": "Prelatura Teritoryal ng Infanta",
+      "obispo": "Dave D. Capucao",
+      "titulo": "Obispo Prelatura ng Infanta"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Arkidyosesis ng Manila",
+      "obispo": "Jose Cardinal Advincula Jr.",
+      "titulo": "Arsobispo ng Manila"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Dyosesis ng Antipolo",
+      "obispo": "Ruperto C. Santos",
+      "titulo": "Obispo ng Antipolo"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Dyosesis of Cubao",
+      "obispo": "Elias L. Ayuban Jr., CMF",
+      "titulo": "Obispo ng Cubao"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Dyosesis ng Imus",
+      "obispo": "Reynaldo G. Evangelista",
+      "titulo": "Obispo ng Imus"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Dyosesis ng Kalookan",
+      "obispo": "Pablo Virgilio Cardinal David",
+      "titulo": "Obispo ng Kalookan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Dyosesis ng Malolos",
+      "obispo": "Dennis C. Villarojo",
+      "titulo": "Obispo ng Malolos"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Dyosesis ng Novaliches",
+      "obispo": "Roberto O. Gaa",
+      "titulo": "Obispo ng Novaliches"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Dyosesis ng Parañaque",
+      "obispo": "Jesse E. Mercado",
+      "titulo": "Obispo ng Parañaque"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Dyosesis ng Pasig",
+      "obispo": "Mylo Hubert C. Vergara",
+      "titulo": "Obispo ng Pasig"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Dyosesis ng San Pablo",
+      "obispo": "Marcelino Antonio M. Maralit Jr.",
+      "titulo": "Obispo ng San Pablo"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Manila",
+      "luklukan": "Ordinariato Militar ng Philippines",
+      "obispo": "Oscar Jaime L. Florencio",
+      "titulo": "Military Ordinario of Ordinariato Militar ng Pilipinas"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Nueva Segovia",
+      "luklukan": "Arkidyosesis ng Nueva Segovia",
+      "obispo": "David William V. Antonio",
+      "titulo": "Arsobispo ng Nueva Segovia"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Nueva Segovia",
+      "luklukan": "Dyosesis ng Baguio",
+      "obispo": "Rafael T. Cruz",
+      "titulo": "Obispo ng Baguio"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Nueva Segovia",
+      "luklukan": "Dyosesis ng Bangued",
+      "obispo": "Leopoldo C. Jaucian",
+      "titulo": "Obispo ng Bangued"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Nueva Segovia",
+      "luklukan": "Dyosesis ng Laoag",
+      "obispo": "Renato P. Mayugba",
+      "titulo": "Obispo ng Laoag"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Ozamis",
+      "luklukan": "Arkidyosesis ng Ozamis",
+      "obispo": "Martin S. Jumoad",
+      "titulo": "Arsobispo ng Ozamis"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Ozamis",
+      "luklukan": "Dyosesis ng Dipolog",
+      "obispo": "Severo C. Caermare",
+      "titulo": "Obispo ng Dipolog"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Ozamis",
+      "luklukan": "Dyosesis ng Iligan",
+      "obispo": "Jose R. Rapadas III",
+      "titulo": "Obispo ng Iligan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Ozamis",
+      "luklukan": "Dyosesis ng Pagadian",
+      "obispo": "Ronald Anthony P. Timoner",
+      "titulo": "Obispo ng Pagadian"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Ozamis",
+      "luklukan": "Prelatura Teritoryal ng Marawi",
+      "obispo": "Edwin A. de la Peña, MSP",
+      "titulo": "Obispo Prelatura ng Marawi"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Palo",
+      "luklukan": "Arkidyosesis ng Palo",
+      "obispo": "John F. Du",
+      "titulo": "Arsobispo ng Palo"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Palo",
+      "luklukan": "Dyosesis ng Borongan",
+      "obispo": "Crispin B. Varquez",
+      "titulo": "Obispo ng Borongan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Palo",
+      "luklukan": "Dyosesis ng Calbayog",
+      "obispo": "Ingbelo C. Abarquez",
+      "titulo": "Obispo ng Calbayog"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Palo",
+      "luklukan": "Dyosesis ng Catarman",
+      "obispo": "Nolly C. Buco",
+      "titulo": "Obispo ng Catarman"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Palo",
+      "luklukan": "Dyosesis ng Naval",
+      "obispo": "Rex C. Ramirez",
+      "titulo": "Obispo ng Naval"
+    },
+    {
+      "lalawigang_eklesiyastiko": "San Fernando",
+      "luklukan": "Arkidyosesis ng San Fernando",
+      "obispo": "Florentino G. Lavarias",
+      "titulo": "Arsobispo ng San Fernando"
+    },
+    {
+      "lalawigang_eklesiyastiko": "San Fernando",
+      "luklukan": "Dyosesis ng Balanga",
+      "obispo": "Rufino C. Sescon Jr.",
+      "titulo": "Obispo ng Balanga"
+    },
+    {
+      "lalawigang_eklesiyastiko": "San Fernando",
+      "luklukan": "Dyosesis ng Iba",
+      "obispo": "Bartolome G. Santos Jr.",
+      "titulo": "Obispo ng Iba"
+    },
+    {
+      "lalawigang_eklesiyastiko": "San Fernando",
+      "luklukan": "Dyosesis ng Tarlac",
+      "obispo": "Roberto C. Mallari",
+      "titulo": "Obispo ng Tarlac"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Tuguegarao",
+      "luklukan": "Arkidyosesis ng Tuguegarao",
+      "obispo": "Ricardo L. Baccay",
+      "titulo": "Arsobispo ng Tuguegarao"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Tuguegarao",
+      "luklukan": "Dyosesis ng Bayombong",
+      "obispo": "Jose Elmer I. Mangalinao",
+      "titulo": "Obispo ng Bayombong"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Tuguegarao",
+      "luklukan": "Dyosesis ng Ilagan",
+      "obispo": "Sede vacante",
+      "titulo": "Obispo ng Ilagan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Tuguegarao",
+      "luklukan": "Prelatura Teritoryal ng Batanes",
+      "obispo": "Danilo B. Ulep",
+      "titulo": "Obispo Prelatura ng Batanes"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Zamboanga",
+      "luklukan": "Arkidyosesis ng Zamboanga",
+      "obispo": "Julius S. Tonel",
+      "titulo": "Arsobispo ng Zamboanga"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Zamboanga",
+      "luklukan": "Dyosesis ng Ipil",
+      "obispo": "Glenn M. Corsiga",
+      "titulo": "Obispo ng Ipil"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Zamboanga",
+      "luklukan": "Prelatura Teritoryal ng Ingbela",
+      "obispo": "Leo M. Dalmao, CMF",
+      "titulo": "Obispo Prelatura ng Ingbela"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Bikaryo Apostoliko",
+      "luklukan": "Bikaryo Apostoliko ng Tabuk",
+      "obispo": "Sede vacante",
+      "titulo": "Bikaryo Apostoliko ng Tabuk"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Bikaryo Apostoliko",
+      "luklukan": "Bikaryo Apostoliko ng Bontoc-Lagawe",
+      "obispo": "Valentin C. Dimoc",
+      "titulo": "Bikaryo Apostoliko ng Bontoc-Lagawe"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Bikaryo Apostoliko",
+      "luklukan": "Bikaryo Apostoliko ng Calapan",
+      "obispo": "Moises M. Cuevas",
+      "titulo": "Bikaryo Apostoliko ng Calapan"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Bikaryo Apostoliko",
+      "luklukan": "Bikaryo Apostoliko ng San Jose in Mindoro",
+      "obispo": "Pablito M. Tagura, SVD",
+      "titulo": "Bikaryo Apostoliko ng San Jose in Mindoro"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Bikaryo Apostoliko",
+      "luklukan": "Bikaryo Apostolikoiate ng Taytay",
+      "obispo": "Broderick S. Pabillo",
+      "titulo": "Bikaryo Apostoliko ng Taytay"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Bikaryo Apostoliko",
+      "luklukan": "Bikaryo Apostolikoiate ng Puerto Princeng",
+      "obispo": "Socrates C. Mesiona, MSP",
+      "titulo": "Bikaryo Apostoliko ng Puerto Princeng"
+    },
+    {
+      "lalawigang_eklesiyastiko": "Bikaryo Apostoliko",
+      "luklukan": "Bikaryo Apostoliko ng Jolo",
+      "obispo": "Sede vacante",
+      "titulo": "Bikaryo Apostoliko ng Jolo"
+    }
+  ],
+  "meta": {
+    "title": "Mga Obispo Katoliko sa Pilipinas ayon sa Diyosesis - Free Download",
+    "description": "Talaan ng mga arkidiyosesis at diyosesis ng Simbahang Katoliko sa Pilipinas, kasama ang lalawigang eklesiyastiko, kasalukuyang obispo o arsobispo at titulo. Contains 89 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Obispo Katoliko sa Pilipinas ayon sa Diyosesis | ListBase",
+    "seo_description": "Download Mga Obispo Katoliko sa Pilipinas ayon sa Diyosesis — 89 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 89 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_Obispo_Katoliko_sa_Pilipinas"
+    ]
+  }
+}

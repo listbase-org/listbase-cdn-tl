@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-03T02:09:41.160Z",
-  "total_datasets": 480,
-  "total_records": 445919,
+  "generated": "2026-11-03T02:09:48.572Z",
+  "total_datasets": 481,
+  "total_records": 446008,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -13673,6 +13673,31 @@
         "xlsx": {
           "name": "tl-hotline-pangemerhensiya_TL.xlsx",
           "size": 8683
+        }
+      }
+    },
+    {
+      "id": "tl-mga-obispo-katoliko-sa-pilipinas",
+      "name": "Mga Obispo Katoliko sa Pilipinas ayon sa Diyosesis",
+      "category": "society",
+      "record_count": 89,
+      "columns": [
+        "lalawigang_eklesiyastiko",
+        "luklukan",
+        "obispo",
+        "titulo"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_Obispo_Katoliko_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 18051,
+      "files": {
+        "csv": {
+          "name": "tl-mga-obispo-katoliko-sa-pilipinas_TL.csv",
+          "size": 7396
+        },
+        "xlsx": {
+          "name": "tl-mga-obispo-katoliko-sa-pilipinas_TL.xlsx",
+          "size": 10604
         }
       }
     },
