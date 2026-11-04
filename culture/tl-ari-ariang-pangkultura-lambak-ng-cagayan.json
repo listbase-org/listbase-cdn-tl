@@ -1,0 +1,206 @@
+{
+  "id": "tl-ari-ariang-pangkultura-lambak-ng-cagayan",
+  "name": "Mga Ari-ariang Pangkultura ng Pilipinas sa Lambak ng Cagayan",
+  "title": "Mga Ari-ariang Pangkultura ng Pilipinas sa Lambak ng Cagayan",
+  "description": "Talaan ng mga itinalang ari-ariang pangkultura (mga simbahan, gusali at pook) sa Rehiyon II – Lambak ng Cagayan, kasama ang lalawigan, petsa ng pagtatala at kinaroroonan.",
+  "category": "culture",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_ari-ariang_pangkultura_ng_Pilipinas_sa_Lambak_ng_Cagayan",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_ari-ariang_pangkultura_ng_Pilipinas_sa_Lambak_ng_Cagayan",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "wlm_id",
+      "label": "Wlm Id",
+      "type": "string"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "itinala",
+      "label": "Itinala",
+      "type": "string"
+    },
+    {
+      "key": "antas",
+      "label": "Antas",
+      "type": "string"
+    },
+    {
+      "key": "kategorya",
+      "label": "Kategorya",
+      "type": "string"
+    },
+    {
+      "key": "itinayo",
+      "label": "Itinayo",
+      "type": "number"
+    },
+    {
+      "key": "kinaroroonan",
+      "label": "Kinaroroonan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wlm_id": "PH-02-0001",
+      "pangalan": "Simbahan ng Basco",
+      "lalawigan": "Batanes",
+      "itinala": "Marso 26, 2008",
+      "antas": "II",
+      "kategorya": "",
+      "itinayo": "1783",
+      "kinaroroonan": "Basco"
+    },
+    {
+      "wlm_id": "PH-02-0002",
+      "pangalan": "Simbahan ng Itbayat",
+      "lalawigan": "Batanes",
+      "itinala": "Marso 26, 2008",
+      "antas": "II",
+      "kategorya": "",
+      "itinayo": "1858",
+      "kinaroroonan": "Itbayat"
+    },
+    {
+      "wlm_id": "PH-02-0003",
+      "pangalan": "Simbahan ng Ivana",
+      "lalawigan": "Batanes",
+      "itinala": "Hulyo 9, 2008",
+      "antas": "I",
+      "kategorya": "Pambansang Palatandaang Pangkasaysayan",
+      "itinayo": "1787",
+      "kinaroroonan": "Ivana"
+    },
+    {
+      "wlm_id": "PH-02-0004",
+      "pangalan": "Simbahan ng Mahatao",
+      "lalawigan": "Batanes",
+      "itinala": "Marso 26, 2008",
+      "antas": "II",
+      "kategorya": "",
+      "itinayo": "1787",
+      "kinaroroonan": "National Rd., Mahatao"
+    },
+    {
+      "wlm_id": "PH-02-0005",
+      "pangalan": "Simbahan, Kumbento at Beaterio ng Sabtang",
+      "lalawigan": "Batanes",
+      "itinala": "",
+      "antas": "I",
+      "kategorya": "",
+      "itinayo": "1785",
+      "kinaroroonan": "Sabtang"
+    },
+    {
+      "wlm_id": "PH-02-0006",
+      "pangalan": "Simbahan ng Camalaniugan",
+      "lalawigan": "Cagayan",
+      "itinala": "",
+      "antas": "",
+      "kategorya": "",
+      "itinayo": "",
+      "kinaroroonan": "Camalaniugan"
+    },
+    {
+      "wlm_id": "PH-02-0007",
+      "pangalan": "Simbahan ng Nueva Segovia",
+      "lalawigan": "Cagayan",
+      "itinala": "",
+      "antas": "",
+      "kategorya": "",
+      "itinayo": "",
+      "kinaroroonan": "Lal-lo"
+    },
+    {
+      "wlm_id": "PH-02-0008",
+      "pangalan": "Parola ng Cape Engaño",
+      "lalawigan": "Cagayan",
+      "itinala": "2009",
+      "antas": "II",
+      "kategorya": "",
+      "itinayo": "1892",
+      "kinaroroonan": "Pulo ng Palaui, Santa Ana"
+    },
+    {
+      "wlm_id": "PH-02-0009",
+      "pangalan": "Katedral ng Tuguegarao",
+      "lalawigan": "Cagayan",
+      "itinala": "Hulyo 15, 1982",
+      "antas": "II",
+      "kategorya": "",
+      "itinayo": "1767",
+      "kinaroroonan": "Rizal Street, Tuguegarao"
+    },
+    {
+      "wlm_id": "PH-02-0010",
+      "pangalan": "Iguig Church",
+      "lalawigan": "Cagayan",
+      "itinala": "",
+      "antas": "",
+      "kategorya": "",
+      "itinayo": "",
+      "kinaroroonan": "Iguig"
+    },
+    {
+      "wlm_id": "PH-02-0011",
+      "pangalan": "Pata Church Ruins",
+      "lalawigan": "Cagayan",
+      "itinala": "",
+      "antas": "",
+      "kategorya": "",
+      "itinayo": "",
+      "kinaroroonan": "Sanchez-Mira"
+    },
+    {
+      "wlm_id": "PH-02-0012",
+      "pangalan": "Pamplona Church",
+      "lalawigan": "Cagayan",
+      "itinala": "",
+      "antas": "",
+      "kategorya": "",
+      "itinayo": "",
+      "kinaroroonan": "Pamplona"
+    },
+    {
+      "wlm_id": "PH-02-0013",
+      "pangalan": "Malaueg Church",
+      "lalawigan": "Cagayan",
+      "itinala": "",
+      "antas": "",
+      "kategorya": "",
+      "itinayo": "",
+      "kinaroroonan": "Rizal"
+    },
+    {
+      "wlm_id": "PH-02-0014",
+      "pangalan": "San Jacinto Church",
+      "lalawigan": "Cagayan",
+      "itinala": "",
+      "antas": "",
+      "kategorya": "",
+      "itinayo": "",
+      "kinaroroonan": "San Jacinto, Tuguegarao"
+    }
+  ],
+  "meta": {
+    "title": "Mga Ari-ariang Pangkultura ng Pilipinas sa Lambak ng Cagayan - Free Download",
+    "description": "Talaan ng mga itinalang ari-ariang pangkultura (mga simbahan, gusali at pook) sa Rehiyon II – Lambak ng Cagayan, kasama ang lalawigan, petsa ng pagtatala at kinaroroonan. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Ari-ariang Pangkultura ng Pilipinas sa Lambak ng Cagayan | ListBase",
+    "seo_description": "Download Mga Ari-ariang Pangkultura ng Pilipinas sa Lambak ng Cagayan — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_ari-ariang_pangkultura_ng_Pilipinas_sa_Lambak_ng_Cagayan"
+    ]
+  }
+}

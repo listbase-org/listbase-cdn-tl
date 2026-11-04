@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-03T02:09:55.486Z",
-  "total_datasets": 482,
-  "total_records": 446144,
+  "generated": "2026-11-04T02:10:22.898Z",
+  "total_datasets": 483,
+  "total_records": 446158,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 42
+      "dataset_count": 43
     },
     {
       "id": "economy",
@@ -124,6 +124,35 @@
         "xlsx": {
           "name": "tl-produksyon-agrikultura-rehiyon_TL.xlsx",
           "size": 7945
+        }
+      }
+    },
+    {
+      "id": "tl-ari-ariang-pangkultura-lambak-ng-cagayan",
+      "name": "Mga Ari-ariang Pangkultura ng Pilipinas sa Lambak ng Cagayan",
+      "category": "culture",
+      "record_count": 14,
+      "columns": [
+        "wlm_id",
+        "pangalan",
+        "lalawigan",
+        "itinala",
+        "antas",
+        "kategorya",
+        "itinayo",
+        "kinaroroonan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_ari-ariang_pangkultura_ng_Pilipinas_sa_Lambak_ng_Cagayan",
+      "updated": "2026-11",
+      "size": 5767,
+      "files": {
+        "csv": {
+          "name": "tl-ari-ariang-pangkultura-lambak-ng-cagayan_TL.csv",
+          "size": 1261
+        },
+        "xlsx": {
+          "name": "tl-ari-ariang-pangkultura-lambak-ng-cagayan_TL.xlsx",
+          "size": 7646
         }
       }
     },
