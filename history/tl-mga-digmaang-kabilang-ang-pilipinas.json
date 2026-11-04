@@ -1,0 +1,912 @@
+{
+  "id": "tl-mga-digmaang-kabilang-ang-pilipinas",
+  "name": "Mga Digmaan at Labanang Kinasangkutan ng Pilipinas",
+  "title": "Mga Digmaan at Labanang Kinasangkutan ng Pilipinas",
+  "description": "Talaan ng mga digmaan, himagsikan at labanang kinasangkutan ng mga Pilipino mula sa Himagsikang Pilipino hanggang sa kasalukuyan, kasama ang magkabilang panig, bunga at pinuno.",
+  "category": "history",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_digmaang_kabilang_ang_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_digmaang_kabilang_ang_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 107,
+  "columns": [
+    {
+      "key": "hidwaan",
+      "label": "Hidwaan",
+      "type": "string"
+    },
+    {
+      "key": "panahon",
+      "label": "Panahon",
+      "type": "string"
+    },
+    {
+      "key": "panig_ng_pilipinas",
+      "label": "Panig Ng Pilipinas",
+      "type": "string"
+    },
+    {
+      "key": "kalaban",
+      "label": "Kalaban",
+      "type": "string"
+    },
+    {
+      "key": "bunga",
+      "label": "Bunga",
+      "type": "string"
+    },
+    {
+      "key": "pinuno_ng_pilipinas",
+      "label": "Pinuno Ng Pilipinas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hidwaan": "Himagsikang Pilipino (1896–1898)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "1896–97 Republika ng Katagalugan Katipunan 1897 Republika ng Biak-na-Bato 1898 Mga Rebolusyonaryong Pilipino Sinusuportahan ng: Estados Unidos 1896–1898 Sulu Sultanate",
+      "kalaban": "1896–1897 Restoration (Spain) Pilipinas 1898 Restoration (Spain) Pilipinas Cuba Puerto Rico",
+      "bunga": "Kasunduan (1897) Paglagda sa Kasunduan sa Biak-na-Bato. Tagumpay (1898) Pagpapatuloy ng hidwaan sa Digmaang Espanyol–Amerikano. Pagpapatalsik sa pamahalaang kolonyal ng Espanya Pagpapatatag ng Unang Republika ng Pilipinas at hinalal si Emilio Aguinaldo bilang ang unang Pangulo(1899) Opisyal na pagpapatatag ng Panghimagsikang Hukbong Katihan ng Pilipinas (1899) Simula ng Digmaang Pilipino–Amerikano (1899).",
+      "pinuno_ng_pilipinas": "Andres Bonifacio (hanggang 1897) Emilio Aguinaldo (simula 1897)"
+    },
+    {
+      "hidwaan": "Sigaw ng Pugad Lawin (Ika-23 ng Agosto, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Simula ng Rebolusyon Pagbuo ng Pamahalaang panghimagsikan",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Labanan sa Pasong Tamo (Ika-28–29 ng Agosto, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Talo Umatras ang mga Katipunero patungo sa Balara Nagsimula ang mga pag-aalsa at paghihimagsik mula sa iba't ibang lalawigan.",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Labanan sa Maynila noong 1896 (Ika-29 ng Agosto, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Labanan sa Noveleta (Ika-30 ng Agosto, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan Magdiwang",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Unang Sigaw ng Cavite (Ika-31 ng Agosto, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan Magdiwang",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay Napasakamay ng mga Katipunero ang San Francisco De Malabon",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Pag-aalsa sa Kawit (Ika-31 ng Agosto, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan Magdalo",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Labanan sa Imus (Ika-1–3 ng Setyembre, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan Magdalo",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay Pagkasawi ni Heneral Ernesto de Aguirre",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Sigaw ng Nueva Ecija (Ika-2–5 ng Setyembre, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Taktikal na Pagkapanalo Pagkabigo sa Stratehiya Simula ng Himagsikang Pilipino sa Gitnang Luzon",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Labanan sa Batangas (Ika-23 ng Agosto, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Labanan sa San Mateo at Montalban (Ika-29 ng Agosto, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Talo Simula ng himagsikan sa Morong.",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Labanan sa Binakayan at Dalahikan (Ika-9–11 ng Nobyembre, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan Magdalo Magdiwang Magtagumpay",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay Napasakamay ng mga Rebolusyonaryo ang Lungsod ng Cavite Nabigo ang Pamahalaang Espanya na mabawi muli ang buong Cavite; Matagumpay na napalaya ng mga Pilipino ang buong Cavite at karamihan ng mga lalawigan ng Laguna, Batangas at Tayabas pagkatapos",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Himagsikan sa Laguna (Labanan sa Sambat) (Ika-15–16 ng Nobyembre, 1896)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Talo Pagkatalo ng Katipunang Pangkat ng Maluningning.",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Labanan sa Pateros (Ika-31 ng Disyembre, 1896 – Ika-3 ng Enero, 1897)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Unang Yugto: Tagumpay (Ika-31 ng Disyembre, 1896) Napasakamay ng mga Katipunero ang Pateros, Taguig at Silang. Ikalawang Yugto: Hindi tiyak (Ika-1–2 ng Enero, 1987) Ikatlong Yugto: Talo (Ika-3 ng Enero, 1897) Napaurong ang mga Katipunero mula sa Pateros at Las Piñas patungo sa Laguna at Cavite. Ang mga natitirang pagsalakay ng mga rebelde ay napigilan.",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Labanan sa Kakarong de Sili (Ika-1 ng Enero, 1897)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan Republika ng Kakarong",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Talo Ang mga Katipunero ay nagsimula ng pakikidigmang gerilya sa lalawigan ng Bulacan. Pagkabuwag ng Republika ng Kakarong",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Sigaw ng Tarlac (Ika-24 ng Enero, 1897)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Pagsalakay sa Cavite noong 1897 (Ika-15 ng Pebrero – Ika-24 ng Marso, 1897)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Talo Pag-atras ng puwersang Katipunero mula sa Cavite Napasakamay ng mga Kastila ang kaaramihan ng Cavite.",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Labanan sa Tulay ng Zapote (Ika-17 ng Pebrero, 1897)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Katipunan Magdalo",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Andres Bonifacio"
+    },
+    {
+      "hidwaan": "Pag-atras tungo sa Montalban (Agosto 1897)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Mga Rebolusyonaryong Pilipino",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Pagsalakay sa Paombong (Ika-31 ng Agosto, 1897)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Mga Rebolusyonaryong Pilipino",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan sa Aliaga (Ika-5–6 ng Setyembre, 1897)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Mga Rebolusyonaryong Pilipino",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay Nilagdaan nina Emilio Aguinaldo at ni Fernando Primo de Rivera ang Kasunduan sa Biak-na-Bato Pagpapatuloy ng mga maliliit na hidwaan hanggang 1898",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Kasunduan sa Biak-na-Bato (Ika-14 ng Desyembre, 1897)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Republic of Biak-na-Bato",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Kasunduang Pangkapayapaan nakasama ang Pangkalahatang Amnestiya Mga Probisyon: Babayaran ni Gobernador-Heneral Primo de Rivera ang mga rebelde sa kabuuan na P800,000 sa pamamagitan ng tatlong hulugan: 1. $400,000 (Mehikanong Dolyar) kay Aguinaldo simula sa kanyang pag-alis mula sa Biak-na-Bató. 2. $200,000 (Mehikanong Dolyar) kapag isinuko na ng mga rebelde ang kanilang armas na aabot sa 800. 3. Ang natitirang $200,000 (Mehikanong Dolyar) kapag umabot na ang mga armas sa 1,000. Aawitin ang Te Deum sa Katedral sa Maynila bilang pasasalamat sa pagpapatatag ng kapayapaan. Babayaran din ni Primo de RIvera ang karagdagang P900,000 para sa mga pamilyang nadamay sa kabuuang hidwaan. Bunga: Si Presidente Aguinaldo at ang ibang dalawampu't limang mga opisyal ng himagsikan ay tumungo sa Hong Kong kasama ang $400,000 sa kanilang posesyon. Ang ibang mga tauhan ay nakatanggap ng $200,000 (Mehikanong Dolyar), ngunit ang ikatlong hulugan ay hindi pa natanggap. Ang Pangkalahatang Amnestiya ay hindi naideklara dahil sa pagpapatuloy ng mga pabugso-bugsong hidwaan at labanan. Pagpapatuloy ng mga laban sa Digmaang Espanyol–Amerikano.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan sa Calamba (Mayo 1898)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Mga Rebolusyonaryong Pilipino",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan sa Look ng Maynila (Ika-1 ng Mayo 1898)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Estados Unidos",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay Simula ng hidwaan sa Pasipikong bahagi ng Digmaang Espanyol–Amerikano",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan sa Alapan (Ika-28 ng Mayo, 1898)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Mga Rebolusyonaryong Pilipino",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay Naging preso si Heneral Leopoldo Garcia Peña. Ang Watawat ng Pilipinas ay unang beses iniladlad.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan sa Tayabas (Ika-28 ng Mayo – Ika-15 ng Hunyo, 1898)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Mga Rebolusyonaryong Pilipino",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay Napasakamay muli ng mga Rebolusyonaryong Pilipino ang lalawigan ng Tayabas.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Pagkubkob sa Baler (Ika-1 ng Hulyo, 1898 – Ika-2 ng Hunyo, 1899)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Mga Rebolusyonaryong Pilipino (hanggang Enero 1899) Unang Republika ng Pilipinas (hanggang Enero 1899)",
+      "kalaban": "Restoration (Spain) Estados Unidos",
+      "bunga": "Tagumpay Ang Baler ay nanatili sa kamay ng mga Espanyol lagpas sa kasunduan pero ito ay binigay sa mga Pilipino na naging hudyat ng pagtatapos ng digmaan. Pagkabigo ng pagpapadala ng tulong mula sa mga Amerikano; Napag-usapang tigil-putukan noong Ika-2 ng Hunyo, 1899",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan sa Maynila (Ika-13 ng Agosto, 1898)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Estados Unidos Mga Rebolusyonaryong Pilipino",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay Isinuko ng puwersang Espanyol ang lungsod sa mga Amerikano. Pagtatapos ng Digmaang Espanyol–Amerikano sa Pilipinas.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Pagkubkob sa Masbate (Ika-19 ng Agosto, 1898)",
+      "panahon": "Rebolusyong Pilipino",
+      "panig_ng_pilipinas": "Mga Rebolusyonaryong Pilipino Mga Pulahan/Pulahanes",
+      "kalaban": "Restoration (Spain)",
+      "bunga": "Tagumpay Pagpapatatag ng Pamahalaang Rebolusyonaryo sa Masbate.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Digmaang Pilipino–Amerikano Ika-4 ng Pebrero, 1899",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "1899–1902 Republika ng Pilipinas Republika ng Negros Republika ng Zamboanga Limitadong Suporta mula sa Dayuhan: Imperyo ng Hapon 1902–1906 Republika ng Tagalog Mga Irrenconcilables",
+      "kalaban": "1899–1902 Estados Unidos Pamahalaang Militar ' 1902–1906' Estados Unidos Pamahalaang Sibil",
+      "bunga": "Talo Pagkabagsak ng Unang Republika. Si Heneral Emilio Aguinaldo ay nahuli at nanumpa sa Estados Unidos. Pagsakop ng mga Amerikano sa Pilipinas. Pagkatatag ng Pamahalaang Sibil",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo (hanggang 1901) Miguel Malvar (1901–1902)"
+    },
+    {
+      "hidwaan": "Rebelyong Moro (1899–1913)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Mga Rebeldeng Moro Sulu Sultanate",
+      "kalaban": "Estados Unidos Pamahalaang Sibil",
+      "bunga": "Talo Kabuuang pagsakop sa Pilipinas Pagbuo ng mga Departmento ng Mindanao at Sulu.",
+      "pinuno_ng_pilipinas": "Sultanato ng Sulu Ilang mga Pinunong Moro"
+    },
+    {
+      "hidwaan": "Labanan ng Maynila (Ika-4–5 ng Pebrero, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo Simula ng Digmaang Pilipino–Amerikano",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Caloocan (Ika-10 ng Pebrero, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Ikalawang Labanan ng Caloocan (Ika-22–24 ng Pebrero, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Balantang (Ika-10 ng Marso, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Tagumpay Nakuha ng mga Pilipino ang Jaro mula sa mga Amerikano.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Ilog Marilao (Ika-27 ng Marso, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Malolos (Ika-31 ng Marso, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo Ang kabisera ng Unang Republika ay nakuha ng mga Amerikano.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Santa Cruz (Ika-9–10 ng Abril, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Pagsanjan (Ika-11 ng Abril, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Paete (Ika-12 ng Abril, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Quingua (Ika-23 ng Abril, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Unang Bahagi: Tagumpay Pagkamatay ni Koronel John M. Stotsenburg Ikalawang Bahagi: Talo Umatras ang mga Pilipino tungong Hilaga.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Bagbag at Mga Ilog Pampanga (Ika-25–27 ng Abril, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo Pag-atras tungong Pampanga",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Santo Tomas (Ika-4 ng Mayo, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Ilog Zapote (Ika-13 ng Hunyo, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Olongapo (Ika-18–23 ng Setyembre, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng San Jacinto (Ika-11 ng Nobyembre, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan sa Pasong Tirad (Ika-2 ng Disyembre, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Tagumpay sa Stratehiya Taktikal na Pagkatalo Pagkamatay ni Heneral Gregorio del Pilar Pagbagsak ng hanay na pandepensa Naantala ng puwersang Pilipino ang usad ng mga Amerikano.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Paye (Ika-19 ng Disyembre, 1899)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Paunang Tagumpay Pagkamatay ni Heneral Henry Ware Lawton Matagumpay na nakatawid ang ika-29 hukbong batalyon ng Amerika sa ilog dakong 11 ng umaga. Umatras ang pwersang Pilipino mula sa San Mateo.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Cagayan de Misamis (Ika-7 ng Abril, 1900)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Pagkubkob ng Catubig (Ika-15–19 ng Abril, 1900)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Tagumpay Napaalis ng mga Pilipinong gerilya ang mga Amerikano sa bayan matapos ang apat na araw ng pagkukubkob ngunit maraming pinsala ang natamo.",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan sa Burol ng Agusan (Ika-14 ng Mayo, 1900)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan sa Burol ng Makahambus (Ika-4 ng Hunyo, 1900)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Pulang Lupa (Ika-13 ng Setyembre, 1900)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Mabitac (Ika-17 ng Setyembre, 1900)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Labanan ng Lonoy (Ika-5 ng Marso, 1901)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Republika ng Pilipinas",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Emilio Aguinaldo"
+    },
+    {
+      "hidwaan": "Pagpaslang sa Balangiga (Ika-8 ng Setyembre, 1901)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Mamamayang Pilipino",
+      "kalaban": "Estados Unidos",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Miguel Malvar"
+    },
+    {
+      "hidwaan": "Labanan ng Bayan (Ika-2–3 ng Mayo, 1902)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Mga Rebeldeng Moro",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Sultanato ng Sulu Ilang mga pinuno ng Moro"
+    },
+    {
+      "hidwaan": "Paghihimagsik ni Hassan (Oktubre 1903 – Marso 1904)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Mga Rebeldeng Moro Sulu Sultanate",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Sultanato ng Sulu Ilang mga pinuno ng Moro"
+    },
+    {
+      "hidwaan": "Labanan ng Taraca (Abril 1904)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Mga Rebeldeng Moro",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Sultanato ng Sulu Ilang mga pinuno ng Moro"
+    },
+    {
+      "hidwaan": "Labanan ng Ilog Dolores (Ika-12 ng Disyembre, 1904)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Pulajanes",
+      "kalaban": "Estados Unidos",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Sultanato ng Sulu Ilang mga pinuno ng Moro"
+    },
+    {
+      "hidwaan": "Unang Labanan ng Bud Dajo (Ika-5–8 ng Mayo, 1906)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Mga Rebeldeng Moro",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Sultanato ng Sulu Ilang mga pinuno ng Moro"
+    },
+    {
+      "hidwaan": "Ikalawang Labanan ng Bud Dajo (Ika-18–26 ng Disyembre, 1911)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Mga Rebeldeng Moro",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo Naipasakamay ng mga Amerikano ang kabuuan ng Pilipinas.",
+      "pinuno_ng_pilipinas": "Sultanato ng Sulu Ilang mga pinuno ng Moro"
+    },
+    {
+      "hidwaan": "Labanan ng Bud Bagsak (Ika-11–15 ng Hunyo, 1913)",
+      "panahon": "Digmaang Pilipino–Amerikano",
+      "panig_ng_pilipinas": "Mga Rebeldeng Moro",
+      "kalaban": "Estados Unidos",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Sultanato ng Sulu Ilang mga pinuno ng Moro"
+    },
+    {
+      "hidwaan": "Labanan ng Bataan (Ika-7 ng Enero – Ika-9 ng Abril, 1942)",
+      "panahon": "Talaan",
+      "panig_ng_pilipinas": "Pilipinas Estados Unidos",
+      "kalaban": "Hapon",
+      "bunga": "Talo Pagbagsak ng Bataan sa Paglusob ng mga Hapones. Simula ng Martsa ng Kamatayan sa Bataan.",
+      "pinuno_ng_pilipinas": "Manuel L. Quezon"
+    },
+    {
+      "hidwaan": "Labanan ng Corregidor (Ika-5–6 ng Mayo, 1942)",
+      "panahon": "Talaan",
+      "panig_ng_pilipinas": "Philippines Estados Unidos",
+      "kalaban": "Hapon",
+      "bunga": "Talo Pagbagsak ng Corregidor sa Paglusob ng mga Hapones. Pagsuko ng Puwersang Pilipino-Amerikano sa mga Hapones.",
+      "pinuno_ng_pilipinas": "Manuel L. Quezon"
+    },
+    {
+      "hidwaan": "Kilusan ng Paglaban sa Pilipinas (1942–1945)",
+      "panahon": "Talaan",
+      "panig_ng_pilipinas": "Mga Kinikilalang Pangkat na Gerilya Hunters ROTC Hukbalahap Iba pang mga Pangkat Mga Gerilyang Pinamumunuan ng US Mga Gerilyang Tsino Wa Chi Sandatahang Lakas ng Komonwelt ng Pilipinas Hukbong Katihan ng Komonwelt ng Pilipinas Konstabularyong Pilipino (simula 1944) Pulutong Himpapawid ng Hukbong Katihan ng Pilipinas (simula 1945)",
+      "kalaban": "Imperyo ng Hapon Kempeitai Republika ng Pilipinas Makapili Kawanihan ng Konstabularyo (hanggang 1944)",
+      "bunga": "Tagumpay Matagumpay na napalaya ng mga Alyado ang Pilipinas",
+      "pinuno_ng_pilipinas": "Manuel L. Quezon (hanggang 1944) Sergio Osmeña (simula 1944)"
+    },
+    {
+      "hidwaan": "Pagsalakay sa Cabanatuan (Ika-30 ng Enero, 1945)",
+      "panahon": "Talaan",
+      "panig_ng_pilipinas": "Pilipinas Estados Unidos",
+      "kalaban": "Hapon",
+      "bunga": "Tagumpay Pagpapalaya sa 552 na mga kaalyado na naging preso ng digmaan",
+      "pinuno_ng_pilipinas": "Sergio Osmeña"
+    },
+    {
+      "hidwaan": "Labanan para sa Bataan (Ika-31 ng Enero – Ika-21 ng Pebrero, 1945)",
+      "panahon": "Talaan",
+      "panig_ng_pilipinas": "Pilipinas Estados Unidos",
+      "kalaban": "Hapon",
+      "bunga": "Tagumpay Napasakamay muli ang Bataan",
+      "pinuno_ng_pilipinas": "Sergio Osmeña"
+    },
+    {
+      "hidwaan": "Labanan ng Maynila (1945)",
+      "panahon": "Talaan",
+      "panig_ng_pilipinas": "Pilipinas Estados Unidos",
+      "kalaban": "Hapon",
+      "bunga": "Tagumpay Napalaya ng mga tropang Amerikano at puwersang Pilipino ang Kampong Pang-bilangguan ng Santo Tomas, habang ang mga tropang Pilipino sa ilalim ng mga yunit ng Hukbong Katihan ng Komonwelt ay nanatili muna. Pinalaya ang Palasyo ng Malakanyang ng Unang Dibisyong Kabalyero ng U.S. at mga gerilyang Pilipino, habang ang mga tropang Pilipino sa ilalim ng mga yunit ng Hukbong Katihan ng Komonwelt ay hindi ipinadala at nanatili. Pagpapadala ng lahat ng 48,000 hanggang 85,000 mga tropang Pilipino at mga opisyal ng militar ng Hukbong Katihan ng Komonwelt ng Pilipinas mula sa mga Punong Himpilan at Kampo Militar sa Timog at Gitnang Luzon upang lumaban sa pagpapalaya ng Maynila. Tinulungan din nila ang mga gerilya at ang pag-atake ng mga Amerikano sa pagsalakay laban sa mga Hukbong Hapones. Pagkasira ng Intramuros dahil sa kilusang paglaban ng magkasamang puwersa ng Amerika at Pilipinas. Pagtatapos ng Labanan para sa Pagkalaya ng Maynila. Tuluyang napalaya ang kabisera mula sa kamay ng Hapon.",
+      "pinuno_ng_pilipinas": "Sergio Osmeña"
+    },
+    {
+      "hidwaan": "Labanan para sa Corregidor (Ika-16–26 ng Pebrero, 1945)",
+      "panahon": "Talaan",
+      "panig_ng_pilipinas": "Estados Unidos",
+      "kalaban": "Hapon",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Sergio Osmeña"
+    },
+    {
+      "hidwaan": "Pagsalakay sa Los Baños (Ika-23 ng Pebrero, 1945)",
+      "panahon": "Talaan",
+      "panig_ng_pilipinas": "Pilipinas Estados Unidos",
+      "kalaban": "Hapon",
+      "bunga": "Tagumpay Matagumpay na nailigtas ang mga nakabilanggo sa kampo",
+      "pinuno_ng_pilipinas": "Sergio Osmeña"
+    },
+    {
+      "hidwaan": "Labanan sa Pasong Bessang (Ika-14 ng Hunyo, 1945)",
+      "panahon": "Talaan",
+      "panig_ng_pilipinas": "Pilipinas Estados Unidos",
+      "kalaban": "Hapon",
+      "bunga": "Tagumpay Kilala bilang ang pinakaunang tagumpay ng mga Pilipino sa kampanya laban sa Hapon.",
+      "pinuno_ng_pilipinas": "Sergio Osmeña"
+    },
+    {
+      "hidwaan": "Paghihimagsik ng Hukbalahap (1942–1954)",
+      "panahon": "Kapanahunan ng Digmaang Malamig",
+      "panig_ng_pilipinas": "Komonwelt ng Pilipinas (hanggang 1946) Republika ng Pilipinas (simula 1946) Suportado ng: Estados Unidos ng Amerika",
+      "kalaban": "Hukbalahap Suportado ng: Unyon ng mga Republikang Sosyalistang Sobyet Imperyo ng Hapon (hanggang 1945) Ikalawang Republika ng Pilipinas (1943–1945)",
+      "bunga": "Tagumpay Natapos ang paghihimagsik ng Hukbalahap",
+      "pinuno_ng_pilipinas": "Manuel L. Quezon (hanggang 1944) Sergio Osmeña (1944–1946) Manuel Roxas (1946–1948) Elpidio Quirino (1948–1953) Ramon Magsaysay (1953–1954)"
+    },
+    {
+      "hidwaan": "Digmaang Koreano (1950–1953)",
+      "panahon": "Kapanahunan ng Digmaang Malamig",
+      "panig_ng_pilipinas": "Republika ng Korea Hukbong UN: Estados Unidos Reyno Unido Canada Turkey Australia Pilipinas New Zealand Thailand Padron:Country data Imperyo ng Ethiopia Padron:Country data Kaharian ng Gresya France Colombia Belgium Padron:Country data Timog Africa Netherlands Luxembourg",
+      "kalaban": "Korea DPR Tsina Unyong Sobyet",
+      "bunga": "Tabla Ang pagsalakay ng Hilagang Korea sa Timog Korea ay nataboy. Ang sumunod na pagsalakay na pinamunuan ng mga Amerikano sa Hilagang Korea ay nataboy. Ang kasunod na pagsalakay ng mga Tsino sa Timog Korea ay nataboy. Kasunduan ng Tigil-putukan sa Korea Naitatag ang Korean Demilitarized Zone Nakuha ng Hilagang Korea ang lungsod ng Kaesong ngunit nawala ang kabuuang sukat na 1,500 sq mi (3,900 km2) sa Timog Korea.",
+      "pinuno_ng_pilipinas": "Elpidio Quirino"
+    },
+    {
+      "hidwaan": "Operasyon Tomahawk (Ika-23 ng Marso, 1951)",
+      "panahon": "Kapanahunan ng Digmaang Malamig",
+      "panig_ng_pilipinas": "Hukbong UN: Pilipinas Estados Unidos",
+      "kalaban": "Tsina Korea DPR",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Elpidio Quirino"
+    },
+    {
+      "hidwaan": "Labanan sa Yultong (Ika-22–23 ng Abril, 1951)",
+      "panahon": "Kapanahunan ng Digmaang Malamig",
+      "panig_ng_pilipinas": "Hukbong UN: Pilipinas",
+      "kalaban": "Tsina",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Elpidio Quirino"
+    },
+    {
+      "hidwaan": "Labanan sa Ilog Imjin (Ika-22–25 ng Abril, 1951)",
+      "panahon": "Kapanahunan ng Digmaang Malamig",
+      "panig_ng_pilipinas": "Hukbong UN: Republika ng Korea Reyno Unido Estados Unidos Belgium Pilipinas Luxembourg Australia Canada New Zealand",
+      "kalaban": "Tsina",
+      "bunga": "Pinagtatalunan",
+      "pinuno_ng_pilipinas": "Elpidio Quirino"
+    },
+    {
+      "hidwaan": "Labanan ng Heartbreak Ridge (Ika-13 ng Setyembre – ika-15 ng Oktubre, 1951)",
+      "panahon": "Kapanahunan ng Digmaang Malamig",
+      "panig_ng_pilipinas": "Hukbong UN: Korea Republic Padron:Country data French Fourth Republic Pilipinas Netherlands Estados Unidos",
+      "kalaban": "Korea DPR Tsina",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Elpidio Quirino"
+    },
+    {
+      "hidwaan": "Labanan sa Nakakasindak na Burol (Ika-21 ng Marso – Ika-18 ng Hulyo, 1952)",
+      "panahon": "Kapanahunan ng Digmaang Malamig",
+      "panig_ng_pilipinas": "Hukbong UN: Pilipinas Estados Unidos",
+      "kalaban": "Tsina",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Elpidio Quirino"
+    },
+    {
+      "hidwaan": "Digmaang Vietnam (1964–1973)",
+      "panahon": "Kapanahunan ng Digmaang Malamig",
+      "panig_ng_pilipinas": "South Vietnam Estados Unidos Timog Korea Thailand Australia New Zealand Pilipinas Kingdom of Laos Cambodia",
+      "kalaban": "Padron:Country data Hilagang Vietnam Viet Cong Pulang Khmer Pathet Lao Hilagang Korea Tsina Unyong Sobyet",
+      "bunga": "Talo Umatras at tinanggal ang mga sundalong Amerikano sa Indotsina ayon sa Kasunduang Pangkapayapaan sa Paris. Namuno ang mga Komunistang pamahalaan sa Timog Vietnam, Cambodia at Laos.",
+      "pinuno_ng_pilipinas": "Ferdinand Marcos"
+    },
+    {
+      "hidwaan": "Himagsikang CPP-NPA-NDF (Ika-29 ng Marso, 1969 – ngayon)",
+      "panahon": "Himagsikang CPP–NPA–NDF",
+      "panig_ng_pilipinas": "Republic of the Philippines Pamahalaan ng Pilipinas Sandatahang Lakas ng Pilipinas Pambansang Pulisya ng Pilipinas Sinusuportahan ng: Estados Unidos (tagapayo) Republikang Bayan ng Tsina (mula 2017, mga armas at sandata)",
+      "kalaban": "Partido Komunista ng Pilipinas Bagong Hukbong Bayan Pambansang Demokratikong Prente ng Pilipinas Sinusuportahan ng: Korea DPR (tinutukoy) Republikang Bayan ng Tsina (hanggang 1976) Padron:Country data Libyan Arab Jamahiriya (mga dekada 1980–1990) Republikang Sosyalista ng Vietnam (dekada 1980)",
+      "bunga": "Nagpapatuloy Maraming mga kasanduan ng tigil-putukan ang nilagdaan ng bawat panig, ngunit nilalabag o napapawalang-bisa. Bawat panig ang nagsasabing nilabag ng kalaban ang kasunduan.",
+      "pinuno_ng_pilipinas": "Ferdinand Marcos (1969–1986) Corazon Aquino (1986–1992) Fidel Ramos (1992–1998) Joseph Estrada (1998–2001) Gloria Macapagal Arroyo (2001–2010) Benigno Aquino III (2010–2016) Rodrigo Duterte (2016–ngayon)"
+    },
+    {
+      "hidwaan": "Labanan ng Macalangit (Ika-9–12 ng Setyembre, 2007)",
+      "panahon": "Himagsikang CPP–NPA–NDF",
+      "panig_ng_pilipinas": "Pilipinas Sandatahang Lakas ng Pilipinas",
+      "kalaban": "Partido Komunista ng Pilipinas Talaksan:NPA.png Bagong Hukbong Bayan",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Gloria Macapagal Arroyo"
+    },
+    {
+      "hidwaan": "Himagsikang Moro (Ika-29 ng Marso, 1969 – ngayon)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Republic of the Philippines Sandatahang Lakas ng Pilipinas Suportado ng: Estados Unidos ng Amerika (tagapagbilin) Pederasyong Ruso Komonwelt ng Australia Republika ng Indonesia Malaysia",
+      "kalaban": "Bangsamoro: Moro National Liberation Front (hanggang 1996) Moro Islamic Liberation Front (hanggang 2014) Mga Pangkat Jihadist: Padron:Country data Islamic State Abu Sayyaf Padron:Country data Islamic State BIFF Padron:Country data Islamic State Pangkat Maute Padron:Country data Islamic State Khalifa Islamiyah Mindanao Iba pang mga rebeldeng pangkat",
+      "bunga": "Tigil-putukan sa pagitan ng Pamahalaan ng Pilipinas at MNLF/MILF Patuloy na pakikipagbakbakan sa pagitan ng Gobyerno ng Pilipinas at ilang mga Pangkat Jihadista— Abu Sayyaf, Bangsamoro Islamic Freedom Fighters, at ibang mga pangkat",
+      "pinuno_ng_pilipinas": "Ferdinand Marcos (1969–1986) Corazon Aquino (1986–1992) Fidel Ramos (1992–1998) Joseph Estrada (1998–2001) Gloria Macapagal Arroyo (2001–2010) Benigno Aquino III (2010–2016) Rodrigo Duterte (2016–ngayon)"
+    },
+    {
+      "hidwaan": "Labanan ng Jolo (Ika-4–11 ng Pebrero, 1974)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "MNLF",
+      "bunga": "Tagumpay Napasailalim sa kontrol ng Sandatahang Lakas ng Pilipinas ang Jolo, Sulu. Ang munisipalidad ng Jolo ay lubhang nasira. 40,000 mga sibilyan ang nawalan ng tirahan.",
+      "pinuno_ng_pilipinas": "Ferdinand Marcos"
+    },
+    {
+      "hidwaan": "Pagpapapatay sa Patikul (Ika-10 ng Oktubre, 1977)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "MNLF",
+      "bunga": "Talo Pagkamatay ng Heneral ng Brigada na si Teodulfo Bautista at ang 34 niyang mga tauhan.",
+      "pinuno_ng_pilipinas": "Ferdinand Marcos"
+    },
+    {
+      "hidwaan": "Pagpapapatay sa Isla ng Pata (Ika-12 ng Pebrero, 1981)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "MNLF",
+      "bunga": "Talo",
+      "pinuno_ng_pilipinas": "Ferdinand Marcos"
+    },
+    {
+      "hidwaan": "Kampanya ng Pilipinas laban sa Moro Islamic Liberation Front ng 2000 (Ika-15 ng Pebrero – Ika-9 ng Hulyo, 2000)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Republic of the Philippines Sandatahang Lakas ng Pilipinas",
+      "kalaban": "Moro Islamic Liberation Front Sandatahang Lakas ng Islamikong Bangsamoro",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Joseph Estrada"
+    },
+    {
+      "hidwaan": "Labanan ng Kampong Abubakar (Ika-1–9 ng Hulyo, 2000)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "MILF",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Joseph Estrada"
+    },
+    {
+      "hidwaan": "Pagkubkob ng Lamitan (Ika-2 ng Hunyo, 2001)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "Abu Sayyaf",
+      "bunga": "Tagumpay 21 sa 30 na mga bihag ang nailigtas. Tumakas ang pwersang Abu Sayyaf kasama ang mga natitirang bihag.",
+      "pinuno_ng_pilipinas": "Gloria Macapagal Arroyo"
+    },
+    {
+      "hidwaan": "Himagsikang Misuari ng 2001 (Ika-19–22 ng Nobyembre, 2001)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "MNLF -Pangkat Misuari",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Gloria Macapagal Arroyo"
+    },
+    {
+      "hidwaan": "Operation Enduring Freedom sa Pilipinas [Ingles] (Ika-15 ng Enero, 2002 – Ika-24 ng Pebrero, 2015)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Republic of the Philippines Sandatahang Lakas ng Pilipinas Estados Unidos ng Amerika (tagapagbilin) Sandatahang Lakas ng Estados Unidos",
+      "kalaban": "Mga Pangkat Jihadist: Padron:Country data Islamic State Abu Sayyaf Padron:Country data Islamic State BIFF Padron:Country data Islamic State Pangkat Maute Padron:Country data Islamic State Khalifa Islamiyah Mindanao Iba pang mga rebeldeng pangkat",
+      "bunga": "Tagumpay Matagumpay na operasyon – Malubhang nabawasan ang kakayahang lokal at pang-internasyonal ng mga teroristang pangkat na magpatuloy ng labanan sa Pilipinas.",
+      "pinuno_ng_pilipinas": "Gloria Macapagal Arroyo (2002–2010) Benigno Aquino III (2010–2015)"
+    },
+    {
+      "hidwaan": "2007 Pangyayaring Pagpugot sa Basilan (Ika-10–11 ng Hulyo, 2007)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "MILF Abu Sayyaf (pinaghihinalaan)",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Gloria Macapagal Arroyo"
+    },
+    {
+      "hidwaan": "2013 Krisis sa Lungsod ng Zamboanga (Ika-9–28 ng Setyembre, 2013)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Republic of the Philippines Sandatahang Lakas ng Pilipinas",
+      "kalaban": "Mga Nagkakaisang Estadong Pederado ng Republikang Bangsamoro Moro National Liberation Front",
+      "bunga": "Tagumpay Ang Republikang Bangsamoro ay napawalang-bisa, sapagkat wala itong sakop na teritoryo. Lahat ng mga nabihag at nailigtas. Pagpapawalang-bisa at pagkabuwag ng Republikang Bangsamoro. Ilang mga rebeldeng MNLF, kabilang ang pinuno at kumander na si Malik, ay nakatakas.",
+      "pinuno_ng_pilipinas": "Benigno Aquino III"
+    },
+    {
+      "hidwaan": "Oplan Darkhorse (Ika-27 ng Enero – Ika-2 ng Pebrero, 2014)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas MILF (suporta)",
+      "kalaban": "BIFF",
+      "bunga": "Tagumpay Ang mga pakikipagbakbakan ay natigil noong ika-2 ng Pebrero. Pansamantalang paghinto sa mga pagsalakay ng mga puwersa ng pamahalaan at ng mga rebelde.",
+      "pinuno_ng_pilipinas": "Benigno Aquino III"
+    },
+    {
+      "hidwaan": "Labanan ng Basilan ng 2014 (Ika-11–30 ng Abril, 2014)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas MNLF",
+      "kalaban": "Padron:Country data Islamic State Abu Sayyaf Mga rebelde ng MNLF Jemaah Islamiyah",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Benigno Aquino III"
+    },
+    {
+      "hidwaan": "Sagupaan sa Mamasapano (Ika-25 ng Enero, 2015)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Republic of the Philippines Presidential Anti-Organized Crime Commission Pambansang Pulisya ng Pilipinas Special Action Force Sandatahang Lakas ng Pilipinas (suporta) WESTMINCOM Ika-6 na Impentaryang DIbisyon Estados Unidos ng Amerika (kaalaman, suportang panghukbo) Federal Bureau of Investigation (tinutukoy)",
+      "kalaban": "Jemaah Islamiyah -magkaugnay na mga rebelde Moro Islamic Liberation Front Bangsamoro Islamic Freedom Fighters Mga pribadong puwersa (tinutukoy)",
+      "bunga": "Tagumpay Ang pangunahing punterya ng operasyon, si Zulkifli bin Hir, ay napatay. Ang mga puwersa ng gobyerno ay nagtamo ng mga mabibigat na talo dahil sila ay napalibutan ng mga kalaban.",
+      "pinuno_ng_pilipinas": "Benigno Aquino III"
+    },
+    {
+      "hidwaan": "Mga Sagupaan sa Butig noong Pebrero 2016 (Ika-20 ng Pebrero, 2016)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "Padron:Country data Islamic State Pangkat Maute",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Benigno Aquino III"
+    },
+    {
+      "hidwaan": "Labanan ng Tipo-Tipo (Ika-9–14 ng Abril, 2016)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "Padron:Country data Islamic State Abu Sayyaf",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Benigno Aquino III (2016) Rodrigo Duterte (2016–ngayon)"
+    },
+    {
+      "hidwaan": "Sagupaan sa Butig noong Nobyembre 2016 (Ika-26 ng Nobyembre, 2016)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas MILF (Tulong)",
+      "kalaban": "Padron:Country data Islamic State Pangkat Maute",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Rodrigo Duterte"
+    },
+    {
+      "hidwaan": "Sagupaan sa Bohol noong 2017 (Ika-11 ng Pebrero, 2017)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "Padron:Country data Islamic State Abu Sayyaf Padron:Country data Islamic State Pangkat Maute Padron:Country data Islamic State Ansar Khalifa Pilipinas",
+      "bunga": "Tagumpay Ang planadong pagdakip ng mga dayuhang turista ay nabigo.",
+      "pinuno_ng_pilipinas": "Rodrigo Duterte"
+    },
+    {
+      "hidwaan": "Krisis sa Lungsod ng Marawi (Ika-23 ng Mayo – Ika-23 ng Oktubre, 2017)",
+      "panahon": "Himagsikang Moro",
+      "panig_ng_pilipinas": "Republic of the Philippines Sandatahang Lakas ng Pilipinas Hukbong Katihan ng Pilipinas Unang Impentaryang Dibisyon Ikalawang Impentaryang Dibisyon Army Special Operations Command Rehimen ng Scout Ranger Rehimen ng Light Reaction Hukbong Kawal Pandagat ng Pilipinas Unang Brigadang Pandagat Ika-7 Batalyong Pandagat sa Paglapag Marine Special Operations Group Hukbong Himpapawid ng Pilipinas 15th Strike Wing 7th Tactical Fighter Squadron Pambansang Pulisya ng Pilipinas Special Action Force Moro National Liberation Front Moro Islamic Liberation Front (Mga operasyon sa paglikas at pagtulong)",
+      "kalaban": "Padron:Country data Islamic State Padron:Country data Islamic State Abu Sayyaf Padron:Country data Islamic State Pangkat Maute Padron:Country data Islamic State Bangsamoro Islamic Freedom Fighters",
+      "bunga": "Tagumpay Pagkabigo ng mga militante na maipatupad ang teritoryong probinsyal ng ISIL (wilayat). Idineklara ang batas-militar sa Mindanao na tumagal hanggang ika-31 ng Disyembre, 2017. Si Isnilon Hapilon, ang pinuno at kumander ng Abu Sayyaf at ISIL Emir sa Timog-silangang Asya, ay napatay. Muling napasakamay nang buo ang Lungsod ng Marawi ng Sandatahang Lakas ng Pilipinas noong ika-23 ng Oktubre.",
+      "pinuno_ng_pilipinas": "Rodrigo Duterte"
+    },
+    {
+      "hidwaan": "Mga Pagsubok ng Kudeta sa Pilipinas noong 1986-1990 (1986–1990)",
+      "panahon": "Kasalukuyang panahon",
+      "panig_ng_pilipinas": "Republika ng Pilipinas Administrasyong Aquino Sandatahang Lakas ng Pilipinas Sinuportahan ng: Estados Unidos ng Amerika",
+      "kalaban": "Mga Tumiwalag sa Sandatahang Lakas ng Pilipinas Kilusang Pagpapabago sa Sandatahang Lakas Mga sundalo ng mga mamamayang Pilipino",
+      "bunga": "Tagumpay Lahat ng anim na pagsubok ay nabigo. Lahat ng mga pasimuno ng kudeta ay naaresto. Pagtiwalag sa Hukbong Pamayapa ng Pilipinas Pagtatag ng Pambansang Pulisya ng Pilipinas",
+      "pinuno_ng_pilipinas": "Corazon Aquino"
+    },
+    {
+      "hidwaan": "Pagsubok ng Kudeta sa Pilipinas noong 1989 (Ika-1–7 ng Disyembre, 1989)",
+      "panahon": "Kasalukuyang panahon",
+      "panig_ng_pilipinas": "Pamahalaan ng Pilipinas Estados Unidos",
+      "kalaban": "Kilusang Pagpapabago sa Sandatahang Lakas Mga sundalo ng mga mamamayang Pilipino",
+      "bunga": "Tagumpay Nasugpo ang kudeta nang nakisama ang Estados Unidos. Pagkabuo ng Davide Fact-Finding Commission. Pagkaaresto nina Honasan at iba pang mga pasimuno, tagapondo at pinuno ngunit ang iba ay binigyan ng amnestiya kalaunan.",
+      "pinuno_ng_pilipinas": "Corazon Aquino"
+    },
+    {
+      "hidwaan": "1990 Krisis sa Mindanao (Ika-4–6 ng Oktubre, 1990)",
+      "panahon": "Kasalukuyang panahon",
+      "panig_ng_pilipinas": "Pilipinas",
+      "kalaban": "Republikang Pederal ng Mindanao",
+      "bunga": "Tagumpay Pagkaaresto ni Koronel Alexander Noble Pagpapawalang-bisa sa Republikang Pederal ng Mindanao",
+      "pinuno_ng_pilipinas": "Corazon Aquino"
+    },
+    {
+      "hidwaan": "Pag-aalsa sa Oakwood (Ika-27 ng Hulyo, 2003)",
+      "panahon": "Kasalukuyang panahon",
+      "panig_ng_pilipinas": "Pamahalaan ng Pilipinas",
+      "kalaban": "Mga Bagong Katipunero (Pangkat Magdalo)",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Gloria Macapagal Arroyo"
+    },
+    {
+      "hidwaan": "Oplan HACKLE (Ika-22–24 ng Pebrero, 2006)",
+      "panahon": "Kasalukuyang panahon",
+      "panig_ng_pilipinas": "Pamahalaan ng Pilipinas",
+      "kalaban": "Pangkat Magdalo Talaksan:NPA.png Bagong Hukbong Bayan",
+      "bunga": "Tagumpay",
+      "pinuno_ng_pilipinas": "Gloria Macapagal Arroyo"
+    },
+    {
+      "hidwaan": "Himagsikan sa Manila Peninsula (Ika-29 ng Nobyembre, 2007)",
+      "panahon": "Kasalukuyang panahon",
+      "panig_ng_pilipinas": "Pamahalaan ng Pilipinas",
+      "kalaban": "Mga Bagong Katipunero (Pangkat Magdalo)",
+      "bunga": "Tagumpay Ilan sa mga pinuno ng Pangkat Magdalo ay naaresto.",
+      "pinuno_ng_pilipinas": "Gloria Macapagal Arroyo"
+    }
+  ],
+  "meta": {
+    "title": "Mga Digmaan at Labanang Kinasangkutan ng Pilipinas - Free Download",
+    "description": "Talaan ng mga digmaan, himagsikan at labanang kinasangkutan ng mga Pilipino mula sa Himagsikang Pilipino hanggang sa kasalukuyan, kasama ang magkabilang panig, bunga at pinuno. Contains 107 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Digmaan at Labanang Kinasangkutan ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Digmaan at Labanang Kinasangkutan ng Pilipinas — 107 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 107 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_digmaang_kabilang_ang_Pilipinas"
+    ]
+  }
+}

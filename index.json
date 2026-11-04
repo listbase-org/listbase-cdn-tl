@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-04T02:10:22.898Z",
-  "total_datasets": 483,
-  "total_records": 446158,
+  "generated": "2026-11-04T02:10:30.621Z",
+  "total_datasets": 484,
+  "total_records": 446265,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -5066,6 +5066,33 @@
         "xlsx": {
           "name": "tl-mga-bayani_TL.xlsx",
           "size": 8701
+        }
+      }
+    },
+    {
+      "id": "tl-mga-digmaang-kabilang-ang-pilipinas",
+      "name": "Mga Digmaan at Labanang Kinasangkutan ng Pilipinas",
+      "category": "history",
+      "record_count": 107,
+      "columns": [
+        "hidwaan",
+        "panahon",
+        "panig_ng_pilipinas",
+        "kalaban",
+        "bunga",
+        "pinuno_ng_pilipinas"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_digmaang_kabilang_ang_Pilipinas",
+      "updated": "2026-11",
+      "size": 48667,
+      "files": {
+        "csv": {
+          "name": "tl-mga-digmaang-kabilang-ang-pilipinas_TL.csv",
+          "size": 31612
+        },
+        "xlsx": {
+          "name": "tl-mga-digmaang-kabilang-ang-pilipinas_TL.xlsx",
+          "size": 17037
         }
       }
     },
