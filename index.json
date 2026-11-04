@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-04T02:10:30.621Z",
-  "total_datasets": 484,
-  "total_records": 446265,
+  "generated": "2026-11-04T02:10:37.190Z",
+  "total_datasets": 485,
+  "total_records": 446605,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -5118,6 +5118,31 @@
         "xlsx": {
           "name": "tl-mga-gobernador-heneral-ng-pilipinas_TL.xlsx",
           "size": 11697
+        }
+      }
+    },
+    {
+      "id": "tl-mga-lansangang-pinalitan-ang-pangalan",
+      "name": "Mga Lansangan sa Kalakhang Maynila na Pinalitan ang Pangalan",
+      "category": "history",
+      "record_count": 340,
+      "columns": [
+        "orihinal_na_pangalan",
+        "bagong_pangalan",
+        "pinagmulan_ng_dating_pangalan",
+        "lugar"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_lansangan_sa_Kalakhang_Maynila_na_pinalitan_ang_pangalan",
+      "updated": "2026-11",
+      "size": 72810,
+      "files": {
+        "csv": {
+          "name": "tl-mga-lansangang-pinalitan-ang-pangalan_TL.csv",
+          "size": 28383
+        },
+        "xlsx": {
+          "name": "tl-mga-lansangang-pinalitan-ang-pangalan_TL.xlsx",
+          "size": 21228
         }
       }
     },
