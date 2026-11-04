@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-04T02:10:37.190Z",
-  "total_datasets": 485,
-  "total_records": 446605,
+  "generated": "2026-11-04T02:26:47.030Z",
+  "total_datasets": 486,
+  "total_records": 446636,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -13754,6 +13754,34 @@
         "xlsx": {
           "name": "tl-mga-palya-sa-pilipinas_TL.xlsx",
           "size": 7787
+        }
+      }
+    },
+    {
+      "id": "tl-pinakamalakas-na-bagyo-sa-pilipinas",
+      "name": "Mga Pinakamalakas na Bagyong Tumama sa Pilipinas",
+      "category": "science",
+      "record_count": 31,
+      "columns": [
+        "ranggo",
+        "bagyo",
+        "petsa",
+        "lakas_ng_hangin_10_minuto",
+        "presyon",
+        "signal",
+        "nasawi"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_bagyo_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 9930,
+      "files": {
+        "csv": {
+          "name": "tl-pinakamalakas-na-bagyo-sa-pilipinas_TL.csv",
+          "size": 3436
+        },
+        "xlsx": {
+          "name": "tl-pinakamalakas-na-bagyo-sa-pilipinas_TL.xlsx",
+          "size": 8770
         }
       }
     },

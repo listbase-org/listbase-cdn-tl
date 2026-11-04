@@ -1,0 +1,340 @@
+{
+  "id": "tl-pinakamalakas-na-bagyo-sa-pilipinas",
+  "name": "Mga Pinakamalakas na Bagyong Tumama sa Pilipinas",
+  "title": "Mga Pinakamalakas na Bagyong Tumama sa Pilipinas",
+  "description": "Ranggo ng mga pinakamalakas na bagyong tumama sa Pilipinas ayon sa lakas ng hangin, kasama ang petsa, presyon, pinakamataas na signal at bilang ng nasawi.",
+  "category": "science",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_bagyo_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_bagyo_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "ranggo",
+      "label": "Ranggo",
+      "type": "number"
+    },
+    {
+      "key": "bagyo",
+      "label": "Bagyo",
+      "type": "string"
+    },
+    {
+      "key": "petsa",
+      "label": "Petsa",
+      "type": "string"
+    },
+    {
+      "key": "lakas_ng_hangin_10_minuto",
+      "label": "Lakas Ng Hangin 10 Minuto",
+      "type": "string"
+    },
+    {
+      "key": "presyon",
+      "label": "Presyon",
+      "type": "string"
+    },
+    {
+      "key": "signal",
+      "label": "Signal",
+      "type": "string"
+    },
+    {
+      "key": "nasawi",
+      "label": "Nasawi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ranggo": 1,
+      "bagyo": "Rolly (Goni)",
+      "petsa": "Oktubre 26 - Nobyembre 6, 2020",
+      "lakas_ng_hangin_10_minuto": "220 km/h (140 mph)",
+      "presyon": "905 hPa (23.72 inHg)",
+      "signal": "Signals 1-5",
+      "nasawi": "32"
+    },
+    {
+      "ranggo": 2,
+      "bagyo": "Yolanda (Haiyan)",
+      "petsa": "Nobyembre 6 - 9, 2013",
+      "lakas_ng_hangin_10_minuto": "230 km/h (145 mph)",
+      "presyon": "895 hPa (26.43 inHG)",
+      "signal": "Signals 1-4",
+      "nasawi": "6, 300"
+    },
+    {
+      "ranggo": 3,
+      "bagyo": "Ferdie (Meranti)",
+      "petsa": "Setyembre 4 - Setyembre 17, 2016",
+      "lakas_ng_hangin_10_minuto": "220 km/h (140 mph)",
+      "presyon": "895 hPa (26 inHg)",
+      "signal": "Signals 1-3",
+      "nasawi": "47"
+    },
+    {
+      "ranggo": 4,
+      "bagyo": "Bising (Surigae)",
+      "petsa": "Abril 12 - Abril 25, 2021",
+      "lakas_ng_hangin_10_minuto": "220 km/h (140 mph)",
+      "presyon": "895 hPa (26.03inHg)",
+      "signal": "Signals 1-3",
+      "nasawi": "10"
+    },
+    {
+      "ranggo": 5,
+      "bagyo": "Warling (Tip)",
+      "petsa": "Oktubre 4 – Oktubre 24, 1979",
+      "lakas_ng_hangin_10_minuto": "260 km/h (185 mph)",
+      "presyon": "875 hPa (23.72 inHg)",
+      "signal": "N/A",
+      "nasawi": "99"
+    },
+    {
+      "ranggo": 6,
+      "bagyo": "Juan (Megi)",
+      "petsa": "Oktubre 15 - 20, 2010",
+      "lakas_ng_hangin_10_minuto": "230 km/h (145 mph)",
+      "presyon": "885 hPa (26.13 inHG)",
+      "signal": "Signals 1-4",
+      "nasawi": "33"
+    },
+    {
+      "ranggo": 7,
+      "bagyo": "Rosing (Angela)",
+      "petsa": "Oktubre 25 - Nobyembre 7, 1995",
+      "lakas_ng_hangin_10_minuto": "215 km/h (130 mph)",
+      "presyon": "910 hPa (inHG)",
+      "signal": "Signals 1-4",
+      "nasawi": "936"
+    },
+    {
+      "ranggo": 8,
+      "bagyo": "Lawin (Haima)",
+      "petsa": "Oktubre 16 - 21, 2016",
+      "lakas_ng_hangin_10_minuto": "215 km/h (130mph)",
+      "presyon": "900 hPa (26.58 inHG)",
+      "signal": "Signals 1-5",
+      "nasawi": "20"
+    },
+    {
+      "ranggo": 9,
+      "bagyo": "Ruby (Hagupit)",
+      "petsa": "Disyembre 7-14, 2014",
+      "lakas_ng_hangin_10_minuto": "215 km/h (130 mph)",
+      "presyon": "905 hPa (mbar)",
+      "signal": "Signals 1-3",
+      "nasawi": "22"
+    },
+    {
+      "ranggo": 10,
+      "bagyo": "Rosita (Yutu)",
+      "petsa": "Oktubre 21-Nobyembre 2, 2018",
+      "lakas_ng_hangin_10_minuto": "215 km/h (130 mph)",
+      "presyon": "900 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "29"
+    },
+    {
+      "ranggo": 11,
+      "bagyo": "Ompong (Mangkut)",
+      "petsa": "Setyembre 7-17, 2018",
+      "lakas_ng_hangin_10_minuto": "205 km/h (125 mph)",
+      "presyon": "905 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "134"
+    },
+    {
+      "ranggo": 12,
+      "bagyo": "Pepito (Man-yi)",
+      "petsa": "Nobyembre 9-kasalukuyan",
+      "lakas_ng_hangin_10_minuto": "195 km/h (260 mph)",
+      "presyon": "935 hPa (mbar)",
+      "signal": "Signals 1-5",
+      "nasawi": "1+"
+    },
+    {
+      "ranggo": 13,
+      "bagyo": "Odette (Rai)",
+      "petsa": "Disyembre 16-20, 2021",
+      "lakas_ng_hangin_10_minuto": "195 km/h (260 mph)",
+      "presyon": "935 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "408"
+    },
+    {
+      "ranggo": 14,
+      "bagyo": "Nina (Nock-ten)",
+      "petsa": "Disyembre 22-28, 2016",
+      "lakas_ng_hangin_10_minuto": "195 km/h (120 mph)",
+      "presyon": "915 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "8"
+    },
+    {
+      "ranggo": 15,
+      "bagyo": "Pablo (Bopha)",
+      "petsa": "Disyembre 4 - 9, 2012",
+      "lakas_ng_hangin_10_minuto": "185 km/h (115 mph)",
+      "presyon": "930 hPa (mbar)",
+      "signal": "Signals 1-3",
+      "nasawi": "1, 069"
+    },
+    {
+      "ranggo": 16,
+      "bagyo": "Ruping (Mike)",
+      "petsa": "Nobyembre 8 - 18, 1990",
+      "lakas_ng_hangin_10_minuto": "185 km/h (115 mph)",
+      "presyon": "915 hPa (mbar)",
+      "signal": "Signals 1-3",
+      "nasawi": "1, 069"
+    },
+    {
+      "ranggo": 17,
+      "bagyo": "Mina (Nanmadol)",
+      "petsa": "Agosto 21-31, 2011",
+      "lakas_ng_hangin_10_minuto": "185 km/h (115 mph)",
+      "presyon": "925 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "38"
+    },
+    {
+      "ranggo": 18,
+      "bagyo": "Reming (Durian)",
+      "petsa": "Nobyembre 25 - Disyembre 6, 2006",
+      "lakas_ng_hangin_10_minuto": "195 km/h (120 mph)",
+      "presyon": "915 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "1, 500"
+    },
+    {
+      "ranggo": 19,
+      "bagyo": "Labuyo (Utor)",
+      "petsa": "Agosto 8 - 18, 2013",
+      "lakas_ng_hangin_10_minuto": "195 km/h (120 mph)",
+      "presyon": "925 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "97"
+    },
+    {
+      "ranggo": 20,
+      "bagyo": "Pepeng (Parma)",
+      "petsa": "Setyembre 27 - Oktubre 14, 2009",
+      "lakas_ng_hangin_10_minuto": "195 km/h (120 mph)",
+      "presyon": "920 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "465"
+    },
+    {
+      "ranggo": 21,
+      "bagyo": "Queenie (Chebi)",
+      "petsa": "Nobyembre 8 - 14, 2006",
+      "lakas_ng_hangin_10_minuto": "195 km/h (120 mph)",
+      "presyon": "920 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "1"
+    },
+    {
+      "ranggo": 22,
+      "bagyo": "Lando (Koppu)",
+      "petsa": "Oktubre 11 - 24, 2015",
+      "lakas_ng_hangin_10_minuto": "185 km/h (115 mph)",
+      "presyon": "920 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "2"
+    },
+    {
+      "ranggo": 23,
+      "bagyo": "Nona (Melor)",
+      "petsa": "Disyembre 9 - 17, 2015",
+      "lakas_ng_hangin_10_minuto": "175 km/h (110 mph)",
+      "presyon": "935 hPa (mbar)",
+      "signal": "Signals 1-3",
+      "nasawi": "42"
+    },
+    {
+      "ranggo": 24,
+      "bagyo": "Karen (Sarika)",
+      "petsa": "Oktubre 13 - 19, 2016",
+      "lakas_ng_hangin_10_minuto": "175 km/h (110 mph)",
+      "presyon": "936 hPa (mbar)",
+      "signal": "Signals 1-3",
+      "nasawi": "36"
+    },
+    {
+      "ranggo": 25,
+      "bagyo": "Quiel (Nalgae)",
+      "petsa": "Setyembre 26 - Oktubre 11, 2011",
+      "lakas_ng_hangin_10_minuto": "175 km/h (110 mph)",
+      "presyon": "935 hPa (mbar)",
+      "signal": "Signals 1-3",
+      "nasawi": "18"
+    },
+    {
+      "ranggo": 26,
+      "bagyo": "Yoyong (Nanmadol)",
+      "petsa": "Nobyembre 28 - Disyembre 4, 2004",
+      "lakas_ng_hangin_10_minuto": "165 km/h (105 mph)",
+      "presyon": "935 hPa (mbar)",
+      "signal": "Signals 1-4",
+      "nasawi": "77"
+    },
+    {
+      "ranggo": 27,
+      "bagyo": "Glenda (Rammasun)",
+      "petsa": "Hulyo 9-20, 2014",
+      "lakas_ng_hangin_10_minuto": "165 km/h (105 mph)",
+      "presyon": "935 hPa (mbar)",
+      "signal": "Signals 1-3",
+      "nasawi": "225"
+    },
+    {
+      "ranggo": 28,
+      "bagyo": "Tisoy (Kammuri)",
+      "petsa": "Nobyembre 23 - Disyembre 6, 2019",
+      "lakas_ng_hangin_10_minuto": "165 km/h (105 mph)",
+      "presyon": "955 hPa (mbar)",
+      "signal": "Signals 1-3",
+      "nasawi": "17"
+    },
+    {
+      "ranggo": 29,
+      "bagyo": "Milenyo (Xangsane)",
+      "petsa": "Setyembre 25 - Oktubre 2, 2006",
+      "lakas_ng_hangin_10_minuto": "155 km/h (100 mph)",
+      "presyon": "940 hPa (mbar)",
+      "signal": "Signals 1-3",
+      "nasawi": "312"
+    },
+    {
+      "ranggo": 30,
+      "bagyo": "Pedring (Nesat)",
+      "petsa": "Setyembre 23 - 30, 2011",
+      "lakas_ng_hangin_10_minuto": "150 km/h (90 mph)",
+      "presyon": "950 hPa (mbar)",
+      "signal": "Signals 1-3",
+      "nasawi": "98"
+    },
+    {
+      "ranggo": 31,
+      "bagyo": "Unding (Muifa)",
+      "petsa": "Nobyembre 14 - 26, 2004",
+      "lakas_ng_hangin_10_minuto": "150 km/h (90 mph)",
+      "presyon": "215 km/h (130 mph)",
+      "signal": "Signals 1-3",
+      "nasawi": "180"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pinakamalakas na Bagyong Tumama sa Pilipinas - Free Download",
+    "description": "Ranggo ng mga pinakamalakas na bagyong tumama sa Pilipinas ayon sa lakas ng hangin, kasama ang petsa, presyon, pinakamataas na signal at bilang ng nasawi. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pinakamalakas na Bagyong Tumama sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Pinakamalakas na Bagyong Tumama sa Pilipinas — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_bagyo_sa_Pilipinas"
+    ]
+  }
+}
