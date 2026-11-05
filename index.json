@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-04T02:26:47.030Z",
-  "total_datasets": 486,
-  "total_records": 446636,
+  "generated": "2026-11-05T02:26:58.438Z",
+  "total_datasets": 487,
+  "total_records": 446660,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -5293,6 +5293,30 @@
         "xlsx": {
           "name": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela_TL.xlsx",
           "size": 11119
+        }
+      }
+    },
+    {
+      "id": "tl-mga-album-ni-ogie-alcasid",
+      "name": "Mga Album ni Ogie Alcasid",
+      "category": "music",
+      "record_count": 24,
+      "columns": [
+        "taon",
+        "pamagat",
+        "sertipikasyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Ogie_Alcasid",
+      "updated": "2026-11",
+      "size": 3936,
+      "files": {
+        "csv": {
+          "name": "tl-mga-album-ni-ogie-alcasid_TL.csv",
+          "size": 936
+        },
+        "xlsx": {
+          "name": "tl-mga-album-ni-ogie-alcasid_TL.xlsx",
+          "size": 7457
         }
       }
     },
