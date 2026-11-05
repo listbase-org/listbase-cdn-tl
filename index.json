@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-05T02:27:05.043Z",
-  "total_datasets": 488,
-  "total_records": 446712,
+  "generated": "2026-11-05T02:27:11.761Z",
+  "total_datasets": 489,
+  "total_records": 446737,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 43
+      "dataset_count": 44
     },
     {
       "id": "economy",
@@ -1113,6 +1113,31 @@
         "xlsx": {
           "name": "tl-mga-diwata-at-bathala_TL.xlsx",
           "size": 21510
+        }
+      }
+    },
+    {
+      "id": "tl-mga-katutubong-sayaw-ng-pilipinas",
+      "name": "Mga Katutubong Sayaw ng Pilipinas",
+      "category": "culture",
+      "record_count": 25,
+      "columns": [
+        "pangalan",
+        "lungsod_o_bayan",
+        "lalawigan",
+        "pulo"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Mga_sayaw_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 4806,
+      "files": {
+        "csv": {
+          "name": "tl-mga-katutubong-sayaw-ng-pilipinas_TL.csv",
+          "size": 895
+        },
+        "xlsx": {
+          "name": "tl-mga-katutubong-sayaw-ng-pilipinas_TL.xlsx",
+          "size": 7503
         }
       }
     },
