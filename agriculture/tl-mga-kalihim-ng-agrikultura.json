@@ -1,0 +1,472 @@
+{
+  "id": "tl-mga-kalihim-ng-agrikultura",
+  "name": "Mga Kalihim ng Agrikultura ng Pilipinas",
+  "title": "Mga Kalihim ng Agrikultura ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim at Ministro ng Pagsasaka/Agrikultura ng Pilipinas mula 1899, kasama ang petsa ng panunungkulan, pangulong pinaglingkuran at pangalan ng katungkulan.",
+  "category": "agriculture",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Agrikultura",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Agrikultura",
+  "updated": "2026-11",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulong_pinaglingkuran",
+      "label": "Pangulong Pinaglingkuran",
+      "type": "string"
+    },
+    {
+      "key": "katungkulan",
+      "label": "Katungkulan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Leon Maria Guerrero",
+      "nagsimula": "May 7, 1899",
+      "nagtapos": "November 13, 1899",
+      "pangulong_pinaglingkuran": "Emilio Aguinaldo",
+      "katungkulan": "Ministro ng Pagsasaka, Industriya at Kalakalan"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Galicano Apacible",
+      "nagsimula": "1917",
+      "nagtapos": "1921",
+      "pangulong_pinaglingkuran": "",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Rafael Corpuz",
+      "nagsimula": "1921",
+      "nagtapos": "1923",
+      "pangulong_pinaglingkuran": "",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Silvestre Apostol",
+      "nagsimula": "1923",
+      "nagtapos": "1928",
+      "pangulong_pinaglingkuran": "",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Rafael Alunan",
+      "nagsimula": "1928",
+      "nagtapos": "1932",
+      "pangulong_pinaglingkuran": "",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Rafael Alunan",
+      "nagsimula": "1932",
+      "nagtapos": "1932",
+      "pangulong_pinaglingkuran": "",
+      "katungkulan": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Vicente Singson Encarnacion",
+      "nagsimula": "1933",
+      "nagtapos": "1934",
+      "pangulong_pinaglingkuran": "",
+      "katungkulan": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Eulogio Rodriguez",
+      "nagsimula": "1935",
+      "nagtapos": "1938",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "katungkulan": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Benigno Q. Aquino",
+      "nagsimula": "1938",
+      "nagtapos": "1941",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "katungkulan": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Rafael Alunan",
+      "nagsimula": "1941",
+      "nagtapos": "1942",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "katungkulan": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Jose Abad Santos",
+      "nagsimula": "Disyembre 26, 1941",
+      "nagtapos": "Marso 26, 1942",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "katungkulan": "Kalihim ng Pananalapi, Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Andrés Soriano, Sr.",
+      "nagsimula": "Marso 26, 1942",
+      "nagtapos": "Hulyo 31, 1944",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "katungkulan": "Kalihim ng Pananalapi, Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Manuel Nieto",
+      "nagsimula": "Agosto 8, 1944",
+      "nagtapos": "Pebrero 27, 1945",
+      "pangulong_pinaglingkuran": "Sergio Osmeña",
+      "katungkulan": "Kalihim ng Pananalapi, Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Delfin Jaranilla",
+      "nagsimula": "Pebrero 27, 1945",
+      "nagtapos": "Hulyo 12, 1945",
+      "pangulong_pinaglingkuran": "Sergio Osmena",
+      "katungkulan": "Kalihim ng Katarungan, Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Vicente Singson Encarnacion",
+      "nagsimula": "Hulyo 12, 1945",
+      "nagtapos": "1946",
+      "pangulong_pinaglingkuran": "Sergio Osmena",
+      "katungkulan": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Mariano Garchitorena",
+      "nagsimula": "Mayo 28, 1946",
+      "nagtapos": "1947",
+      "pangulong_pinaglingkuran": "Manuel Roxas",
+      "katungkulan": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Mariano Garchitorena",
+      "nagsimula": "1947",
+      "nagtapos": "Abril 15, 1948",
+      "pangulong_pinaglingkuran": "Manuel Roxas",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Mariano Garchitorena",
+      "nagsimula": "Abril 15, 1948",
+      "nagtapos": "Setyembre 1948",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Placido L. Mapa",
+      "nagsimula": "Setyembre 21, 1948",
+      "nagtapos": "1950",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Fernando Lopez",
+      "nagsimula": "Disyembre 14, 1950",
+      "nagtapos": "1953",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Placido L. Mapa",
+      "nagsimula": "1953",
+      "nagtapos": "1953",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Salvador Araneta",
+      "nagsimula": "Marso 10, 1954",
+      "nagtapos": "1955",
+      "pangulong_pinaglingkuran": "Ramon Magsaysay",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Juan G. Rodriguez",
+      "nagsimula": "Abril 12, 1956",
+      "nagtapos": "Marso 17, 1957",
+      "pangulong_pinaglingkuran": "Ramon Magsaysay",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Juan G. Rodriguez",
+      "nagsimula": "Marso 17, 1957",
+      "nagtapos": "Agosto 1960",
+      "pangulong_pinaglingkuran": "Carlos P. Garcia",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "21",
+      "pangalan": "Cesar Fortich",
+      "nagsimula": "1960",
+      "nagtapos": "1961",
+      "pangulong_pinaglingkuran": "Carlos P. Garcia",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "Jose Locsin",
+      "nagsimula": "Setyembre 1961",
+      "nagtapos": "Disyembre 30, 1961",
+      "pangulong_pinaglingkuran": "Carlos P. Garcia",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "Jose Locsin",
+      "nagsimula": "Disyembre 30, 1961",
+      "nagtapos": "1962",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "23",
+      "pangalan": "Benjamin M. Gozon",
+      "nagsimula": "1962",
+      "nagtapos": "1963",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "24",
+      "pangalan": "Jose Y. Feliciano",
+      "nagsimula": "1963",
+      "nagtapos": "1965",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Fernando Lopez",
+      "nagsimula": "Disyembre 30, 1965",
+      "nagtapos": "1971",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Arturo R. Tanco, Jr.",
+      "nagsimula": "1971",
+      "nagtapos": "Mayo 17, 1974",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "katungkulan": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Arturo R. Tanco, Jr.",
+      "nagsimula": "Mayo 17, 1974",
+      "nagtapos": "Hunyo 1978",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Arturo R. Tanco, Jr.",
+      "nagsimula": "Hunyo 1978",
+      "nagtapos": "Hunyo 1984",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "katungkulan": "Ministro ng Pagsasaka"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "Salvador H. Escudero III",
+      "nagsimula": "1984",
+      "nagtapos": "1986",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "katungkulan": "Ministro ng Pagsasaka"
+    },
+    {
+      "bilang": "28",
+      "pangalan": "Ramon V. Mitra, Jr.",
+      "nagsimula": "Marso 25, 1986",
+      "nagtapos": "Marso 9, 1987",
+      "pangulong_pinaglingkuran": "Corazon C. Aquino",
+      "katungkulan": "Ministro ng Pagsasaka"
+    },
+    {
+      "bilang": "29",
+      "pangalan": "Carlos G. Dominguez",
+      "nagsimula": "Marso 9, 1987",
+      "nagtapos": "1989",
+      "pangulong_pinaglingkuran": "Corazon C. Aquino",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "30",
+      "pangalan": "Senen C. Bacani",
+      "nagsimula": "1990",
+      "nagtapos": "Hunyo 30, 1992",
+      "pangulong_pinaglingkuran": "Corazon C. Aquino",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "31",
+      "pangalan": "Roberto S. Sebastian",
+      "nagsimula": "Hunyo 30, 1992",
+      "nagtapos": "Enero 31, 1996",
+      "pangulong_pinaglingkuran": "Fidel V. Ramos",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "32",
+      "pangalan": "Salvador H. Escudero III",
+      "nagsimula": "Pebrero 1, 1996",
+      "nagtapos": "Hunyo 30, 1998",
+      "pangulong_pinaglingkuran": "Fidel V. Ramos",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "33",
+      "pangalan": "William D. Dar",
+      "nagsimula": "Hunyo 30, 1998",
+      "nagtapos": "Mayo 24, 1999",
+      "pangulong_pinaglingkuran": "Joseph Ejercito Estrada",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "34",
+      "pangalan": "Edgardo J. Angara, Jr.",
+      "nagsimula": "Mayo 25, 1999",
+      "nagtapos": "Enero 6, 2001",
+      "pangulong_pinaglingkuran": "Joseph Ejercito Estrada",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "35",
+      "pangalan": "Domingo F. Panganiban",
+      "nagsimula": "Enero 8, 2001",
+      "nagtapos": "Enero 20, 2001",
+      "pangulong_pinaglingkuran": "Joseph Ejercito Estrada",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "35",
+      "pangalan": "Domingo F. Panganiban",
+      "nagsimula": "Enero 20, 2001",
+      "nagtapos": "Pebrero 11, 2001",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "36",
+      "pangalan": "Leonardo Q. Montemayor",
+      "nagsimula": "Pebrero 12, 2001",
+      "nagtapos": "Disyembre 8, 2002",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "37",
+      "pangalan": "Luis P. Lorenzo, Jr.",
+      "nagsimula": "Disyembre 9, 2002",
+      "nagtapos": "Agosto 15, 2004",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "38",
+      "pangalan": "Arthur C. Yap",
+      "nagsimula": "Agosto 23, 2004",
+      "nagtapos": "Hunyo 30, 2005",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "39",
+      "pangalan": "Domingo F. Panganiban",
+      "nagsimula": "Hulyo 16, 2005",
+      "nagtapos": "Mayo 3, 2006",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "40",
+      "pangalan": "Arthur C. Yap",
+      "nagsimula": "Mayo 3, 2006",
+      "nagtapos": "Pebrero 24, 2010",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "41",
+      "pangalan": "Bernie Fondevilla",
+      "nagsimula": "Marso 8, 2010",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "42",
+      "pangalan": "Proceso Alcala",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulong_pinaglingkuran": "Benigno S. Aquino III",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "43",
+      "pangalan": "Emmanuel Piñol",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "Agosto 5, 2019",
+      "pangulong_pinaglingkuran": "Rodrigo Duterte",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    },
+    {
+      "bilang": "44",
+      "pangalan": "William D. Dar",
+      "nagsimula": "Agosto 5, 2019",
+      "nagtapos": "kasalukuyan",
+      "pangulong_pinaglingkuran": "Rodrigo Duterte",
+      "katungkulan": "Kalihim ng Pagsasaka"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Agrikultura ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim at Ministro ng Pagsasaka/Agrikultura ng Pilipinas mula 1899, kasama ang petsa ng panunungkulan, pangulong pinaglingkuran at pangalan ng katungkulan. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Agrikultura ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Agrikultura ng Pilipinas — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Agrikultura"
+    ]
+  }
+}

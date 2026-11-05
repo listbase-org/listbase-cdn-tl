@@ -1,12 +1,12 @@
 {
   "lang": "tl",
-  "generated": "2026-11-05T02:26:58.438Z",
-  "total_datasets": 487,
-  "total_records": 446660,
+  "generated": "2026-11-05T02:27:05.043Z",
+  "total_datasets": 488,
+  "total_records": 446712,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -98,6 +98,33 @@
     }
   ],
   "datasets": [
+    {
+      "id": "tl-mga-kalihim-ng-agrikultura",
+      "name": "Mga Kalihim ng Agrikultura ng Pilipinas",
+      "category": "agriculture",
+      "record_count": 52,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulong_pinaglingkuran",
+        "katungkulan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Agrikultura",
+      "updated": "2026-11",
+      "size": 14799,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-agrikultura_TL.csv",
+          "size": 5465
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-agrikultura_TL.xlsx",
+          "size": 9391
+        }
+      }
+    },
     {
       "id": "tl-produksyon-agrikultura-rehiyon",
       "name": "Produksiyon ng mga Produktong Agrikultural ayon sa Rehiyon",
