@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-05T02:27:19.609Z",
-  "total_datasets": 490,
-  "total_records": 446752,
+  "generated": "2026-11-05T02:27:27.851Z",
+  "total_datasets": 491,
+  "total_records": 446789,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 36
+      "dataset_count": 37
     },
     {
       "id": "health",
@@ -4219,6 +4219,33 @@
         "xlsx": {
           "name": "tl-mga-bundok_TL.xlsx",
           "size": 30239
+        }
+      }
+    },
+    {
+      "id": "tl-mga-lungsod-at-bayan-ng-kalakhang-pook",
+      "name": "Mga Lungsod at Bayan ng mga Kalakhang Pook sa Pilipinas",
+      "category": "geography",
+      "record_count": 37,
+      "columns": [
+        "lungsod_o_bayan",
+        "kalakhang_pook",
+        "bahagdan_ng_populasyon",
+        "populasyon_2015",
+        "lawak_km2",
+        "densidad_bawat_km2"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_kalakhang_pook_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 10415,
+      "files": {
+        "csv": {
+          "name": "tl-mga-lungsod-at-bayan-ng-kalakhang-pook_TL.csv",
+          "size": 2380
+        },
+        "xlsx": {
+          "name": "tl-mga-lungsod-at-bayan-ng-kalakhang-pook_TL.xlsx",
+          "size": 8479
         }
       }
     },

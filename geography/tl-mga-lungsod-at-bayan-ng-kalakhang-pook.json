@@ -1,0 +1,352 @@
+{
+  "id": "tl-mga-lungsod-at-bayan-ng-kalakhang-pook",
+  "name": "Mga Lungsod at Bayan ng mga Kalakhang Pook sa Pilipinas",
+  "title": "Mga Lungsod at Bayan ng mga Kalakhang Pook sa Pilipinas",
+  "description": "Mga lungsod at bayang bumubuo sa Kalakhang Maynila, Kalakhang Cebu at Kalakhang Dabaw, kasama ang populasyon (2015), lawak at densidad.",
+  "category": "geography",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_kalakhang_pook_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_kalakhang_pook_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "lungsod_o_bayan",
+      "label": "Lungsod O Bayan",
+      "type": "string"
+    },
+    {
+      "key": "kalakhang_pook",
+      "label": "Kalakhang Pook",
+      "type": "string"
+    },
+    {
+      "key": "bahagdan_ng_populasyon",
+      "label": "Bahagdan Ng Populasyon",
+      "type": "string"
+    },
+    {
+      "key": "populasyon_2015",
+      "label": "Populasyon 2015",
+      "type": "number"
+    },
+    {
+      "key": "lawak_km2",
+      "label": "Lawak Km2",
+      "type": "number"
+    },
+    {
+      "key": "densidad_bawat_km2",
+      "label": "Densidad Bawat Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lungsod_o_bayan": "Carcar",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "4.2%",
+      "populasyon_2015": 119664,
+      "lawak_km2": 116.78,
+      "densidad_bawat_km2": 1000
+    },
+    {
+      "lungsod_o_bayan": "Lungsod ng Cebu",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "32.4%",
+      "populasyon_2015": 922611,
+      "lawak_km2": 315,
+      "densidad_bawat_km2": 2900
+    },
+    {
+      "lungsod_o_bayan": "Compostela",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "1.7%",
+      "populasyon_2015": 47898,
+      "lawak_km2": 53.9,
+      "densidad_bawat_km2": 890
+    },
+    {
+      "lungsod_o_bayan": "Consolacion",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "4.6%",
+      "populasyon_2015": 131528,
+      "lawak_km2": 37.03,
+      "densidad_bawat_km2": 3600
+    },
+    {
+      "lungsod_o_bayan": "Cordova",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "2.1%",
+      "populasyon_2015": 59712,
+      "lawak_km2": 17.15,
+      "densidad_bawat_km2": 3500
+    },
+    {
+      "lungsod_o_bayan": "Danao",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "4.8%",
+      "populasyon_2015": 136471,
+      "lawak_km2": 107.3,
+      "densidad_bawat_km2": 1300
+    },
+    {
+      "lungsod_o_bayan": "Lapu-Lapu (Opon)",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "14.3%",
+      "populasyon_2015": 408112,
+      "lawak_km2": 58.1,
+      "densidad_bawat_km2": 7000
+    },
+    {
+      "lungsod_o_bayan": "Liloan",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "4.2%",
+      "populasyon_2015": 118753,
+      "lawak_km2": 45.92,
+      "densidad_bawat_km2": 2600
+    },
+    {
+      "lungsod_o_bayan": "Mandaue",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "12.7%",
+      "populasyon_2015": 362654,
+      "lawak_km2": 25.18,
+      "densidad_bawat_km2": 14000
+    },
+    {
+      "lungsod_o_bayan": "Minglanilla",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "4.6%",
+      "populasyon_2015": 132135,
+      "lawak_km2": 65.6,
+      "densidad_bawat_km2": 2000
+    },
+    {
+      "lungsod_o_bayan": "Naga",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "4.1%",
+      "populasyon_2015": 115750,
+      "lawak_km2": 101.97,
+      "densidad_bawat_km2": 1100
+    },
+    {
+      "lungsod_o_bayan": "San Fernando",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "2.3%",
+      "populasyon_2015": 66280,
+      "lawak_km2": 69.39,
+      "densidad_bawat_km2": 960
+    },
+    {
+      "lungsod_o_bayan": "Talisay",
+      "kalakhang_pook": "Kalakhang Cebu",
+      "bahagdan_ng_populasyon": "8.0%",
+      "populasyon_2015": 227645,
+      "lawak_km2": 39.87,
+      "densidad_bawat_km2": 5700
+    },
+    {
+      "lungsod_o_bayan": "Carmen",
+      "kalakhang_pook": "Kalakhang Dabaw",
+      "bahagdan_ng_populasyon": "3.0%",
+      "populasyon_2015": 74679,
+      "lawak_km2": 166,
+      "densidad_bawat_km2": 450
+    },
+    {
+      "lungsod_o_bayan": "Lungsod ng Dabaw",
+      "kalakhang_pook": "Kalakhang Dabaw",
+      "bahagdan_ng_populasyon": "64.9%",
+      "populasyon_2015": 1632991,
+      "lawak_km2": 2443.61,
+      "densidad_bawat_km2": 670
+    },
+    {
+      "lungsod_o_bayan": "Digos",
+      "kalakhang_pook": "Kalakhang Dabaw",
+      "bahagdan_ng_populasyon": "6.7%",
+      "populasyon_2015": 169393,
+      "lawak_km2": 287.1,
+      "densidad_bawat_km2": 590
+    },
+    {
+      "lungsod_o_bayan": "Panabo",
+      "kalakhang_pook": "Kalakhang Dabaw",
+      "bahagdan_ng_populasyon": "7.3%",
+      "populasyon_2015": 184599,
+      "lawak_km2": 251.23,
+      "densidad_bawat_km2": 730
+    },
+    {
+      "lungsod_o_bayan": "Samal",
+      "kalakhang_pook": "Kalakhang Dabaw",
+      "bahagdan_ng_populasyon": "4.1%",
+      "populasyon_2015": 104123,
+      "lawak_km2": 301.3,
+      "densidad_bawat_km2": 350
+    },
+    {
+      "lungsod_o_bayan": "Santa Cruz",
+      "kalakhang_pook": "Kalakhang Dabaw",
+      "bahagdan_ng_populasyon": "3.6%",
+      "populasyon_2015": 90987,
+      "lawak_km2": 319.91,
+      "densidad_bawat_km2": 280
+    },
+    {
+      "lungsod_o_bayan": "Tagum",
+      "kalakhang_pook": "Kalakhang Dabaw",
+      "bahagdan_ng_populasyon": "10.3%",
+      "populasyon_2015": 259444,
+      "lawak_km2": 195.8,
+      "densidad_bawat_km2": 1300
+    },
+    {
+      "lungsod_o_bayan": "Caloocan",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "12.3%",
+      "populasyon_2015": 1583978,
+      "lawak_km2": 53.2,
+      "densidad_bawat_km2": 30000
+    },
+    {
+      "lungsod_o_bayan": "Las Piñas",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "4.6%",
+      "populasyon_2015": 588894,
+      "lawak_km2": 32.02,
+      "densidad_bawat_km2": 18000
+    },
+    {
+      "lungsod_o_bayan": "Makati",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "4.5%",
+      "populasyon_2015": 582602,
+      "lawak_km2": 27.36,
+      "densidad_bawat_km2": 21000
+    },
+    {
+      "lungsod_o_bayan": "Malabon",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "2.8%",
+      "populasyon_2015": 365525,
+      "lawak_km2": 15.96,
+      "densidad_bawat_km2": 23000
+    },
+    {
+      "lungsod_o_bayan": "Mandaluyong",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "3.0%",
+      "populasyon_2015": 386276,
+      "lawak_km2": 11.06,
+      "densidad_bawat_km2": 35000
+    },
+    {
+      "lungsod_o_bayan": "Maynila",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "13.8%",
+      "populasyon_2015": 1780148,
+      "lawak_km2": 42.88,
+      "densidad_bawat_km2": 42000
+    },
+    {
+      "lungsod_o_bayan": "Marikina",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "3.5%",
+      "populasyon_2015": 450741,
+      "lawak_km2": 22.64,
+      "densidad_bawat_km2": 20000
+    },
+    {
+      "lungsod_o_bayan": "Muntinlupa",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "3.9%",
+      "populasyon_2015": 504509,
+      "lawak_km2": 41.67,
+      "densidad_bawat_km2": 12000
+    },
+    {
+      "lungsod_o_bayan": "Navotas",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "1.9%",
+      "populasyon_2015": 249463,
+      "lawak_km2": 11.51,
+      "densidad_bawat_km2": 22000
+    },
+    {
+      "lungsod_o_bayan": "Parañaque",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "5.2%",
+      "populasyon_2015": 665822,
+      "lawak_km2": 47.28,
+      "densidad_bawat_km2": 14000
+    },
+    {
+      "lungsod_o_bayan": "Pasay",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "3.2%",
+      "populasyon_2015": 416522,
+      "lawak_km2": 18.64,
+      "densidad_bawat_km2": 22000
+    },
+    {
+      "lungsod_o_bayan": "Pasig",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "5.9%",
+      "populasyon_2015": 755300,
+      "lawak_km2": 31.46,
+      "densidad_bawat_km2": 24000
+    },
+    {
+      "lungsod_o_bayan": "Pateros",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "0.5%",
+      "populasyon_2015": 63840,
+      "lawak_km2": 1.76,
+      "densidad_bawat_km2": 36000
+    },
+    {
+      "lungsod_o_bayan": "Lungsod Quezon",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "22.8%",
+      "populasyon_2015": 2936116,
+      "lawak_km2": 165.33,
+      "densidad_bawat_km2": 18000
+    },
+    {
+      "lungsod_o_bayan": "San Juan",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "0.9%",
+      "populasyon_2015": 122180,
+      "lawak_km2": 5.87,
+      "densidad_bawat_km2": 21000
+    },
+    {
+      "lungsod_o_bayan": "Taguig",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "6.3%",
+      "populasyon_2015": 804915,
+      "lawak_km2": 45.18,
+      "densidad_bawat_km2": 18000
+    },
+    {
+      "lungsod_o_bayan": "Valenzuela",
+      "kalakhang_pook": "Kalakhang Maynila",
+      "bahagdan_ng_populasyon": "4.8%",
+      "populasyon_2015": 620422,
+      "lawak_km2": 45.75,
+      "densidad_bawat_km2": 14000
+    }
+  ],
+  "meta": {
+    "title": "Mga Lungsod at Bayan ng mga Kalakhang Pook sa Pilipinas - Free Download",
+    "description": "Mga lungsod at bayang bumubuo sa Kalakhang Maynila, Kalakhang Cebu at Kalakhang Dabaw, kasama ang populasyon (2015), lawak at densidad. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Lungsod at Bayan ng mga Kalakhang Pook sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Lungsod at Bayan ng mga Kalakhang Pook sa Pilipinas — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_kalakhang_pook_sa_Pilipinas"
+    ]
+  }
+}
