@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-05T02:27:11.761Z",
-  "total_datasets": 489,
-  "total_records": 446737,
+  "generated": "2026-11-05T02:27:19.609Z",
+  "total_datasets": 490,
+  "total_records": 446752,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -5318,6 +5318,34 @@
         "xlsx": {
           "name": "tl-mga-kalihim-ng-katarungan_TL.xlsx",
           "size": 10373
+        }
+      }
+    },
+    {
+      "id": "tl-mga-lehislatura-ng-pilipinas",
+      "name": "Kasaysayan ng mga Lehislatura ng Pilipinas",
+      "category": "law",
+      "record_count": 15,
+      "columns": [
+        "taon",
+        "pamahalaan",
+        "batayang_batas",
+        "lupong_tagapagbatas",
+        "uri",
+        "mataas_na_kapulungan",
+        "mababang_kapulungan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kongreso_ng_Pilipinas",
+      "updated": "2026-11",
+      "size": 7287,
+      "files": {
+        "csv": {
+          "name": "tl-mga-lehislatura-ng-pilipinas_TL.csv",
+          "size": 2635
+        },
+        "xlsx": {
+          "name": "tl-mga-lehislatura-ng-pilipinas_TL.xlsx",
+          "size": 7747
         }
       }
     },

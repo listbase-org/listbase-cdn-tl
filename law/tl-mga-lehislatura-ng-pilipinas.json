@@ -1,0 +1,196 @@
+{
+  "id": "tl-mga-lehislatura-ng-pilipinas",
+  "name": "Kasaysayan ng mga Lehislatura ng Pilipinas",
+  "title": "Kasaysayan ng mga Lehislatura ng Pilipinas",
+  "description": "Mga naging lupong tagapagbatas ng Pilipinas mula Kongresong Malolos (1898) hanggang sa kasalukuyang Kongreso, kasama ang batayang batas o saligang batas, uri (unikameral/bikameral) at mga kapulungan.",
+  "category": "law",
+  "source": "https://tl.wikipedia.org/wiki/Kongreso_ng_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Kongreso_ng_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "string"
+    },
+    {
+      "key": "pamahalaan",
+      "label": "Pamahalaan",
+      "type": "string"
+    },
+    {
+      "key": "batayang_batas",
+      "label": "Batayang Batas",
+      "type": "string"
+    },
+    {
+      "key": "lupong_tagapagbatas",
+      "label": "Lupong Tagapagbatas",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "mataas_na_kapulungan",
+      "label": "Mataas Na Kapulungan",
+      "type": "string"
+    },
+    {
+      "key": "mababang_kapulungan",
+      "label": "Mababang Kapulungan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "taon": "1898–99",
+      "pamahalaan": "Mga lugar na nasa ilalim ng pamamahala ng República Filipina",
+      "batayang_batas": "Saligang Batas ng Malolos",
+      "lupong_tagapagbatas": "Kongresong Malolos",
+      "uri": "Unikameral",
+      "mataas_na_kapulungan": "Kongresong Malolos",
+      "mababang_kapulungan": "Kongresong Malolos"
+    },
+    {
+      "taon": "1898–99",
+      "pamahalaan": "Pamahalaang Militar ng Estados Unidos",
+      "batayang_batas": "Kapangyarihang pandigmaan ng Pangulo ng Estados Unidos",
+      "lupong_tagapagbatas": "Batas militar",
+      "uri": "Batas militar",
+      "mataas_na_kapulungan": "Batas militar",
+      "mababang_kapulungan": "Batas militar"
+    },
+    {
+      "taon": "1900–02",
+      "pamahalaan": "Mga lugar na nasa ilalim ng pamamahala ng República Filipina",
+      "batayang_batas": "Saligang Batas ng Malolos",
+      "lupong_tagapagbatas": "Kongresong Malolos",
+      "uri": "Unikameral",
+      "mataas_na_kapulungan": "Kongresong Malolos",
+      "mababang_kapulungan": "Kongresong Malolos"
+    },
+    {
+      "taon": "1900–02",
+      "pamahalaan": "Mga lugar na nasa ilalim ng pamamahala ng Pamahalaang Militar ng Estados Unidos",
+      "batayang_batas": "Pagtatalaga ng Pangulo ng Estados Unidos",
+      "lupong_tagapagbatas": "Komisyong Taft",
+      "uri": "Unikameral",
+      "mataas_na_kapulungan": "Komisyon ng Pilipinas",
+      "mababang_kapulungan": "Komisyon ng Pilipinas"
+    },
+    {
+      "taon": "1902–07",
+      "pamahalaan": "Pamahalaang Pangkapuluan ng Kapuluan ng Pilipinas",
+      "batayang_batas": "Batas ng Pilipinas ng 1902",
+      "lupong_tagapagbatas": "Komisyon ng Pilipinas",
+      "uri": "Unikameral",
+      "mataas_na_kapulungan": "Komisyon ng Pilipinas",
+      "mababang_kapulungan": "Komisyon ng Pilipinas"
+    },
+    {
+      "taon": "1907–16",
+      "pamahalaan": "Pamahalaang Pangkapuluan ng Kapuluan ng Pilipinas",
+      "batayang_batas": "Batas ng Pilipinas ng 1902",
+      "lupong_tagapagbatas": "Lehislatura ng Pilipinas",
+      "uri": "Bikameral",
+      "mataas_na_kapulungan": "Komisyon ng Pilipinas",
+      "mababang_kapulungan": "Kapulungan ng Pilipinas"
+    },
+    {
+      "taon": "1916–35",
+      "pamahalaan": "Pamahalaang Pangkapuluan ng Kapuluan ng Pilipinas",
+      "batayang_batas": "Batas Kasarinlan ng Pilipinas",
+      "lupong_tagapagbatas": "Batasang Pambansa",
+      "uri": "Bikameral",
+      "mataas_na_kapulungan": "Senado",
+      "mababang_kapulungan": "Kapulungan ng mga Kinatawan"
+    },
+    {
+      "taon": "1935–41",
+      "pamahalaan": "Komonwelt ng Pilipinas",
+      "batayang_batas": "Saligang Batas ng 1935",
+      "lupong_tagapagbatas": "Pambansang Kapulungan",
+      "uri": "Unikameral",
+      "mataas_na_kapulungan": "Pambansang Kapulungan",
+      "mababang_kapulungan": "Pambansang Kapulungan"
+    },
+    {
+      "taon": "1942–43",
+      "pamahalaan": "Imperyo ng Hapon",
+      "batayang_batas": "Kapangyarihang pandigmaan ng Emperador ng Hapon",
+      "lupong_tagapagbatas": "Batas militar",
+      "uri": "Batas militar",
+      "mataas_na_kapulungan": "Batas militar",
+      "mababang_kapulungan": "Batas militar"
+    },
+    {
+      "taon": "1943–44",
+      "pamahalaan": "Ikalawang Republika ng Pilipinas",
+      "batayang_batas": "Saligang Batas ng 1943",
+      "lupong_tagapagbatas": "Pambansang Kapulungan",
+      "uri": "Unikameral",
+      "mataas_na_kapulungan": "Pambansang Kapulungan",
+      "mababang_kapulungan": "Pambansang Kapulungan"
+    },
+    {
+      "taon": "1945–46",
+      "pamahalaan": "Komonwelt ng Pilipinas",
+      "batayang_batas": "Mga pagbabago sa Saligang Batas ng 1935",
+      "lupong_tagapagbatas": "Kongresong Komonwelt",
+      "uri": "Bikameral",
+      "mataas_na_kapulungan": "Senado",
+      "mababang_kapulungan": "Kapulungan ng mga Kinatawan"
+    },
+    {
+      "taon": "1946–73",
+      "pamahalaan": "Pangatlong Republika ng Pilipinas",
+      "batayang_batas": "Mga pagbabago sa Saligang Batas ng 1935",
+      "lupong_tagapagbatas": "Kongreso",
+      "uri": "Bikameral",
+      "mataas_na_kapulungan": "Senado",
+      "mababang_kapulungan": "Kapulungan ng mga Kinatawan"
+    },
+    {
+      "taon": "1973–78 (hindi kailanman nagpulong)",
+      "pamahalaan": "Ang Pilipinas ay nasa ilalim ng batas militar",
+      "batayang_batas": "Saligang Batas ng 1973",
+      "lupong_tagapagbatas": "Pambansang Kapulungan",
+      "uri": "Unikameral",
+      "mataas_na_kapulungan": "Pambansang Kapulungan",
+      "mababang_kapulungan": "Pambansang Kapulungan"
+    },
+    {
+      "taon": "1978–86",
+      "pamahalaan": "Ikaapat na Republika ng Pilipinas",
+      "batayang_batas": "Mga pagbabago sa Saligang Batas ng 1973",
+      "lupong_tagapagbatas": "Batasang Pambansa",
+      "uri": "Unikameral",
+      "mataas_na_kapulungan": "Batasang Pambansa",
+      "mababang_kapulungan": "Batasang Pambansa"
+    },
+    {
+      "taon": "1986–kasalukuyan",
+      "pamahalaan": "Republika ng Pilipinas",
+      "batayang_batas": "Saligang Batas ng 1987",
+      "lupong_tagapagbatas": "Kongreso",
+      "uri": "Bikameral",
+      "mataas_na_kapulungan": "Senado",
+      "mababang_kapulungan": "Kapulungan ng mga Kinatawan"
+    }
+  ],
+  "meta": {
+    "title": "Kasaysayan ng mga Lehislatura ng Pilipinas - Free Download",
+    "description": "Mga naging lupong tagapagbatas ng Pilipinas mula Kongresong Malolos (1898) hanggang sa kasalukuyang Kongreso, kasama ang batayang batas o saligang batas, uri (unikameral/bikameral) at mga kapulungan. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kasaysayan ng mga Lehislatura ng Pilipinas | ListBase",
+    "seo_description": "Download Kasaysayan ng mga Lehislatura ng Pilipinas — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kongreso_ng_Pilipinas"
+    ]
+  }
+}
