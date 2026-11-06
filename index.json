@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-06T02:19:09.753Z",
-  "total_datasets": 497,
-  "total_records": 447214,
+  "generated": "2026-11-06T02:19:18.268Z",
+  "total_datasets": 498,
+  "total_records": 447559,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -14255,6 +14255,33 @@
         "xlsx": {
           "name": "tl-dihital-na-himpilang-pantelebisyon_TL.xlsx",
           "size": 21759
+        }
+      }
+    },
+    {
+      "id": "tl-mga-analogong-himpilang-pantelebisyon",
+      "name": "Mga Analogong Himpilang Pantelebisyon sa Pilipinas",
+      "category": "tech",
+      "record_count": 345,
+      "columns": [
+        "call_sign",
+        "channel",
+        "may_ari",
+        "inilunsad",
+        "huminto",
+        "lokasyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_analogong_himpilang_pangtelebisyon_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 83204,
+      "files": {
+        "csv": {
+          "name": "tl-mga-analogong-himpilang-pantelebisyon_TL.csv",
+          "size": 38166
+        },
+        "xlsx": {
+          "name": "tl-mga-analogong-himpilang-pantelebisyon_TL.xlsx",
+          "size": 20283
         }
       }
     },

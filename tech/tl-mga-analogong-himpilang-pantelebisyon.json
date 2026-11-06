@@ -1,0 +1,2816 @@
+{
+  "id": "tl-mga-analogong-himpilang-pantelebisyon",
+  "name": "Mga Analogong Himpilang Pantelebisyon sa Pilipinas",
+  "title": "Mga Analogong Himpilang Pantelebisyon sa Pilipinas",
+  "description": "Talaan ng mga analogong himpilang VHF/UHF sa Pilipinas ayon sa lokasyon, kasama ang call sign, channel, may-ari at taon ng paglunsad.",
+  "category": "tech",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_analogong_himpilang_pangtelebisyon_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_analogong_himpilang_pangtelebisyon_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 345,
+  "columns": [
+    {
+      "key": "call_sign",
+      "label": "Call Sign",
+      "type": "string"
+    },
+    {
+      "key": "channel",
+      "label": "Channel",
+      "type": "string"
+    },
+    {
+      "key": "may_ari",
+      "label": "May Ari",
+      "type": "string"
+    },
+    {
+      "key": "inilunsad",
+      "label": "Inilunsad",
+      "type": "string"
+    },
+    {
+      "key": "huminto",
+      "label": "Huminto",
+      "type": "string"
+    },
+    {
+      "key": "lokasyon",
+      "label": "Lokasyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "call_sign": "DWGT-TV",
+      "channel": "TV-4",
+      "may_ari": "People's Television Network, Inc.",
+      "inilunsad": "1974 (ginamit ito noon ng CBN (ngayon ay ABS-CBN) mula taong 1969–72)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWET-TV",
+      "channel": "TV-5",
+      "may_ari": "TV5 Network, Inc. Kasalukuyang pinapalabas: TV5",
+      "inilunsad": "1960/1992",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DZBB-TV",
+      "channel": "TV-7",
+      "may_ari": "GMA Network, Inc. Kasalukuyang pinapalabas: GMA Network",
+      "inilunsad": "1961",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DZKB-TV",
+      "channel": "TV-9",
+      "may_ari": "Radio Philippines Network Kasalukuyang pinapalabas: RPN (Nine Media Corporation)",
+      "inilunsad": "1969 (ginamit din ito noon ng CBN (ngayon ABS-CBN) mula taong 1957–69)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DZOE-TV",
+      "channel": "TV-11",
+      "may_ari": "ZOE Broadcasting Network Kasalukuyang pinapalabas: A2Z",
+      "inilunsad": "1998 (ginamit din ito ng Manila Broadcasting Company mula taong 1960–72)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DZTV-TV",
+      "channel": "TV-13",
+      "may_ari": "Intercontinental Broadcasting Corporation Kasalukuyang pinapalabas: IBC",
+      "inilunsad": "1960/1975",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWCP-TV",
+      "channel": "TV-21",
+      "may_ari": "Southern Broadcasting Network (Solar Entertainment) Kasalukuyang pinapalabas: ETC",
+      "inilunsad": "1992",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWKB-TV",
+      "channel": "TV-22",
+      "may_ari": "Radio Philippines Network (Nine Media Corporation) Kasulukuyan pinapalabas: RPTV",
+      "inilunsad": "2011 (ginamit ito noon ng Solar News Channel mula 2011 hanggang 2014, tapos yung 9TV mula 2014 hanggang 2015 at ng CNN Philippines mula 2015 hanggang 2024)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DZEC-TV",
+      "channel": "TV-25",
+      "may_ari": "Eagle Broadcasting Corporation Kasulukuyan pinapalabas: Net 25",
+      "inilunsad": "1999",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWDB-TV",
+      "channel": "TV-27",
+      "may_ari": "GMA Network, Inc. Kasulukuyan pinapalabas: GTV",
+      "inilunsad": "1995/2019 (gastos sa paggasta mula 2001 hanggang 2019)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DZRJ-TV",
+      "channel": "TV-29",
+      "may_ari": "Rajah Broadcasting Network Kasulukuyan pinapalabas: RJTV",
+      "inilunsad": "1993 (pagkatapos ng kasunduan sa blocktime ng Solar Entertainment Corporation mula 2008 hanggang 2018, at naging independent television station)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWKC-TV",
+      "channel": "TV-31",
+      "may_ari": "Broadcast Enterprises and Affiliated Media Kasalukuyang pinapalabas: BEAM TV",
+      "inilunsad": "1992/2011 (dating nakilala bilang CTV-31 at E! Philippines, pero pansamantalang inalis sa ere noong 2003)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DZOZ-TV",
+      "channel": "TV-33",
+      "may_ari": "ZOE Broadcasting Network Kasulukuyan pinapalabas: Light TV",
+      "inilunsad": "2006",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWEY-TV",
+      "channel": "TV-35",
+      "may_ari": "Brigada Mass Media Corporation Kasalukuyang pinapalabas: Brigada TV",
+      "inilunsad": "1995/2016 (dating nakilala bilang DBS TV-35 ng Delta Broadcasting System, pero pansamantala inalis sa ere nonong 2004)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWAO-TV",
+      "channel": "TV-37",
+      "may_ari": "Progressive Broadcasting Corporation Kasalukuyang pinapalabas: UNTV",
+      "inilunsad": "July 2001, May 2002/2004 (mula 1999 - 2002 dating NUTV Channel 37)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWAQ-TV",
+      "channel": "TV-39",
+      "may_ari": "Sonshine Media Network International",
+      "inilunsad": "2005",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWNB-TV",
+      "channel": "TV-41",
+      "may_ari": "Nation Broadcasting Corporation (TV5 Network, Inc.) Kasalukuyang pinapalabas: One Sports",
+      "inilunsad": "2001/2011 (dating MTV Philippines)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWVN-TV",
+      "channel": "TV-45",
+      "may_ari": "Gateway UHF Broadcasting Kasalukuyang pinapalabas: Hope Channel PHL",
+      "inilunsad": "2001",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DZCE-TV",
+      "channel": "TV-48",
+      "may_ari": "Christian Era Broadcasting Service International Kasalukuyang pinapalabas: INC TV",
+      "inilunsad": "2005/2012 (sa TV-49; lumipat sa kasalukuyang channel sa 2017 upang payagan ang full-time simulcast sa digital na senya nito)",
+      "huminto": "",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWWX-TV",
+      "channel": "TV-2",
+      "may_ari": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "inilunsad": "1953 (Original na frequency ay Channel 3 ginamit ito noon ng ABS mula 1953–69; at ng BBC mula taong 1973-86)",
+      "huminto": "Mayo 5, 2020",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWAC-TV",
+      "channel": "TV-23",
+      "may_ari": "ABS–CBN Corporation Kasalukuyang pinapalabas: S+A",
+      "inilunsad": "1996 (dalas na ginagamit ng EEC (dating tagapaglaan ng MTV Asia / Channel V sa Pilipinas) mula May 1992 – July 1996 at dating pinalabas bilang Studio 23 mula October 12, 1996 - January 16, 2014)",
+      "huminto": "Mayo 5, 2020",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWBM-TV",
+      "channel": "TV-43",
+      "may_ari": "Meredith Corporation (Sports Illustrated Television) Dating pinapalabas: Gem Sports Network",
+      "inilunsad": "1994/2009",
+      "huminto": "1994 (Orihinal na broadcast bilang Mareco Broadcasting Network at Dating estasyong TV carry-over ng 105.1 Crossover at taong 2024 (ipinasara Ang himpilan ng Solar Entertainment Corporation bilang Gem Sports Network)",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWDZ-TV",
+      "channel": "TV-47",
+      "may_ari": "TV5 Network, Inc.",
+      "inilunsad": "1999",
+      "huminto": "2003",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "(Provisional Authority)",
+      "channel": "TV-51",
+      "may_ari": "MediaScape, Inc.",
+      "inilunsad": "2010",
+      "huminto": "2011 (inilipat sa buong digital na pagsasahimpapawid para sa digital test transmission ng TV5)",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWBC-TV",
+      "channel": "TV-68",
+      "may_ari": "Byers Communications, Inc. Dating pinalabas: Intervision 68",
+      "inilunsad": "1992",
+      "huminto": "1993 (dahil sa matinding kumpetisyon mula sa SkyCable)",
+      "lokasyon": "Kalakhang Maynila"
+    },
+    {
+      "call_sign": "DWBG-TV",
+      "channel": "TV-7",
+      "may_ari": "Bangued, Abra",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Abra"
+    },
+    {
+      "call_sign": "DWAR-TV",
+      "channel": "TV-11",
+      "may_ari": "Bangued, Abra",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Abra"
+    },
+    {
+      "call_sign": "DZRR-TV",
+      "channel": "TV-3",
+      "may_ari": "Baguio",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Benguet"
+    },
+    {
+      "call_sign": "DWBD-TV",
+      "channel": "TV-6",
+      "may_ari": "Baguio",
+      "inilunsad": "Intercontinental Broadcasting Corporation",
+      "huminto": "",
+      "lokasyon": "Benguet"
+    },
+    {
+      "call_sign": "DWZM-TV",
+      "channel": "TV-8",
+      "may_ari": "Baguio",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Benguet"
+    },
+    {
+      "call_sign": "DWZB-TV",
+      "channel": "TV-10",
+      "may_ari": "Baguio",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Benguet"
+    },
+    {
+      "call_sign": "DZBS-TV",
+      "channel": "TV-12",
+      "may_ari": "Baguio",
+      "inilunsad": "Radio Philippines Network at Nine Media Corporation Kasalukuyang pinapalabas: CNN Philippines",
+      "huminto": "",
+      "lokasyon": "Benguet"
+    },
+    {
+      "call_sign": "DWRA-TV",
+      "channel": "TV-22",
+      "may_ari": "Baguio",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Benguet"
+    },
+    {
+      "call_sign": "DWHB-TV",
+      "channel": "TV-26",
+      "may_ari": "Baguio",
+      "inilunsad": "Broadcast Enterprises at Affiliated Media",
+      "huminto": "",
+      "lokasyon": "Benguet"
+    },
+    {
+      "call_sign": "DZET-TV",
+      "channel": "TV-28",
+      "may_ari": "Baguio",
+      "inilunsad": "TV5 Network Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Benguet"
+    },
+    {
+      "call_sign": "DWZO-TV",
+      "channel": "TV-30",
+      "may_ari": "Baguio",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports+Action",
+      "huminto": "",
+      "lokasyon": "Benguet"
+    },
+    {
+      "call_sign": "DZVG-TV",
+      "channel": "TV-5",
+      "may_ari": "Mt. Province",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Mountain Province"
+    },
+    {
+      "call_sign": "DWMP-TV",
+      "channel": "TV-11",
+      "may_ari": "Mt. Province",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Mountain Province"
+    },
+    {
+      "call_sign": "DWTE-TV",
+      "channel": "TV-2",
+      "may_ari": "Laoag",
+      "inilunsad": "TV5 Network Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "call_sign": "DWAS-TV",
+      "channel": "TV-5",
+      "may_ari": "Laoag",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "call_sign": "DWRD-TV",
+      "channel": "TV-7",
+      "may_ari": "Laoag",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "call_sign": "DWAP-TV",
+      "channel": "TV-21",
+      "may_ari": "Laoag",
+      "inilunsad": "Southern Broadcasting Network Kasalukuyang pinapalabas: ETC",
+      "huminto": "",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "call_sign": "DWLC-TV",
+      "channel": "TV-23",
+      "may_ari": "Laoag",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "call_sign": "DZLS-TV",
+      "channel": "TV-27",
+      "may_ari": "Laoag",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "call_sign": "DWLQ-TV",
+      "channel": "TV-33",
+      "may_ari": "Laoag",
+      "inilunsad": "Sonshine Media Network International",
+      "huminto": "",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "call_sign": "DWIB-TV",
+      "channel": "TV-39",
+      "may_ari": "Laoag",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Ilocos Norte"
+    },
+    {
+      "call_sign": "DZVC-TV",
+      "channel": "TV-11/34",
+      "may_ari": "Vigan",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Ilocos Sur"
+    },
+    {
+      "call_sign": "DWDI-TV",
+      "channel": "TV-32",
+      "may_ari": "Vigan",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Ilocos Sur"
+    },
+    {
+      "call_sign": "DWIC-TV",
+      "channel": "TV-36",
+      "may_ari": "Vigan",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Ilocos Sur"
+    },
+    {
+      "call_sign": "DWVQ-TV",
+      "channel": "TV-38",
+      "may_ari": "Vigan",
+      "inilunsad": "Sonshine Media Network International",
+      "huminto": "",
+      "lokasyon": "Ilocos Sur"
+    },
+    {
+      "call_sign": "DWIS-TV",
+      "channel": "TV-40",
+      "may_ari": "Vigan",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Ilocos Sur"
+    },
+    {
+      "call_sign": "DZIS-TV",
+      "channel": "TV-48",
+      "may_ari": "Vigan",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Ilocos Sur"
+    },
+    {
+      "call_sign": "DWGD-TV",
+      "channel": "TV-10",
+      "may_ari": "Dagupan",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Pangasinan"
+    },
+    {
+      "call_sign": "DWEC-TV",
+      "channel": "TV-32",
+      "may_ari": "Dagupan",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Pangasinan"
+    },
+    {
+      "call_sign": "DZRD-TV",
+      "channel": "TV-40",
+      "may_ari": "Dagupan",
+      "inilunsad": "Nation Broadcasting Corporation at TV5 Network Inc. Kasalukuyang pinapalabas: 5 Plus",
+      "huminto": "",
+      "lokasyon": "Pangasinan"
+    },
+    {
+      "call_sign": "DWAZ-TV",
+      "channel": "TV-7",
+      "may_ari": "Basco, Batanes",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Batanes"
+    },
+    {
+      "call_sign": "DZCN-TV",
+      "channel": "TV-11",
+      "may_ari": "Basco, Batanes",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Batanes"
+    },
+    {
+      "call_sign": "DWAF-TV",
+      "channel": "TV-3",
+      "may_ari": "Tuguegarao",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DWBB-TV",
+      "channel": "TV-7",
+      "may_ari": "Tuguegarao",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DZAP-TV",
+      "channel": "TV-9",
+      "may_ari": "Aparri, Cagayan",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DZBP-TV",
+      "channel": "TV-13",
+      "may_ari": "Aparri, Cagayan",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DWST-TV",
+      "channel": "TV-23",
+      "may_ari": "Tuguegarao",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DWQA-TV",
+      "channel": "TV-26",
+      "may_ari": "Aparri, Cagayan",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DWWQ-TV",
+      "channel": "TV-27",
+      "may_ari": "Tuguegarao",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DWRJ-TV",
+      "channel": "TV-28",
+      "may_ari": "Tuguegarao",
+      "inilunsad": "Rajah Broadcasting Network Kasalukuyang pinapalabas: RJTV",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DW__-TV",
+      "channel": "TV-34",
+      "may_ari": "Aparri, Cagayan",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DWZE-TV",
+      "channel": "TV-39",
+      "may_ari": "Tuguegarao",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DW__-TV",
+      "channel": "TV-51",
+      "may_ari": "Tuguegarao",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Cagayan"
+    },
+    {
+      "call_sign": "DWAT-TV",
+      "channel": "TV-2",
+      "may_ari": "Santiago",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Isabela"
+    },
+    {
+      "call_sign": "DZCS-TV",
+      "channel": "TV-7",
+      "may_ari": "Santiago",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Isabela"
+    },
+    {
+      "call_sign": "DWDH-TV",
+      "channel": "TV-25",
+      "may_ari": "Santiago",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Isabela"
+    },
+    {
+      "call_sign": "DWIQ-TV",
+      "channel": "TV-37",
+      "may_ari": "Santiago",
+      "inilunsad": "Sonshine Media Network International",
+      "huminto": "",
+      "lokasyon": "Isabela"
+    },
+    {
+      "call_sign": "DWAD-TV",
+      "channel": "TV-11",
+      "may_ari": "Bayombong",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Nueva Vizcaya"
+    },
+    {
+      "call_sign": "DZZB-TV",
+      "channel": "TV-5",
+      "may_ari": "Baler, Aurora",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Aurora"
+    },
+    {
+      "call_sign": "DZBA-TV",
+      "channel": "TV-22",
+      "may_ari": "Baler, Aurora",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Aurora"
+    },
+    {
+      "call_sign": "DWBW-TV",
+      "channel": "TV-28",
+      "may_ari": "Baler, Aurora",
+      "inilunsad": "Aurora Polytechnic College Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Aurora"
+    },
+    {
+      "call_sign": "DWBX-TV",
+      "channel": "TV-22",
+      "may_ari": "Balanga",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Bataan"
+    },
+    {
+      "call_sign": "DWBY-TV",
+      "channel": "TV-34",
+      "may_ari": "San Miguel, Bulacan",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Bulacan"
+    },
+    {
+      "call_sign": "DWCI-TV",
+      "channel": "TV-32",
+      "may_ari": "Cabanatuan",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Nueva Ecija"
+    },
+    {
+      "call_sign": "DWNE-TV",
+      "channel": "TV-48",
+      "may_ari": "Cabanatuan",
+      "inilunsad": "Nueva Ecija Government Kasalukuyang pinapalabas: TV 48",
+      "huminto": "",
+      "lokasyon": "Nueva Ecija"
+    },
+    {
+      "call_sign": "DWCL-TV",
+      "channel": "TV-12",
+      "may_ari": "San Fernando, Pampanga",
+      "inilunsad": "UBC Media Inc. Kasalukuyang pinapalabas: UBC 12",
+      "huminto": "",
+      "lokasyon": "Pampanga"
+    },
+    {
+      "call_sign": "DWRW-TV",
+      "channel": "TV-36",
+      "may_ari": "San Fernando, Pampanga",
+      "inilunsad": "RadioWorld Broadcasting Corporation Kasalukuyang pinapalabas: CLTV 36",
+      "huminto": "",
+      "lokasyon": "Pampanga"
+    },
+    {
+      "call_sign": "DZCL-TV",
+      "channel": "TV-38",
+      "may_ari": "Angeles, Pampanga",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Pampanga"
+    },
+    {
+      "call_sign": "DWIM-TV",
+      "channel": "TV-44",
+      "may_ari": "San Fernando, Pampanga",
+      "inilunsad": "Infomax TV at First United Broadcasting Corporation Kasalukuyang pinapalabas: GNN -Infomax TV",
+      "huminto": "",
+      "lokasyon": "Pampanga"
+    },
+    {
+      "call_sign": "DWIN-TV",
+      "channel": "TV-46",
+      "may_ari": "San Fernando, Pampanga",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Pampanga"
+    },
+    {
+      "call_sign": "D___-TV",
+      "channel": "TV-24",
+      "may_ari": "Tarlac",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Tarlac"
+    },
+    {
+      "call_sign": "DZPT-TV",
+      "channel": "TV-26",
+      "may_ari": "Tarlac",
+      "inilunsad": "Radio Corporation of the Philippines Kasalukuyang pinapalabas: CNN Philippines",
+      "huminto": "",
+      "lokasyon": "Tarlac"
+    },
+    {
+      "call_sign": "DWCA-TV",
+      "channel": "TV-28",
+      "may_ari": "Tarlac",
+      "inilunsad": "GMA Network, Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Tarlac"
+    },
+    {
+      "call_sign": "DWTC-TV",
+      "channel": "TV-32",
+      "may_ari": "Tarlac",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Tarlac"
+    },
+    {
+      "call_sign": "DWNS-TV",
+      "channel": "TV-10",
+      "may_ari": "Olongapo",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Zambales"
+    },
+    {
+      "call_sign": "DWZT-TV",
+      "channel": "TV-12",
+      "may_ari": "Olongapo",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Zambales"
+    },
+    {
+      "call_sign": "DWZA-TV",
+      "channel": "TV-13",
+      "may_ari": "Botolan",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Zambales"
+    },
+    {
+      "call_sign": "DWSB-TV",
+      "channel": "TV-22",
+      "may_ari": "Olongapo",
+      "inilunsad": "Subic Broadcasting Corporation at TV5 Network Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Zambales"
+    },
+    {
+      "call_sign": "DZAM-TV",
+      "channel": "TV-23",
+      "may_ari": "Botolan",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Zambales"
+    },
+    {
+      "call_sign": "DWAS-TV",
+      "channel": "TV-24",
+      "may_ari": "Olongapo",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Zambales"
+    },
+    {
+      "call_sign": "DWOO-TV",
+      "channel": "TV-26",
+      "may_ari": "Olongapo",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Zambales"
+    },
+    {
+      "call_sign": "DW__-TV",
+      "channel": "TV-48",
+      "may_ari": "Olongapo",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Zambales"
+    },
+    {
+      "call_sign": "DWNI-TV",
+      "channel": "TV-6",
+      "may_ari": "Batangas",
+      "inilunsad": "DCG Radio-TV Network",
+      "huminto": "",
+      "lokasyon": "Batangas"
+    },
+    {
+      "call_sign": "DZAD-TV",
+      "channel": "TV-10",
+      "may_ari": "Batangas",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Batangas"
+    },
+    {
+      "call_sign": "DWCW-TV",
+      "channel": "TV-12",
+      "may_ari": "Batangas",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Batangas"
+    },
+    {
+      "call_sign": "DWGS-TV",
+      "channel": "TV-26",
+      "may_ari": "Batangas",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Batangas"
+    },
+    {
+      "call_sign": "DZFU-TV",
+      "channel": "TV-34",
+      "may_ari": "Batangas",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Batangas"
+    },
+    {
+      "call_sign": "DWJR-TV",
+      "channel": "TV-36",
+      "may_ari": "Batangas",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Batangas"
+    },
+    {
+      "call_sign": "DWBD-TV",
+      "channel": "TV-44",
+      "may_ari": "Batangas",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Batangas"
+    },
+    {
+      "call_sign": "DWTY-TV",
+      "channel": "TV-32",
+      "may_ari": "Tagaytay",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Cavite"
+    },
+    {
+      "call_sign": "DWLY-TV",
+      "channel": "TV-46",
+      "may_ari": "San Pablo",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Laguna"
+    },
+    {
+      "call_sign": "DWPP-TV",
+      "channel": "TV-8",
+      "may_ari": "Lucena",
+      "inilunsad": "DCG Radio-TV Network",
+      "huminto": "",
+      "lokasyon": "Quezon Province"
+    },
+    {
+      "call_sign": "DWEW-TV",
+      "channel": "TV-24",
+      "may_ari": "Lucena",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Quezon Province"
+    },
+    {
+      "call_sign": "DWAM-TV",
+      "channel": "TV-40",
+      "may_ari": "Jalajala",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Rizal Province"
+    },
+    {
+      "call_sign": "DZJJ-TV",
+      "channel": "TV-44",
+      "may_ari": "Jalajala",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Rizal Province"
+    },
+    {
+      "call_sign": "DWEF-TV",
+      "channel": "TV-11",
+      "may_ari": "San Jose, Occidental Mindoro",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Occidental Mindoro"
+    },
+    {
+      "call_sign": "DWZR-TV",
+      "channel": "TV-13",
+      "may_ari": "San Jose, Occidental Mindoro",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Occidental Mindoro"
+    },
+    {
+      "call_sign": "DWDE-TV",
+      "channel": "TV-21",
+      "may_ari": "Calapan",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Oriental Mindoro"
+    },
+    {
+      "call_sign": "DWMD-TV",
+      "channel": "TV-50",
+      "may_ari": "Calapan",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Oriental Mindoro"
+    },
+    {
+      "call_sign": "DYGS-TV",
+      "channel": "TV-4",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DYPJ-TV",
+      "channel": "TV-5",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "DCG Radio-TV Network Kasalukuyang pinapalabas: CNN Philippines",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DYAA-TV",
+      "channel": "TV-6",
+      "may_ari": "Brooke's Point",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DYPR-TV",
+      "channel": "TV-7",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "Palawan Broadcasting Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DWRF-TV",
+      "channel": "TV-8",
+      "may_ari": "Coron, Palawan",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DYAZ-TV",
+      "channel": "TV-9",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DYEP-TV",
+      "channel": "TV-10",
+      "may_ari": "Sofronio Española",
+      "inilunsad": "Palawan Broadcasting Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DYPU-TV",
+      "channel": "TV-12",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DZEL-TV",
+      "channel": "TV-23",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DYRG-TV",
+      "channel": "TV-27",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DZPJ-TV",
+      "channel": "TV-29",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "Rajah Broadcasting Network Kasalukuyang pinapalabas: RJTV",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DWDZ-TV",
+      "channel": "TV-33",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "ZOE Broadcasting Network Kasalukuyang pinapalabas: Light Network",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "D___-TV",
+      "channel": "TV-38",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "Bandera News Philippines Kasalukuyang pinapalabas: Bandera News TV",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DYAX-TV",
+      "channel": "TV-41",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "TV5 Network Inc. at Nation Broadcasting Corporation Kasalukuyang pinapalabas: AksyonTV",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DYVA-TV",
+      "channel": "TV-43",
+      "may_ari": "Puerto Princesa",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Palawan"
+    },
+    {
+      "call_sign": "DWTR-TV",
+      "channel": "TV-7",
+      "may_ari": "Tablas, Romblon",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Romblon"
+    },
+    {
+      "call_sign": "DZAE-TV",
+      "channel": "TV-4",
+      "may_ari": "Legazpi",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Albay"
+    },
+    {
+      "call_sign": "DZTC-TV",
+      "channel": "TV-10",
+      "may_ari": "Tabaco",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Albay"
+    },
+    {
+      "call_sign": "DWLA-TV",
+      "channel": "TV-12",
+      "may_ari": "Legazpi",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Albay"
+    },
+    {
+      "call_sign": "DWJP-TV",
+      "channel": "TV-21",
+      "may_ari": "Legazpi",
+      "inilunsad": "Southern Broadcasting Network at Solar Entertainment Kasalukuyang pinapalabas: ETC",
+      "huminto": "",
+      "lokasyon": "Albay"
+    },
+    {
+      "call_sign": "DWDR-TV",
+      "channel": "TV-23",
+      "may_ari": "Legazpi",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports+Action",
+      "huminto": "",
+      "lokasyon": "Albay"
+    },
+    {
+      "call_sign": "DWFW-TV",
+      "channel": "TV-27",
+      "may_ari": "Legazpi",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Albay"
+    },
+    {
+      "call_sign": "DWEX-TV",
+      "channel": "TV-29",
+      "may_ari": "Legazpi",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Albay"
+    },
+    {
+      "call_sign": "DWGE-TV",
+      "channel": "TV-33",
+      "may_ari": "Legazpi",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Albay"
+    },
+    {
+      "call_sign": "DWCM-TV",
+      "channel": "TV-43",
+      "may_ari": "Legazpi",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Albay"
+    },
+    {
+      "call_sign": "DWLB-TV",
+      "channel": "TV-45",
+      "may_ari": "Legazpi",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Albay"
+    },
+    {
+      "call_sign": "DZEA-TV",
+      "channel": "TV-8",
+      "may_ari": "Daet, Camarines Norte",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Camarines Norte"
+    },
+    {
+      "call_sign": "DZDT-TV",
+      "channel": "TV-10",
+      "may_ari": "Daet, Camarines Norte",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Camarines Norte"
+    },
+    {
+      "call_sign": "DW__-TV",
+      "channel": "TV-35",
+      "may_ari": "Daet, Camarines Norte",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Camarines Norte"
+    },
+    {
+      "call_sign": "DWMA-TV",
+      "channel": "TV-4",
+      "may_ari": "Naga",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DZGB-TV",
+      "channel": "TV-5",
+      "may_ari": "Naga",
+      "inilunsad": "PBN Broadcasting Network",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DWAI-TV",
+      "channel": "TV-7",
+      "may_ari": "Naga",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DWKI-TV",
+      "channel": "TV-10",
+      "may_ari": "Iriga",
+      "inilunsad": "Radio Philippines Network at Nine Media Corporation Kasalukuyang pinapalabas: CNN Philippines",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DZNC-TV",
+      "channel": "TV-11",
+      "may_ari": "Naga",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DWER-TV",
+      "channel": "TV-22",
+      "may_ari": "Naga",
+      "inilunsad": "Nation Broadcasting Corporation Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DWMC-TV",
+      "channel": "TV-24",
+      "may_ari": "Naga",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DWNJ-TV",
+      "channel": "TV-28",
+      "may_ari": "Naga",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DWNX-TV",
+      "channel": "TV-32",
+      "may_ari": "Naga",
+      "inilunsad": "Broadcast Enterprises at Affiliated Media",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DWGD-TV",
+      "channel": "TV-44",
+      "may_ari": "Naga",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DWIL-TV",
+      "channel": "TV-48",
+      "may_ari": "Naga",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Camarines Sur"
+    },
+    {
+      "call_sign": "DZAC-TV",
+      "channel": "TV-7",
+      "may_ari": "Virac, Catanduanes",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Catanduanes"
+    },
+    {
+      "call_sign": "DZZC-TV",
+      "channel": "TV-13",
+      "may_ari": "Virac, Catanduanes",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Catanduanes"
+    },
+    {
+      "call_sign": "DZIM-TV",
+      "channel": "TV-43",
+      "may_ari": "Virac, Catanduanes",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Catanduanes"
+    },
+    {
+      "call_sign": "DYKD-TV",
+      "channel": "TV-7",
+      "may_ari": "Masbate",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Masbate"
+    },
+    {
+      "call_sign": "DYME-TV",
+      "channel": "TV-10",
+      "may_ari": "Masbate",
+      "inilunsad": "Masbate Community Broadcasting Corporation Kasalukuyang pinapalabas: ABS–CBN Corporation",
+      "huminto": "",
+      "lokasyon": "Masbate"
+    },
+    {
+      "call_sign": "DYEX-TV",
+      "channel": "TV-27",
+      "may_ari": "Masbate",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Masbate"
+    },
+    {
+      "call_sign": "DWGM-TV",
+      "channel": "TV-2",
+      "may_ari": "Sorsogon",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Sorsogon"
+    },
+    {
+      "call_sign": "DZSC-TV",
+      "channel": "TV-7",
+      "may_ari": "Sorsogon",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Sorsogon"
+    },
+    {
+      "call_sign": "DWGP-TV",
+      "channel": "TV-47",
+      "may_ari": "Sorsogon",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Sorsogon"
+    },
+    {
+      "call_sign": "DYBB-TV",
+      "channel": "TV-2",
+      "may_ari": "Kalibo",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Aklan"
+    },
+    {
+      "call_sign": "DYKA-TV",
+      "channel": "TV-9",
+      "may_ari": "Kalibo",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Aklan"
+    },
+    {
+      "call_sign": "DYCG-TV",
+      "channel": "TV-23",
+      "may_ari": "Kalibo",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Aklan"
+    },
+    {
+      "call_sign": "DYSL-TV",
+      "channel": "TV-25",
+      "may_ari": "Kalibo",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Aklan"
+    },
+    {
+      "call_sign": "DYRU-TV",
+      "channel": "TV-27",
+      "may_ari": "Kalibo",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Aklan"
+    },
+    {
+      "call_sign": "DYAM-TV",
+      "channel": "TV-5",
+      "may_ari": "Roxas",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Capiz"
+    },
+    {
+      "call_sign": "DYRC-TV",
+      "channel": "TV-21",
+      "may_ari": "Roxas",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Capiz"
+    },
+    {
+      "call_sign": "DYXZ-TV",
+      "channel": "TV-27",
+      "may_ari": "Roxas",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Capiz"
+    },
+    {
+      "call_sign": "DYRX-TV",
+      "channel": "TV-33",
+      "may_ari": "Roxas",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Capiz"
+    },
+    {
+      "call_sign": "DYRQ-TV",
+      "channel": "TV-39",
+      "may_ari": "Roxas",
+      "inilunsad": "Sonshine Media Network International",
+      "huminto": "",
+      "lokasyon": "Capiz"
+    },
+    {
+      "call_sign": "DYGN-TV",
+      "channel": "TV-43",
+      "may_ari": "Roxas",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Capiz"
+    },
+    {
+      "call_sign": "DYNR-TV",
+      "channel": "TV-45",
+      "may_ari": "Roxas",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Capiz"
+    },
+    {
+      "call_sign": "DYDY-TV",
+      "channel": "TV-2",
+      "may_ari": "Iloilo",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Iloilo"
+    },
+    {
+      "call_sign": "DYXX-TV",
+      "channel": "TV-6",
+      "may_ari": "Iloilo",
+      "inilunsad": "GMA Network Inc. at Asian-Pacific Broadcasting Company Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Iloilo"
+    },
+    {
+      "call_sign": "DYAF-TV",
+      "channel": "TV-10",
+      "may_ari": "Iloilo",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN (frequency used by CMN-GMA (Magnitude 10) Bacolod from 1985–1998)",
+      "huminto": "",
+      "lokasyon": "Iloilo"
+    },
+    {
+      "call_sign": "DYJB-TV",
+      "channel": "TV-12",
+      "may_ari": "Iloilo",
+      "inilunsad": "Intercontinental Broadcasting Corporation",
+      "huminto": "",
+      "lokasyon": "Iloilo"
+    },
+    {
+      "call_sign": "DYRJ-TV",
+      "channel": "TV-24",
+      "may_ari": "Iloilo",
+      "inilunsad": "Rajah Broadcasting Network Kasalukuyang pinapalabas: RJTV",
+      "huminto": "",
+      "lokasyon": "Iloilo"
+    },
+    {
+      "call_sign": "DYRI-TV",
+      "channel": "TV-26",
+      "may_ari": "Iloilo",
+      "inilunsad": "Broadcast Enterprises at Affiliated Media",
+      "huminto": "",
+      "lokasyon": "Iloilo"
+    },
+    {
+      "call_sign": "DYMK-TV",
+      "channel": "TV-28",
+      "may_ari": "Iloilo",
+      "inilunsad": "GMA Network Inc. at Asian-Pacific Broadcasting Company Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Iloilo"
+    },
+    {
+      "call_sign": "DYER-TV",
+      "channel": "TV-36",
+      "may_ari": "Iloilo",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Iloilo"
+    },
+    {
+      "call_sign": "DYAJ-TV",
+      "channel": "TV-38",
+      "may_ari": "Iloilo",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Iloilo"
+    },
+    {
+      "call_sign": "DYXL-TV",
+      "channel": "TV-4",
+      "may_ari": "Bacolod",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYLP-TV",
+      "channel": "TV-5",
+      "may_ari": "Bacolod",
+      "inilunsad": "Southern Broadcasting Network at Solar Entertainment Kasalukuyang pinapalabas: ETC",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYKB-TV",
+      "channel": "TV-8",
+      "may_ari": "Bacolod",
+      "inilunsad": "Radio Philippines Network at Nine Media Corporation Kasalukuyang pinapalabas: CNN Philippines",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYSL-TV",
+      "channel": "TV-10",
+      "may_ari": "Sipalay",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYGM-TV",
+      "channel": "TV-13",
+      "may_ari": "Bacolod",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYEC-TV",
+      "channel": "TV-22",
+      "may_ari": "Bacolod",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYGB-TV",
+      "channel": "TV-24",
+      "may_ari": "Bacolod",
+      "inilunsad": "Gateway UHF Broadcasting Kasalukuyang pinapalabas: 3ABN International & Hope Channel PHL",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYJR-TV",
+      "channel": "TV-26",
+      "may_ari": "Bacolod",
+      "inilunsad": "Rajah Broadcasting Network Kasalukuyang pinapalabas: RJTV",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYAQ-TV",
+      "channel": "TV-30",
+      "may_ari": "Murcia",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYTE-TV",
+      "channel": "TV-32",
+      "may_ari": "Bacolod",
+      "inilunsad": "TV5 Network Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYHB-TV",
+      "channel": "TV-36",
+      "may_ari": "Bacolod",
+      "inilunsad": "Broadcast Enterprises at Affiliated Media",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYOO-TV",
+      "channel": "TV-40",
+      "may_ari": "Bacolod",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYEN-TV",
+      "channel": "TV-48",
+      "may_ari": "Bacolod",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYNA-TV",
+      "channel": "TV-48",
+      "may_ari": "San Carlos City, Negros Occidental",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYRL-TV",
+      "channel": "TV-50",
+      "may_ari": "Bacolod",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Negros Occidental"
+    },
+    {
+      "call_sign": "DYBH-TV",
+      "channel": "TV-9",
+      "may_ari": "Jagna, Bohol",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Bohol"
+    },
+    {
+      "call_sign": "DYYE-TV",
+      "channel": "TV-11",
+      "may_ari": "Jagna, Bohol",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Bohol"
+    },
+    {
+      "call_sign": "DYJN-TV",
+      "channel": "TV-40",
+      "may_ari": "Jagna, Bohol",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Bohol"
+    },
+    {
+      "call_sign": "DYID-TV",
+      "channel": "TV-48",
+      "may_ari": "Tagbilaran, Bohol",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Bohol"
+    },
+    {
+      "call_sign": "DYCB-TV",
+      "channel": "TV-3",
+      "may_ari": "Cebu",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYSS-TV",
+      "channel": "TV-7",
+      "may_ari": "Cebu",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYKC-TV",
+      "channel": "TV-9",
+      "may_ari": "Cebu",
+      "inilunsad": "Radio Philippines Network at Nine Media Corporation Kasalukuyang pinapalabas: CNN Philippines",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYPT-TV",
+      "channel": "TV-11",
+      "may_ari": "Cebu",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYTV-TV",
+      "channel": "TV-13",
+      "may_ari": "Cebu",
+      "inilunsad": "Intercontinental Broadcasting Corporation",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYET-TV",
+      "channel": "TV-21",
+      "may_ari": "Cebu",
+      "inilunsad": "TV5 Network Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYAC-TV",
+      "channel": "TV-23",
+      "may_ari": "Cebu",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYGA-TV",
+      "channel": "TV-25",
+      "may_ari": "Cebu",
+      "inilunsad": "Gateway UHF Broadcasting Kasalukuyang pinapalabas: 3ABN International & Hope Channel PHL",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYLS-TV",
+      "channel": "TV-27",
+      "may_ari": "Cebu",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYAN-TV",
+      "channel": "TV-29",
+      "may_ari": "Cebu",
+      "inilunsad": "Nation Broadcasting Corporation at TV5 Network Inc. Kasalukuyang pinapalabas: 5 Plus",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYAR-TV",
+      "channel": "TV-31",
+      "may_ari": "Cebu",
+      "inilunsad": "Broadcast Enterprises at Affiliated Media",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYNU-TV",
+      "channel": "TV-39",
+      "may_ari": "Cebu",
+      "inilunsad": "Progressive Broadcasting Corporation Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYBM-TV",
+      "channel": "TV-45",
+      "may_ari": "Cebu",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYCC-TV",
+      "channel": "TV-47",
+      "may_ari": "Cebu",
+      "inilunsad": "Archdiocese of Cebu Kasalukuyang pinapalabas: Cebu Catholic Television Network",
+      "huminto": "",
+      "lokasyon": "Cebu"
+    },
+    {
+      "call_sign": "DYYB-TV",
+      "channel": "TV-5",
+      "may_ari": "Dumaguete",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Negros Oriental"
+    },
+    {
+      "call_sign": "DYKO-TV",
+      "channel": "TV-10",
+      "may_ari": "Dumaguete",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Negros Oriental"
+    },
+    {
+      "call_sign": "DYMA-TV",
+      "channel": "TV-12",
+      "may_ari": "Dumaguete",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Negros Oriental"
+    },
+    {
+      "call_sign": "DYEL-TV",
+      "channel": "TV-24",
+      "may_ari": "Dumaguete",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Negros Oriental"
+    },
+    {
+      "call_sign": "DYRF-TV",
+      "channel": "TV-28",
+      "may_ari": "Dumaguete",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Negros Oriental"
+    },
+    {
+      "call_sign": "DYTK-TV",
+      "channel": "TV-34",
+      "may_ari": "Dumaguete",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Negros Oriental"
+    },
+    {
+      "call_sign": "DYAB-TV",
+      "channel": "TV-2",
+      "may_ari": "Tacloban",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Leyte"
+    },
+    {
+      "call_sign": "DYTS-TV",
+      "channel": "TV-4",
+      "may_ari": "Tacloban",
+      "inilunsad": "BJDS Marketing/Sarraga Integrated & Management Corporation Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Leyte"
+    },
+    {
+      "call_sign": "DYMP-TV",
+      "channel": "TV-6",
+      "may_ari": "Palo, Leyte",
+      "inilunsad": "Intercontinental Broadcasting Corporation",
+      "huminto": "",
+      "lokasyon": "Leyte"
+    },
+    {
+      "call_sign": "DXCO-TV",
+      "channel": "TV-8",
+      "may_ari": "Tacloban",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Leyte"
+    },
+    {
+      "call_sign": "DYTO-TV",
+      "channel": "TV-10",
+      "may_ari": "Tacloban",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Leyte"
+    },
+    {
+      "call_sign": "DYIL-TV",
+      "channel": "TV-12",
+      "may_ari": "Ormoc",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Leyte"
+    },
+    {
+      "call_sign": "DYJP-TV",
+      "channel": "TV-22",
+      "may_ari": "Tacloban",
+      "inilunsad": "Southern Broadcasting Network at Solar Entertainment Kasalukuyang pinapalabas: ETC",
+      "huminto": "",
+      "lokasyon": "Leyte"
+    },
+    {
+      "call_sign": "DYTC-TV",
+      "channel": "TV-24",
+      "may_ari": "Tacloban",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Leyte"
+    },
+    {
+      "call_sign": "DYOU-TV",
+      "channel": "TV-26",
+      "may_ari": "Tacloban",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Leyte"
+    },
+    {
+      "call_sign": "DYTB-TV",
+      "channel": "TV-44",
+      "may_ari": "Tacloban",
+      "inilunsad": "TV5 Network Inc. at Nation Broadcasting Corporation Kasalukuyang pinapalabas: 5 Plus",
+      "huminto": "",
+      "lokasyon": "Leyte"
+    },
+    {
+      "call_sign": "DYAS-TV",
+      "channel": "TV-5",
+      "may_ari": "Calbayog",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Samar"
+    },
+    {
+      "call_sign": "DYSB-TV",
+      "channel": "TV-7",
+      "may_ari": "Catbalogan",
+      "inilunsad": "Sumuroy Broadcasting Corporation Kasalukuyang pinapalabas: ABS–CBN",
+      "huminto": "",
+      "lokasyon": "Samar"
+    },
+    {
+      "call_sign": "DYDI-TV",
+      "channel": "TV-10",
+      "may_ari": "Calbayog",
+      "inilunsad": "Calbayog Community Broadcasting Corporation Kasalukuyang pinapalabas: ABS–CBN",
+      "huminto": "",
+      "lokasyon": "Samar"
+    },
+    {
+      "call_sign": "DYWP-TV",
+      "channel": "TV-12",
+      "may_ari": "Calbayog",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Samar"
+    },
+    {
+      "call_sign": "DY__-TV",
+      "channel": "TV-35",
+      "may_ari": "Catbalogan",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Samar"
+    },
+    {
+      "call_sign": "DYVB-TV",
+      "channel": "TV-8",
+      "may_ari": "Borongan",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Eastern Samar"
+    },
+    {
+      "call_sign": "DYBX-TV",
+      "channel": "TV-38",
+      "may_ari": "Borongan",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Eastern Samar"
+    },
+    {
+      "call_sign": "DXXT-TV",
+      "channel": "TV-4",
+      "may_ari": "Dipolog",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Zamboanga del Norte"
+    },
+    {
+      "call_sign": "DXDG-TV",
+      "channel": "TV-26",
+      "may_ari": "Dipolog",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Zamboanga del Norte"
+    },
+    {
+      "call_sign": "DXMG-TV",
+      "channel": "TV-42",
+      "may_ari": "Dipolog",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Zamboanga del Norte"
+    },
+    {
+      "call_sign": "DXEJ-TV",
+      "channel": "TV-3",
+      "may_ari": "Pagadian",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Zamboanga del Sur"
+    },
+    {
+      "call_sign": "DXLM-TV",
+      "channel": "TV-9",
+      "may_ari": "Pagadian",
+      "inilunsad": "MIT-RTVN Inc. Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Zamboanga del Sur"
+    },
+    {
+      "call_sign": "DXPG-TV",
+      "channel": "TV-26",
+      "may_ari": "Pagadian",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Zamboanga del Sur"
+    },
+    {
+      "call_sign": "DX__-TV",
+      "channel": "TV-44",
+      "may_ari": "Pagadian",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Zamboanga del Sur"
+    },
+    {
+      "call_sign": "DXAD-TV",
+      "channel": "TV-6",
+      "may_ari": "Ipil, Zamboanga Sibugay",
+      "inilunsad": "Ipil Broadcasting System",
+      "huminto": "",
+      "lokasyon": "Zamboanga Sibugay"
+    },
+    {
+      "call_sign": "DXSI-TV",
+      "channel": "TV-11",
+      "may_ari": "Ipil, Zamboanga Sibugay",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Zamboanga Sibugay"
+    },
+    {
+      "call_sign": "DXLL-TV",
+      "channel": "TV-3",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXXX-TV",
+      "channel": "TV-5",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "Radio Philippines Network at Nine Media Corporation Kasalukuyang pinapalabas: CNN Philippines",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXVC-TV",
+      "channel": "TV-7",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXLA-TV",
+      "channel": "TV-9",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXGB-TV",
+      "channel": "TV-11",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "Golden Broadcast Professionals, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXZB-TV",
+      "channel": "TV-13",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "TV13 Cooperative for Service of Zamboanga",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXZX-TV",
+      "channel": "TV-21",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXFH-TV",
+      "channel": "TV-23",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXGA-TV",
+      "channel": "TV-25",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "Gateway UHF Broadcasting Kasalukuyang pinapalabas: 3ABN International & Hope Channel PHL",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXJP-TV",
+      "channel": "TV-27",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "Southern Broadcasting Network at Solar Entertainment Kasalukuyang pinapalabas: ETC",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXDE-TV",
+      "channel": "TV-29",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "Golden Broadcast Professionals, Inc. Kasalukuyang pinapalabas: 5 Plus",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXRZ-TV",
+      "channel": "TV-31",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "Broadcast Enterprises at Affiliated Media",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXRH-TV",
+      "channel": "TV-43",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXGP-TV",
+      "channel": "TV-45",
+      "may_ari": "Zamboanga City",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Zamboanga City"
+    },
+    {
+      "call_sign": "DXXB-TV",
+      "channel": "TV-2",
+      "may_ari": "Kitanglad",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Bukidnon"
+    },
+    {
+      "call_sign": "DXXR-TV",
+      "channel": "TV-12",
+      "may_ari": "Kitanglad",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Bukidnon"
+    },
+    {
+      "call_sign": "DX__-TV",
+      "channel": "TV-34",
+      "may_ari": "Kitanglad",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Bukidnon"
+    },
+    {
+      "call_sign": "DX__-TV",
+      "channel": "TV-40",
+      "may_ari": "Kitanglad",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Bukidnon"
+    },
+    {
+      "call_sign": "DXAG-TV",
+      "channel": "TV-4",
+      "may_ari": "Iligan",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Lanao del Norte"
+    },
+    {
+      "call_sign": "DXRV-TV",
+      "channel": "TV-11",
+      "may_ari": "Iligan",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Lanao del Norte"
+    },
+    {
+      "call_sign": "DXAM-TV",
+      "channel": "TV-26",
+      "may_ari": "Iligan",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Lanao del Norte"
+    },
+    {
+      "call_sign": "DXGM-TV",
+      "channel": "TV-5",
+      "may_ari": "Ozamiz",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Misamis Occidental"
+    },
+    {
+      "call_sign": "DXMT-TV",
+      "channel": "TV-7",
+      "may_ari": "Ozamiz",
+      "inilunsad": "Misamis Institute of Technology - Radio at Television Network Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Misamis Occidental"
+    },
+    {
+      "call_sign": "DXWV-TV",
+      "channel": "TV-13",
+      "may_ari": "Ozamiz",
+      "inilunsad": "Mindanao Broadcasting & News Network",
+      "huminto": "",
+      "lokasyon": "Misamis Occidental"
+    },
+    {
+      "call_sign": "DXOG-TV",
+      "channel": "TV-22",
+      "may_ari": "Ozamiz",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Misamis Occidental"
+    },
+    {
+      "call_sign": "DX__-TV",
+      "channel": "TV-48",
+      "may_ari": "Oroquieta",
+      "inilunsad": "Mediascape, Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Misamis Occidental"
+    },
+    {
+      "call_sign": "DXEC-TV",
+      "channel": "TV-2",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXKO-TV",
+      "channel": "TV-5",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "Radio Philippines Network at Nine Media Corporation Kasalukuyang pinapalabas: CNN Philippines",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXCO-TV",
+      "channel": "TV-7",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXCC-TV",
+      "channel": "TV-10",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "Intercontinental Broadcasting Corporation",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXTE-TV",
+      "channel": "TV-21",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "TV5 Network Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXCE-TV",
+      "channel": "TV-23",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXGC-TV",
+      "channel": "TV-25",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "Gateway UHF Broadcasting Kasalukuyang pinapalabas: 3ABN International & Hope Channel PHL",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXRL-TV",
+      "channel": "TV-29",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "Nation Broadcasting Corporation at TV5 Network Inc. Kasalukuyang pinapalabas: 5 Plus",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXRJ-TV",
+      "channel": "TV-31",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "Rajah Broadcasting Network Kasalukuyang pinapalabas: RJTV",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXVM-TV",
+      "channel": "TV-33",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "Broadcast Enterprises at Affiliated Media",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXLX-TV",
+      "channel": "TV-35",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXXL-TV",
+      "channel": "TV-43",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXGN-TV",
+      "channel": "TV-45",
+      "may_ari": "Cagayan de Oro",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Misamis Oriental"
+    },
+    {
+      "call_sign": "DXPT-TV",
+      "channel": "TV-48",
+      "may_ari": "Tagum",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Davao del Norte"
+    },
+    {
+      "call_sign": "DXET-TV",
+      "channel": "TV-2",
+      "may_ari": "Davao City",
+      "inilunsad": "TV5 Network Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXAS-TV",
+      "channel": "TV-4",
+      "may_ari": "Davao City",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXMJ-TV",
+      "channel": "TV-5",
+      "may_ari": "Davao City",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXSS-TV",
+      "channel": "TV-7",
+      "may_ari": "Davao City",
+      "inilunsad": "Southern Broadcasting Network Kasalukuyang pinapalabas: ETC",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXWW-TV",
+      "channel": "TV-9",
+      "may_ari": "Davao City",
+      "inilunsad": "Radio Philippines Network at Nine Media Corporation Kasalukuyang pinapalabas: CNN Philippines",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXNP-TV",
+      "channel": "TV-11",
+      "may_ari": "Davao City",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXTV-TV",
+      "channel": "TV-13",
+      "may_ari": "Davao City",
+      "inilunsad": "Intercontinental Broadcasting Corporation",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXAB-TV",
+      "channel": "TV-21",
+      "may_ari": "Davao City",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXGD-TV",
+      "channel": "TV-25",
+      "may_ari": "Davao City",
+      "inilunsad": "Gateway UHF Broadcasting Kasalukuyang pinapalabas: 3ABN International & Hope Channel PHL",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXRA-TV",
+      "channel": "TV-27",
+      "may_ari": "Davao City",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXAN-TV",
+      "channel": "TV-29",
+      "may_ari": "Davao City",
+      "inilunsad": "Nation Broadcasting Corporation at TV5 Network Inc. Kasalukuyang pinapalabas: 5 Plus",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXKC-TV",
+      "channel": "TV-31",
+      "may_ari": "Davao City",
+      "inilunsad": "Broadcast Enterprises at Affiliated Media",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXBM-TV",
+      "channel": "TV-33",
+      "may_ari": "Davao City",
+      "inilunsad": "Manila Broadcasting Company Kasalukuyang pinapalabas: DZRH News Television",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXUN-TV",
+      "channel": "TV-38",
+      "may_ari": "Davao City",
+      "inilunsad": "Davao Christian Bible Channel",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXOW-TV",
+      "channel": "TV-41",
+      "may_ari": "Davao City",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXAQ-TV",
+      "channel": "TV-43",
+      "may_ari": "Davao City",
+      "inilunsad": "Sonshine Media Network International",
+      "huminto": "",
+      "lokasyon": "Davao del Sur"
+    },
+    {
+      "call_sign": "DXJT-TV",
+      "channel": "TV-24",
+      "may_ari": "Mati, Davao Oriental",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Davao Oriental"
+    },
+    {
+      "call_sign": "DX__-TV",
+      "channel": "TV-46",
+      "may_ari": "Mati, Davao Oriental",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Davao Oriental"
+    },
+    {
+      "call_sign": "DXKW-TV",
+      "channel": "TV-4",
+      "may_ari": "Kidapawan",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Cotabato"
+    },
+    {
+      "call_sign": "DXZT-TV",
+      "channel": "TV-3",
+      "may_ari": "General Santos",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "South Cotabato"
+    },
+    {
+      "call_sign": "DXAP-TV",
+      "channel": "TV-4",
+      "may_ari": "Koronadal",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "South Cotabato"
+    },
+    {
+      "call_sign": "DXBG-TV",
+      "channel": "TV-8",
+      "may_ari": "General Santos",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "South Cotabato"
+    },
+    {
+      "call_sign": "DXER-TV",
+      "channel": "TV-12",
+      "may_ari": "General Santos",
+      "inilunsad": "TV5 Network Inc. Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "South Cotabato"
+    },
+    {
+      "call_sign": "DXEV-TV",
+      "channel": "TV-22",
+      "may_ari": "General Santos",
+      "inilunsad": "Nation Broadcasting Corporation at TV5 Network Inc. Kasalukuyang pinapalabas: 5 Plus",
+      "huminto": "",
+      "lokasyon": "South Cotabato"
+    },
+    {
+      "call_sign": "DXGS-TV",
+      "channel": "TV-26",
+      "may_ari": "General Santos",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "South Cotabato"
+    },
+    {
+      "call_sign": "DXGE-TV",
+      "channel": "TV-32",
+      "may_ari": "General Santos",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "South Cotabato"
+    },
+    {
+      "call_sign": "DXYM-TV",
+      "channel": "TV-34",
+      "may_ari": "General Santos",
+      "inilunsad": "Brigada Mass Media Corporation Kasalukuyang pinapalabas: Brigada News TV",
+      "huminto": "",
+      "lokasyon": "South Cotabato"
+    },
+    {
+      "call_sign": "DXAC-TV",
+      "channel": "TV-36",
+      "may_ari": "General Santos",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "South Cotabato"
+    },
+    {
+      "call_sign": "DXMO-TV",
+      "channel": "TV-46",
+      "may_ari": "General Santos",
+      "inilunsad": "Global News Network",
+      "huminto": "",
+      "lokasyon": "South Cotabato"
+    },
+    {
+      "call_sign": "PA",
+      "channel": "TV-22",
+      "may_ari": "Butuan",
+      "inilunsad": "TV5 Network, Inc. Kasalukuyang pinapalabas: TV5",
+      "huminto": "",
+      "lokasyon": "Agusan del Norte"
+    },
+    {
+      "call_sign": "DXSB-TV",
+      "channel": "TV-26",
+      "may_ari": "Butuan",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Agusan del Norte"
+    },
+    {
+      "call_sign": "DXAU-TV",
+      "channel": "TV-5",
+      "may_ari": "San Francisco, Agusan del Sur",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Agusan del Sur"
+    },
+    {
+      "call_sign": "DXSK-TV",
+      "channel": "TV-8",
+      "may_ari": "Prosperidad, Agusan del Sur",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Agusan del Sur"
+    },
+    {
+      "call_sign": "DXDP-TV",
+      "channel": "TV-10",
+      "may_ari": "San Francisco, Agusan del Sur",
+      "inilunsad": "PEC Broadcasting Corporation Kasalukuyang pinapalabas: TV5",
+      "huminto": "",
+      "lokasyon": "Agusan del Sur"
+    },
+    {
+      "call_sign": "DXXA-TV",
+      "channel": "TV-10",
+      "may_ari": "Surigao City",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Surigao del Norte"
+    },
+    {
+      "call_sign": "DXSJ-TV",
+      "channel": "TV-12",
+      "may_ari": "Surigao City",
+      "inilunsad": "St. Jude Thaddeus Institute of Technology Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Surigao del Norte"
+    },
+    {
+      "call_sign": "DXIT-TV",
+      "channel": "TV-23",
+      "may_ari": "Surigao City",
+      "inilunsad": "ABS-CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Surigao del Norte"
+    },
+    {
+      "call_sign": "DXSG-TV",
+      "channel": "TV-27",
+      "may_ari": "Surigao City",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Surigao del Norte"
+    },
+    {
+      "call_sign": "DXNT-TV",
+      "channel": "TV-43",
+      "may_ari": "Surigao City",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Surigao del Norte"
+    },
+    {
+      "call_sign": "DXRC-TV",
+      "channel": "TV-2",
+      "may_ari": "Tandag",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Surigao del Sur"
+    },
+    {
+      "call_sign": "DXTN-TV",
+      "channel": "TV-6",
+      "may_ari": "Tandag",
+      "inilunsad": "Tandag News TV-6",
+      "huminto": "",
+      "lokasyon": "Surigao del Sur"
+    },
+    {
+      "call_sign": "DXLG-TV",
+      "channel": "TV-8",
+      "may_ari": "Tandag",
+      "inilunsad": "PEC Broadcasting Corporation Kasalukuyang pinapalabas: TV5",
+      "huminto": "",
+      "lokasyon": "Surigao del Sur"
+    },
+    {
+      "call_sign": "DXTA-TV",
+      "channel": "TV-12",
+      "may_ari": "Tandag",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: S+A",
+      "huminto": "",
+      "lokasyon": "Surigao del Sur"
+    },
+    {
+      "call_sign": "DXVD-TV",
+      "channel": "TV-26",
+      "may_ari": "Tandag",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Surigao del Sur"
+    },
+    {
+      "call_sign": "DX__-TV",
+      "channel": "TV-26",
+      "may_ari": "Bislig",
+      "inilunsad": "Information Broadcast Unlimited Kasalukuyang pinapalabas: UNTV",
+      "huminto": "",
+      "lokasyon": "Surigao del Sur"
+    },
+    {
+      "call_sign": "DX__-TV",
+      "channel": "TV-10",
+      "may_ari": "Marawi",
+      "inilunsad": "Muslim Mindanao Radio at Television Kasalukuyang pinapalabas: 5",
+      "huminto": "",
+      "lokasyon": "Lanao del Sur"
+    },
+    {
+      "call_sign": "DX__-TV",
+      "channel": "TV-13",
+      "may_ari": "Marawi",
+      "inilunsad": "Ranao Radio Broadcasting at TV System Kasalukuyang pinapalabas: Ranao TV 13",
+      "huminto": "",
+      "lokasyon": "Lanao del Sur"
+    },
+    {
+      "call_sign": "DXAI-TV",
+      "channel": "TV-5",
+      "may_ari": "Cotabato",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN",
+      "huminto": "",
+      "lokasyon": "Maguindanao"
+    },
+    {
+      "call_sign": "DXAA-TV",
+      "channel": "TV-8",
+      "may_ari": "Cotabato",
+      "inilunsad": "People's Television Network",
+      "huminto": "",
+      "lokasyon": "Maguindanao"
+    },
+    {
+      "call_sign": "DXMC-TV",
+      "channel": "TV-12",
+      "may_ari": "Cotabato",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Maguindanao"
+    },
+    {
+      "call_sign": "DXPR-TV",
+      "channel": "TV-23",
+      "may_ari": "Cotabato",
+      "inilunsad": "ABS–CBN Corporation Kasalukuyang pinapalabas: ABS-CBN Sports at Action",
+      "huminto": "",
+      "lokasyon": "Maguindanao"
+    },
+    {
+      "call_sign": "PA",
+      "channel": "TV-26",
+      "may_ari": "Cotabato",
+      "inilunsad": "TV5 Network, Inc. Kasalukuyang pinapalabas: TV5",
+      "huminto": "",
+      "lokasyon": "Maguindanao"
+    },
+    {
+      "call_sign": "DXCQ-TV",
+      "channel": "TV-27",
+      "may_ari": "Cotabato",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Maguindanao"
+    },
+    {
+      "call_sign": "DXMM-TV",
+      "channel": "TV-10",
+      "may_ari": "Jolo",
+      "inilunsad": "Sulu Tawi-Tawi Broadcasting Corporation Kasalukuyang pinapalabas: ABS–CBN",
+      "huminto": "",
+      "lokasyon": "Sulu"
+    },
+    {
+      "call_sign": "DXLS-TV",
+      "channel": "TV-12",
+      "may_ari": "Jolo",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA Network",
+      "huminto": "",
+      "lokasyon": "Sulu"
+    },
+    {
+      "call_sign": "DXJX-TV",
+      "channel": "TV-26",
+      "may_ari": "Jolo",
+      "inilunsad": "GMA Network Inc. Kasalukuyang pinapalabas: GMA News TV",
+      "huminto": "",
+      "lokasyon": "Sulu"
+    }
+  ],
+  "meta": {
+    "title": "Mga Analogong Himpilang Pantelebisyon sa Pilipinas - Free Download",
+    "description": "Talaan ng mga analogong himpilang VHF/UHF sa Pilipinas ayon sa lokasyon, kasama ang call sign, channel, may-ari at taon ng paglunsad. Contains 345 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Analogong Himpilang Pantelebisyon sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Analogong Himpilang Pantelebisyon sa Pilipinas — 345 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 345 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_analogong_himpilang_pangtelebisyon_sa_Pilipinas"
+    ]
+  }
+}
