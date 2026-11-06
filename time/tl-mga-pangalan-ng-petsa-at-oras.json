@@ -1,0 +1,247 @@
+{
+  "id": "tl-mga-pangalan-ng-petsa-at-oras",
+  "name": "Mga Pangalan ng Petsa at Oras sa Filipino (CLDR)",
+  "title": "Mga Pangalan ng Petsa at Oras sa Filipino (CLDR)",
+  "description": "Mga pangalan ng buwan, araw ng linggo at bahagi ng araw sa Filipino mula sa CLDR ca-gregorian (wide at abbreviated).",
+  "category": "time",
+  "source": "https://github.com/unicode-org/cldr",
+  "source_url": "https://github.com/unicode-org/cldr",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "kodigo",
+      "label": "Kodigo",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "daglat",
+      "label": "Daglat",
+      "type": "string"
+    },
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "uri": "buwan",
+      "kodigo": "1",
+      "pangalan": "Enero",
+      "daglat": "Ene",
+      "bilang": 1
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "2",
+      "pangalan": "Pebrero",
+      "daglat": "Peb",
+      "bilang": 2
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "3",
+      "pangalan": "Marso",
+      "daglat": "Mar",
+      "bilang": 3
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "4",
+      "pangalan": "Abril",
+      "daglat": "Abr",
+      "bilang": 4
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "5",
+      "pangalan": "Mayo",
+      "daglat": "May",
+      "bilang": 5
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "6",
+      "pangalan": "Hunyo",
+      "daglat": "Hun",
+      "bilang": 6
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "7",
+      "pangalan": "Hulyo",
+      "daglat": "Hul",
+      "bilang": 7
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "8",
+      "pangalan": "Agosto",
+      "daglat": "Ago",
+      "bilang": 8
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "9",
+      "pangalan": "Setyembre",
+      "daglat": "Set",
+      "bilang": 9
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "10",
+      "pangalan": "Oktubre",
+      "daglat": "Okt",
+      "bilang": 10
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "11",
+      "pangalan": "Nobyembre",
+      "daglat": "Nob",
+      "bilang": 11
+    },
+    {
+      "uri": "buwan",
+      "kodigo": "12",
+      "pangalan": "Disyembre",
+      "daglat": "Dis",
+      "bilang": 12
+    },
+    {
+      "uri": "araw_ng_linggo",
+      "kodigo": "sun",
+      "pangalan": "Linggo",
+      "daglat": "Lin",
+      "bilang": 1
+    },
+    {
+      "uri": "araw_ng_linggo",
+      "kodigo": "mon",
+      "pangalan": "Lunes",
+      "daglat": "Lun",
+      "bilang": 2
+    },
+    {
+      "uri": "araw_ng_linggo",
+      "kodigo": "tue",
+      "pangalan": "Martes",
+      "daglat": "Mar",
+      "bilang": 3
+    },
+    {
+      "uri": "araw_ng_linggo",
+      "kodigo": "wed",
+      "pangalan": "Miyerkules",
+      "daglat": "Miy",
+      "bilang": 4
+    },
+    {
+      "uri": "araw_ng_linggo",
+      "kodigo": "thu",
+      "pangalan": "Huwebes",
+      "daglat": "Huw",
+      "bilang": 5
+    },
+    {
+      "uri": "araw_ng_linggo",
+      "kodigo": "fri",
+      "pangalan": "Biyernes",
+      "daglat": "Biy",
+      "bilang": 6
+    },
+    {
+      "uri": "araw_ng_linggo",
+      "kodigo": "sat",
+      "pangalan": "Sabado",
+      "daglat": "Sab",
+      "bilang": 7
+    },
+    {
+      "uri": "bahagi_ng_araw",
+      "kodigo": "midnight",
+      "pangalan": "hatinggabi",
+      "daglat": "",
+      "bilang": ""
+    },
+    {
+      "uri": "bahagi_ng_araw",
+      "kodigo": "am",
+      "pangalan": "AM",
+      "daglat": "",
+      "bilang": ""
+    },
+    {
+      "uri": "bahagi_ng_araw",
+      "kodigo": "noon",
+      "pangalan": "tanghaling-tapat",
+      "daglat": "",
+      "bilang": ""
+    },
+    {
+      "uri": "bahagi_ng_araw",
+      "kodigo": "pm",
+      "pangalan": "PM",
+      "daglat": "",
+      "bilang": ""
+    },
+    {
+      "uri": "bahagi_ng_araw",
+      "kodigo": "morning1",
+      "pangalan": "ng umaga",
+      "daglat": "",
+      "bilang": ""
+    },
+    {
+      "uri": "bahagi_ng_araw",
+      "kodigo": "morning2",
+      "pangalan": "madaling-araw",
+      "daglat": "",
+      "bilang": ""
+    },
+    {
+      "uri": "bahagi_ng_araw",
+      "kodigo": "afternoon1",
+      "pangalan": "ng hapon",
+      "daglat": "",
+      "bilang": ""
+    },
+    {
+      "uri": "bahagi_ng_araw",
+      "kodigo": "evening1",
+      "pangalan": "ng gabi",
+      "daglat": "",
+      "bilang": ""
+    },
+    {
+      "uri": "bahagi_ng_araw",
+      "kodigo": "night1",
+      "pangalan": "ng gabi",
+      "daglat": "",
+      "bilang": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Pangalan ng Petsa at Oras sa Filipino (CLDR) - Free Download",
+    "description": "Mga pangalan ng buwan, araw ng linggo at bahagi ng araw sa Filipino mula sa CLDR ca-gregorian (wide at abbreviated). Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pangalan ng Petsa at Oras sa Filipino (CLDR) | ListBase",
+    "seo_description": "Download Mga Pangalan ng Petsa at Oras sa Filipino (CLDR) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr"
+    ]
+  }
+}

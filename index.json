@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-06T02:18:32.892Z",
-  "total_datasets": 493,
-  "total_records": 446992,
+  "generated": "2026-11-06T02:18:42.412Z",
+  "total_datasets": 494,
+  "total_records": 447020,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tourism",
@@ -14234,6 +14234,32 @@
         "xlsx": {
           "name": "tl-mga-websayt-na-nakaharang_TL.xlsx",
           "size": 10156
+        }
+      }
+    },
+    {
+      "id": "tl-mga-pangalan-ng-petsa-at-oras",
+      "name": "Mga Pangalan ng Petsa at Oras sa Filipino (CLDR)",
+      "category": "time",
+      "record_count": 28,
+      "columns": [
+        "uri",
+        "kodigo",
+        "pangalan",
+        "daglat",
+        "bilang"
+      ],
+      "source": "https://github.com/unicode-org/cldr",
+      "updated": "2026-11",
+      "size": 5370,
+      "files": {
+        "csv": {
+          "name": "tl-mga-pangalan-ng-petsa-at-oras_TL.csv",
+          "size": 1118
+        },
+        "xlsx": {
+          "name": "tl-mga-pangalan-ng-petsa-at-oras_TL.xlsx",
+          "size": 7665
         }
       }
     },
