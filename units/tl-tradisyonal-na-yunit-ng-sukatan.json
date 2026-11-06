@@ -1,0 +1,131 @@
+{
+  "id": "tl-tradisyonal-na-yunit-ng-sukatan",
+  "name": "Mga Tradisyonal na Yunit ng Sukatan sa Pilipinas",
+  "title": "Mga Tradisyonal na Yunit ng Sukatan sa Pilipinas",
+  "description": "Mga tradisyonal na yunit ng bigat, haba at bolyum sa Pilipinas (kaban, ganta, dangkal, dipa, atbp.) kasama ang katumbas sa sistemang metriko o Ingles.",
+  "category": "units",
+  "source": "https://en.wikipedia.org/wiki/Philippine_units_of_measurement",
+  "source_url": "https://en.wikipedia.org/wiki/Philippine_units_of_measurement",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "katumbas",
+      "label": "Katumbas",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "kurot",
+      "katumbas": "5 grams",
+      "uri": "Mass"
+    },
+    {
+      "pangalan": "dakot",
+      "katumbas": "5 grams",
+      "uri": "Mass"
+    },
+    {
+      "pangalan": "guhit",
+      "katumbas": "100 grams",
+      "uri": "Mass"
+    },
+    {
+      "pangalan": "kagitna",
+      "katumbas": "1/2 kilogram",
+      "uri": "Mass"
+    },
+    {
+      "pangalan": "chimanta",
+      "katumbas": "6 kilograms",
+      "uri": "Mass"
+    },
+    {
+      "pangalan": "kaban",
+      "katumbas": "50 kilograms",
+      "uri": "Mass"
+    },
+    {
+      "pangalan": "piranggot",
+      "katumbas": "1/2 inch",
+      "uri": "Length"
+    },
+    {
+      "pangalan": "sandamak",
+      "katumbas": "4 inches",
+      "uri": "Length"
+    },
+    {
+      "pangalan": "dangkal",
+      "katumbas": "9 inches",
+      "uri": "Length"
+    },
+    {
+      "pangalan": "talampakan",
+      "katumbas": "12 inches = 1 foot",
+      "uri": "Length"
+    },
+    {
+      "pangalan": "bisig",
+      "katumbas": "16 inches",
+      "uri": "Length"
+    },
+    {
+      "pangalan": "dipa",
+      "katumbas": "68 inches",
+      "uri": "Length"
+    },
+    {
+      "pangalan": "salok",
+      "katumbas": "80 ml",
+      "uri": "Volume"
+    },
+    {
+      "pangalan": "saro",
+      "katumbas": "250 ml",
+      "uri": "Volume"
+    },
+    {
+      "pangalan": "mangok",
+      "katumbas": "400 ml",
+      "uri": "Volume"
+    },
+    {
+      "pangalan": "salop",
+      "katumbas": "3 Liters (12 Gatang)",
+      "uri": "Volume"
+    },
+    {
+      "pangalan": "ganta",
+      "katumbas": "3 Liters (12 Gatang)",
+      "uri": "Volume"
+    },
+    {
+      "pangalan": "gatang",
+      "katumbas": "250 ml",
+      "uri": "Volume"
+    }
+  ],
+  "meta": {
+    "title": "Mga Tradisyonal na Yunit ng Sukatan sa Pilipinas - Free Download",
+    "description": "Mga tradisyonal na yunit ng bigat, haba at bolyum sa Pilipinas (kaban, ganta, dangkal, dipa, atbp.) kasama ang katumbas sa sistemang metriko o Ingles. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Tradisyonal na Yunit ng Sukatan sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Tradisyonal na Yunit ng Sukatan sa Pilipinas — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Philippine_units_of_measurement"
+    ]
+  }
+}

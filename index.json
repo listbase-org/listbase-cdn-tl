@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-06T02:18:22.193Z",
-  "total_datasets": 492,
-  "total_records": 446974,
+  "generated": "2026-11-06T02:18:32.892Z",
+  "total_datasets": 493,
+  "total_records": 446992,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 1
+      "dataset_count": 2
     }
   ],
   "datasets": [
@@ -15444,6 +15444,30 @@
         "xlsx": {
           "name": "tl-mga-yunit-ng-sukatan_TL.xlsx",
           "size": 15971
+        }
+      }
+    },
+    {
+      "id": "tl-tradisyonal-na-yunit-ng-sukatan",
+      "name": "Mga Tradisyonal na Yunit ng Sukatan sa Pilipinas",
+      "category": "units",
+      "record_count": 18,
+      "columns": [
+        "pangalan",
+        "katumbas",
+        "uri"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Philippine_units_of_measurement",
+      "updated": "2026-11",
+      "size": 3333,
+      "files": {
+        "csv": {
+          "name": "tl-tradisyonal-na-yunit-ng-sukatan_TL.csv",
+          "size": 578
+        },
+        "xlsx": {
+          "name": "tl-tradisyonal-na-yunit-ng-sukatan_TL.xlsx",
+          "size": 7167
         }
       }
     }
