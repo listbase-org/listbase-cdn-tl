@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-06T02:18:42.412Z",
-  "total_datasets": 494,
-  "total_records": 447020,
+  "generated": "2026-11-06T02:18:51.736Z",
+  "total_datasets": 495,
+  "total_records": 447049,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -5404,6 +5404,30 @@
         "xlsx": {
           "name": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela_TL.xlsx",
           "size": 11119
+        }
+      }
+    },
+    {
+      "id": "tl-mga-album-ng-apo-hiking-society",
+      "name": "Mga Album ng APO Hiking Society",
+      "category": "music",
+      "record_count": 29,
+      "columns": [
+        "pamagat",
+        "taon",
+        "uri"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/APO_Hiking_Society",
+      "updated": "2026-11",
+      "size": 4663,
+      "files": {
+        "csv": {
+          "name": "tl-mga-album-ng-apo-hiking-society_TL.csv",
+          "size": 1628
+        },
+        "xlsx": {
+          "name": "tl-mga-album-ng-apo-hiking-society_TL.xlsx",
+          "size": 7600
         }
       }
     },
