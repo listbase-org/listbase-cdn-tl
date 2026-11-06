@@ -1,0 +1,1726 @@
+{
+  "id": "tl-mga-yunit-ng-sukatan",
+  "name": "Mga Yunit ng Sukatan (CLDR Filipino)",
+  "title": "Mga Yunit ng Sukatan (CLDR Filipino)",
+  "description": "Mga yunit ng sukatan at ang kanilang mga pangalan at suleras sa Filipino mula sa CLDR units.json (long/short/narrow).",
+  "category": "units",
+  "source": "https://github.com/unicode-org/cldr",
+  "source_url": "https://github.com/unicode-org/cldr",
+  "updated": "2026-11",
+  "record_count": 185,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorya",
+      "label": "Kategorya",
+      "type": "string"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "suleras_isahan",
+      "label": "Suleras Isahan",
+      "type": "string"
+    },
+    {
+      "key": "suleras_maramihan",
+      "label": "Suleras Maramihan",
+      "type": "string"
+    },
+    {
+      "key": "maikling_suleras",
+      "label": "Maikling Suleras",
+      "type": "string"
+    },
+    {
+      "key": "makitid_na_suleras",
+      "label": "Makitid Na Suleras",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "acceleration-g-force",
+      "kategorya": "acceleration",
+      "pangalan": "g-force",
+      "suleras_isahan": "{0} g-force",
+      "suleras_maramihan": "{0} g-force",
+      "maikling_suleras": "{0} G",
+      "makitid_na_suleras": "{0}G"
+    },
+    {
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategorya": "acceleration",
+      "pangalan": "metro kada segundo kwadrado",
+      "suleras_isahan": "{0} metro kada segundo kwadrado",
+      "suleras_maramihan": "{0} na metro kada segundo kwadrado",
+      "maikling_suleras": "{0} m/s²",
+      "makitid_na_suleras": "{0}m/s²"
+    },
+    {
+      "unit_code": "angle-arc-minute",
+      "kategorya": "angle",
+      "pangalan": "arcminutes",
+      "suleras_isahan": "{0} arcminute",
+      "suleras_maramihan": "{0} na arcminute",
+      "maikling_suleras": "{0} na arcmin",
+      "makitid_na_suleras": "{0}′"
+    },
+    {
+      "unit_code": "angle-arc-second",
+      "kategorya": "angle",
+      "pangalan": "arcseconds",
+      "suleras_isahan": "{0} arcsecond",
+      "suleras_maramihan": "{0} na arcsecond",
+      "maikling_suleras": "{0} na arcsec",
+      "makitid_na_suleras": "{0}″"
+    },
+    {
+      "unit_code": "angle-degree",
+      "kategorya": "angle",
+      "pangalan": "degrees",
+      "suleras_isahan": "{0} degree",
+      "suleras_maramihan": "{0} na degree",
+      "maikling_suleras": "{0} na deg",
+      "makitid_na_suleras": "{0} na deg"
+    },
+    {
+      "unit_code": "angle-radian",
+      "kategorya": "angle",
+      "pangalan": "radians",
+      "suleras_isahan": "{0} radian",
+      "suleras_maramihan": "{0} na radian",
+      "maikling_suleras": "{0} rad",
+      "makitid_na_suleras": "{0}rad"
+    },
+    {
+      "unit_code": "angle-revolution",
+      "kategorya": "angle",
+      "pangalan": "pag-ikot",
+      "suleras_isahan": "{0} pag-ikot",
+      "suleras_maramihan": "{0} na pag-ikot",
+      "maikling_suleras": "{0} na rev",
+      "makitid_na_suleras": "{0} na rev"
+    },
+    {
+      "unit_code": "area-acre",
+      "kategorya": "area",
+      "pangalan": "acres",
+      "suleras_isahan": "{0} acre",
+      "suleras_maramihan": "{0} acres",
+      "maikling_suleras": "{0} ac",
+      "makitid_na_suleras": "{0}ac"
+    },
+    {
+      "unit_code": "area-dunam",
+      "kategorya": "area",
+      "pangalan": "dunam",
+      "suleras_isahan": "{0} dunam",
+      "suleras_maramihan": "{0} dunam",
+      "maikling_suleras": "{0} dunam",
+      "makitid_na_suleras": "{0} dunam"
+    },
+    {
+      "unit_code": "area-hectare",
+      "kategorya": "area",
+      "pangalan": "ektarya",
+      "suleras_isahan": "{0} hektarya",
+      "suleras_maramihan": "{0} na hektarya",
+      "maikling_suleras": "{0} ha",
+      "makitid_na_suleras": "{0}ha"
+    },
+    {
+      "unit_code": "area-square-centimeter",
+      "kategorya": "area",
+      "pangalan": "sentimetro kwadrado",
+      "suleras_isahan": "{0} sentimetro kwadrado",
+      "suleras_maramihan": "{0} na sentimetro kwadrado",
+      "maikling_suleras": "{0} cm²",
+      "makitid_na_suleras": "{0} cm²"
+    },
+    {
+      "unit_code": "area-square-foot",
+      "kategorya": "area",
+      "pangalan": "talampakan parisukat",
+      "suleras_isahan": "{0} talampakan parisukat",
+      "suleras_maramihan": "{0} na talampakan parisukat",
+      "maikling_suleras": "{0} sq ft",
+      "makitid_na_suleras": "{0}ft²"
+    },
+    {
+      "unit_code": "area-square-inch",
+      "kategorya": "area",
+      "pangalan": "pulgada kwadrado",
+      "suleras_isahan": "{0} pulgada kwadrado",
+      "suleras_maramihan": "{0} na pulgada kwadrado",
+      "maikling_suleras": "{0} in²",
+      "makitid_na_suleras": "{0} in²"
+    },
+    {
+      "unit_code": "area-square-kilometer",
+      "kategorya": "area",
+      "pangalan": "kilometro kwadrado",
+      "suleras_isahan": "{0} kilometro kwadrado",
+      "suleras_maramihan": "{0} na kilometro kwadrado",
+      "maikling_suleras": "{0} km²",
+      "makitid_na_suleras": "{0}km²"
+    },
+    {
+      "unit_code": "area-square-meter",
+      "kategorya": "area",
+      "pangalan": "metro kwadrado",
+      "suleras_isahan": "{0} metro kwadrado",
+      "suleras_maramihan": "{0} na metro kwadrado",
+      "maikling_suleras": "{0} m²",
+      "makitid_na_suleras": "{0} m²"
+    },
+    {
+      "unit_code": "area-square-mile",
+      "kategorya": "area",
+      "pangalan": "milya kwadrado",
+      "suleras_isahan": "{0} milya kwadrado",
+      "suleras_maramihan": "{0} na milya kwadrado",
+      "maikling_suleras": "{0} sq mi",
+      "makitid_na_suleras": "{0}mi²"
+    },
+    {
+      "unit_code": "area-square-yard",
+      "kategorya": "area",
+      "pangalan": "yardang parisukat",
+      "suleras_isahan": "{0} yardang parisukat",
+      "suleras_maramihan": "{0} na yardang parisukat",
+      "maikling_suleras": "{0} yd²",
+      "makitid_na_suleras": "{0} yd²"
+    },
+    {
+      "unit_code": "concentr-item",
+      "kategorya": "concentr",
+      "pangalan": "mga item",
+      "suleras_isahan": "{0} item",
+      "suleras_maramihan": "{0} na item",
+      "maikling_suleras": "{0} item",
+      "makitid_na_suleras": "{0}item"
+    },
+    {
+      "unit_code": "concentr-karat",
+      "kategorya": "concentr",
+      "pangalan": "karat",
+      "suleras_isahan": "{0} karat",
+      "suleras_maramihan": "{0} na karat",
+      "maikling_suleras": "{0} kt",
+      "makitid_na_suleras": "{0} kt"
+    },
+    {
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategorya": "concentr",
+      "pangalan": "mg/dL",
+      "suleras_isahan": "{0} milligram per deciliter",
+      "suleras_maramihan": "{0} milligrams per deciliter",
+      "maikling_suleras": "{0} mg/dL",
+      "makitid_na_suleras": "{0} mg/dL"
+    },
+    {
+      "unit_code": "concentr-millimole-per-liter",
+      "kategorya": "concentr",
+      "pangalan": "mmol/L",
+      "suleras_isahan": "{0} millimole per liter",
+      "suleras_maramihan": "{0} millimoles per liter",
+      "maikling_suleras": "{0} mmol/L",
+      "makitid_na_suleras": "{0} mmol/L"
+    },
+    {
+      "unit_code": "concentr-mole",
+      "kategorya": "concentr",
+      "pangalan": "mole",
+      "suleras_isahan": "{0} mole",
+      "suleras_maramihan": "{0} mole",
+      "maikling_suleras": "{0} mol",
+      "makitid_na_suleras": "{0} mol"
+    },
+    {
+      "unit_code": "concentr-percent",
+      "kategorya": "concentr",
+      "pangalan": "porsyento",
+      "suleras_isahan": "{0} porsyento",
+      "suleras_maramihan": "{0} na porsyento",
+      "maikling_suleras": "{0}%",
+      "makitid_na_suleras": "{0}%"
+    },
+    {
+      "unit_code": "concentr-permille",
+      "kategorya": "concentr",
+      "pangalan": "permille",
+      "suleras_isahan": "{0} permille",
+      "suleras_maramihan": "{0} na permille",
+      "maikling_suleras": "{0}‰",
+      "makitid_na_suleras": "{0}‰"
+    },
+    {
+      "unit_code": "concentr-permillion",
+      "kategorya": "concentr",
+      "pangalan": "parts per million",
+      "suleras_isahan": "{0} part per million",
+      "suleras_maramihan": "{0} parts per million",
+      "maikling_suleras": "{0} ppm",
+      "makitid_na_suleras": "{0} ppm"
+    },
+    {
+      "unit_code": "concentr-permyriad",
+      "kategorya": "concentr",
+      "pangalan": "permyriad",
+      "suleras_isahan": "{0} permyriad",
+      "suleras_maramihan": "{0} permyriad",
+      "maikling_suleras": "{0}‱",
+      "makitid_na_suleras": "{0}‱"
+    },
+    {
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategorya": "consumption",
+      "pangalan": "litro kada 100 kilometro",
+      "suleras_isahan": "{0} litro kada 100 kilometro",
+      "suleras_maramihan": "{0} na litro kada 100 kilometer",
+      "maikling_suleras": "{0} na L/100km",
+      "makitid_na_suleras": "{0}L/100km"
+    },
+    {
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategorya": "consumption",
+      "pangalan": "litro kada kilometro",
+      "suleras_isahan": "{0} litro kada kilometro",
+      "suleras_maramihan": "{0} litro kada kilometro",
+      "maikling_suleras": "{0} L/km",
+      "makitid_na_suleras": "{0} L/km"
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon",
+      "kategorya": "consumption",
+      "pangalan": "milya kada galon",
+      "suleras_isahan": "{0} milya kada galon",
+      "suleras_maramihan": "{0} na milya kada galon",
+      "maikling_suleras": "{0} na mpg",
+      "makitid_na_suleras": "{0}mpg"
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategorya": "consumption",
+      "pangalan": "milya kada Imp.gallon",
+      "suleras_isahan": "{0} milya kada Imp.galon",
+      "suleras_maramihan": "{0} milya kada Imp. galon",
+      "maikling_suleras": "{0} mpg Imp.",
+      "makitid_na_suleras": "{0}mpg"
+    },
+    {
+      "unit_code": "coordinateUnit",
+      "kategorya": "coordinateUnit",
+      "pangalan": "cardinal direction",
+      "suleras_isahan": "",
+      "suleras_maramihan": "",
+      "maikling_suleras": "",
+      "makitid_na_suleras": ""
+    },
+    {
+      "unit_code": "digital-bit",
+      "kategorya": "digital",
+      "pangalan": "bits",
+      "suleras_isahan": "{0} bit",
+      "suleras_maramihan": "{0} na bit",
+      "maikling_suleras": "{0} bit",
+      "makitid_na_suleras": "{0} bit"
+    },
+    {
+      "unit_code": "digital-byte",
+      "kategorya": "digital",
+      "pangalan": "bytes",
+      "suleras_isahan": "{0} byte",
+      "suleras_maramihan": "{0} na byte",
+      "maikling_suleras": "{0} byte",
+      "makitid_na_suleras": "{0} B"
+    },
+    {
+      "unit_code": "digital-gigabit",
+      "kategorya": "digital",
+      "pangalan": "gigabits",
+      "suleras_isahan": "{0} gigabit",
+      "suleras_maramihan": "{0} na gigabit",
+      "maikling_suleras": "{0} Gb",
+      "makitid_na_suleras": "{0} Gb"
+    },
+    {
+      "unit_code": "digital-gigabyte",
+      "kategorya": "digital",
+      "pangalan": "gigabytes",
+      "suleras_isahan": "{0} gigabyte",
+      "suleras_maramihan": "{0} na gigabyte",
+      "maikling_suleras": "{0} GB",
+      "makitid_na_suleras": "{0} GB"
+    },
+    {
+      "unit_code": "digital-kilobit",
+      "kategorya": "digital",
+      "pangalan": "kilobits",
+      "suleras_isahan": "{0} kilobit",
+      "suleras_maramihan": "{0} na kilobit",
+      "maikling_suleras": "{0} kb",
+      "makitid_na_suleras": "{0} kb"
+    },
+    {
+      "unit_code": "digital-kilobyte",
+      "kategorya": "digital",
+      "pangalan": "kilobytes",
+      "suleras_isahan": "{0} kilobyte",
+      "suleras_maramihan": "{0} na kilobyte",
+      "maikling_suleras": "{0} kB",
+      "makitid_na_suleras": "{0} kB"
+    },
+    {
+      "unit_code": "digital-megabit",
+      "kategorya": "digital",
+      "pangalan": "megabits",
+      "suleras_isahan": "{0} megabit",
+      "suleras_maramihan": "{0} na megabit",
+      "maikling_suleras": "{0} Mb",
+      "makitid_na_suleras": "{0} Mb"
+    },
+    {
+      "unit_code": "digital-megabyte",
+      "kategorya": "digital",
+      "pangalan": "megabytes",
+      "suleras_isahan": "{0} megabyte",
+      "suleras_maramihan": "{0} na megabyte",
+      "maikling_suleras": "{0} MB",
+      "makitid_na_suleras": "{0} MB"
+    },
+    {
+      "unit_code": "digital-petabyte",
+      "kategorya": "digital",
+      "pangalan": "petabytes",
+      "suleras_isahan": "{0} petabyte",
+      "suleras_maramihan": "{0} petabytes",
+      "maikling_suleras": "{0} PB",
+      "makitid_na_suleras": "{0} PB"
+    },
+    {
+      "unit_code": "digital-terabit",
+      "kategorya": "digital",
+      "pangalan": "terabits",
+      "suleras_isahan": "{0} terabit",
+      "suleras_maramihan": "{0} na terabit",
+      "maikling_suleras": "{0} Tb",
+      "makitid_na_suleras": "{0} Tb"
+    },
+    {
+      "unit_code": "digital-terabyte",
+      "kategorya": "digital",
+      "pangalan": "terabytes",
+      "suleras_isahan": "{0} terabyte",
+      "suleras_maramihan": "{0} na terabyte",
+      "maikling_suleras": "{0} TB",
+      "makitid_na_suleras": "{0} TB"
+    },
+    {
+      "unit_code": "duration-century",
+      "kategorya": "duration",
+      "pangalan": "mga siglo",
+      "suleras_isahan": "{0} siglo",
+      "suleras_maramihan": "{0} siglo",
+      "maikling_suleras": "{0} siglo",
+      "makitid_na_suleras": "{0} siglo"
+    },
+    {
+      "unit_code": "duration-day",
+      "kategorya": "duration",
+      "pangalan": "araw",
+      "suleras_isahan": "{0} araw",
+      "suleras_maramihan": "{0} na araw",
+      "maikling_suleras": "{0} araw",
+      "makitid_na_suleras": "{0} na araw"
+    },
+    {
+      "unit_code": "duration-decade",
+      "kategorya": "duration",
+      "pangalan": "dekada",
+      "suleras_isahan": "{0} dekada",
+      "suleras_maramihan": "{0} dekada",
+      "maikling_suleras": "{0} dec",
+      "makitid_na_suleras": "{0} dec"
+    },
+    {
+      "unit_code": "duration-hour",
+      "kategorya": "duration",
+      "pangalan": "mga oras",
+      "suleras_isahan": "{0} oras",
+      "suleras_maramihan": "{0} na oras",
+      "maikling_suleras": "{0} na oras",
+      "makitid_na_suleras": "{0} oras"
+    },
+    {
+      "unit_code": "duration-microsecond",
+      "kategorya": "duration",
+      "pangalan": "mikrosegundo",
+      "suleras_isahan": "{0} mikrosegundo",
+      "suleras_maramihan": "{0} mikrosegundo",
+      "maikling_suleras": "{0} μs",
+      "makitid_na_suleras": "{0} μs"
+    },
+    {
+      "unit_code": "duration-millisecond",
+      "kategorya": "duration",
+      "pangalan": "milisegundo",
+      "suleras_isahan": "{0} milisegundo",
+      "suleras_maramihan": "{0} milisegundo",
+      "maikling_suleras": "{0} ms",
+      "makitid_na_suleras": "{0}ms"
+    },
+    {
+      "unit_code": "duration-minute",
+      "kategorya": "duration",
+      "pangalan": "mga minuto",
+      "suleras_isahan": "{0} minuto",
+      "suleras_maramihan": "{0} na minuto",
+      "maikling_suleras": "{0} min.",
+      "makitid_na_suleras": "{0}m"
+    },
+    {
+      "unit_code": "duration-month",
+      "kategorya": "duration",
+      "pangalan": "mga buwan",
+      "suleras_isahan": "{0} buwan",
+      "suleras_maramihan": "{0} buwan",
+      "maikling_suleras": "{0} buwan",
+      "makitid_na_suleras": "{0} buwan"
+    },
+    {
+      "unit_code": "duration-nanosecond",
+      "kategorya": "duration",
+      "pangalan": "nanosegundo",
+      "suleras_isahan": "{0} nanosegundo",
+      "suleras_maramihan": "{0} nanosegundo",
+      "maikling_suleras": "{0} ns",
+      "makitid_na_suleras": "{0} ns"
+    },
+    {
+      "unit_code": "duration-quarter",
+      "kategorya": "duration",
+      "pangalan": "mga quarter",
+      "suleras_isahan": "{0} qtr",
+      "suleras_maramihan": "{0} qaurter",
+      "maikling_suleras": "{0} qtrs",
+      "makitid_na_suleras": "{0} qtrs"
+    },
+    {
+      "unit_code": "duration-second",
+      "kategorya": "duration",
+      "pangalan": "mga segundo",
+      "suleras_isahan": "{0} segundo",
+      "suleras_maramihan": "{0} na segundo",
+      "maikling_suleras": "{0} seg.",
+      "makitid_na_suleras": "{0}s"
+    },
+    {
+      "unit_code": "duration-week",
+      "kategorya": "duration",
+      "pangalan": "mga linggo",
+      "suleras_isahan": "{0} linggo",
+      "suleras_maramihan": "{0} na linggo",
+      "maikling_suleras": "{0} na linggo",
+      "makitid_na_suleras": "{0}linggo"
+    },
+    {
+      "unit_code": "duration-year",
+      "kategorya": "duration",
+      "pangalan": "mga taon",
+      "suleras_isahan": "{0} taon",
+      "suleras_maramihan": "{0} na taon",
+      "maikling_suleras": "{0} taon",
+      "makitid_na_suleras": "{0}taon"
+    },
+    {
+      "unit_code": "electric-ampere",
+      "kategorya": "electric",
+      "pangalan": "amperes",
+      "suleras_isahan": "{0} ampere",
+      "suleras_maramihan": "{0} na ampere",
+      "maikling_suleras": "{0} A",
+      "makitid_na_suleras": "{0} A"
+    },
+    {
+      "unit_code": "electric-milliampere",
+      "kategorya": "electric",
+      "pangalan": "milliamperes",
+      "suleras_isahan": "{0} milliampere",
+      "suleras_maramihan": "{0} na milliampere",
+      "maikling_suleras": "{0} mA",
+      "makitid_na_suleras": "{0} mA"
+    },
+    {
+      "unit_code": "electric-ohm",
+      "kategorya": "electric",
+      "pangalan": "ohms",
+      "suleras_isahan": "{0} ohm",
+      "suleras_maramihan": "{0} na ohm",
+      "maikling_suleras": "{0} Ω",
+      "makitid_na_suleras": "{0} Ω"
+    },
+    {
+      "unit_code": "electric-volt",
+      "kategorya": "electric",
+      "pangalan": "volts",
+      "suleras_isahan": "{0} volt",
+      "suleras_maramihan": "{0} na volt",
+      "maikling_suleras": "{0} V",
+      "makitid_na_suleras": "{0} V"
+    },
+    {
+      "unit_code": "energy-british-thermal-unit",
+      "kategorya": "energy",
+      "pangalan": "British thermal unit",
+      "suleras_isahan": "{0} British thermal unit",
+      "suleras_maramihan": "{0} British thermal unit",
+      "maikling_suleras": "{0} Btu",
+      "makitid_na_suleras": "{0} Btu"
+    },
+    {
+      "unit_code": "energy-calorie",
+      "kategorya": "energy",
+      "pangalan": "calories",
+      "suleras_isahan": "{0} calorie",
+      "suleras_maramihan": "{0} na calories",
+      "maikling_suleras": "{0} cal",
+      "makitid_na_suleras": "{0} cal"
+    },
+    {
+      "unit_code": "energy-electronvolt",
+      "kategorya": "energy",
+      "pangalan": "electronvolt",
+      "suleras_isahan": "{0} electronvolt",
+      "suleras_maramihan": "{0} electronvolt",
+      "maikling_suleras": "{0} eV",
+      "makitid_na_suleras": "{0} eV"
+    },
+    {
+      "unit_code": "energy-foodcalorie",
+      "kategorya": "energy",
+      "pangalan": "Mga calorie",
+      "suleras_isahan": "{0} Calorie",
+      "suleras_maramihan": "{0} Calorie",
+      "maikling_suleras": "{0} Cal",
+      "makitid_na_suleras": "{0} Cal"
+    },
+    {
+      "unit_code": "energy-joule",
+      "kategorya": "energy",
+      "pangalan": "joules",
+      "suleras_isahan": "{0} joule",
+      "suleras_maramihan": "{0} na joules",
+      "maikling_suleras": "{0} J",
+      "makitid_na_suleras": "{0} J"
+    },
+    {
+      "unit_code": "energy-kilocalorie",
+      "kategorya": "energy",
+      "pangalan": "kilocalories",
+      "suleras_isahan": "{0} kilocalorie",
+      "suleras_maramihan": "{0} na kilocalorie",
+      "maikling_suleras": "{0} kcal",
+      "makitid_na_suleras": "{0} kcal"
+    },
+    {
+      "unit_code": "energy-kilojoule",
+      "kategorya": "energy",
+      "pangalan": "kilojoules",
+      "suleras_isahan": "{0} kilojoule",
+      "suleras_maramihan": "{0} na kilojoule",
+      "maikling_suleras": "{0} kJ",
+      "makitid_na_suleras": "{0} kJ"
+    },
+    {
+      "unit_code": "energy-kilowatt-hour",
+      "kategorya": "energy",
+      "pangalan": "kilowatt-hours",
+      "suleras_isahan": "{0} kilowatt hour",
+      "suleras_maramihan": "{0} na kilowatt-hour",
+      "maikling_suleras": "{0} kWh",
+      "makitid_na_suleras": "{0} kWh"
+    },
+    {
+      "unit_code": "energy-therm-us",
+      "kategorya": "energy",
+      "pangalan": "US therm",
+      "suleras_isahan": "{0} US therm",
+      "suleras_maramihan": "{0} US therm",
+      "maikling_suleras": "{0} US therm",
+      "makitid_na_suleras": "{0} US therm"
+    },
+    {
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategorya": "force",
+      "pangalan": "kilowatt-hour bawat 100 kilometro",
+      "suleras_isahan": "{0} kilowatt-hour bawat 100 kilometro",
+      "suleras_maramihan": "{0} kilowatt-hours bawat 100 kilometro",
+      "maikling_suleras": "{0} kWh/100km",
+      "makitid_na_suleras": "{0}kWh/100km"
+    },
+    {
+      "unit_code": "force-newton",
+      "kategorya": "force",
+      "pangalan": "newton",
+      "suleras_isahan": "{0} newton",
+      "suleras_maramihan": "{0} newton",
+      "maikling_suleras": "{0} N",
+      "makitid_na_suleras": "{0} N"
+    },
+    {
+      "unit_code": "force-pound-force",
+      "kategorya": "force",
+      "pangalan": "pound of force",
+      "suleras_isahan": "{0} pound of force",
+      "suleras_maramihan": "{0} pound of force",
+      "maikling_suleras": "{0} lbf",
+      "makitid_na_suleras": "{0} lbf"
+    },
+    {
+      "unit_code": "frequency-gigahertz",
+      "kategorya": "frequency",
+      "pangalan": "gigahertz",
+      "suleras_isahan": "{0} gigahertz",
+      "suleras_maramihan": "{0} na gigahertz",
+      "maikling_suleras": "{0} GHz",
+      "makitid_na_suleras": "{0} GHz"
+    },
+    {
+      "unit_code": "frequency-hertz",
+      "kategorya": "frequency",
+      "pangalan": "hertz",
+      "suleras_isahan": "{0} hertz",
+      "suleras_maramihan": "{0} na hertz",
+      "maikling_suleras": "{0} Hz",
+      "makitid_na_suleras": "{0} Hz"
+    },
+    {
+      "unit_code": "frequency-kilohertz",
+      "kategorya": "frequency",
+      "pangalan": "kilohertz",
+      "suleras_isahan": "{0} kilohertz",
+      "suleras_maramihan": "{0} na kilohertz",
+      "maikling_suleras": "{0} kHz",
+      "makitid_na_suleras": "{0} kHz"
+    },
+    {
+      "unit_code": "frequency-megahertz",
+      "kategorya": "frequency",
+      "pangalan": "megahertz",
+      "suleras_isahan": "{0} na megahertz",
+      "suleras_maramihan": "{0} megahertz",
+      "maikling_suleras": "{0} MHz",
+      "makitid_na_suleras": "{0} MHz"
+    },
+    {
+      "unit_code": "graphics-dot",
+      "kategorya": "graphics",
+      "pangalan": "mga tuldok",
+      "suleras_isahan": "{0} tuldok",
+      "suleras_maramihan": "{0} tuldok",
+      "maikling_suleras": "{0} tuldok",
+      "makitid_na_suleras": "{0} tuldok"
+    },
+    {
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategorya": "graphics",
+      "pangalan": "tuldok bawat sentimetro",
+      "suleras_isahan": "{0} tuldok bawat sentimetro",
+      "suleras_maramihan": "{0} tuldok bawat sentimetro",
+      "maikling_suleras": "{0} dpcm",
+      "makitid_na_suleras": "{0} dpcm"
+    },
+    {
+      "unit_code": "graphics-dot-per-inch",
+      "kategorya": "graphics",
+      "pangalan": "tuldok bawat pulgada",
+      "suleras_isahan": "{0} tuldok bawat pulgada",
+      "suleras_maramihan": "{0} tuldok bawat pulgada",
+      "maikling_suleras": "{0} dpi",
+      "makitid_na_suleras": "{0} dpi"
+    },
+    {
+      "unit_code": "graphics-em",
+      "kategorya": "graphics",
+      "pangalan": "tipograpikang em",
+      "suleras_isahan": "{0} em",
+      "suleras_maramihan": "{0} em",
+      "maikling_suleras": "{0} em",
+      "makitid_na_suleras": "{0} em"
+    },
+    {
+      "unit_code": "graphics-megapixel",
+      "kategorya": "graphics",
+      "pangalan": "megapixels",
+      "suleras_isahan": "{0} megapixel",
+      "suleras_maramihan": "{0} megapixels",
+      "maikling_suleras": "{0} MP",
+      "makitid_na_suleras": "{0} MP"
+    },
+    {
+      "unit_code": "graphics-pixel",
+      "kategorya": "graphics",
+      "pangalan": "mga pixel",
+      "suleras_isahan": "{0} pixel",
+      "suleras_maramihan": "{0} pixel",
+      "maikling_suleras": "{0} px",
+      "makitid_na_suleras": "{0} px"
+    },
+    {
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategorya": "graphics",
+      "pangalan": "mga pixel bawat sentimetro",
+      "suleras_isahan": "{0} pixel bawat sentimetro",
+      "suleras_maramihan": "{0} pixel bawat sentimetro",
+      "maikling_suleras": "{0} ppcm",
+      "makitid_na_suleras": "{0} ppcm"
+    },
+    {
+      "unit_code": "graphics-pixel-per-inch",
+      "kategorya": "graphics",
+      "pangalan": "mga pixel bawat pulgada",
+      "suleras_isahan": "{0} pixel bawat pulgada",
+      "suleras_maramihan": "{0} pixel bawat pulgada",
+      "maikling_suleras": "{0} ppi",
+      "makitid_na_suleras": "{0} ppi"
+    },
+    {
+      "unit_code": "length-astronomical-unit",
+      "kategorya": "length",
+      "pangalan": "astronomical units",
+      "suleras_isahan": "{0} astronomical unit",
+      "suleras_maramihan": "{0} na astronomical units",
+      "maikling_suleras": "{0} au",
+      "makitid_na_suleras": "{0}au"
+    },
+    {
+      "unit_code": "length-centimeter",
+      "kategorya": "length",
+      "pangalan": "sentimetro",
+      "suleras_isahan": "{0} sentimetro",
+      "suleras_maramihan": "{0} sentimetro",
+      "maikling_suleras": "{0} cm",
+      "makitid_na_suleras": "{0}cm"
+    },
+    {
+      "unit_code": "length-decimeter",
+      "kategorya": "length",
+      "pangalan": "decimetro",
+      "suleras_isahan": "{0} decimetro",
+      "suleras_maramihan": "{0} na decimetro",
+      "maikling_suleras": "{0} dm",
+      "makitid_na_suleras": "{0} dm"
+    },
+    {
+      "unit_code": "length-earth-radius",
+      "kategorya": "length",
+      "pangalan": "earth radius",
+      "suleras_isahan": "{0} earth radius",
+      "suleras_maramihan": "{0} na earth radius",
+      "maikling_suleras": "{0} na R⊕",
+      "makitid_na_suleras": "{0} na R⊕"
+    },
+    {
+      "unit_code": "length-fathom",
+      "kategorya": "length",
+      "pangalan": "fathoms",
+      "suleras_isahan": "{0} fathom",
+      "suleras_maramihan": "{0} na fathom",
+      "maikling_suleras": "{0} fth",
+      "makitid_na_suleras": "{0}fth"
+    },
+    {
+      "unit_code": "length-foot",
+      "kategorya": "length",
+      "pangalan": "talampakan",
+      "suleras_isahan": "{0} talampakan",
+      "suleras_maramihan": "{0} na talampakan",
+      "maikling_suleras": "{0} ft",
+      "makitid_na_suleras": "{0}′"
+    },
+    {
+      "unit_code": "length-furlong",
+      "kategorya": "length",
+      "pangalan": "furlongs",
+      "suleras_isahan": "{0} furlong",
+      "suleras_maramihan": "{0} na furlong",
+      "maikling_suleras": "{0} fur",
+      "makitid_na_suleras": "{0}fur"
+    },
+    {
+      "unit_code": "length-inch",
+      "kategorya": "length",
+      "pangalan": "pulgada",
+      "suleras_isahan": "{0} pulgada",
+      "suleras_maramihan": "{0} na pulgada",
+      "maikling_suleras": "{0} in",
+      "makitid_na_suleras": "{0}″"
+    },
+    {
+      "unit_code": "length-kilometer",
+      "kategorya": "length",
+      "pangalan": "kilometro",
+      "suleras_isahan": "{0} kilometro",
+      "suleras_maramihan": "{0} na kilometro",
+      "maikling_suleras": "{0} km",
+      "makitid_na_suleras": "{0}km"
+    },
+    {
+      "unit_code": "length-light-year",
+      "kategorya": "length",
+      "pangalan": "light year",
+      "suleras_isahan": "{0} light year",
+      "suleras_maramihan": "{0} na light year",
+      "maikling_suleras": "{0} na ly",
+      "makitid_na_suleras": "{0}ly"
+    },
+    {
+      "unit_code": "length-meter",
+      "kategorya": "length",
+      "pangalan": "metro",
+      "suleras_isahan": "{0} metro",
+      "suleras_maramihan": "{0} na metro",
+      "maikling_suleras": "{0} m",
+      "makitid_na_suleras": "{0}m"
+    },
+    {
+      "unit_code": "length-micrometer",
+      "kategorya": "length",
+      "pangalan": "micrometro",
+      "suleras_isahan": "{0} micrometro",
+      "suleras_maramihan": "{0} micrometro",
+      "maikling_suleras": "{0} μm",
+      "makitid_na_suleras": "{0} μm"
+    },
+    {
+      "unit_code": "length-mile",
+      "kategorya": "length",
+      "pangalan": "milya",
+      "suleras_isahan": "{0} milya",
+      "suleras_maramihan": "{0} na milya",
+      "maikling_suleras": "{0} mi",
+      "makitid_na_suleras": "{0}mi"
+    },
+    {
+      "unit_code": "length-mile-scandinavian",
+      "kategorya": "length",
+      "pangalan": "milya-scandinavian",
+      "suleras_isahan": "{0} milya-scandinavian",
+      "suleras_maramihan": "{0} na milya-scandinavian",
+      "maikling_suleras": "{0} smi",
+      "makitid_na_suleras": "{0}smi"
+    },
+    {
+      "unit_code": "length-millimeter",
+      "kategorya": "length",
+      "pangalan": "milimetro",
+      "suleras_isahan": "{0} milimetro",
+      "suleras_maramihan": "{0} na milimetro",
+      "maikling_suleras": "{0} mm",
+      "makitid_na_suleras": "{0}mm"
+    },
+    {
+      "unit_code": "length-nanometer",
+      "kategorya": "length",
+      "pangalan": "nanometro",
+      "suleras_isahan": "{0} nanometro",
+      "suleras_maramihan": "{0} nanometro",
+      "maikling_suleras": "{0} nm",
+      "makitid_na_suleras": "{0} nm"
+    },
+    {
+      "unit_code": "length-nautical-mile",
+      "kategorya": "length",
+      "pangalan": "nautical miles",
+      "suleras_isahan": "{0} nautical mile",
+      "suleras_maramihan": "{0} nautical miles",
+      "maikling_suleras": "{0} na nmi",
+      "makitid_na_suleras": "{0}nmi"
+    },
+    {
+      "unit_code": "length-parsec",
+      "kategorya": "length",
+      "pangalan": "parsecs",
+      "suleras_isahan": "{0} parsec",
+      "suleras_maramihan": "{0} parsecs",
+      "maikling_suleras": "{0} na pc",
+      "makitid_na_suleras": "{0}pc"
+    },
+    {
+      "unit_code": "length-picometer",
+      "kategorya": "length",
+      "pangalan": "picometer",
+      "suleras_isahan": "{0} picometer",
+      "suleras_maramihan": "{0} picometer",
+      "maikling_suleras": "{0} na pm",
+      "makitid_na_suleras": "{0}pm"
+    },
+    {
+      "unit_code": "length-point",
+      "kategorya": "length",
+      "pangalan": "puntos",
+      "suleras_isahan": "{0} puntos",
+      "suleras_maramihan": "{0} puntos",
+      "maikling_suleras": "{0} pt",
+      "makitid_na_suleras": "{0}pt"
+    },
+    {
+      "unit_code": "length-solar-radius",
+      "kategorya": "length",
+      "pangalan": "solar radii",
+      "suleras_isahan": "{0} solar radius",
+      "suleras_maramihan": "{0} solar radii",
+      "maikling_suleras": "{0} R☉",
+      "makitid_na_suleras": "{0} R☉"
+    },
+    {
+      "unit_code": "length-yard",
+      "kategorya": "length",
+      "pangalan": "yarda",
+      "suleras_isahan": "{0} yarda",
+      "suleras_maramihan": "{0} na yarda",
+      "maikling_suleras": "{0} na yd",
+      "makitid_na_suleras": "{0}yd"
+    },
+    {
+      "unit_code": "light-candela",
+      "kategorya": "light",
+      "pangalan": "candela",
+      "suleras_isahan": "{0} candela",
+      "suleras_maramihan": "{0} candela",
+      "maikling_suleras": "{0} cd",
+      "makitid_na_suleras": "{0} cd"
+    },
+    {
+      "unit_code": "light-lumen",
+      "kategorya": "light",
+      "pangalan": "lumen",
+      "suleras_isahan": "{0} lumen",
+      "suleras_maramihan": "{0} lumen",
+      "maikling_suleras": "{0} lm",
+      "makitid_na_suleras": "{0} lm"
+    },
+    {
+      "unit_code": "light-lux",
+      "kategorya": "light",
+      "pangalan": "lux",
+      "suleras_isahan": "{0} lux",
+      "suleras_maramihan": "{0} na lux",
+      "maikling_suleras": "{0} lx",
+      "makitid_na_suleras": "{0} lx"
+    },
+    {
+      "unit_code": "light-solar-luminosity",
+      "kategorya": "light",
+      "pangalan": "solar luminosity",
+      "suleras_isahan": "{0} solar luminosity",
+      "suleras_maramihan": "{0} solar luminosity",
+      "maikling_suleras": "{0} L☉",
+      "makitid_na_suleras": "{0} L☉"
+    },
+    {
+      "unit_code": "mass-carat",
+      "kategorya": "mass",
+      "pangalan": "karat",
+      "suleras_isahan": "{0} karat",
+      "suleras_maramihan": "{0} karat",
+      "maikling_suleras": "{0} KD",
+      "makitid_na_suleras": "{0}CD"
+    },
+    {
+      "unit_code": "mass-dalton",
+      "kategorya": "mass",
+      "pangalan": "dalton",
+      "suleras_isahan": "{0} dalton",
+      "suleras_maramihan": "{0} dalton",
+      "maikling_suleras": "{0} Da",
+      "makitid_na_suleras": "{0} Da"
+    },
+    {
+      "unit_code": "mass-earth-mass",
+      "kategorya": "mass",
+      "pangalan": "Earth mass",
+      "suleras_isahan": "{0} Earth mass",
+      "suleras_maramihan": "{0} Earth mass",
+      "maikling_suleras": "{0} M⊕",
+      "makitid_na_suleras": "{0} M⊕"
+    },
+    {
+      "unit_code": "mass-grain",
+      "kategorya": "mass",
+      "pangalan": "butil",
+      "suleras_isahan": "{0} butil",
+      "suleras_maramihan": "{0} butil",
+      "maikling_suleras": "{0} butil",
+      "makitid_na_suleras": "{0} butil"
+    },
+    {
+      "unit_code": "mass-gram",
+      "kategorya": "mass",
+      "pangalan": "gramo",
+      "suleras_isahan": "{0} gramo",
+      "suleras_maramihan": "{0} na gramo",
+      "maikling_suleras": "{0} g",
+      "makitid_na_suleras": "{0}g"
+    },
+    {
+      "unit_code": "mass-kilogram",
+      "kategorya": "mass",
+      "pangalan": "kilo",
+      "suleras_isahan": "{0} kilo",
+      "suleras_maramihan": "{0} kilo",
+      "maikling_suleras": "{0} kg",
+      "makitid_na_suleras": "{0}kg"
+    },
+    {
+      "unit_code": "mass-microgram",
+      "kategorya": "mass",
+      "pangalan": "micrograms",
+      "suleras_isahan": "{0} microgram",
+      "suleras_maramihan": "{0} micrograms",
+      "maikling_suleras": "{0} μg",
+      "makitid_na_suleras": "{0}μg"
+    },
+    {
+      "unit_code": "mass-milligram",
+      "kategorya": "mass",
+      "pangalan": "milligrams",
+      "suleras_isahan": "{0} milligram",
+      "suleras_maramihan": "{0} milligrams",
+      "maikling_suleras": "{0} mg",
+      "makitid_na_suleras": "{0}mg"
+    },
+    {
+      "unit_code": "mass-ounce",
+      "kategorya": "mass",
+      "pangalan": "onsa",
+      "suleras_isahan": "{0} onsa",
+      "suleras_maramihan": "{0} na onsa",
+      "maikling_suleras": "{0} oz",
+      "makitid_na_suleras": "{0}oz"
+    },
+    {
+      "unit_code": "mass-ounce-troy",
+      "kategorya": "mass",
+      "pangalan": "troy na onsa",
+      "suleras_isahan": "{0} troy na onsa",
+      "suleras_maramihan": "{0} na troy na onsa",
+      "maikling_suleras": "{0} oz t",
+      "makitid_na_suleras": "{0}oz t"
+    },
+    {
+      "unit_code": "mass-pound",
+      "kategorya": "mass",
+      "pangalan": "libra",
+      "suleras_isahan": "{0} libra",
+      "suleras_maramihan": "{0} na libra",
+      "maikling_suleras": "{0} lbs",
+      "makitid_na_suleras": "{0}#"
+    },
+    {
+      "unit_code": "mass-solar-mass",
+      "kategorya": "mass",
+      "pangalan": "solar mass",
+      "suleras_isahan": "{0} solar mass",
+      "suleras_maramihan": "{0} solar mass",
+      "maikling_suleras": "{0} M☉",
+      "makitid_na_suleras": "{0} M☉"
+    },
+    {
+      "unit_code": "mass-stone",
+      "kategorya": "mass",
+      "pangalan": "stones",
+      "suleras_isahan": "{0} stone",
+      "suleras_maramihan": "{0} stones",
+      "maikling_suleras": "{0} st",
+      "makitid_na_suleras": "{0}st"
+    },
+    {
+      "unit_code": "mass-ton",
+      "kategorya": "mass",
+      "pangalan": "tonelada",
+      "suleras_isahan": "{0} tonelada",
+      "suleras_maramihan": "{0} tonelada",
+      "maikling_suleras": "{0} tn",
+      "makitid_na_suleras": "{0}tn"
+    },
+    {
+      "unit_code": "mass-tonne",
+      "kategorya": "mass",
+      "pangalan": "mga metriko tonelada",
+      "suleras_isahan": "{0} metriko tonelada",
+      "suleras_maramihan": "{0} metriko tonelada",
+      "maikling_suleras": "{0} t",
+      "makitid_na_suleras": "{0}t"
+    },
+    {
+      "unit_code": "power-gigawatt",
+      "kategorya": "power",
+      "pangalan": "gigawatts",
+      "suleras_isahan": "{0} gigawatt",
+      "suleras_maramihan": "{0} na gigawatt",
+      "maikling_suleras": "{0} GW",
+      "makitid_na_suleras": "{0} GW"
+    },
+    {
+      "unit_code": "power-horsepower",
+      "kategorya": "power",
+      "pangalan": "horsepower",
+      "suleras_isahan": "{0} horsepower",
+      "suleras_maramihan": "{0} horsepower",
+      "maikling_suleras": "{0} hp",
+      "makitid_na_suleras": "{0}hp"
+    },
+    {
+      "unit_code": "power-kilowatt",
+      "kategorya": "power",
+      "pangalan": "kilowatts",
+      "suleras_isahan": "{0} kilowatt",
+      "suleras_maramihan": "{0} kilowatts",
+      "maikling_suleras": "{0} kW",
+      "makitid_na_suleras": "{0}kW"
+    },
+    {
+      "unit_code": "power-megawatt",
+      "kategorya": "power",
+      "pangalan": "megawatts",
+      "suleras_isahan": "{0} megawatt",
+      "suleras_maramihan": "{0} na megawatt",
+      "maikling_suleras": "{0} MW",
+      "makitid_na_suleras": "{0} MW"
+    },
+    {
+      "unit_code": "power-milliwatt",
+      "kategorya": "power",
+      "pangalan": "milliwatts",
+      "suleras_isahan": "{0} milliwatt",
+      "suleras_maramihan": "{0} na milliwatt",
+      "maikling_suleras": "{0} mW",
+      "makitid_na_suleras": "{0} mW"
+    },
+    {
+      "unit_code": "power-watt",
+      "kategorya": "power",
+      "pangalan": "watts",
+      "suleras_isahan": "{0} watt",
+      "suleras_maramihan": "{0} na watt",
+      "maikling_suleras": "{0} W",
+      "makitid_na_suleras": "{0}W"
+    },
+    {
+      "unit_code": "pressure-atmosphere",
+      "kategorya": "pressure",
+      "pangalan": "atmospheres",
+      "suleras_isahan": "{0} atmosphere",
+      "suleras_maramihan": "{0} atmospheres",
+      "maikling_suleras": "{0} atm",
+      "makitid_na_suleras": "{0} atm"
+    },
+    {
+      "unit_code": "pressure-bar",
+      "kategorya": "pressure",
+      "pangalan": "bar",
+      "suleras_isahan": "{0} bar",
+      "suleras_maramihan": "{0} bar",
+      "maikling_suleras": "{0} bar",
+      "makitid_na_suleras": "{0} bar"
+    },
+    {
+      "unit_code": "pressure-hectopascal",
+      "kategorya": "pressure",
+      "pangalan": "hectopascals",
+      "suleras_isahan": "{0} hectopascal",
+      "suleras_maramihan": "{0} na hectopascal",
+      "maikling_suleras": "{0} hPa",
+      "makitid_na_suleras": "{0}hPa"
+    },
+    {
+      "unit_code": "pressure-inch-ofhg",
+      "kategorya": "pressure",
+      "pangalan": "pulgada ng asoge",
+      "suleras_isahan": "{0} pulgada ng asoge",
+      "suleras_maramihan": "{0} na pulgada ng asoge",
+      "maikling_suleras": "{0} inHg",
+      "makitid_na_suleras": "{0}\" Hg"
+    },
+    {
+      "unit_code": "pressure-kilopascal",
+      "kategorya": "pressure",
+      "pangalan": "kilopascal",
+      "suleras_isahan": "{0} kilopascal",
+      "suleras_maramihan": "{0} kilopascal",
+      "maikling_suleras": "{0} kPa",
+      "makitid_na_suleras": "{0} kPa"
+    },
+    {
+      "unit_code": "pressure-megapascal",
+      "kategorya": "pressure",
+      "pangalan": "megapascal",
+      "suleras_isahan": "{0} megapascal",
+      "suleras_maramihan": "{0} megapascal",
+      "maikling_suleras": "{0} MPa",
+      "makitid_na_suleras": "{0} MPa"
+    },
+    {
+      "unit_code": "pressure-millibar",
+      "kategorya": "pressure",
+      "pangalan": "millibar",
+      "suleras_isahan": "{0} millibar",
+      "suleras_maramihan": "{0} na millibar",
+      "maikling_suleras": "{0} mb",
+      "makitid_na_suleras": "{0}mb"
+    },
+    {
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategorya": "pressure",
+      "pangalan": "milimetro ng asoge",
+      "suleras_isahan": "{0} milimetro ng asoge",
+      "suleras_maramihan": "{0} na milimetro ng asoge",
+      "maikling_suleras": "{0} mm Hg",
+      "makitid_na_suleras": "{0}mmHg"
+    },
+    {
+      "unit_code": "pressure-pascal",
+      "kategorya": "pressure",
+      "pangalan": "pascal",
+      "suleras_isahan": "{0} pascal",
+      "suleras_maramihan": "{0} pascals",
+      "maikling_suleras": "{0} Pa",
+      "makitid_na_suleras": "{0} Pa"
+    },
+    {
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategorya": "pressure",
+      "pangalan": "libra kada pulgadang parisukat",
+      "suleras_isahan": "{0} libra kada pulgadang parisukat",
+      "suleras_maramihan": "{0} na libra kada pulgadang parisukat",
+      "maikling_suleras": "{0} psi",
+      "makitid_na_suleras": "{0}psi"
+    },
+    {
+      "unit_code": "speed-beaufort",
+      "kategorya": "speed",
+      "pangalan": "Beaufort",
+      "suleras_isahan": "Beaufort {0}",
+      "suleras_maramihan": "Beaufort {0}",
+      "maikling_suleras": "B {0}",
+      "makitid_na_suleras": "B {0}"
+    },
+    {
+      "unit_code": "speed-kilometer-per-hour",
+      "kategorya": "speed",
+      "pangalan": "kilometro kada oras",
+      "suleras_isahan": "{0} kilometro kada oras",
+      "suleras_maramihan": "{0} na kilometro kada oras",
+      "maikling_suleras": "{0} kph",
+      "makitid_na_suleras": "{0}kph"
+    },
+    {
+      "unit_code": "speed-knot",
+      "kategorya": "speed",
+      "pangalan": "knot",
+      "suleras_isahan": "{0} knot",
+      "suleras_maramihan": "{0} na knot",
+      "maikling_suleras": "{0} kn",
+      "makitid_na_suleras": "{0}kn"
+    },
+    {
+      "unit_code": "speed-meter-per-second",
+      "kategorya": "speed",
+      "pangalan": "metro kada segundo",
+      "suleras_isahan": "{0} metro kada segundo",
+      "suleras_maramihan": "{0} metro kada segundo",
+      "maikling_suleras": "{0} m/s",
+      "makitid_na_suleras": "{0}m/s"
+    },
+    {
+      "unit_code": "speed-mile-per-hour",
+      "kategorya": "speed",
+      "pangalan": "milya kada oras",
+      "suleras_isahan": "{0} milya kada oras",
+      "suleras_maramihan": "{0} milya kada oras",
+      "maikling_suleras": "{0} mph",
+      "makitid_na_suleras": "{0}mph"
+    },
+    {
+      "unit_code": "temperature-celsius",
+      "kategorya": "temperature",
+      "pangalan": "degrees Celsius",
+      "suleras_isahan": "{0} degree Celsius",
+      "suleras_maramihan": "{0} degrees Celsius",
+      "maikling_suleras": "{0}°C",
+      "makitid_na_suleras": "{0}°C"
+    },
+    {
+      "unit_code": "temperature-fahrenheit",
+      "kategorya": "temperature",
+      "pangalan": "degrees Fahrenheit",
+      "suleras_isahan": "{0} degree Fahrenheit",
+      "suleras_maramihan": "{0} degrees Fahrenheit",
+      "maikling_suleras": "{0}°F",
+      "makitid_na_suleras": "{0}°F"
+    },
+    {
+      "unit_code": "temperature-generic",
+      "kategorya": "temperature",
+      "pangalan": "°",
+      "suleras_isahan": "{0}°",
+      "suleras_maramihan": "{0}°",
+      "maikling_suleras": "{0}°",
+      "makitid_na_suleras": "{0}°"
+    },
+    {
+      "unit_code": "temperature-kelvin",
+      "kategorya": "temperature",
+      "pangalan": "degrees kelvin",
+      "suleras_isahan": "{0} degree kelvin",
+      "suleras_maramihan": "{0} degrees kelvin",
+      "maikling_suleras": "{0}°K",
+      "makitid_na_suleras": "{0}K"
+    },
+    {
+      "unit_code": "torque-newton-meter",
+      "kategorya": "torque",
+      "pangalan": "newton-meter",
+      "suleras_isahan": "{0} newton-meter",
+      "suleras_maramihan": "{0} newton-meter",
+      "maikling_suleras": "{0} N⋅m",
+      "makitid_na_suleras": "{0} N⋅m"
+    },
+    {
+      "unit_code": "torque-pound-force-foot",
+      "kategorya": "torque",
+      "pangalan": "pound-feet",
+      "suleras_isahan": "{0} pound-force-foot",
+      "suleras_maramihan": "{0} pound-feet",
+      "maikling_suleras": "{0} lbf⋅ft",
+      "makitid_na_suleras": "{0} lbf⋅ft"
+    },
+    {
+      "unit_code": "volume-acre-foot",
+      "kategorya": "volume",
+      "pangalan": "acre-feet",
+      "suleras_isahan": "{0} acre-foot",
+      "suleras_maramihan": "{0} acre-feet",
+      "maikling_suleras": "{0} ac ft",
+      "makitid_na_suleras": "{0} ac ft"
+    },
+    {
+      "unit_code": "volume-barrel",
+      "kategorya": "volume",
+      "pangalan": "bariles",
+      "suleras_isahan": "{0} bariles",
+      "suleras_maramihan": "{0} bariles",
+      "maikling_suleras": "{0} bbl",
+      "makitid_na_suleras": "{0} bbl"
+    },
+    {
+      "unit_code": "volume-bushel",
+      "kategorya": "volume",
+      "pangalan": "mga bushel",
+      "suleras_isahan": "{0} bushel",
+      "suleras_maramihan": "{0} mga bushel",
+      "maikling_suleras": "{0} bu",
+      "makitid_na_suleras": "{0} bu"
+    },
+    {
+      "unit_code": "volume-centiliter",
+      "kategorya": "volume",
+      "pangalan": "sentilitro",
+      "suleras_isahan": "{0} sentilitro",
+      "suleras_maramihan": "{0} sentilitro",
+      "maikling_suleras": "{0} cL",
+      "makitid_na_suleras": "{0} cL"
+    },
+    {
+      "unit_code": "volume-cubic-centimeter",
+      "kategorya": "volume",
+      "pangalan": "kubiko sentimetro",
+      "suleras_isahan": "{0} kubiko sentimetro",
+      "suleras_maramihan": "{0} na sentimetro kubiko",
+      "maikling_suleras": "{0} cm³",
+      "makitid_na_suleras": "{0} cm³"
+    },
+    {
+      "unit_code": "volume-cubic-foot",
+      "kategorya": "volume",
+      "pangalan": "kubiko talampakan",
+      "suleras_isahan": "{0} kubiko talampakan",
+      "suleras_maramihan": "{0} kubiko talampakan",
+      "maikling_suleras": "{0} ft³",
+      "makitid_na_suleras": "{0} ft³"
+    },
+    {
+      "unit_code": "volume-cubic-inch",
+      "kategorya": "volume",
+      "pangalan": "kubiko pulgada",
+      "suleras_isahan": "{0} kubiko pulgada",
+      "suleras_maramihan": "{0} kubiko pulgada",
+      "maikling_suleras": "{0} in³",
+      "makitid_na_suleras": "{0} in³"
+    },
+    {
+      "unit_code": "volume-cubic-kilometer",
+      "kategorya": "volume",
+      "pangalan": "kubiko kilometro",
+      "suleras_isahan": "{0} kubiko kilometro",
+      "suleras_maramihan": "{0} kubiko kilometro",
+      "maikling_suleras": "{0} km³",
+      "makitid_na_suleras": "{0}km³"
+    },
+    {
+      "unit_code": "volume-cubic-meter",
+      "kategorya": "volume",
+      "pangalan": "kubiko metro",
+      "suleras_isahan": "{0} kubiko metro",
+      "suleras_maramihan": "{0} na metro kubiko",
+      "maikling_suleras": "{0} m³",
+      "makitid_na_suleras": "{0} m³"
+    },
+    {
+      "unit_code": "volume-cubic-mile",
+      "kategorya": "volume",
+      "pangalan": "kubiko milya",
+      "suleras_isahan": "{0} kubiko milya",
+      "suleras_maramihan": "{0} kubiko milya",
+      "maikling_suleras": "{0} mi³",
+      "makitid_na_suleras": "{0}mi³"
+    },
+    {
+      "unit_code": "volume-cubic-yard",
+      "kategorya": "volume",
+      "pangalan": "kubiko yarda",
+      "suleras_isahan": "{0} kubiko yarda",
+      "suleras_maramihan": "{0} kubiko yarda",
+      "maikling_suleras": "{0} yd³",
+      "makitid_na_suleras": "{0} yd³"
+    },
+    {
+      "unit_code": "volume-cup",
+      "kategorya": "volume",
+      "pangalan": "tasa",
+      "suleras_isahan": "{0} tasa",
+      "suleras_maramihan": "{0} na tasa",
+      "maikling_suleras": "{0} c",
+      "makitid_na_suleras": "{0} c"
+    },
+    {
+      "unit_code": "volume-cup-metric",
+      "kategorya": "volume",
+      "pangalan": "metric cups",
+      "suleras_isahan": "{0} metric cup",
+      "suleras_maramihan": "{0} na metric cup",
+      "maikling_suleras": "{0} na mc",
+      "makitid_na_suleras": "{0} na mc"
+    },
+    {
+      "unit_code": "volume-deciliter",
+      "kategorya": "volume",
+      "pangalan": "decilitro",
+      "suleras_isahan": "{0} decilitro",
+      "suleras_maramihan": "{0} na decilitro",
+      "maikling_suleras": "{0} dL",
+      "makitid_na_suleras": "{0} dL"
+    },
+    {
+      "unit_code": "volume-dessert-spoon",
+      "kategorya": "volume",
+      "pangalan": "kutsarang panghimagas",
+      "suleras_isahan": "{0} kutsarang panghimagas",
+      "suleras_maramihan": "{0} kutsarang panghimagas",
+      "maikling_suleras": "{0} dstspn",
+      "makitid_na_suleras": "{0} dsp"
+    },
+    {
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategorya": "volume",
+      "pangalan": "Imp. na kutsarang panghimagas",
+      "suleras_isahan": "{0} Imp. na kutsarang panghimagas",
+      "suleras_maramihan": "{0} Imp. na kutsarang panghimagas",
+      "maikling_suleras": "{0} dstspn Imp",
+      "makitid_na_suleras": "{0}dsp-Imp"
+    },
+    {
+      "unit_code": "volume-dram",
+      "kategorya": "volume",
+      "pangalan": "dram",
+      "suleras_isahan": "{0} dram",
+      "suleras_maramihan": "{0} dram",
+      "maikling_suleras": "{0} dram fl",
+      "makitid_na_suleras": "{0}fl.dr."
+    },
+    {
+      "unit_code": "volume-drop",
+      "kategorya": "volume",
+      "pangalan": "patak",
+      "suleras_isahan": "{0} patak",
+      "suleras_maramihan": "{0} patak",
+      "maikling_suleras": "{0} patak",
+      "makitid_na_suleras": "{0} patak"
+    },
+    {
+      "unit_code": "volume-fluid-ounce",
+      "kategorya": "volume",
+      "pangalan": "fluid ounces",
+      "suleras_isahan": "{0} fluid ounce",
+      "suleras_maramihan": "{0} na fluid ounce",
+      "maikling_suleras": "{0} fl oz",
+      "makitid_na_suleras": "{0} fl oz"
+    },
+    {
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategorya": "volume",
+      "pangalan": "Imp. fluid ounce",
+      "suleras_isahan": "{0} Imp. fluid ounce",
+      "suleras_maramihan": "{0} Imp. fluid ounce",
+      "maikling_suleras": "{0} fl oz Imp.",
+      "makitid_na_suleras": "{0}fl oz Im"
+    },
+    {
+      "unit_code": "volume-gallon",
+      "kategorya": "volume",
+      "pangalan": "galon",
+      "suleras_isahan": "{0} galon",
+      "suleras_maramihan": "{0} na galon",
+      "maikling_suleras": "{0} na gal",
+      "makitid_na_suleras": "{0} na gal"
+    },
+    {
+      "unit_code": "volume-gallon-imperial",
+      "kategorya": "volume",
+      "pangalan": "Imp. gal",
+      "suleras_isahan": "{0} gal Imp.",
+      "suleras_maramihan": "{0} gal Imp.",
+      "maikling_suleras": "{0} gal Imp.",
+      "makitid_na_suleras": "{0} gal Imp."
+    },
+    {
+      "unit_code": "volume-hectoliter",
+      "kategorya": "volume",
+      "pangalan": "hektolitro",
+      "suleras_isahan": "{0} hektolitro",
+      "suleras_maramihan": "{0} hektolitro",
+      "maikling_suleras": "{0} hL",
+      "makitid_na_suleras": "{0} hL"
+    },
+    {
+      "unit_code": "volume-jigger",
+      "kategorya": "volume",
+      "pangalan": "jigger",
+      "suleras_isahan": "{0} jigger",
+      "suleras_maramihan": "{0} jigger",
+      "maikling_suleras": "{0} jigger",
+      "makitid_na_suleras": "{0}jigger"
+    },
+    {
+      "unit_code": "volume-liter",
+      "kategorya": "volume",
+      "pangalan": "litro",
+      "suleras_isahan": "{0} litro",
+      "suleras_maramihan": "{0} na litro",
+      "maikling_suleras": "{0} L",
+      "makitid_na_suleras": "{0}L"
+    },
+    {
+      "unit_code": "volume-megaliter",
+      "kategorya": "volume",
+      "pangalan": "megalitro",
+      "suleras_isahan": "{0} megalitro",
+      "suleras_maramihan": "{0} megalitro",
+      "maikling_suleras": "{0} ML",
+      "makitid_na_suleras": "{0} ML"
+    },
+    {
+      "unit_code": "volume-milliliter",
+      "kategorya": "volume",
+      "pangalan": "mililitro",
+      "suleras_isahan": "{0} mililitro",
+      "suleras_maramihan": "{0} mililitro",
+      "maikling_suleras": "{0} mL",
+      "makitid_na_suleras": "{0} mL"
+    },
+    {
+      "unit_code": "volume-pinch",
+      "kategorya": "volume",
+      "pangalan": "karampot",
+      "suleras_isahan": "{0} kurot",
+      "suleras_maramihan": "{0} kurot",
+      "maikling_suleras": "{0} kurot",
+      "makitid_na_suleras": "{0} kurot"
+    },
+    {
+      "unit_code": "volume-pint",
+      "kategorya": "volume",
+      "pangalan": "pints",
+      "suleras_isahan": "{0} pint",
+      "suleras_maramihan": "{0} pints",
+      "maikling_suleras": "{0} pt",
+      "makitid_na_suleras": "{0} pt"
+    },
+    {
+      "unit_code": "volume-pint-metric",
+      "kategorya": "volume",
+      "pangalan": "metric pints",
+      "suleras_isahan": "{0} metric pint",
+      "suleras_maramihan": "{0} na metric pint",
+      "maikling_suleras": "{0} na mpt",
+      "makitid_na_suleras": "{0} mpt"
+    },
+    {
+      "unit_code": "volume-quart",
+      "kategorya": "volume",
+      "pangalan": "quarts",
+      "suleras_isahan": "{0} quart",
+      "suleras_maramihan": "{0} na quarts",
+      "maikling_suleras": "{0} qt",
+      "makitid_na_suleras": "{0} qt"
+    },
+    {
+      "unit_code": "volume-quart-imperial",
+      "kategorya": "volume",
+      "pangalan": "Imp. na kuwart",
+      "suleras_isahan": "{0} Imp. na kuwart",
+      "suleras_maramihan": "{0} Imp. na kuwart",
+      "maikling_suleras": "{0} qt Imp.",
+      "makitid_na_suleras": "{0}qt-Imp."
+    },
+    {
+      "unit_code": "volume-tablespoon",
+      "kategorya": "volume",
+      "pangalan": "kutsara",
+      "suleras_isahan": "{0} kutsara",
+      "suleras_maramihan": "{0} kutsara",
+      "maikling_suleras": "{0} tbsp",
+      "makitid_na_suleras": "{0} kutsara"
+    },
+    {
+      "unit_code": "volume-teaspoon",
+      "kategorya": "volume",
+      "pangalan": "kutsarita",
+      "suleras_isahan": "{0} kutsarita",
+      "suleras_maramihan": "{0} kutsarita",
+      "maikling_suleras": "{0} tsp",
+      "makitid_na_suleras": "{0} kutsarita"
+    }
+  ],
+  "meta": {
+    "title": "Mga Yunit ng Sukatan (CLDR Filipino) - Free Download",
+    "description": "Mga yunit ng sukatan at ang kanilang mga pangalan at suleras sa Filipino mula sa CLDR units.json (long/short/narrow). Contains 185 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Yunit ng Sukatan (CLDR Filipino) | ListBase",
+    "seo_description": "Download Mga Yunit ng Sukatan (CLDR Filipino) — 185 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 185 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr"
+    ]
+  }
+}

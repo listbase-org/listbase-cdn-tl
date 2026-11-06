@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-05T02:27:27.851Z",
-  "total_datasets": 491,
-  "total_records": 446789,
+  "generated": "2026-11-06T02:18:22.193Z",
+  "total_datasets": 492,
+  "total_records": 446974,
   "categories": [
     {
       "id": "agriculture",
@@ -95,6 +95,10 @@
     {
       "id": "transport",
       "dataset_count": 29
+    },
+    {
+      "id": "units",
+      "dataset_count": 1
     }
   ],
   "datasets": [
@@ -15412,6 +15416,34 @@
         "xlsx": {
           "name": "tl-zamboanga-peninsula-paliparan_TL.xlsx",
           "size": 7220
+        }
+      }
+    },
+    {
+      "id": "tl-mga-yunit-ng-sukatan",
+      "name": "Mga Yunit ng Sukatan (CLDR Filipino)",
+      "category": "units",
+      "record_count": 185,
+      "columns": [
+        "unit_code",
+        "kategorya",
+        "pangalan",
+        "suleras_isahan",
+        "suleras_maramihan",
+        "maikling_suleras",
+        "makitid_na_suleras"
+      ],
+      "source": "https://github.com/unicode-org/cldr",
+      "updated": "2026-11",
+      "size": 53417,
+      "files": {
+        "csv": {
+          "name": "tl-mga-yunit-ng-sukatan_TL.csv",
+          "size": 18377
+        },
+        "xlsx": {
+          "name": "tl-mga-yunit-ng-sukatan_TL.xlsx",
+          "size": 15971
         }
       }
     }
