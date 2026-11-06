@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-06T02:19:18.268Z",
-  "total_datasets": 498,
-  "total_records": 447559,
+  "generated": "2026-11-06T02:19:28.229Z",
+  "total_datasets": 499,
+  "total_records": 447564,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -13942,6 +13942,34 @@
         "xlsx": {
           "name": "tl-lindol-katalog_TL.xlsx",
           "size": 4110150
+        }
+      }
+    },
+    {
+      "id": "tl-mga-babala-ng-bagyo-psws",
+      "name": "Mga Babala ng Bagyo ng PAGASA (PSWS)",
+      "category": "science",
+      "record_count": 5,
+      "columns": [
+        "psws",
+        "bilis_ng_hangin",
+        "oras_ng_babala",
+        "halimbawang_bagyo",
+        "kalagayan_ng_dagat",
+        "pinsala_sa_istraktura",
+        "pinsala_sa_taniman"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Bagyo",
+      "updated": "2026-11",
+      "size": 5636,
+      "files": {
+        "csv": {
+          "name": "tl-mga-babala-ng-bagyo-psws_TL.csv",
+          "size": 2844
+        },
+        "xlsx": {
+          "name": "tl-mga-babala-ng-bagyo-psws_TL.xlsx",
+          "size": 7857
         }
       }
     },
