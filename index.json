@@ -1,12 +1,12 @@
 {
   "lang": "tl",
-  "generated": "2026-11-06T02:18:51.736Z",
-  "total_datasets": 495,
-  "total_records": 447049,
+  "generated": "2026-11-06T02:19:00.458Z",
+  "total_datasets": 496,
+  "total_records": 447150,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -126,6 +126,29 @@
         "xlsx": {
           "name": "tl-mga-kalihim-ng-agrikultura_TL.xlsx",
           "size": 9391
+        }
+      }
+    },
+    {
+      "id": "tl-mga-prutas-at-gulay",
+      "name": "Mga Prutas at Gulay (Wikipedia Filipino)",
+      "category": "agriculture",
+      "record_count": 101,
+      "columns": [
+        "pangalan",
+        "uri"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kategorya:Prutas",
+      "updated": "2026-11",
+      "size": 7940,
+      "files": {
+        "csv": {
+          "name": "tl-mga-prutas-at-gulay_TL.csv",
+          "size": 1990
+        },
+        "xlsx": {
+          "name": "tl-mga-prutas-at-gulay_TL.xlsx",
+          "size": 8441
         }
       }
     },
