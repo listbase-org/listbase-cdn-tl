@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-06T02:19:28.229Z",
-  "total_datasets": 499,
-  "total_records": 447564,
+  "generated": "2026-11-06T02:19:36.767Z",
+  "total_datasets": 500,
+  "total_records": 447653,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -14337,6 +14337,34 @@
         "xlsx": {
           "name": "tl-mga-frequency-ng-smart_TL.xlsx",
           "size": 7383
+        }
+      }
+    },
+    {
+      "id": "tl-mga-himpilan-ng-gma-network",
+      "name": "Mga Himpilan ng GMA Network",
+      "category": "tech",
+      "record_count": 89,
+      "columns": [
+        "callsign",
+        "channel",
+        "frequency",
+        "uri",
+        "tpo",
+        "lokasyon",
+        "format"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_GMA_Network",
+      "updated": "2026-11",
+      "size": 20069,
+      "files": {
+        "csv": {
+          "name": "tl-mga-himpilan-ng-gma-network_TL.csv",
+          "size": 6466
+        },
+        "xlsx": {
+          "name": "tl-mga-himpilan-ng-gma-network_TL.xlsx",
+          "size": 10560
         }
       }
     },

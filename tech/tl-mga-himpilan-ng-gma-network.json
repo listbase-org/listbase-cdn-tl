@@ -1,0 +1,862 @@
+{
+  "id": "tl-mga-himpilan-ng-gma-network",
+  "name": "Mga Himpilan ng GMA Network",
+  "title": "Mga Himpilan ng GMA Network",
+  "description": "Mga himpilang analog at digital ng GMA Network sa buong Pilipinas, kasama ang callsign, channel, TPO at lokasyon ng transmiter.",
+  "category": "tech",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_GMA_Network",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_GMA_Network",
+  "updated": "2026-11",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "callsign",
+      "label": "Callsign",
+      "type": "string"
+    },
+    {
+      "key": "channel",
+      "label": "Channel",
+      "type": "number"
+    },
+    {
+      "key": "frequency",
+      "label": "Frequency",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "tpo",
+      "label": "Tpo",
+      "type": "string"
+    },
+    {
+      "key": "lokasyon",
+      "label": "Lokasyon",
+      "type": "string"
+    },
+    {
+      "key": "format",
+      "label": "Format",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "callsign": "DZBB",
+      "channel": "7",
+      "frequency": "",
+      "uri": "Originating",
+      "tpo": "60 kW",
+      "lokasyon": "Lungsod ng Quezon",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWAZ",
+      "channel": "7",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "0.1 kW",
+      "lokasyon": "Basco, Batanes",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-5-AS",
+      "channel": "5",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "San Nicolas, Ilocos Norte",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWBC",
+      "channel": "48",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Bantay, Ilocos Sur",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-7-ZG",
+      "channel": "7",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Peñarrubia, Abra",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWBB",
+      "channel": "7",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Tuguegarao, Cagayan",
+      "format": "analog"
+    },
+    {
+      "callsign": "DZBB",
+      "channel": "13",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Aparri, Cagayan",
+      "format": "analog"
+    },
+    {
+      "callsign": "DZVG",
+      "channel": "5",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "10 kW",
+      "lokasyon": "Barlig, Lalawigang Bulubundukin",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWLE",
+      "channel": "7",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "2 kW",
+      "lokasyon": "Lungsod ng Santiago",
+      "format": "analog"
+    },
+    {
+      "callsign": "DZEA",
+      "channel": "10",
+      "frequency": "",
+      "uri": "Originating",
+      "tpo": "20 kW",
+      "lokasyon": "Tuba, Benguet",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-5-ZB",
+      "channel": "5",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "0.005 kW",
+      "lokasyon": "Baler, Aurora",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWNS",
+      "channel": "10",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "0.2 kW",
+      "lokasyon": "Lungsod ng Olongapo",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-12-ZB",
+      "channel": "12",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Batangas",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWJJ",
+      "channel": "44",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "3 kW",
+      "lokasyon": "Jalajala, Rizal",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-13-ZR",
+      "channel": "13",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "2 kW",
+      "lokasyon": "San Jose, Occidental Mindoro",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYPU",
+      "channel": "12",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Puerto Princesa",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYAA",
+      "channel": "6",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "0.1 kW",
+      "lokasyon": "Brooke's Point, Palawan",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWRF",
+      "channel": "8",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "0.1 kW",
+      "lokasyon": "Coron, Palawan",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWTR",
+      "channel": "7",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "10 kW",
+      "lokasyon": "Isla ng Tablas, Romblon",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYRD",
+      "channel": "7",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Mobo, Masbate",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWAI",
+      "channel": "7",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "30 kW",
+      "lokasyon": "Lungsod ng Naga, Camarines Sur",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWLA",
+      "channel": "12",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "10 kW",
+      "lokasyon": "Lungsod ng Legazpi, Albay",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-13-ZC",
+      "channel": "13",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "2 kW",
+      "lokasyon": "Virac, Catanduanes",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWGA",
+      "channel": "2",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "2 kW",
+      "lokasyon": "Juban, Sorsogon",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWGC",
+      "channel": "8",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Daet, Camarines Norte",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYBB",
+      "channel": "2",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Numancia, Aklan",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYAM",
+      "channel": "5",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "2 kW",
+      "lokasyon": "Lungsod ng Roxas, Capiz",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYXX",
+      "channel": "6",
+      "frequency": "",
+      "uri": "Originating",
+      "tpo": "5 kW",
+      "lokasyon": "Jordan, Guimaras",
+      "format": "analog"
+    },
+    {
+      "callsign": "DWGM",
+      "channel": "13",
+      "frequency": "",
+      "uri": "Semi-satellite",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Bacolod",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYGM",
+      "channel": "30",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "40 kW",
+      "lokasyon": "Murcia, Negros Occidental",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-10-YA",
+      "channel": "10",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "0.01 kW",
+      "lokasyon": "Lungsod ng Sipalay, Negros Occidental",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYSS",
+      "channel": "7",
+      "frequency": "",
+      "uri": "Originating",
+      "tpo": "50 kW",
+      "lokasyon": "Lungsod ng Cebu",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-11-YE",
+      "channel": "11",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "2 kW",
+      "lokasyon": "Lungsod ng Tagbilaran, Bohol",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-5-YB",
+      "channel": "5",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Valencia, Negros Oriental",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYCL",
+      "channel": "10",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Tacloban",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYIL",
+      "channel": "12",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Ormoc",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYAS",
+      "channel": "5",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Calbayog, Samar",
+      "format": "analog"
+    },
+    {
+      "callsign": "DYVB",
+      "channel": "8",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Borongan, Silangang Samar",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXJC",
+      "channel": "35",
+      "frequency": "",
+      "uri": "Semi-satellite",
+      "tpo": "20 kW",
+      "lokasyon": "Lungsod ng Cagayan de Oro",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXMK",
+      "channel": "12",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "10 kW",
+      "lokasyon": "Bundok Kitanglad, Bukidnon",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-4-XT",
+      "channel": "4",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Dipolog, Zamboanga del Norte",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXGM",
+      "channel": "5",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Ozamiz, Misamis Occidental",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXEJ",
+      "channel": "3",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Pagadian, Zamboanga del Sur",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXRV",
+      "channel": "11",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "2 kW",
+      "lokasyon": "Lungsod ng Iligan",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXBM",
+      "channel": "26",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Butuan",
+      "format": "analog"
+    },
+    {
+      "callsign": "D-10-XA",
+      "channel": "10",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Surigao, Surigao del Norte",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXRC",
+      "channel": "2",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Tandag, Surigao del Sur",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXMJ",
+      "channel": "5",
+      "frequency": "",
+      "uri": "Originating",
+      "tpo": "25 kW",
+      "lokasyon": "Lungsod ng Dabaw",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXBG",
+      "channel": "8",
+      "frequency": "",
+      "uri": "Semi-satellite",
+      "tpo": "10 kW",
+      "lokasyon": "Lungsod ng Heneral Santos",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXLA",
+      "channel": "9",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Zamboanga",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXNS",
+      "channel": "12",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Kotabato",
+      "format": "analog"
+    },
+    {
+      "callsign": "DXLS",
+      "channel": "12",
+      "frequency": "",
+      "uri": "Relay",
+      "tpo": "0.1 kW",
+      "lokasyon": "Jolo, Sulu",
+      "format": "analog"
+    },
+    {
+      "callsign": "DZBB",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "Originating",
+      "tpo": "15 kW",
+      "lokasyon": "Lungsod ng Quezon",
+      "format": "digital"
+    },
+    {
+      "callsign": "DZBB",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "SFN relay",
+      "tpo": "10 kW",
+      "lokasyon": "Lungsod ng Makati",
+      "format": "digital"
+    },
+    {
+      "callsign": "DZBB",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "SFN relay",
+      "tpo": "3 kW",
+      "lokasyon": "Lungsod ng Maynila",
+      "format": "digital"
+    },
+    {
+      "callsign": "DZBB",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "SFN relay",
+      "tpo": "15 kW",
+      "lokasyon": "Lungsod ng Antipolo, Rizal",
+      "format": "digital"
+    },
+    {
+      "callsign": "DZBB",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "SFN relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Angeles",
+      "format": "digital"
+    },
+    {
+      "callsign": "DZBB",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "SFN relay",
+      "tpo": "3 kW",
+      "lokasyon": "Lungsod ng Cabanatuan, Nueva Ecija",
+      "format": "digital"
+    },
+    {
+      "callsign": "DZBB",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "SFN relay",
+      "tpo": "3 kW",
+      "lokasyon": "Lungsod ng Malolos, Bulacan",
+      "format": "digital"
+    },
+    {
+      "callsign": "D-5-AS",
+      "channel": "24",
+      "frequency": "533.143 MHz",
+      "uri": "Relay",
+      "tpo": "10 kW",
+      "lokasyon": "San Nicolas, Ilocos Norte",
+      "format": "digital"
+    },
+    {
+      "callsign": "DWBC",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Bantay, Ilocos Sur",
+      "format": "digital"
+    },
+    {
+      "callsign": "DZVG",
+      "channel": "29",
+      "frequency": "569.143 MHz",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Barlig, Lalawigang Bulubundukin",
+      "format": "digital"
+    },
+    {
+      "callsign": "DWLE",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Santiago",
+      "format": "digital"
+    },
+    {
+      "callsign": "DZEA",
+      "channel": "38",
+      "frequency": "617.143 MHz",
+      "uri": "Originating",
+      "tpo": "15 kW",
+      "lokasyon": "Tuba, Benguet",
+      "format": "digital"
+    },
+    {
+      "callsign": "DZEA",
+      "channel": "38",
+      "frequency": "617.143 MHz",
+      "uri": "SFN relay",
+      "tpo": "3 kW",
+      "lokasyon": "Lungsod ng Cabanatuan, Nueva Ecija",
+      "format": "digital"
+    },
+    {
+      "callsign": "DWNS",
+      "channel": "38",
+      "frequency": "617.143 MHz",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Olongapo",
+      "format": "digital"
+    },
+    {
+      "callsign": "D-12-ZB",
+      "channel": "32",
+      "frequency": "581.143 MHz",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Batangas",
+      "format": "digital"
+    },
+    {
+      "callsign": "D-12-ZB",
+      "channel": "32",
+      "frequency": "581.143 MHz",
+      "uri": "SFN Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng San Pablo, Laguna",
+      "format": "digital"
+    },
+    {
+      "callsign": "DWJJ",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "Relay",
+      "tpo": "3 kW",
+      "lokasyon": "Jalajala, Rizal",
+      "format": "digital"
+    },
+    {
+      "callsign": "D-13-ZR",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "Relay",
+      "tpo": "2 kW",
+      "lokasyon": "San Jose, Occidental Mindoro",
+      "format": "digital"
+    },
+    {
+      "callsign": "DYPU",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Puerto Princesa",
+      "format": "digital"
+    },
+    {
+      "callsign": "DWAI",
+      "channel": "38",
+      "frequency": "617.143 MHz",
+      "uri": "Relay",
+      "tpo": "10 kW",
+      "lokasyon": "Lungsod ng Naga, Camarines Sur",
+      "format": "digital"
+    },
+    {
+      "callsign": "DWLA",
+      "channel": "41",
+      "frequency": "635.143 MHz",
+      "uri": "Relay",
+      "tpo": "10 kW",
+      "lokasyon": "Lungsod ng Legazpi, Albay",
+      "format": "digital"
+    },
+    {
+      "callsign": "DYAM",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Roxas, Capiz",
+      "format": "digital"
+    },
+    {
+      "callsign": "DYXX",
+      "channel": "29",
+      "frequency": "563.143 MHz",
+      "uri": "Originating",
+      "tpo": "15 kW",
+      "lokasyon": "Jordan, Guimaras",
+      "format": "digital"
+    },
+    {
+      "callsign": "DWGM",
+      "channel": "44",
+      "frequency": "653.143 MHz",
+      "uri": "Semi-satellite",
+      "tpo": "10 kW",
+      "lokasyon": "Lungsod ng Bacolod",
+      "format": "digital"
+    },
+    {
+      "callsign": "DYGM",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Murcia, Negros Occidental",
+      "format": "digital"
+    },
+    {
+      "callsign": "DYGM",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "SFN relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Cadiz, Negros Occidental",
+      "format": "digital"
+    },
+    {
+      "callsign": "DYSS",
+      "channel": "26",
+      "frequency": "545.143 MHz",
+      "uri": "Originating",
+      "tpo": "15 kW",
+      "lokasyon": "Lungsod ng Cebu",
+      "format": "digital"
+    },
+    {
+      "callsign": "D-5-YB",
+      "channel": "22",
+      "frequency": "521.143 MHz",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Valencia, Negros Oriental",
+      "format": "digital"
+    },
+    {
+      "callsign": "DYCL",
+      "channel": "34",
+      "frequency": "593.143 MHz",
+      "uri": "Relay",
+      "tpo": "10 kW",
+      "lokasyon": "Lungsod ng Tacloban",
+      "format": "digital"
+    },
+    {
+      "callsign": "DXDZ",
+      "channel": "47",
+      "frequency": "671.143 MHz",
+      "uri": "Semi-satellite",
+      "tpo": "10 kW",
+      "lokasyon": "Lungsod ng Cagayan de Oro",
+      "format": "digital"
+    },
+    {
+      "callsign": "DXMK",
+      "channel": "44",
+      "frequency": "653.143 MHz",
+      "uri": "Relay",
+      "tpo": "10 kW",
+      "lokasyon": "Bundok Kitanglad, Bukidnon",
+      "format": "digital"
+    },
+    {
+      "callsign": "D-4-XT",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "Relay",
+      "tpo": "1 kW",
+      "lokasyon": "Lungsod ng Dipolog, Zamboanga del Norte",
+      "format": "digital"
+    },
+    {
+      "callsign": "DXRV",
+      "channel": "33",
+      "frequency": "587.143 MHz",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Iligan",
+      "format": "digital"
+    },
+    {
+      "callsign": "DXBM",
+      "channel": "15",
+      "frequency": "479.143 MHz",
+      "uri": "Relay",
+      "tpo": "5 kW",
+      "lokasyon": "Lungsod ng Butuan",
+      "format": "digital"
+    },
+    {
+      "callsign": "DXMJ",
+      "channel": "37",
+      "frequency": "611.143 MHz",
+      "uri": "Originating",
+      "tpo": "15 kW",
+      "lokasyon": "Lungsod ng Dabaw",
+      "format": "digital"
+    },
+    {
+      "callsign": "DXBG",
+      "channel": "34",
+      "frequency": "593.143 MHz",
+      "uri": "Semi-satellite",
+      "tpo": "10 kW",
+      "lokasyon": "Lungsod ng Heneral Santos",
+      "format": "digital"
+    },
+    {
+      "callsign": "DXLA",
+      "channel": "41",
+      "frequency": "635.143 MHz",
+      "uri": "Relay",
+      "tpo": "15 kW",
+      "lokasyon": "Lungsod ng Zamboanga",
+      "format": "digital"
+    }
+  ],
+  "meta": {
+    "title": "Mga Himpilan ng GMA Network - Free Download",
+    "description": "Mga himpilang analog at digital ng GMA Network sa buong Pilipinas, kasama ang callsign, channel, TPO at lokasyon ng transmiter. Contains 89 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Himpilan ng GMA Network | ListBase",
+    "seo_description": "Download Mga Himpilan ng GMA Network — 89 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 89 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_GMA_Network"
+    ]
+  }
+}
