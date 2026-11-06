@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-06T02:19:00.458Z",
-  "total_datasets": 496,
-  "total_records": 447150,
+  "generated": "2026-11-06T02:19:09.753Z",
+  "total_datasets": 497,
+  "total_records": 447214,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "environment",
@@ -3307,6 +3307,35 @@
         "xlsx": {
           "name": "tl-zamboanga-peninsula-shs-paaralan_TL.xlsx",
           "size": 27806
+        }
+      }
+    },
+    {
+      "id": "tl-mga-himpilan-ng-radyo-sa-cebu",
+      "name": "Mga Himpilan ng Radyo sa Cebu (AM at FM)",
+      "category": "entertainment",
+      "record_count": 64,
+      "columns": [
+        "frequency",
+        "call_sign",
+        "tatak",
+        "lakas_kw",
+        "kumpanya",
+        "lokasyon",
+        "sinasaklaw",
+        "banda"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Cebu",
+      "updated": "2026-11",
+      "size": 20016,
+      "files": {
+        "csv": {
+          "name": "tl-mga-himpilan-ng-radyo-sa-cebu_TL.csv",
+          "size": 7751
+        },
+        "xlsx": {
+          "name": "tl-mga-himpilan-ng-radyo-sa-cebu_TL.xlsx",
+          "size": 10769
         }
       }
     },

@@ -1,0 +1,706 @@
+{
+  "id": "tl-mga-himpilan-ng-radyo-sa-cebu",
+  "name": "Mga Himpilan ng Radyo sa Cebu (AM at FM)",
+  "title": "Mga Himpilan ng Radyo sa Cebu (AM at FM)",
+  "description": "Talaan ng mga himpilang AM at FM sa Cebu, kasama ang frequency, call sign, tatak, lakas, kumpanya at saklaw.",
+  "category": "entertainment",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Cebu",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Cebu",
+  "updated": "2026-11",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "frequency",
+      "label": "Frequency",
+      "type": "string"
+    },
+    {
+      "key": "call_sign",
+      "label": "Call Sign",
+      "type": "string"
+    },
+    {
+      "key": "tatak",
+      "label": "Tatak",
+      "type": "string"
+    },
+    {
+      "key": "lakas_kw",
+      "label": "Lakas Kw",
+      "type": "number"
+    },
+    {
+      "key": "kumpanya",
+      "label": "Kumpanya",
+      "type": "string"
+    },
+    {
+      "key": "lokasyon",
+      "label": "Lokasyon",
+      "type": "string"
+    },
+    {
+      "key": "sinasaklaw",
+      "label": "Sinasaklaw",
+      "type": "string"
+    },
+    {
+      "key": "banda",
+      "label": "Banda",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "frequency": "540 AM",
+      "call_sign": "DYRB",
+      "tatak": "DYRB 540 Radyo Asenso",
+      "lakas_kw": "10",
+      "kumpanya": "Radio Audience Developers Integrated Org., Inc. (Radio Corporation of the Philippines)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "576 AM",
+      "call_sign": "DYMR",
+      "tatak": "DYMR 576 Radyo ng Bayan",
+      "lakas_kw": "50 (10)",
+      "kumpanya": "Philippine Broadcasting Service",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "612 AM",
+      "call_sign": "DYHP",
+      "tatak": "DYHP 612 RMN Cebu",
+      "lakas_kw": "10",
+      "kumpanya": "Radio Mindanao Network, Inc.",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "648 AM",
+      "call_sign": "DYRC",
+      "tatak": "DYRC 648 Radyo Cebu",
+      "lakas_kw": "5 (10)",
+      "kumpanya": "Manila Broadcasting Company",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "675 AM",
+      "call_sign": "DYKC",
+      "tatak": "DYKC 675 Kusog Cebu",
+      "lakas_kw": "5 (10)",
+      "kumpanya": "Radio Philippines Network",
+      "lokasyon": "Lungsod Mandaue",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "765 AM",
+      "call_sign": "DYAR",
+      "tatak": "DYAR 765 Sonshine Radio",
+      "lakas_kw": "5",
+      "kumpanya": "National Broadcasting Corp./Swara Sug Media Corp.; (Sonshine Media Network International)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "846 AM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "5",
+      "kumpanya": "Prime Broadcasting Network",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "864 AM",
+      "call_sign": "DYHH",
+      "tatak": "",
+      "lakas_kw": "10",
+      "kumpanya": "Sarraga Integrated and Mangmt. Corp.",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "909 AM",
+      "call_sign": "DYLA",
+      "tatak": "DYLA-AM 909 kHz",
+      "lakas_kw": "10",
+      "kumpanya": "Visayas Mindanao Confederation of Trade Union (Vimcontu Broadcasting Corporation)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "963 AM",
+      "call_sign": "DYMF",
+      "tatak": "DYMF 963 Bombo Radyo",
+      "lakas_kw": "10",
+      "kumpanya": "People's Broadcasting Service, Inc. (Bombo Radyo Philippines)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "999 AM",
+      "call_sign": "DYSS",
+      "tatak": "DYSS 999 Super Radyo",
+      "lakas_kw": "10",
+      "kumpanya": "GMA Network, Inc.",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "1152 AM",
+      "call_sign": "DYCM",
+      "tatak": "Bag-ong Adlaw DYCM 1152",
+      "lakas_kw": "10",
+      "kumpanya": "Makati Broadcasting Network Corporation",
+      "lokasyon": "Lungsod Bogo, Cebu",
+      "sinasaklaw": "Lungsod Bogo, Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "1215 AM",
+      "call_sign": "DYRF",
+      "tatak": "DYRF 1215 Radio Fuerza",
+      "lakas_kw": "10 (12)",
+      "kumpanya": "Word Broadcasting Corporation (Catholic Media Network)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "1260 AM",
+      "call_sign": "DYDD",
+      "tatak": "DYDD 1260 El-Nuevo Bantay Radyo",
+      "lakas_kw": "10",
+      "kumpanya": "Sarraga Integrated and Mangmt. Corp. (SIAM Broadcasting Network & Bantay Radyo)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "1305 AM (1332 AM)",
+      "call_sign": "DYFX",
+      "tatak": "DYFX Radyo Agila 1332 Cebu",
+      "lakas_kw": "10",
+      "kumpanya": "Eagle Broadcasting Corporation",
+      "lokasyon": "Lungsod Talisay, Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "1377 AM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "5",
+      "kumpanya": "Manila Broadcasting Corporation",
+      "lokasyon": "Lungsod Bogo, Cebu",
+      "sinasaklaw": "Lungsod Bogo, Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "1395 AM",
+      "call_sign": "DYRC (DYXR)",
+      "tatak": "DZRH Cebu",
+      "lakas_kw": "5 (10)",
+      "kumpanya": "Cebu Broadcasting Company (Manila Broadcasting Company & RH Broadcasting, Inc.)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "1512 AM",
+      "call_sign": "DYAB",
+      "tatak": "DYAB 1512 Radyo Patrol",
+      "lakas_kw": "10",
+      "kumpanya": "ABS-CBN Corporation",
+      "lokasyon": "Lungsod Mandaue",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "1584 AM",
+      "call_sign": "DYAY",
+      "tatak": "DYAY 1584 kHz",
+      "lakas_kw": "10",
+      "kumpanya": "Allied Bctg. Center Inc. (Hiligaynon Broadcast Group)",
+      "lokasyon": "Minglanilla, Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "AM"
+    },
+    {
+      "frequency": "88.3 FM",
+      "call_sign": "DYAP",
+      "tatak": "DYAP 88.3",
+      "lakas_kw": "5 (10)",
+      "kumpanya": "Southern Broadcasting Network",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "88.5 FM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "Baycomms Broadcasting Corporation",
+      "lokasyon": "Lungsod Toledo, Cebu",
+      "sinasaklaw": "Lungsod Toledo, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "89.1 FM",
+      "call_sign": "DYDW",
+      "tatak": "Power 89.1",
+      "lakas_kw": "10",
+      "kumpanya": "Word Broadcasting Corporation (Catholic Media Network)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "89.5 FM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "0.1",
+      "kumpanya": "Manila Broadcasting Company",
+      "lokasyon": "Madridejos, Cebu",
+      "sinasaklaw": "Madridejos, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "89.9 FM",
+      "call_sign": "DYKI",
+      "tatak": "Smooth FM 89.9",
+      "lakas_kw": "5 (20)",
+      "kumpanya": "Primax Broadcasting Network, Inc.",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "90.1 FM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "Soundstream Broadcasting Corp.",
+      "lokasyon": "Lungsod Toledo, Cebu",
+      "sinasaklaw": "Lungsod Toledo, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "90.7 FM",
+      "call_sign": "DYAC",
+      "tatak": "90.7 Crossover Cebu",
+      "lakas_kw": "20 (5)",
+      "kumpanya": "Mareco Broadcasting Network, Inc.",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "90.9 FM",
+      "call_sign": "DYMM",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "Baycomms Broadcasting Corporation",
+      "lokasyon": "Lungsod Bogo, Cebu",
+      "sinasaklaw": "Lungsod Bogo, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "91.5 FM",
+      "call_sign": "DYHR",
+      "tatak": "91.5 Yes! FM Cebu",
+      "lakas_kw": "10 (25)",
+      "kumpanya": "Cebu Broadcasting Company (Pacific Broadcasting Systems & Manila Broadcasting Company)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "91.7 FM",
+      "call_sign": "DYBG",
+      "tatak": "",
+      "lakas_kw": "5",
+      "kumpanya": "Manila Broadcasting Company",
+      "lokasyon": "Lungsod Bogo, Cebu",
+      "sinasaklaw": "Lungsod Bogo, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "92.3 FM",
+      "call_sign": "DYBN",
+      "tatak": "Magic 92.3 Cebu",
+      "lakas_kw": "20",
+      "kumpanya": "Quest Broadcasting Inc. (dating SBS Radio Network, Inc.)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "92.7 FM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "Ultrasonic Broadcasting System",
+      "lokasyon": "Lungsod Toledo, Cebu",
+      "sinasaklaw": "Lungsod Toledo, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "93.1 FM",
+      "call_sign": "DYWF",
+      "tatak": "93.1 Brigada News FM",
+      "lakas_kw": "20 (25)",
+      "kumpanya": "Vimcotu Bctg. Company (Brigada Mass Media Corporation)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "93.3 FM",
+      "call_sign": "DYJS",
+      "tatak": "",
+      "lakas_kw": "5",
+      "kumpanya": "Vimcotu Bctg. Company",
+      "lokasyon": "Lungsod Bogo, Cebu",
+      "sinasaklaw": "Lungsod Bogo, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "93.9 FM",
+      "call_sign": "DYXL",
+      "tatak": "93.9 iFM Cebu",
+      "lakas_kw": "10 (25)",
+      "kumpanya": "Radio Mindanao Network",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "94.1 FM",
+      "call_sign": "DYGB",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "DXRA-RMC (Rizal Memorial Colleges)",
+      "lokasyon": "Lungsod Bogo, Cebu",
+      "sinasaklaw": "Lungsod Bogo, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "94.7 FM",
+      "call_sign": "DYLL (DYKT)",
+      "tatak": "94.7 Energy FM Cebu",
+      "lakas_kw": "20",
+      "kumpanya": "Ultrasonic Broadcasting System Inc.",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "94.9 FM",
+      "call_sign": "DYRL",
+      "tatak": "",
+      "lakas_kw": "0.5",
+      "kumpanya": "Manila Broadcasting Company",
+      "lokasyon": "Balamban, Cebu",
+      "sinasaklaw": "Balamban, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "95.5 FM",
+      "call_sign": "DYMX",
+      "tatak": "95.5 Star FM",
+      "lakas_kw": "25",
+      "kumpanya": "People's Broadcasting Service Inc. (Bombo Radyo Philippines & Consolidated Broadcasting System)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "96.3 FM",
+      "call_sign": "DYRK",
+      "tatak": "96.3 WRock Cebu",
+      "lakas_kw": "10",
+      "kumpanya": "Exodus Broadcasting Company",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "97.1 FM",
+      "call_sign": "DYLS",
+      "tatak": "MOR 97.1 For Life!",
+      "lakas_kw": "22 (10)",
+      "kumpanya": "ABS-CBN Corporation",
+      "lokasyon": "Lungsod Mandaue",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "97.3 FM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "Times Broadcasting Network Corp.",
+      "lokasyon": "Lungsod Bogo, Cebu",
+      "sinasaklaw": "Lungsod Bogo, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "97.5 FM",
+      "call_sign": "DYNE",
+      "tatak": "",
+      "lakas_kw": "0.3",
+      "kumpanya": "National Nutrition Council",
+      "lokasyon": "Barili, Cebu",
+      "sinasaklaw": "Barili, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "97.9 FM",
+      "call_sign": "DYBU",
+      "tatak": "97.9 Love Radio Cebu",
+      "lakas_kw": "20 (10)",
+      "kumpanya": "Manila Broadcasting Company",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "98.7 FM",
+      "call_sign": "DYFR",
+      "tatak": "98.7 DYFR The Life-Changing Radio",
+      "lakas_kw": "10",
+      "kumpanya": "Far East Broadcasting Company, Inc.",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "99.5 FM",
+      "call_sign": "DYRT",
+      "tatak": "Barangay RT 99.5",
+      "lakas_kw": "25",
+      "kumpanya": "GMA Network, Inc.",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "100.3 FM",
+      "call_sign": "DYRJ",
+      "tatak": "RJFM 100.3 Cebu",
+      "lakas_kw": "20 (25)",
+      "kumpanya": "Rajah Broadcasting Network",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "100.7 FM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "Times Broadcasting Network Corp.",
+      "lokasyon": "Balamban, Cebu",
+      "sinasaklaw": "Balamban, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "101.1 FM",
+      "call_sign": "DYIO",
+      "tatak": "Y101 Cebu",
+      "lakas_kw": "5 (20)",
+      "kumpanya": "GVM Radio/TV Corporation (Trans-Radio Broadcasting Corp.)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "101.3 FM",
+      "call_sign": "DYRO",
+      "tatak": "",
+      "lakas_kw": "0.5",
+      "kumpanya": "Manila Broadcasting Company",
+      "lokasyon": "Daanbantayan, Cebu",
+      "sinasaklaw": "Daanbantayan, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "101.9 FM",
+      "call_sign": "DYFM (DYNC)",
+      "tatak": "Radyo5 101.9 News FM Cebu",
+      "lakas_kw": "5 (10)",
+      "kumpanya": "Nation Broadcasting Corporation (TV5 Network Inc.)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "102.5 FM",
+      "call_sign": "DYRH",
+      "tatak": "",
+      "lakas_kw": "0.5",
+      "kumpanya": "Manila Broadcasting Company",
+      "lokasyon": "Moalboal, Cebu",
+      "sinasaklaw": "Moalboal, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "102.7 FM",
+      "call_sign": "DYES (DYTC)",
+      "tatak": "102.7 Easy Rock Cebu",
+      "lakas_kw": "10",
+      "kumpanya": "Pacific Bctg System, Inc. (Cebu Broadcasting Company)",
+      "lokasyon": "Lahug, Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "102.9 FM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "Allied Broadcasting Center",
+      "lokasyon": "Argao, Cebu",
+      "sinasaklaw": "Argao, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "103.5 FM",
+      "call_sign": "DYCD",
+      "tatak": "103.5 Retro Cebu",
+      "lakas_kw": "10 (25)",
+      "kumpanya": "University of Mindanao Bctg., Network (Ditan Communications)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "103.9 FM",
+      "call_sign": "DYRR",
+      "tatak": "",
+      "lakas_kw": "0.5",
+      "kumpanya": "Manila Broadcasting Company",
+      "lokasyon": "Pinamungahan, Cebu",
+      "sinasaklaw": "Pinamungahan, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "104.3 FM",
+      "call_sign": "DYEZ",
+      "tatak": "",
+      "lakas_kw": "10",
+      "kumpanya": "United Visayan Bctg. Network",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "104.5 FM",
+      "call_sign": "DYRW",
+      "tatak": "",
+      "lakas_kw": "0.5",
+      "kumpanya": "Phil. Bctg. Corp.",
+      "lokasyon": "Argao, Cebu",
+      "sinasaklaw": "Argao, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "104.7 FM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "Prime Broadcasting Network, Inc.",
+      "lokasyon": "Lungsod Toledo, Cebu",
+      "sinasaklaw": "Lungsod Toledo, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "105.1 FM",
+      "call_sign": "DYUR",
+      "tatak": "Oomph Radio 105.1",
+      "lakas_kw": "25 (10)",
+      "kumpanya": "Ultimate Entertainment, Inc. (Viva Live)",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "105.9 FM",
+      "call_sign": "DYBT (DYMZ)",
+      "tatak": "Monster Radio BT 105.9",
+      "lakas_kw": "10 (20)",
+      "kumpanya": "Audiovisual Communicators Inc.",
+      "lokasyon": "",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "106.7 FM",
+      "call_sign": "DYQC",
+      "tatak": "106.7 Home Radio Cebu",
+      "lakas_kw": "25 KW",
+      "kumpanya": "Aliw Broadcasting Corporation",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "107.1 FM",
+      "call_sign": "DYPE",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "PEC Broadcasting Corp.",
+      "lokasyon": "Lungsod Toledo, Cebu",
+      "sinasaklaw": "Lungsod Toledo, Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "107.5 FM",
+      "call_sign": "DYNU",
+      "tatak": "107.5 Win Radio Cebu",
+      "lakas_kw": "10 (30)",
+      "kumpanya": "Progressive Broadcasting Corporation",
+      "lokasyon": "Lungsod Cebu",
+      "sinasaklaw": "Kalakhang Cebu",
+      "banda": "FM"
+    },
+    {
+      "frequency": "107.9 FM",
+      "call_sign": "",
+      "tatak": "",
+      "lakas_kw": "1",
+      "kumpanya": "Prime Broadcasting Network, Inc.",
+      "lokasyon": "Lungsod Toledo, Cebu",
+      "sinasaklaw": "Lungsod Toledo, Cebu",
+      "banda": "FM"
+    }
+  ],
+  "meta": {
+    "title": "Mga Himpilan ng Radyo sa Cebu (AM at FM) - Free Download",
+    "description": "Talaan ng mga himpilang AM at FM sa Cebu, kasama ang frequency, call sign, tatak, lakas, kumpanya at saklaw. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Himpilan ng Radyo sa Cebu (AM at FM) | ListBase",
+    "seo_description": "Download Mga Himpilan ng Radyo sa Cebu (AM at FM) — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Cebu"
+    ]
+  }
+}
