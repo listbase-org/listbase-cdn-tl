@@ -1,0 +1,436 @@
+{
+  "id": "tl-mga-kalihim-ng-pananalapi",
+  "name": "Mga Kalihim ng Pananalapi ng Pilipinas",
+  "title": "Mga Kalihim ng Pananalapi ng Pilipinas",
+  "description": "Talaan ng mga naging pinuno ng Kagawaran ng Pananalapi ng Pilipinas (Direktor, Kalihim at Ministro ng Pananalapi) at ang kanilang panunungkulan.",
+  "category": "economy",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Pananalapi",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Pananalapi",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "string"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "A",
+      "pangalan": "Baldomero Aguinaldo",
+      "nagsimula": "Abril 1897",
+      "nagtapos": "Nobyembre 1897",
+      "posisyon": "Direktor ng Pananalapi"
+    },
+    {
+      "bilang": "1",
+      "pangalan": "Mariano Trias",
+      "nagsimula": "15 Hulyo 1898",
+      "nagtapos": "9 Mayo 1899",
+      "posisyon": "Ministro ng Pananalapi"
+    },
+    {
+      "bilang": "B",
+      "pangalan": "Hugo Ilagan",
+      "nagsimula": "9 Mayo 1899",
+      "nagtapos": "13 Nobyembre 1899",
+      "posisyon": "Ministro ng Pananalapi"
+    },
+    {
+      "bilang": "C",
+      "pangalan": "Henry Clay Ide",
+      "nagsimula": "1 Setyembre 1901",
+      "nagtapos": "24 Setyembre 1906",
+      "posisyon": "Kalihim ng Pananalapi at Hustisya"
+    },
+    {
+      "bilang": "D",
+      "pangalan": "James Francis Smith",
+      "nagsimula": "25 Setyembre 1906",
+      "nagtapos": "30 Hunyo 1908",
+      "posisyon": "Kalihim ng Pananalapi at Hustisya"
+    },
+    {
+      "bilang": "E",
+      "pangalan": "Gregorio S. Araneta",
+      "nagsimula": "1 Hulyo 1908",
+      "nagtapos": "30 Oktubre 1913",
+      "posisyon": "Kalihim ng Pananalapi at Hustisya"
+    },
+    {
+      "bilang": "F",
+      "pangalan": "Victorino Mapa",
+      "nagsimula": "1 Nobyembre 1913",
+      "nagtapos": "14 Enero 1917",
+      "posisyon": "Kalihim ng Pananalapi at Hustisya"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Victorino Mapa",
+      "nagsimula": "1 Enero 1917",
+      "nagtapos": "14 Enero 1917",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "G",
+      "pangalan": "Alberto Barreto",
+      "nagsimula": "14 Enero 1917",
+      "nagtapos": "17 Hulyo 1923",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "H",
+      "pangalan": "Miguel Unson",
+      "nagsimula": "18 Hulyo 1928",
+      "nagtapos": "13 Disyembre 1931",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "I",
+      "pangalan": "Vicente Carmona",
+      "nagsimula": "1 Enero 1932",
+      "nagtapos": "31 Disyembre 1932",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "J",
+      "pangalan": "Rafael Alunan",
+      "nagsimula": "1 Hulyo 1933",
+      "nagtapos": "30 Abril 1933",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "K",
+      "pangalan": "Vicente Encarnacion",
+      "nagsimula": "23 Abril 1933",
+      "nagtapos": "24 Hulyo 1934",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Elpidio Quirino",
+      "nagsimula": "25 Hulyo 1934",
+      "nagtapos": "18 Pebrero 1936",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Elpidio Quirino",
+      "nagsimula": "25 Hulyo 1934",
+      "nagtapos": "18 Pebrero 1936",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Antonio de las Alas",
+      "nagsimula": "19 Pebrero 1936",
+      "nagtapos": "15 Nobyembre 1938",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Manuel Roxas",
+      "nagsimula": "26 Nobyembre 1938",
+      "nagtapos": "28 Agosto 1941",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Serafin Marabut",
+      "nagsimula": "21 Agosto 1941",
+      "nagtapos": "29 Disyembre 1941",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Jose Abad Santos",
+      "nagsimula": "30 Disyembre 1941",
+      "nagtapos": "26 Marso 1942",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Andres Soriano",
+      "nagsimula": "26 Marso 1942",
+      "nagtapos": "31 Hulyo 1944",
+      "posisyon": "Kalihim ng Pananalapi, Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Jaime Hernandez",
+      "nagsimula": "8 Agosto 1944",
+      "nagtapos": "27 Mayo 1946",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Jaime Hernandez",
+      "nagsimula": "8 Agosto 1944",
+      "nagtapos": "27 Mayo 1946",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "(2)",
+      "pangalan": "Elpidio Quirino",
+      "nagsimula": "28 Mayo 1946",
+      "nagtapos": "24 Nobyembre 1946",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Miguel Cuaderno",
+      "nagsimula": "25 Nobyembre 1946",
+      "nagtapos": "2 Enero 1949",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Miguel Cuaderno",
+      "nagsimula": "25 Nobyembre 1946",
+      "nagtapos": "2 Enero 1949",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "(8)",
+      "pangalan": "Jaime Hernandez",
+      "nagsimula": "Enero 1949",
+      "nagtapos": "Enero 1952",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Aurelio Montinola Sr.",
+      "nagsimula": "Enero 1952",
+      "nagtapos": "Disyembre 1953",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "(8)",
+      "pangalan": "Jaime Hernandez",
+      "nagsimula": "Disyembre 1953",
+      "nagtapos": "Enero 1960",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "(8)",
+      "pangalan": "Jaime Hernandez",
+      "nagsimula": "Disyembre 1953",
+      "nagtapos": "Enero 1960",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Dominador Aytona",
+      "nagsimula": "25 Enero 1960",
+      "nagtapos": "29 Disyembre 1961",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Fernando Sison",
+      "nagsimula": "2 Enero 1962",
+      "nagtapos": "31 Hulyo 1962",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Rodrigo Perez",
+      "nagsimula": "1 Agosto 1962",
+      "nagtapos": "7 Enero 1964",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Rufino Hechanova",
+      "nagsimula": "8 Enero 1964",
+      "nagtapos": "13 Disyembre 1965",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Eduardo Romualdez",
+      "nagsimula": "1 Enero 1966",
+      "nagtapos": "4 Pebrero 1970",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Cesar E. A. Virata",
+      "nagsimula": "9 Pebrero 1970",
+      "nagtapos": "2 Hunyo 1978",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Cesar E. A. Virata",
+      "nagsimula": "2 Hunyo 1978",
+      "nagtapos": "3 Marso 1986",
+      "posisyon": "Ministro ng Pananalapi"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Jaime V. Ongpin",
+      "nagsimula": "26 Marso 1986",
+      "nagtapos": "30 Enero 1987",
+      "posisyon": "Ministro ng Pananalapi"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Jaime V. Ongpin",
+      "nagsimula": "26 Marso 1986",
+      "nagtapos": "30 Enero 1987",
+      "posisyon": "Ministro ng Pananalapi"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Jaime V. Ongpin",
+      "nagsimula": "30 Enero 1987",
+      "nagtapos": "14 Setyembre 1987",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Vicente Jayme",
+      "nagsimula": "15 Setyembre 1987",
+      "nagtapos": "Disyembre 1989",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Jesus Estanislao",
+      "nagsimula": "1 Enero 1990",
+      "nagtapos": "30 Hunyo 1992",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Ramon del Rosario",
+      "nagsimula": "1 Hulyo 1992",
+      "nagtapos": "1 Hunyo 1993",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "21",
+      "pangalan": "Ernest C. Leung",
+      "nagsimula": "2 Hunyo 1993",
+      "nagtapos": "31 Enero 1994",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "Roberto de Ocampo",
+      "nagsimula": "1 Pebrero 1994",
+      "nagtapos": "30 Marso 1998",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "23",
+      "pangalan": "Salvador Enriquez",
+      "nagsimula": "Abril 1. 1998",
+      "nagtapos": "30 Hunyo 1998",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "24",
+      "pangalan": "Edgardo B. Espiritu",
+      "nagsimula": "1 Hulyo 1998",
+      "nagtapos": "31 Disyembre 1999",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Jose T.Pardo",
+      "nagsimula": "2 Enero 2000",
+      "nagtapos": "20 Enero 2001",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Alberto G. Romulo",
+      "nagsimula": "23 Enero 2001",
+      "nagtapos": "30 Hunyo 2001",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "Jose Isidro N. Camacho",
+      "nagsimula": "30 Hunyo 2001",
+      "nagtapos": "30 Nobyembre 2003",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "28",
+      "pangalan": "Juanita D. Amatong",
+      "nagsimula": "1 Disyembre 2003",
+      "nagtapos": "14 Pebrero 2005",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "29",
+      "pangalan": "Cesar V. Purisima",
+      "nagsimula": "15 Pebrero 2005",
+      "nagtapos": "15 Hulyo 2005",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "30",
+      "pangalan": "Margarito B. Teves",
+      "nagsimula": "22 Hulyo 2005",
+      "nagtapos": "30 Hunyo 2010",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "31",
+      "pangalan": "Cesar Purisima",
+      "nagsimula": "30 Hunyo 2010",
+      "nagtapos": "30 Hunyo 2016",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "32",
+      "pangalan": "Carlos Dominguez III",
+      "nagsimula": "30 Hunyo 2016",
+      "nagtapos": "30 Hunyo 2022",
+      "posisyon": "Kalihim ng Pananalapi"
+    },
+    {
+      "bilang": "32",
+      "pangalan": "Benjamin Diokno",
+      "nagsimula": "30 Hunyo 2022",
+      "nagtapos": "kasalukuyan",
+      "posisyon": "Kalihim ng Pananalapi"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Pananalapi ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging pinuno ng Kagawaran ng Pananalapi ng Pilipinas (Direktor, Kalihim at Ministro ng Pananalapi) at ang kanilang panunungkulan. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Pananalapi ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Pananalapi ng Pilipinas — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Pananalapi"
+    ]
+  }
+}

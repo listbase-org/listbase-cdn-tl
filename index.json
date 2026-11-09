@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-09T02:23:45.850Z",
-  "total_datasets": 503,
-  "total_records": 447770,
+  "generated": "2026-11-09T02:23:52.086Z",
+  "total_datasets": 504,
+  "total_records": 447825,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -1776,6 +1776,32 @@
         "xlsx": {
           "name": "tl-mga-kalihim-ng-kalakalan-at-industriya_TL.xlsx",
           "size": 8738
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-pananalapi",
+      "name": "Mga Kalihim ng Pananalapi ng Pilipinas",
+      "category": "economy",
+      "record_count": 55,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Pananalapi",
+      "updated": "2026-11",
+      "size": 12055,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-pananalapi_TL.csv",
+          "size": 4554
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-pananalapi_TL.xlsx",
+          "size": 9184
         }
       }
     },
