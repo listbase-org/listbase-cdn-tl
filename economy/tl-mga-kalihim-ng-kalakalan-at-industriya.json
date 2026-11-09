@@ -1,0 +1,368 @@
+{
+  "id": "tl-mga-kalihim-ng-kalakalan-at-industriya",
+  "name": "Mga Kalihim ng Kalakalan at Industriya ng Pilipinas",
+  "title": "Mga Kalihim ng Kalakalan at Industriya ng Pilipinas",
+  "description": "Talaan ng mga naging pinuno ng Kagawaran ng Kalakalan at Industriya (DTI) ng Pilipinas, kasama ang panahon ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "economy",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kalakalan_at_Industriya",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kalakalan_at_Industriya",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulong_pinaglingkuran",
+      "label": "Pangulong Pinaglingkuran",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Leon Maria Guerrero",
+      "nagsimula": "May 7, 1899",
+      "nagtapos": "November 13, 1899",
+      "pangulong_pinaglingkuran": "Emilio Aguinaldo",
+      "posisyon": "Ministro ng Pagsasaka, Industriya at Kalakalan"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Benigno Aquino Sr.",
+      "nagsimula": "1935",
+      "nagtapos": "1940",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "posisyon": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Rafael Alunan",
+      "nagsimula": "1940",
+      "nagtapos": "1941",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "posisyon": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Andres Soriano",
+      "nagsimula": "1941",
+      "nagtapos": "1944",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "posisyon": "Kalihim ng Pananalapi, Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Manuel Nieto",
+      "nagsimula": "1944",
+      "nagtapos": "1945",
+      "pangulong_pinaglingkuran": "Sergio Osmena",
+      "posisyon": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Delfin J. Jaranilla",
+      "nagsimula": "Marso 8, 1945",
+      "nagtapos": "Disyembre 31, 1945",
+      "pangulong_pinaglingkuran": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Katarungan, Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Vicente S. Encarnacion",
+      "nagsimula": "1945",
+      "nagtapos": "1946",
+      "pangulong_pinaglingkuran": "Sergio Osmena",
+      "posisyon": "Kalihim ng Pagsasaka at Kalakalan"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Cornelio Balmaceda",
+      "nagsimula": "1947",
+      "nagtapos": "1953",
+      "pangulong_pinaglingkuran": "Manuel Roxas",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Cornelio Balmaceda",
+      "nagsimula": "1947",
+      "nagtapos": "1953",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Oscar Ledesma",
+      "nagsimula": "1953",
+      "nagtapos": "1957",
+      "pangulong_pinaglingkuran": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Pedro Hernaez",
+      "nagsimula": "1957",
+      "nagtapos": "1960",
+      "pangulong_pinaglingkuran": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Manuel Lim",
+      "nagsimula": "1960",
+      "nagtapos": "1962",
+      "pangulong_pinaglingkuran": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Manuel Lim",
+      "nagsimula": "1960",
+      "nagtapos": "1962",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Rufino Hechanova",
+      "nagsimula": "1962",
+      "nagtapos": "1963",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "(8)",
+      "pangalan": "Cornelio Balmaceda",
+      "nagsimula": "1963",
+      "nagtapos": "1965",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Marcelo Balatbat",
+      "nagsimula": "1966",
+      "nagtapos": "1968",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Leonidas Virata",
+      "nagsimula": "1969",
+      "nagtapos": "1970",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Ernesto Maceda",
+      "nagsimula": "1970",
+      "nagtapos": "1971",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Troadio Quiazon",
+      "nagsimula": "1971",
+      "nagtapos": "1974",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Vicente Paterno",
+      "nagsimula": "1974",
+      "nagtapos": "1978",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Industriya"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Vicente Paterno",
+      "nagsimula": "1978",
+      "nagtapos": "1979",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Industriya"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Roberto Ongpin",
+      "nagsimula": "1979",
+      "nagtapos": "1981",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Industriya"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Luis Villafuerte, Sr.",
+      "nagsimula": "1979",
+      "nagtapos": "1981",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Kalakalan"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Roberto Ongpin",
+      "nagsimula": "1981",
+      "nagtapos": "1986",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "21",
+      "pangalan": "Jose Conception, Jr.",
+      "nagsimula": "1986",
+      "nagtapos": "1991",
+      "pangulong_pinaglingkuran": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "Peter Garrucho",
+      "nagsimula": "1991",
+      "nagtapos": "1992",
+      "pangulong_pinaglingkuran": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "23",
+      "pangalan": "Lilia Bautista",
+      "nagsimula": "1992",
+      "nagtapos": "1992",
+      "pangulong_pinaglingkuran": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "24",
+      "pangalan": "Rizalino S. Navarro",
+      "nagsimula": "1992",
+      "nagtapos": "1996",
+      "pangulong_pinaglingkuran": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Cesar B. Bautista",
+      "nagsimula": "1996",
+      "nagtapos": "1998",
+      "pangulong_pinaglingkuran": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Jose Pardo",
+      "nagsimula": "1998",
+      "nagtapos": "2000",
+      "pangulong_pinaglingkuran": "Joseph Ejercito Estrada",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Manuel Roxas II",
+      "nagsimula": "2000",
+      "nagtapos": "2003",
+      "pangulong_pinaglingkuran": "Joseph Ejercito Estrada",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Manuel Roxas II",
+      "nagsimula": "2000",
+      "nagtapos": "2003",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "Cesar Purisima",
+      "nagsimula": "2003",
+      "nagtapos": "2005",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Juan Santos",
+      "nagsimula": "2005",
+      "nagtapos": "2005",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "28",
+      "pangalan": "Peter B. Favila",
+      "nagsimula": "2005",
+      "nagtapos": "2010",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "29",
+      "pangalan": "Jesli Lapus",
+      "nagsimula": "2010",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "31",
+      "pangalan": "Gregory Domingo",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Disyembre 30, 2015",
+      "pangulong_pinaglingkuran": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "32",
+      "pangalan": "Adrian Cristobal, Jr.",
+      "nagsimula": "Disyembre 31, 2015",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulong_pinaglingkuran": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    },
+    {
+      "bilang": "33",
+      "pangalan": "Ramon Lopez",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "Kasalukuyan",
+      "pangulong_pinaglingkuran": "Rodrigo Roa Duterte",
+      "posisyon": "Kalihim ng Kalakalan at Industriya"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Kalakalan at Industriya ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging pinuno ng Kagawaran ng Kalakalan at Industriya (DTI) ng Pilipinas, kasama ang panahon ng panunungkulan at pangulong pinaglingkuran. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Kalakalan at Industriya ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Kalakalan at Industriya ng Pilipinas — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Kalakalan_at_Industriya"
+    ]
+  }
+}

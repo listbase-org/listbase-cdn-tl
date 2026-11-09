@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-06T02:19:36.767Z",
-  "total_datasets": 500,
-  "total_records": 447653,
+  "generated": "2026-11-09T02:23:31.878Z",
+  "total_datasets": 501,
+  "total_records": 447692,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -1749,6 +1749,33 @@
         "xlsx": {
           "name": "tl-zamboanga-peninsula-simbahan_TL.xlsx",
           "size": 7625
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-kalakalan-at-industriya",
+      "name": "Mga Kalihim ng Kalakalan at Industriya ng Pilipinas",
+      "category": "economy",
+      "record_count": 39,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulong_pinaglingkuran",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kalakalan_at_Industriya",
+      "updated": "2026-11",
+      "size": 11243,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-kalakalan-at-industriya_TL.csv",
+          "size": 3847
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-kalakalan-at-industriya_TL.xlsx",
+          "size": 8738
         }
       }
     },
