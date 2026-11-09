@@ -1,0 +1,1249 @@
+{
+  "id": "tl-mga-sakunang-pangkalikasan",
+  "name": "Mga Sakunang Pangkalikasan sa Pilipinas",
+  "title": "Mga Sakunang Pangkalikasan sa Pilipinas",
+  "description": "Talaan ng mga sakunang pangkalikasan sa Pilipinas — pagsabog ng bulkan, lindol, tsunami, bagyo, pagguho ng lupa, baha at epidemya — kasama ang petsa, lugar at epekto.",
+  "category": "environment",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_sakuna_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_sakuna_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 132,
+  "columns": [
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "petsa",
+      "label": "Petsa",
+      "type": "string"
+    },
+    {
+      "key": "pangalan_o_pinagmulan",
+      "label": "Pangalan O Pinagmulan",
+      "type": "string"
+    },
+    {
+      "key": "apektadong_lugar",
+      "label": "Apektadong Lugar",
+      "type": "string"
+    },
+    {
+      "key": "pangyayari",
+      "label": "Pangyayari",
+      "type": "string"
+    },
+    {
+      "key": "mga_epekto",
+      "label": "Mga Epekto",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uri": "Pagsabog ng bulkan",
+      "taon": "1814",
+      "petsa": "Pebrero 1",
+      "pangalan_o_pinagmulan": "Bulkang Mayon (Albay)",
+      "apektadong_lugar": "",
+      "pangyayari": "Naglibing sa kalapit-bayan ng Cagsawa kasama ng abo at bato.",
+      "mga_epekto": "Nasawiː Halos 1,200."
+    },
+    {
+      "uri": "Pagsabog ng bulkan",
+      "taon": "1911",
+      "petsa": "Enero 30",
+      "pangalan_o_pinagmulan": "Bulkang Taal (Luzon)",
+      "apektadong_lugar": "",
+      "pangyayari": "Sumabog ang bulkan na mga 60 kilometro o 30 milya mula Maynila. Ang mga nasawi ay pawang nakatira sa kalapit na nayon.",
+      "mga_epekto": "Nasawiː Halos 1,300"
+    },
+    {
+      "uri": "Pagsabog ng bulkan",
+      "taon": "1991",
+      "petsa": "Hunyo 15",
+      "pangalan_o_pinagmulan": "Mt. Pinatubo",
+      "apektadong_lugar": "",
+      "pangyayari": "Noong Abril 1991 nagpakita ito ng mga palatandaan ng kanyang aktibidad, malamang na naapektuhan ng lindol sa Luzon. Dahan-dahan itong tumindi simula noong Mayo hanggang sa pumutok ito noong Hun. 15, pagkatapos ng maraming siglo ng pananahimik. Ang abo nito na inilabas mula sa bulkan ay lubhang puminsala sa mga bahay at mga gusali sa Luzon at naabot kahit ang ibang bahagi ng mundo tulad ng Indian Ocean. Lumala pa ang mga epekto nito nang nagsimulang bumuhos ang matinding ulan, na nagiging sanhi ng mabilis na pagdaloy ng mga lahar sa lupa, na nagpalubog sa mga lupa, kahit na mga ilog. Nagsimula itong manahimik noong Hulyo.",
+      "mga_epekto": "Daan-daang libong katao ang nailikas at milyon-milyon ang apektado. Daan-daan ang mamatay sa panahon ng pagsabog, at, sa mga suunod na linggo, daan-daan pa ang namatay sa mga kampong paglikas. Tinatayang Pinsalaː US$443,000,000 Iba pang epektoː Winasak nito ang kalapit na base ng American Air Force."
+    },
+    {
+      "uri": "Pagsabog ng bulkan",
+      "taon": "2006",
+      "petsa": "Marso -Hunyo",
+      "pangalan_o_pinagmulan": "Bulkang Bulusan",
+      "apektadong_lugar": "",
+      "pangyayari": "Nangyari ang mahinang pagsabog ng mga abo sa bunganga ng tuktok ng bulkan, Marso 21. Ipinagbawal noon ang pagpasok sa 4-kilometrong radius na permanent danger zone. Naulit ito noong mula Abril hanggang unang bahagi ng Hunyo 2006 at noong Hunyo 18, muling nagbuga ng abo.",
+      "mga_epekto": "Nasawiː Isa ang namatay dahil sa hika na pinalubha ng pagkalantad sa abo, Hunyo 10. Walang pinsalang iniulat."
+    },
+    {
+      "uri": "Pagsabog ng bulkan",
+      "taon": "2006",
+      "petsa": "Pebrero - Oktubre",
+      "pangalan_o_pinagmulan": "Bulkang Mayon (Albay)",
+      "apektadong_lugar": "",
+      "pangyayari": "Nagpatuloy ang pagsabog pagkatapos ng dalawang taong pahinga, Pebrero 2006. Nagbuga ng abo at nagsimulang rumagasa ang lava pababa ng mga dalisdis ng bundok, Hulyo 13. Nagpakita ng pagtaas ng mga palatandaan ng aktibidad na may napapanatiling pagyanig, tuloy-tuloy na pagdaloy ng lava, at paminsan-minsang na pyroclastic at ash falls, Hulyo 15 - Agosto 15. Libo-libong mga tao ang inilikas mula sa radius na 8 kilometro sa paligid ng bunganga nito. Huminahon ang aktibidad nito, Setyembre - Oktubre 2006.",
+      "mga_epekto": "Walang ulat"
+    },
+    {
+      "uri": "Pagsabog ng bulkan",
+      "taon": "2010",
+      "petsa": "Nobyembre",
+      "pangalan_o_pinagmulan": "Bulkang Bulusan",
+      "apektadong_lugar": "",
+      "pangyayari": "",
+      "mga_epekto": "Walang ulat"
+    },
+    {
+      "uri": "Pagsabog ng bulkan",
+      "taon": "2020",
+      "petsa": "Enero",
+      "pangalan_o_pinagmulan": "Bulkang Taal",
+      "apektadong_lugar": "",
+      "pangyayari": "Pangunahing artikulo: Pagputok ng Bulkang Taal ng 2020 Enero 12, ng mag-alburoto ang Bulkang Taal sa lawa ng Taal sa lalawigan ng Batangas, nag-likha ito ng lindol pasado 11am ng umaga, 2pm ng hapon ng nag-umpisa pu-mutok at nag-buga ito ng matitinding abo sa mga lalawigan ng Batangas, Cavite, Laguna hanggang Rizal maging ang Kalakhang Maynila na itinaas sa Alert Level 3 hanggang 4 at pasado 10pm ng gabi umabot ang pag-buga ng abo nito sa \"Clark\" sa Pampanga",
+      "mga_epekto": "Walang ulat"
+    },
+    {
+      "uri": "Lindol",
+      "taon": "1948",
+      "petsa": "Enero 25",
+      "pangalan_o_pinagmulan": "8.3 magnitude; Tectonic",
+      "apektadong_lugar": "Panay (Lady Caycay)",
+      "pangyayari": "",
+      "mga_epekto": "Nasawiː Nasa 50 Pinsalaː ₱ 7 million Punaː Pinakamalakas na lindol na naitala sa kasaysayan"
+    },
+    {
+      "uri": "Lindol",
+      "taon": "1976",
+      "petsa": "Agosto 17",
+      "pangalan_o_pinagmulan": "Lindol sa Mindanaoː 7.9 magnitude; Tectonic",
+      "apektadong_lugar": "Golpo Moro, Mindanao",
+      "pangyayari": "Itinuturing na isa sa mga pinakamalakas na lindol na tumama sa bansa kailanman. Ayon sa Philippine Institute of Volcanology and Seismology (PHIVOLCS), nagdulot ang pagyanig ng tsunami sa baybayin ng Golpo Moro sa Hilagang Dagat Celebes. Nagdulot ito ng pagbagsak ng mga gusali.",
+      "mga_epekto": "Nasawiː 6,300; Iba pang talaː Sa pagitan ng 5,000-8,000"
+    },
+    {
+      "uri": "Lindol",
+      "taon": "1990",
+      "petsa": "Hulyo 16",
+      "pangalan_o_pinagmulan": "Lindol sa (Gitnang) Luzon ː 7.8 magnitude; Tectonic",
+      "apektadong_lugar": "Luzon ː Mga lungsod ng Baguio, Dagupan at Cabanatuan",
+      "pangyayari": "Itinuturing na isa sa mga pinakamalakas at pinakamapaminsalang lindol na tumama sa bansa. Ang pagyanig ay nagdulot ng pagbagsak ng maraming mga gusali at mga hotel sa mga lungsod ng Baguio, Dagupan at Cabanatuan, na naglibing sa mga tao nang buhay. Pinakamalala ring sakuna sa usapin ng mga nasawi at pinsala.",
+      "mga_epekto": "Nasawiː 2,412 (ayon sa Rappler) Sugatanː Higit 3500 Naapektuhanː 27,500 pamilya Tinatayang Pinsalaː US$369,600,000"
+    },
+    {
+      "uri": "Lindol",
+      "taon": "2013",
+      "petsa": "Oktubre 15",
+      "pangalan_o_pinagmulan": "Lindol sa Bohol ː 7.2 magnitude; Tectonic",
+      "apektadong_lugar": "Gitnang Visayas (Bohol)",
+      "pangyayari": "Naganap noong umaga ang pinakamamatay na lindol sa bansa sa loob ng 23 taon. Tumagal ito ng 34 segundo. Tinatayang ang enerhiyang inilabas ng lindol ay katumbas ng 32 bomba atomikang Hiroshima.",
+      "mga_epekto": "(Batay sa ulat ng NDRRMC) Nasawiː 222 Sugatanː 976 Mga bahay na nasira o nawasakː Higit 73,000"
+    },
+    {
+      "uri": "Lindol",
+      "taon": "Pebrero 10, 2017",
+      "petsa": "Lindol sa Surigao (2017): 6.7 magnitude; Tectonic",
+      "pangalan_o_pinagmulan": "Caraga, Silangang Visayas",
+      "apektadong_lugar": "Ay isang napakalakas na lindol na tumama sa mga probinsya ng Surigao sa ganap nang ika 10:03 ng gabi sa karagatan ng bohol ito ay naglikha ng Magnitude 6.7",
+      "pangyayari": "(Batay sa ulat ng NDRRMC) Nasawi: 8 Sugatan: 202 Tsunamiː Oo",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Lindol",
+      "taon": "Abril 4 at 8, 2017",
+      "petsa": "Mga lindol sa Batangas: 6.0 magnitude; Tectonic",
+      "pangalan_o_pinagmulan": "Calabarzon, Kalakhang Maynila, Mimaropa (Batangas)",
+      "apektadong_lugar": "Ay ang mga magkakasunod na lindol na yumanig noong Abril taong 2017 sa araw nang 4 at 8 sumunod pa na mga araw dahil sa paggalaw na mga fault sa lupa ang mga fault na ito ay nasa bahagi ng Isla nang mga Verde noong ika Abril 4 at sa Isla ng Lubang ay noong ika Abril 8.",
+      "pangyayari": "(Batay sa ulat ng NDRRMC) Nasawi: Wala Sugatan: 6 Pinsalaː PHP 18 milyon",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Lindol",
+      "taon": "Abril 29, 2017",
+      "petsa": "Lindol sa Sarangani (2017): 7.2 magnitude; Tectonic",
+      "pangalan_o_pinagmulan": "SOCCKSARGEN, Rehiyon ng Davao",
+      "apektadong_lugar": "Ay isang malakas na lindol na naglabas ng enerhiyang 7.2 sa Sarangani Bay, ito ay nakaapekto sa ilang rehiyon ng Mindanao, niyanig rin ang Lungsod ng Heneral Santos probinsya ng Kanlurang Davao, at ang buong SOCCKSARGEN.",
+      "pangyayari": "(Batay sa ulat ng NDRRMC) Nasawi: Wala Sugatan: Wala Tsunamiː Oo",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Lindol",
+      "taon": "Agosto 11, 2017",
+      "petsa": "Lindol sa Batangas ng Agosto 2017: 6.3 magnitude; Tectonic",
+      "pangalan_o_pinagmulan": "Calabarzon, Mimaropa",
+      "apektadong_lugar": "Ay isang lindol na naganap noong ika-11 ng Agosto, 2017, 1:28 nang hapon (oras sa Pilipinas). Naglabas ito ng enerhiyang 6.3 sa lalawigan nang Batangas dahil sa paggalaw ng fault, natagpuan ang episentro sa layong 160 kilometro sa kanlurang bahagi ng Nasugbu, Batangas.",
+      "pangyayari": "(Batay sa ulat ng NDRRMC) Nasawi: Wala Sugatan: Wala Pinsalaː Hindi naitala",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Lindol",
+      "taon": "Abril 22, 2019",
+      "petsa": "Lindol sa Luzon ng 2019: 6.1 magnitude; Tectonic",
+      "pangalan_o_pinagmulan": "Gitnang Luzon, Kalakhang Maynila, Calabarzon",
+      "apektadong_lugar": "Ay naganap noong Abril 22, 2019, ay isang 6.1 na malakas na lindol na tumama sa isla ng Luzon sa Pilipinas, naiiwan ang hindi bababa sa 18 patay, 3 ang nawawala at nasugatan ng hindi bababa sa 256 na iba pa. Sa kabila ng ang epicenter ay nasa Zambales.",
+      "pangyayari": "(Batay sa ulat ng NDRRMC) Nasawi: 18 Sugatan: 256 Pinsalaː PHP 539 million (US $10.5 million)",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Lindol",
+      "taon": "Abril 23, 2019",
+      "petsa": "Lindol sa Bisayas ng 2019: 6.3 magnitude; Tectonic",
+      "pangalan_o_pinagmulan": "Silangang Visayas, Gitnang Visayas",
+      "apektadong_lugar": "Niyanig naman ang buong probinsya sa Samar at ilang bahagi ng rehiyon na nag labas ng enerhiyang 6.4 mas malakas sa 2019 Luzon earthquake. ang episentro ng lindol ay sa bayan ng San Julian, Eastern Samar sa oras ng 1:37 ng hapon",
+      "pangyayari": "(Batay sa ulat ng NDRRMC) Nasawi: Wala Sugatan: 48 Tsunamiː Wala",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Lindol",
+      "taon": "Oktubre 16, 29 at 31, 2019",
+      "petsa": "Mga lindol sa Mindanaw (2019) Swarm na lindol magnitude; Tectonic",
+      "pangalan_o_pinagmulan": "SOCCKSARGEN, Rehiyon ng Davao, Bangsamoro at Caraga",
+      "apektadong_lugar": "Ay sunod sunod na pag lindol ang nag-ganap sa isla ng Mindanao sa katapusan buwan ng Oktubre 2019, ito ay tinatawag na earthquake swarm o sunod-sunod na pag lindol tulad ng nangyari sa Lindol sa Batangas (2017) noong buwan ng Abril, ito ay kadahilan sa pag-galaw ng mga faults ito ay ang mga North at South Columbio Fault, Makilala Fault at Tangbulan Fault kasama rin ang M'lang Fault",
+      "pangyayari": "(Batay sa ulat ng NDRRMC) Nasawi: Oktubre 16; 7 patay, Oktubre 29 at 31; 24 patay Sugatan: Oktubre 16; 215 sugatan, Oktubre 29 at 31; 562 sugatan Pinsalaː Itatala pa",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Lindol",
+      "taon": "Nobyembre 18, 2019",
+      "petsa": "Mga lindol sa Mindanaw (2019) Swarm na lindol magnitude; Tectonic",
+      "pangalan_o_pinagmulan": "SOCCKSARGEN, Rehiyon ng Davao",
+      "apektadong_lugar": "Ay isang magnitud 5.9 ang naitala sa 22kilometro ng Kibawe, Bukidnon at ang episentro nito ay sa Kadingilan, Bukidnon pasado 9:22 pm ng gabi.",
+      "pangyayari": "(Batay sa ulat ng NDRRMC) Nasawi: Itatala pa Sugatan: Itatala pa Pinsalaː Itatala pa",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Lindol",
+      "taon": "Disyemnre 15, 2019",
+      "petsa": "Lindol sa Davao del Sur ng 2019 magnitude; Tectonic",
+      "pangalan_o_pinagmulan": "SOCCKSARGEN, Rehiyon ng Davao",
+      "apektadong_lugar": "Ay isang napaka-lakas na lindol na sinundan ng mga naunang lindol nitong Oktubre 2019 sa ka-parehas na mga rehiyon, naglikha ito ng magnitud 6.8 sa Matanao, Davao del Sur",
+      "pangyayari": "(Batay sa ulat ng NDRRMC) Nasawi: 4 Sugatan: Itatala pa Pinsalaː 4",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Lindol",
+      "taon": "Disyembre 26, 2019",
+      "petsa": "Lindol sa Iloilo ng 2019",
+      "pangalan_o_pinagmulan": "Kanlurang Visayas",
+      "apektadong_lugar": "ay isang magnitud 4.8 na lindol ang yumanig sa Kanlurang Visayas, and sentro ng lindol ay sa lalawigan ng Iloilo, matapos ang 1 araw na \"Bagyong Ursula\" (Disyembre 25, 2019).",
+      "pangyayari": "(Batay sa ulat ng NDRRMC) Nasawi: Itatala pa Sugatan: Itatala pa Pinsalaː Itatala pa",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Tsunami",
+      "taon": "1589",
+      "petsa": "Hunyo 29",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Look ng Maynila",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Walang datos."
+    },
+    {
+      "uri": "Tsunami",
+      "taon": "1863",
+      "petsa": "Agosto 29",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Maynila",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Pinsalaː Nawasak ang Bagumbayan drive dahil sa pag-apaw ng tubig; ilang mga bahay ay nawalan ng bubong"
+    },
+    {
+      "uri": "Tsunami",
+      "taon": "1867",
+      "petsa": "Setyembre 20 – 26",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Look ng Maynila",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Nasawiː 1,800 Pinsalaː Naihagis ang 17 barko papunta sa mga baybayin ng Santa Lucia at Tondo."
+    },
+    {
+      "uri": "Tsunami",
+      "taon": "1870",
+      "petsa": "Nobyembre 3",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Silangan ng isang muog sa Legaspi",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Pinsalaː Nawasak ang mga palayan at hindi maraanan ang mga kalsada sa Albay at Camarines Sur."
+    },
+    {
+      "uri": "Tsunami",
+      "taon": "1871",
+      "petsa": "Marso 25 – 29",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Calbiga, Samar",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Walang datos."
+    },
+    {
+      "uri": "Tsunami",
+      "taon": "1871",
+      "petsa": "Oktubre 5",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Lingayen at pantalan ng Aparri",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 2.4 metro",
+      "mga_epekto": "Pinsalaː Nagwasak sa ilang sasakyang-pandagat at 109 bahay"
+    },
+    {
+      "uri": "Tsunami",
+      "taon": "1873",
+      "petsa": "Oktubre 25",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Cavite",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 0.6 metro",
+      "mga_epekto": "Walang datos."
+    },
+    {
+      "uri": "Tsunami",
+      "taon": "1881",
+      "petsa": "Setyembre 21 – Oktubre 6",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Timog at gitnang Luzon",
+      "pangyayari": "(Tinaguriang Bagyo sa Haiphong) Nagdulot ng daluyong. Punaː Pinakanakamamatay na bagyong naitala sa kasaysayan",
+      "mga_epekto": "Nasawiː Higit sa 20,000"
+    },
+    {
+      "uri": "Tsunami",
+      "taon": "1897",
+      "petsa": "Oktubre 12",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Mga lalawigan ng Leyte, Silangang Samar at Samar",
+      "pangyayari": "Hurricane Wave, nagdulot ng daluyong. Taas ng alonː 0.4 - 7.3 metro",
+      "mga_epekto": "Nasawiː 1,300-1,500 Pinsalaː Sumira sa mga simbahan at mga pamayanan sa Samar at Leyte"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1905",
+      "petsa": "Abril 19 – 30",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Hilaga ng Catanduanes, gitnang Luzon",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Walang datos."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1908",
+      "petsa": "Oktubre 11 -13",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Aparri, Cagayan",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 2 - 4 metro",
+      "mga_epekto": "Nasawiː 22 Pinsalaː Ganap na winasak ang Barrio Tarol"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1909",
+      "petsa": "Oktubre 26 – Nobyembre 1",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Mindanao ː Hilaga ng Davao, Cotabato, timog ng Dapitan; katimugang bahagi ng Paragua",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Walang datos."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1911",
+      "petsa": "Hulyo",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Baguio City",
+      "pangyayari": "Taas ng ibinagsak na ulanː 2210.0 mm (87.01 talampakan)",
+      "mga_epekto": "Punaː Pinakamaulang bagyong naitala sa kasaysayan"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1912",
+      "petsa": "Oktubre 12 – 15",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Leyte at Cebu",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 4.6 - 9.1 metro",
+      "mga_epekto": "Walang datos."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1912",
+      "petsa": "Nobyembre 26",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Tacloban at Capiz",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Nasawiː 15,000"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1913",
+      "petsa": "Mayo 11",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Lalawigan ng Mayon",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 5 metro",
+      "mga_epekto": "Nasawiː 827"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1923",
+      "petsa": "Nobyembre 10 – 23",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Borongan, Samar; HS ng Romblon; S ng Maynila; Silangang baybayin ng Luzon; Golpo ng Lingayen Gulf; Balintang Channel",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Walang datos."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1929",
+      "petsa": "Mayo 27",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Katimugang pulo ng Leyte",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Nasawiː 119"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1951",
+      "petsa": "Disyembre 6-19",
+      "pangalan_o_pinagmulan": "Typhoon Amy",
+      "apektadong_lugar": "Negros Occidental",
+      "pangyayari": "Nagdulot ng daluyong. Naitalang lakas ng hangin: 240 kph",
+      "mga_epekto": "Nasawi: 991 Pinsala: ₱700 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1952",
+      "petsa": "Oktubre 16",
+      "pangalan_o_pinagmulan": "Typhoon Trix",
+      "apektadong_lugar": "Luzon ː Rehiyon Bicol",
+      "pangyayari": "Nagdulot ng mga baha at pagguho ng lupa.",
+      "mga_epekto": "Nasawiː 995"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1960",
+      "petsa": "Hunyo 27 – 28",
+      "pangalan_o_pinagmulan": "Typhoon Olive",
+      "apektadong_lugar": "Hilagang pulo ng Luzon",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 3 metro",
+      "mga_epekto": "Walang datos."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1968",
+      "petsa": "Hulyo 21 – 28",
+      "pangalan_o_pinagmulan": "Typhoon Nadine (Didang)",
+      "apektadong_lugar": "Narvacan, Ilocos Sur",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 9.1 metro",
+      "mga_epekto": "Walang datos."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1970",
+      "petsa": "Oktubre 11-15",
+      "pangalan_o_pinagmulan": "Super Typhoon Joan (Sening)",
+      "apektadong_lugar": "12 lalawigan sa hilagang pulo ng Mindanao at Luzon",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 4 na metro Naitalang lakas ng hangin: 275 kph",
+      "mga_epekto": "Nasawi: 768 Pinsala: ₱1.89 bilyon; 51,000 mga gusali"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1970",
+      "petsa": "Oktubre 13",
+      "pangalan_o_pinagmulan": "Typhoon Kate (Titang)",
+      "apektadong_lugar": "Mindanao",
+      "pangyayari": "Isa sa mga pinakamalakas na bagyo na tumama sa Mindanao, nagdala ng malakas na hangin at matinding pag-ulan.",
+      "mga_epekto": "Nasawiː 1,551"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1970",
+      "petsa": "Nobyembre 19",
+      "pangalan_o_pinagmulan": "Typhoon Patsy (Yoling)",
+      "apektadong_lugar": "Look ng Maynila, timog-silangang baybayin ng Luzon",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 4 metro",
+      "mga_epekto": "Pinsala: Nawasak $ 40 milyong ari-arian; lumubog ang 21 pangisdang bangka malapit sa North Harbor."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1971",
+      "petsa": "Oktubre 2 – 9",
+      "pangalan_o_pinagmulan": "Typhoon Elaine (Barang)",
+      "apektadong_lugar": "Visayas",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Walang datos."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1972",
+      "petsa": "Hunyo 23 – 25",
+      "pangalan_o_pinagmulan": "Typhoon Ora (Konsing)",
+      "apektadong_lugar": "Look ng Maynila at Rehiyon ng Bikol",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Nasawi: 1 Pinsala: Ilang mga barko ang tinangay sa pampang."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1973",
+      "petsa": "Nobyembre 20",
+      "pangalan_o_pinagmulan": "Typhoon Vera (Openg)",
+      "apektadong_lugar": "Visayas",
+      "pangyayari": "Isa sa mga pinakamalakas na bagyo na tumama sa Visayas nang makapasok ito noong Nob. 20.",
+      "mga_epekto": "Naapektuhanː 3,400,024 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1975",
+      "petsa": "Enero 24",
+      "pangalan_o_pinagmulan": "Typhoon Lola (Auring)",
+      "apektadong_lugar": "Surigao del Sur",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 2.4 metro",
+      "mga_epekto": "Nasawi: 40 Pinsala: PhP16.6 milyon; 108 bahay at 15 yunit ng gusali ng paaralan ang nawasak."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1981",
+      "petsa": "Nobyembre 22 – 27",
+      "pangalan_o_pinagmulan": "Typhoon Irma (Anding)",
+      "apektadong_lugar": "Camarines Sur at Baler",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 4.4 - 8.4 metro",
+      "mga_epekto": "Nasawi: 189 Pinsala: 16,400 bahay; Halaga: Pinsala sa imprastraktura: PhP150 milyon Pinsala sa mga pananim, mga hayop at agrikultura: PhP30 milyon."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1982",
+      "petsa": "Marso 19 - Abril 1",
+      "pangalan_o_pinagmulan": "Typhoon",
+      "apektadong_lugar": "Pilipinas",
+      "pangyayari": "",
+      "mga_epekto": "Nasawiː 288 Pinsalaː $17.2 million (1982 USD)"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1982",
+      "petsa": "Agosto 27",
+      "pangalan_o_pinagmulan": "Typhoon Faye (Norming)",
+      "apektadong_lugar": "Lungsod Davao",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Nasawi: 29 Pinsala: 28 mga bahay ay tinamaan ng mga daluyong."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1983",
+      "petsa": "Hulyo 2",
+      "pangalan_o_pinagmulan": "Typhoon Vera (Bebeng)",
+      "apektadong_lugar": "Bataan at mga nayon sa kanlurang baybayin ng Look ng Maynila.",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alonː 4 metro",
+      "mga_epekto": "Nasawi: 182 Pinsala: 49,000 mga bahay"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1984",
+      "petsa": "Agosto 31 - Setyembre 4",
+      "pangalan_o_pinagmulan": "Typhoon Ike (Nitang)",
+      "apektadong_lugar": "Visayas: Gitnang Visayas: Pulo ng Negros (Negros Occidental); Mindanao: Siargao",
+      "pangyayari": "Tumama sa gitnang Pilipinas, Ago. 31. Lumikha ito ng maraming pagtama sa lupa at nagdala ng malakas na hangin at pag-ulan na nagdulot ng pag-apaw ng pinakamalaking ilog sa Negros Occidental. Nagdulot ng daluyong. Taas ng alon: 5 metro Naitalang lakas ng hangin: 220 kph",
+      "mga_epekto": "Nasawiː 1,422 (ayon sa Rappler); Iba pang tala: 1,492-higit 3,000 Pinsala: ₱4.1 bilyon; 100,000 mga gusali"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1984",
+      "petsa": "Nobyembre 3-6",
+      "pangalan_o_pinagmulan": "Typhoon Agnes (Undang)",
+      "apektadong_lugar": "",
+      "pangyayari": "Naitalang lakas ng hangin: 230 kph",
+      "mga_epekto": "Nasawi: 895 Pinsala: ₱1.9 bilyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1985",
+      "petsa": "Hunyo 22",
+      "pangalan_o_pinagmulan": "Typhoon Hal (Kuring)",
+      "apektadong_lugar": "Pagudpud, Ilocos Norte",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alon: 5 metro",
+      "mga_epekto": "Nasawi: 53 Pinsala: 50 mga bahay ay nawasak ng daluyong."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1985",
+      "petsa": "Oktubre 20",
+      "pangalan_o_pinagmulan": "Typhoon Dot (Saling)",
+      "apektadong_lugar": "Infanta, Quezon",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Nasawi: 88 Pinsala: 14 bahay ay nasira ng daluyong."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1987",
+      "petsa": "Hulyo 12",
+      "pangalan_o_pinagmulan": "Typhoon Thelma (Katring)",
+      "apektadong_lugar": "Mindanao",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Nasawiː 1 Pinsalaː 500 mga bahay"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1987",
+      "petsa": "Nobyembre 23-27",
+      "pangalan_o_pinagmulan": "Super Typhoon Nina (Sisang)",
+      "apektadong_lugar": "Lungsod Legazpi",
+      "pangyayari": "Nagdulot ng daluyong. Naitalang lakas ng hangin: 240 kph",
+      "mga_epekto": "Nasawi: 979 Pinsala: ₱1.119 bilyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1990",
+      "petsa": "Nobyembre 10-14",
+      "pangalan_o_pinagmulan": "Super Typhoon Mike (Ruping)",
+      "apektadong_lugar": "Cebu (Lungsod Cebu)",
+      "pangyayari": "Nagdala ito ng malakas na hangin at matinding pag-ulan sa Cebu na nagdulot naman ng paglubog ng barkong MV Dona Roberta. Nagdulot ng daluyong. Naitalang lakas ng hangin: 220 kph Taas ng alon: 2 - 3 metro",
+      "mga_epekto": "Nasawi: 748 Tinatayang Pinsalaː US$388,500,000 o ₱10.846 bilyon Naapektuhanː 6,159,569 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1991",
+      "petsa": "Nobyembre 2-7",
+      "pangalan_o_pinagmulan": "Typhoon Thelma (Uring)",
+      "apektadong_lugar": "Leyte (Ormoc)",
+      "pangyayari": "Ikalawang pinakanakamamatay na bagyo na tumama sa bansa. Noong Nob. 5, nagdala ito ng malakas na ulan sa Leyte, na nagdulot ng pag-apaw ng maraming ilog at malawakang pagbaha, lalo na sa gitnang bahagi ng Lungsod Ormoc. Karamihan sa mga nasawi ay mga residente ng Lungsod Ormoc. Naitalang lakas ng hangin: 95 kph",
+      "mga_epekto": "Nasawiː 5,956 (ayon sa Rappler); Iba pang tala: Higit 8,000 Pinsala: ₱1.045 bilyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1993",
+      "petsa": "Oktubre 2 – 6, 1993",
+      "pangalan_o_pinagmulan": "Typhoon Flo (Kadiang)",
+      "apektadong_lugar": "Hangganang Isabela - Aurora",
+      "pangyayari": "Nagdulot ng daluyong, Okt. 4.",
+      "mga_epekto": "Nasawiː 576 Pinsalaː ₱8.752 bilyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1995",
+      "petsa": "Setyembre 4",
+      "pangalan_o_pinagmulan": "Typhoon Nina (Sisang)",
+      "apektadong_lugar": "Luzon",
+      "pangyayari": "Tinamaan nito ang Luzon matapos agad ang isa pang bagyo. Nagdala ito ng matinding pag-ulan na dahilan para makulong sa ibabaw ng kanilang mga bubong.",
+      "mga_epekto": "Tinatayang Pinsalaː US$700,300,000"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1995",
+      "petsa": "Oktubre 30 – Nobyembre 4",
+      "pangalan_o_pinagmulan": "Super Typhoon Angela (Rosing)",
+      "apektadong_lugar": "Quezon",
+      "pangyayari": "Nagdulot ng daluyong, Nob. 3. Naitalang lakas ng hangin: 260 kph",
+      "mga_epekto": "Nasawi: 936 Pinsala: ₱10.829 bilyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1998",
+      "petsa": "Setyembre 15 – 21",
+      "pangalan_o_pinagmulan": "Typhoon Vicki (Gading)",
+      "apektadong_lugar": "Pangasinan (San Fabian at Dagupan)",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alon: 1.06 - 1.58 metro",
+      "mga_epekto": "Nasawi: 107 Pinsala: ₱3.08 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "1998",
+      "petsa": "Oktubre 15-24",
+      "pangalan_o_pinagmulan": "Super Typhoon Babs (Loleng)",
+      "apektadong_lugar": "Daet, Camarines Norte at Calauag, Quezon; Visayas",
+      "pangyayari": "Isa sa mga pinakamalakas na bagyo, Okt. 21. Nagdulot ng daluyong, Okt. 22. Naitalang lakas ng hangin: 250 kph Taas ng alon: 3.40 - 3.44 metro",
+      "mga_epekto": "Nasawi: 303 Pinsala: ₱6.787 bilyon Naapektuhanː 3,902,424 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2003",
+      "petsa": "Mayo 25 – 28",
+      "pangalan_o_pinagmulan": "Tropical Storm Linfa (Chedeng)",
+      "apektadong_lugar": "Pangasinan (Dagupan, Lingayen at Mangaldan)",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alon: 0.8 -1 metro",
+      "mga_epekto": "Nasawi: 44 Pinsala: ₱538,000.00"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2004",
+      "petsa": "Mayo 16",
+      "pangalan_o_pinagmulan": "Typhoon Nida (Dindo)",
+      "apektadong_lugar": "Gigmoto, Catanduanes",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Pinsalaː 70 kabahayan at pribadong bangkang de-motor"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2004",
+      "petsa": "Nobyembre 14-21",
+      "pangalan_o_pinagmulan": "Typhoon (Unding)",
+      "apektadong_lugar": "Quezon",
+      "pangyayari": "Nagdulot ng pagbaha at pagguho ng mga putik.",
+      "mga_epekto": "Nasawiː 68 Sugatanː 169 Nawawalaː 69"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2004",
+      "petsa": "Nobyembre 22-23",
+      "pangalan_o_pinagmulan": "Typhoon (Violeta)",
+      "apektadong_lugar": "Quezon",
+      "pangyayari": "Nagdulot ng pagbaha at pagguho ng mga putik.",
+      "mga_epekto": "Nasawiː 31 Sugatanː 187 Nawawalaː 17"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2004",
+      "petsa": "Nobyembre 28-30",
+      "pangalan_o_pinagmulan": "Tropical Depression (Winnie)",
+      "apektadong_lugar": "Luzon ː Gitnang Luzon at Quezon; Visayas",
+      "pangyayari": "Kahit itinuturing itong mahinang bagyo, nagdala ito ng patuloy na paglakas ng ulan lalo na sa Gitnang Luzon, Nob. 29, na nagdulot ng pagbaha at mga pagguho ng lupa at putik.",
+      "mga_epekto": "Nasawiː 893 (ulat) Sugatanː 648 Nawawalaː 751 (opisyal) Tinatayang Pinsalaː ₱679 milyon (€11.8 milyon, $ 15.8 milyon). Iba pang epektoː Nagretiro ang pangalang “Winnie” matapos nito."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2004",
+      "petsa": "Nobyembre 30 --Disyembre 4",
+      "pangalan_o_pinagmulan": "Typhoon Nanmadol (Yoyong)",
+      "apektadong_lugar": "Quezon",
+      "pangyayari": "Nagdulot ng pagbaha at pagguho ng mga putik.",
+      "mga_epekto": "Nasawiː 73 (ulat) Sugatanː 168 Nawawalaː 24"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2006",
+      "petsa": "Setyembre 27",
+      "pangalan_o_pinagmulan": "Typhoon Xangsane (Milenyo)",
+      "apektadong_lugar": "Kalakhang Maynila",
+      "pangyayari": "Tinamaan nito ang Kalakhang Maynila noong Set. 27, nagdala ito ng malakas na hangin at matinding pag-ulan na nagdulot ng pagbaha.",
+      "mga_epekto": "Naapektuhanː 3,842,406 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2006",
+      "petsa": "Nobyembre 25-Disyembre 1",
+      "pangalan_o_pinagmulan": "Super Typhoon Durian (Reming)",
+      "apektadong_lugar": "Rehiyon Bicol ː Albay (Lungsod Legazpi)",
+      "pangyayari": "Ilang buwan matapos ang pagputok ng Mt. Mayon, tinamaan nito ang Albay noong Nob. 30. Tumangay sa mga bahay, bumunot sa mga puno at kumitil ng mga buhay. Dahil sa malakas na ulan, malawakang binaha ang Legazpi City habang pinalubha pa ito nang tinabunan ng mga pagguho ng putik mula sa Bulkang Mayon ang maraming nayon, na nagiging sanhi ng marami pang pagkasawi. Naitalang lakas ng hangin: 320 kph",
+      "mga_epekto": "Nasawiː 1,399 (sa kabuuan, ayon sa Rappler); Halos 2,000 (ayon sa DW.com)ː Hindi bababa sa 720 sa mga pagbaha. 800-1,000 sa mga pagguho ng putik. Daan-daan pa ang naitalang nawawala. Pinsalaː ₱5.086 bilyon o $130 milyon (€97 milyon)."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2007",
+      "petsa": "Nobyembre",
+      "pangalan_o_pinagmulan": "Typhoon Mitag (Mina)",
+      "apektadong_lugar": "",
+      "pangyayari": "",
+      "mga_epekto": "Walang ulat"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2007",
+      "petsa": "Nobyembre",
+      "pangalan_o_pinagmulan": "Typhoon Hagibis (Lando)",
+      "apektadong_lugar": "",
+      "pangyayari": "",
+      "mga_epekto": "Walang ulat"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2008",
+      "petsa": "Hunyo 18-23",
+      "pangalan_o_pinagmulan": "Typhoon Fengshen (Frank)",
+      "apektadong_lugar": "Visayas ː Panay (Iloilo) at Pulo ng Boracay",
+      "pangyayari": "Noong Hun, 21, winasak nito ang Visayas, lalo na ang Iloilo, na higit sa kalahati ng lungsod ay nakaranas ng malawakang pagbaha. Karamihan sa mga nasawi ay mula sa lumubog na barkong \"Princess of the Stars\" sa karagatan sa panahon ng bagyo. Nagdulot ng daluyong. Naitalang lakas ng hangin: 172 kph",
+      "mga_epekto": "Nasawiː 938 (pinakahuling tala); Iba pang tala: 1,501 Tinatayang Pinsalaː US$284,694,000 (sa kabuuan) o ₱13.321 bilyon (pinakahuling tala); (Batay sa ulat ng National Disaster Coordination Council o NDCC)ː Pinsala sa agrikutura at palaisdaaanː ₱3.3 bilyon (€57.2 milyon, $76.4 milyon) Imprastrakturaː ₱750 milyon (€13 milyon, $17.4 milyon) Paaralanː ₱212 milyon (€3.7 milyon, $4.9 milyon) Bangkang pangisdaː ₱110 milyon (€1.9 milyon, $2.5 milyon). Naapektuhanː Higit sa 99,600 pamilya (ulat ng NDCC); 4,785,460 katao (ayon sa Rappler) Mga bahay na nasiraː Higit sa 155,500 (sa sampung rehiyon)"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2009",
+      "petsa": "Setyembre 24-27",
+      "pangalan_o_pinagmulan": "Typhoon Ketsana (Ondoy)",
+      "apektadong_lugar": "Kalakhang Maynila; Gitnang Luzon.",
+      "pangyayari": "Set. 26ː Nagdala ito ng pang-isang buwang dami ng ulan sa loob ng 9 na oras lamang, na nagdulot ng malawakang pagbaha sa Kalakhang Maynila at ilang bahagi ng Gitnang Luzon. Nakapagtala ang PAGASA ng record high na dami ng ulan sa loob ng 24 orasː 455 milimetro (17.9 talampakan)",
+      "mga_epekto": "Nasawiː 464 Sugatanː 529 Nawawalaː 37 (Pinagsamang bilang mula sa mga bagyong Ondoy at Pepeng) Pinsalaː ₱11 bilyon Naapektuhanː 4,901,763 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2009",
+      "petsa": "Setyembre 29 - Oktubre 11",
+      "pangalan_o_pinagmulan": "Typhoon Parma (Pepeng)",
+      "apektadong_lugar": "Luzon ː Lambak ng Cagayan at Cordillera",
+      "pangyayari": "Habang nakakabawi pa ang mga tao mula sa ganap na pinsala dala ng Ondoy sa Luzon, nakapasok ito sa bansa noong Set. 30, na nagpalala ng pinsala sa rehiyon. Nagdulot ng mga pagguho ng lupa. Nagdulot ng daluyong, Okt. 3. Naitalang lakas ng hangin: 120 kph (Tantiya ng PAGASA sa Cagayan)",
+      "mga_epekto": "Nasawi: 492 Tinatayang Pinsalaː US$585,379,000 o ₱27.195 bilyon Naapektuhanː 954,087 pamilya (ulat ng NDRRMC); 4,478,491 katao (ayon sa Rappler)"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2010",
+      "petsa": "Hulyo 11",
+      "pangalan_o_pinagmulan": "Typhoon Conson (Basyang)",
+      "apektadong_lugar": "",
+      "pangyayari": "",
+      "mga_epekto": "Nasawiː 76 Sugatanː 31 Nawawalaː 72 Pinsalaː ₱189 milyon Naapektuhanː 48,640 pamilya o 241,651 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2010",
+      "petsa": "Oktubre 12-19",
+      "pangalan_o_pinagmulan": "Super Typhoon Megi (Juan)",
+      "apektadong_lugar": "Luzon ː La Union at Ilocos Sur",
+      "pangyayari": "Nagdala ng malakas na hangin at matinding ulan sa Luzon noong Okt. 18, inilagay ito sa ilalim ng pinakamalakas na kategorya ng mga bagyo -- kategorya 5. Nagdulot ng daluyong, Okt. 19. Taas ng alon: 3 metro",
+      "mga_epekto": "Nasawiː 12 Sugatanː 9 Tinatayang Pinsalaː US$275,745,000 o ₱8.3 bilyon; Nawasak ang 160 mga fish cage sa dalawang barangay ng Lungsod Candon. Naapektuhanː 39,847 pamilya o 215,037 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2011",
+      "petsa": "Mayo 7",
+      "pangalan_o_pinagmulan": "Typhoon Aere (Bebeng)",
+      "apektadong_lugar": "",
+      "pangyayari": "",
+      "mga_epekto": "Nasawiː 35 Sugatanː 6 Nawawalaː 2 Pinsalaː ₱1.37 bilyon Naapektuhanː 71,267 pamilya o 376,888 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2011",
+      "petsa": "Hunyo 22",
+      "pangalan_o_pinagmulan": "Typhoon Meari (Falcon)",
+      "apektadong_lugar": "",
+      "pangyayari": "",
+      "mga_epekto": "Nasawiː 7 Sugatanː 4 Nawawalaː 12 Pinsalaː ₱4.4 milyon Naapektuhanː 593 pamilya o 2,259 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2011",
+      "petsa": "Hulyo 28",
+      "pangalan_o_pinagmulan": "Typhoon Nock-ten (Juaning)",
+      "apektadong_lugar": "",
+      "pangyayari": "",
+      "mga_epekto": "Nasawiː 41 Sugatanː 40 Nawawalaː 24 Pinsalaː ₱2.7 bilyon Naapektuhanː 158,144 pamilya o 790,601 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2011",
+      "petsa": "Agosto 26",
+      "pangalan_o_pinagmulan": "Typhoon Nanmadol (Mina)",
+      "apektadong_lugar": "Cagayan at Isabela",
+      "pangyayari": "Ngadulot ng baha, pag-guho ng lupa, kawalan ng tubig at ilaw, pagkaputol ng mag puno at komunikasyon",
+      "mga_epekto": "Nasawiː 38 Taas ng alonː 3 - 6 Pinsalaː $1.49 bilyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2011",
+      "petsa": "Setyembre 24 - 28",
+      "pangalan_o_pinagmulan": "Typhoon Nesat (Pedring)",
+      "apektadong_lugar": "Luzon ː Look ng Maynila; Noveleta, Cavite; Santa, Ilocos Sur; at Lungsod Batangas",
+      "pangyayari": "Noong Set. 24, tinamaan nito ang bansa, na nagdulot ng pagbaha sa Luzon. Pinalala ng habagat ang matinding pag-ulan na dala nito. Nagdulot ng daluyong. Taas ng alon: 6 metro",
+      "mga_epekto": "Nasawiː 12 Tinatayang Pinsalaː US$344,173,000; Napinsala ang dalahikan at prinsa sa Roxas Boulevard."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2011",
+      "petsa": "Oktubre 1",
+      "pangalan_o_pinagmulan": "Typhoon Nalgae (Quiel)",
+      "apektadong_lugar": "Santa, Ilocos Sur",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Nasawiː 1"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2011",
+      "petsa": "Disyembre 11 - 16",
+      "pangalan_o_pinagmulan": "Typhoon Washi (Sendong)",
+      "apektadong_lugar": "Mindanao ː Hilagang bahagi (Cagayan de Oro at Iligan)",
+      "pangyayari": "Tumama sa Mindanao, Dis. 16. Nagdulot ng dagliang pagbaha na dumaloy sa gilid ng bundok, nagbunot sa mga puno at pag-apaw sa mga ilog noong madaling-araw. Tinangay sa dagat ang mga bahay na mga pamilyang naapektuhan. Tumagal ng ilang buwan bago maibalik muli sa rehiyonang suplay ng kuryente at malinis na tubig. Dahil sa malawakang bilang ng mga nasawi at pinsala na idinulot nito, itinuring ito na isa sa mga pinakanakamamatay na bagyo sa bansa sa loob ng 12 taon. (Bago ang bagyong Yolanda)",
+      "mga_epekto": "Nasawi at nawawalaː 1,439 (ayon sa Rappler) kabilang ang 1,080 nasawi (ayon sa DW.COM) Sugatanː 6,071 Pinsalaː ₱1.7 bilyon Naapektuhanː 120,800 pamilya o 1,144,229 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2012",
+      "petsa": "Hunyo 12",
+      "pangalan_o_pinagmulan": "Typhoon Guchol (Butchoy)",
+      "apektadong_lugar": "Sarangani, Samar at Surigao",
+      "pangyayari": "Nagdulot ng daluyong. Taas ng alon: 9.1 metro",
+      "mga_epekto": "Nasawiː 2"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2012",
+      "petsa": "Hulyo 3",
+      "pangalan_o_pinagmulan": "Typhoon Doksuri (Dindo)",
+      "apektadong_lugar": "Santa, Ilocos Sur",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Pinsalaː PhP 6.9 milyon pinsala sa imprastraktura at produktong agri-fishery."
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2012",
+      "petsa": "Hulyo 30 – 31",
+      "pangalan_o_pinagmulan": "Typhoon Saola (Gener)",
+      "apektadong_lugar": "Zamboanga del Norte at mga bayan ng Ternate, Cavite; Bulan, Sorsogon; at Lebak, Sultan Kudarat",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Nasawiː 49 Sugatanː 35 Nawawalaː 6 Pinsalaː ₱404 milyon; 214 mga bahay. Naapektuhanː 51,244 pamilya o 236,226 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2012",
+      "petsa": "Agosto 6",
+      "pangalan_o_pinagmulan": "Typhoon Haikui (nagpalakas sa Hanging Habagat)",
+      "apektadong_lugar": "Luzon ː Kalakhang Maynila",
+      "pangyayari": "Nagdala ang Habagat ng matinding pag-ulan sa Luzon, lalo na sa Kalakhang Maynila, sa loob ng 8 araw ng buwan ng Agosto, na nagiging sanhi ng malawakang pagbaha.",
+      "mga_epekto": "Nasawiː 109 Sugatanː 14 Nawawalaː 4 Pinsalaː ₱653 milyon Naapektuhanː 934,285 pamilya (ulat ng NDRRMC); 4,451,725 katao (ayon sa Rappler)"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2012",
+      "petsa": "Agosto 15",
+      "pangalan_o_pinagmulan": "Typhoon Kai-tak (Helen)",
+      "apektadong_lugar": "",
+      "pangyayari": "",
+      "mga_epekto": "Nasawiː 10 Sugatanː 17 Pinsalaː ₱125 milyon Naapektuhanː 3,423 pamilya o 13,234 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2012",
+      "petsa": "Setyembre 25",
+      "pangalan_o_pinagmulan": "Typhoon Jelawat (Lawin)",
+      "apektadong_lugar": "Labason, Zamboanga del Norte",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Pinsalaː 13 mga bahay"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2012",
+      "petsa": "Oktubre 3 - 5",
+      "pangalan_o_pinagmulan": "Tropical Storm Gaemi (Marce)",
+      "apektadong_lugar": "San Antonio, Zambales at Calintaan, Occidental Mindoro",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Pinsalaː 51 mga bahay"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2012",
+      "petsa": "Nobyembre-Disyembre 4",
+      "pangalan_o_pinagmulan": "Typhoon Bopha (Pablo)",
+      "apektadong_lugar": "Mindanao ː Timugang bahagi (Cateel, Boston at Baganga)",
+      "pangyayari": "Dis. 3-4ː Isa sa mga pinakamalalang bagyo na tumama sa Mindanao, ang rehiyong bihirang tamaan ng bagyo, na nagduot ng malawakang pagbaha, nakaapekto sa milyong tao mula sa malawakang pagkasawi at pinsala. Naabot ng bagyo ang latitud na lubhang malapit sa ekwador at ito ang pangalawang pinaka-timog na super typhoon na inilagay sa \"kategorya 5,\" ang pinakamataas na antas pagdating sa pinakamalakas na puwersa ng hangin ng bagyo at ang laki ng mga potensyal na pinsalang maaari nitong idulot. Nagdulot ng daluyong, Dis. 4. Taas ng alon: 6 metro",
+      "mga_epekto": "Nasawiː 1,067 Sugatanː 2,666 Nawawalaː 834 Tinatayang Pinsalaː US$1,692,961,000, higit €749 milyon, o ₱37 bilyon Naapektuhanː 711,682 pamilya (ulat ng NDRRMC); 6,246,664 katao (ayon sa Rappler)"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2012",
+      "petsa": "Disyembre 24 - 26",
+      "pangalan_o_pinagmulan": "Typhoon Wukong (Quinta)",
+      "apektadong_lugar": "Cebu, Lungsod Borongan at Merida, Leyte",
+      "pangyayari": "Nagdulot ng daluyong, Dis. 26.",
+      "mga_epekto": "Nasawiː 20 Sugatanː 3 Nawawalaː 4 Pinsalaː ₱225 milyon Naapektuhanː 11,273 pamilya o 59,993 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2013",
+      "petsa": "Pebrero 28",
+      "pangalan_o_pinagmulan": "Typhoon Shanshan (Crising)",
+      "apektadong_lugar": "",
+      "pangyayari": "",
+      "mga_epekto": "Nasawiː 4 Sugatanː 4 Nawawalaː 2 Pinsalaː ₱11.24 milyon Naapektuhanː 52,325 pamilya o 262,880 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2013",
+      "petsa": "Hunyo 30",
+      "pangalan_o_pinagmulan": "Typhoon Rumbia (Gorio)",
+      "apektadong_lugar": "",
+      "pangyayari": "",
+      "mga_epekto": "Nasawiː 7 Sugatanː 4 Naapektuhanː 718 pamilya o 3,592 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2013",
+      "petsa": "Agosto 8 - 12",
+      "pangalan_o_pinagmulan": "Typhoon Utor (Labuyo)",
+      "apektadong_lugar": "San Fabian at Sorsogon",
+      "pangyayari": "Nagdulot ng daluyong, Ago 11 - 12.",
+      "mga_epekto": "Nasawiː 11 Sugatanː 7 Nawawalaː 3 Pinsalaː ₱1.4 bilyon; 4 mga bahay. Naapektuhanː 87,579 pamilya o 395,723 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2013",
+      "petsa": "Agosto 18 - 22",
+      "pangalan_o_pinagmulan": "Typhoon Trami (Maring)",
+      "apektadong_lugar": "Naic, Cavite at Lungsod Iloilo",
+      "pangyayari": "Nagdulot ng daluyong, Ago. 22.",
+      "mga_epekto": "Nasawiː 8 Sugatanː 41 Nawawalaː 4 Pinsalaː ₱66 milyon; 14 mga bahay. Naapektuhanː 223,991 pamilya o 1,060,094 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2013",
+      "petsa": "Setyembre 19 - 21",
+      "pangalan_o_pinagmulan": "Typhoon Usagi (Odette)",
+      "apektadong_lugar": "Aurora; Caramoran, Catanduanes",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": "Nasawiː 2"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2013",
+      "petsa": "Oktubre 11",
+      "pangalan_o_pinagmulan": "Typhoon Nari (Santi)",
+      "apektadong_lugar": "Look ng Maynila",
+      "pangyayari": "Nagdulot ng daluyong.",
+      "mga_epekto": ""
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2013",
+      "petsa": "Nobyembre 8",
+      "pangalan_o_pinagmulan": "Super Typhoon Haiyan (Yolanda)",
+      "apektadong_lugar": "Visayas ː Leyte, Samar, Bohol, Cebu, Capiz, Iloilo, Lungsod Bacolod. Luzon ː Masbate, Camarines Sur, Catanduanes, Albay, Lungsod Legazpi, Laguna de Bay, Romblon, Quezon. Mindanao ː Davao Oriental",
+      "pangyayari": "Isa ito sa pinakamalakas at pinakamamatay na mga bagyo sa mundo na naitala kailanman, nagpabilis sa isang bihirang public storm signal bilang 4 sa Visayas. Nagdulot ito ng napakalaking pagkawasak at nagdala ng napakalaking pinsala, ang pinakamalubhang kalamidad na tumama sa bansa. Nagdulot ng daluyong. Taas ng alon: 3-10 metro",
+      "mga_epekto": "Nasawiː 6,300 Tinatayang Pinsalaː US$2,051,711,000 o PhP 24.539 bilyon Naapektuhanː 1,473,251 pamilya o 16,106,807 katao"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2014",
+      "petsa": "Hulyo 16",
+      "pangalan_o_pinagmulan": "Typhoon Rammasun (Glenda)",
+      "apektadong_lugar": "Bicol, Calabarzon at Kalakhang Maynila",
+      "pangyayari": "Nagdulot ng pagbagsak ng komunilasyon, ilaw at pagkasira ng mga ka bahayan at mga puno",
+      "mga_epekto": "Nasawiː 11 Sugatanː Wala Pinsalaː 38.6 bilyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2014",
+      "petsa": "Setyembre 23",
+      "pangalan_o_pinagmulan": "Tropical Storm Fung-wong (Mario)",
+      "apektadong_lugar": "Apayao, Cagayan at Isabela",
+      "pangyayari": "Matitinding malalakas na ulan at pag-baha sa mga lugar",
+      "mga_epekto": "Nasawiː 22 Sugatanː Wala Pinsalaː $231 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2014",
+      "petsa": "Disyembre 8",
+      "pangalan_o_pinagmulan": "Typhoon Hagupit (Ruby)",
+      "apektadong_lugar": "Silangang Visayas, Bicol at Batangas",
+      "pangyayari": "Ngadulot ng baha, pag-guho ng lupa, kawalan ng tubig at ilaw, pagkaputol ng mag puno at komunikasyon",
+      "mga_epekto": "Nasawiː 11 Taas ng alonː 3 - 8 Pinsalaː $113.6 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2014",
+      "petsa": "Disyembre 28",
+      "pangalan_o_pinagmulan": "Tropical Storm Jangmi (Seniang)",
+      "apektadong_lugar": "malaking bahagi Mindanaw",
+      "pangyayari": "Nagdulot ng malawakang pag-baha at pag-kasira ng mga kabahayan",
+      "mga_epekto": "Nasawiː 66 Nawawalaː 6 Pinsalaː $28.4 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2015",
+      "petsa": "Oktubre 11 - 24",
+      "pangalan_o_pinagmulan": "Typhoon Koppu (Lando)",
+      "apektadong_lugar": "Aurora; Isabela",
+      "pangyayari": "Nagdulot ng baha at pagkasira ng mga puno at linya ng kuryente at mga nasirang pananim",
+      "mga_epekto": "Nasawiː 2 Sugatanː Wala Pinsalaː $113,000"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2015",
+      "petsa": "Disyembre 9 - 17",
+      "pangalan_o_pinagmulan": "Typhoon Melor (Nona)",
+      "apektadong_lugar": "Bicol, Mimaropa",
+      "pangyayari": "Pagkasira ng mga puno at linya ng kuryente at nasirang mga kabhayan",
+      "mga_epekto": "Nasawiː 42 Sugatanː Wala Pinsalaː $136.4 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2016",
+      "petsa": "Oktubre 15",
+      "pangalan_o_pinagmulan": "Typhoon Sarika (Karen)",
+      "apektadong_lugar": "Aurora, Quirino",
+      "pangyayari": "Nagdulot ng baha at pagkasira ng mga puno at linya ng kuryente at mga nasirang pananim",
+      "mga_epekto": "Nasawiː 36 Sugatanː Wala Pinsalaː $756.7 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2016",
+      "petsa": "Oktubre 22",
+      "pangalan_o_pinagmulan": "Super Typhoon Haima (Lawin)",
+      "apektadong_lugar": "Apayao, Cagayan at Isabela",
+      "pangyayari": "Nagdulot ng malawakang pinsala sa mga dinaanan nito at daluyong na may taas 5.",
+      "mga_epekto": "Nasawiː 20 Sugatanː Wala Pinsalaː $1.97 bilyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2016",
+      "petsa": "Disyembre 23",
+      "pangalan_o_pinagmulan": "Typhoon Nock-ten (Nina)",
+      "apektadong_lugar": "Bicol at Mimaropa",
+      "pangyayari": "Nagdulot ng pagbagsak ng komunikasyon, ilaw at pagkasira ng mga ka bahayan at mga puno",
+      "mga_epekto": "Nasawiː 8 Nawawalaː 16 Pinsalaː $104.1 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2017",
+      "petsa": "Setyembre 14",
+      "pangalan_o_pinagmulan": "Typhoon Doksuri (Maring)",
+      "apektadong_lugar": "Calamba at Calabarzon",
+      "pangyayari": "Nagdulot ng malawakang pag-baha at pag-kasira ng mga kabahayan",
+      "mga_epekto": "Nasawiː 45 Nawawalaː Wala Pinsalaː $814 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2017",
+      "petsa": "Disyembre 16",
+      "pangalan_o_pinagmulan": "Tropical Storm Kai-tak (Urduja)",
+      "apektadong_lugar": "Bisayas at Mindanaw",
+      "pangyayari": "Nagdulot ng malawakang pag-baha at pag-kasira ng mga kabahayan",
+      "mga_epekto": "Nasawiː 83 Sugatanː Wala Pinsalaː $75 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2017",
+      "petsa": "Disyembre 22",
+      "pangalan_o_pinagmulan": "Typhoon Tembin (Vinta)",
+      "apektadong_lugar": "Caraga, Tangway ng Zamboanga at Rehiyon ng Davao",
+      "pangyayari": "Nagdulot ng malawakang pag-baha at pag-kasira ng mga kabahayan",
+      "mga_epekto": "Nasawiː 266 Nawawalaː Wala Pinsalaː $42.4 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2018",
+      "petsa": "Setyembre 11",
+      "pangalan_o_pinagmulan": "Typhoon Mangkhut (Ompong)",
+      "apektadong_lugar": "Lambak ng Cagayan, Cordillera at Rehiyon ng Ilocos",
+      "pangyayari": "Nagdulot ng malawakang pinsala sa mga dinaanan nito",
+      "mga_epekto": "Nasawiː 143 Nawawalaː Wala Pinsalaː $944 milyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2018",
+      "petsa": "Oktubre 24",
+      "pangalan_o_pinagmulan": "Typhoon Yutu (Rosita)",
+      "apektadong_lugar": "Lambak ng Cagayan, Cordillera at Rehiyon ng Ilocos",
+      "pangyayari": "Ngadulot ng baha, pag-guho ng lupa, kawalan ng tubig at ilaw, pagkaputol ng mag puno at komunikasyon",
+      "mga_epekto": "Nasawiː 29 Nawawalaː 1 Pinsalaː ₱10.4 bilyon"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2018",
+      "petsa": "Disyembre 28",
+      "pangalan_o_pinagmulan": "Tropical Depression 35 W Usman",
+      "apektadong_lugar": "Silangang Visayas, Bicol at Calabarzon",
+      "pangyayari": "Nagdulot ng malawakang pag-baha",
+      "mga_epekto": "Nasawiː Hindi tiyak Nawawalaː Hindi tiyak Pinsalaː Hindi tiyak"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2019",
+      "petsa": "Nobyembre 6",
+      "pangalan_o_pinagmulan": "Tropical Storm Quiel (Nakri)",
+      "apektadong_lugar": "Lambak Cagayan at Mindoro",
+      "pangyayari": "Nagdulot ng pag-ka lubog at malawakang pag-baha at nagiwan ng mga sirang pananim sa hilangang Luzon",
+      "mga_epekto": "Nasawiː 9 Sugatanː Hindi tiyak Nawawalaː Hindi tiyak Naapektuhanː 39, 000 at 9,000 +"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2019",
+      "petsa": "Nobyembre 19",
+      "pangalan_o_pinagmulan": "Typhoon Ramon (Kalmaegi)",
+      "apektadong_lugar": "Lambak Cagayan",
+      "pangyayari": "Nagdulot ng pag-ka lubog at malawakang pag-baha at nagiwan ng mga sirang pananim sa lambak Cagayan",
+      "mga_epekto": "Nasawiː Hindi tiyak Sugatanː Hindi tiyak Nawawalaː Hindi tiyak Naapektuhanː 40, 000 inilikas na pamilya"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2019",
+      "petsa": "Disyembre 3",
+      "pangalan_o_pinagmulan": "Typhoon Tisoy (Kammuri)",
+      "apektadong_lugar": "Rehiyon ng Bicol, Calabarzon at Mimaropa",
+      "pangyayari": "Nagdulot ng malawakang pag-baha at nagiwan ng mga sirang pananim, pag-kaputol ng mga puno, linya ng komunikasyon at ilaw sa Timog Katagalogan",
+      "mga_epekto": "Nasawiː 12 Sugatanː 0 Nawawalaː 0 Naapektuhanː 60, 000"
+    },
+    {
+      "uri": "Bagyo",
+      "taon": "2019",
+      "petsa": "Disyembre 25",
+      "pangalan_o_pinagmulan": "Typhoon Ursula (Phanfone)",
+      "apektadong_lugar": "Silangang Visayas, Cebu, Kanlurang Visayas, Calabarzon at Mimaropa",
+      "pangyayari": "Nagdulot ng pag-sira ng mga ka-bahayan, mga panananim (palay), pagka-putol ng linya ng komunikasyon at kuryente, pag-baha sa Ormoc, Leyte",
+      "mga_epekto": "Nasawiː 50 Sugatanː 55 Nawawalaː Hindi tiyak Naapektuhanː Hindi tiyak"
+    },
+    {
+      "uri": "Pagguho ng lupa",
+      "taon": "2006",
+      "petsa": "Pebrero 17",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Guinsaugon, Saint Bernard, Katiimugang Leyte",
+      "pangyayari": "Isang buong mountainside ang gumuho at naglibing sa nayon ng Guinsaugon. Isang paaralan, kasama ang 500 mga tahanan ay natabunan nang mabilis na dumaloy ang putik pababa sa dalisdis ng bundok. Naganap ito matapos ang malalakas na mga pag-ulan na ang dami nito ay hanggang sa 200 sentimetro (78 pulgada) sa rehiyon sa loob ng 10 araw. Isinisisi ito ng mga lokal sa pagkalbo ng mga gubat sanhi ng iligal na pagputol ng puno.",
+      "mga_epekto": "Nasawi: 1,126 (141 ang nasawi at kasama rin ang may 980 nawawala, kabilang ang 280 mga mag-aaral at mga guro na nakulong sa loob ng paaralan) Mga bahay na nasira: 500"
+    },
+    {
+      "uri": "Pagguho ng lupa",
+      "taon": "2012",
+      "petsa": "Enero 5",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Pantukan, Compostela Valley",
+      "pangyayari": "Gumuho ang isang minahan ng ginto malapit sa kabayanan. Kasunod nito, iniutos ang 30-araw na suspensyon sa lahat ng mga operasyon sa pagmimina sa naturang bayan.",
+      "mga_epekto": "Nasawi: 25"
+    },
+    {
+      "uri": "Baha",
+      "taon": "2006",
+      "petsa": "Pebrero 11-17",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Caraga",
+      "pangyayari": "Nagdulot ang malakas na ulan ng dagliang pagbaha na ikinasawi ng mga tao sa Butuan at Surigao del Sur. Libo-libong ang napilitang lumikas.",
+      "mga_epekto": "Nasawiː 5"
+    },
+    {
+      "uri": "Baha",
+      "taon": "2010",
+      "petsa": "Huling bahagi ng Disyembre hanggang Enero 2011",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Bicol, Central Visayas, Eastern Visayas, Caraga",
+      "pangyayari": "",
+      "mga_epekto": "Walang ulat"
+    },
+    {
+      "uri": "Baha",
+      "taon": "2012",
+      "petsa": "Agosto 6",
+      "pangalan_o_pinagmulan": "",
+      "apektadong_lugar": "Luzon ː Kalakhang Maynila",
+      "pangyayari": "Pinalakas ng Typhoon Haikui ang Hanging Habagat na nagdala ng matinding pag-ulan sa Luzon, lalo na sa Kalakhang Maynila, sa loob ng 8 araw ng buwan ng Agosto, na nagiging sanhi ng malawakang pagbaha.",
+      "mga_epekto": "Nasawiː 109 Sugatanː 14 Nawawalaː 4 Pinsalaː ₱653 milyon Naapektuhanː 934,285 pamilya (ulat ng NDRRMC); 4,451,725 katao (ayon sa Rappler)"
+    },
+    {
+      "uri": "Epidemya",
+      "taon": "2003",
+      "petsa": "Hulyo 31",
+      "pangalan_o_pinagmulan": "SARS-CoV-2",
+      "apektadong_lugar": "Luzon",
+      "pangyayari": "Pangunahing artikulo: Pagkalat ng SARS noong 2002–2004 Sumiklab ang isang virus strain ng SARS, mula sa Foshan, Tsina, 17 ang naiulat na kaso ay 2 ang nautas.",
+      "mga_epekto": "Kumpirmado: 17 Namatay: 2 Gumaling: 15"
+    },
+    {
+      "uri": "Epidemya",
+      "taon": "2009",
+      "petsa": "Mayo 21",
+      "pangalan_o_pinagmulan": "Swine flu",
+      "apektadong_lugar": "Luzviminda",
+      "pangyayari": "Pangunahing artikulo: Pandemya ng trangkaso sa Pilipinas ng 2009 Nagsilakbo ang isang trangkasong baboy-swine flu sa Pilipinas, lulan sa Veracruz, Mehiko dahil sa sakit na ito ay lumabas ang resultang kumpirmado na aabot sa 1,709 hanggang 3,207",
+      "mga_epekto": "Kumpirmado: 3, 207 Namatay: 30 Gumaling: 3,177"
+    },
+    {
+      "uri": "Epidemya",
+      "taon": "2020",
+      "petsa": "Enero 30",
+      "pangalan_o_pinagmulan": "COVID-19",
+      "apektadong_lugar": "Luzviminda",
+      "pangyayari": "Pangunahing artikulo: Pandemya ng COVID-19 sa Pilipinas Sumiklab ang bagong nCoV-2019 ayon sa DOH, lulan sa Wuhan, Tsina kung saan nag-mula ang birus noong Pebrero 6 at Marso 13 na dineklara ng World Health Organization ang nCoV ay isa ng COVID-19 at isa ng pandemic sa buong daigdig.",
+      "mga_epekto": "Kumpirmado: TBA Namatay: TBA Gumaling: TBA"
+    }
+  ],
+  "meta": {
+    "title": "Mga Sakunang Pangkalikasan sa Pilipinas - Free Download",
+    "description": "Talaan ng mga sakunang pangkalikasan sa Pilipinas — pagsabog ng bulkan, lindol, tsunami, bagyo, pagguho ng lupa, baha at epidemya — kasama ang petsa, lugar at epekto. Contains 132 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Sakunang Pangkalikasan sa Pilipinas | ListBase",
+    "seo_description": "Download Mga Sakunang Pangkalikasan sa Pilipinas — 132 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 132 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_sakuna_sa_Pilipinas"
+    ]
+  }
+}

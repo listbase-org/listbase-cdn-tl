@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-09T02:23:52.086Z",
-  "total_datasets": 504,
-  "total_records": 447825,
+  "generated": "2026-11-09T02:23:59.294Z",
+  "total_datasets": 505,
+  "total_records": 447957,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -3744,6 +3744,34 @@
         "xlsx": {
           "name": "tl-mga-kalihim-ng-kapaligiran-at-likas-na-yaman_TL.xlsx",
           "size": 9072
+        }
+      }
+    },
+    {
+      "id": "tl-mga-sakunang-pangkalikasan",
+      "name": "Mga Sakunang Pangkalikasan sa Pilipinas",
+      "category": "environment",
+      "record_count": 132,
+      "columns": [
+        "uri",
+        "taon",
+        "petsa",
+        "pangalan_o_pinagmulan",
+        "apektadong_lugar",
+        "pangyayari",
+        "mga_epekto"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_sakuna_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 59318,
+      "files": {
+        "csv": {
+          "name": "tl-mga-sakunang-pangkalikasan_TL.csv",
+          "size": 36527
+        },
+        "xlsx": {
+          "name": "tl-mga-sakunang-pangkalikasan_TL.xlsx",
+          "size": 21981
         }
       }
     },
