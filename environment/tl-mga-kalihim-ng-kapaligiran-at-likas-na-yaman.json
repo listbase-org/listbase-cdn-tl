@@ -1,0 +1,408 @@
+{
+  "id": "tl-mga-kalihim-ng-kapaligiran-at-likas-na-yaman",
+  "name": "Mga Kalihim ng Kapaligiran at Likas na Yaman ng Pilipinas",
+  "title": "Mga Kalihim ng Kapaligiran at Likas na Yaman ng Pilipinas",
+  "description": "Talaan ng mga naging pinuno ng Kagawaran ng Kapaligiran at Likas na Yaman (DENR) ng Pilipinas at mga naunang tanggapan nito.",
+  "category": "environment",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kapaligiran_at_Likas_na_Yaman",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kapaligiran_at_Likas_na_Yaman",
+  "updated": "2026-11",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "number"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "number"
+    },
+    {
+      "key": "pangulong_pinaglingkuran",
+      "label": "Pangulong Pinaglingkuran",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Galicano Apacible",
+      "nagsimula": "1917",
+      "nagtapos": "1921",
+      "pangulong_pinaglingkuran": "NA (American occupation)",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Rafael Corpus",
+      "nagsimula": "1921",
+      "nagtapos": "1923",
+      "pangulong_pinaglingkuran": "NA (American occupation)",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Silvestre Apostol",
+      "nagsimula": "1923",
+      "nagtapos": "1928",
+      "pangulong_pinaglingkuran": "NA (American occupation)",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Rafael Alunan, Sr.",
+      "nagsimula": "1928",
+      "nagtapos": "1932",
+      "pangulong_pinaglingkuran": "NA (American occupation)",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Mariano Garchitorena",
+      "nagsimula": "1947",
+      "nagtapos": "Abril 15, 1948",
+      "pangulong_pinaglingkuran": "Manuel Roxas",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Mariano Garchitorena",
+      "nagsimula": "Abril 15, 1948",
+      "nagtapos": "Setyembre 1948",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Placido L. Mapa",
+      "nagsimula": "Setyembre 21, 1948",
+      "nagtapos": "1950",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Fernando Lopez",
+      "nagsimula": "Disyembre 14, 1950",
+      "nagtapos": "1953",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Placido L. Mapa",
+      "nagsimula": "1953",
+      "nagtapos": "1953",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Salvador Z. Araneta",
+      "nagsimula": "Marso 10, 1954",
+      "nagtapos": "1955",
+      "pangulong_pinaglingkuran": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Juan G. Rodriguez",
+      "nagsimula": "Abril 12, 1956",
+      "nagtapos": "Marso 17, 1957",
+      "pangulong_pinaglingkuran": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Juan G. Rodriguez",
+      "nagsimula": "Marso 17, 1957",
+      "nagtapos": "Agosto 1960",
+      "pangulong_pinaglingkuran": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Cesar Fortich",
+      "nagsimula": "1960",
+      "nagtapos": "1961",
+      "pangulong_pinaglingkuran": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Jose C. Locsin",
+      "nagsimula": "Setyembre 1961",
+      "nagtapos": "Disyembre 30, 1961",
+      "pangulong_pinaglingkuran": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Jose C. Locsin",
+      "nagsimula": "Disyembre 30, 1961",
+      "nagtapos": "1962",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Benjamin M. Gozon",
+      "nagsimula": "1962",
+      "nagtapos": "1963",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Jose Y. Feliciano",
+      "nagsimula": "1963",
+      "nagtapos": "1965",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Fernando Lopez",
+      "nagsimula": "Disyembre 30, 1965",
+      "nagtapos": "1971",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Arturo R. Tanco, Jr.",
+      "nagsimula": "1971",
+      "nagtapos": "Mayo 17, 1974",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagsasaka at Likas na Yaman"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Jose J. Leido, Jr.",
+      "nagsimula": "Mayo 17, 1974",
+      "nagtapos": "Hunyo 1978",
+      "pangulong_pinaglingkuran": "Ferdinand E. Marcos",
+      "posisyon": "Kalihim ng Likas na Yaman"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Jose J. Leido, Jr.",
+      "nagsimula": "Hunyo 1978",
+      "nagtapos": "Hulyo 26, 1981",
+      "pangulong_pinaglingkuran": "Ferdinand E. Marcos",
+      "posisyon": "Ministro ng Likas na Yaman"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Teodoro Q. Peña",
+      "nagsimula": "Hulyo 27, 1981",
+      "nagtapos": "Hunyo 30, 1984",
+      "pangulong_pinaglingkuran": "Ferdinand E. Marcos",
+      "posisyon": "Ministro ng Likas na Yaman"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Rodolfo P. Del Rosario",
+      "nagsimula": "Hulyo 18, 1984",
+      "nagtapos": "Pebrero 25, 1986",
+      "pangulong_pinaglingkuran": "Ferdinand E. Marcos",
+      "posisyon": "Ministro ng Likas na Yaman"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Ernesto M. Maceda",
+      "nagsimula": "Pebrero 26, 1986",
+      "nagtapos": "Marso 25, 1986",
+      "pangulong_pinaglingkuran": "Corazon Aquino",
+      "posisyon": "Ministro ng Likas na Yaman"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Ernesto M. Maceda",
+      "nagsimula": "Marso 25, 1986",
+      "nagtapos": "Disyembre 1, 1986",
+      "pangulong_pinaglingkuran": "Corazon Aquino",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "21",
+      "pangalan": "Carlos G. Dominguez",
+      "nagsimula": "Disyembre 2, 1986",
+      "nagtapos": "Marso 9, 1987",
+      "pangulong_pinaglingkuran": "Corazon Aquino",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "Fulgencio S. Factoran",
+      "nagsimula": "Marso 10, 1987",
+      "nagtapos": "Hunyo 30, 1992",
+      "pangulong_pinaglingkuran": "Corazon Aquino",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Ricardo M. Umali",
+      "nagsimula": "Hulyo 1, 1992",
+      "nagtapos": "Agosto 31, 1992",
+      "pangulong_pinaglingkuran": "Fidel Ramos",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "23",
+      "pangalan": "Angel C. Alcala",
+      "nagsimula": "Setyembre 8, 1992",
+      "nagtapos": "Hunyo 30, 1995",
+      "pangulong_pinaglingkuran": "Fidel Ramos",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "24",
+      "pangalan": "Victor O. Ramos",
+      "nagsimula": "Hulyo 1, 1995",
+      "nagtapos": "Hunyo 30, 1998",
+      "pangulong_pinaglingkuran": "Fidel Ramos",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Antonio H. Cerilles",
+      "nagsimula": "Hunyo 30, 1998",
+      "nagtapos": "Enero 20, 2001",
+      "pangulong_pinaglingkuran": "Joseph Estrada",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Antonio H. Cerilles",
+      "nagsimula": "Enero 20, 2001",
+      "nagtapos": "Enero 25, 2001",
+      "pangulong_pinaglingkuran": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Joemari D. Gerochi",
+      "nagsimula": "Enero 25, 2001",
+      "nagtapos": "Marso 28, 2001",
+      "pangulong_pinaglingkuran": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Heherson T. Alvarez",
+      "nagsimula": "Marso 29, 2001",
+      "nagtapos": "Disyembre 13, 2002",
+      "pangulong_pinaglingkuran": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "Elisea G. Gozun",
+      "nagsimula": "Disyembre 13, 2002",
+      "nagtapos": "Agosto 31, 2004",
+      "pangulong_pinaglingkuran": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "28",
+      "pangalan": "Michael T. Defensor",
+      "nagsimula": "Agosto 31, 2004",
+      "nagtapos": "Pebrero 15, 2006",
+      "pangulong_pinaglingkuran": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "29",
+      "pangalan": "Angelo Reyes",
+      "nagsimula": "Pebrero 15, 2006",
+      "nagtapos": "Hulyo 31, 2007",
+      "pangulong_pinaglingkuran": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "30",
+      "pangalan": "Jose L. Atienza, Jr.",
+      "nagsimula": "Hulyo 31, 2007",
+      "nagtapos": "Disyembre 28, 2009",
+      "pangulong_pinaglingkuran": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Eleazar P. Quinto",
+      "nagsimula": "Enero 4, 2010",
+      "nagtapos": "Pebrero 12, 2010",
+      "pangulong_pinaglingkuran": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Horacio C. Ramos",
+      "nagsimula": "Pebrero 12, 2010",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulong_pinaglingkuran": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "31",
+      "pangalan": "Ramon Jesus P. Paje",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulong_pinaglingkuran": "Benigno Aquino III",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "**",
+      "pangalan": "Regina Paz L. Lopez",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "Mayo 3, 2017",
+      "pangulong_pinaglingkuran": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "32",
+      "pangalan": "Roy Cimatu",
+      "nagsimula": "Mayo 8, 2017",
+      "nagtapos": "Hunyo 30, 2022",
+      "pangulong_pinaglingkuran": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    },
+    {
+      "bilang": "33",
+      "pangalan": "Maria Antonia Yulo-Loyzaga",
+      "nagsimula": "Hulyo 19, 2022",
+      "nagtapos": "Kasalukuyan",
+      "pangulong_pinaglingkuran": "Bongbong Marcos",
+      "posisyon": "Kalihim ng Kapaligiran at Likas na Yaman"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Kapaligiran at Likas na Yaman ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging pinuno ng Kagawaran ng Kapaligiran at Likas na Yaman (DENR) ng Pilipinas at mga naunang tanggapan nito. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Kapaligiran at Likas na Yaman ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Kapaligiran at Likas na Yaman ng Pilipinas — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Kapaligiran_at_Likas_na_Yaman"
+    ]
+  }
+}

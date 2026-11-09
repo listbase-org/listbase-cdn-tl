@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-09T02:23:31.878Z",
-  "total_datasets": 501,
-  "total_records": 447692,
+  "generated": "2026-11-09T02:23:39.102Z",
+  "total_datasets": 502,
+  "total_records": 447736,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -3691,6 +3691,33 @@
         "xlsx": {
           "name": "tl-mga-iniretirong-pangalan-ng-bagyo_TL.xlsx",
           "size": 8612
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-kapaligiran-at-likas-na-yaman",
+      "name": "Mga Kalihim ng Kapaligiran at Likas na Yaman ng Pilipinas",
+      "category": "environment",
+      "record_count": 44,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulong_pinaglingkuran",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kapaligiran_at_Likas_na_Yaman",
+      "updated": "2026-11",
+      "size": 13267,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-kapaligiran-at-likas-na-yaman_TL.csv",
+          "size": 5164
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-kapaligiran-at-likas-na-yaman_TL.xlsx",
+          "size": 9072
         }
       }
     },
