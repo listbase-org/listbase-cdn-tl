@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-09T02:23:39.102Z",
-  "total_datasets": 502,
-  "total_records": 447736,
+  "generated": "2026-11-09T02:23:45.850Z",
+  "total_datasets": 503,
+  "total_records": 447770,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -14100,6 +14100,33 @@
         "xlsx": {
           "name": "tl-hotline-pangemerhensiya_TL.xlsx",
           "size": 8683
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-paggawa-at-empleo",
+      "name": "Mga Kalihim ng Paggawa at Empleo ng Pilipinas",
+      "category": "society",
+      "record_count": 34,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulong_pinaglingkuran",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Paggawa_at_Empleo",
+      "updated": "2026-11",
+      "size": 10231,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-paggawa-at-empleo_TL.csv",
+          "size": 3604
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-paggawa-at-empleo_TL.xlsx",
+          "size": 8733
         }
       }
     },

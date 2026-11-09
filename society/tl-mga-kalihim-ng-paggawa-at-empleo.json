@@ -1,0 +1,328 @@
+{
+  "id": "tl-mga-kalihim-ng-paggawa-at-empleo",
+  "name": "Mga Kalihim ng Paggawa at Empleo ng Pilipinas",
+  "title": "Mga Kalihim ng Paggawa at Empleo ng Pilipinas",
+  "description": "Talaan ng mga naging pinuno ng Kagawaran ng Paggawa at Empleo (DOLE) ng Pilipinas, kasama ang panahon ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "society",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Paggawa_at_Empleo",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Paggawa_at_Empleo",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulong_pinaglingkuran",
+      "label": "Pangulong Pinaglingkuran",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Ramon Torres",
+      "nagsimula": "Disyembre 8, 1933",
+      "nagtapos": "Nobyembre 15, 1935",
+      "pangulong_pinaglingkuran": "Insular Government (Pananakop ng mga Amerikano)",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Jose Avelino",
+      "nagsimula": "Nobyembre 15, 1935",
+      "nagtapos": "Nobyembre 1938",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Hermenegildo Villanueva",
+      "nagsimula": "Disyembre 1938",
+      "nagtapos": "Abril 1939",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Sotero Baluyut",
+      "nagsimula": "Abril 1939",
+      "nagtapos": "1940",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Leon Guinto",
+      "nagsimula": "1940",
+      "nagtapos": "Disyembre 1941",
+      "pangulong_pinaglingkuran": "Manuel Quezon",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Basilio J. Valdes",
+      "nagsimula": "Disyembre 23, 1941",
+      "nagtapos": "Agosto 1, 1944",
+      "pangulong_pinaglingkuran": "Manuel L. Quezon",
+      "posisyon": "Kalihim ng Tanggulang Pambansa, Pagawaing Bayan, Lansangan at Paggawa"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Mariano A. Eraña",
+      "nagsimula": "Agosto 8, 1944",
+      "nagtapos": "Hulyo 11, 1945",
+      "pangulong_pinaglingkuran": "Sergio Osmena",
+      "posisyon": "Kalihim ng Katarungan, Paggawa at Kagalingan"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Marcelo Adurru",
+      "nagsimula": "Hulyo 12, 1945",
+      "nagtapos": "Mayo 28, 1946",
+      "pangulong_pinaglingkuran": "Sergio Osmena",
+      "posisyon": "Kalihim ng Katarungan, Paggawa at Kagalingan"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Pedro Magsalin",
+      "nagsimula": "Mayo 28, 1946",
+      "nagtapos": "Abril 17, 1948",
+      "pangulong_pinaglingkuran": "Manuel Roxas",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Pedro Magsalin",
+      "nagsimula": "Abril 17, 1948",
+      "nagtapos": "Setyembre 21, 1948",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Primitivo Lovina",
+      "nagsimula": "Setyembre 21, 1948",
+      "nagtapos": "Disyembre 21, 1950",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Jose Figueras",
+      "nagsimula": "Disyembre 21, 1950",
+      "nagtapos": "Disyembre 30, 1953",
+      "pangulong_pinaglingkuran": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Eleuterio E. Adeveso",
+      "nagsimula": "Marso 10, 1954",
+      "nagtapos": "Abril 21, 1954",
+      "pangulong_pinaglingkuran": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Angel M. Castaño",
+      "nagsimula": "Agosto 22, 1954",
+      "nagtapos": "Marso 17, 1957",
+      "pangulong_pinaglingkuran": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Angel M. Castaño",
+      "nagsimula": "Marso 17, 1957",
+      "nagtapos": "Disyembre 30, 1961",
+      "pangulong_pinaglingkuran": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Norberto B. Romualdez Jr.",
+      "nagsimula": "Enero 1962",
+      "nagtapos": "1962",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Bernardino R. Ables",
+      "nagsimula": "1962",
+      "nagtapos": "1964",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Jose B. Lingad",
+      "nagsimula": "1964",
+      "nagtapos": "Disyembre 30, 1965",
+      "pangulong_pinaglingkuran": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Emilio Q. Espinosa Jr.",
+      "nagsimula": "Disyembre 30, 1965",
+      "nagtapos": "Setyembre 16, 1967",
+      "pangulong_pinaglingkuran": "Ferdinand E. Marcos",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Blas F. Ople",
+      "nagsimula": "Setyembre 16, 1967",
+      "nagtapos": "1971",
+      "pangulong_pinaglingkuran": "Ferdinand E. Marcos",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Adrian E. Cristobal",
+      "nagsimula": "1971",
+      "nagtapos": "1972",
+      "pangulong_pinaglingkuran": "Ferdinand E. Marcos",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Blas F. Ople",
+      "nagsimula": "1972",
+      "nagtapos": "Hunyo 30, 1978",
+      "pangulong_pinaglingkuran": "Ferdinand E. Marcos",
+      "posisyon": "Kalihim ng Paggawa"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Blas F. Ople",
+      "nagsimula": "Hunyo 30, 1978",
+      "nagtapos": "Pebrero 25, 1986",
+      "pangulong_pinaglingkuran": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Augusto Sanchez",
+      "nagsimula": "Marso 25, 1986",
+      "nagtapos": "Hunyo 30, 1992",
+      "pangulong_pinaglingkuran": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "21",
+      "pangalan": "Ma. Nieves Confessor",
+      "nagsimula": "Hunyo 30, 1992",
+      "nagtapos": "Hunyo 30, 1995",
+      "pangulong_pinaglingkuran": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "Jose S. Brillantes",
+      "nagsimula": "Hulyo 1, 1995",
+      "nagtapos": "Enero 16, 1996",
+      "pangulong_pinaglingkuran": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "23",
+      "pangalan": "Leonardo A. Quisumbing",
+      "nagsimula": "Enero 16, 1996",
+      "nagtapos": "Enero 26, 1998",
+      "pangulong_pinaglingkuran": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Cresenciano Trajano",
+      "nagsimula": "Enero 26, 1998",
+      "nagtapos": "Hunyo 30, 1998",
+      "pangulong_pinaglingkuran": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "24",
+      "pangalan": "Bienvenido Laguesma",
+      "nagsimula": "Hunyo 30, 1998",
+      "nagtapos": "Enero 20, 2001",
+      "pangulong_pinaglingkuran": "Joseph Ejercito Estrada",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Patricia A. Sto. Tomas",
+      "nagsimula": "Enero 20, 2001",
+      "nagtapos": "2006",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Arturo D. Brion",
+      "nagsimula": "2006",
+      "nagtapos": "2008",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "Marianito D. Roque",
+      "nagsimula": "2008",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulong_pinaglingkuran": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "28",
+      "pangalan": "Rosalinda Baldoz",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulong_pinaglingkuran": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    },
+    {
+      "bilang": "29",
+      "pangalan": "Silvestre H. Bello III",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "kasalukuyan",
+      "pangulong_pinaglingkuran": "Rodrigo Roa Duterte",
+      "posisyon": "Kalihim ng Paggawa at Empleo"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Paggawa at Empleo ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging pinuno ng Kagawaran ng Paggawa at Empleo (DOLE) ng Pilipinas, kasama ang panahon ng panunungkulan at pangulong pinaglingkuran. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Paggawa at Empleo ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Paggawa at Empleo ng Pilipinas — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Paggawa_at_Empleo"
+    ]
+  }
+}
