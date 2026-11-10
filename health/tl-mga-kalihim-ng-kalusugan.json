@@ -1,0 +1,368 @@
+{
+  "id": "tl-mga-kalihim-ng-kalusugan",
+  "name": "Mga Kalihim ng Kalusugan ng Pilipinas",
+  "title": "Mga Kalihim ng Kalusugan ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim ng Kalusugan ng Pilipinas mula 1935, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "health",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kalusugan",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kalusugan",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulo",
+      "label": "Pangulo",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Juan Nolasco",
+      "nagsimula": "Nobyembre 15, 1935",
+      "nagtapos": "Disyembre 24, 1941",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Panutong Pambayan, Kalusugan, at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Sergio Osmeña",
+      "nagsimula": "Disyembre 24, 1941",
+      "nagtapos": "Agosto 1, 1944",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Panutong Pambayan, Kalusugan, at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Basilio J. Valdes",
+      "nagsimula": "Pebrero 27, 1945",
+      "nagtapos": "Hulyo 12, 1945",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Kalusugan, at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Jose Locsin",
+      "nagsimula": "Hulyo 12, 1945",
+      "nagtapos": "Mayo 27, 1946",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Kalusugan, at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Antonio Villarama",
+      "nagsimula": "Mayo 28, 1946",
+      "nagtapos": "Oktubre 3, 1947",
+      "pangulo": "Manuel Roxas",
+      "posisyon": "Kalihim ng Kalusugan, at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Antonio Villarama",
+      "nagsimula": "Oktubre 3, 1947",
+      "nagtapos": "Abril 15, 1948",
+      "pangulo": "Manuel Roxas",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Antonio Villarama",
+      "nagsimula": "Abril 17, 1948",
+      "nagtapos": "Disyembre 31, 1949",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Juan S. Salcedo",
+      "nagsimula": "Disyembre 14, 1950",
+      "nagtapos": "Disyembre 30, 1953",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Juan S. Salcedo",
+      "nagsimula": "Disyembre 30, 1953",
+      "nagtapos": "Mayo 1954",
+      "pangulo": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Paulino Garcia",
+      "nagsimula": "Hunyo 1954",
+      "nagtapos": "Marso 17, 1957",
+      "pangulo": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Paulino Garcia",
+      "nagsimula": "Marso 17, 1957",
+      "nagtapos": "Hunyo 1958",
+      "pangulo": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Elpidio Valencia",
+      "nagsimula": "Hulyo 1958",
+      "nagtapos": "Disyembre 30, 1961",
+      "pangulo": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Francisco Q. Duque, Jr.",
+      "nagsimula": "Disyembre 30, 1961",
+      "nagtapos": "Hulyo 1963",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Floro Dabu",
+      "nagsimula": "Hulyo 1963",
+      "nagtapos": "Disyembre 1964",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Manuel Cuenco",
+      "nagsimula": "Disyembre 1964",
+      "nagtapos": "Disyembre 30, 1965",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Paulino Garcia",
+      "nagsimula": "Disyembre 30, 1965",
+      "nagtapos": "Agosto 1968",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Amadeo H. Cruz",
+      "nagsimula": "Agosto 1968",
+      "nagtapos": "Disyembre 1971",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Clemente S. Gatmaitan",
+      "nagsimula": "Disyembre 1971",
+      "nagtapos": "Hunyo 30, 1978",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Clemente S. Gatmaitan",
+      "nagsimula": "Hunyo 30, 1978",
+      "nagtapos": "1979",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Kalusugan"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Enrique Garcia",
+      "nagsimula": "1979",
+      "nagtapos": "1981",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Kalusugan"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Jesus Azurin",
+      "nagsimula": "1981",
+      "nagtapos": "Pebrero 25, 1986",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Kalusugan"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Alfredo Bengzon",
+      "nagsimula": "Marso 25, 1986",
+      "nagtapos": "Pebrero 7, 1992",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Antonio Periquet",
+      "nagsimula": "Pebrero 10, 1992",
+      "nagtapos": "Hunyo 30, 1992",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Juan Flavier",
+      "nagsimula": "Hulyo 1, 1992",
+      "nagtapos": "Enero 30, 1995",
+      "pangulo": "Fidel Ramos",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Jaime Galvez-Tan",
+      "nagsimula": "Enero 30, 1995",
+      "nagtapos": "Hulyo 5, 1995",
+      "pangulo": "Fidel Ramos",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "21",
+      "pangalan": "Hilarion Ramiro, Jr.",
+      "nagsimula": "Hulyo 10, 1995",
+      "nagtapos": "Marso 22, 1996",
+      "pangulo": "Fidel Ramos",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "Carmencita Reodica",
+      "nagsimula": "Abril 8, 1996",
+      "nagtapos": "Hunyo 29, 1998",
+      "pangulo": "Fidel Ramos",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "23",
+      "pangalan": "Dr. Felipe Estrella",
+      "nagsimula": "Hunyo 30, 1998",
+      "nagtapos": "Setyembre 13, 1998",
+      "pangulo": "Joseph Estrada",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "24",
+      "pangalan": "Dr. Alberto G. Romualdez",
+      "nagsimula": "Setyembre 14, 1998",
+      "nagtapos": "Enero 20, 2001",
+      "pangulo": "Joseph Estrada",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Manuel Dayrit",
+      "nagsimula": "Enero 20, 2001",
+      "nagtapos": "2005",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Francisco T. Duque III",
+      "nagsimula": "Hunyo 1, 2005",
+      "nagtapos": "2009",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "Esperanza Cabral",
+      "nagsimula": "2009",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "28",
+      "pangalan": "Enrique Ona",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Disyembre 19, 2014",
+      "pangulo": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "29",
+      "pangalan": "Janette Garin",
+      "nagsimula": "Pebrero 17, 2015",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulo": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Paulyn Ubial",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "Oktubre 10, 2017",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Herminigildo Valle",
+      "nagsimula": "Oktubre 12, 2017",
+      "nagtapos": "Oktubre 25, 2017",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "30, (26)",
+      "pangalan": "Francisco T. Duque III",
+      "nagsimula": "Oktubre 26, 2017",
+      "nagtapos": "Hunyo 30, 2022",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Maria Rosario Vergeire",
+      "nagsimula": "Hulyo 14, 2022",
+      "nagtapos": "Hunyo 5, 2023",
+      "pangulo": "Bongbong Marcos",
+      "posisyon": "Kalihim ng Kalusugan"
+    },
+    {
+      "bilang": "31",
+      "pangalan": "Teodoro “Ted” J. Herbosa",
+      "nagsimula": "Hunyo 5, 2023",
+      "nagtapos": "kasalukuyan",
+      "pangulo": "Bongbong Marcos",
+      "posisyon": "Kalihim ng Kalusugan"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Kalusugan ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim ng Kalusugan ng Pilipinas mula 1935, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Kalusugan ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Kalusugan ng Pilipinas — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Kalusugan"
+    ]
+  }
+}

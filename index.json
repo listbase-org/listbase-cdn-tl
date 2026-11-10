@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-10T02:13:36.644Z",
-  "total_datasets": 507,
-  "total_records": 448018,
+  "generated": "2026-11-10T02:13:43.083Z",
+  "total_datasets": 508,
+  "total_records": 448057,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -5202,6 +5202,33 @@
         "xlsx": {
           "name": "tl-klinikang-dental-maxicare_TL.xlsx",
           "size": 20521
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-kalusugan",
+      "name": "Mga Kalihim ng Kalusugan ng Pilipinas",
+      "category": "health",
+      "record_count": 39,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kalusugan",
+      "updated": "2026-11",
+      "size": 10618,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-kalusugan_TL.csv",
+          "size": 4077
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-kalusugan_TL.xlsx",
+          "size": 8836
         }
       }
     },
