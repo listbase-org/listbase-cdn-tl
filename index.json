@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-09T02:23:59.294Z",
-  "total_datasets": 505,
-  "total_records": 447957,
+  "generated": "2026-11-10T02:13:29.346Z",
+  "total_datasets": 506,
+  "total_records": 447968,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -14078,6 +14078,32 @@
         "xlsx": {
           "name": "tl-mga-babala-ng-bagyo-psws_TL.xlsx",
           "size": 7857
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-agham-at-teknolohiya",
+      "name": "Mga Kalihim ng Agham at Teknolohiya ng Pilipinas",
+      "category": "science",
+      "record_count": 11,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Agham_at_Teknolohiya",
+      "updated": "2026-11",
+      "size": 3825,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-agham-at-teknolohiya_TL.csv",
+          "size": 940
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-agham-at-teknolohiya_TL.xlsx",
+          "size": 7367
         }
       }
     },
