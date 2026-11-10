@@ -1,0 +1,400 @@
+{
+  "id": "tl-mga-kalihim-ng-transportasyon",
+  "name": "Mga Kalihim ng Transportasyon ng Pilipinas",
+  "title": "Mga Kalihim ng Transportasyon ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim ng Transportasyon (at Komunikasyon) ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "transport",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Transportasyon",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Transportasyon",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulo",
+      "label": "Pangulo",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Maximo Paterno",
+      "nagsimula": "Enero 21, 1899",
+      "nagtapos": "Nobyembre 13, 1899",
+      "pangulo": "Emilio Aguinaldo",
+      "posisyon": "Ministro ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Antonio de las Alas",
+      "nagsimula": "Nobyembre 15, 1935",
+      "nagtapos": "1936",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Mariano Jesus Cuenco",
+      "nagsimula": "1936",
+      "nagtapos": "1939",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Jose Avelino",
+      "nagsimula": "1939",
+      "nagtapos": "1941",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Basilio Valdes",
+      "nagsimula": "Disyembre 23, 1941",
+      "nagtapos": "Agosto 1, 1944",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Tanggulang Pambansa, Pagawaing Bayan, Komunikasyon at Paggawa"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Jose Paez",
+      "nagsimula": "1944",
+      "nagtapos": "1945",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Sotero Cabahug",
+      "nagsimula": "1945",
+      "nagtapos": "Mayo 28, 1946",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Ricardo Nepumoceno",
+      "nagsimula": "Mayo 28, 1946",
+      "nagtapos": "Hulyo 1, 1949",
+      "pangulo": "Manuel Roxas",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Ricardo Nepumoceno",
+      "nagsimula": "Mayo 28, 1946",
+      "nagtapos": "Hulyo 1, 1949",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Propsero Sanidad",
+      "nagsimula": "Pebrero 21, 1950",
+      "nagtapos": "1951",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Sotero Baluyot",
+      "nagsimula": "Enero 6, 1951",
+      "nagtapos": "1952",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Pablo Lorenzo",
+      "nagsimula": "Mayo 6, 1952",
+      "nagtapos": "1953",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Vicente Orosa",
+      "nagsimula": "Marso 10, 1954",
+      "nagtapos": "1955",
+      "pangulo": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Florencio Moreno",
+      "nagsimula": "Abril 30, 1955",
+      "nagtapos": "Disyembre 30, 1961",
+      "pangulo": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Florencio Moreno",
+      "nagsimula": "Abril 30, 1955",
+      "nagtapos": "Disyembre 30, 1961",
+      "pangulo": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Marciano Bautista",
+      "nagsimula": "1961",
+      "nagtapos": "1962",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Paulino Cases",
+      "nagsimula": "1962",
+      "nagtapos": "1962",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Brigido Valenica",
+      "nagsimula": "1962",
+      "nagtapos": "1963",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Jorge Abad",
+      "nagsimula": "1963",
+      "nagtapos": "1965",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Antonio Raquiza",
+      "nagsimula": "Agosto 24, 1966",
+      "nagtapos": "1968",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Rene Espina",
+      "nagsimula": "1968",
+      "nagtapos": "Setyembre 1969",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Antonio Syquio",
+      "nagsimula": "Setyembre 1969",
+      "nagtapos": "1970",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "21",
+      "pangalan": "David Consunji",
+      "nagsimula": "1970",
+      "nagtapos": "1975",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "Alfredo Juinio",
+      "nagsimula": "1975",
+      "nagtapos": "1978",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Alfredo Juinio",
+      "nagsimula": "1978",
+      "nagtapos": "1981",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "23",
+      "pangalan": "Jose P. Dans",
+      "nagsimula": "1981",
+      "nagtapos": "1986",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "24",
+      "pangalan": "Hernando B. Perez",
+      "nagsimula": "Pebrero 25, 1986",
+      "nagtapos": "Marso 1987",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Rainerio O. Reyes",
+      "nagsimula": "Marso 1987",
+      "nagtapos": "1989",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Oscar Orbos",
+      "nagsimula": "1990",
+      "nagtapos": "1992",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "Arturo Corona",
+      "nagsimula": "1990",
+      "nagtapos": "1992",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "28",
+      "pangalan": "Pete Nicomedes Prado",
+      "nagsimula": "1992",
+      "nagtapos": "1992",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "29",
+      "pangalan": "Jesus B. Garcia",
+      "nagsimula": "Hulyo 1992",
+      "nagtapos": "Marso 1996",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "30",
+      "pangalan": "Amado S. Lagdameo",
+      "nagsimula": "Abril 1996",
+      "nagtapos": "Abril 1997",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "31",
+      "pangalan": "Arturo T. Enrile",
+      "nagsimula": "Abril 1997",
+      "nagtapos": "Enero 1998",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "32",
+      "pangalan": "Josefina Trinidad-Luchauco",
+      "nagsimula": "Enero 1998",
+      "nagtapos": "Hunyo 30, 1998",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "33",
+      "pangalan": "Vicente C. Rivera",
+      "nagsimula": "Hunyo 30, 1998",
+      "nagtapos": "Enero 20, 2001",
+      "pangulo": "Joseph Ejercito Estrada",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "34",
+      "pangalan": "Pantaleon D. Alvarez",
+      "nagsimula": "Enero 20, 2001",
+      "nagtapos": "2002",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "35",
+      "pangalan": "Leandro Mendoza",
+      "nagsimula": "Hulyo 3, 2002",
+      "nagtapos": "Pebrero 23, 2010",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "36",
+      "pangalan": "Anneli R. Lontoc (Acting)",
+      "nagsimula": "Marso 9, 2010",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "37",
+      "pangalan": "Jose de Jesus",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Hulyo 4, 2011",
+      "pangulo": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "38",
+      "pangalan": "Manuel Roxas II",
+      "nagsimula": "Hulyo 4, 2011",
+      "nagtapos": "Oktubre 18, 2012",
+      "pangulo": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "39",
+      "pangalan": "Joseph Emilio Abaya",
+      "nagsimula": "Oktubre 18, 2012",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulo": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "40",
+      "pangalan": "Arthur Tugade",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "kasalukuyan",
+      "pangulo": "Rodrigo Roa Duterte",
+      "posisyon": "Kalihim ng Transportasyon"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Transportasyon ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim ng Transportasyon (at Komunikasyon) ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Transportasyon ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Transportasyon ng Pilipinas — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Transportasyon"
+    ]
+  }
+}

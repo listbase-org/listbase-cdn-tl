@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-10T02:13:43.083Z",
-  "total_datasets": 508,
-  "total_records": 448057,
+  "generated": "2026-11-10T02:13:50.317Z",
+  "total_datasets": 509,
+  "total_records": 448100,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 29
+      "dataset_count": 30
     },
     {
       "id": "units",
@@ -15307,6 +15307,33 @@
         "xlsx": {
           "name": "tl-mga-estasyon-ng-pnr_TL.xlsx",
           "size": 15389
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-transportasyon",
+      "name": "Mga Kalihim ng Transportasyon ng Pilipinas",
+      "category": "transport",
+      "record_count": 43,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Transportasyon",
+      "updated": "2026-11",
+      "size": 12191,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-transportasyon_TL.csv",
+          "size": 5080
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-transportasyon_TL.xlsx",
+          "size": 9025
         }
       }
     },
