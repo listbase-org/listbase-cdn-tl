@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-10T02:13:50.317Z",
-  "total_datasets": 509,
-  "total_records": 448100,
+  "generated": "2026-11-10T02:13:58.462Z",
+  "total_datasets": 510,
+  "total_records": 448115,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -14737,6 +14737,32 @@
         "xlsx": {
           "name": "tl-dayuhang-turista-ayon-sa-bansa_TL.xlsx",
           "size": 10933
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-turismo",
+      "name": "Mga Kalihim ng Turismo ng Pilipinas",
+      "category": "tourism",
+      "record_count": 15,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Turismo",
+      "updated": "2026-11",
+      "size": 4365,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-turismo_TL.csv",
+          "size": 1203
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-turismo_TL.xlsx",
+          "size": 7519
         }
       }
     },

@@ -1,0 +1,156 @@
+{
+  "id": "tl-mga-kalihim-ng-turismo",
+  "name": "Mga Kalihim ng Turismo ng Pilipinas",
+  "title": "Mga Kalihim ng Turismo ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim ng Turismo ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "tourism",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Turismo",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Turismo",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulo",
+      "label": "Pangulo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Jose Antonio Gonzales",
+      "nagsimula": "Marso 1986",
+      "nagtapos": "30 Hunyo 1987",
+      "pangulo": "Corazon Aquino"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Rafael Alunan III",
+      "nagsimula": "1 Hulyo 1987",
+      "nagtapos": "30 Hunyo 1989",
+      "pangulo": "Corazon Aquino"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Narzalina Z. Lim",
+      "nagsimula": "1 Hulyo 1989",
+      "nagtapos": "30 Hunyo 1992",
+      "pangulo": "Corazon Aquino"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Vicente Carlos",
+      "nagsimula": "30 Hunyo 1992",
+      "nagtapos": "1996",
+      "pangulo": "Fidel V. Ramos"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Evelyn B. Pantig",
+      "nagsimula": "1996",
+      "nagtapos": "1996",
+      "pangulo": "Fidel V. Ramos"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Guillermina T. Gabor",
+      "nagsimula": "1996",
+      "nagtapos": "30 Hulyo 1998",
+      "pangulo": "Fidel V. Ramos"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Gemma Cruz-Araneta",
+      "nagsimula": "30 Hulyo 1998",
+      "nagtapos": "20 Enero 2001",
+      "pangulo": "Joseph Ejercito Estrada"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Richard J. Gordon",
+      "nagsimula": "20 Enero 2001",
+      "nagtapos": "Enero 2004",
+      "pangulo": "Gloria Macapagal Arroyo"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Robert Ace Barbers",
+      "nagsimula": "Enero 2004",
+      "nagtapos": "Pebrero 2004",
+      "pangulo": "Gloria Macapagal Arroyo"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Roberto M. Pagdanganan",
+      "nagsimula": "Pebrero 2004",
+      "nagtapos": "Setyembre 2005",
+      "pangulo": "Gloria Macapagal Arroyo"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Joseph Ace H. Durano",
+      "nagsimula": "Setyembre 2005",
+      "nagtapos": "30 Hunyo 2010",
+      "pangulo": "Gloria Macapagal Arroyo"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Alberto Lim",
+      "nagsimula": "30 Hunyo 2010",
+      "nagtapos": "Septyembre 2, 2011",
+      "pangulo": "Benigno S. Aquino III"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Ramon Jimenez, Jr.",
+      "nagsimula": "Septyembre 2, 2011",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulo": "Benigno S. Aquino III"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Wanda Corazon Tulfo-Teo",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "Mayo 8, 2018",
+      "pangulo": "Rodrigo Roa Duterte"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Bernadette Romulo-Puyat",
+      "nagsimula": "Mayo 8, 2018",
+      "nagtapos": "kasalukuyan",
+      "pangulo": "Rodrigo Roa Duterte"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Turismo ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim ng Turismo ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Turismo ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Turismo ng Pilipinas — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Turismo"
+    ]
+  }
+}
