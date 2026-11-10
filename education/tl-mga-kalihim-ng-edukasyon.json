@@ -1,0 +1,456 @@
+{
+  "id": "tl-mga-kalihim-ng-edukasyon",
+  "name": "Mga Kalihim ng Edukasyon ng Pilipinas",
+  "title": "Mga Kalihim ng Edukasyon ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim ng Edukasyon (at Pampublikong Instruksiyon) ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "education",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Edukasyon",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Edukasyon",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulo",
+      "label": "Pangulo",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Sergio Osmeña",
+      "nagsimula": "15 Nobyembre 1935",
+      "nagtapos": "18 Abril 1939",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Panutong Pambayan"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Jorge Bocobo",
+      "nagsimula": "19 Abril 1939",
+      "nagtapos": "22 Enero 1941",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Panutong Pambayan"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Sergio Osmeña",
+      "nagsimula": "24 Disyembre 1941",
+      "nagtapos": "1 Agosto 1944",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Panutong Pambayan, Kalusugan, at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Carlos P. Romulo",
+      "nagsimula": "Oktubre 1944",
+      "nagtapos": "Pebrero 1945",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Panutong Pambayan at Impormasyon"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Maximo Kalaw",
+      "nagsimula": "27 Pebrero 1945",
+      "nagtapos": "4 Mayo 1945",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Panuto"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Jose Reyes",
+      "nagsimula": "5 Mayo 1945",
+      "nagtapos": "3 Enero 1946",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Panuto"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Francisco Benitez",
+      "nagsimula": "3 Enero 1946",
+      "nagtapos": "27 Mayo 1946",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Panuto"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Manuel Gallego",
+      "nagsimula": "28 Mayo 1946",
+      "nagtapos": "Oktubre 1947",
+      "pangulo": "Manuel Roxas",
+      "posisyon": "Kalihim ng Panuto"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Manuel Gallego",
+      "nagsimula": "Oktubre 1947",
+      "nagtapos": "17 Abril 1948",
+      "pangulo": "Manuel Roxas",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Manuel Gallego",
+      "nagsimula": "17 Abril 1948",
+      "nagtapos": "20 Setyembre 1948",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Prudencio Langcauon",
+      "nagsimula": "Setyembre 1948",
+      "nagtapos": "13 Setyembre 1950",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Pablo Lorenzo",
+      "nagsimula": "14 Setyembre 1950",
+      "nagtapos": "3 Abril 1951",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Teodoro Evangelista",
+      "nagsimula": "18 Mayo 1951",
+      "nagtapos": "30 Setyembre 1951",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Cecilio Putong",
+      "nagsimula": "18 Abril 1952",
+      "nagtapos": "30 Disyembre 1953",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Cecilio Putong",
+      "nagsimula": "30 Disyembre 1953",
+      "nagtapos": "13 Enero 1954",
+      "pangulo": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Pastor Endencia",
+      "nagsimula": "13 Enero 1954",
+      "nagtapos": "30 Hunyo 1954",
+      "pangulo": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Gregorio Hernandez, Jr.",
+      "nagsimula": "1 Hulyo 1954",
+      "nagtapos": "28 Marso 1957",
+      "pangulo": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Martin Aguilar, Jr.",
+      "nagsimula": "29 Marso 1957",
+      "nagtapos": "2 Setyembre 1957",
+      "pangulo": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Manuel Lim",
+      "nagsimula": "3 Setyembre 1957",
+      "nagtapos": "17 Nobyembre 1957",
+      "pangulo": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Daniel Salcedo",
+      "nagsimula": "18 Nobyembre 1957",
+      "nagtapos": "31 Mayo 1959",
+      "pangulo": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Jose E. Romero",
+      "nagsimula": "1 Hunyo 1959",
+      "nagtapos": "30 Disyembre 1961",
+      "pangulo": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Jose E. Romero",
+      "nagsimula": "30 Disyembre 1961",
+      "nagtapos": "4 Setyembre 1962",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Jose Tuason",
+      "nagsimula": "5 Setyembre 1962",
+      "nagtapos": "30 Disyembre 1962",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Alejandro Roces",
+      "nagsimula": "30 Disyembre 1962",
+      "nagtapos": "7 Setyembre 1965",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "21",
+      "pangalan": "Carlos P. Romulo",
+      "nagsimula": "30 Disyembre 1965",
+      "nagtapos": "16 Disyembre 1967",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Onofre Corpuz (akting)",
+      "nagsimula": "17 Disyembre 1967",
+      "nagtapos": "20 Abril 1971",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "Juan Manuel",
+      "nagsimula": "21 Abril 1971",
+      "nagtapos": "23 Setyembre 1972",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Juan Manuel",
+      "nagsimula": "24 Setyembre 1972",
+      "nagtapos": "Hunyo 1978",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Edukasyon at Kultura"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Juan Manuel",
+      "nagsimula": "Hunyo 1978",
+      "nagtapos": "Hunyo 1979",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Edukasyon at Kultura"
+    },
+    {
+      "bilang": "23",
+      "pangalan": "Onofre Corpuz",
+      "nagsimula": "Hulyo 1979",
+      "nagtapos": "10 Setyembre 1982",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Edukasyon at Kultura"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Onofre Corpuz",
+      "nagsimula": "11 Setyembre 1982",
+      "nagtapos": "Enero 1984",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Edukasyon, Kultura at Palakasan"
+    },
+    {
+      "bilang": "24",
+      "pangalan": "Jaime Laya",
+      "nagsimula": "Enero 1984",
+      "nagtapos": "Pebrero 1986",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Edukasyon, Kultura at Palakasan"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Lourdes Quisumbing",
+      "nagsimula": "Pebrero 1986",
+      "nagtapos": "Disyembre 1989",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Edukasyon, Kalinangan at Palakasan"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Isidro Cariño",
+      "nagsimula": "3 Enero 1990",
+      "nagtapos": "30 Hunyo 1992",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Edukasyon, Kalinangan at Palakasan"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "Armand Fabella",
+      "nagsimula": "1 Hulyo 1992",
+      "nagtapos": "6 Hulyo 1994",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Edukasyon, Kalinangan at Palakasan"
+    },
+    {
+      "bilang": "28",
+      "pangalan": "Ricardo Gloria",
+      "nagsimula": "7 Hulyo 1994",
+      "nagtapos": "Disyembre 1997",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Edukasyon, Kalinangan at Palakasan"
+    },
+    {
+      "bilang": "29",
+      "pangalan": "Erlinda Pefianco",
+      "nagsimula": "2 Pebrero 1998",
+      "nagtapos": "30 Hunyo 1998",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Edukasyon, Kalinangan at Palakasan"
+    },
+    {
+      "bilang": "30",
+      "pangalan": "Br. Andrew Gonzalez, FSC",
+      "nagsimula": "1 Hulyo 1998",
+      "nagtapos": "22 Enero 2001",
+      "pangulo": "Joseph Ejercito Estrada",
+      "posisyon": "Kalihim ng Edukasyon, Kalinangan at Palakasan"
+    },
+    {
+      "bilang": "31",
+      "pangalan": "Raul S. Roco",
+      "nagsimula": "22 Enero 2001",
+      "nagtapos": "10 Agosto 2001",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Edukasyon, Kalinangan at Palakasan"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Raul S. Roco",
+      "nagsimula": "11 Agosto 2001",
+      "nagtapos": "Agosto 2002",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "32",
+      "pangalan": "Edilberto C. de Jesus",
+      "nagsimula": "Setyembre 2002",
+      "nagtapos": "Agosto 2004",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "33",
+      "pangalan": "Florencio B. Abad",
+      "nagsimula": "24 Setyembre 2004",
+      "nagtapos": "8 Hulyo 2005",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Ramon C. Bacani (OIC)",
+      "nagsimula": "8 Hulyo 2005",
+      "nagtapos": "30 Agosto 2005",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Fe A. Hidalgo (OIC)",
+      "nagsimula": "31 Agosto 2005",
+      "nagtapos": "3 Oktubre 2006",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "34",
+      "pangalan": "Jesli A. Lapis",
+      "nagsimula": "4 Oktubre 2006",
+      "nagtapos": "15 Marso 2010",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "35",
+      "pangalan": "Mona D. Valisno",
+      "nagsimula": "15 Marso 2010",
+      "nagtapos": "30 Hunyo 2010",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "36",
+      "pangalan": "Br. Armin A. Luistro, FSC",
+      "nagsimula": "30 Hunyo 2010",
+      "nagtapos": "30 Hunyo 2016",
+      "pangulo": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "37",
+      "pangalan": "Leonor Magtolis Briones",
+      "nagsimula": "30 Hunyo 2016",
+      "nagtapos": "30 Hunyo 2022",
+      "pangulo": "Rodrigo Roa Duterte",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "38",
+      "pangalan": "Sara Z. Duterte",
+      "nagsimula": "30 Hunyo 2022",
+      "nagtapos": "19 Hulyo 2024",
+      "pangulo": "Ferdinand Marcos Jr",
+      "posisyon": "Kalihim ng Edukasyon"
+    },
+    {
+      "bilang": "39",
+      "pangalan": "Sonny Angara",
+      "nagsimula": "19 Hulyo 2024",
+      "nagtapos": "Kasalukuyan",
+      "pangulo": "Ferdinand Marcos Jr",
+      "posisyon": "Kalihim ng Edukasyon"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Edukasyon ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim ng Edukasyon (at Pampublikong Instruksiyon) ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Edukasyon ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Edukasyon ng Pilipinas — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Edukasyon"
+    ]
+  }
+}

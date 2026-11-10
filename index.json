@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-10T02:13:29.346Z",
-  "total_datasets": 506,
-  "total_records": 447968,
+  "generated": "2026-11-10T02:13:36.644Z",
+  "total_datasets": 507,
+  "total_records": 448018,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 41
+      "dataset_count": 42
     },
     {
       "id": "entertainment",
@@ -2744,6 +2744,33 @@
         "xlsx": {
           "name": "tl-metro-manila-paaralan_TL.xlsx",
           "size": 102823
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-edukasyon",
+      "name": "Mga Kalihim ng Edukasyon ng Pilipinas",
+      "category": "education",
+      "record_count": 50,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Edukasyon",
+      "updated": "2026-11",
+      "size": 13298,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-edukasyon_TL.csv",
+          "size": 5348
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-edukasyon_TL.xlsx",
+          "size": 9355
         }
       }
     },
