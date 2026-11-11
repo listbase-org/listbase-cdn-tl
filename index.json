@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-10T02:13:58.462Z",
-  "total_datasets": 510,
-  "total_records": 448115,
+  "generated": "2026-11-11T02:04:39.053Z",
+  "total_datasets": 511,
+  "total_records": 448137,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -5642,6 +5642,30 @@
         "xlsx": {
           "name": "tl-mga-album-ng-apo-hiking-society_TL.xlsx",
           "size": 7600
+        }
+      }
+    },
+    {
+      "id": "tl-mga-album-ni-freddie-aguilar",
+      "name": "Mga Album ni Freddie Aguilar",
+      "category": "music",
+      "record_count": 22,
+      "columns": [
+        "taon",
+        "pamagat",
+        "record_label"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Freddie_Aguilar",
+      "updated": "2026-11",
+      "size": 3895,
+      "files": {
+        "csv": {
+          "name": "tl-mga-album-ni-freddie-aguilar_TL.csv",
+          "size": 1071
+        },
+        "xlsx": {
+          "name": "tl-mga-album-ni-freddie-aguilar_TL.xlsx",
+          "size": 7465
         }
       }
     },
