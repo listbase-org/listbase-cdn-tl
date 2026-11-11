@@ -1,0 +1,135 @@
+{
+  "id": "tl-pagsasabi-ng-oras-sa-filipino",
+  "name": "Pagsasabi ng Oras at Bahagi ng Araw sa Filipino",
+  "title": "Pagsasabi ng Oras at Bahagi ng Araw sa Filipino",
+  "description": "Mga paraan ng pagsasabi ng oras at bahagi ng araw sa Filipino, kasama ang katumbas sa Ingles at Kastila, ayon sa artikulong Pamantayang Oras ng Pilipinas.",
+  "category": "time",
+  "source": "https://tl.wikipedia.org/wiki/Pamantayang_Oras_ng_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Pamantayang_Oras_ng_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "oras",
+      "label": "Oras",
+      "type": "string"
+    },
+    {
+      "key": "ingles",
+      "label": "Ingles",
+      "type": "string"
+    },
+    {
+      "key": "kastila",
+      "label": "Kastila",
+      "type": "string"
+    },
+    {
+      "key": "filipino",
+      "label": "Filipino",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uri": "Bahagi ng araw",
+      "oras": "1:00-11:59 am",
+      "ingles": "Morning",
+      "kastila": "Mañana",
+      "filipino": "Umaga"
+    },
+    {
+      "uri": "Bahagi ng araw",
+      "oras": "12:00-12:59 pm",
+      "ingles": "Noon",
+      "kastila": "Mediodía",
+      "filipino": "Tanghali"
+    },
+    {
+      "uri": "Bahagi ng araw",
+      "oras": "1:00-5:59 pm",
+      "ingles": "Afternoon",
+      "kastila": "Tarde",
+      "filipino": "Hapon"
+    },
+    {
+      "uri": "Bahagi ng araw",
+      "oras": "6:00-11:59 pm",
+      "ingles": "Evening/Night",
+      "kastila": "Noche",
+      "filipino": "Gabi"
+    },
+    {
+      "uri": "Bahagi ng araw",
+      "oras": "12:00-12:59 am",
+      "ingles": "Midnight",
+      "kastila": "Medianoche",
+      "filipino": "Hatinggabi"
+    },
+    {
+      "uri": "Oras",
+      "oras": "1:00 am",
+      "ingles": "One o'clock in the morning",
+      "kastila": "Una de la mañana",
+      "filipino": "Ika-isa ng umaga"
+    },
+    {
+      "uri": "Oras",
+      "oras": "7:00 pm",
+      "ingles": "Seven o'clock in the evening Seven o'clock at night",
+      "kastila": "Siete de la noche",
+      "filipino": "Ikapito ng gabi"
+    },
+    {
+      "uri": "Oras",
+      "oras": "1:15",
+      "ingles": "Quarter past one Fifteen past one Forty-five to two Three-quarter to two",
+      "kastila": "Una y cuarto",
+      "filipino": "Kapat makalipas ikaisa Labinlima makalipas ikaisa Apatnapu't-lima bago mag-ikalawa Tatlong-kapat bago mag-ikalawa"
+    },
+    {
+      "uri": "Oras",
+      "oras": "2:30",
+      "ingles": "Half past two Thirty past two Half-way to three Thirty to three",
+      "kastila": "Dos y media",
+      "filipino": "Kalahati makalipas ikalawa Tatlumpu makalipas ikalawa Kalahating daan bago mag-ikatlo Tatlumpu bago mag-ikatlo"
+    },
+    {
+      "uri": "Oras",
+      "oras": "3:45",
+      "ingles": "Three-quarter past three Forty-five past three Fifteen to four Quarter to four",
+      "kastila": "Tres y cuarenta y cinco Cuatro menos cuarto",
+      "filipino": "Tatlong-kapat makalipas ikatlo Apatnapu't-lima makalipas ikatlo Labinlima bago mag-ikaapat Kapat bago mag-ikaapat"
+    },
+    {
+      "uri": "Oras",
+      "oras": "4:25",
+      "ingles": "Twenty-five past four Thirty-five to five",
+      "kastila": "Cuatro y veinticinco",
+      "filipino": "Dalawampu't-lima makalipas ikaapat Tatlumpu't-lima bago mag-ikalima"
+    },
+    {
+      "uri": "Oras",
+      "oras": "5:35",
+      "ingles": "Thirty-five past five Twenty-five to six",
+      "kastila": "Cinco y treinta y cinco Seis menos veinticinco",
+      "filipino": "Tatlumpu't-lima makalipas ikalima Dalawampu't-lima bago mag-ikaanim"
+    }
+  ],
+  "meta": {
+    "title": "Pagsasabi ng Oras at Bahagi ng Araw sa Filipino - Free Download",
+    "description": "Mga paraan ng pagsasabi ng oras at bahagi ng araw sa Filipino, kasama ang katumbas sa Ingles at Kastila, ayon sa artikulong Pamantayang Oras ng Pilipinas. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pagsasabi ng Oras at Bahagi ng Araw sa Filipino | ListBase",
+    "seo_description": "Download Pagsasabi ng Oras at Bahagi ng Araw sa Filipino — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Pamantayang_Oras_ng_Pilipinas"
+    ]
+  }
+}

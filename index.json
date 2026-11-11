@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-11T02:05:08.960Z",
-  "total_datasets": 513,
-  "total_records": 448359,
+  "generated": "2026-11-11T02:05:17.529Z",
+  "total_datasets": 514,
+  "total_records": 448371,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tourism",
@@ -14744,6 +14744,32 @@
         "xlsx": {
           "name": "tl-mga-pista-opisyal_TL.xlsx",
           "size": 43839
+        }
+      }
+    },
+    {
+      "id": "tl-pagsasabi-ng-oras-sa-filipino",
+      "name": "Pagsasabi ng Oras at Bahagi ng Araw sa Filipino",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "uri",
+        "oras",
+        "ingles",
+        "kastila",
+        "filipino"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Pamantayang_Oras_ng_Pilipinas",
+      "updated": "2026-11",
+      "size": 4454,
+      "files": {
+        "csv": {
+          "name": "tl-pagsasabi-ng-oras-sa-filipino_TL.csv",
+          "size": 1570
+        },
+        "xlsx": {
+          "name": "tl-pagsasabi-ng-oras-sa-filipino_TL.xlsx",
+          "size": 7568
         }
       }
     },
