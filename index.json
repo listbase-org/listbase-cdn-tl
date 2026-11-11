@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-11T02:05:00.064Z",
-  "total_datasets": 512,
-  "total_records": 448162,
+  "generated": "2026-11-11T02:05:08.960Z",
+  "total_datasets": 513,
+  "total_records": 448359,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -5743,6 +5743,32 @@
         "xlsx": {
           "name": "tl-mga-awit-ng-metro-manila-popular-music-festival_TL.xlsx",
           "size": 12336
+        }
+      }
+    },
+    {
+      "id": "tl-mga-parangal-sa-musika-ni-sarah-geronimo",
+      "name": "Mga Parangal sa Musika ni Sarah Geronimo",
+      "category": "music",
+      "record_count": 197,
+      "columns": [
+        "taon",
+        "tagapagbigay",
+        "nominado_gawa",
+        "parangal",
+        "resulta"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Sarah_Geronimo",
+      "updated": "2026-11",
+      "size": 39564,
+      "files": {
+        "csv": {
+          "name": "tl-mga-parangal-sa-musika-ni-sarah-geronimo_TL.csv",
+          "size": 16383
+        },
+        "xlsx": {
+          "name": "tl-mga-parangal-sa-musika-ni-sarah-geronimo_TL.xlsx",
+          "size": 12380
         }
       }
     },
