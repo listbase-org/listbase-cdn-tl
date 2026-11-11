@@ -1,0 +1,256 @@
+{
+  "id": "tl-mga-kalihim-ng-repormang-pansakahan",
+  "name": "Mga Kalihim ng Repormang Pansakahan ng Pilipinas",
+  "title": "Mga Kalihim ng Repormang Pansakahan ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim (at Ministro) ng Repormang Pansakahan ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "agriculture",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Repormang_Pansakahan",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Repormang_Pansakahan",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulo",
+      "label": "Pangulo",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Condrado F. Estrella",
+      "nagsimula": "Setyembre 10, 1971",
+      "nagtapos": "Hunyo 1978",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Conrado F. Estrella",
+      "nagsimula": "Hunyo 1978",
+      "nagtapos": "Pebrero 25, 1986",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Conrado F. Estrella",
+      "nagsimula": "Pebrero 25, 1986",
+      "nagtapos": "Abril 30, 1986",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Ministro ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Heherson T. Alvarez",
+      "nagsimula": "Mayo 1, 1986",
+      "nagtapos": "Marso 7, 1987",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Philip Ella Juico",
+      "nagsimula": "Hulyo 23, 1987",
+      "nagtapos": "Hulyo 1, 1989",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Miriam Defensor-Santiago",
+      "nagsimula": "Hulyo 20, 1989",
+      "nagtapos": "Enero 4, 1990",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Florencio B. Abad",
+      "nagsimula": "Enero 4, 1990",
+      "nagtapos": "Abril 5, 1990",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Benjamin T. Leong",
+      "nagsimula": "Abril 6, 1990",
+      "nagtapos": "Hunyo 30, 1992",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Ernesto D. Garilao",
+      "nagsimula": "Hunyo 30, 1992",
+      "nagtapos": "Hunyo 30, 1998",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Horacio R. Morales",
+      "nagsimula": "Hunyo 30, 1998",
+      "nagtapos": "Enero 20, 2001",
+      "pangulo": "Joseph Ejercito Estrada",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Horacio R. Morales",
+      "nagsimula": "Enero 20, 2001",
+      "nagtapos": "Pebrero 11, 2001",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Hernani A. Braganza",
+      "nagsimula": "Pebrero 12, 2001",
+      "nagtapos": "Enero 15, 2003",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Roberto M. Pagdanganan",
+      "nagsimula": "Enero 20, 2003",
+      "nagtapos": "Enero 20, 2004",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Jose Mari B. Ponce",
+      "nagsimula": "Pebrero 20, 2004",
+      "nagtapos": "Agosto 24, 2004",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Rene C. Villa",
+      "nagsimula": "Agosto 26, 2004",
+      "nagtapos": "Setyembre 27, 2004",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Rene C. Villa",
+      "nagsimula": "Setyembre 27, 2004",
+      "nagtapos": "Hulyo 8, 2005",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Reporma sa Lupa"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Nasser C. Pangandaman",
+      "nagsimula": "Hulyo 8, 2005",
+      "nagtapos": "Agosto 23, 2005",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Reporma sa Lupa"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Nasser C. Pangandaman",
+      "nagsimula": "Agosto 23, 2005",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Virgilio Gil R. de los Reyes",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulo": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "**",
+      "pangalan": "Rafael V. Mariano",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "Setyembre 6, 2017",
+      "pangulo": "Rodrigo Roa Duterte",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Rosalina Bistoyong",
+      "nagsimula": "Setyembre 12, 2017",
+      "nagtapos": "Nobyembre 30, 2017",
+      "pangulo": "Rodrigo Roa Duterte",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "John Castriciones",
+      "nagsimula": "Disyembre 1, 2017",
+      "nagtapos": "Oktubre 8, 2021",
+      "pangulo": "Rodrigo Roa Duterte",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Bernie F. Cruz",
+      "nagsimula": "Oktubre 28, 2021",
+      "nagtapos": "Hunyo 20, 2022",
+      "pangulo": "Rodrigo Roa Duterte",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "",
+      "pangalan": "David D. Erro (OIC)",
+      "nagsimula": "Hunyo 22, 2022",
+      "nagtapos": "Hunyo 30, 2022",
+      "pangulo": "Rodrigo Roa Duterte",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Conrado Estrella III",
+      "nagsimula": "Hunyo 30, 2022",
+      "nagtapos": "Kasalukuyan",
+      "pangulo": "Bongbong Marcos",
+      "posisyon": "Kalihim ng Repormang Pansakahan"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Repormang Pansakahan ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim (at Ministro) ng Repormang Pansakahan ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Repormang Pansakahan ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Repormang Pansakahan ng Pilipinas — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Repormang_Pansakahan"
+    ]
+  }
+}

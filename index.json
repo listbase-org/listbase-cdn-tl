@@ -1,12 +1,12 @@
 {
   "lang": "tl",
-  "generated": "2026-11-11T02:04:39.053Z",
-  "total_datasets": 511,
-  "total_records": 448137,
+  "generated": "2026-11-11T02:05:00.064Z",
+  "total_datasets": 512,
+  "total_records": 448162,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -126,6 +126,33 @@
         "xlsx": {
           "name": "tl-mga-kalihim-ng-agrikultura_TL.xlsx",
           "size": 9391
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-repormang-pansakahan",
+      "name": "Mga Kalihim ng Repormang Pansakahan ng Pilipinas",
+      "category": "agriculture",
+      "record_count": 25,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Repormang_Pansakahan",
+      "updated": "2026-11",
+      "size": 7920,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-repormang-pansakahan_TL.csv",
+          "size": 2981
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-repormang-pansakahan_TL.xlsx",
+          "size": 8141
         }
       }
     },
