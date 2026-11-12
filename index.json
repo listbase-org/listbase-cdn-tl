@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-12T01:58:55.498Z",
-  "total_datasets": 518,
-  "total_records": 448464,
+  "generated": "2026-11-12T01:59:16.271Z",
+  "total_datasets": 519,
+  "total_records": 448514,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 30
+      "dataset_count": 31
     },
     {
       "id": "units",
@@ -15544,6 +15544,33 @@
         "xlsx": {
           "name": "tl-mga-estasyon-ng-pnr_TL.xlsx",
           "size": 15389
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-pagawain-at-lansangang-bayan",
+      "name": "Mga Kalihim ng mga Pagawain at Lansangang Bayan ng Pilipinas",
+      "category": "transport",
+      "record_count": 50,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_mga_Pagawain_at_Lansangang_Bayan",
+      "updated": "2026-11",
+      "size": 13925,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-pagawain-at-lansangang-bayan_TL.csv",
+          "size": 5748
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-pagawain-at-lansangang-bayan_TL.xlsx",
+          "size": 9242
         }
       }
     },

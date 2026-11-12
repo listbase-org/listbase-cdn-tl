@@ -1,0 +1,456 @@
+{
+  "id": "tl-mga-kalihim-ng-pagawain-at-lansangang-bayan",
+  "name": "Mga Kalihim ng mga Pagawain at Lansangang Bayan ng Pilipinas",
+  "title": "Mga Kalihim ng mga Pagawain at Lansangang Bayan ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim ng Kagawaran ng mga Pagawain at Lansangang Bayan (DPWH) ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "transport",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_mga_Pagawain_at_Lansangang_Bayan",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_mga_Pagawain_at_Lansangang_Bayan",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "number"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "number"
+    },
+    {
+      "key": "pangulo",
+      "label": "Pangulo",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Baldomero Aguinaldo",
+      "nagsimula": "1898",
+      "nagtapos": "1899",
+      "pangulo": "Emilio Aguinaldo",
+      "posisyon": "Ministro ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Mariano Trias",
+      "nagsimula": "1899",
+      "nagtapos": "1901",
+      "pangulo": "Emilio Aguinaldo",
+      "posisyon": "Kalihim ng Pandigmaan at Pagawaing Bayan"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Antonio de las Alas",
+      "nagsimula": "Nobyembre 15, 1935",
+      "nagtapos": "1936",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Mariano Jesus Cuenco",
+      "nagsimula": "1936",
+      "nagtapos": "1939",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "José Avelino",
+      "nagsimula": "1939",
+      "nagtapos": "1941",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Basilio Valdes",
+      "nagsimula": "Disyembre 24, 1941",
+      "nagtapos": "Agosto 1, 1944",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Tanggulang Pambansa, Pagawaing Bayan, Komunikasyon at Paggawa"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Jose Paez",
+      "nagsimula": "Agosto 8, 1944",
+      "nagtapos": "1945",
+      "pangulo": "Sergio Osmena",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Sotero Cabahug",
+      "nagsimula": "Pebrero 27, 1945",
+      "nagtapos": "Mayo 28, 1946",
+      "pangulo": "Sergio Osmena",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Ricardo Nepumoceno",
+      "nagsimula": "Mayo 28, 1946",
+      "nagtapos": "Hulyo 1, 1949",
+      "pangulo": "Manuel Roxas",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Ricardo Nepumoceno",
+      "nagsimula": "Mayo 28, 1946",
+      "nagtapos": "Hulyo 1, 1949",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Propsero Sanidad",
+      "nagsimula": "Pebrero 21, 1950",
+      "nagtapos": "1951",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Sotero Baluyut",
+      "nagsimula": "Enero 6, 1951",
+      "nagtapos": "1952",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Pablo Lorenzo",
+      "nagsimula": "Mayo 6, 1952",
+      "nagtapos": "1953",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Pagawaing Bayan at Komunikasyon"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Vicente Orosa",
+      "nagsimula": "Marso 10, 1954",
+      "nagtapos": "1955",
+      "pangulo": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Florencio Moreno",
+      "nagsimula": "Abril 30, 1957",
+      "nagtapos": "Disyembre 30, 1961",
+      "pangulo": "Ramon Magsaysay",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Florencio Moreno",
+      "nagsimula": "Abril 30, 1957",
+      "nagtapos": "Disyembre 30, 1961",
+      "pangulo": "Carlos P. Garcia",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Marciano Bautista",
+      "nagsimula": "1961",
+      "nagtapos": "1962",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Paulino Cases",
+      "nagsimula": "1962",
+      "nagtapos": "1962",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Brigido Valenica",
+      "nagsimula": "1962",
+      "nagtapos": "1963",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Jorge Abad",
+      "nagsimula": "1963",
+      "nagtapos": "1965",
+      "pangulo": "Diosdado Macapagal",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Antonio Raquiza",
+      "nagsimula": "Agosto 24, 1966",
+      "nagtapos": "1968",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Rene Espina",
+      "nagsimula": "Nobyembre 1968",
+      "nagtapos": "Setyembre 1969",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "21",
+      "pangalan": "Manuel Syquio",
+      "nagsimula": "1969",
+      "nagtapos": "1970",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "David Consunji",
+      "nagsimula": "1970",
+      "nagtapos": "1975",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "23",
+      "pangalan": "Alfredo Juinio",
+      "nagsimula": "1975",
+      "nagtapos": "1978",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "24",
+      "pangalan": "Baltazar Aquino",
+      "nagsimula": "1974",
+      "nagtapos": "1978",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Kalihim ng Lansangan"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Alfredo Juinio",
+      "nagsimula": "1978",
+      "nagtapos": "1981",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Pagawaing Bayan, Transportasyon at Komunikasyon"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Baltazar Aquino",
+      "nagsimula": "1978",
+      "nagtapos": "1979",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Lansangan"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Vicente Paterno",
+      "nagsimula": "1979",
+      "nagtapos": "1980",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Lansangan"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Jesus Hipolito",
+      "nagsimula": "1980",
+      "nagtapos": "1981",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Lansangan"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Jesus Hipolito",
+      "nagsimula": "1981",
+      "nagtapos": "1986",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "Rogaciano Mercado",
+      "nagsimula": "Pebrero 25, 1986",
+      "nagtapos": "Nobyembre 1986",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "28",
+      "pangalan": "Vicente Jayme",
+      "nagsimula": "1986",
+      "nagtapos": "1987",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "29",
+      "pangalan": "Juanito Ferrer",
+      "nagsimula": "1987",
+      "nagtapos": "1988",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "30",
+      "pangalan": "Fiorello Estuar",
+      "nagsimula": "1988",
+      "nagtapos": "1990",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "31",
+      "pangalan": "Jose de Jesus",
+      "nagsimula": "1990",
+      "nagtapos": "Marso 1, 1993",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "31",
+      "pangalan": "Jose de Jesus",
+      "nagsimula": "1990",
+      "nagtapos": "Marso 1, 1993",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "32",
+      "pangalan": "Edmundo Mir",
+      "nagsimula": "Marso 1, 1993",
+      "nagtapos": "Hunyo 1, 1993",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "33",
+      "pangalan": "Gregorio Vigilar",
+      "nagsimula": "Hunyo 1, 1993",
+      "nagtapos": "Enero 20, 2001",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "33",
+      "pangalan": "Gregorio Vigilar",
+      "nagsimula": "Hunyo 1, 1993",
+      "nagtapos": "Enero 20, 2001",
+      "pangulo": "Joseph Ejercito Estrada",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "34",
+      "pangalan": "Simeon Datumanong",
+      "nagsimula": "Enero 20, 2001",
+      "nagtapos": "Enero 15, 2003",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "35",
+      "pangalan": "Bayani Fernando",
+      "nagsimula": "Enero 15, 2003",
+      "nagtapos": "Abril 15, 2003",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "36",
+      "pangalan": "Florante Soriquez",
+      "nagsimula": "Abril 15, 2003",
+      "nagtapos": "Pebrero 15, 2005",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "37",
+      "pangalan": "Hermogenes Ebdane, Jr.",
+      "nagsimula": "Pebrero 15, 2005",
+      "nagtapos": "Pebrero 1, 2007",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "38",
+      "pangalan": "Manuel Bonoan",
+      "nagsimula": "Pebrero 1, 2007",
+      "nagtapos": "Hulyo 4, 2007",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "(37)",
+      "pangalan": "Hermogenes Ebdane, Jr.",
+      "nagsimula": "Hulyo 4, 2007",
+      "nagtapos": "Oktubre 22, 2009",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "39",
+      "pangalan": "Victor Domingo",
+      "nagsimula": "Oktubre 22, 2009",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulo": "Gloria Macapagal Arroyo",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "40",
+      "pangalan": "Rogelio Singson",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulo": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Rafael Yabut",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "Hulyo 31, 2016",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    },
+    {
+      "bilang": "41",
+      "pangalan": "Mark Villar",
+      "nagsimula": "Agosto 1, 2016",
+      "nagtapos": "Kasalukuyan",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Pagawain at Lansangang Bayan"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng mga Pagawain at Lansangang Bayan ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim ng Kagawaran ng mga Pagawain at Lansangang Bayan (DPWH) ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng mga Pagawain at Lansangang Bayan ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng mga Pagawain at Lansangang Bayan ng Pilipinas — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_mga_Pagawain_at_Lansangang_Bayan"
+    ]
+  }
+}
