@@ -1,0 +1,344 @@
+{
+  "id": "tl-mga-kalihim-ng-interyor-at-pamahalaang-lokal",
+  "name": "Mga Kalihim ng Interyor at Pamahalaang Lokal ng Pilipinas",
+  "title": "Mga Kalihim ng Interyor at Pamahalaang Lokal ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim ng Interyor at Pamahalaang Lokal (DILG) ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "politics",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Interyor_at_Pamahalaang_Lokal",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Interyor_at_Pamahalaang_Lokal",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulo",
+      "label": "Pangulo",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Teodoro Sandico",
+      "nagsimula": "Enero 21, 1899",
+      "nagtapos": "Mayo 7, 1899",
+      "pangulo": "Emilio Aguinaldo",
+      "posisyon": "Ministro ng Interyor"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Severino de las Alas",
+      "nagsimula": "Mayo 7, 1899",
+      "nagtapos": "Nobyembre 13, 1899",
+      "pangulo": "Emilio Aguinaldo",
+      "posisyon": "Ministro ng Interyor"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Elpidio Quirino",
+      "nagsimula": "1935",
+      "nagtapos": "1938",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Interyor"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Rafael Alunan",
+      "nagsimula": "1938",
+      "nagtapos": "1940",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Interyor"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Tomas Confesor",
+      "nagsimula": "1945",
+      "nagtapos": "1945",
+      "pangulo": "Sergio Osmena",
+      "posisyon": "Kalihim ng Interyor"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Alfredo Montelibano, Sr.",
+      "nagsimula": "Hulyo 11, 1945",
+      "nagtapos": "Mayo 27, 1946",
+      "pangulo": "Sergio Osmena",
+      "posisyon": "Kalihim ng Tanggulang Pambansa at Interyor"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Jose Zulueta",
+      "nagsimula": "1946",
+      "nagtapos": "1948",
+      "pangulo": "Manuel Roxas",
+      "posisyon": "Kalihim ng Interyor"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Sotero Baluyut",
+      "nagsimula": "1948",
+      "nagtapos": "1950",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Interyor"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Jose Roño",
+      "nagsimula": "Enero 1, 1973",
+      "nagtapos": "1982",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Pamahalaang Lokal at Komunidad Pagpapaunlad"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Jose Roño",
+      "nagsimula": "1982",
+      "nagtapos": "Pebrero 25, 1986",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Pamahalang Lokal"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Aquilino Pimentel, Jr.",
+      "nagsimula": "Pebrero 26, 1986",
+      "nagtapos": "Marso 25, 1986",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Ministro ng Pamahalang Lokal"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Aquilino Pimentel Jr.",
+      "nagsimula": "Marso 25, 1986",
+      "nagtapos": "Disyembre 7, 1986",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Pamahalaang Lokal"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Jaime Ferrer",
+      "nagsimula": "Disyembre 8, 1986",
+      "nagtapos": "Agosto 2, 1987",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Pamahalaang Lokal"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Lito Monico Lorenzana (akting)",
+      "nagsimula": "Agosto 3, 1987",
+      "nagtapos": "Nobyembre 8, 1987",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Pamahalaang Lokal"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Luis T. Santos",
+      "nagsimula": "Nobyembre 9, 1987",
+      "nagtapos": "Disyembre 10, 1991",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Pamahalaang Lokal"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Cesar Sarino",
+      "nagsimula": "Disyembre 11, 1991",
+      "nagtapos": "Hunyo 30, 1992",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Rafael M. Alunan III",
+      "nagsimula": "Hunyo 30, 1992",
+      "nagtapos": "Abril 16, 1996",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Robert Z. Barbers",
+      "nagsimula": "Abril 16, 1996",
+      "nagtapos": "Pebrero 4, 1998",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Epimaco Velasco",
+      "nagsimula": "Pebrero 4, 1998",
+      "nagtapos": "Mayo 30, 1998",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Nelson Collantes (OIC)",
+      "nagsimula": "Hunyo 1, 1998",
+      "nagtapos": "Hunyo 30, 1998",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Joseph Estrada",
+      "nagsimula": "Hunyo 30, 1998",
+      "nagtapos": "Abril 12, 1999",
+      "pangulo": "Joseph Estrada",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Ronaldo Puno",
+      "nagsimula": "Abril 12, 1999",
+      "nagtapos": "Enero 10, 2000",
+      "pangulo": "Joseph Estrada",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Alfredo Lim",
+      "nagsimula": "Enero 10, 2000",
+      "nagtapos": "Enero 20, 2001",
+      "pangulo": "Joseph Estrada",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Anselmo Avelino, Jr. (OIC)",
+      "nagsimula": "Enero 20, 2001",
+      "nagtapos": "Enero 28, 2001",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Jose Lina, Jr.",
+      "nagsimula": "Enero 29, 2001",
+      "nagtapos": "Hulyo 11, 2004",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "21",
+      "pangalan": "Angelo Reyes",
+      "nagsimula": "Hulyo 12, 2004",
+      "nagtapos": "Pebrero 16, 2006",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "22",
+      "pangalan": "Ronaldo Puno",
+      "nagsimula": "Abril 4, 2006",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Benigno Aquino III (OIC)",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Hulyo 9, 2010",
+      "pangulo": "Benigno Aquino III",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "23",
+      "pangalan": "Jesse Robredo",
+      "nagsimula": "Hulyo 9, 2010",
+      "nagtapos": "Agosto 18, 2012",
+      "pangulo": "Benigno Aquino III",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Paquito Ochoa, Jr. (OIC)",
+      "nagsimula": "Agosto 19, 2012",
+      "nagtapos": "Setyembre 19, 2012",
+      "pangulo": "Benigno Aquino III",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "24",
+      "pangalan": "Mar Roxas",
+      "nagsimula": "Setyembre 20, 2012",
+      "nagtapos": "Setyembre 11, 2015",
+      "pangulo": "Benigno Aquino III",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "25",
+      "pangalan": "Mel Senen Sarmiento",
+      "nagsimula": "Setyembre 14, 2015",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulo": "Benigno Aquino III",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "26",
+      "pangalan": "Ismael Sueno",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "Abril 4, 2017",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Catalino Cuy (OIC)",
+      "nagsimula": "Abril 5, 2017",
+      "nagtapos": "Enero 4, 2018",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "LtGen Eduardo M Año (Ret)",
+      "nagsimula": "Enero 5, 2018",
+      "nagtapos": "Nobyembre 6, 2018",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    },
+    {
+      "bilang": "27",
+      "pangalan": "LtGen Eduardo M Año (Ret)",
+      "nagsimula": "Nobyembre 6, 2018",
+      "nagtapos": "Kasalukuyan",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Interyor at Pamahalaang Lokal"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Interyor at Pamahalaang Lokal ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim ng Interyor at Pamahalaang Lokal (DILG) ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Interyor at Pamahalaang Lokal ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Interyor at Pamahalaang Lokal ng Pilipinas — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Interyor_at_Pamahalaang_Lokal"
+    ]
+  }
+}

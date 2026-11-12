@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-12T01:58:32.141Z",
-  "total_datasets": 516,
-  "total_records": 448403,
+  "generated": "2026-11-12T01:58:43.368Z",
+  "total_datasets": 517,
+  "total_records": 448439,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 110
+      "dataset_count": 111
     },
     {
       "id": "reference",
@@ -7885,6 +7885,33 @@
         "xlsx": {
           "name": "tl-metro-manila-punong-lokal_TL.xlsx",
           "size": 8605
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-interyor-at-pamahalaang-lokal",
+      "name": "Mga Kalihim ng Interyor at Pamahalaang Lokal ng Pilipinas",
+      "category": "politics",
+      "record_count": 36,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Interyor_at_Pamahalaang_Lokal",
+      "updated": "2026-11",
+      "size": 10484,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-interyor-at-pamahalaang-lokal_TL.csv",
+          "size": 4099
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-interyor-at-pamahalaang-lokal_TL.xlsx",
+          "size": 8701
         }
       }
     },
