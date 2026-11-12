@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-12T01:58:20.630Z",
-  "total_datasets": 515,
-  "total_records": 448389,
+  "generated": "2026-11-12T01:58:32.141Z",
+  "total_datasets": 516,
+  "total_records": 448403,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -3771,6 +3771,33 @@
         "xlsx": {
           "name": "tl-mga-iniretirong-pangalan-ng-bagyo_TL.xlsx",
           "size": 8612
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-enerhiya",
+      "name": "Mga Kalihim ng Enerhiya ng Pilipinas",
+      "category": "environment",
+      "record_count": 14,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Enerhiya",
+      "updated": "2026-11",
+      "size": 4664,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-enerhiya_TL.csv",
+          "size": 1223
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-enerhiya_TL.xlsx",
+          "size": 7496
         }
       }
     },
