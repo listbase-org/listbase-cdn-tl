@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-12T01:58:43.368Z",
-  "total_datasets": 517,
-  "total_records": 448439,
+  "generated": "2026-11-12T01:58:55.498Z",
+  "total_datasets": 518,
+  "total_records": 448464,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -14392,6 +14392,33 @@
         "xlsx": {
           "name": "tl-hotline-pangemerhensiya_TL.xlsx",
           "size": 8683
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-kagalingang-panlipunan",
+      "name": "Mga Kalihim ng Kagalingan at Pagpapaunlad Panlipunan ng Pilipinas",
+      "category": "society",
+      "record_count": 25,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kagalingan_at_Pagpapaunlad_Panlipunan",
+      "updated": "2026-11",
+      "size": 8356,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-kagalingang-panlipunan_TL.csv",
+          "size": 3235
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-kagalingang-panlipunan_TL.xlsx",
+          "size": 8204
         }
       }
     },

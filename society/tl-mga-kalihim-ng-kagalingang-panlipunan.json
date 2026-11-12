@@ -1,0 +1,256 @@
+{
+  "id": "tl-mga-kalihim-ng-kagalingang-panlipunan",
+  "name": "Mga Kalihim ng Kagalingan at Pagpapaunlad Panlipunan ng Pilipinas",
+  "title": "Mga Kalihim ng Kagalingan at Pagpapaunlad Panlipunan ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim (at Ministro) ng Kagawaran ng Kagalingan at Pagpapaunlad Panlipunan (DSWD), kasama ang petsa ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "society",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kagalingan_at_Pagpapaunlad_Panlipunan",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Kagalingan_at_Pagpapaunlad_Panlipunan",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulo",
+      "label": "Pangulo",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Gracio Gonzaga",
+      "nagsimula": "Enero 21, 1899",
+      "nagtapos": "Mayo 7, 1899",
+      "pangulo": "Emilio Aguinaldo",
+      "posisyon": "Ministro ng Kagalingan"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Sergio Osmeña",
+      "nagsimula": "Disyembre 24, 1941",
+      "nagtapos": "Agosto 1, 1944",
+      "pangulo": "Manuel Quezon",
+      "posisyon": "Kalihim ng Panutong Pambayan, Kalusugan, at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Honorario Poblador, Sr.",
+      "nagsimula": "Agosto 1, 1944",
+      "nagtapos": "Disyembre 25, 1944",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Katarungan, Paggawa at Kagalingan"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Mariano A. Eraña",
+      "nagsimula": "Disyembre 25, 1944",
+      "nagtapos": "Pebrero 17, 1945",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Katarungan, Paggawa at Kagalingan"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Basilio Valdes",
+      "nagsimula": "Pebrero 17, 1945",
+      "nagtapos": "Nobyembre 10, 1945",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Kalusugan at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Jose Locsin",
+      "nagsimula": "Nobyembre 10, 1945",
+      "nagtapos": "Mayo 28, 1946",
+      "pangulo": "Sergio Osmeña",
+      "posisyon": "Kalihim ng Kalusugan at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Antonio Villarama",
+      "nagsimula": "Mayo 28, 1946",
+      "nagtapos": "Disyembre 30, 1953",
+      "pangulo": "Manuel Roxas",
+      "posisyon": "Kalihim ng Kalusugan at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Antonio Villarama",
+      "nagsimula": "Mayo 28, 1946",
+      "nagtapos": "Disyembre 30, 1953",
+      "pangulo": "Elpidio Quirino",
+      "posisyon": "Kalihim ng Kalusugan at Kagalingang Pambayan"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Slyvia Montes",
+      "nagsimula": "1978",
+      "nagtapos": "1986",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Mita Pardo de Tavera",
+      "nagsimula": "1986",
+      "nagtapos": "Hunyo 30, 1992",
+      "pangulo": "Corazon C. Aquino",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Corazon Alma De Leon",
+      "nagsimula": "Hunyo 30, 1992",
+      "nagtapos": "Hunyo 30, 1995",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Lilian Laigo",
+      "nagsimula": "Hunyo 30, 1995",
+      "nagtapos": "Hunyo 30, 1998",
+      "pangulo": "Fidel V. Ramos",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Gloria Macapagal-Arroyo",
+      "nagsimula": "Hunyo 30, 1998",
+      "nagtapos": "Oktubre 10, 2000",
+      "pangulo": "Joseph Ejercito Estrada",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Dulce Saguisag",
+      "nagsimula": "Oktubre 10, 2000",
+      "nagtapos": "Enero 20, 2001",
+      "pangulo": "Joseph Ejercito Estrada",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "13",
+      "pangalan": "Corazon Soliman",
+      "nagsimula": "Enero 20, 2001",
+      "nagtapos": "Hulyo 8, 2005",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "14",
+      "pangalan": "Luwalhati Pablo",
+      "nagsimula": "Hulyo 8, 2005",
+      "nagtapos": "Hulyo 20, 2005",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "15",
+      "pangalan": "Esperanza Cabral",
+      "nagsimula": "Hulyo 21, 2005",
+      "nagtapos": "2009",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "16",
+      "pangalan": "Celia Yangco",
+      "nagsimula": "2009",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "17",
+      "pangalan": "Corazon Soliman",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulo": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "18",
+      "pangalan": "Judy Taguiwalo",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "Agosto 16, 2017",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Emmanuel Leyco",
+      "nagsimula": "Agosto 19, 2017",
+      "nagtapos": "Mayo 9, 2018",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Virginia Orogo",
+      "nagsimula": "Mayo 10, 2018",
+      "nagtapos": "Oktubre 16, 2018",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "19",
+      "pangalan": "Rolando Joselito Bautista",
+      "nagsimula": "Oktubre 17, 2018",
+      "nagtapos": "Hunyo 30, 2022",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "20",
+      "pangalan": "Erwin Tulfo",
+      "nagsimula": "Hunyo 30, 2022",
+      "nagtapos": "Disyembre 12, 2023",
+      "pangulo": "Bongbong Marcos",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "REX Gatchalian",
+      "nagsimula": "Enero 31, 2023",
+      "nagtapos": "Kasalukuyan",
+      "pangulo": "Bongbong Marcos",
+      "posisyon": "Kalihim ng Kagalingang Panlipunan at Pagpapaunlad"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Kagalingan at Pagpapaunlad Panlipunan ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim (at Ministro) ng Kagawaran ng Kagalingan at Pagpapaunlad Panlipunan (DSWD), kasama ang petsa ng panunungkulan at pangulong pinaglingkuran. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Kagalingan at Pagpapaunlad Panlipunan ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Kagalingan at Pagpapaunlad Panlipunan ng Pilipinas — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Kagalingan_at_Pagpapaunlad_Panlipunan"
+    ]
+  }
+}
