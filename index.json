@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-11T02:05:17.529Z",
-  "total_datasets": 514,
-  "total_records": 448371,
+  "generated": "2026-11-12T01:58:20.630Z",
+  "total_datasets": 515,
+  "total_records": 448389,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "food",
@@ -3913,6 +3913,33 @@
         "xlsx": {
           "name": "tl-mga-gobernador-ng-bangko-sentral_TL.xlsx",
           "size": 7357
+        }
+      }
+    },
+    {
+      "id": "tl-mga-kalihim-ng-badyet-at-pamamahala",
+      "name": "Mga Kalihim ng Badyet at Pamamahala ng Pilipinas",
+      "category": "finance",
+      "record_count": 18,
+      "columns": [
+        "bilang",
+        "pangalan",
+        "nagsimula",
+        "nagtapos",
+        "pangulo",
+        "posisyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Badyet_at_Pamamahala_(Pilipinas)",
+      "updated": "2026-11",
+      "size": 6186,
+      "files": {
+        "csv": {
+          "name": "tl-mga-kalihim-ng-badyet-at-pamamahala_TL.csv",
+          "size": 2083
+        },
+        "xlsx": {
+          "name": "tl-mga-kalihim-ng-badyet-at-pamamahala_TL.xlsx",
+          "size": 7733
         }
       }
     },

@@ -1,0 +1,200 @@
+{
+  "id": "tl-mga-kalihim-ng-badyet-at-pamamahala",
+  "name": "Mga Kalihim ng Badyet at Pamamahala ng Pilipinas",
+  "title": "Mga Kalihim ng Badyet at Pamamahala ng Pilipinas",
+  "description": "Talaan ng mga naging Kalihim (at Ministro) ng Badyet at Pamamahala ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran.",
+  "category": "finance",
+  "source": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Badyet_at_Pamamahala_(Pilipinas)",
+  "source_url": "https://tl.wikipedia.org/wiki/Kagawaran_ng_Badyet_at_Pamamahala_(Pilipinas)",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "nagsimula",
+      "label": "Nagsimula",
+      "type": "string"
+    },
+    {
+      "key": "nagtapos",
+      "label": "Nagtapos",
+      "type": "string"
+    },
+    {
+      "key": "pangulo",
+      "label": "Pangulo",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": "1",
+      "pangalan": "Jaime C. Laya",
+      "nagsimula": "Hunyo 12, 1978",
+      "nagtapos": "Enero 12, 1981",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "2",
+      "pangalan": "Manuel Alba",
+      "nagsimula": "Enero 25, 1981",
+      "nagtapos": "Pebrero 25, 1986",
+      "pangulo": "Ferdinand Marcos",
+      "posisyon": "Ministro ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "3",
+      "pangalan": "Alberto Romulo",
+      "nagsimula": "Pebrero 25, 1986",
+      "nagtapos": "Marso 8, 1987",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Ministro ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "4",
+      "pangalan": "Guillermo Carague",
+      "nagsimula": "Marso 13, 1987",
+      "nagtapos": "Pebrero 12, 1992",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Salvador Enriquez, Jr.",
+      "nagsimula": "Pebrero 12, 1992",
+      "nagtapos": "Hunyo 30, 1992",
+      "pangulo": "Corazon Aquino",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "5",
+      "pangalan": "Salvador Enriquez, Jr.",
+      "nagsimula": "Hunyo 30, 1992",
+      "nagtapos": "Pebrero 1, 1998",
+      "pangulo": "Fidel Ramos",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Emilia Boncodin",
+      "nagsimula": "Pebrero 1, 1998",
+      "nagtapos": "Hunyo 30, 1998",
+      "pangulo": "Fidel Ramos",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "6",
+      "pangalan": "Benjamin Diokno",
+      "nagsimula": "Hunyo 30, 1998",
+      "nagtapos": "Enero 20, 2001",
+      "pangulo": "Joseph Ejercito Estrada",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "7",
+      "pangalan": "Emilia Boncodin",
+      "nagsimula": "Enero 23, 2001",
+      "nagtapos": "Hulyo 8, 2005",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "8",
+      "pangalan": "Romulo Neri",
+      "nagsimula": "Hulyo 19, 2005",
+      "nagtapos": "Pebrero 15, 2006",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "9",
+      "pangalan": "Rolando Andaya, Jr.",
+      "nagsimula": "Pebrero 15, 2006",
+      "nagtapos": "Pebrero 24, 2010",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Joaquin Lagonera",
+      "nagsimula": "Marso 8, 2010",
+      "nagtapos": "Hunyo 30, 2010",
+      "pangulo": "Gloria Macapagal-Arroyo",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "10",
+      "pangalan": "Florencio Abad",
+      "nagsimula": "Hunyo 30, 2010",
+      "nagtapos": "Hunyo 30, 2016",
+      "pangulo": "Benigno S. Aquino III",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "(6)",
+      "pangalan": "Benjamin Diokno",
+      "nagsimula": "Hunyo 30, 2016",
+      "nagtapos": "Marso 4, 2019",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "*",
+      "pangalan": "Janet Abuel",
+      "nagsimula": "Marso 5, 2019",
+      "nagtapos": "Agosto 5, 2019",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "11",
+      "pangalan": "Wendel Avisado",
+      "nagsimula": "Agosto 5, 2019",
+      "nagtapos": "Agosto 13, 2021",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "",
+      "pangalan": "Tina Rose Marie Canda (OIC)",
+      "nagsimula": "August 13, 2021",
+      "nagtapos": "Hunyo 30, 2022",
+      "pangulo": "Rodrigo Duterte",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    },
+    {
+      "bilang": "12",
+      "pangalan": "Amenah Pangandaman",
+      "nagsimula": "Hunyo 30, 2022",
+      "nagtapos": "kasalukuyan",
+      "pangulo": "Bongbong Marcos",
+      "posisyon": "Kalihim ng Badyet at Pamamahala"
+    }
+  ],
+  "meta": {
+    "title": "Mga Kalihim ng Badyet at Pamamahala ng Pilipinas - Free Download",
+    "description": "Talaan ng mga naging Kalihim (at Ministro) ng Badyet at Pamamahala ng Pilipinas, kasama ang petsa ng panunungkulan at pangulong pinaglingkuran. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Kalihim ng Badyet at Pamamahala ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Kalihim ng Badyet at Pamamahala ng Pilipinas — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kagawaran_ng_Badyet_at_Pamamahala_(Pilipinas)"
+    ]
+  }
+}
