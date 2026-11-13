@@ -1,0 +1,223 @@
+{
+  "id": "tl-mga-titik-ng-baybayin",
+  "name": "Mga Titik ng Baybayin (Sinaunang Sulat Tagalog)",
+  "title": "Mga Titik ng Baybayin (Sinaunang Sulat Tagalog)",
+  "description": "Ang mga patinig at katinig ng Baybayin kasama ang anyo ng bawat titik na may kudlit (i/e, u/o), pamudpod at krus-kudlit, at ang tunog nito.",
+  "category": "language",
+  "source": "https://tl.wikipedia.org/wiki/Baybayin",
+  "source_url": "https://tl.wikipedia.org/wiki/Baybayin",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "pantig",
+      "label": "Pantig",
+      "type": "string"
+    },
+    {
+      "key": "titik",
+      "label": "Titik",
+      "type": "string"
+    },
+    {
+      "key": "may_kudlit_i_e",
+      "label": "May Kudlit I E",
+      "type": "string"
+    },
+    {
+      "key": "may_kudlit_u_o",
+      "label": "May Kudlit U O",
+      "type": "string"
+    },
+    {
+      "key": "may_pamudpod",
+      "label": "May Pamudpod",
+      "type": "string"
+    },
+    {
+      "key": "may_krus_kudlit",
+      "label": "May Krus Kudlit",
+      "type": "string"
+    },
+    {
+      "key": "tunog_ipa",
+      "label": "Tunog Ipa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pantig": "a",
+      "titik": "ᜀ",
+      "may_kudlit_i_e": "",
+      "may_kudlit_u_o": "",
+      "may_pamudpod": "",
+      "may_krus_kudlit": "",
+      "tunog_ipa": ""
+    },
+    {
+      "pantig": "i/e",
+      "titik": "ᜁ",
+      "may_kudlit_i_e": "",
+      "may_kudlit_u_o": "",
+      "may_pamudpod": "",
+      "may_krus_kudlit": "",
+      "tunog_ipa": ""
+    },
+    {
+      "pantig": "u/o",
+      "titik": "ᜂ",
+      "may_kudlit_i_e": "",
+      "may_kudlit_u_o": "",
+      "may_pamudpod": "",
+      "may_krus_kudlit": "",
+      "tunog_ipa": ""
+    },
+    {
+      "pantig": "ba/va",
+      "titik": "ᜊ",
+      "may_kudlit_i_e": "ᜊᜒ",
+      "may_kudlit_u_o": "ᜊᜓ",
+      "may_pamudpod": "ᜊ᜕",
+      "may_krus_kudlit": "ᜊ᜔",
+      "tunog_ipa": "/b/ /v/"
+    },
+    {
+      "pantig": "ka",
+      "titik": "ᜃ",
+      "may_kudlit_i_e": "ᜃᜒ",
+      "may_kudlit_u_o": "ᜃᜓ",
+      "may_pamudpod": "ᜃ᜕",
+      "may_krus_kudlit": "ᜃ᜔",
+      "tunog_ipa": "/k/"
+    },
+    {
+      "pantig": "da",
+      "titik": "ᜇ",
+      "may_kudlit_i_e": "ᜇᜒ",
+      "may_kudlit_u_o": "ᜇᜓ",
+      "may_pamudpod": "ᜇ᜕",
+      "may_krus_kudlit": "ᜇ᜔",
+      "tunog_ipa": "/d/"
+    },
+    {
+      "pantig": "ra",
+      "titik": "ᜍ",
+      "may_kudlit_i_e": "ᜍᜒ",
+      "may_kudlit_u_o": "ᜍᜓ",
+      "may_pamudpod": "ᜍ᜕",
+      "may_krus_kudlit": "ᜍ᜔",
+      "tunog_ipa": "/r/"
+    },
+    {
+      "pantig": "ta",
+      "titik": "ᜆ",
+      "may_kudlit_i_e": "ᜆᜒ",
+      "may_kudlit_u_o": "ᜆᜓ",
+      "may_pamudpod": "ᜆ᜕",
+      "may_krus_kudlit": "ᜆ᜔",
+      "tunog_ipa": "/t/"
+    },
+    {
+      "pantig": "ga",
+      "titik": "ᜄ",
+      "may_kudlit_i_e": "ᜄᜒ",
+      "may_kudlit_u_o": "ᜄᜓ",
+      "may_pamudpod": "ᜄ᜕",
+      "may_krus_kudlit": "ᜄ᜔",
+      "tunog_ipa": "/g/"
+    },
+    {
+      "pantig": "ha",
+      "titik": "ᜑ",
+      "may_kudlit_i_e": "ᜑᜒ",
+      "may_kudlit_u_o": "ᜑᜓ",
+      "may_pamudpod": "ᜑ᜕",
+      "may_krus_kudlit": "ᜑ᜔",
+      "tunog_ipa": "/h/"
+    },
+    {
+      "pantig": "la",
+      "titik": "ᜎ",
+      "may_kudlit_i_e": "ᜎᜒ",
+      "may_kudlit_u_o": "ᜎᜓ",
+      "may_pamudpod": "ᜎ᜕",
+      "may_krus_kudlit": "ᜎ᜔",
+      "tunog_ipa": "/l/"
+    },
+    {
+      "pantig": "ma",
+      "titik": "ᜋ",
+      "may_kudlit_i_e": "ᜋᜒ",
+      "may_kudlit_u_o": "ᜋᜓ",
+      "may_pamudpod": "ᜋ᜕",
+      "may_krus_kudlit": "ᜋ᜔",
+      "tunog_ipa": "/m/"
+    },
+    {
+      "pantig": "wa",
+      "titik": "ᜏ",
+      "may_kudlit_i_e": "ᜏᜒ",
+      "may_kudlit_u_o": "ᜏᜓ",
+      "may_pamudpod": "ᜏ᜕",
+      "may_krus_kudlit": "ᜏ᜔",
+      "tunog_ipa": "/w/"
+    },
+    {
+      "pantig": "na",
+      "titik": "ᜈ",
+      "may_kudlit_i_e": "ᜈᜒ",
+      "may_kudlit_u_o": "ᜈᜓ",
+      "may_pamudpod": "ᜈ᜕",
+      "may_krus_kudlit": "ᜈ᜔",
+      "tunog_ipa": "/n/"
+    },
+    {
+      "pantig": "nga",
+      "titik": "ᜅ",
+      "may_kudlit_i_e": "ᜅᜒ",
+      "may_kudlit_u_o": "ᜅᜓ",
+      "may_pamudpod": "ᜅ᜕",
+      "may_krus_kudlit": "ᜅ᜔",
+      "tunog_ipa": "/ŋ/"
+    },
+    {
+      "pantig": "pa/fa",
+      "titik": "ᜉ",
+      "may_kudlit_i_e": "ᜉᜒ",
+      "may_kudlit_u_o": "ᜉᜓ",
+      "may_pamudpod": "ᜉ᜕",
+      "may_krus_kudlit": "ᜉ᜔",
+      "tunog_ipa": "/p/ /f/"
+    },
+    {
+      "pantig": "sa/za",
+      "titik": "ᜐ",
+      "may_kudlit_i_e": "ᜐᜒ",
+      "may_kudlit_u_o": "ᜐᜓ",
+      "may_pamudpod": "ᜐ᜕",
+      "may_krus_kudlit": "ᜐ᜔",
+      "tunog_ipa": "/s/ /z/"
+    },
+    {
+      "pantig": "ya",
+      "titik": "ᜌ",
+      "may_kudlit_i_e": "ᜌᜒ",
+      "may_kudlit_u_o": "ᜌᜓ",
+      "may_pamudpod": "ᜌ᜕",
+      "may_krus_kudlit": "ᜌ᜔",
+      "tunog_ipa": "/j/"
+    }
+  ],
+  "meta": {
+    "title": "Mga Titik ng Baybayin (Sinaunang Sulat Tagalog) - Free Download",
+    "description": "Ang mga patinig at katinig ng Baybayin kasama ang anyo ng bawat titik na may kudlit (i/e, u/o), pamudpod at krus-kudlit, at ang tunog nito. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Titik ng Baybayin (Sinaunang Sulat Tagalog) | ListBase",
+    "seo_description": "Download Mga Titik ng Baybayin (Sinaunang Sulat Tagalog) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Baybayin"
+    ]
+  }
+}

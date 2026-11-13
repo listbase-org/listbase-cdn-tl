@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-13T02:03:09.541Z",
-  "total_datasets": 521,
-  "total_records": 448580,
+  "generated": "2026-11-13T02:03:19.736Z",
+  "total_datasets": 522,
+  "total_records": 448598,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -5595,6 +5595,34 @@
         "xlsx": {
           "name": "tl-mga-salitang-hiniram-ng-tagalog_TL.xlsx",
           "size": 32241
+        }
+      }
+    },
+    {
+      "id": "tl-mga-titik-ng-baybayin",
+      "name": "Mga Titik ng Baybayin (Sinaunang Sulat Tagalog)",
+      "category": "language",
+      "record_count": 18,
+      "columns": [
+        "pantig",
+        "titik",
+        "may_kudlit_i_e",
+        "may_kudlit_u_o",
+        "may_pamudpod",
+        "may_krus_kudlit",
+        "tunog_ipa"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Baybayin",
+      "updated": "2026-11",
+      "size": 5779,
+      "files": {
+        "csv": {
+          "name": "tl-mga-titik-ng-baybayin_TL.csv",
+          "size": 995
+        },
+        "xlsx": {
+          "name": "tl-mga-titik-ng-baybayin_TL.xlsx",
+          "size": 7671
         }
       }
     },
