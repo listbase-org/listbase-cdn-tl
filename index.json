@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-13T02:02:57.658Z",
-  "total_datasets": 520,
-  "total_records": 448542,
+  "generated": "2026-11-13T02:03:09.541Z",
+  "total_datasets": 521,
+  "total_records": 448580,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -5724,6 +5724,34 @@
         "xlsx": {
           "name": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela_TL.xlsx",
           "size": 11119
+        }
+      }
+    },
+    {
+      "id": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela-sa-buwis",
+      "name": "Mga Mahistrado ng Hukuman ng Pag-aapela sa Buwis (CTA) ng Pilipinas",
+      "category": "law",
+      "record_count": 38,
+      "columns": [
+        "blg",
+        "pangalan",
+        "simula_ng_termino",
+        "itinalaga_ni",
+        "pinalitan",
+        "namumunong_hukom",
+        "katapusan_ng_termino"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Hukuman_ng_Pag-aapela_sa_Buwis",
+      "updated": "2026-11",
+      "size": 12581,
+      "files": {
+        "csv": {
+          "name": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela-sa-buwis_TL.csv",
+          "size": 3885
+        },
+        "xlsx": {
+          "name": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela-sa-buwis_TL.xlsx",
+          "size": 9051
         }
       }
     },
