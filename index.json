@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-12T01:59:16.271Z",
-  "total_datasets": 519,
-  "total_records": 448514,
+  "generated": "2026-11-13T02:02:57.658Z",
+  "total_datasets": 520,
+  "total_records": 448542,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -5521,6 +5521,31 @@
         "xlsx": {
           "name": "tl-mga-lansangang-pinalitan-ang-pangalan_TL.xlsx",
           "size": 21228
+        }
+      }
+    },
+    {
+      "id": "tl-alpabetong-filipino",
+      "name": "Ang Alpabetong Filipino (28 Titik)",
+      "category": "language",
+      "record_count": 28,
+      "columns": [
+        "titik",
+        "katawagan",
+        "tunog_ipa",
+        "tala"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Alpabetong_Filipino",
+      "updated": "2026-11",
+      "size": 5010,
+      "files": {
+        "csv": {
+          "name": "tl-alpabetong-filipino_TL.csv",
+          "size": 1161
+        },
+        "xlsx": {
+          "name": "tl-alpabetong-filipino_TL.xlsx",
+          "size": 7756
         }
       }
     },

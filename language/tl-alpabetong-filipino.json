@@ -1,0 +1,214 @@
+{
+  "id": "tl-alpabetong-filipino",
+  "name": "Ang Alpabetong Filipino (28 Titik)",
+  "title": "Ang Alpabetong Filipino (28 Titik)",
+  "description": "Ang 28 titik ng makabagong alpabetong Filipino kasama ang katawagan o bigkas ng bawat titik, tunog sa IPA at mga tala sa paggamit.",
+  "category": "language",
+  "source": "https://tl.wikipedia.org/wiki/Alpabetong_Filipino",
+  "source_url": "https://tl.wikipedia.org/wiki/Alpabetong_Filipino",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "titik",
+      "label": "Titik",
+      "type": "string"
+    },
+    {
+      "key": "katawagan",
+      "label": "Katawagan",
+      "type": "string"
+    },
+    {
+      "key": "tunog_ipa",
+      "label": "Tunog Ipa",
+      "type": "string"
+    },
+    {
+      "key": "tala",
+      "label": "Tala",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "titik": "Aa",
+      "katawagan": "ey",
+      "tunog_ipa": "/a/",
+      "tala": ""
+    },
+    {
+      "titik": "Bb",
+      "katawagan": "bi",
+      "tunog_ipa": "/b/",
+      "tala": "kadalasang maihahantulad sa v"
+    },
+    {
+      "titik": "Cc",
+      "katawagan": "si",
+      "tunog_ipa": "/k/, /s/",
+      "tala": "gamit sa mga hiram na salita mula Kastila"
+    },
+    {
+      "titik": "Dd",
+      "katawagan": "di",
+      "tunog_ipa": "/d/",
+      "tala": ""
+    },
+    {
+      "titik": "Ee",
+      "katawagan": "i",
+      "tunog_ipa": "/e/, /i/",
+      "tala": "binibigkas nang tunog-schwa kung lálagyán ng patuldok (ë) tulad ng sa Wikang Mëranaw"
+    },
+    {
+      "titik": "Ff",
+      "katawagan": "ef",
+      "tunog_ipa": "/f/, /p/",
+      "tala": "kadalasang maihahantulad sa p"
+    },
+    {
+      "titik": "Gg",
+      "katawagan": "dyi",
+      "tunog_ipa": "/g/",
+      "tala": ""
+    },
+    {
+      "titik": "Hh",
+      "katawagan": "eyts",
+      "tunog_ipa": "/h/",
+      "tala": ""
+    },
+    {
+      "titik": "Ii",
+      "katawagan": "ay",
+      "tunog_ipa": "/i/, /e/",
+      "tala": ""
+    },
+    {
+      "titik": "Jj",
+      "katawagan": "dyey",
+      "tunog_ipa": "/dʒ/, /h/",
+      "tala": "gamit sa mga hiram na salita mula Ingles tulad ng arkiyoloji, Arabe tulad ng masjid"
+    },
+    {
+      "titik": "Kk",
+      "katawagan": "key",
+      "tunog_ipa": "/k/",
+      "tala": ""
+    },
+    {
+      "titik": "Ll",
+      "katawagan": "el",
+      "tunog_ipa": "/l/",
+      "tala": ""
+    },
+    {
+      "titik": "Mm",
+      "katawagan": "em",
+      "tunog_ipa": "/m/",
+      "tala": ""
+    },
+    {
+      "titik": "Nn",
+      "katawagan": "en",
+      "tunog_ipa": "/n/",
+      "tala": ""
+    },
+    {
+      "titik": "Ññ",
+      "katawagan": "enye",
+      "tunog_ipa": "/ɲ/",
+      "tala": ""
+    },
+    {
+      "titik": "NGng",
+      "katawagan": "endyi",
+      "tunog_ipa": "/ŋ/",
+      "tala": ""
+    },
+    {
+      "titik": "Oo",
+      "katawagan": "o",
+      "tunog_ipa": "/o/, /u/",
+      "tala": ""
+    },
+    {
+      "titik": "Pp",
+      "katawagan": "pi",
+      "tunog_ipa": "/p/",
+      "tala": "kadalasang maihahantulad sa f"
+    },
+    {
+      "titik": "Qq",
+      "katawagan": "kyu",
+      "tunog_ipa": "/k/",
+      "tala": "gamit sa mga hiram na salita mula Kastila"
+    },
+    {
+      "titik": "Rr",
+      "katawagan": "ar",
+      "tunog_ipa": "/ɾ/",
+      "tala": ""
+    },
+    {
+      "titik": "Ss",
+      "katawagan": "es",
+      "tunog_ipa": "/s/",
+      "tala": "kadalasang maihahantulad sa z"
+    },
+    {
+      "titik": "Tt",
+      "katawagan": "ti",
+      "tunog_ipa": "/t/",
+      "tala": ""
+    },
+    {
+      "titik": "Uu",
+      "katawagan": "yu",
+      "tunog_ipa": "/u/, /o/",
+      "tala": ""
+    },
+    {
+      "titik": "Vv",
+      "katawagan": "vi",
+      "tunog_ipa": "/v/, /b/",
+      "tala": "kadalasang maihahantulad sa b, gamit sa mga hiram na salita mula sa Ingles tulas ng virtyu, ginagamit sa wikang Ibanag"
+    },
+    {
+      "titik": "Ww",
+      "katawagan": "dobolyu",
+      "tunog_ipa": "/w/",
+      "tala": ""
+    },
+    {
+      "titik": "Xx",
+      "katawagan": "eks",
+      "tunog_ipa": "/ks/",
+      "tala": ""
+    },
+    {
+      "titik": "Yy",
+      "katawagan": "way",
+      "tunog_ipa": "/j/",
+      "tala": ""
+    },
+    {
+      "titik": "Zz",
+      "katawagan": "zi",
+      "tunog_ipa": "/z/, /s/",
+      "tala": "kadalasang maihahantulad sa s"
+    }
+  ],
+  "meta": {
+    "title": "Ang Alpabetong Filipino (28 Titik) - Free Download",
+    "description": "Ang 28 titik ng makabagong alpabetong Filipino kasama ang katawagan o bigkas ng bawat titik, tunog sa IPA at mga tala sa paggamit. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ang Alpabetong Filipino (28 Titik) | ListBase",
+    "seo_description": "Download Ang Alpabetong Filipino (28 Titik) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Alpabetong_Filipino"
+    ]
+  }
+}
