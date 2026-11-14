@@ -1,0 +1,403 @@
+{
+  "id": "tl-mga-himpilan-ng-radyo-sa-davao",
+  "name": "Mga Himpilan ng Radyo sa Davao (AM at FM)",
+  "title": "Mga Himpilan ng Radyo sa Davao (AM at FM)",
+  "description": "Talaan ng mga himpilan ng radyong AM at FM sa Davao kasama ang frequency, call sign, tatak, kumpanyang may-ari, lakas at sinasaklaw na lugar.",
+  "category": "entertainment",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Davao",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Davao",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "frequency",
+      "label": "Frequency",
+      "type": "string"
+    },
+    {
+      "key": "banda",
+      "label": "Banda",
+      "type": "string"
+    },
+    {
+      "key": "call_sign",
+      "label": "Call Sign",
+      "type": "string"
+    },
+    {
+      "key": "tatak",
+      "label": "Tatak",
+      "type": "string"
+    },
+    {
+      "key": "kumpanya",
+      "label": "Kumpanya",
+      "type": "string"
+    },
+    {
+      "key": "lakas",
+      "label": "Lakas",
+      "type": "string"
+    },
+    {
+      "key": "sinasaklaw_na_lugar",
+      "label": "Sinasaklaw Na Lugar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "frequency": "576 AM",
+      "banda": "AM",
+      "call_sign": "DXMF",
+      "tatak": "Bombo Radyo Davao",
+      "kumpanya": "Bombo Radyo Philippines",
+      "lakas": "10 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "621 AM",
+      "banda": "AM",
+      "call_sign": "DXDC",
+      "tatak": "DXDC 621 RMN Davao",
+      "kumpanya": "Radio Mindanao Network",
+      "lakas": "10 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "711 AM",
+      "banda": "AM",
+      "call_sign": "DXRD",
+      "tatak": "Sonshine Radio Davao",
+      "kumpanya": "Sonshine Media Network International",
+      "lakas": "15 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "783 AM",
+      "banda": "AM",
+      "call_sign": "DXRA",
+      "tatak": "Radyo Ni Juan 783 Khz",
+      "kumpanya": "Rizal Memorial Colleges Broadcasting Corporation",
+      "lakas": "10 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "819 AM",
+      "banda": "AM",
+      "call_sign": "DXUM",
+      "tatak": "Radyo Ukay 819 Khz",
+      "kumpanya": "UM Broadcasting Network",
+      "lakas": "10 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "855 AM",
+      "banda": "AM",
+      "call_sign": "DXGO",
+      "tatak": "Aksyon Radyo Davao 855 Khz",
+      "kumpanya": "Manila Broadcasting Company",
+      "lakas": "10 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "900 AM",
+      "banda": "AM",
+      "call_sign": "DXIP",
+      "tatak": "El-Nuevo Bantay Radyo Davao",
+      "kumpanya": "Southern Broadcasting Network /Bantay Radyo",
+      "lakas": "10 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "981 AM",
+      "banda": "AM",
+      "call_sign": "DXOW",
+      "tatak": "Radyo Asenso Davao 981 Khz",
+      "kumpanya": "Radio Corporation of the Philippines",
+      "lakas": "20 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "1017 AM",
+      "banda": "AM",
+      "call_sign": "DXAM",
+      "tatak": "Radyo Rapido Diyes Disisyete (Rapid Radio)",
+      "kumpanya": "Kalayaan Broadcasting System",
+      "lakas": "10 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "1125 AM",
+      "banda": "AM",
+      "call_sign": "DXGM",
+      "tatak": "Super Radyo Davao",
+      "kumpanya": "GMA Network",
+      "lakas": "11 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "1197 AM",
+      "banda": "AM",
+      "call_sign": "DXFE",
+      "tatak": "1197 DXFE The Good News Radio",
+      "kumpanya": "Far East Broadcasting Company",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "1224 AM",
+      "banda": "AM",
+      "call_sign": "DXED",
+      "tatak": "Radyo Agila Davao",
+      "kumpanya": "Eagle Broadcasting Corporation",
+      "lakas": "10 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "1260 AM",
+      "banda": "AM",
+      "call_sign": "DXRF",
+      "tatak": "DZRH Nationwide Davao",
+      "kumpanya": "Manila Broadcasting Company / RH Broadcasting, Inc.",
+      "lakas": "10 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "1296 AM",
+      "banda": "AM",
+      "call_sign": "DXAB",
+      "tatak": "Radyo Patrol Davao",
+      "kumpanya": "ABS-CBN Corporation",
+      "lakas": "10 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "1404 AM",
+      "banda": "AM",
+      "call_sign": "DXAQ",
+      "tatak": "Kingdom Radio",
+      "kumpanya": "Sonshine Media Network International",
+      "lakas": "15 kW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "88.3 FM",
+      "banda": "FM",
+      "call_sign": "DXDR",
+      "tatak": "88.3 Energy FM Davao",
+      "kumpanya": "Ultrasonic Broadcasting System Inc.",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "89.1 FM",
+      "banda": "FM",
+      "call_sign": "DXBE",
+      "tatak": "Magic 89.1 Davao",
+      "kumpanya": "Quest Broadcasting Inc.",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "89.9 FM",
+      "banda": "FM",
+      "call_sign": "DXGN",
+      "tatak": "89.9 Spirit FM",
+      "kumpanya": "Global Broadcasting Systems (Roman Catholic Archdiocese of Davao)",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "90.7 FM",
+      "banda": "FM",
+      "call_sign": "DXBM",
+      "tatak": "90.7 Love Radio Davao",
+      "kumpanya": "Manila Broadcasting Company",
+      "lakas": "20 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "91.5 FM",
+      "banda": "FM",
+      "call_sign": "DXKX",
+      "tatak": "91.5 Brigada News FM",
+      "kumpanya": "Brigada Mass Media Corporation",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Metro Davao"
+    },
+    {
+      "frequency": "92.3 FM",
+      "banda": "FM",
+      "call_sign": "DXWT",
+      "tatak": "Wild 92.3 WT",
+      "kumpanya": "UM Broadcasting Network",
+      "lakas": "20 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "93.1 FM",
+      "banda": "FM",
+      "call_sign": "DXLR",
+      "tatak": "93.1 Crossover Davao",
+      "kumpanya": "Mareco Broadcasting Network, Inc.",
+      "lakas": "5 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "93.9 FM",
+      "banda": "FM",
+      "call_sign": "DXXL",
+      "tatak": "93.9 iFM Davao",
+      "kumpanya": "Radio Mindanao Network",
+      "lakas": "20 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "94.7 FM",
+      "banda": "FM",
+      "call_sign": "DXLL",
+      "tatak": "94.7 One Radio",
+      "kumpanya": "FBS Radio Network Inc. / Rizal Memorial Colleges Broadcasting Corporation",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "95.5 FM",
+      "banda": "FM",
+      "call_sign": "DXKR",
+      "tatak": "95.5 Classic Hit Radio",
+      "kumpanya": "ACWS - United Broadcasting Network / UM Broadcasting Network",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "96.3 FM",
+      "banda": "FM",
+      "call_sign": "DXFX",
+      "tatak": "96.3 Star FM",
+      "kumpanya": "Bombo Radyo Philippines / Consolidated Broadcasting System, Inc.",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "97.1 FM",
+      "banda": "FM",
+      "call_sign": "DXUR",
+      "tatak": "Oomph! Radio 97.1",
+      "kumpanya": "Ultimate Entertainment /Viva Live",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "97.9 FM",
+      "banda": "FM",
+      "call_sign": "DXSS",
+      "tatak": "97.9 Mom's Radio",
+      "kumpanya": "Southern Broadcasting Network",
+      "lakas": "20 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "98.7 FM",
+      "banda": "FM",
+      "call_sign": "DXQM",
+      "tatak": "98.7 Home Radio Davao",
+      "kumpanya": "Aliw Broadcasting Corporation",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Metro Davao"
+    },
+    {
+      "frequency": "99.5 FM",
+      "banda": "FM",
+      "call_sign": "DXBT",
+      "tatak": "Monster Radio BT 99.5",
+      "kumpanya": "Audiovisual Communicators, Inc.",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "100.3 FM",
+      "banda": "FM",
+      "call_sign": "DXDJ",
+      "tatak": "RJFM 100.3 Davao",
+      "kumpanya": "Rajah Broadcasting Network",
+      "lakas": "20 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "101.1 FM",
+      "banda": "FM",
+      "call_sign": "DXRR",
+      "tatak": "MOR 101.1 For Life!",
+      "kumpanya": "ABS-CBN Corporation",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "101.9 FM",
+      "banda": "FM",
+      "call_sign": "DXFM",
+      "tatak": "Radyo5 101.9 News FM Davao",
+      "kumpanya": "Nation Broadcasting Corporation",
+      "lakas": "25 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "103.5 FM",
+      "banda": "FM",
+      "call_sign": "DXRV",
+      "tatak": "Barangay 103.5 Nindota-ah! Davao",
+      "kumpanya": "GMA Network",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "104.3FM",
+      "banda": "FM",
+      "call_sign": "DXMA",
+      "tatak": "104.3 The Edge Radio Davao FM",
+      "kumpanya": "United Christian Broadcasters",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "105.1 FM",
+      "banda": "FM",
+      "call_sign": "DXYS",
+      "tatak": "105.1 Easy Rock Davao",
+      "kumpanya": "Manila Broadcasting Company & Cebu Broadcasting Company",
+      "lakas": "25 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "105.9 FM",
+      "banda": "FM",
+      "call_sign": "DXMX",
+      "tatak": "105.9 Balita FM",
+      "kumpanya": "Oriental Mindoro Management Resources Corporation & Real Radio Network",
+      "lakas": "10 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    },
+    {
+      "frequency": "107.5 FM",
+      "banda": "FM",
+      "call_sign": "DXNU",
+      "tatak": "107.5 Win Radio Davao",
+      "kumpanya": "Progressive Broadcasting Corporation / One Radio Management",
+      "lakas": "25 KW",
+      "sinasaklaw_na_lugar": "Davao City"
+    }
+  ],
+  "meta": {
+    "title": "Mga Himpilan ng Radyo sa Davao (AM at FM) - Free Download",
+    "description": "Talaan ng mga himpilan ng radyong AM at FM sa Davao kasama ang frequency, call sign, tatak, kumpanyang may-ari, lakas at sinasaklaw na lugar. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Himpilan ng Radyo sa Davao (AM at FM) | ListBase",
+    "seo_description": "Download Mga Himpilan ng Radyo sa Davao (AM at FM) — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Davao"
+    ]
+  }
+}

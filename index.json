@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-14T02:03:24.183Z",
-  "total_datasets": 524,
-  "total_records": 448922,
+  "generated": "2026-11-14T02:03:35.576Z",
+  "total_datasets": 525,
+  "total_records": 448960,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -3472,6 +3472,34 @@
         "xlsx": {
           "name": "tl-mga-himpilan-ng-radyo-sa-cebu_TL.xlsx",
           "size": 10769
+        }
+      }
+    },
+    {
+      "id": "tl-mga-himpilan-ng-radyo-sa-davao",
+      "name": "Mga Himpilan ng Radyo sa Davao (AM at FM)",
+      "category": "entertainment",
+      "record_count": 38,
+      "columns": [
+        "frequency",
+        "banda",
+        "call_sign",
+        "tatak",
+        "kumpanya",
+        "lakas",
+        "sinasaklaw_na_lugar"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Davao",
+      "updated": "2026-11",
+      "size": 11616,
+      "files": {
+        "csv": {
+          "name": "tl-mga-himpilan-ng-radyo-sa-davao_TL.csv",
+          "size": 4053
+        },
+        "xlsx": {
+          "name": "tl-mga-himpilan-ng-radyo-sa-davao_TL.xlsx",
+          "size": 9145
         }
       }
     },
