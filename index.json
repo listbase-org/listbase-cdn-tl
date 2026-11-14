@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-14T02:03:13.157Z",
-  "total_datasets": 523,
-  "total_records": 448870,
+  "generated": "2026-11-14T02:03:24.183Z",
+  "total_datasets": 524,
+  "total_records": 448922,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -3414,6 +3414,35 @@
         "xlsx": {
           "name": "tl-zamboanga-peninsula-shs-paaralan_TL.xlsx",
           "size": 27806
+        }
+      }
+    },
+    {
+      "id": "tl-mga-himpilan-ng-radyo-sa-bangsamoro",
+      "name": "Mga Himpilan ng Radyo sa Bangsamoro (BARMM)",
+      "category": "entertainment",
+      "record_count": 52,
+      "columns": [
+        "frequency",
+        "banda",
+        "call_sign",
+        "tatak",
+        "kumpanya",
+        "lakas",
+        "lokasyon",
+        "sinasaklaw_na_lugar"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Bangsamoro",
+      "updated": "2026-11",
+      "size": 17687,
+      "files": {
+        "csv": {
+          "name": "tl-mga-himpilan-ng-radyo-sa-bangsamoro_TL.csv",
+          "size": 6845
+        },
+        "xlsx": {
+          "name": "tl-mga-himpilan-ng-radyo-sa-bangsamoro_TL.xlsx",
+          "size": 10115
         }
       }
     },

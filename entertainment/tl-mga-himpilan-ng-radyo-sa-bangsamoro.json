@@ -1,0 +1,586 @@
+{
+  "id": "tl-mga-himpilan-ng-radyo-sa-bangsamoro",
+  "name": "Mga Himpilan ng Radyo sa Bangsamoro (BARMM)",
+  "title": "Mga Himpilan ng Radyo sa Bangsamoro (BARMM)",
+  "description": "Talaan ng mga himpilan ng radyong AM at FM sa Rehiyong Awtonomo ng Bangsamoro (Basilan, Lanao del Sur, Cotabato, Sulu, Tawi-Tawi) kasama ang frequency, call sign, tatak, may-ari at lokasyon.",
+  "category": "entertainment",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Bangsamoro",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Bangsamoro",
+  "updated": "2026-11",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "frequency",
+      "label": "Frequency",
+      "type": "string"
+    },
+    {
+      "key": "banda",
+      "label": "Banda",
+      "type": "string"
+    },
+    {
+      "key": "call_sign",
+      "label": "Call Sign",
+      "type": "string"
+    },
+    {
+      "key": "tatak",
+      "label": "Tatak",
+      "type": "string"
+    },
+    {
+      "key": "kumpanya",
+      "label": "Kumpanya",
+      "type": "string"
+    },
+    {
+      "key": "lakas",
+      "label": "Lakas",
+      "type": "number"
+    },
+    {
+      "key": "lokasyon",
+      "label": "Lokasyon",
+      "type": "string"
+    },
+    {
+      "key": "sinasaklaw_na_lugar",
+      "label": "Sinasaklaw Na Lugar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "frequency": "1134 AM",
+      "banda": "AM",
+      "call_sign": "DXOS",
+      "tatak": "(Tila ngayo'y 'di-aktibo)",
+      "kumpanya": "Public Affairs Service, Sandatahang Lakas ng Pilipinas",
+      "lakas": "",
+      "lokasyon": "Basilan",
+      "sinasaklaw_na_lugar": "Basilan"
+    },
+    {
+      "frequency": "97.5 FM",
+      "banda": "FM",
+      "call_sign": "DXNO",
+      "tatak": "Radyo Komunidad",
+      "kumpanya": "National Nutrition Council",
+      "lakas": "0.1",
+      "lokasyon": "Lungsod Isabela",
+      "sinasaklaw_na_lugar": "Basilan"
+    },
+    {
+      "frequency": "98.3 FM",
+      "banda": "FM",
+      "call_sign": "DXSL",
+      "tatak": "Basilan Radio",
+      "kumpanya": "Special Operations Command, Hukbong Katihan ng Pilipinas",
+      "lakas": "0.1",
+      "lokasyon": "Lungsod Isabela",
+      "sinasaklaw_na_lugar": "Basilan"
+    },
+    {
+      "frequency": "774 AM",
+      "banda": "AM",
+      "call_sign": "DXSO",
+      "tatak": "Radyo Pilipinas",
+      "kumpanya": "Philippine Broadcasting Service (PBS)",
+      "lakas": "10",
+      "lokasyon": "Lungsod Marawi",
+      "sinasaklaw_na_lugar": "Lanao del Sur"
+    },
+    {
+      "frequency": "1323 AM (1322v)",
+      "banda": "AM",
+      "call_sign": "DXAD",
+      "tatak": "Radio Ranao",
+      "kumpanya": "Muslim Mindanao Development Multi-Purpose Cooperative",
+      "lakas": "5",
+      "lokasyon": "Lungsod Marawi",
+      "sinasaklaw_na_lugar": "Lanao del Sur"
+    },
+    {
+      "frequency": "1413 AM",
+      "banda": "AM",
+      "call_sign": "PU/PA",
+      "tatak": "(Tila wala pang operasyon)",
+      "kumpanya": "Muslim Mindanao Radio and Television Network Corp.",
+      "lakas": "10",
+      "lokasyon": "Lungsod Marawi",
+      "sinasaklaw_na_lugar": "Lanao del Sur"
+    },
+    {
+      "frequency": "1449 AM",
+      "banda": "AM",
+      "call_sign": "DXSA",
+      "tatak": "Radio Punto Marawi",
+      "kumpanya": "Mindanao Broadcasting Company, lnc.",
+      "lakas": "5",
+      "lokasyon": "Lungsod Marawi",
+      "sinasaklaw_na_lugar": "Lanao del Sur"
+    },
+    {
+      "frequency": "1593 AM",
+      "banda": "AM",
+      "call_sign": "DXSK (DXFM)",
+      "tatak": "Radio Ranaw",
+      "kumpanya": "Ranao Radio Broadcasting Service/and TV System Corporation",
+      "lakas": "10",
+      "lokasyon": "Lungsod Marawi",
+      "sinasaklaw_na_lugar": "Lanao del Sur"
+    },
+    {
+      "frequency": "95.5 FM",
+      "banda": "FM",
+      "call_sign": "DXSK",
+      "tatak": "Cool 95.5",
+      "kumpanya": "Ranao Radio Broadcasting & TV System Corporation",
+      "lakas": "5",
+      "lokasyon": "Lungsod Marawi",
+      "sinasaklaw_na_lugar": "Lanao del Sur"
+    },
+    {
+      "frequency": "96.9 FM",
+      "banda": "FM",
+      "call_sign": "DXEM",
+      "tatak": "Radyo Natin",
+      "kumpanya": "Pacific Broadcasting System, Inc.; Manila Broadcasting Company (MBC)",
+      "lakas": "1",
+      "lokasyon": "Lungsod Marawi",
+      "sinasaklaw_na_lugar": "Lanao del Sur"
+    },
+    {
+      "frequency": "99.7 FM",
+      "banda": "FM",
+      "call_sign": "DXSO",
+      "tatak": "Radyo Pilipinas",
+      "kumpanya": "Philippine Broadcasting Service (PBS)",
+      "lakas": "1",
+      "lokasyon": "Lungsod Marawi",
+      "sinasaklaw_na_lugar": "Lanao del Sur"
+    },
+    {
+      "frequency": "106.1 FM",
+      "banda": "FM",
+      "call_sign": "PU",
+      "tatak": "(Maaaring wala pang operasyon)",
+      "kumpanya": "Philippine Broadcasting Service (PBS)",
+      "lakas": "1",
+      "lokasyon": "Bayang, Lanao del Sur",
+      "sinasaklaw_na_lugar": "Lanao del Sur"
+    },
+    {
+      "frequency": "567 AM",
+      "banda": "AM",
+      "call_sign": "DXCH",
+      "tatak": "DZRH 567 Cotabato",
+      "kumpanya": "Pacific Broadcasting System, Inc.; Manila Broadcasting Company (MBC)",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "729 AM",
+      "banda": "AM",
+      "call_sign": "DXMY",
+      "tatak": "RMN (Radyo Mo Nationwide)",
+      "kumpanya": "Radio Mindanao Network, Inc. (RMN)",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "882 AM",
+      "banda": "AM",
+      "call_sign": "DXMS",
+      "tatak": "DXMS-AM Radyo Bida 882 AM",
+      "kumpanya": "Notre Dame Broadcasting Corporation",
+      "lakas": "10",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "945 AM",
+      "banda": "AM",
+      "call_sign": "DXRO",
+      "tatak": "DXRO Sonshine Radio 945 Cotabato",
+      "kumpanya": "Nation Broadcasting Corporation; Swara Sug Media Corp. (Sonshine Media Network International)",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "990 AM",
+      "banda": "AM",
+      "call_sign": "DXBM",
+      "tatak": "Super Radyo",
+      "kumpanya": "GMA Network, lnc.",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "1089 AM",
+      "banda": "AM",
+      "call_sign": "DXCM",
+      "tatak": "DXCM 1089 Radyo Ukay",
+      "kumpanya": "UM (University of Mindanao) Broadcasting Network",
+      "lakas": "10",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "1305 AM",
+      "banda": "AM",
+      "call_sign": "PA",
+      "tatak": "",
+      "kumpanya": "DXRA-RMC Broadcasting Corporation",
+      "lakas": "",
+      "lokasyon": "",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "1485 AM",
+      "banda": "AM",
+      "call_sign": "PA",
+      "tatak": "(Tila wala pang operasyon)",
+      "kumpanya": "Radio Philippines Network, Inc.",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "1602 AM",
+      "banda": "AM",
+      "call_sign": "PA",
+      "tatak": "(Tila wala pang operasyon)",
+      "kumpanya": "Philippine Broadcasting Corporation",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "89.3 FM",
+      "banda": "FM",
+      "call_sign": "DXYC (DXZA)",
+      "tatak": "89.3 Brigada News FM",
+      "kumpanya": "Baycomms Broadcasting Corporation (Brigada Mass Media Corporation)",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "90.9 FM",
+      "banda": "FM",
+      "call_sign": "DXCC (DXWD)",
+      "tatak": "90.9 iFM Cotabato",
+      "kumpanya": "Radio Mindanao Network, Inc. (RMN)",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "92.7 FM",
+      "banda": "FM",
+      "call_sign": "DXOL",
+      "tatak": "92.7 Happy FM Cotabato",
+      "kumpanya": "Notre Dame Broadcasting Corporation",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "93.7 FM",
+      "banda": "FM",
+      "call_sign": "DXFD",
+      "tatak": "93.7 Star FM",
+      "kumpanya": "Consolidated Broadcasting System; People's Broadcasting Service, Inc.; Bombo Radyo Philippines",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "95.1 FM",
+      "banda": "FM",
+      "call_sign": "DXPS",
+      "tatak": "MOR 95.1 For Life!",
+      "kumpanya": "ABS-CBN Corporation",
+      "lakas": "2 o 5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "95.9 FM",
+      "banda": "FM",
+      "call_sign": "DXTC",
+      "tatak": "95.9 Hot FM (Radyo Natin Cotabato)",
+      "kumpanya": "Manila Broadcasting Company (MBC) (Radyo Natin Network)",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "97.3 FM",
+      "banda": "FM",
+      "call_sign": "DXOK",
+      "tatak": "",
+      "kumpanya": "Nation Broadcasting Corporation",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "99.0 FM",
+      "banda": "FM",
+      "call_sign": "DXJC",
+      "tatak": "99.0 Voice FM Cotabato",
+      "kumpanya": "Al-Balagh Foundation/Prime Broadcasting Network",
+      "lakas": "5",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "99.7 FM",
+      "banda": "FM",
+      "call_sign": "DXAE",
+      "tatak": "99.7 DXAE FM",
+      "kumpanya": "Philippine Broadcasting Service (PBS)/ Kagawaran ng Edukasyon -BARMM",
+      "lakas": "1",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "102.7 FM",
+      "banda": "FM",
+      "call_sign": "DXVC",
+      "tatak": "Love Radio",
+      "kumpanya": "Manila Broadcasting Company (MBC)",
+      "lakas": "10",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "103.5 FM",
+      "banda": "FM",
+      "call_sign": "PA",
+      "tatak": "(Maaaring wala pang operasyon)",
+      "kumpanya": "Eagle Broadcasting Corporation",
+      "lakas": "1",
+      "lokasyon": "Lungsod Cotabato",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "104.9 FM",
+      "banda": "FM",
+      "call_sign": "DXLB",
+      "tatak": "",
+      "kumpanya": "Philippine Broadcasting Service (PBS)",
+      "lakas": "1",
+      "lokasyon": "Buluan, Maguindanao",
+      "sinasaklaw_na_lugar": "Maguindanao"
+    },
+    {
+      "frequency": "105.3 FM",
+      "banda": "FM",
+      "call_sign": "DXJN",
+      "tatak": "105.3 Radyo Bandera News FM Cotabato",
+      "kumpanya": "Allied Broadcasting Center, Inc. (Bandera News Philippines)",
+      "lakas": "1 (5)",
+      "lokasyon": "",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "105.5 FM",
+      "banda": "FM",
+      "call_sign": "DXUP",
+      "tatak": "105.5 Upi for Peace",
+      "kumpanya": "Philippine Broadcasting Service (PBS)",
+      "lakas": "3",
+      "lokasyon": "Upi, Maguindanao",
+      "sinasaklaw_na_lugar": "Upi, Maguindanao"
+    },
+    {
+      "frequency": "107.7 FM",
+      "banda": "FM",
+      "call_sign": "DXEO",
+      "tatak": "",
+      "kumpanya": "Prime Broadcasting Network, Inc.",
+      "lakas": "1",
+      "lokasyon": "",
+      "sinasaklaw_na_lugar": "Lungsod Cotabato (Pangunahin)"
+    },
+    {
+      "frequency": "774 AM",
+      "banda": "AM",
+      "call_sign": "DXSM",
+      "tatak": "Radyo Pilipinas",
+      "kumpanya": "Philippine Broadcasting Service (PBS)",
+      "lakas": "10",
+      "lokasyon": "Jolo, Sulu",
+      "sinasaklaw_na_lugar": "Sulu"
+    },
+    {
+      "frequency": "873 AM",
+      "banda": "AM",
+      "call_sign": "DXRT",
+      "tatak": "Angel Radyo (Hindi pa kumpirmado, at ipinagpalagay ngayong 'di-aktibo)",
+      "kumpanya": "Nation Broadcasting Corporation",
+      "lakas": "10",
+      "lokasyon": "Jolo, Sulu",
+      "sinasaklaw_na_lugar": "Sulu"
+    },
+    {
+      "frequency": "927 AM",
+      "banda": "AM",
+      "call_sign": "DXMM",
+      "tatak": "Radyo Totoo",
+      "kumpanya": "Sulu Tawi-tawi Broadcasting Foundation; Catholic Media Network",
+      "lakas": "5",
+      "lokasyon": "Jolo, Sulu",
+      "sinasaklaw_na_lugar": "Sulu"
+    },
+    {
+      "frequency": "1224 AM",
+      "banda": "AM",
+      "call_sign": "DXSM",
+      "tatak": "",
+      "kumpanya": "Philippine Broadcasting Service",
+      "lakas": "",
+      "lokasyon": "",
+      "sinasaklaw_na_lugar": "Sulu"
+    },
+    {
+      "frequency": "95.1 FM",
+      "banda": "FM",
+      "call_sign": "DYFA",
+      "tatak": "(Maaaring wala pang operasyon)",
+      "kumpanya": "Pacific Broadcasting System, Inc.; Manila Broadcasting Company (MBC)",
+      "lakas": "0.5 o 1",
+      "lokasyon": "Jolo, Sulu",
+      "sinasaklaw_na_lugar": "Sulu"
+    },
+    {
+      "frequency": "99.3 FM",
+      "banda": "FM",
+      "call_sign": "DXJT",
+      "tatak": "99.3 Your Bossom Buddy",
+      "kumpanya": "Joint Task Force Sulu",
+      "lakas": "0.1",
+      "lokasyon": "Jolo, Sulu",
+      "sinasaklaw_na_lugar": "Sulu"
+    },
+    {
+      "frequency": "100.7 FM",
+      "banda": "FM",
+      "call_sign": "DXSL",
+      "tatak": "",
+      "kumpanya": "JTF Sulu & Subordinate Units",
+      "lakas": "0.1",
+      "lokasyon": "",
+      "sinasaklaw_na_lugar": "Sulu"
+    },
+    {
+      "frequency": "107.9 FM",
+      "banda": "FM",
+      "call_sign": "DXPO",
+      "tatak": "The Beat",
+      "kumpanya": "Manila Broadcasting Company (MBC)",
+      "lakas": "5",
+      "lokasyon": "Jolo, Sulu",
+      "sinasaklaw_na_lugar": "Sulu"
+    },
+    {
+      "frequency": "549 AM (675 AM)",
+      "banda": "AM",
+      "call_sign": "DXGD",
+      "tatak": "DXGD 549",
+      "kumpanya": "Sulu Tawi-tawi Broadcasting Foundation",
+      "lakas": "1",
+      "lokasyon": "Bongao, Tawi-Tawi",
+      "sinasaklaw_na_lugar": "Tawi-Tawi"
+    },
+    {
+      "frequency": "999 AM",
+      "banda": "AM",
+      "call_sign": "DXPT",
+      "tatak": "Radyo Pilipinas",
+      "kumpanya": "Philippine Broadcasting Service (PBS)",
+      "lakas": "1",
+      "lokasyon": "Bongao, Tawi-Tawi",
+      "sinasaklaw_na_lugar": "Tawi-Tawi"
+    },
+    {
+      "frequency": "89.3 FM",
+      "banda": "FM",
+      "call_sign": "DXKB",
+      "tatak": "Killer Bee",
+      "kumpanya": "",
+      "lakas": "",
+      "lokasyon": "Mapun, Tawi-Tawi",
+      "sinasaklaw_na_lugar": "Tawi-Tawi"
+    },
+    {
+      "frequency": "90.9 FM",
+      "banda": "FM",
+      "call_sign": "DYFB",
+      "tatak": "Radyo Natin",
+      "kumpanya": "Manila Broadcasting Company (MBC)",
+      "lakas": "0.5",
+      "lokasyon": "Bongao, Tawi-Tawi",
+      "sinasaklaw_na_lugar": "Tawi-Tawi"
+    },
+    {
+      "frequency": "92.5 FM",
+      "banda": "FM",
+      "call_sign": "DXBQ",
+      "tatak": "(Maaaring wala pang operasyon)",
+      "kumpanya": "Kaissar Broadcasting Network, Inc.",
+      "lakas": "1",
+      "lokasyon": "Bongao, Tawi-Tawi",
+      "sinasaklaw_na_lugar": "Tawi-Tawi"
+    },
+    {
+      "frequency": "94.1 FM",
+      "banda": "FM",
+      "call_sign": "DXNH",
+      "tatak": "Radyo Kasannangan",
+      "kumpanya": "National Nutrition Council",
+      "lakas": "0.3",
+      "lokasyon": "Bongao, Tawi-Tawi",
+      "sinasaklaw_na_lugar": "Tawi-Tawi"
+    },
+    {
+      "frequency": "94.9 FM",
+      "banda": "FM",
+      "call_sign": "PA",
+      "tatak": "(Maaaring wala pang operasyon)",
+      "kumpanya": "Information Broadcast Unlimited, Inc.",
+      "lakas": "1",
+      "lokasyon": "Bongao, Tawi-Tawi",
+      "sinasaklaw_na_lugar": "Tawi-Tawi"
+    },
+    {
+      "frequency": "104.7 FM",
+      "banda": "FM",
+      "call_sign": "DXAS",
+      "tatak": "Radyo Pilipinas",
+      "kumpanya": "Philippine Broadcasting Service (PBS)",
+      "lakas": "1",
+      "lokasyon": "Bongao, Tawi-Tawi",
+      "sinasaklaw_na_lugar": "Tawi-Tawi"
+    }
+  ],
+  "meta": {
+    "title": "Mga Himpilan ng Radyo sa Bangsamoro (BARMM) - Free Download",
+    "description": "Talaan ng mga himpilan ng radyong AM at FM sa Rehiyong Awtonomo ng Bangsamoro (Basilan, Lanao del Sur, Cotabato, Sulu, Tawi-Tawi) kasama ang frequency, call sign, tatak, may-ari at lokasyon. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Himpilan ng Radyo sa Bangsamoro (BARMM) | ListBase",
+    "seo_description": "Download Mga Himpilan ng Radyo sa Bangsamoro (BARMM) — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_himpilan_ng_radyo_sa_Bangsamoro"
+    ]
+  }
+}
