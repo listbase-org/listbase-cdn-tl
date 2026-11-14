@@ -1,0 +1,1955 @@
+{
+  "id": "tl-mga-binagong-pangalan-ng-lungsod-at-bayan",
+  "name": "Mga Lungsod at Bayan sa Pilipinas na Binago ang Pangalan",
+  "title": "Mga Lungsod at Bayan sa Pilipinas na Binago ang Pangalan",
+  "description": "Talaan ng mga lungsod at bayan sa Pilipinas na pinalitan ang pangalan, kasama ang dating pangalan, kasalukuyang pangalan, kasaysayan ng pagbabago at taon (kung alam), ayon sa pangkat ng pulo.",
+  "category": "history",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_binagong_pangalan_na_mga_lungsod_at_bayan_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_binagong_pangalan_na_mga_lungsod_at_bayan_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 272,
+  "columns": [
+    {
+      "key": "dating_pangalan",
+      "label": "Dating Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "kasalukuyang_pangalan",
+      "label": "Kasalukuyang Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "kasaysayan_ng_pangalan",
+      "label": "Kasaysayan Ng Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "taon_ng_huling_pagbabago",
+      "label": "Taon Ng Huling Pagbabago",
+      "type": "number"
+    },
+    {
+      "key": "pangkat_ng_pulo",
+      "label": "Pangkat Ng Pulo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dating_pangalan": "Adan",
+      "kasalukuyang_pangalan": "Adams",
+      "kasaysayan_ng_pangalan": "Adan → Adams",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Alava",
+      "kasalukuyang_pangalan": "Sison",
+      "kasaysayan_ng_pangalan": "Alava → Sison",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Albay",
+      "kasalukuyang_pangalan": "Legazpi",
+      "kasaysayan_ng_pangalan": "Albay → Legaspi (1925) → Legazpi",
+      "taon_ng_huling_pagbabago": 1925,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Anderson",
+      "kasalukuyang_pangalan": "Garchitorena",
+      "kasaysayan_ng_pangalan": "Anderson → Garchitorena",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Angaki",
+      "kasalukuyang_pangalan": "Quirino",
+      "kasaysayan_ng_pangalan": "Angaki → Quirino (1964)",
+      "taon_ng_huling_pagbabago": 1964,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Angio",
+      "kasalukuyang_pangalan": "San Fabian",
+      "kasaysayan_ng_pangalan": "Angio → San Fabian",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Antatet",
+      "kasalukuyang_pangalan": "Luna",
+      "kasaysayan_ng_pangalan": "Antatet → Luna (1951)",
+      "taon_ng_huling_pagbabago": 1951,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Atoc",
+      "kasalukuyang_pangalan": "Atok",
+      "kasaysayan_ng_pangalan": "Atoc → Atok",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Aurora",
+      "kasalukuyang_pangalan": "San Francisco",
+      "kasaysayan_ng_pangalan": "Aurora → San Francisco (1967)",
+      "taon_ng_huling_pagbabago": 1967,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Azagra",
+      "kasalukuyang_pangalan": "San Fernando",
+      "kasaysayan_ng_pangalan": "Azagra → San Fernando",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Bacuit",
+      "kasalukuyang_pangalan": "El Nido",
+      "kasaysayan_ng_pangalan": "Bacuit → El Nido (1954)",
+      "taon_ng_huling_pagbabago": 1954,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Badajoz",
+      "kasalukuyang_pangalan": "San Agustin",
+      "kasaysayan_ng_pangalan": "Badajoz → San Agustin (1957)",
+      "taon_ng_huling_pagbabago": 1957,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Bacnotan",
+      "kasalukuyang_pangalan": "Dagupan",
+      "kasaysayan_ng_pangalan": "Bacnotan → Dagupan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Bagnotan",
+      "kasalukuyang_pangalan": "Bacnotan",
+      "kasaysayan_ng_pangalan": "Bagnotan → Bacnotan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Bailen",
+      "kasalukuyang_pangalan": "Bailen",
+      "kasaysayan_ng_pangalan": "Bailen → General Emilio Aguinaldo (1965) → Bailen (2012; never ratified in a plebiscite)",
+      "taon_ng_huling_pagbabago": 1965,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Balincaguin",
+      "kasalukuyang_pangalan": "Mabini",
+      "kasaysayan_ng_pangalan": "Balincaguin → Mabini (1929)",
+      "taon_ng_huling_pagbabago": 1929,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Banna",
+      "kasalukuyang_pangalan": "Banna",
+      "kasaysayan_ng_pangalan": "Banna → Espiritu (1964) → Banna (1995)",
+      "taon_ng_huling_pagbabago": 1995,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Baoang",
+      "kasalukuyang_pangalan": "Bauang",
+      "kasaysayan_ng_pangalan": "Baoang → Bauang",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Bauguen",
+      "kasalukuyang_pangalan": "Salcedo",
+      "kasaysayan_ng_pangalan": "Bauguen → Salcedo (1957)",
+      "taon_ng_huling_pagbabago": 1957,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Bayag",
+      "kasalukuyang_pangalan": "Calanasan",
+      "kasaysayan_ng_pangalan": "Bayag → Calanasan (1967)",
+      "taon_ng_huling_pagbabago": 1967,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Bigaa",
+      "kasalukuyang_pangalan": "Balagtas",
+      "kasaysayan_ng_pangalan": "Bigaa → Balagtas (1966)",
+      "taon_ng_huling_pagbabago": 1966,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Biñangonan",
+      "kasalukuyang_pangalan": "Binangonan",
+      "kasaysayan_ng_pangalan": "Biñangonan → Binangonan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Binangonan de Lampon",
+      "kasalukuyang_pangalan": "Infanta",
+      "kasaysayan_ng_pangalan": "Binangonan de Lampon → Infanta (1902)",
+      "taon_ng_huling_pagbabago": 1902,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Bitulok",
+      "kasalukuyang_pangalan": "Gabaldon",
+      "kasaysayan_ng_pangalan": "Bitulok → Sabani (1953) → Gabaldon (1955)",
+      "taon_ng_huling_pagbabago": 1955,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Budiao",
+      "kasalukuyang_pangalan": "Daraga",
+      "kasaysayan_ng_pangalan": "Budiao → Cagsaua → Daraga → Locsin (1959) → Daraga (1967)",
+      "taon_ng_huling_pagbabago": 1967,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Bulaoen",
+      "kasalukuyang_pangalan": "Sison",
+      "kasaysayan_ng_pangalan": "Bulaoen → Alava → Sison (1918)",
+      "taon_ng_huling_pagbabago": 1918,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Buenavista",
+      "kasalukuyang_pangalan": "San Andres, Bataan",
+      "kasaysayan_ng_pangalan": "Buenavista → Bataan → San Andres, Bataan (1945)",
+      "taon_ng_huling_pagbabago": 1945,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Busaingan",
+      "kasalukuyang_pangalan": "Santa Magdalena",
+      "kasaysayan_ng_pangalan": "Busaingan → Santa Magdalena",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Cabayan",
+      "kasalukuyang_pangalan": "Kabayan",
+      "kasaysayan_ng_pangalan": "Cabayan → Kabayan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Caboan",
+      "kasalukuyang_pangalan": "Santa Maria",
+      "kasaysayan_ng_pangalan": "Caboan → San Miguel de Caboan → Santa Maria de Caboan → Santa Maria",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Cabugaoan",
+      "kasalukuyang_pangalan": "Kabugao",
+      "kasaysayan_ng_pangalan": "Cabugaoan → Kabugao",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Callang",
+      "kasalukuyang_pangalan": "San Manuel",
+      "kasaysayan_ng_pangalan": "Callang → San Manuel (1965)",
+      "taon_ng_huling_pagbabago": 1965,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Calolbon",
+      "kasalukuyang_pangalan": "San Andres",
+      "kasaysayan_ng_pangalan": "Calolbon → San Andres (1964)",
+      "taon_ng_huling_pagbabago": 1964,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Caloocan",
+      "kasalukuyang_pangalan": "Caloocan",
+      "kasaysayan_ng_pangalan": "Caloocan → Kalookan → Caloocan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Capangan",
+      "kasalukuyang_pangalan": "Kapangan",
+      "kasaysayan_ng_pangalan": "Capangan → Kapangan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Carig",
+      "kasalukuyang_pangalan": "Santiago",
+      "kasaysayan_ng_pangalan": "Carig → Santiago de Carig → Santiago (1910)",
+      "taon_ng_huling_pagbabago": 1910,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Cava",
+      "kasalukuyang_pangalan": "Caba",
+      "kasaysayan_ng_pangalan": "Cava → Caba",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Cavite El Viejo",
+      "kasalukuyang_pangalan": "Kawit",
+      "kasaysayan_ng_pangalan": "Cavite El Viejo → Cavite Viejo → Kawit (1907)",
+      "taon_ng_huling_pagbabago": 1907,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Cavite La Punta",
+      "kasalukuyang_pangalan": "Cavite",
+      "kasaysayan_ng_pangalan": "Cavite La Punta → Cavite Nuevo → Cavite (1903)",
+      "taon_ng_huling_pagbabago": 1903,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Cayan",
+      "kasalukuyang_pangalan": "Tadian",
+      "kasaysayan_ng_pangalan": "Cayan → Kayan → Tadian (1959)",
+      "taon_ng_huling_pagbabago": 1959,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Cayapa",
+      "kasalukuyang_pangalan": "Kayapa",
+      "kasaysayan_ng_pangalan": "Cayapa → Kayapa",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Concepcion",
+      "kasalukuyang_pangalan": "Gregorio del Pilar",
+      "kasaysayan_ng_pangalan": "Concepcion → Gregorio del Pilar (1955)",
+      "taon_ng_huling_pagbabago": 1955,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Culiat",
+      "kasalukuyang_pangalan": "Angeles",
+      "kasaysayan_ng_pangalan": "Culiat → Angeles (1829)",
+      "taon_ng_huling_pagbabago": 1829,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Despujols",
+      "kasalukuyang_pangalan": "San Andres",
+      "kasaysayan_ng_pangalan": "Despujols → San Andres (1961)",
+      "taon_ng_huling_pagbabago": 1961,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Disdis",
+      "kasalukuyang_pangalan": "Burgos",
+      "kasaysayan_ng_pangalan": "Disdis → Burgos (1925)",
+      "taon_ng_huling_pagbabago": 1925,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Echagüe",
+      "kasalukuyang_pangalan": "Echague",
+      "kasaysayan_ng_pangalan": "Echagüe → Echague",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Estella",
+      "kasalukuyang_pangalan": "Cordon",
+      "kasaysayan_ng_pangalan": "Estella → Cordon",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Faire",
+      "kasalukuyang_pangalan": "Santo Niño",
+      "kasaysayan_ng_pangalan": "Faire → Santo Niño (1969)",
+      "taon_ng_huling_pagbabago": 1969,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Guiling-guiling",
+      "kasalukuyang_pangalan": "Siniloan",
+      "kasaysayan_ng_pangalan": "Guiling-guiling → Siniloan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Hingoso",
+      "kasalukuyang_pangalan": "General Luna",
+      "kasaysayan_ng_pangalan": "Hingoso → General Luna",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Ibung",
+      "kasalukuyang_pangalan": "Villaverde",
+      "kasaysayan_ng_pangalan": "Ibung → Villaverde (1959)",
+      "taon_ng_huling_pagbabago": 1959,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Imelda",
+      "kasalukuyang_pangalan": "San Lorenzo Ruiz",
+      "kasaysayan_ng_pangalan": "Imelda → San Lorenzo Ruiz (1989)",
+      "taon_ng_huling_pagbabago": 1989,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Imelda",
+      "kasalukuyang_pangalan": "Santa Maria",
+      "kasaysayan_ng_pangalan": "Imelda → Santa Maria (1988)",
+      "taon_ng_huling_pagbabago": 1988,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Indan",
+      "kasalukuyang_pangalan": "Vinzons",
+      "kasaysayan_ng_pangalan": "Indan → Vinzons (1945)",
+      "taon_ng_huling_pagbabago": 1945,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Irirun",
+      "kasalukuyang_pangalan": "Calintaan",
+      "kasaysayan_ng_pangalan": "Irirun → Calintaan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Jimoto",
+      "kasalukuyang_pangalan": "Gigmoto",
+      "kasaysayan_ng_pangalan": "Jimoto → Gigmoto",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Jones",
+      "kasalukuyang_pangalan": "Banton",
+      "kasaysayan_ng_pangalan": "Jones → Banton (1959)",
+      "taon_ng_huling_pagbabago": 1959,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Jose Panganiban",
+      "kasalukuyang_pangalan": "Panganiban",
+      "kasaysayan_ng_pangalan": "Jose Panganiban → Payo (1957) → Panganiban (1959)",
+      "taon_ng_huling_pagbabago": 1959,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Kalamba",
+      "kasalukuyang_pangalan": "Calamba, Laguna",
+      "kasaysayan_ng_pangalan": "Kalamba → Calamba, Laguna",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Laguimanoc",
+      "kasalukuyang_pangalan": "Padre Burgos",
+      "kasaysayan_ng_pangalan": "Laguimanoc → Padre Burgos",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Langangan",
+      "kasalukuyang_pangalan": "Santa Praxedes",
+      "kasaysayan_ng_pangalan": "Langangan → Santa Praxedes (1964)",
+      "taon_ng_huling_pagbabago": 1964,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Lapog",
+      "kasalukuyang_pangalan": "San Juan",
+      "kasaysayan_ng_pangalan": "Lapog → San Juan (1961)",
+      "taon_ng_huling_pagbabago": 1961,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Las Peñas",
+      "kasalukuyang_pangalan": "Las Piñas",
+      "kasaysayan_ng_pangalan": "Las Peñas → Las Piñas",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Libog",
+      "kasalukuyang_pangalan": "Santo Domingo",
+      "kasaysayan_ng_pangalan": "Libog → Santo Domingo (1959)",
+      "taon_ng_huling_pagbabago": 1959,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Lilio",
+      "kasalukuyang_pangalan": "Liliw",
+      "kasaysayan_ng_pangalan": "Lilio → Liliw",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Limbuhan",
+      "kasalukuyang_pangalan": "Pio V. Corpuz",
+      "kasaysayan_ng_pangalan": "Limbuhan → Pio V. Corpuz (1954)",
+      "taon_ng_huling_pagbabago": 1954,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Linapacan",
+      "kasalukuyang_pangalan": "Linapacan",
+      "kasaysayan_ng_pangalan": "Linapacan → Gaudencio E. Abordo (1988) → Linapacan",
+      "taon_ng_huling_pagbabago": 1988,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Liwan",
+      "kasalukuyang_pangalan": "Rizal",
+      "kasaysayan_ng_pangalan": "Liwan → Rizal (1971)",
+      "taon_ng_huling_pagbabago": 1971,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Llana Hermosa",
+      "kasalukuyang_pangalan": "Hermosa",
+      "kasaysayan_ng_pangalan": "Llana Hermosa → Hermosa",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Longos",
+      "kasalukuyang_pangalan": "Kalayaan",
+      "kasaysayan_ng_pangalan": "Longos → Kalayaan (1956)",
+      "taon_ng_huling_pagbabago": 1956,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Mabatobato",
+      "kasalukuyang_pangalan": "Ocampo",
+      "kasaysayan_ng_pangalan": "Mabatobato → Ocampo (1949)",
+      "taon_ng_huling_pagbabago": 1949,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Magalan",
+      "kasalukuyang_pangalan": "Magalang",
+      "kasaysayan_ng_pangalan": "Magalan → Magalang",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Magallanes",
+      "kasalukuyang_pangalan": "Magdiwang",
+      "kasaysayan_ng_pangalan": "Magallanes → Magdiwang",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Magsaysay",
+      "kasalukuyang_pangalan": "Delfin Albano",
+      "kasaysayan_ng_pangalan": "Magsaysay → Delfin Albano (1982)",
+      "taon_ng_huling_pagbabago": 1982,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Malabanan",
+      "kasalukuyang_pangalan": "Biñan",
+      "kasaysayan_ng_pangalan": "Malabanan → Biñan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Mambulao",
+      "kasalukuyang_pangalan": "Jose Panganiban",
+      "kasaysayan_ng_pangalan": "Mambulao → Jose Panganiban (1934)",
+      "taon_ng_huling_pagbabago": 1934,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Mangarin",
+      "kasalukuyang_pangalan": "San Jose",
+      "kasaysayan_ng_pangalan": "Mangarin → San Jose",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Marcos",
+      "kasalukuyang_pangalan": "Rizal",
+      "kasaysayan_ng_pangalan": "Marcos → Dr. Jose P. Rizal (1988) → Rizal",
+      "taon_ng_huling_pagbabago": 1988,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Mariquina",
+      "kasalukuyang_pangalan": "Marikina",
+      "kasaysayan_ng_pangalan": "Mariquina → Marikina (1901)",
+      "taon_ng_huling_pagbabago": 1901,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Mauanan",
+      "kasalukuyang_pangalan": "Rizal",
+      "kasaysayan_ng_pangalan": "Mauanan → Rizal (1914)",
+      "taon_ng_huling_pagbabago": 1914,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Mendez Nuñez",
+      "kasalukuyang_pangalan": "Mendez",
+      "kasaysayan_ng_pangalan": "Mendez Nuñez → Mendez",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Montalban",
+      "kasalukuyang_pangalan": "Rodriguez",
+      "kasaysayan_ng_pangalan": "Montalban → Rodriguez (1982)",
+      "taon_ng_huling_pagbabago": 1982,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Montufar",
+      "kasalukuyang_pangalan": "Prieto Diaz",
+      "kasaysayan_ng_pangalan": "Montufar → Prieto Diaz",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Moron",
+      "kasalukuyang_pangalan": "Morong",
+      "kasaysayan_ng_pangalan": "Moron → Morong (1955)",
+      "taon_ng_huling_pagbabago": 1955,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Nagpartian",
+      "kasalukuyang_pangalan": "Burgos",
+      "kasaysayan_ng_pangalan": "Nagpartian → Burgos (1914)",
+      "taon_ng_huling_pagbabago": 1914,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Namacpacan",
+      "kasalukuyang_pangalan": "Luna",
+      "kasaysayan_ng_pangalan": "Namacpacan → Luna (1906)",
+      "taon_ng_huling_pagbabago": 1906,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Nueva Caceres",
+      "kasalukuyang_pangalan": "Naga",
+      "kasaysayan_ng_pangalan": "Nueva Caceres → Naga (1919)",
+      "taon_ng_huling_pagbabago": 1919,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Nueva Coveta",
+      "kasalukuyang_pangalan": "Burgos",
+      "kasaysayan_ng_pangalan": "Nueva Coveta → Burgos",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Nueva Segovia",
+      "kasalukuyang_pangalan": "Lal-lo",
+      "kasaysayan_ng_pangalan": "Nueva Segovia → Lal-lo",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Olongapo",
+      "kasalukuyang_pangalan": "Olongapo",
+      "kasaysayan_ng_pangalan": "Olongapo → President Magsaysay City (1971) → Olongapo",
+      "taon_ng_huling_pagbabago": 1971,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Papaya",
+      "kasalukuyang_pangalan": "General Tinio",
+      "kasaysayan_ng_pangalan": "Papaya → General Tinio (1957)",
+      "taon_ng_huling_pagbabago": 1957,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Paquil",
+      "kasalukuyang_pangalan": "Pakil",
+      "kasaysayan_ng_pangalan": "Paquil → Pakil",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Parubcan",
+      "kasalukuyang_pangalan": "Presentacion",
+      "kasaysayan_ng_pangalan": "Parubcan → Presentacion (1969)",
+      "taon_ng_huling_pagbabago": 1969,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Patoc",
+      "kasalukuyang_pangalan": "Peñarrubia",
+      "kasaysayan_ng_pangalan": "Patoc → Alfonso XII → Patoc → Peñarrubia (1903)",
+      "taon_ng_huling_pagbabago": 1903,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Perez Dasmariñas",
+      "kasalukuyang_pangalan": "Dasmariñas",
+      "kasaysayan_ng_pangalan": "Perez Dasmariñas → Dasmariñas (1917)",
+      "taon_ng_huling_pagbabago": 1917,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Peris",
+      "kasalukuyang_pangalan": "Buenavista",
+      "kasaysayan_ng_pangalan": "Peris → Piris → Buenavista",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Pinagsangahan",
+      "kasalukuyang_pangalan": "Pagsanjan",
+      "kasaysayan_ng_pangalan": "Pinagsangahan → Pagsanjan (1688)",
+      "taon_ng_huling_pagbabago": 1688,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Pineda",
+      "kasalukuyang_pangalan": "Pasay",
+      "kasaysayan_ng_pangalan": "Pineda → Pasay (1901) → Rizal City (1947) → Pasay (1950)",
+      "taon_ng_huling_pagbabago": 1950,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Polo",
+      "kasalukuyang_pangalan": "Valenzuela",
+      "kasaysayan_ng_pangalan": "Polo → Valenzuela (1963)",
+      "taon_ng_huling_pagbabago": 1963,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Potia",
+      "kasalukuyang_pangalan": "Alfonso Lista",
+      "kasaysayan_ng_pangalan": "Potia → Lista (1988) → Alfonso Lista",
+      "taon_ng_huling_pagbabago": 1988,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Principe Alfonso",
+      "kasalukuyang_pangalan": "Balabac",
+      "kasaysayan_ng_pangalan": "Principe Alfonso → Balabac",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Puerto De La Princesa",
+      "kasalukuyang_pangalan": "Puerto Princesa",
+      "kasaysayan_ng_pangalan": "Puerto De La Princesa (1863) → Puerto Princesa",
+      "taon_ng_huling_pagbabago": 1863,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Puerto Real",
+      "kasalukuyang_pangalan": "Real",
+      "kasaysayan_ng_pangalan": "Puerto Real → Real",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Quiangan",
+      "kasalukuyang_pangalan": "Kiangan",
+      "kasaysayan_ng_pangalan": "Quiangan → Kiangan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Quibungan",
+      "kasalukuyang_pangalan": "Kibungan",
+      "kasaysayan_ng_pangalan": "Quibungan → Kibungan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Quingua",
+      "kasalukuyang_pangalan": "Plaridel",
+      "kasaysayan_ng_pangalan": "Quingua → Plaridel (1936)",
+      "taon_ng_huling_pagbabago": 1936,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Quipia",
+      "kasalukuyang_pangalan": "Jovellar",
+      "kasaysayan_ng_pangalan": "Quipia → Jovellar (1882)",
+      "taon_ng_huling_pagbabago": 1882,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Salasa",
+      "kasalukuyang_pangalan": "Bugallon",
+      "kasaysayan_ng_pangalan": "Salasa → Bugallon (1921)",
+      "taon_ng_huling_pagbabago": 1921,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Bartolome de Calayan",
+      "kasalukuyang_pangalan": "Calayan",
+      "kasaysayan_ng_pangalan": "San Bartolome de Calayan → Calayan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Carlos de Marigatao",
+      "kasalukuyang_pangalan": "Mahatao",
+      "kasaysayan_ng_pangalan": "San Carlos de Marigatao → Mahatao",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Felipe Neri",
+      "kasalukuyang_pangalan": "Mandaluyong",
+      "kasaysayan_ng_pangalan": "San Felipe Neri → Mandaluyong (1931)",
+      "taon_ng_huling_pagbabago": 1931,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Francisco de Malabon",
+      "kasalukuyang_pangalan": "General Trias",
+      "kasaysayan_ng_pangalan": "San Francisco de Malabon → General Trias (1920)",
+      "taon_ng_huling_pagbabago": 1920,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Isidro de Potot",
+      "kasalukuyang_pangalan": "Burgos",
+      "kasaysayan_ng_pangalan": "San Isidro de Potot → Burgos (1913)",
+      "taon_ng_huling_pagbabago": 1913,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Isidro Labrador",
+      "kasalukuyang_pangalan": "Labrador",
+      "kasaysayan_ng_pangalan": "San Isidro Labrador → Labrador (1939)",
+      "taon_ng_huling_pagbabago": 1939,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Jose de Casignan",
+      "kasalukuyang_pangalan": "Maria Aurora",
+      "kasaysayan_ng_pangalan": "San Jose de Casignan → Maria Aurora",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Jose de Ivana",
+      "kasalukuyang_pangalan": "Ivana",
+      "kasaysayan_ng_pangalan": "San Jose de Ivana → Ivana",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Jose de Manabo",
+      "kasalukuyang_pangalan": "Manabo",
+      "kasaysayan_ng_pangalan": "San Jose de Manabo → Manabo",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Jose de Navotas",
+      "kasalukuyang_pangalan": "Navotas",
+      "kasaysayan_ng_pangalan": "San Jose de Navotas → Navotas",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Juan de Bocboc",
+      "kasalukuyang_pangalan": "San Juan",
+      "kasaysayan_ng_pangalan": "San Juan de Bocboc → San Juan de Bolboc → Bolbok → San Juan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Juan de Dinalupijan",
+      "kasalukuyang_pangalan": "Dinalupihan",
+      "kasaysayan_ng_pangalan": "San Juan de Dinalupijan → Dinalupihan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Juan de Guimba",
+      "kasalukuyang_pangalan": "Guimba",
+      "kasaysayan_ng_pangalan": "San Juan de Guimba → Guimba",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Juan del Monte",
+      "kasalukuyang_pangalan": "San Juan",
+      "kasaysayan_ng_pangalan": "San Juan del Monte → San Juan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Miguel",
+      "kasalukuyang_pangalan": "Sarrat",
+      "kasaysayan_ng_pangalan": "San Miguel → Sarrat (1916)",
+      "taon_ng_huling_pagbabago": 1916,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Miguel de Camiling",
+      "kasalukuyang_pangalan": "Camiling",
+      "kasaysayan_ng_pangalan": "San Miguel de Camiling → Camiling",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Miguel de Masantol",
+      "kasalukuyang_pangalan": "Masantol",
+      "kasaysayan_ng_pangalan": "San Miguel de Masantol → Masantol (1907)",
+      "taon_ng_huling_pagbabago": 1907,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Miguel de Mayumo",
+      "kasalukuyang_pangalan": "San Miguel",
+      "kasaysayan_ng_pangalan": "San Miguel de Mayumo → San Miguel",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Pablo de los Montes",
+      "kasalukuyang_pangalan": "San Pablo",
+      "kasaysayan_ng_pangalan": "San Pablo de los Montes → San Pablo (1902)",
+      "taon_ng_huling_pagbabago": 1902,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Pedro",
+      "kasalukuyang_pangalan": "Bulalacao",
+      "kasaysayan_ng_pangalan": "San Pedro → Bulalacao (1969)",
+      "taon_ng_huling_pagbabago": 1969,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Pedro de Macati",
+      "kasalukuyang_pangalan": "Makati",
+      "kasaysayan_ng_pangalan": "San Pedro de Macati → Makati (1914)",
+      "taon_ng_huling_pagbabago": 1914,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Pedro de Tunasan",
+      "kasalukuyang_pangalan": "San Pedro",
+      "kasaysayan_ng_pangalan": "San Pedro de Tunasan → San Pedro (1914)",
+      "taon_ng_huling_pagbabago": 1914,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Vicente de Dasol",
+      "kasalukuyang_pangalan": "Dasol",
+      "kasaysayan_ng_pangalan": "San Vicente de Dasol → Dasol (1903)",
+      "taon_ng_huling_pagbabago": 1903,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Vicente de Sabtan",
+      "kasalukuyang_pangalan": "Sabtang",
+      "kasaysayan_ng_pangalan": "San Vicente de Sabtan → Sabtang",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santa Catalina de Baba",
+      "kasalukuyang_pangalan": "Santa",
+      "kasaysayan_ng_pangalan": "Santa Catalina de Baba → Santa",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "San Pedro de Macati",
+      "kasalukuyang_pangalan": "Makati",
+      "kasaysayan_ng_pangalan": "San Pedro de Macati → Makati",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santa Catalina Virgen y Martir",
+      "kasalukuyang_pangalan": "Santa Catalina",
+      "kasaysayan_ng_pangalan": "Santa Catalina Virgen y Martir (V. y M.) → Santa Catalina",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santa Cruz de Malabon",
+      "kasalukuyang_pangalan": "Tanza",
+      "kasaysayan_ng_pangalan": "Santa Cruz de Malabon → Tanza (1914)",
+      "taon_ng_huling_pagbabago": 1914,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santa Cruz de Mindoro",
+      "kasalukuyang_pangalan": "Santa Cruz",
+      "kasaysayan_ng_pangalan": "Santa Cruz de Mindoro → Santa Cruz",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santa Cruz de Napo",
+      "kasalukuyang_pangalan": "Santa Cruz",
+      "kasaysayan_ng_pangalan": "Santa Cruz de Napo → Santa Cruz",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santa Florentina",
+      "kasalukuyang_pangalan": "Rapu-Rapu",
+      "kasaysayan_ng_pangalan": "Santa Florentina → Rapu-Rapu",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santa Maria de Mayan",
+      "kasalukuyang_pangalan": "Itbayat",
+      "kasaysayan_ng_pangalan": "Santa Maria de Mayan → Mayan → Itbayat",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santa Maria de Pandi",
+      "kasalukuyang_pangalan": "Santa Maria",
+      "kasaysayan_ng_pangalan": "Santa Maria de Pandi → Santa Maria",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santa Rosa de Lima",
+      "kasalukuyang_pangalan": "Santa Rosa",
+      "kasaysayan_ng_pangalan": "Santa Rosa de Lima → Santa Rosa",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santo Domingo de Basco",
+      "kasalukuyang_pangalan": "Basco",
+      "kasaysayan_ng_pangalan": "Santo Domingo de Basco → Basco",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Santor",
+      "kasalukuyang_pangalan": "Bongabon",
+      "kasaysayan_ng_pangalan": "Santor → Bongabon",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Sexmoan",
+      "kasalukuyang_pangalan": "Sasmuan",
+      "kasaysayan_ng_pangalan": "Sexmoan → Sasmuan (1991)",
+      "taon_ng_huling_pagbabago": 1991,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Sin-nait",
+      "kasalukuyang_pangalan": "Sinait",
+      "kasaysayan_ng_pangalan": "Sin-nait → Sinait",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Subaan",
+      "kasalukuyang_pangalan": "San Teodoro",
+      "kasaysayan_ng_pangalan": "Subaan → San Teodoro",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Tabuco",
+      "kasalukuyang_pangalan": "Cabuyao",
+      "kasaysayan_ng_pangalan": "Tabuco → Kabuyaw → Cabuyao (1571)",
+      "taon_ng_huling_pagbabago": 1571,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Tambobon",
+      "kasalukuyang_pangalan": "Malabon",
+      "kasaysayan_ng_pangalan": "Tambobon → Malabon",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Tauit",
+      "kasalukuyang_pangalan": "Pudtol",
+      "kasaysayan_ng_pangalan": "Tauit → Tawit → Pudtol",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Tejeros",
+      "kasalukuyang_pangalan": "Rosario",
+      "kasaysayan_ng_pangalan": "Tejeros → Salinas → Rosario (1846)",
+      "taon_ng_huling_pagbabago": 1846,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Tivi",
+      "kasalukuyang_pangalan": "Tiwi",
+      "kasaysayan_ng_pangalan": "Tivi → Tiwi",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Udyong",
+      "kasalukuyang_pangalan": "Orion",
+      "kasaysayan_ng_pangalan": "Udyong → Orion",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Villavieja",
+      "kasalukuyang_pangalan": "Pilar",
+      "kasaysayan_ng_pangalan": "Villavieja → Villa-Pilar (1903) → Pilar",
+      "taon_ng_huling_pagbabago": 1903,
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Wawa",
+      "kasalukuyang_pangalan": "Guagua",
+      "kasaysayan_ng_pangalan": "Wawa → Guagua",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Luzon"
+    },
+    {
+      "dating_pangalan": "Almeria",
+      "kasalukuyang_pangalan": "Kawayan",
+      "kasaysayan_ng_pangalan": "Almeria → Kawayan (1907)",
+      "taon_ng_huling_pagbabago": 1907,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Antique",
+      "kasalukuyang_pangalan": "Hamtic",
+      "kasaysayan_ng_pangalan": "Antique → Hamtic",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Arguelles",
+      "kasalukuyang_pangalan": "Sagay",
+      "kasaysayan_ng_pangalan": "Arguelles → Magallanes → Sagay (1906)",
+      "taon_ng_huling_pagbabago": 1906,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Asia",
+      "kasalukuyang_pangalan": "Hinoba-an",
+      "kasaysayan_ng_pangalan": "Asia → Hinoba-an (1959)",
+      "taon_ng_huling_pagbabago": 1959,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Ayuquitan",
+      "kasalukuyang_pangalan": "Amlan",
+      "kasaysayan_ng_pangalan": "Ayuquitan → Amlan (1950)",
+      "taon_ng_huling_pagbabago": 1950,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Badiang",
+      "kasalukuyang_pangalan": "Carles",
+      "kasaysayan_ng_pangalan": "Badiang → Carles (1862)",
+      "taon_ng_huling_pagbabago": 1862,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Bangajon",
+      "kasalukuyang_pangalan": "Gandara",
+      "kasaysayan_ng_pangalan": "Bangajon → Gandara",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Balud",
+      "kasalukuyang_pangalan": "Minglanilla",
+      "kasaysayan_ng_pangalan": "Balud → Minglanilla (1858)",
+      "taon_ng_huling_pagbabago": 1858,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Binuntuan",
+      "kasalukuyang_pangalan": "Las Navas",
+      "kasaysayan_ng_pangalan": "Binuntuan → Las Navas",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Borja",
+      "kasalukuyang_pangalan": "Sagbayan",
+      "kasaysayan_ng_pangalan": "Borja → Sagbayan (1957)",
+      "taon_ng_huling_pagbabago": 1957,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Bugho",
+      "kasalukuyang_pangalan": "Javier",
+      "kasaysayan_ng_pangalan": "Bugho → Javier (1965)",
+      "taon_ng_huling_pagbabago": 1965,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Cabalian",
+      "kasalukuyang_pangalan": "San Juan",
+      "kasaysayan_ng_pangalan": "Cabalian → San Juan (1961)",
+      "taon_ng_huling_pagbabago": 1961,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Calivo",
+      "kasalukuyang_pangalan": "Kalibo",
+      "kasaysayan_ng_pangalan": "Calivo → Kalibo",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Canoan",
+      "kasalukuyang_pangalan": "Larena",
+      "kasaysayan_ng_pangalan": "Canoan → Larena",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Capiz",
+      "kasalukuyang_pangalan": "Roxas",
+      "kasaysayan_ng_pangalan": "Capiz → Roxas (1951)",
+      "taon_ng_huling_pagbabago": 1951,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Cavancalan",
+      "kasalukuyang_pangalan": "Kabankalan",
+      "kasaysayan_ng_pangalan": "Cavancalan → Kabankalan (1907)",
+      "taon_ng_huling_pagbabago": 1907,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Cordoba",
+      "kasalukuyang_pangalan": "Cordova",
+      "kasaysayan_ng_pangalan": "Cordoba → Cordova",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Dao",
+      "kasalukuyang_pangalan": "Tobias Fornier",
+      "kasaysayan_ng_pangalan": "Dao → Tobias Fornier (1978)",
+      "taon_ng_huling_pagbabago": 1978,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Ginigaran",
+      "kasalukuyang_pangalan": "Hinigaran",
+      "kasaysayan_ng_pangalan": "Ginigaran → Hinigaran",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Guijulungan",
+      "kasalukuyang_pangalan": "Guihulngan",
+      "kasaysayan_ng_pangalan": "Guijulungan → Guijulugan → Guihulngan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Hibatang",
+      "kasalukuyang_pangalan": "Calbayog",
+      "kasaysayan_ng_pangalan": "Hibatang → Calbayog",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Jimamailan",
+      "kasalukuyang_pangalan": "Himamaylan",
+      "kasaysayan_ng_pangalan": "Jimamailan → Himamaylan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Jimeno",
+      "kasalukuyang_pangalan": "Altavas",
+      "kasaysayan_ng_pangalan": "Jimeno → Altavas",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "La Granja",
+      "kasalukuyang_pangalan": "Allen",
+      "kasaysayan_ng_pangalan": "La Granja → Allen (1903)",
+      "taon_ng_huling_pagbabago": 1903,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Lacy",
+      "kasalukuyang_pangalan": "Lazi",
+      "kasaysayan_ng_pangalan": "Lacy → Lazi",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Lagatic",
+      "kasalukuyang_pangalan": "New Washington",
+      "kasaysayan_ng_pangalan": "Lagatic → New Washington",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Laguan",
+      "kasalukuyang_pangalan": "Laoang",
+      "kasaysayan_ng_pangalan": "Laguan → Laoang",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Lanang",
+      "kasalukuyang_pangalan": "Llorente",
+      "kasaysayan_ng_pangalan": "Lanang → Llorente (1903)",
+      "taon_ng_huling_pagbabago": 1903,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Lauaan",
+      "kasalukuyang_pangalan": "Lawaan",
+      "kasaysayan_ng_pangalan": "Lauaan → Lawaan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Lucena",
+      "kasalukuyang_pangalan": "New Lucena",
+      "kasaysayan_ng_pangalan": "Lucena → New Lucena (1955)",
+      "taon_ng_huling_pagbabago": 1955,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Lutod-lutod",
+      "kasalukuyang_pangalan": "President Roxas",
+      "kasaysayan_ng_pangalan": "Lutod-lutod → President Roxas",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Taft",
+      "kasalukuyang_pangalan": "Makato",
+      "kasaysayan_ng_pangalan": "Taft → Makato",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Magallon",
+      "kasalukuyang_pangalan": "Moises Padilla",
+      "kasaysayan_ng_pangalan": "Magallon → Moises Padilla (1957)",
+      "taon_ng_huling_pagbabago": 1957,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Magsohong",
+      "kasalukuyang_pangalan": "Santa Margarita",
+      "kasaysayan_ng_pangalan": "Magsohong → Santa Margarita (1892)",
+      "taon_ng_huling_pagbabago": 1892,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Malabooch",
+      "kasalukuyang_pangalan": "Maribojoc",
+      "kasaysayan_ng_pangalan": "Malabooch → Malabohoc → Dunggoan → Maribojoc",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Mariveles",
+      "kasalukuyang_pangalan": "Dauis",
+      "kasaysayan_ng_pangalan": "Mariveles → Dauis",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Minuluan",
+      "kasalukuyang_pangalan": "Talisay",
+      "kasaysayan_ng_pangalan": "Minuluan → Talisay",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Nagaba",
+      "kasalukuyang_pangalan": "Jordan",
+      "kasaysayan_ng_pangalan": "Nagaba → Jordan (1902)",
+      "taon_ng_huling_pagbabago": 1902,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Nalupa Nuevo",
+      "kasalukuyang_pangalan": "Barbaza",
+      "kasaysayan_ng_pangalan": "Nalupa Nuevo → Barboza → Barbaza",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Navas",
+      "kasalukuyang_pangalan": "Nabas",
+      "kasaysayan_ng_pangalan": "Navas → Nabas (1906)",
+      "taon_ng_huling_pagbabago": 1906,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Nueva Valencia",
+      "kasalukuyang_pangalan": "Valencia",
+      "kasaysayan_ng_pangalan": "Nueva Valencia → Luzurriaga → Valencia (1948)",
+      "taon_ng_huling_pagbabago": 1948,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Opon",
+      "kasalukuyang_pangalan": "Lapu-Lapu",
+      "kasaysayan_ng_pangalan": "Opon → Lapu-Lapu (1961)",
+      "taon_ng_huling_pagbabago": 1961,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Paranas",
+      "kasalukuyang_pangalan": "Paranas",
+      "kasaysayan_ng_pangalan": "Paranas → Wright → Paranas (1988)",
+      "taon_ng_huling_pagbabago": 1988,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Payabon",
+      "kasalukuyang_pangalan": "Bindoy",
+      "kasaysayan_ng_pangalan": "Payabon → Bindoy (1959)",
+      "taon_ng_huling_pagbabago": 1959,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Pinabagdao",
+      "kasalukuyang_pangalan": "Pinabacdao",
+      "kasaysayan_ng_pangalan": "Pinabagdao → Pinabacdao",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Pitogo",
+      "kasalukuyang_pangalan": "President Carlos P. Garcia",
+      "kasaysayan_ng_pangalan": "Pitogo → President Carlos P. Garcia (1977)",
+      "taon_ng_huling_pagbabago": 1977,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Quiot",
+      "kasalukuyang_pangalan": "Isabel",
+      "kasaysayan_ng_pangalan": "Quiot → Isabel",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "San Isidro de Campo",
+      "kasalukuyang_pangalan": "San Isidro",
+      "kasaysayan_ng_pangalan": "San Isidro de Campo → San Isidro",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "San Jacinto",
+      "kasalukuyang_pangalan": "Catigbian",
+      "kasaysayan_ng_pangalan": "San Jacinto → Catigbian (1954)",
+      "taon_ng_huling_pagbabago": 1954,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "San Juan de Ilog",
+      "kasalukuyang_pangalan": "Ilog",
+      "kasaysayan_ng_pangalan": "San Juan de Ilog → Ilog",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "San Ricardo",
+      "kasalukuyang_pangalan": "Pintuyan",
+      "kasaysayan_ng_pangalan": "San Ricardo → Pintuyan (1907)",
+      "taon_ng_huling_pagbabago": 1907,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Saravia",
+      "kasalukuyang_pangalan": "Enrique B. Magalona",
+      "kasaysayan_ng_pangalan": "Saravia → Enrique B. Magalona (1967)",
+      "taon_ng_huling_pagbabago": 1967,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Tierra Alta",
+      "kasalukuyang_pangalan": "Lezo",
+      "kasaysayan_ng_pangalan": "Tierra Alta → Lezo",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Tolon",
+      "kasalukuyang_pangalan": "Bayawan",
+      "kasaysayan_ng_pangalan": "Tolon → Tolon Nuevo → New Tolong → Bayawan (1952)",
+      "taon_ng_huling_pagbabago": 1952,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Santo Niño and San Jose",
+      "kasalukuyang_pangalan": "Tacloban",
+      "kasaysayan_ng_pangalan": "Santo Niño and San Jose → Tacloban (1950)",
+      "taon_ng_huling_pagbabago": 1950,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Tubig",
+      "kasalukuyang_pangalan": "Taft",
+      "kasaysayan_ng_pangalan": "Tubig → Taft (1903)",
+      "taon_ng_huling_pagbabago": 1903,
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Vilar",
+      "kasalukuyang_pangalan": "Bilar",
+      "kasaysayan_ng_pangalan": "Vilar → Bilar",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Kabisayaan"
+    },
+    {
+      "dating_pangalan": "Albor",
+      "kasalukuyang_pangalan": "Libjo",
+      "kasaysayan_ng_pangalan": "Albor → Libjo (1967)",
+      "taon_ng_huling_pagbabago": 1967,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Anao-aon",
+      "kasalukuyang_pangalan": "San Francisco",
+      "kasaysayan_ng_pangalan": "Anao-aon → San Francisco (1971)",
+      "taon_ng_huling_pagbabago": 1971,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Bacolod Grande",
+      "kasalukuyang_pangalan": "Bacolod-Kalawi",
+      "kasaysayan_ng_pangalan": "Bacolod Grande → Bacolod-Kalawi (1994)",
+      "taon_ng_huling_pagbabago": 1994,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Bacungan",
+      "kasalukuyang_pangalan": "Leon B. Postigo",
+      "kasaysayan_ng_pangalan": "Bacungan → Leon B. Postigo (1989)",
+      "taon_ng_huling_pagbabago": 1989,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Balimbing",
+      "kasalukuyang_pangalan": "Panglima Sugala",
+      "kasaysayan_ng_pangalan": "Balimbing → Panglima Sugala (1991)",
+      "taon_ng_huling_pagbabago": 1991,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Boayen",
+      "kasalukuyang_pangalan": "General Santos",
+      "kasaysayan_ng_pangalan": "Boayen → Buayan → Dadiangas → General Santos (1954)",
+      "taon_ng_huling_pagbabago": 1954,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Cabuntog",
+      "kasalukuyang_pangalan": "General Luna",
+      "kasaysayan_ng_pangalan": "Cabuntog → General Luna (1929)",
+      "taon_ng_huling_pagbabago": 1929,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Cagayan de Misamis",
+      "kasalukuyang_pangalan": "Cagayan de Oro",
+      "kasaysayan_ng_pangalan": "Cagayan de Misamis → Cagayan de Oro (1950)",
+      "taon_ng_huling_pagbabago": 1950,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Cagayan de Sulu",
+      "kasalukuyang_pangalan": "Mapun",
+      "kasaysayan_ng_pangalan": "Cagayan de Sulu → Cagayan de Tawi-Tawi (1984) → Mapun (1988)",
+      "taon_ng_huling_pagbabago": 1988,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Dansalan",
+      "kasalukuyang_pangalan": "Marawi",
+      "kasaysayan_ng_pangalan": "Dansalan → Marawi (1956)",
+      "taon_ng_huling_pagbabago": 1956,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Dinaig",
+      "kasalukuyang_pangalan": "Datu Odin Sinsuat",
+      "kasaysayan_ng_pangalan": "Dinaig → Datu Odin Sinsuat",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Dipag",
+      "kasalukuyang_pangalan": "Dipolog",
+      "kasaysayan_ng_pangalan": "Dipag → Dipolog (1913)",
+      "taon_ng_huling_pagbabago": 1913,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Don Mariano Marcos",
+      "kasalukuyang_pangalan": "Don Victoriano Chiongbian",
+      "kasaysayan_ng_pangalan": "Don Mariano Marcos → Don Victoriano (1990) → Don Victoriano Chiongbian",
+      "taon_ng_huling_pagbabago": 1990,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Don Mariano Marcos",
+      "kasalukuyang_pangalan": "Sominot",
+      "kasaysayan_ng_pangalan": "Don Mariano Marcos → Sominot (1988)",
+      "taon_ng_huling_pagbabago": 1988,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Doña Alicia",
+      "kasalukuyang_pangalan": "Mabini",
+      "kasaysayan_ng_pangalan": "Doña Alicia → Mabini (1954)",
+      "taon_ng_huling_pagbabago": 1954,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Dulawan",
+      "kasalukuyang_pangalan": "Datu Piang",
+      "kasaysayan_ng_pangalan": "Dulawan → Datu Piang (1954)",
+      "taon_ng_huling_pagbabago": 1954,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Hagpa",
+      "kasalukuyang_pangalan": "San Francisco, Agusan del Sur.",
+      "kasaysayan_ng_pangalan": "Hagpa → San Francisco, Agusan del Sur (1955).",
+      "taon_ng_huling_pagbabago": 1955,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Jinatuan",
+      "kasalukuyang_pangalan": "Hinatuan",
+      "kasaysayan_ng_pangalan": "Jinatuan → Hinatuan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Karomatan",
+      "kasalukuyang_pangalan": "Sultan Naga Dimaporo",
+      "kasaysayan_ng_pangalan": "Karomatan → Sultan Naga Dimaporo",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Lambayong",
+      "kasalukuyang_pangalan": "Sultan sa Barongis",
+      "kasaysayan_ng_pangalan": "Lambayong → Sultan sa Barongis (1959)",
+      "taon_ng_huling_pagbabago": 1959,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Liargo",
+      "kasalukuyang_pangalan": "Ramon Magsaysay",
+      "kasaysayan_ng_pangalan": "Liargo → Ramon Magsaysay",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Linamon",
+      "kasalukuyang_pangalan": "Linamon",
+      "kasaysayan_ng_pangalan": "Linamon → Tomas Cabili (1983) → Linamon",
+      "taon_ng_huling_pagbabago": 1983,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Linguig",
+      "kasalukuyang_pangalan": "Lingig",
+      "kasaysayan_ng_pangalan": "Linguig → Lingig",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Linugas",
+      "kasalukuyang_pangalan": "Magsaysay",
+      "kasaysayan_ng_pangalan": "Linugas → Magsaysay (1957)",
+      "taon_ng_huling_pagbabago": 1957,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Lubungan",
+      "kasalukuyang_pangalan": "Katipunan",
+      "kasaysayan_ng_pangalan": "Lubungan → Katipunan (1936)",
+      "taon_ng_huling_pagbabago": 1936,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Maganoy",
+      "kasalukuyang_pangalan": "Shariff Aguak",
+      "kasaysayan_ng_pangalan": "Maganoy → Shariff Aguak",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Magugpo",
+      "kasalukuyang_pangalan": "Tagum",
+      "kasaysayan_ng_pangalan": "Magugpo → Tagum",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Maluko",
+      "kasalukuyang_pangalan": "Manolo Fortich",
+      "kasaysayan_ng_pangalan": "Maluko → Manolo Fortich (1957)",
+      "taon_ng_huling_pagbabago": 1957,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Marbel",
+      "kasalukuyang_pangalan": "Koronadal",
+      "kasaysayan_ng_pangalan": "Marbel → Koronadal",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Mariano Marcos",
+      "kasalukuyang_pangalan": "Lambayong",
+      "kasaysayan_ng_pangalan": "Mariano Marcos → Lambayong (1988)",
+      "taon_ng_huling_pagbabago": 1988,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Marungas",
+      "kasalukuyang_pangalan": "Hadji Panglima Tahil",
+      "kasaysayan_ng_pangalan": "Marungas → Hadji Panglima Tahil",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Mina-ano",
+      "kasalukuyang_pangalan": "Remedios T. Romualdez",
+      "kasaysayan_ng_pangalan": "Mina-ano → Remedios T. Romualdez",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Misamis",
+      "kasalukuyang_pangalan": "Ozamiz",
+      "kasaysayan_ng_pangalan": "Misamis → Ozamiz (1948)",
+      "taon_ng_huling_pagbabago": 1948,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "New Leyte",
+      "kasalukuyang_pangalan": "Maco",
+      "kasaysayan_ng_pangalan": "New Leyte → Maco",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "New Panamao",
+      "kasalukuyang_pangalan": "Panglima Estino",
+      "kasaysayan_ng_pangalan": "New Panamao → Panglima Estino",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "New Piñan",
+      "kasalukuyang_pangalan": "Piñan",
+      "kasaysayan_ng_pangalan": "New Piñan → Piñan (1960)",
+      "taon_ng_huling_pagbabago": 1960,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Nueva Vergara",
+      "kasalukuyang_pangalan": "Davao",
+      "kasaysayan_ng_pangalan": "Nueva Vergara → Davao (1868)",
+      "taon_ng_huling_pagbabago": 1868,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Nuling",
+      "kasalukuyang_pangalan": "Sultan Kudarat",
+      "kasaysayan_ng_pangalan": "Nuling → Sultan Kudarat (1969)",
+      "taon_ng_huling_pagbabago": 1969,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Numancia",
+      "kasalukuyang_pangalan": "Del Carmen",
+      "kasaysayan_ng_pangalan": "Numancia → Del Carmen (1966)",
+      "taon_ng_huling_pagbabago": 1966,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Oteiza",
+      "kasalukuyang_pangalan": "Marihatag",
+      "kasaysayan_ng_pangalan": "Oteiza → Marihatag (1955)",
+      "taon_ng_huling_pagbabago": 1955,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Pagagawan",
+      "kasalukuyang_pangalan": "Datu Montawal",
+      "kasaysayan_ng_pangalan": "Pagagawan → Datu Montawal (2003)",
+      "taon_ng_huling_pagbabago": 2003,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Pandami",
+      "kasalukuyang_pangalan": "Pandami",
+      "kasaysayan_ng_pangalan": "Pandami → Lapak (1992) → Pandami",
+      "taon_ng_huling_pagbabago": 1992,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Ponot",
+      "kasalukuyang_pangalan": "Jose Dalman",
+      "kasaysayan_ng_pangalan": "Ponot → Jose Dalman (1983)",
+      "taon_ng_huling_pagbabago": 1983,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Quinoguitan",
+      "kasalukuyang_pangalan": "Kinoguitan",
+      "kasaysayan_ng_pangalan": "Quinoguitan → Kinoguitan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Regidor",
+      "kasalukuyang_pangalan": "Tangub",
+      "kasaysayan_ng_pangalan": "Regidor → Tangub (1930)",
+      "taon_ng_huling_pagbabago": 1930,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Rizal",
+      "kasalukuyang_pangalan": "Basilisa",
+      "kasaysayan_ng_pangalan": "Rizal → Basilisa (1969)",
+      "taon_ng_huling_pagbabago": 1969,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "San Mariano",
+      "kasalukuyang_pangalan": "Maragusan",
+      "kasaysayan_ng_pangalan": "San Mariano → Maragusan (1988)",
+      "taon_ng_huling_pagbabago": 1988,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "San Vicente",
+      "kasalukuyang_pangalan": "Laak",
+      "kasaysayan_ng_pangalan": "San Vicente → Laak (1994)",
+      "taon_ng_huling_pagbabago": 1994,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Sapao",
+      "kasalukuyang_pangalan": "Santa Monica",
+      "kasaysayan_ng_pangalan": "Sapao → Santa Monica (1967)",
+      "taon_ng_huling_pagbabago": 1967,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Saug",
+      "kasalukuyang_pangalan": "Asuncion",
+      "kasaysayan_ng_pangalan": "Saug → Asuncion (1957)",
+      "taon_ng_huling_pagbabago": 1957,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Sigaboy",
+      "kasalukuyang_pangalan": "Governor Generoso",
+      "kasaysayan_ng_pangalan": "Sigaboy → Governor Generoso",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Sultan Gumander",
+      "kasalukuyang_pangalan": "Picong",
+      "kasaysayan_ng_pangalan": "Sultan Gumander → Picong (2006)",
+      "taon_ng_huling_pagbabago": 2006,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Taganak",
+      "kasalukuyang_pangalan": "Turtle Islands",
+      "kasaysayan_ng_pangalan": "Taganak → Turtle Islands",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Talipao",
+      "kasalukuyang_pangalan": "Talipao",
+      "kasaysayan_ng_pangalan": "Talipao → Arolas Tulawie (1984) → Talipao",
+      "taon_ng_huling_pagbabago": 1984,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Talitay",
+      "kasalukuyang_pangalan": "Sultan Sumagka",
+      "kasaysayan_ng_pangalan": "Talitay → Sultan Sumagka (2008)",
+      "taon_ng_huling_pagbabago": 2008,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Tatarikan",
+      "kasalukuyang_pangalan": "Pagayawan",
+      "kasaysayan_ng_pangalan": "Tatarikan → Pagayawan",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Tongkil",
+      "kasalukuyang_pangalan": "Banguingui",
+      "kasaysayan_ng_pangalan": "Tongkil → Banguingui",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Trinidad",
+      "kasalukuyang_pangalan": "Jose Abad Santos",
+      "kasaysayan_ng_pangalan": "Trinidad → Jose Abad Santos (1955)",
+      "taon_ng_huling_pagbabago": 1955,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Tumbao",
+      "kasalukuyang_pangalan": "Kabuntalan",
+      "kasaysayan_ng_pangalan": "Tumbao → Kabuntalan (1976)",
+      "taon_ng_huling_pagbabago": 1976,
+      "pangkat_ng_pulo": "Mindanao"
+    },
+    {
+      "dating_pangalan": "Wato",
+      "kasalukuyang_pangalan": "Balindong",
+      "kasaysayan_ng_pangalan": "Wato → Balindong",
+      "taon_ng_huling_pagbabago": "",
+      "pangkat_ng_pulo": "Mindanao"
+    }
+  ],
+  "meta": {
+    "title": "Mga Lungsod at Bayan sa Pilipinas na Binago ang Pangalan - Free Download",
+    "description": "Talaan ng mga lungsod at bayan sa Pilipinas na pinalitan ang pangalan, kasama ang dating pangalan, kasalukuyang pangalan, kasaysayan ng pagbabago at taon (kung alam), ayon sa pangkat ng pulo. Contains 272 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Lungsod at Bayan sa Pilipinas na Binago ang Pangalan | ListBase",
+    "seo_description": "Download Mga Lungsod at Bayan sa Pilipinas na Binago ang Pangalan — 272 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 272 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_binagong_pangalan_na_mga_lungsod_at_bayan_sa_Pilipinas"
+    ]
+  }
+}

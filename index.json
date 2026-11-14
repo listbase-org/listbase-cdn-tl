@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-13T02:03:19.736Z",
-  "total_datasets": 522,
-  "total_records": 448598,
+  "generated": "2026-11-14T02:03:13.157Z",
+  "total_datasets": 523,
+  "total_records": 448870,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -5444,6 +5444,32 @@
         "xlsx": {
           "name": "tl-mga-bayani_TL.xlsx",
           "size": 8701
+        }
+      }
+    },
+    {
+      "id": "tl-mga-binagong-pangalan-ng-lungsod-at-bayan",
+      "name": "Mga Lungsod at Bayan sa Pilipinas na Binago ang Pangalan",
+      "category": "history",
+      "record_count": 272,
+      "columns": [
+        "dating_pangalan",
+        "kasalukuyang_pangalan",
+        "kasaysayan_ng_pangalan",
+        "taon_ng_huling_pagbabago",
+        "pangkat_ng_pulo"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_binagong_pangalan_na_mga_lungsod_at_bayan_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 66284,
+      "files": {
+        "csv": {
+          "name": "tl-mga-binagong-pangalan-ng-lungsod-at-bayan_TL.csv",
+          "size": 19926
+        },
+        "xlsx": {
+          "name": "tl-mga-binagong-pangalan-ng-lungsod-at-bayan_TL.xlsx",
+          "size": 18758
         }
       }
     },
