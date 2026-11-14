@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-14T02:03:35.576Z",
-  "total_datasets": 525,
-  "total_records": 448960,
+  "generated": "2026-11-14T02:03:47.137Z",
+  "total_datasets": 526,
+  "total_records": 449032,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -5863,6 +5863,34 @@
         "xlsx": {
           "name": "tl-mga-mahistrado-ng-hukuman-ng-pag-aapela-sa-buwis_TL.xlsx",
           "size": 9051
+        }
+      }
+    },
+    {
+      "id": "tl-mga-mahistrado-ng-sandiganbayan",
+      "name": "Mga Mahistrado ng Sandiganbayan",
+      "category": "law",
+      "record_count": 72,
+      "columns": [
+        "blg",
+        "mahistrado",
+        "simula_ng_panunungkulan",
+        "itinalaga_ni",
+        "pinalitan",
+        "namumunong_mahistrado",
+        "pagtatapos_ng_termino"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Sandiganbayan",
+      "updated": "2026-11",
+      "size": 22572,
+      "files": {
+        "csv": {
+          "name": "tl-mga-mahistrado-ng-sandiganbayan_TL.csv",
+          "size": 7288
+        },
+        "xlsx": {
+          "name": "tl-mga-mahistrado-ng-sandiganbayan_TL.xlsx",
+          "size": 10874
         }
       }
     },

@@ -1,0 +1,709 @@
+{
+  "id": "tl-mga-mahistrado-ng-sandiganbayan",
+  "name": "Mga Mahistrado ng Sandiganbayan",
+  "title": "Mga Mahistrado ng Sandiganbayan",
+  "description": "Talaan ng lahat ng naging mahistrado ng Sandiganbayan (hukumang laban sa katiwalian) mula 1978, kasama ang petsa ng panunungkulan, pangulong nagtalaga, pinalitan at pagtatapos ng termino.",
+  "category": "law",
+  "source": "https://tl.wikipedia.org/wiki/Sandiganbayan",
+  "source_url": "https://tl.wikipedia.org/wiki/Sandiganbayan",
+  "updated": "2026-11",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "blg",
+      "label": "Blg",
+      "type": "number"
+    },
+    {
+      "key": "mahistrado",
+      "label": "Mahistrado",
+      "type": "string"
+    },
+    {
+      "key": "simula_ng_panunungkulan",
+      "label": "Simula Ng Panunungkulan",
+      "type": "string"
+    },
+    {
+      "key": "itinalaga_ni",
+      "label": "Itinalaga Ni",
+      "type": "string"
+    },
+    {
+      "key": "pinalitan",
+      "label": "Pinalitan",
+      "type": "string"
+    },
+    {
+      "key": "namumunong_mahistrado",
+      "label": "Namumunong Mahistrado",
+      "type": "string"
+    },
+    {
+      "key": "pagtatapos_ng_termino",
+      "label": "Pagtatapos Ng Termino",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "blg": 1,
+      "mahistrado": "Manuel Pamaran",
+      "simula_ng_panunungkulan": "Disyembre 1, 1978",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Unang Kasamang Mahistrado",
+      "pagtatapos_ng_termino": "Disyembre 10, 1978"
+    },
+    {
+      "blg": 2,
+      "mahistrado": "Bernaedo Fernandez",
+      "simula_ng_panunungkulan": "Disyembre 10, 1978",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Pamaran",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Hunyo 11, 1981"
+    },
+    {
+      "blg": 3,
+      "mahistrado": "Romeo Escareal",
+      "simula_ng_panunungkulan": "Disyembre 10, 1978",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Marso 5, 1996"
+    },
+    {
+      "blg": 4,
+      "mahistrado": "Buenaventura Guerrero",
+      "simula_ng_panunungkulan": "Disyembre 8, 1980",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Mayo 16, 1986"
+    },
+    {
+      "blg": 5,
+      "mahistrado": "Conrado Molina",
+      "simula_ng_panunungkulan": "Disyembre 8, 1980",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Hulyo 18, 1992"
+    },
+    {
+      "blg": 6,
+      "mahistrado": "Moises Kallos",
+      "simula_ng_panunungkulan": "Disyembre 8, 1980",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Disyembre 15, 1983"
+    },
+    {
+      "blg": 7,
+      "mahistrado": "Ramon Jabson",
+      "simula_ng_panunungkulan": "Nobyembre 20, 1981",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Fernandez",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Mayo 18, 1988"
+    },
+    {
+      "blg": 8,
+      "mahistrado": "Fidel Purísima",
+      "simula_ng_panunungkulan": "Agosto 4, 1982",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Marso 10, 1984"
+    },
+    {
+      "blg": 9,
+      "mahistrado": "Francisco Consolacion",
+      "simula_ng_panunungkulan": "Agosto 4, 1982",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Marso 10, 1984"
+    },
+    {
+      "blg": 10,
+      "mahistrado": "Romulo Químbo",
+      "simula_ng_panunungkulan": "Agosto 4, 1982",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Mayo 16, 1986"
+    },
+    {
+      "blg": 11,
+      "mahistrado": "Augusto Amores",
+      "simula_ng_panunungkulan": "Oktubre 10, 1984",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Kallos",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Hulyo 5, 1995"
+    },
+    {
+      "blg": 12,
+      "mahistrado": "Amante Alconcel",
+      "simula_ng_panunungkulan": "Oktubre 10, 1984",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Purisima",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Mayo 16, 1986"
+    },
+    {
+      "blg": 13,
+      "mahistrado": "Bienvenido Vera Cruz",
+      "simula_ng_panunungkulan": "Oktubre 10, 1984",
+      "itinalaga_ni": "Marcos Sr.",
+      "pinalitan": "Consolacion",
+      "namumunong_mahistrado": "Pamaran",
+      "pagtatapos_ng_termino": "Mayo 16, 1986"
+    },
+    {
+      "blg": 14,
+      "mahistrado": "Regino C. Hermosísima Jr.",
+      "simula_ng_panunungkulan": "Mayo 16, 1986",
+      "itinalaga_ni": "Aquino",
+      "pinalitan": "Guerrero",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Hulyo 18, 1995"
+    },
+    {
+      "blg": 15,
+      "mahistrado": "Luciano Joson",
+      "simula_ng_panunungkulan": "Mayo 21, 1986",
+      "itinalaga_ni": "Aquino",
+      "pinalitan": "Alconel",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Marso 17, 1990"
+    },
+    {
+      "blg": 16,
+      "mahistrado": "Cipriano del Rosario",
+      "simula_ng_panunungkulan": "May 22, 1986",
+      "itinalaga_ni": "Aquino",
+      "pinalitan": "Vera Cruz",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Marso 15, 2001"
+    },
+    {
+      "blg": 17,
+      "mahistrado": "Jose Balajadia",
+      "simula_ng_panunungkulan": "Mayo 30, 1986",
+      "itinalaga_ni": "Aquino",
+      "pinalitan": "Quimbo",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Pebrero 14, 1998"
+    },
+    {
+      "blg": 18,
+      "mahistrado": "Nathaniel Grospe",
+      "simula_ng_panunungkulan": "Disyembre 2, 1988",
+      "itinalaga_ni": "Aquino",
+      "pinalitan": "Jabson",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Enero 16, 1993"
+    },
+    {
+      "blg": 19,
+      "mahistrado": "Sabino De Leon Jr.",
+      "simula_ng_panunungkulan": "Marso 13, 1990",
+      "itinalaga_ni": "Aquino",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Oktubre 11, 1999"
+    },
+    {
+      "blg": 20,
+      "mahistrado": "Narciso Atienza",
+      "simula_ng_panunungkulan": "Setyembre 14, 1992",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Joson",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Disyembre 17, 1993"
+    },
+    {
+      "blg": 21,
+      "mahistrado": "Minita Chico-Nazario",
+      "simula_ng_panunungkulan": "Mayo 10, 1993",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Molina",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Pebrero 28, 2003"
+    },
+    {
+      "blg": 22,
+      "mahistrado": "Roberto Lagman",
+      "simula_ng_panunungkulan": "Nobyembre 28, 1994",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Grospe",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Pebrero 14, 1998"
+    },
+    {
+      "blg": 23,
+      "mahistrado": "Harriet Demetriou",
+      "simula_ng_panunungkulan": "Agosto 28, 1995",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Atienza",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Pebrero 14, 1998"
+    },
+    {
+      "blg": 24,
+      "mahistrado": "Edilberto Sandoval",
+      "simula_ng_panunungkulan": "Marso 11, 1996",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Amores",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Setyembre 17, 2010"
+    },
+    {
+      "blg": 25,
+      "mahistrado": "Leonardo Cruz",
+      "simula_ng_panunungkulan": "Nobyembre 28, 1994",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Hermosisima",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Marso 11, 1997"
+    },
+    {
+      "blg": 26,
+      "mahistrado": "Teresita de Castro",
+      "simula_ng_panunungkulan": "Setyembre 8, 1997",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Escareal",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Disyembre 15, 2004"
+    },
+    {
+      "blg": 27,
+      "mahistrado": "Anacleto Badoy Jr.",
+      "simula_ng_panunungkulan": "Setyembre 8, 1997",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "L. Cruz",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Marso 11, 2002"
+    },
+    {
+      "blg": 28,
+      "mahistrado": "German Lee Jr.",
+      "simula_ng_panunungkulan": "Setyembre 8, 1997",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Setyembre 18, 1998"
+    },
+    {
+      "blg": 29,
+      "mahistrado": "Godofredo Legaspi",
+      "simula_ng_panunungkulan": "Setyembre 8, 1997",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Setyembre 8, 2006"
+    },
+    {
+      "blg": 30,
+      "mahistrado": "Narciso Nario Sr.",
+      "simula_ng_panunungkulan": "Setyembre 8, 1997",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Enero 15, 2001"
+    },
+    {
+      "blg": 31,
+      "mahistrado": "Catalino Castañeda Jr.",
+      "simula_ng_panunungkulan": "Setyembre 8, 1997",
+      "itinalaga_ni": "Ramos",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Enero 15, 2001"
+    },
+    {
+      "blg": 32,
+      "mahistrado": "Alfredo Gustillo",
+      "simula_ng_panunungkulan": "Oktubre 5, 1998",
+      "itinalaga_ni": "Estrada",
+      "pinalitan": "Balajadia",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Marso 3, 1999"
+    },
+    {
+      "blg": 33,
+      "mahistrado": "Gregory S. Ong",
+      "simula_ng_panunungkulan": "Oktubre 5, 1998",
+      "itinalaga_ni": "Estrada",
+      "pinalitan": "Lagman",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Setyembre 23, 2014"
+    },
+    {
+      "blg": 34,
+      "mahistrado": "Ricardo Ilarde",
+      "simula_ng_panunungkulan": "Oktubre 5, 1998",
+      "itinalaga_ni": "Estrada",
+      "pinalitan": "Demetriou",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Marso 3, 2001"
+    },
+    {
+      "blg": 35,
+      "mahistrado": "Rodolfo Palattao",
+      "simula_ng_panunungkulan": "Oktubre 9, 1998",
+      "itinalaga_ni": "Estrada",
+      "pinalitan": "Lee Jr.",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Marso 3, 2003"
+    },
+    {
+      "blg": 36,
+      "mahistrado": "Maria Cristina Cortez-Estrada",
+      "simula_ng_panunungkulan": "Oktubre 19, 1998",
+      "itinalaga_ni": "Estrada",
+      "pinalitan": "Bagong Upuan",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Hulyo 2, 2009"
+    },
+    {
+      "blg": 37,
+      "mahistrado": "Raoul Victorino",
+      "simula_ng_panunungkulan": "Enero 31, 2000",
+      "itinalaga_ni": "Estrada",
+      "pinalitan": "Gustillo",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Pebrero 15, 2005"
+    },
+    {
+      "blg": 38,
+      "mahistrado": "Nicodemo Ferrer",
+      "simula_ng_panunungkulan": "Enero 31, 2000",
+      "itinalaga_ni": "Estrada",
+      "pinalitan": "De Leon",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Pebrero 15, 2005"
+    },
+    {
+      "blg": 39,
+      "mahistrado": "Francisco Villaruz Jr.",
+      "simula_ng_panunungkulan": "Oktubre 2, 2001",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Ilarde",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Oktubre 4, 2011"
+    },
+    {
+      "blg": 40,
+      "mahistrado": "Diosdado Peralta",
+      "simula_ng_panunungkulan": "Hunyo 14, 2002",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Del Rosario",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Marso 28, 2008"
+    },
+    {
+      "blg": 41,
+      "mahistrado": "Norberto Geraldez",
+      "simula_ng_panunungkulan": "Enero 21, 2003",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Nario Sr.",
+      "namumunong_mahistrado": "Garchitorena",
+      "pagtatapos_ng_termino": "Pebrero 28, 2010"
+    },
+    {
+      "blg": 42,
+      "mahistrado": "Roland Jurado",
+      "simula_ng_panunungkulan": "Oktubre 3, 2003",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Castañeda Jr.",
+      "namumunong_mahistrado": "Chico-Nazario",
+      "pagtatapos_ng_termino": "Pebrero 1, 2017"
+    },
+    {
+      "blg": 43,
+      "mahistrado": "Efren Dela Cruz",
+      "simula_ng_panunungkulan": "Oktubre 10, 2003",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Ferrer",
+      "namumunong_mahistrado": "Chico-Nazario",
+      "pagtatapos_ng_termino": "Hunyo 18, 2024"
+    },
+    {
+      "blg": 44,
+      "mahistrado": "Teresita Diaz-Baldos",
+      "simula_ng_panunungkulan": "Oktubre 17, 2003",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Badoy Jr.",
+      "namumunong_mahistrado": "Chico-Nazario",
+      "pagtatapos_ng_termino": "Hulyo 22, 2016"
+    },
+    {
+      "blg": 45,
+      "mahistrado": "Jose Hernandez",
+      "simula_ng_panunungkulan": "Marso 9, 2004",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Chico-Nazario",
+      "namumunong_mahistrado": "Chico-Nazario",
+      "pagtatapos_ng_termino": "Nobyembre 22, 2016"
+    },
+    {
+      "blg": 46,
+      "mahistrado": "Rodolfo Ponferrada",
+      "simula_ng_panunungkulan": "Agosto 23, 2004",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Palattao",
+      "namumunong_mahistrado": "Sandoval (umaakto)",
+      "pagtatapos_ng_termino": "Setyembre 13, 2017"
+    },
+    {
+      "blg": 47,
+      "mahistrado": "Alexander Gesmundo",
+      "simula_ng_panunungkulan": "Oktubre 15, 2005",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Victorino",
+      "namumunong_mahistrado": "De Castro",
+      "pagtatapos_ng_termino": "Agosto 14, 2017"
+    },
+    {
+      "blg": 48,
+      "mahistrado": "Samuel Martires",
+      "simula_ng_panunungkulan": "Oktubre 15, 2005",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "De Castro",
+      "namumunong_mahistrado": "De Castro",
+      "pagtatapos_ng_termino": "Marso 2, 2017"
+    },
+    {
+      "blg": 49,
+      "mahistrado": "Napoleon Inoturan",
+      "simula_ng_panunungkulan": "Oktubre 15, 2005",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Legaspi",
+      "namumunong_mahistrado": "Peralta",
+      "pagtatapos_ng_termino": "Agosto 1, 2016"
+    },
+    {
+      "blg": 50,
+      "mahistrado": "Alex Quiroz",
+      "simula_ng_panunungkulan": "Disyembre 11, 2008",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Peralta",
+      "namumunong_mahistrado": "Peralta",
+      "pagtatapos_ng_termino": "Hulyo 28, 2022"
+    },
+    {
+      "blg": 51,
+      "mahistrado": "Maria Cristina Cornejo",
+      "simula_ng_panunungkulan": "Mayo 1, 2010",
+      "itinalaga_ni": "Macapagal-Arroyo",
+      "pinalitan": "Cortez-Estrada",
+      "namumunong_mahistrado": "Sandoval (umaakto)",
+      "pagtatapos_ng_termino": "Marso 1, 2017"
+    },
+    {
+      "blg": 52,
+      "mahistrado": "Rafael Lagos",
+      "simula_ng_panunungkulan": "Oktubre 9, 2010",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Geraldez",
+      "namumunong_mahistrado": "Geraldez",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 53,
+      "mahistrado": "Oscar Herrera Jr.",
+      "simula_ng_panunungkulan": "Abril 28, 2011",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Sandoval",
+      "namumunong_mahistrado": "Sandoval",
+      "pagtatapos_ng_termino": "Mayo 23, 2024"
+    },
+    {
+      "blg": 54,
+      "mahistrado": "Amparo Cabotaje-Tang",
+      "simula_ng_panunungkulan": "Hunyo 11, 2012",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Villaruz Jr.",
+      "namumunong_mahistrado": "Sandoval",
+      "pagtatapos_ng_termino": "Oktubre 7, 2013"
+    },
+    {
+      "blg": 55,
+      "mahistrado": "Maria Theresa Dolores Gomez-Estoesta",
+      "simula_ng_panunungkulan": "Hunyo 20, 2014",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Cabotaje-Tang",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 56,
+      "mahistrado": "Sarah Jane Fernandez",
+      "simula_ng_panunungkulan": "Mayo 5, 2015",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Ong",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 57,
+      "mahistrado": "Michael Frederick Musngi",
+      "simula_ng_panunungkulan": "Enero 20, 2016",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Bagong talaga",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 58,
+      "mahistrado": "Reynaldo Cruz",
+      "simula_ng_panunungkulan": "Enero 20, 2016",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Bagong Talaga",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Pebrero 21, 2020"
+    },
+    {
+      "blg": 59,
+      "mahistrado": "Maria Geraldine Faith Abracia-Econg",
+      "simula_ng_panunungkulan": "Enero 20, 2016",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Bagong Talaga",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 60,
+      "mahistrado": "Maria Theresa Mendoza-Arcega",
+      "simula_ng_panunungkulan": "Enero 20, 2016",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Bagong talaga",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 61,
+      "mahistrado": "Karl Miranda",
+      "simula_ng_panunungkulan": "Enero 20, 2016",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Bagong talaga",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 62,
+      "mahistrado": "Zaldy Trespeses",
+      "simula_ng_panunungkulan": "Enero 20, 2016",
+      "itinalaga_ni": "Aquino III",
+      "pinalitan": "Bagong talaga",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 63,
+      "mahistrado": "Bernelito Fernandez",
+      "simula_ng_panunungkulan": "Oktubre 28, 2016",
+      "itinalaga_ni": "Duterte",
+      "pinalitan": "Díaz-Baldos",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 64,
+      "mahistrado": "Lorifel Pahimna",
+      "simula_ng_panunungkulan": "Marso 1, 2017",
+      "itinalaga_ni": "Duterte",
+      "pinalitan": "Inoturan",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 65,
+      "mahistrado": "Edgardo Caldona",
+      "simula_ng_panunungkulan": "Marso 10, 2017",
+      "itinalaga_ni": "Duterte",
+      "pinalitan": "Hernandez",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 66,
+      "mahistrado": "Bayani Jacinto",
+      "simula_ng_panunungkulan": "Mayo 29, 2017",
+      "itinalaga_ni": "Duterte",
+      "pinalitan": "Jurado",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 67,
+      "mahistrado": "Kevin Narce Vivero",
+      "simula_ng_panunungkulan": "Nobyembre 28, 2017",
+      "itinalaga_ni": "Duterte",
+      "pinalitan": "Martires",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 68,
+      "mahistrado": "Maryann Corpus-Mañalac",
+      "simula_ng_panunungkulan": "Disyembre 8, 2017",
+      "itinalaga_ni": "Duterte",
+      "pinalitan": "Cornejo",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 69,
+      "mahistrado": "Georgina Dumpit-Hidalgo",
+      "simula_ng_panunungkulan": "Enero 18, 2018",
+      "itinalaga_ni": "Duterte",
+      "pinalitan": "Ponferrada",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 70,
+      "mahistrado": "Ronald Moreno",
+      "simula_ng_panunungkulan": "Hunyo 8, 2018",
+      "itinalaga_ni": "Duterte",
+      "pinalitan": "Gesmundo",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 71,
+      "mahistrado": "Arthur Malabaguio",
+      "simula_ng_panunungkulan": "Marso 4, 2022",
+      "itinalaga_ni": "Duterte",
+      "pinalitan": "Cruz",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    },
+    {
+      "blg": 72,
+      "mahistrado": "Juliet Manalo-San Gaspar",
+      "simula_ng_panunungkulan": "Setyembre 26, 2023",
+      "itinalaga_ni": "Marcos Jr.",
+      "pinalitan": "Quiroz",
+      "namumunong_mahistrado": "Cabotaje-Tang",
+      "pagtatapos_ng_termino": "Kasalukuyan"
+    }
+  ],
+  "meta": {
+    "title": "Mga Mahistrado ng Sandiganbayan - Free Download",
+    "description": "Talaan ng lahat ng naging mahistrado ng Sandiganbayan (hukumang laban sa katiwalian) mula 1978, kasama ang petsa ng panunungkulan, pangulong nagtalaga, pinalitan at pagtatapos ng termino. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Mahistrado ng Sandiganbayan | ListBase",
+    "seo_description": "Download Mga Mahistrado ng Sandiganbayan — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Sandiganbayan"
+    ]
+  }
+}
