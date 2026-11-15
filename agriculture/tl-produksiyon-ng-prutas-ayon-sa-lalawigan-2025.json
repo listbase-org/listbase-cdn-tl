@@ -1,0 +1,906 @@
+{
+  "id": "tl-produksiyon-ng-prutas-ayon-sa-lalawigan-2025",
+  "name": "Produksiyon ng Prutas ayon sa Lalawigan (2025): Saging, Mangga, Pinya, Kalamansi, Papaya, Pakwan",
+  "title": "Produksiyon ng Prutas ayon sa Lalawigan (2025): Saging, Mangga, Pinya, Kalamansi, Papaya, Pakwan",
+  "description": "Dami ng ani ng saging, mangga, pinya, kalamansi, papaya at pakwan sa bawat lalawigan ng Pilipinas noong 2025, sa metrikong tonelada, mula sa Philippine Statistics Authority (PSA OpenSTAT).",
+  "category": "agriculture",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__CS/0072E4EVCP2.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__CS/0072E4EVCP2.px/",
+  "updated": "2026-11",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "saging_mt",
+      "label": "Saging Mt",
+      "type": "number"
+    },
+    {
+      "key": "kalamansi_mt",
+      "label": "Kalamansi Mt",
+      "type": "number"
+    },
+    {
+      "key": "mangga_mt",
+      "label": "Mangga Mt",
+      "type": "number"
+    },
+    {
+      "key": "pinya_mt",
+      "label": "Pinya Mt",
+      "type": "number"
+    },
+    {
+      "key": "papaya_mt",
+      "label": "Papaya Mt",
+      "type": "number"
+    },
+    {
+      "key": "pakwan_mt",
+      "label": "Pakwan Mt",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lalawigan": "Abra",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "saging_mt": 3808.18,
+      "kalamansi_mt": 79.72,
+      "mangga_mt": 1034.06,
+      "pinya_mt": 50.89,
+      "papaya_mt": 619.64,
+      "pakwan_mt": 168.95
+    },
+    {
+      "lalawigan": "Apayao",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "saging_mt": 5973.29,
+      "kalamansi_mt": 56.03,
+      "mangga_mt": 11.02,
+      "pinya_mt": 458.58,
+      "papaya_mt": 30.77,
+      "pakwan_mt": 0.72
+    },
+    {
+      "lalawigan": "Benguet",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "saging_mt": 1338.48,
+      "kalamansi_mt": 193.42,
+      "mangga_mt": 364.55,
+      "pinya_mt": 164.47,
+      "papaya_mt": 253,
+      "pakwan_mt": ""
+    },
+    {
+      "lalawigan": "Ifugao",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "saging_mt": 2941.94,
+      "kalamansi_mt": 17.99,
+      "mangga_mt": 262.13,
+      "pinya_mt": 33.93,
+      "papaya_mt": 38.11,
+      "pakwan_mt": 5
+    },
+    {
+      "lalawigan": "Kalinga",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "saging_mt": 1981.89,
+      "kalamansi_mt": 23.63,
+      "mangga_mt": 455.44,
+      "pinya_mt": 5.99,
+      "papaya_mt": 30.62,
+      "pakwan_mt": ""
+    },
+    {
+      "lalawigan": "Mountain Province",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "saging_mt": 1562.46,
+      "kalamansi_mt": 14.62,
+      "mangga_mt": 134.16,
+      "pinya_mt": 32.99,
+      "papaya_mt": 96.87,
+      "pakwan_mt": ""
+    },
+    {
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "saging_mt": 10625.01,
+      "kalamansi_mt": 331.61,
+      "mangga_mt": 21799.81,
+      "pinya_mt": 27.1,
+      "papaya_mt": 1005.89,
+      "pakwan_mt": 5817.99
+    },
+    {
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "saging_mt": 10334.17,
+      "kalamansi_mt": 753.82,
+      "mangga_mt": 11630.59,
+      "pinya_mt": 40.27,
+      "papaya_mt": 839.42,
+      "pakwan_mt": 1022.31
+    },
+    {
+      "lalawigan": "La Union",
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "saging_mt": 5842.33,
+      "kalamansi_mt": 703.68,
+      "mangga_mt": 16695.75,
+      "pinya_mt": 106.58,
+      "papaya_mt": 514.83,
+      "pakwan_mt": 574.71
+    },
+    {
+      "lalawigan": "Pangasinan",
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "saging_mt": 14708.6,
+      "kalamansi_mt": 1078.29,
+      "mangga_mt": 110732.77,
+      "pinya_mt": 15.13,
+      "papaya_mt": 1162.3,
+      "pakwan_mt": 20893
+    },
+    {
+      "lalawigan": "Batanes",
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "saging_mt": 47.73,
+      "kalamansi_mt": 2.27,
+      "mangga_mt": "",
+      "pinya_mt": 2.93,
+      "papaya_mt": 3.4,
+      "pakwan_mt": 9.71
+    },
+    {
+      "lalawigan": "Cagayan",
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "saging_mt": 57849.69,
+      "kalamansi_mt": 2513.03,
+      "mangga_mt": 6255.67,
+      "pinya_mt": 18127.81,
+      "papaya_mt": 222.31,
+      "pakwan_mt": 5628.7
+    },
+    {
+      "lalawigan": "Isabela",
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "saging_mt": 166671.58,
+      "kalamansi_mt": 1692.37,
+      "mangga_mt": 20473.64,
+      "pinya_mt": 9193.73,
+      "papaya_mt": 235.51,
+      "pakwan_mt": 1941.93
+    },
+    {
+      "lalawigan": "Nueva Vizcaya",
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "saging_mt": 24058.31,
+      "kalamansi_mt": 382.77,
+      "mangga_mt": 20426.86,
+      "pinya_mt": 18346.92,
+      "papaya_mt": 632.7,
+      "pakwan_mt": 85.02
+    },
+    {
+      "lalawigan": "Quirino",
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "saging_mt": 49083.97,
+      "kalamansi_mt": 149.45,
+      "mangga_mt": 1411.94,
+      "pinya_mt": 46.93,
+      "papaya_mt": 93.18,
+      "pakwan_mt": 289.49
+    },
+    {
+      "lalawigan": "Aurora",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "saging_mt": 1411.1,
+      "kalamansi_mt": 167.05,
+      "mangga_mt": 14.15,
+      "pinya_mt": 1659.56,
+      "papaya_mt": 491.37,
+      "pakwan_mt": 0.55
+    },
+    {
+      "lalawigan": "Bataan",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "saging_mt": 1573.84,
+      "kalamansi_mt": 103.03,
+      "mangga_mt": 3473.68,
+      "pinya_mt": 668.51,
+      "papaya_mt": 162.02,
+      "pakwan_mt": 2122.04
+    },
+    {
+      "lalawigan": "Bulacan",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "saging_mt": 17537.24,
+      "kalamansi_mt": 859.45,
+      "mangga_mt": 9360.15,
+      "pinya_mt": 397.33,
+      "papaya_mt": 2559.19,
+      "pakwan_mt": 2501.71
+    },
+    {
+      "lalawigan": "Nueva Ecija",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "saging_mt": 5628.91,
+      "kalamansi_mt": 6446.27,
+      "mangga_mt": 11993.76,
+      "pinya_mt": "",
+      "papaya_mt": 609.01,
+      "pakwan_mt": 1817.02
+    },
+    {
+      "lalawigan": "Pampanga",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "saging_mt": 3580.46,
+      "kalamansi_mt": 1019.02,
+      "mangga_mt": 7084.72,
+      "pinya_mt": "",
+      "papaya_mt": 732.37,
+      "pakwan_mt": 616.58
+    },
+    {
+      "lalawigan": "Tarlac",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "saging_mt": 6178.6,
+      "kalamansi_mt": 486.03,
+      "mangga_mt": 2241.57,
+      "pinya_mt": "",
+      "papaya_mt": 68.56,
+      "pakwan_mt": 787.08
+    },
+    {
+      "lalawigan": "Zambales",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "saging_mt": 6841.38,
+      "kalamansi_mt": 325.91,
+      "mangga_mt": 16893.71,
+      "pinya_mt": 4.27,
+      "papaya_mt": 50.32,
+      "pakwan_mt": 441.87
+    },
+    {
+      "lalawigan": "Batangas",
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "saging_mt": 26202.03,
+      "kalamansi_mt": 1832.32,
+      "mangga_mt": 28661.12,
+      "pinya_mt": 87.05,
+      "papaya_mt": 416.29,
+      "pakwan_mt": 7
+    },
+    {
+      "lalawigan": "Cavite",
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "saging_mt": 12400.01,
+      "kalamansi_mt": 210.5,
+      "mangga_mt": 1924.23,
+      "pinya_mt": 64846.53,
+      "papaya_mt": 1766.27,
+      "pakwan_mt": 171.3
+    },
+    {
+      "lalawigan": "Laguna",
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "saging_mt": 11225.87,
+      "kalamansi_mt": 322.98,
+      "mangga_mt": 358.92,
+      "pinya_mt": 8488.67,
+      "papaya_mt": 1384.74,
+      "pakwan_mt": 885.66
+    },
+    {
+      "lalawigan": "Quezon",
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "saging_mt": 30440.67,
+      "kalamansi_mt": 8553.11,
+      "mangga_mt": 5589.04,
+      "pinya_mt": 4015.56,
+      "papaya_mt": 2537.04,
+      "pakwan_mt": 487.41
+    },
+    {
+      "lalawigan": "Rizal",
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "saging_mt": 3258.92,
+      "kalamansi_mt": 687.95,
+      "mangga_mt": 3980.68,
+      "pinya_mt": 609.17,
+      "papaya_mt": 543.72,
+      "pakwan_mt": ""
+    },
+    {
+      "lalawigan": "Marinduque",
+      "rehiyon": "MIMAROPA REGION",
+      "saging_mt": 6902.45,
+      "kalamansi_mt": 34.01,
+      "mangga_mt": 99.29,
+      "pinya_mt": 57.48,
+      "papaya_mt": 70.23,
+      "pakwan_mt": 142.6
+    },
+    {
+      "lalawigan": "Occidental Mindoro",
+      "rehiyon": "MIMAROPA REGION",
+      "saging_mt": 3360.85,
+      "kalamansi_mt": 191.14,
+      "mangga_mt": 425.95,
+      "pinya_mt": 11.92,
+      "papaya_mt": 3067.28,
+      "pakwan_mt": 461.14
+    },
+    {
+      "lalawigan": "Oriental Mindoro",
+      "rehiyon": "MIMAROPA REGION",
+      "saging_mt": 83627.87,
+      "kalamansi_mt": 36005.74,
+      "mangga_mt": 125.33,
+      "pinya_mt": 96.81,
+      "papaya_mt": 83,
+      "pakwan_mt": 183.05
+    },
+    {
+      "lalawigan": "Palawan",
+      "rehiyon": "MIMAROPA REGION",
+      "saging_mt": 23309.49,
+      "kalamansi_mt": 774.15,
+      "mangga_mt": 13575.26,
+      "pinya_mt": 550.23,
+      "papaya_mt": 347.94,
+      "pakwan_mt": 3218.03
+    },
+    {
+      "lalawigan": "Romblon",
+      "rehiyon": "MIMAROPA REGION",
+      "saging_mt": 6880.09,
+      "kalamansi_mt": 104.46,
+      "mangga_mt": 1235.02,
+      "pinya_mt": 73.07,
+      "papaya_mt": 191.39,
+      "pakwan_mt": 61.89
+    },
+    {
+      "lalawigan": "Albay",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "saging_mt": 7434.81,
+      "kalamansi_mt": 78.08,
+      "mangga_mt": 166.62,
+      "pinya_mt": 221.15,
+      "papaya_mt": 318.88,
+      "pakwan_mt": 272.47
+    },
+    {
+      "lalawigan": "Camarines Norte",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "saging_mt": 4059.62,
+      "kalamansi_mt": 167.37,
+      "mangga_mt": 204.47,
+      "pinya_mt": 135833.63,
+      "papaya_mt": 344.5,
+      "pakwan_mt": 8465.93
+    },
+    {
+      "lalawigan": "Camarines Sur",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "saging_mt": 24296.38,
+      "kalamansi_mt": 517.09,
+      "mangga_mt": 173.77,
+      "pinya_mt": 204.55,
+      "papaya_mt": 778.17,
+      "pakwan_mt": 156.47
+    },
+    {
+      "lalawigan": "Catanduanes",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "saging_mt": 593.85,
+      "kalamansi_mt": 5.45,
+      "mangga_mt": 1.76,
+      "pinya_mt": 4.24,
+      "papaya_mt": 32.81,
+      "pakwan_mt": 31.79
+    },
+    {
+      "lalawigan": "Masbate",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "saging_mt": 4944.01,
+      "kalamansi_mt": 83.11,
+      "mangga_mt": 414.52,
+      "pinya_mt": 116.44,
+      "papaya_mt": 136.15,
+      "pakwan_mt": ""
+    },
+    {
+      "lalawigan": "Sorsogon",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "saging_mt": 9626.83,
+      "kalamansi_mt": 356.04,
+      "mangga_mt": 213.14,
+      "pinya_mt": 606.7,
+      "papaya_mt": 629.35,
+      "pakwan_mt": 43.63
+    },
+    {
+      "lalawigan": "Aklan",
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "saging_mt": 26267.19,
+      "kalamansi_mt": 416.84,
+      "mangga_mt": 1864.42,
+      "pinya_mt": 130.04,
+      "papaya_mt": 653.32,
+      "pakwan_mt": 1127.38
+    },
+    {
+      "lalawigan": "Antique",
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "saging_mt": 19317.46,
+      "kalamansi_mt": 65.87,
+      "mangga_mt": 1198.33,
+      "pinya_mt": 126.37,
+      "papaya_mt": 418.13,
+      "pakwan_mt": 1098.46
+    },
+    {
+      "lalawigan": "Capiz",
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "saging_mt": 12712.06,
+      "kalamansi_mt": 145.02,
+      "mangga_mt": 180.74,
+      "pinya_mt": 245.31,
+      "papaya_mt": 201.97,
+      "pakwan_mt": 257.38
+    },
+    {
+      "lalawigan": "Guimaras",
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "saging_mt": 8503.94,
+      "kalamansi_mt": 1988.36,
+      "mangga_mt": 23792.19,
+      "pinya_mt": 88.49,
+      "papaya_mt": 319.6,
+      "pakwan_mt": 567.79
+    },
+    {
+      "lalawigan": "Iloilo",
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "saging_mt": 152083.66,
+      "kalamansi_mt": 1693.76,
+      "mangga_mt": 31297.58,
+      "pinya_mt": 15341.22,
+      "papaya_mt": 2886.78,
+      "pakwan_mt": 50485.04
+    },
+    {
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "NEGROS ISLAND REGION (NIR)",
+      "saging_mt": 92517.25,
+      "kalamansi_mt": 53.27,
+      "mangga_mt": 12827.81,
+      "pinya_mt": 4785.59,
+      "papaya_mt": 1568.42,
+      "pakwan_mt": 1016.95
+    },
+    {
+      "lalawigan": "Negros Oriental",
+      "rehiyon": "NEGROS ISLAND REGION (NIR)",
+      "saging_mt": 70595.49,
+      "kalamansi_mt": 221.77,
+      "mangga_mt": 37623.42,
+      "pinya_mt": 7930.41,
+      "papaya_mt": 582.99,
+      "pakwan_mt": 48.57
+    },
+    {
+      "lalawigan": "Siquijor",
+      "rehiyon": "NEGROS ISLAND REGION (NIR)",
+      "saging_mt": 15321.88,
+      "kalamansi_mt": 54.98,
+      "mangga_mt": 395.58,
+      "pinya_mt": 2.99,
+      "papaya_mt": 261.01,
+      "pakwan_mt": 39.17
+    },
+    {
+      "lalawigan": "Bohol",
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "saging_mt": 29747.47,
+      "kalamansi_mt": 162.37,
+      "mangga_mt": 1255.26,
+      "pinya_mt": 751.57,
+      "papaya_mt": 692.09,
+      "pakwan_mt": 971.56
+    },
+    {
+      "lalawigan": "Cebu",
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "saging_mt": 82206.96,
+      "kalamansi_mt": 524.12,
+      "mangga_mt": 34635.25,
+      "pinya_mt": 16.48,
+      "papaya_mt": 2831.1,
+      "pakwan_mt": 74.99
+    },
+    {
+      "lalawigan": "Biliran",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "saging_mt": 7319.9,
+      "kalamansi_mt": 43.48,
+      "mangga_mt": 168.33,
+      "pinya_mt": 173.06,
+      "papaya_mt": 66.42,
+      "pakwan_mt": 66.27
+    },
+    {
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "saging_mt": 7165.49,
+      "kalamansi_mt": 135.84,
+      "mangga_mt": 106.94,
+      "pinya_mt": 821.56,
+      "papaya_mt": 292.25,
+      "pakwan_mt": 43.86
+    },
+    {
+      "lalawigan": "Leyte",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "saging_mt": 25928.18,
+      "kalamansi_mt": 1592.65,
+      "mangga_mt": 209.56,
+      "pinya_mt": 3286.07,
+      "papaya_mt": 335.64,
+      "pakwan_mt": 296.5
+    },
+    {
+      "lalawigan": "Northern Samar",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "saging_mt": 18297.2,
+      "kalamansi_mt": 146,
+      "mangga_mt": 12.14,
+      "pinya_mt": 79.83,
+      "papaya_mt": 618.59,
+      "pakwan_mt": 170
+    },
+    {
+      "lalawigan": "Samar",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "saging_mt": 161549.5,
+      "kalamansi_mt": 58.57,
+      "mangga_mt": 126.26,
+      "pinya_mt": 6538.39,
+      "papaya_mt": 806.76,
+      "pakwan_mt": 403.04
+    },
+    {
+      "lalawigan": "Southern Leyte",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "saging_mt": 40579.6,
+      "kalamansi_mt": 53.26,
+      "mangga_mt": 97.6,
+      "pinya_mt": 168.53,
+      "papaya_mt": 104.59,
+      "pakwan_mt": 100.89
+    },
+    {
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "saging_mt": 87840.85,
+      "kalamansi_mt": 387.09,
+      "mangga_mt": 16616.64,
+      "pinya_mt": 595.42,
+      "papaya_mt": 1850.89,
+      "pakwan_mt": 75.67
+    },
+    {
+      "lalawigan": "Zamboanga del Sur",
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "saging_mt": 98161.36,
+      "kalamansi_mt": 654.69,
+      "mangga_mt": 12820.65,
+      "pinya_mt": 290.59,
+      "papaya_mt": 1770.15,
+      "pakwan_mt": 703.37
+    },
+    {
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "saging_mt": 26153.32,
+      "kalamansi_mt": 8948.57,
+      "mangga_mt": 4647.47,
+      "pinya_mt": 61.95,
+      "papaya_mt": 344.19,
+      "pakwan_mt": 51.3
+    },
+    {
+      "lalawigan": "..City of Zamboanga",
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "saging_mt": 66049.75,
+      "kalamansi_mt": 160.05,
+      "mangga_mt": 10115.27,
+      "pinya_mt": 85.42,
+      "papaya_mt": 1337.8,
+      "pakwan_mt": 10.49
+    },
+    {
+      "lalawigan": "Bukidnon",
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "saging_mt": 1357495.71,
+      "kalamansi_mt": 653.7,
+      "mangga_mt": 3208.72,
+      "pinya_mt": 1658677.03,
+      "papaya_mt": 3320.62,
+      "pakwan_mt": 362.81
+    },
+    {
+      "lalawigan": "Camiguin",
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "saging_mt": 6343.81,
+      "kalamansi_mt": 25.6,
+      "mangga_mt": 222.6,
+      "pinya_mt": 12.03,
+      "papaya_mt": 119.17,
+      "pakwan_mt": 21.15
+    },
+    {
+      "lalawigan": "Lanao del Norte",
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "saging_mt": 283603,
+      "kalamansi_mt": 1437,
+      "mangga_mt": 6155.1,
+      "pinya_mt": 729.5,
+      "papaya_mt": 597.06,
+      "pakwan_mt": 1060.45
+    },
+    {
+      "lalawigan": "Misamis Occidental",
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "saging_mt": 81681.7,
+      "kalamansi_mt": 211.64,
+      "mangga_mt": 25557.66,
+      "pinya_mt": 39.02,
+      "papaya_mt": 148.08,
+      "pakwan_mt": 172.14
+    },
+    {
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "saging_mt": 217552.14,
+      "kalamansi_mt": 134.52,
+      "mangga_mt": 20997.31,
+      "pinya_mt": 71512.22,
+      "papaya_mt": 27458.01,
+      "pakwan_mt": 1091.26
+    },
+    {
+      "lalawigan": "Davao de Oro",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "saging_mt": 711127.84,
+      "kalamansi_mt": 2162.85,
+      "mangga_mt": 138.2,
+      "pinya_mt": 64.46,
+      "papaya_mt": 231.36,
+      "pakwan_mt": 115.76
+    },
+    {
+      "lalawigan": "Davao del Norte",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "saging_mt": 1442181.57,
+      "kalamansi_mt": 4773.23,
+      "mangga_mt": 3021.69,
+      "pinya_mt": 168.69,
+      "papaya_mt": 1490.98,
+      "pakwan_mt": 221.02
+    },
+    {
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "saging_mt": 527592.4,
+      "kalamansi_mt": 690.53,
+      "mangga_mt": 27267.68,
+      "pinya_mt": 7630.64,
+      "papaya_mt": 4119.55,
+      "pakwan_mt": 327.78
+    },
+    {
+      "lalawigan": "Davao Occidental",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "saging_mt": 177056.97,
+      "kalamansi_mt": 25.17,
+      "mangga_mt": 5343.29,
+      "pinya_mt": 6.49,
+      "papaya_mt": 1594.7,
+      "pakwan_mt": 7.52
+    },
+    {
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "saging_mt": 161980.3,
+      "kalamansi_mt": 138.59,
+      "mangga_mt": 2257.25,
+      "pinya_mt": 147.2,
+      "papaya_mt": 730.18,
+      "pakwan_mt": 305.62
+    },
+    {
+      "lalawigan": "..City of Davao",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "saging_mt": 172495.22,
+      "kalamansi_mt": 213.89,
+      "mangga_mt": 4458.3,
+      "pinya_mt": 19554.24,
+      "papaya_mt": 2619.53,
+      "pakwan_mt": 215.07
+    },
+    {
+      "lalawigan": "Cotabato",
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "saging_mt": 454820.57,
+      "kalamansi_mt": 2091.75,
+      "mangga_mt": 42849.1,
+      "pinya_mt": 294.53,
+      "papaya_mt": 4722.62,
+      "pakwan_mt": 545.33
+    },
+    {
+      "lalawigan": "Sarangani",
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "saging_mt": 165286.13,
+      "kalamansi_mt": 608.57,
+      "mangga_mt": 8091.1,
+      "pinya_mt": 14523.77,
+      "papaya_mt": 171.01,
+      "pakwan_mt": 50.09
+    },
+    {
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "saging_mt": 85824.23,
+      "kalamansi_mt": 909,
+      "mangga_mt": 1959.03,
+      "pinya_mt": 1972,
+      "papaya_mt": 271.09,
+      "pakwan_mt": 398.32
+    },
+    {
+      "lalawigan": "South Cotabato",
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "saging_mt": 263567.84,
+      "kalamansi_mt": 689.19,
+      "mangga_mt": 13265.74,
+      "pinya_mt": 779959.74,
+      "papaya_mt": 59704.99,
+      "pakwan_mt": 6366.28
+    },
+    {
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "REGION XIII (CARAGA)",
+      "saging_mt": 64742.36,
+      "kalamansi_mt": 186.25,
+      "mangga_mt": 17002.36,
+      "pinya_mt": 1706.93,
+      "papaya_mt": 537.62,
+      "pakwan_mt": 514.48
+    },
+    {
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "REGION XIII (CARAGA)",
+      "saging_mt": 81950.6,
+      "kalamansi_mt": 4891.72,
+      "mangga_mt": 224.81,
+      "pinya_mt": 941.56,
+      "papaya_mt": 85.59,
+      "pakwan_mt": 510.05
+    },
+    {
+      "lalawigan": "Dinagat Islands",
+      "rehiyon": "REGION XIII (CARAGA)",
+      "saging_mt": 764.01,
+      "kalamansi_mt": 3.67,
+      "mangga_mt": 18.81,
+      "pinya_mt": 13.97,
+      "papaya_mt": 12.73,
+      "pakwan_mt": 259.97
+    },
+    {
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "REGION XIII (CARAGA)",
+      "saging_mt": 3070.33,
+      "kalamansi_mt": 26.93,
+      "mangga_mt": 58.4,
+      "pinya_mt": 47.87,
+      "papaya_mt": 56.04,
+      "pakwan_mt": 252.72
+    },
+    {
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "REGION XIII (CARAGA)",
+      "saging_mt": 105157.37,
+      "kalamansi_mt": 54.06,
+      "mangga_mt": 211.42,
+      "pinya_mt": 540.43,
+      "papaya_mt": 137.52,
+      "pakwan_mt": 4471
+    },
+    {
+      "lalawigan": "Basilan",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO",
+      "saging_mt": 18882.29,
+      "kalamansi_mt": 73.01,
+      "mangga_mt": 83.9,
+      "pinya_mt": 48.2,
+      "papaya_mt": 203.24,
+      "pakwan_mt": 8.01
+    },
+    {
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO",
+      "saging_mt": 114624.12,
+      "kalamansi_mt": 99.1,
+      "mangga_mt": 174.55,
+      "pinya_mt": 1321.8,
+      "papaya_mt": 118.34,
+      "pakwan_mt": 52.56
+    },
+    {
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO",
+      "saging_mt": 161570.24,
+      "kalamansi_mt": 587.7,
+      "mangga_mt": 8246.25,
+      "pinya_mt": "",
+      "papaya_mt": 830.61,
+      "pakwan_mt": 133.45
+    },
+    {
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO",
+      "saging_mt": 218610.08,
+      "kalamansi_mt": 1522.27,
+      "mangga_mt": 7414.41,
+      "pinya_mt": "",
+      "papaya_mt": 524.5,
+      "pakwan_mt": 72.5
+    },
+    {
+      "lalawigan": "Sulu",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO",
+      "saging_mt": 16853.81,
+      "kalamansi_mt": 383.13,
+      "mangga_mt": 1920.91,
+      "pinya_mt": 45.75,
+      "papaya_mt": 876.46,
+      "pakwan_mt": 4.93
+    },
+    {
+      "lalawigan": "Tawi-tawi",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO",
+      "saging_mt": 9252.88,
+      "kalamansi_mt": 196.67,
+      "mangga_mt": 886.03,
+      "pinya_mt": 2.33,
+      "papaya_mt": 300.43,
+      "pakwan_mt": ""
+    }
+  ],
+  "meta": {
+    "title": "Produksiyon ng Prutas ayon sa Lalawigan (2025): Saging, Mangga, Pinya, Kalamansi, Papaya, Pakwan - Free Download",
+    "description": "Dami ng ani ng saging, mangga, pinya, kalamansi, papaya at pakwan sa bawat lalawigan ng Pilipinas noong 2025, sa metrikong tonelada, mula sa Philippine Statistics Authority (PSA OpenSTAT). Contains 84 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produksiyon ng Prutas ayon sa Lalawigan (2025): Saging, Mangga, Pinya, Kalamansi, Papaya, Pakwan | ListBase",
+    "seo_description": "Download Produksiyon ng Prutas ayon sa Lalawigan (2025): Saging, Mangga, Pinya, Kalamansi, Papaya, Pakwan — 84 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 84 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__CS/0072E4EVCP2.px/"
+    ]
+  }
+}

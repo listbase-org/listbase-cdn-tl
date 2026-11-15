@@ -1,12 +1,12 @@
 {
   "lang": "tl",
-  "generated": "2026-11-15T02:09:59.627Z",
-  "total_datasets": 529,
-  "total_records": 449192,
+  "generated": "2026-11-15T02:10:11.147Z",
+  "total_datasets": 530,
+  "total_records": 449276,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -233,6 +233,35 @@
         "xlsx": {
           "name": "tl-produksiyon-ng-palay-at-mais-ayon-sa-lalawigan-2025_TL.xlsx",
           "size": 12388
+        }
+      }
+    },
+    {
+      "id": "tl-produksiyon-ng-prutas-ayon-sa-lalawigan-2025",
+      "name": "Produksiyon ng Prutas ayon sa Lalawigan (2025): Saging, Mangga, Pinya, Kalamansi, Papaya, Pakwan",
+      "category": "agriculture",
+      "record_count": 84,
+      "columns": [
+        "lalawigan",
+        "rehiyon",
+        "saging_mt",
+        "kalamansi_mt",
+        "mangga_mt",
+        "pinya_mt",
+        "papaya_mt",
+        "pakwan_mt"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__CS/0072E4EVCP2.px/",
+      "updated": "2026-11",
+      "size": 24208,
+      "files": {
+        "csv": {
+          "name": "tl-produksiyon-ng-prutas-ayon-sa-lalawigan-2025_TL.csv",
+          "size": 8375
+        },
+        "xlsx": {
+          "name": "tl-produksiyon-ng-prutas-ayon-sa-lalawigan-2025_TL.xlsx",
+          "size": 12085
         }
       }
     },
