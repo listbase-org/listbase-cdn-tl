@@ -1,0 +1,610 @@
+{
+  "id": "tl-produksiyon-ng-isda-ayon-sa-uri",
+  "name": "Produksiyon ng Isda at Lamang-dagat ayon sa Uri (2021–2025)",
+  "title": "Produksiyon ng Isda at Lamang-dagat ayon sa Uri (2021–2025)",
+  "description": "Taunang dami ng produksiyon ng pangisdaan sa Pilipinas (komersiyal, munisipal at akwakultura) ayon sa uri ng isda, hipon, alimango, pusit at iba pa, kasama ang lokal na pangalan, 2021–2025, sa metrikong tonelada (PSA OpenSTAT).",
+  "category": "agriculture",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__FS/0112E4GVFP0.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__FS/0112E4GVFP0.px/",
+  "updated": "2026-11",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "lokal_na_pangalan",
+      "label": "Lokal Na Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "pangalan_sa_ingles",
+      "label": "Pangalan Sa Ingles",
+      "type": "string"
+    },
+    {
+      "key": "produksiyon_2021_mt",
+      "label": "Produksiyon 2021 Mt",
+      "type": "number"
+    },
+    {
+      "key": "produksiyon_2022_mt",
+      "label": "Produksiyon 2022 Mt",
+      "type": "number"
+    },
+    {
+      "key": "produksiyon_2023_mt",
+      "label": "Produksiyon 2023 Mt",
+      "type": "number"
+    },
+    {
+      "key": "produksiyon_2024_mt",
+      "label": "Produksiyon 2024 Mt",
+      "type": "number"
+    },
+    {
+      "key": "produksiyon_2025_mt",
+      "label": "Produksiyon 2025 Mt",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lokal_na_pangalan": "Alamang",
+      "pangalan_sa_ingles": "Acetes",
+      "produksiyon_2021_mt": 6212.12,
+      "produksiyon_2022_mt": 12078.19,
+      "produksiyon_2023_mt": 18564.06,
+      "produksiyon_2024_mt": 15784.97,
+      "produksiyon_2025_mt": 10141.03
+    },
+    {
+      "lokal_na_pangalan": "Dilis",
+      "pangalan_sa_ingles": "Anchovies",
+      "produksiyon_2021_mt": 34445.44,
+      "produksiyon_2022_mt": 52993.62,
+      "produksiyon_2023_mt": 52030.71,
+      "produksiyon_2024_mt": 55424.6,
+      "produksiyon_2025_mt": 58261.63
+    },
+    {
+      "lokal_na_pangalan": "Matangbaka",
+      "pangalan_sa_ingles": "Big-eyed scad",
+      "produksiyon_2021_mt": 108339.09,
+      "produksiyon_2022_mt": 112743.9,
+      "produksiyon_2023_mt": 120204.91,
+      "produksiyon_2024_mt": 95274.64,
+      "produksiyon_2025_mt": 99231.85
+    },
+    {
+      "lokal_na_pangalan": "Tambakol/ Bariles",
+      "pangalan_sa_ingles": "Bigeye tuna",
+      "produksiyon_2021_mt": 17313.25,
+      "produksiyon_2022_mt": 19039.62,
+      "produksiyon_2023_mt": 13998.06,
+      "produksiyon_2024_mt": 18241.09,
+      "produksiyon_2025_mt": 18641.36
+    },
+    {
+      "lokal_na_pangalan": "Alimasag",
+      "pangalan_sa_ingles": "Blue crab",
+      "produksiyon_2021_mt": 32216.86,
+      "produksiyon_2022_mt": 25508.34,
+      "produksiyon_2023_mt": 22112.63,
+      "produksiyon_2024_mt": 21127.31,
+      "produksiyon_2025_mt": 20241.4
+    },
+    {
+      "lokal_na_pangalan": "Dalagang-bukid",
+      "pangalan_sa_ingles": "Caesio",
+      "produksiyon_2021_mt": 18459.48,
+      "produksiyon_2022_mt": 17815.57,
+      "produksiyon_2023_mt": 14557.91,
+      "produksiyon_2024_mt": 15534.36,
+      "produksiyon_2025_mt": 16157.44
+    },
+    {
+      "lokal_na_pangalan": "Talakitok",
+      "pangalan_sa_ingles": "Cavalla",
+      "produksiyon_2021_mt": 28165.55,
+      "produksiyon_2022_mt": 25003.75,
+      "produksiyon_2023_mt": 21681.28,
+      "produksiyon_2024_mt": 20255.32,
+      "produksiyon_2025_mt": 19609.4
+    },
+    {
+      "lokal_na_pangalan": "Salay-salay",
+      "pangalan_sa_ingles": "Crevalle",
+      "produksiyon_2021_mt": 27376.18,
+      "produksiyon_2022_mt": 20848.66,
+      "produksiyon_2023_mt": 21566.03,
+      "produksiyon_2024_mt": 16580.33,
+      "produksiyon_2025_mt": 19073.91
+    },
+    {
+      "lokal_na_pangalan": "Bonito",
+      "pangalan_sa_ingles": "Eastern little tuna",
+      "produksiyon_2021_mt": 34035.85,
+      "produksiyon_2022_mt": 30668.86,
+      "produksiyon_2023_mt": 22751.66,
+      "produksiyon_2024_mt": 17625.47,
+      "produksiyon_2025_mt": 19317.96
+    },
+    {
+      "lokal_na_pangalan": "Tunsoy",
+      "pangalan_sa_ingles": "Fimbriated sardines",
+      "produksiyon_2021_mt": 44153.97,
+      "produksiyon_2022_mt": 49674.89,
+      "produksiyon_2023_mt": 33012.02,
+      "produksiyon_2024_mt": 34518.81,
+      "produksiyon_2025_mt": 33224.05
+    },
+    {
+      "lokal_na_pangalan": "Bolador",
+      "pangalan_sa_ingles": "Flying fish",
+      "produksiyon_2021_mt": 12920.83,
+      "produksiyon_2022_mt": 15163.28,
+      "produksiyon_2023_mt": 19311.89,
+      "produksiyon_2024_mt": 23440.92,
+      "produksiyon_2025_mt": 13573.12
+    },
+    {
+      "lokal_na_pangalan": "Tulingan",
+      "pangalan_sa_ingles": "Frigate tuna",
+      "produksiyon_2021_mt": 93783.72,
+      "produksiyon_2022_mt": 84014.07,
+      "produksiyon_2023_mt": 72803.98,
+      "produksiyon_2024_mt": 81798.27,
+      "produksiyon_2025_mt": 73606.54
+    },
+    {
+      "lokal_na_pangalan": "Saramulyete",
+      "pangalan_sa_ingles": "Goatfish",
+      "produksiyon_2021_mt": 24864.78,
+      "produksiyon_2022_mt": 18220.81,
+      "produksiyon_2023_mt": 13062.74,
+      "produksiyon_2024_mt": 11808.21,
+      "produksiyon_2025_mt": 15087.48
+    },
+    {
+      "lokal_na_pangalan": "Lapu-lapu",
+      "pangalan_sa_ingles": "Grouper",
+      "produksiyon_2021_mt": 20346.86,
+      "produksiyon_2022_mt": 19530.13,
+      "produksiyon_2023_mt": 15800.36,
+      "produksiyon_2024_mt": 11192.3,
+      "produksiyon_2025_mt": 12064.08
+    },
+    {
+      "lokal_na_pangalan": "Espada",
+      "pangalan_sa_ingles": "Hairtail",
+      "produksiyon_2021_mt": 12579.43,
+      "produksiyon_2022_mt": 12720.08,
+      "produksiyon_2023_mt": 12251.31,
+      "produksiyon_2024_mt": 9839.47,
+      "produksiyon_2025_mt": 11588.13
+    },
+    {
+      "lokal_na_pangalan": "Alumahan",
+      "pangalan_sa_ingles": "Indian mackerel",
+      "produksiyon_2021_mt": 50664.3,
+      "produksiyon_2022_mt": 40937.82,
+      "produksiyon_2023_mt": 48010.27,
+      "produksiyon_2024_mt": 42769.54,
+      "produksiyon_2025_mt": 47634.63
+    },
+    {
+      "lokal_na_pangalan": "Tamban",
+      "pangalan_sa_ingles": "Bali sardinella",
+      "produksiyon_2021_mt": 321448.92,
+      "produksiyon_2022_mt": 280508.7,
+      "produksiyon_2023_mt": 275843.88,
+      "produksiyon_2024_mt": 257237.38,
+      "produksiyon_2025_mt": 181937.84
+    },
+    {
+      "lokal_na_pangalan": "Hasa-hasa",
+      "pangalan_sa_ingles": "Indo-pacific mackerel",
+      "produksiyon_2021_mt": 27722.31,
+      "produksiyon_2022_mt": 19552.3,
+      "produksiyon_2023_mt": 16221.02,
+      "produksiyon_2024_mt": 15733.47,
+      "produksiyon_2025_mt": 13527.44
+    },
+    {
+      "lokal_na_pangalan": "Kapak",
+      "pangalan_sa_ingles": "Mullet",
+      "produksiyon_2021_mt": 14461.16,
+      "produksiyon_2022_mt": 12475.91,
+      "produksiyon_2023_mt": 8791.63,
+      "produksiyon_2024_mt": 7278.19,
+      "produksiyon_2025_mt": 6877.39
+    },
+    {
+      "lokal_na_pangalan": "Loro",
+      "pangalan_sa_ingles": "Parrot fish",
+      "produksiyon_2021_mt": 14335.61,
+      "produksiyon_2022_mt": 12117.25,
+      "produksiyon_2023_mt": 8245.64,
+      "produksiyon_2024_mt": 5490.13,
+      "produksiyon_2025_mt": 6467.05
+    },
+    {
+      "lokal_na_pangalan": "Pargo",
+      "pangalan_sa_ingles": "Porgies",
+      "produksiyon_2021_mt": 11061.99,
+      "produksiyon_2022_mt": 11143.96,
+      "produksiyon_2023_mt": 10026.63,
+      "produksiyon_2024_mt": 10055.5,
+      "produksiyon_2025_mt": 6656.31
+    },
+    {
+      "lokal_na_pangalan": "Tulis",
+      "pangalan_sa_ingles": "Round herring",
+      "produksiyon_2021_mt": 5581.13,
+      "produksiyon_2022_mt": 5736.33,
+      "produksiyon_2023_mt": 4834.88,
+      "produksiyon_2024_mt": 5454.48,
+      "produksiyon_2025_mt": 4867.42
+    },
+    {
+      "lokal_na_pangalan": "Galunggong",
+      "pangalan_sa_ingles": "Roundscad",
+      "produksiyon_2021_mt": 181516.46,
+      "produksiyon_2022_mt": 172266.77,
+      "produksiyon_2023_mt": 191073.77,
+      "produksiyon_2024_mt": 170803.89,
+      "produksiyon_2025_mt": 170573.98
+    },
+    {
+      "lokal_na_pangalan": "Samaral",
+      "pangalan_sa_ingles": "Siganid",
+      "produksiyon_2021_mt": 23584.31,
+      "produksiyon_2022_mt": 18993.91,
+      "produksiyon_2023_mt": 16700.39,
+      "produksiyon_2024_mt": 11695.47,
+      "produksiyon_2025_mt": 15243.77
+    },
+    {
+      "lokal_na_pangalan": "Gulyasan",
+      "pangalan_sa_ingles": "Skipjack",
+      "produksiyon_2021_mt": 243136.54,
+      "produksiyon_2022_mt": 256837.26,
+      "produksiyon_2023_mt": 211536.91,
+      "produksiyon_2024_mt": 284657.51,
+      "produksiyon_2025_mt": 274393.4
+    },
+    {
+      "lokal_na_pangalan": "Sapsap",
+      "pangalan_sa_ingles": "Slipmouth",
+      "produksiyon_2021_mt": 39704.63,
+      "produksiyon_2022_mt": 33920.46,
+      "produksiyon_2023_mt": 29530.85,
+      "produksiyon_2024_mt": 22689.22,
+      "produksiyon_2025_mt": 23724.25
+    },
+    {
+      "lokal_na_pangalan": "Maya-maya",
+      "pangalan_sa_ingles": "Snapper",
+      "produksiyon_2021_mt": 17814.27,
+      "produksiyon_2022_mt": 13006.1,
+      "produksiyon_2023_mt": 11277.69,
+      "produksiyon_2024_mt": 13196.38,
+      "produksiyon_2025_mt": 13195.58
+    },
+    {
+      "lokal_na_pangalan": "Tanigue",
+      "pangalan_sa_ingles": "Spanish mackerel",
+      "produksiyon_2021_mt": 18134.17,
+      "produksiyon_2022_mt": 14325.35,
+      "produksiyon_2023_mt": 13564.24,
+      "produksiyon_2024_mt": 10352.14,
+      "produksiyon_2025_mt": 13294.69
+    },
+    {
+      "lokal_na_pangalan": "Pusit",
+      "pangalan_sa_ingles": "Squid",
+      "produksiyon_2021_mt": 46445.02,
+      "produksiyon_2022_mt": 57302.61,
+      "produksiyon_2023_mt": 51404.78,
+      "produksiyon_2024_mt": 48794.91,
+      "produksiyon_2025_mt": 55651.13
+    },
+    {
+      "lokal_na_pangalan": "Bisugo",
+      "pangalan_sa_ingles": "Threadfin bream",
+      "produksiyon_2021_mt": 35286.68,
+      "produksiyon_2022_mt": 33973.38,
+      "produksiyon_2023_mt": 26803.28,
+      "produksiyon_2024_mt": 24824.68,
+      "produksiyon_2025_mt": 23018.88
+    },
+    {
+      "lokal_na_pangalan": "Tambakol/Bariles",
+      "pangalan_sa_ingles": "Yellowfin tuna",
+      "produksiyon_2021_mt": 74131.49,
+      "produksiyon_2022_mt": 84755.06,
+      "produksiyon_2023_mt": 88706.56,
+      "produksiyon_2024_mt": 91740.57,
+      "produksiyon_2025_mt": 96166.65
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Milkfish",
+      "produksiyon_2021_mt": 446382.19,
+      "produksiyon_2022_mt": 390098.3,
+      "produksiyon_2023_mt": 355425.87,
+      "produksiyon_2024_mt": 361552.48,
+      "produksiyon_2025_mt": 402648.29
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Tilapia",
+      "produksiyon_2021_mt": 340071.42,
+      "produksiyon_2022_mt": 303953.1,
+      "produksiyon_2023_mt": 307878.28,
+      "produksiyon_2024_mt": 310427.86,
+      "produksiyon_2025_mt": 320304.64
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Tiger prawn",
+      "produksiyon_2021_mt": 42255.64,
+      "produksiyon_2022_mt": 33960.06,
+      "produksiyon_2023_mt": 27361.76,
+      "produksiyon_2024_mt": 23098.43,
+      "produksiyon_2025_mt": 21948.71
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Mudcrab",
+      "produksiyon_2021_mt": 26503.08,
+      "produksiyon_2022_mt": 18870.17,
+      "produksiyon_2023_mt": 15603.71,
+      "produksiyon_2024_mt": 11937.1,
+      "produksiyon_2025_mt": 10784.08
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Endeavor prawn",
+      "produksiyon_2021_mt": 1165.7,
+      "produksiyon_2022_mt": 715.94,
+      "produksiyon_2023_mt": 662.42,
+      "produksiyon_2024_mt": 1099.17,
+      "produksiyon_2025_mt": 755.79
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "White shrimp",
+      "produksiyon_2021_mt": 7693.91,
+      "produksiyon_2022_mt": 4304.09,
+      "produksiyon_2023_mt": 4799.08,
+      "produksiyon_2024_mt": 3715.77,
+      "produksiyon_2025_mt": 3006.88
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "P. Vannamei",
+      "produksiyon_2021_mt": 25903.2,
+      "produksiyon_2022_mt": 35942.73,
+      "produksiyon_2023_mt": 36370.88,
+      "produksiyon_2024_mt": 48685.38,
+      "produksiyon_2025_mt": 39787.37
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Spiny lobster",
+      "produksiyon_2021_mt": 6.39,
+      "produksiyon_2022_mt": 27.28,
+      "produksiyon_2023_mt": 42.91,
+      "produksiyon_2024_mt": 16.31,
+      "produksiyon_2025_mt": 56.6
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Carp",
+      "produksiyon_2021_mt": 32406.76,
+      "produksiyon_2022_mt": 26641.15,
+      "produksiyon_2023_mt": 28407.39,
+      "produksiyon_2024_mt": 27605.01,
+      "produksiyon_2025_mt": 27649.51
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Catfish",
+      "produksiyon_2021_mt": 22977.74,
+      "produksiyon_2022_mt": 23997.3,
+      "produksiyon_2023_mt": 22871.1,
+      "produksiyon_2024_mt": 25302.54,
+      "produksiyon_2025_mt": 27356.14
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Gourami",
+      "produksiyon_2021_mt": 16092,
+      "produksiyon_2022_mt": 16225.8,
+      "produksiyon_2023_mt": 16579.64,
+      "produksiyon_2024_mt": 15751.53,
+      "produksiyon_2025_mt": 15363.03
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Mudfish",
+      "produksiyon_2021_mt": 24071.47,
+      "produksiyon_2022_mt": 21926.03,
+      "produksiyon_2023_mt": 19279.12,
+      "produksiyon_2024_mt": 15447.48,
+      "produksiyon_2025_mt": 15710.18
+    },
+    {
+      "lokal_na_pangalan": "Ulang",
+      "pangalan_sa_ingles": "Freshwater prawn",
+      "produksiyon_2021_mt": 898.26,
+      "produksiyon_2022_mt": 691.36,
+      "produksiyon_2023_mt": 915.6,
+      "produksiyon_2024_mt": 1076.08,
+      "produksiyon_2025_mt": 815.74
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Oyster",
+      "produksiyon_2021_mt": 42290.74,
+      "produksiyon_2022_mt": 41052.96,
+      "produksiyon_2023_mt": 34082.87,
+      "produksiyon_2024_mt": 37169.44,
+      "produksiyon_2025_mt": 36354.38
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Mussel",
+      "produksiyon_2021_mt": 23707.06,
+      "produksiyon_2022_mt": 10892.42,
+      "produksiyon_2023_mt": 14375.69,
+      "produksiyon_2024_mt": 7576.14,
+      "produksiyon_2025_mt": 9469.86
+    },
+    {
+      "lokal_na_pangalan": "",
+      "pangalan_sa_ingles": "Seaweed",
+      "produksiyon_2021_mt": 1343706.55,
+      "produksiyon_2022_mt": 1544959.87,
+      "produksiyon_2023_mt": 1626245.11,
+      "produksiyon_2024_mt": 1455218.32,
+      "produksiyon_2025_mt": 1375543.5
+    },
+    {
+      "lokal_na_pangalan": "Martiniko",
+      "pangalan_sa_ingles": "Climbing perch",
+      "produksiyon_2021_mt": 2984.36,
+      "produksiyon_2022_mt": 2752.74,
+      "produksiyon_2023_mt": 1596.66,
+      "produksiyon_2024_mt": 6733.05,
+      "produksiyon_2025_mt": 8988.23
+    },
+    {
+      "lokal_na_pangalan": "Igat",
+      "pangalan_sa_ingles": "Eel",
+      "produksiyon_2021_mt": 2239.18,
+      "produksiyon_2022_mt": 1452.91,
+      "produksiyon_2023_mt": 3835.57,
+      "produksiyon_2024_mt": 2644.32,
+      "produksiyon_2025_mt": 3893.55
+    },
+    {
+      "lokal_na_pangalan": "Biya",
+      "pangalan_sa_ingles": "Freshwater goby",
+      "produksiyon_2021_mt": 2916.74,
+      "produksiyon_2022_mt": 3073.28,
+      "produksiyon_2023_mt": 2624.94,
+      "produksiyon_2024_mt": 2868.64,
+      "produksiyon_2025_mt": 2413.28
+    },
+    {
+      "lokal_na_pangalan": "Ludong",
+      "pangalan_sa_ingles": "Mullet",
+      "produksiyon_2021_mt": 136.49,
+      "produksiyon_2022_mt": 103.81,
+      "produksiyon_2023_mt": 169.43,
+      "produksiyon_2024_mt": 97.1,
+      "produksiyon_2025_mt": 16.29
+    },
+    {
+      "lokal_na_pangalan": "Tawilis",
+      "pangalan_sa_ingles": "Sardines",
+      "produksiyon_2021_mt": 630.05,
+      "produksiyon_2022_mt": 251.96,
+      "produksiyon_2023_mt": 456.53,
+      "produksiyon_2024_mt": 321.37,
+      "produksiyon_2025_mt": 297.56
+    },
+    {
+      "lokal_na_pangalan": "Ayungin",
+      "pangalan_sa_ingles": "Silver perch",
+      "produksiyon_2021_mt": 1496.32,
+      "produksiyon_2022_mt": 1311.58,
+      "produksiyon_2023_mt": 1114.41,
+      "produksiyon_2024_mt": 1719.13,
+      "produksiyon_2025_mt": 1330.2
+    },
+    {
+      "lokal_na_pangalan": "Kitang",
+      "pangalan_sa_ingles": "Spade fish",
+      "produksiyon_2021_mt": 257.72,
+      "produksiyon_2022_mt": 157.73,
+      "produksiyon_2023_mt": 171.11,
+      "produksiyon_2024_mt": 123.14,
+      "produksiyon_2025_mt": 68.4
+    },
+    {
+      "lokal_na_pangalan": "Dulong",
+      "pangalan_sa_ingles": "Starry goby",
+      "produksiyon_2021_mt": 792.42,
+      "produksiyon_2022_mt": 556.9,
+      "produksiyon_2023_mt": 2105.53,
+      "produksiyon_2024_mt": 1112.22,
+      "produksiyon_2025_mt": 1069.92
+    },
+    {
+      "lokal_na_pangalan": "Buan Buan",
+      "pangalan_sa_ingles": "Tarpon",
+      "produksiyon_2021_mt": 297.4,
+      "produksiyon_2022_mt": 156.64,
+      "produksiyon_2023_mt": 285.44,
+      "produksiyon_2024_mt": 296.23,
+      "produksiyon_2025_mt": 282.81
+    },
+    {
+      "lokal_na_pangalan": "Talangka",
+      "pangalan_sa_ingles": "Freshwater crab",
+      "produksiyon_2021_mt": 868.05,
+      "produksiyon_2022_mt": 821.46,
+      "produksiyon_2023_mt": 648.99,
+      "produksiyon_2024_mt": 2729.36,
+      "produksiyon_2025_mt": 4567.7
+    },
+    {
+      "lokal_na_pangalan": "Kabibi",
+      "pangalan_sa_ingles": "Clams",
+      "produksiyon_2021_mt": 811.3,
+      "produksiyon_2022_mt": 991.5,
+      "produksiyon_2023_mt": 792.44,
+      "produksiyon_2024_mt": 387.18,
+      "produksiyon_2025_mt": 526.44
+    },
+    {
+      "lokal_na_pangalan": "Tulya",
+      "pangalan_sa_ingles": "Freshwater clams",
+      "produksiyon_2021_mt": 2030.47,
+      "produksiyon_2022_mt": 1217.47,
+      "produksiyon_2023_mt": 1364.17,
+      "produksiyon_2024_mt": 2645.49,
+      "produksiyon_2025_mt": 1850.57
+    },
+    {
+      "lokal_na_pangalan": "Kuhol",
+      "pangalan_sa_ingles": "Shell",
+      "produksiyon_2021_mt": 507.57,
+      "produksiyon_2022_mt": 350.14,
+      "produksiyon_2023_mt": 372.55,
+      "produksiyon_2024_mt": 338.89,
+      "produksiyon_2025_mt": 1182.14
+    },
+    {
+      "lokal_na_pangalan": "Suso",
+      "pangalan_sa_ingles": "Snail",
+      "produksiyon_2021_mt": 25285.2,
+      "produksiyon_2022_mt": 21321.13,
+      "produksiyon_2023_mt": 19328.74,
+      "produksiyon_2024_mt": 20189.57,
+      "produksiyon_2025_mt": 25233.27
+    }
+  ],
+  "meta": {
+    "title": "Produksiyon ng Isda at Lamang-dagat ayon sa Uri (2021–2025) - Free Download",
+    "description": "Taunang dami ng produksiyon ng pangisdaan sa Pilipinas (komersiyal, munisipal at akwakultura) ayon sa uri ng isda, hipon, alimango, pusit at iba pa, kasama ang lokal na pangalan, 2021–2025, sa metrikong tonelada (PSA OpenSTAT). Contains 61 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produksiyon ng Isda at Lamang-dagat ayon sa Uri (2021–2025) | ListBase",
+    "seo_description": "Download Produksiyon ng Isda at Lamang-dagat ayon sa Uri (2021–2025) — 61 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 61 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__FS/0112E4GVFP0.px/"
+    ]
+  }
+}

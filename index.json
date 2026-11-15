@@ -1,12 +1,12 @@
 {
   "lang": "tl",
-  "generated": "2026-11-15T02:09:38.259Z",
-  "total_datasets": 527,
-  "total_records": 449047,
+  "generated": "2026-11-15T02:09:48.710Z",
+  "total_datasets": 528,
+  "total_records": 449108,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -176,6 +176,34 @@
         "xlsx": {
           "name": "tl-mga-prutas-at-gulay_TL.xlsx",
           "size": 8441
+        }
+      }
+    },
+    {
+      "id": "tl-produksiyon-ng-isda-ayon-sa-uri",
+      "name": "Produksiyon ng Isda at Lamang-dagat ayon sa Uri (2021–2025)",
+      "category": "agriculture",
+      "record_count": 61,
+      "columns": [
+        "lokal_na_pangalan",
+        "pangalan_sa_ingles",
+        "produksiyon_2021_mt",
+        "produksiyon_2022_mt",
+        "produksiyon_2023_mt",
+        "produksiyon_2024_mt",
+        "produksiyon_2025_mt"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__FS/0112E4GVFP0.px/",
+      "updated": "2026-11",
+      "size": 19669,
+      "files": {
+        "csv": {
+          "name": "tl-produksiyon-ng-isda-ayon-sa-uri_TL.csv",
+          "size": 4668
+        },
+        "xlsx": {
+          "name": "tl-produksiyon-ng-isda-ayon-sa-uri_TL.xlsx",
+          "size": 10589
         }
       }
     },
