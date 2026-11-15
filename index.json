@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-14T02:03:47.137Z",
-  "total_datasets": 526,
-  "total_records": 449032,
+  "generated": "2026-11-15T02:09:38.259Z",
+  "total_datasets": 527,
+  "total_records": 449047,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -15044,6 +15044,36 @@
         "xlsx": {
           "name": "tl-mga-pista-opisyal_TL.xlsx",
           "size": 43839
+        }
+      }
+    },
+    {
+      "id": "tl-mga-relatibong-pananalita-ng-panahon",
+      "name": "Mga Relatibong Pananalita ng Panahon sa Filipino (kahapon, bukas, susunod na linggo…)",
+      "category": "time",
+      "record_count": 15,
+      "columns": [
+        "field",
+        "pangalan",
+        "dalawang_nakaraan",
+        "nakaraan",
+        "ngayon",
+        "susunod",
+        "dalawang_susunod",
+        "pattern_hinaharap",
+        "pattern_nakaraan"
+      ],
+      "source": "https://github.com/unicode-org/cldr/blob/main/common/main/fil.xml",
+      "updated": "2026-11",
+      "size": 7545,
+      "files": {
+        "csv": {
+          "name": "tl-mga-relatibong-pananalita-ng-panahon_TL.csv",
+          "size": 1923
+        },
+        "xlsx": {
+          "name": "tl-mga-relatibong-pananalita-ng-panahon_TL.xlsx",
+          "size": 7830
         }
       }
     },

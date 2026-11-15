@@ -1,0 +1,236 @@
+{
+  "id": "tl-mga-relatibong-pananalita-ng-panahon",
+  "name": "Mga Relatibong Pananalita ng Panahon sa Filipino (kahapon, bukas, susunod na linggo…)",
+  "title": "Mga Relatibong Pananalita ng Panahon sa Filipino (kahapon, bukas, susunod na linggo…)",
+  "description": "Mga pananalitang Filipino para sa relatibong panahon — kahapon, bukas, ngayong taon, susunod na Lunes, \"sa {0} araw\", \"{0} oras ang nakalipas\" — para sa bawat yunit ng panahon at araw ng linggo, mula sa Unicode CLDR.",
+  "category": "time",
+  "source": "https://github.com/unicode-org/cldr/blob/main/common/main/fil.xml",
+  "source_url": "https://github.com/unicode-org/cldr/blob/main/common/main/fil.xml",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "dalawang_nakaraan",
+      "label": "Dalawang Nakaraan",
+      "type": "string"
+    },
+    {
+      "key": "nakaraan",
+      "label": "Nakaraan",
+      "type": "string"
+    },
+    {
+      "key": "ngayon",
+      "label": "Ngayon",
+      "type": "string"
+    },
+    {
+      "key": "susunod",
+      "label": "Susunod",
+      "type": "string"
+    },
+    {
+      "key": "dalawang_susunod",
+      "label": "Dalawang Susunod",
+      "type": "string"
+    },
+    {
+      "key": "pattern_hinaharap",
+      "label": "Pattern Hinaharap",
+      "type": "string"
+    },
+    {
+      "key": "pattern_nakaraan",
+      "label": "Pattern Nakaraan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "field": "year",
+      "pangalan": "taon",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakaraang taon",
+      "ngayon": "ngayong taon",
+      "susunod": "susunod na taon",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} taon",
+      "pattern_nakaraan": "{0} taon ang nakalipas"
+    },
+    {
+      "field": "quarter",
+      "pangalan": "quarter",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakaraang quarter",
+      "ngayon": "ngayong quarter",
+      "susunod": "susunod na quarter",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} quarter",
+      "pattern_nakaraan": "{0} quarter ang nakalipas"
+    },
+    {
+      "field": "month",
+      "pangalan": "buwan",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakaraang buwan",
+      "ngayon": "ngayong buwan",
+      "susunod": "susunod na buwan",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} buwan",
+      "pattern_nakaraan": "{0} buwan ang nakalipas"
+    },
+    {
+      "field": "week",
+      "pangalan": "linggo",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakalipas na linggo",
+      "ngayon": "sa linggong ito",
+      "susunod": "susunod na linggo",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} linggo",
+      "pattern_nakaraan": "{0} linggo ang nakalipas"
+    },
+    {
+      "field": "day",
+      "pangalan": "araw",
+      "dalawang_nakaraan": "Araw bago ang kahapon",
+      "nakaraan": "kahapon",
+      "ngayon": "ngayong araw",
+      "susunod": "bukas",
+      "dalawang_susunod": "Samakalawa",
+      "pattern_hinaharap": "sa {0} araw",
+      "pattern_nakaraan": "{0} araw ang nakalipas"
+    },
+    {
+      "field": "sun",
+      "pangalan": "Linggo",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakaraang linggo",
+      "ngayon": "sa Linggo",
+      "susunod": "susunod na Linggo",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} Linggo",
+      "pattern_nakaraan": "{0} (na) Linggo ang nakalipas"
+    },
+    {
+      "field": "mon",
+      "pangalan": "Lunes",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakaraang Lunes",
+      "ngayon": "ngayong Lunes",
+      "susunod": "susunod na Lunes",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} (na) Lunes",
+      "pattern_nakaraan": "{0} (na) Lunes ang nakalipas"
+    },
+    {
+      "field": "tue",
+      "pangalan": "Martes",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakaraang Martes",
+      "ngayon": "ngayong Martes",
+      "susunod": "susunod na Martes",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} (na) Martes",
+      "pattern_nakaraan": "{0} (na) Martes ang nakalipas"
+    },
+    {
+      "field": "wed",
+      "pangalan": "Miyerkules",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakaraang Miyerkules",
+      "ngayon": "ngayong Miyerkules",
+      "susunod": "susunod na Miyerkules",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} (na) Miyerkules",
+      "pattern_nakaraan": "{0} (na) Miyerkules ang nakalipas"
+    },
+    {
+      "field": "thu",
+      "pangalan": "Huwebes",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakaraang Huwebes",
+      "ngayon": "ngayong Huwebes",
+      "susunod": "susunod na Huwebes",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} (na) Huwebes",
+      "pattern_nakaraan": "{0} (na) Huwebes ang nakalipas"
+    },
+    {
+      "field": "fri",
+      "pangalan": "Biyernes",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakaraang Biyernes",
+      "ngayon": "ngayong Biyernes",
+      "susunod": "susunod na Biyernes",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} (na) Biyernes",
+      "pattern_nakaraan": "{0} (na) Biyernes ang nakalipas"
+    },
+    {
+      "field": "sat",
+      "pangalan": "Sabado",
+      "dalawang_nakaraan": "",
+      "nakaraan": "nakaraang Sabado",
+      "ngayon": "ngayong Sabado",
+      "susunod": "susunod na Sabado",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} (na) Sabado",
+      "pattern_nakaraan": "{0} (na) Sabado ang nakalipas"
+    },
+    {
+      "field": "hour",
+      "pangalan": "oras",
+      "dalawang_nakaraan": "",
+      "nakaraan": "",
+      "ngayon": "ngayong oras",
+      "susunod": "",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} oras",
+      "pattern_nakaraan": "{0} oras ang nakalipas"
+    },
+    {
+      "field": "minute",
+      "pangalan": "minuto",
+      "dalawang_nakaraan": "",
+      "nakaraan": "",
+      "ngayon": "sa minutong ito",
+      "susunod": "",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} minuto",
+      "pattern_nakaraan": "{0} minuto ang nakalipas"
+    },
+    {
+      "field": "second",
+      "pangalan": "segundo",
+      "dalawang_nakaraan": "",
+      "nakaraan": "",
+      "ngayon": "ngayon",
+      "susunod": "",
+      "dalawang_susunod": "",
+      "pattern_hinaharap": "sa {0} segundo",
+      "pattern_nakaraan": "{0} segundo ang nakalipas"
+    }
+  ],
+  "meta": {
+    "title": "Mga Relatibong Pananalita ng Panahon sa Filipino (kahapon, bukas, susunod na linggo…) - Free Download",
+    "description": "Mga pananalitang Filipino para sa relatibong panahon — kahapon, bukas, ngayong taon, susunod na Lunes, \"sa {0} araw\", \"{0} oras ang nakalipas\" — para sa bawat yunit ng panahon at araw ng linggo, mula sa Unicode CLDR. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Relatibong Pananalita ng Panahon sa Filipino (kahapon, bukas, susunod na linggo…) | ListBase",
+    "seo_description": "Download Mga Relatibong Pananalita ng Panahon sa Filipino (kahapon, bukas, susunod na linggo…) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr/blob/main/common/main/fil.xml"
+    ]
+  }
+}
