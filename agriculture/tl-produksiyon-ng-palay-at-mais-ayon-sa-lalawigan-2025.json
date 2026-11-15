@@ -1,0 +1,906 @@
+{
+  "id": "tl-produksiyon-ng-palay-at-mais-ayon-sa-lalawigan-2025",
+  "name": "Produksiyon ng Palay at Mais ayon sa Lalawigan (2025)",
+  "title": "Produksiyon ng Palay at Mais ayon sa Lalawigan (2025)",
+  "description": "Dami ng ani ng palay (irigado at sahod-ulan) at mais (puti at dilaw) sa bawat lalawigan ng Pilipinas noong 2025, sa metrikong tonelada, mula sa Philippine Statistics Authority (PSA OpenSTAT).",
+  "category": "agriculture",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__CS/0012E4EVCP0.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__CS/0012E4EVCP0.px/",
+  "updated": "2026-11",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "lalawigan",
+      "label": "Lalawigan",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "palay_irigado_mt",
+      "label": "Palay Irigado Mt",
+      "type": "number"
+    },
+    {
+      "key": "palay_sahod_ulan_mt",
+      "label": "Palay Sahod Ulan Mt",
+      "type": "number"
+    },
+    {
+      "key": "palay_kabuuan_mt",
+      "label": "Palay Kabuuan Mt",
+      "type": "number"
+    },
+    {
+      "key": "mais_puti_mt",
+      "label": "Mais Puti Mt",
+      "type": "number"
+    },
+    {
+      "key": "mais_dilaw_mt",
+      "label": "Mais Dilaw Mt",
+      "type": "number"
+    },
+    {
+      "key": "mais_kabuuan_mt",
+      "label": "Mais Kabuuan Mt",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lalawigan": "Abra",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "palay_irigado_mt": 51901.3,
+      "palay_sahod_ulan_mt": 21426.3,
+      "palay_kabuuan_mt": 73327.6,
+      "mais_puti_mt": 15439,
+      "mais_dilaw_mt": 1266,
+      "mais_kabuuan_mt": 16705
+    },
+    {
+      "lalawigan": "Apayao",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "palay_irigado_mt": 41739.54,
+      "palay_sahod_ulan_mt": 21372.87,
+      "palay_kabuuan_mt": 63112.41,
+      "mais_puti_mt": 5.92,
+      "mais_dilaw_mt": 12760.7,
+      "mais_kabuuan_mt": 12766.62
+    },
+    {
+      "lalawigan": "Benguet",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "palay_irigado_mt": 16997.25,
+      "palay_sahod_ulan_mt": 2163,
+      "palay_kabuuan_mt": 19160.25,
+      "mais_puti_mt": 179.7,
+      "mais_dilaw_mt": 232,
+      "mais_kabuuan_mt": 411.7
+    },
+    {
+      "lalawigan": "Ifugao",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "palay_irigado_mt": 29702.82,
+      "palay_sahod_ulan_mt": 2406.55,
+      "palay_kabuuan_mt": 32109.37,
+      "mais_puti_mt": 12.83,
+      "mais_dilaw_mt": 61959.76,
+      "mais_kabuuan_mt": 61972.58
+    },
+    {
+      "lalawigan": "Kalinga",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "palay_irigado_mt": 133721.1,
+      "palay_sahod_ulan_mt": 4832.86,
+      "palay_kabuuan_mt": 138553.96,
+      "mais_puti_mt": 944,
+      "mais_dilaw_mt": 68477,
+      "mais_kabuuan_mt": 69421
+    },
+    {
+      "lalawigan": "Mountain Province",
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "palay_irigado_mt": 11092,
+      "palay_sahod_ulan_mt": 1894.19,
+      "palay_kabuuan_mt": 12986.2,
+      "mais_puti_mt": 27.23,
+      "mais_dilaw_mt": 23049.1,
+      "mais_kabuuan_mt": 23076.33
+    },
+    {
+      "lalawigan": "Ilocos Norte",
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "palay_irigado_mt": 299859.8,
+      "palay_sahod_ulan_mt": 49394.66,
+      "palay_kabuuan_mt": 349254.46,
+      "mais_puti_mt": 9510.9,
+      "mais_dilaw_mt": 62151.39,
+      "mais_kabuuan_mt": 71662.29
+    },
+    {
+      "lalawigan": "Ilocos Sur",
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "palay_irigado_mt": 150517,
+      "palay_sahod_ulan_mt": 77081.5,
+      "palay_kabuuan_mt": 227598.5,
+      "mais_puti_mt": 8769.7,
+      "mais_dilaw_mt": 87529,
+      "mais_kabuuan_mt": 96298.7
+    },
+    {
+      "lalawigan": "La Union",
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "palay_irigado_mt": 112392.57,
+      "palay_sahod_ulan_mt": 61212.05,
+      "palay_kabuuan_mt": 173604.62,
+      "mais_puti_mt": 8928.64,
+      "mais_dilaw_mt": 29648.3,
+      "mais_kabuuan_mt": 38576.94
+    },
+    {
+      "lalawigan": "Pangasinan",
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "palay_irigado_mt": 839928.97,
+      "palay_sahod_ulan_mt": 373383,
+      "palay_kabuuan_mt": 1213311.97,
+      "mais_puti_mt": 10766,
+      "mais_dilaw_mt": 354854,
+      "mais_kabuuan_mt": 365620
+    },
+    {
+      "lalawigan": "Batanes",
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "palay_irigado_mt": 0,
+      "palay_sahod_ulan_mt": 110.58,
+      "palay_kabuuan_mt": 110.58,
+      "mais_puti_mt": 194.76,
+      "mais_dilaw_mt": 218.04,
+      "mais_kabuuan_mt": 412.8
+    },
+    {
+      "lalawigan": "Cagayan",
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "palay_irigado_mt": 917540,
+      "palay_sahod_ulan_mt": 173108.2,
+      "palay_kabuuan_mt": 1090648.2,
+      "mais_puti_mt": 4837,
+      "mais_dilaw_mt": 589288,
+      "mais_kabuuan_mt": 594125
+    },
+    {
+      "lalawigan": "Isabela",
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "palay_irigado_mt": 1434238.77,
+      "palay_sahod_ulan_mt": 77144.99,
+      "palay_kabuuan_mt": 1511383.75,
+      "mais_puti_mt": 5678.6,
+      "mais_dilaw_mt": 1096483.95,
+      "mais_kabuuan_mt": 1102162.56
+    },
+    {
+      "lalawigan": "Nueva Vizcaya",
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "palay_irigado_mt": 294161.4,
+      "palay_sahod_ulan_mt": 5199.86,
+      "palay_kabuuan_mt": 299361.26,
+      "mais_puti_mt": 1279.17,
+      "mais_dilaw_mt": 80058.82,
+      "mais_kabuuan_mt": 81337.99
+    },
+    {
+      "lalawigan": "Quirino",
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "palay_irigado_mt": 104798.89,
+      "palay_sahod_ulan_mt": 8604.58,
+      "palay_kabuuan_mt": 113403.47,
+      "mais_puti_mt": 285.58,
+      "mais_dilaw_mt": 174525.15,
+      "mais_kabuuan_mt": 174810.73
+    },
+    {
+      "lalawigan": "Aurora",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "palay_irigado_mt": 81181.11,
+      "palay_sahod_ulan_mt": 1226.04,
+      "palay_kabuuan_mt": 82407.15,
+      "mais_puti_mt": 244.32,
+      "mais_dilaw_mt": 11573.31,
+      "mais_kabuuan_mt": 11817.63
+    },
+    {
+      "lalawigan": "Bataan",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "palay_irigado_mt": 105191.85,
+      "palay_sahod_ulan_mt": 0,
+      "palay_kabuuan_mt": 105191.85,
+      "mais_puti_mt": 9.15,
+      "mais_dilaw_mt": 1812.65,
+      "mais_kabuuan_mt": 1821.8
+    },
+    {
+      "lalawigan": "Bulacan",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "palay_irigado_mt": 323853,
+      "palay_sahod_ulan_mt": 32423,
+      "palay_kabuuan_mt": 356276,
+      "mais_puti_mt": 1016,
+      "mais_dilaw_mt": 463,
+      "mais_kabuuan_mt": 1479
+    },
+    {
+      "lalawigan": "Nueva Ecija",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "palay_irigado_mt": 1801091.96,
+      "palay_sahod_ulan_mt": 3802.12,
+      "palay_kabuuan_mt": 1804894.08,
+      "mais_puti_mt": 12236.49,
+      "mais_dilaw_mt": 19986.69,
+      "mais_kabuuan_mt": 32223.18
+    },
+    {
+      "lalawigan": "Pampanga",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "palay_irigado_mt": 418908.75,
+      "palay_sahod_ulan_mt": 0,
+      "palay_kabuuan_mt": 418908.75,
+      "mais_puti_mt": 10124.72,
+      "mais_dilaw_mt": 46168.11,
+      "mais_kabuuan_mt": 56292.83
+    },
+    {
+      "lalawigan": "Tarlac",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "palay_irigado_mt": 607263.45,
+      "palay_sahod_ulan_mt": 15659.15,
+      "palay_kabuuan_mt": 622922.6,
+      "mais_puti_mt": 1206,
+      "mais_dilaw_mt": 141747,
+      "mais_kabuuan_mt": 142953
+    },
+    {
+      "lalawigan": "Zambales",
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "palay_irigado_mt": 117695.44,
+      "palay_sahod_ulan_mt": 32895.15,
+      "palay_kabuuan_mt": 150590.59,
+      "mais_puti_mt": 67.3,
+      "mais_dilaw_mt": 2812.85,
+      "mais_kabuuan_mt": 2880.15
+    },
+    {
+      "lalawigan": "Batangas",
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "palay_irigado_mt": 20716,
+      "palay_sahod_ulan_mt": 5970.5,
+      "palay_kabuuan_mt": 26686.5,
+      "mais_puti_mt": 5017.75,
+      "mais_dilaw_mt": 6719.43,
+      "mais_kabuuan_mt": 11737.18
+    },
+    {
+      "lalawigan": "Cavite",
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "palay_irigado_mt": 18818.75,
+      "palay_sahod_ulan_mt": 348.03,
+      "palay_kabuuan_mt": 19166.78,
+      "mais_puti_mt": 830.61,
+      "mais_dilaw_mt": 460.6,
+      "mais_kabuuan_mt": 1291.21
+    },
+    {
+      "lalawigan": "Laguna",
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "palay_irigado_mt": 163558.96,
+      "palay_sahod_ulan_mt": 6032.09,
+      "palay_kabuuan_mt": 169591.04,
+      "mais_puti_mt": 3780.08,
+      "mais_dilaw_mt": 3122.19,
+      "mais_kabuuan_mt": 6902.27
+    },
+    {
+      "lalawigan": "Quezon",
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "palay_irigado_mt": 102209.85,
+      "palay_sahod_ulan_mt": 48342.5,
+      "palay_kabuuan_mt": 150552.35,
+      "mais_puti_mt": 6486.16,
+      "mais_dilaw_mt": 23281.37,
+      "mais_kabuuan_mt": 29767.53
+    },
+    {
+      "lalawigan": "Rizal",
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "palay_irigado_mt": 16885.69,
+      "palay_sahod_ulan_mt": 1228,
+      "palay_kabuuan_mt": 18113.69,
+      "mais_puti_mt": 280.03,
+      "mais_dilaw_mt": 600.99,
+      "mais_kabuuan_mt": 881.02
+    },
+    {
+      "lalawigan": "Marinduque",
+      "rehiyon": "MIMAROPA REGION",
+      "palay_irigado_mt": 11507.08,
+      "palay_sahod_ulan_mt": 8856.07,
+      "palay_kabuuan_mt": 20363.15,
+      "mais_puti_mt": 763.01,
+      "mais_dilaw_mt": 571.5,
+      "mais_kabuuan_mt": 1334.51
+    },
+    {
+      "lalawigan": "Occidental Mindoro",
+      "rehiyon": "MIMAROPA REGION",
+      "palay_irigado_mt": 348828.29,
+      "palay_sahod_ulan_mt": 97435.33,
+      "palay_kabuuan_mt": 446263.62,
+      "mais_puti_mt": 1435.61,
+      "mais_dilaw_mt": 98522.85,
+      "mais_kabuuan_mt": 99958.46
+    },
+    {
+      "lalawigan": "Oriental Mindoro",
+      "rehiyon": "MIMAROPA REGION",
+      "palay_irigado_mt": 308366.66,
+      "palay_sahod_ulan_mt": 49749.09,
+      "palay_kabuuan_mt": 358115.76,
+      "mais_puti_mt": 228.37,
+      "mais_dilaw_mt": 4317.55,
+      "mais_kabuuan_mt": 4545.92
+    },
+    {
+      "lalawigan": "Palawan",
+      "rehiyon": "MIMAROPA REGION",
+      "palay_irigado_mt": 280078.71,
+      "palay_sahod_ulan_mt": 174448.89,
+      "palay_kabuuan_mt": 454527.6,
+      "mais_puti_mt": 4499.98,
+      "mais_dilaw_mt": 14175.72,
+      "mais_kabuuan_mt": 18675.7
+    },
+    {
+      "lalawigan": "Romblon",
+      "rehiyon": "MIMAROPA REGION",
+      "palay_irigado_mt": 20557,
+      "palay_sahod_ulan_mt": 14393,
+      "palay_kabuuan_mt": 34950,
+      "mais_puti_mt": 1132,
+      "mais_dilaw_mt": 332,
+      "mais_kabuuan_mt": 1464
+    },
+    {
+      "lalawigan": "Albay",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "palay_irigado_mt": 177262.61,
+      "palay_sahod_ulan_mt": 33692.2,
+      "palay_kabuuan_mt": 210954.81,
+      "mais_puti_mt": 6128.5,
+      "mais_dilaw_mt": 24310.84,
+      "mais_kabuuan_mt": 30439.34
+    },
+    {
+      "lalawigan": "Camarines Norte",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "palay_irigado_mt": 61204.01,
+      "palay_sahod_ulan_mt": 29116.76,
+      "palay_kabuuan_mt": 90320.77,
+      "mais_puti_mt": 1044.48,
+      "mais_dilaw_mt": 539.63,
+      "mais_kabuuan_mt": 1584.1
+    },
+    {
+      "lalawigan": "Camarines Sur",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "palay_irigado_mt": 495077,
+      "palay_sahod_ulan_mt": 135593,
+      "palay_kabuuan_mt": 630670,
+      "mais_puti_mt": 18018,
+      "mais_dilaw_mt": 158034,
+      "mais_kabuuan_mt": 176052
+    },
+    {
+      "lalawigan": "Catanduanes",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "palay_irigado_mt": 11668.5,
+      "palay_sahod_ulan_mt": 13933.69,
+      "palay_kabuuan_mt": 25602.19,
+      "mais_puti_mt": 17.64,
+      "mais_dilaw_mt": 0,
+      "mais_kabuuan_mt": 17.64
+    },
+    {
+      "lalawigan": "Masbate",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "palay_irigado_mt": 43585,
+      "palay_sahod_ulan_mt": 125767,
+      "palay_kabuuan_mt": 169352,
+      "mais_puti_mt": 30327.16,
+      "mais_dilaw_mt": 4025,
+      "mais_kabuuan_mt": 34352.16
+    },
+    {
+      "lalawigan": "Sorsogon",
+      "rehiyon": "REGION V (BICOL REGION)",
+      "palay_irigado_mt": 80505.44,
+      "palay_sahod_ulan_mt": 23326.14,
+      "palay_kabuuan_mt": 103831.57,
+      "mais_puti_mt": 204.66,
+      "mais_dilaw_mt": 91.71,
+      "mais_kabuuan_mt": 296.37
+    },
+    {
+      "lalawigan": "Aklan",
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "palay_irigado_mt": 43838,
+      "palay_sahod_ulan_mt": 29541.4,
+      "palay_kabuuan_mt": 73379.4,
+      "mais_puti_mt": 279.2,
+      "mais_dilaw_mt": 790.74,
+      "mais_kabuuan_mt": 1069.94
+    },
+    {
+      "lalawigan": "Antique",
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "palay_irigado_mt": 142285.98,
+      "palay_sahod_ulan_mt": 58047.61,
+      "palay_kabuuan_mt": 200333.59,
+      "mais_puti_mt": 1114.12,
+      "mais_dilaw_mt": 7962.82,
+      "mais_kabuuan_mt": 9076.94
+    },
+    {
+      "lalawigan": "Capiz",
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "palay_irigado_mt": 94921.38,
+      "palay_sahod_ulan_mt": 226752.55,
+      "palay_kabuuan_mt": 321673.93,
+      "mais_puti_mt": 2203.55,
+      "mais_dilaw_mt": 79308.6,
+      "mais_kabuuan_mt": 81512.14
+    },
+    {
+      "lalawigan": "Guimaras",
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "palay_irigado_mt": 15870,
+      "palay_sahod_ulan_mt": 36648.9,
+      "palay_kabuuan_mt": 52518.9,
+      "mais_puti_mt": 431.35,
+      "mais_dilaw_mt": 602.1,
+      "mais_kabuuan_mt": 1033.45
+    },
+    {
+      "lalawigan": "Iloilo",
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "palay_irigado_mt": 393700.64,
+      "palay_sahod_ulan_mt": 444151.57,
+      "palay_kabuuan_mt": 837852.21,
+      "mais_puti_mt": 4298.82,
+      "mais_dilaw_mt": 104867.28,
+      "mais_kabuuan_mt": 109166.1
+    },
+    {
+      "lalawigan": "Negros Occidental",
+      "rehiyon": "NEGROS ISLAND REGION",
+      "palay_irigado_mt": 317782,
+      "palay_sahod_ulan_mt": 107376.37,
+      "palay_kabuuan_mt": 425158.37,
+      "mais_puti_mt": 33259,
+      "mais_dilaw_mt": 18581,
+      "mais_kabuuan_mt": 51840
+    },
+    {
+      "lalawigan": "Negros Oriental",
+      "rehiyon": "NEGROS ISLAND REGION",
+      "palay_irigado_mt": 77701,
+      "palay_sahod_ulan_mt": 18784.2,
+      "palay_kabuuan_mt": 96485.2,
+      "mais_puti_mt": 44955.45,
+      "mais_dilaw_mt": 1908.41,
+      "mais_kabuuan_mt": 46863.86
+    },
+    {
+      "lalawigan": "Siquijor",
+      "rehiyon": "NEGROS ISLAND REGION",
+      "palay_irigado_mt": 1730.58,
+      "palay_sahod_ulan_mt": 248.3,
+      "palay_kabuuan_mt": 1978.88,
+      "mais_puti_mt": 854.21,
+      "mais_dilaw_mt": 171,
+      "mais_kabuuan_mt": 1025.21
+    },
+    {
+      "lalawigan": "Bohol",
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "palay_irigado_mt": 163832.27,
+      "palay_sahod_ulan_mt": 72055.02,
+      "palay_kabuuan_mt": 235887.29,
+      "mais_puti_mt": 7270.05,
+      "mais_dilaw_mt": 3144.06,
+      "mais_kabuuan_mt": 10414.11
+    },
+    {
+      "lalawigan": "Cebu",
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "palay_irigado_mt": 11146.7,
+      "palay_sahod_ulan_mt": 1569.99,
+      "palay_kabuuan_mt": 12716.69,
+      "mais_puti_mt": 55144,
+      "mais_dilaw_mt": 3496,
+      "mais_kabuuan_mt": 58640
+    },
+    {
+      "lalawigan": "Biliran",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "palay_irigado_mt": 47562,
+      "palay_sahod_ulan_mt": 0,
+      "palay_kabuuan_mt": 47562,
+      "mais_puti_mt": 425,
+      "mais_dilaw_mt": 140.5,
+      "mais_kabuuan_mt": 565.5
+    },
+    {
+      "lalawigan": "Eastern Samar",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "palay_irigado_mt": 10757.35,
+      "palay_sahod_ulan_mt": 46863.8,
+      "palay_kabuuan_mt": 57621.15,
+      "mais_puti_mt": 128.87,
+      "mais_dilaw_mt": 14.7,
+      "mais_kabuuan_mt": 143.57
+    },
+    {
+      "lalawigan": "Leyte",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "palay_irigado_mt": 345921.15,
+      "palay_sahod_ulan_mt": 96618.01,
+      "palay_kabuuan_mt": 442539.16,
+      "mais_puti_mt": 28953.25,
+      "mais_dilaw_mt": 2309,
+      "mais_kabuuan_mt": 31262.25
+    },
+    {
+      "lalawigan": "Northern Samar",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "palay_irigado_mt": 7588,
+      "palay_sahod_ulan_mt": 68452,
+      "palay_kabuuan_mt": 76040,
+      "mais_puti_mt": 10217,
+      "mais_dilaw_mt": 2121,
+      "mais_kabuuan_mt": 12338
+    },
+    {
+      "lalawigan": "Samar",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "palay_irigado_mt": 21806.9,
+      "palay_sahod_ulan_mt": 106815.58,
+      "palay_kabuuan_mt": 128622.49,
+      "mais_puti_mt": 13063.2,
+      "mais_dilaw_mt": 1056.66,
+      "mais_kabuuan_mt": 14119.86
+    },
+    {
+      "lalawigan": "Southern Leyte",
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "palay_irigado_mt": 47896.4,
+      "palay_sahod_ulan_mt": 2769,
+      "palay_kabuuan_mt": 50665.4,
+      "mais_puti_mt": 531,
+      "mais_dilaw_mt": 156,
+      "mais_kabuuan_mt": 687
+    },
+    {
+      "lalawigan": "Zamboanga del Norte",
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "palay_irigado_mt": 67063.44,
+      "palay_sahod_ulan_mt": 62234.14,
+      "palay_kabuuan_mt": 129297.58,
+      "mais_puti_mt": 48027.8,
+      "mais_dilaw_mt": 8727.9,
+      "mais_kabuuan_mt": 56755.71
+    },
+    {
+      "lalawigan": "Zamboanga del Sur",
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "palay_irigado_mt": 309682.79,
+      "palay_sahod_ulan_mt": 109365.8,
+      "palay_kabuuan_mt": 419048.59,
+      "mais_puti_mt": 88408.7,
+      "mais_dilaw_mt": 24286.09,
+      "mais_kabuuan_mt": 112694.79
+    },
+    {
+      "lalawigan": "Zamboanga Sibugay",
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "palay_irigado_mt": 93808.51,
+      "palay_sahod_ulan_mt": 91427.1,
+      "palay_kabuuan_mt": 185235.61,
+      "mais_puti_mt": 15497.45,
+      "mais_dilaw_mt": 3289.43,
+      "mais_kabuuan_mt": 18786.88
+    },
+    {
+      "lalawigan": "Zamboanga City",
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "palay_irigado_mt": 16336.88,
+      "palay_sahod_ulan_mt": 2970.01,
+      "palay_kabuuan_mt": 19306.89,
+      "mais_puti_mt": 6519.49,
+      "mais_dilaw_mt": 6019.16,
+      "mais_kabuuan_mt": 12538.65
+    },
+    {
+      "lalawigan": "Bukidnon",
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "palay_irigado_mt": 448882.78,
+      "palay_sahod_ulan_mt": 72024.58,
+      "palay_kabuuan_mt": 520907.36,
+      "mais_puti_mt": 113827.79,
+      "mais_dilaw_mt": 955641.59,
+      "mais_kabuuan_mt": 1069469.38
+    },
+    {
+      "lalawigan": "Camiguin",
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "palay_irigado_mt": 2186.14,
+      "palay_sahod_ulan_mt": 0,
+      "palay_kabuuan_mt": 2186.14,
+      "mais_puti_mt": 164.45,
+      "mais_dilaw_mt": 59.14,
+      "mais_kabuuan_mt": 223.59
+    },
+    {
+      "lalawigan": "Lanao del Norte",
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "palay_irigado_mt": 182900.12,
+      "palay_sahod_ulan_mt": 30263.63,
+      "palay_kabuuan_mt": 213163.75,
+      "mais_puti_mt": 268276.02,
+      "mais_dilaw_mt": 61237.56,
+      "mais_kabuuan_mt": 329513.58
+    },
+    {
+      "lalawigan": "Misamis Occidental",
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "palay_irigado_mt": 78099,
+      "palay_sahod_ulan_mt": 1543.1,
+      "palay_kabuuan_mt": 79642.1,
+      "mais_puti_mt": 19631.76,
+      "mais_dilaw_mt": 4428.5,
+      "mais_kabuuan_mt": 24060.26
+    },
+    {
+      "lalawigan": "Misamis Oriental",
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "palay_irigado_mt": 18572.49,
+      "palay_sahod_ulan_mt": 973.73,
+      "palay_kabuuan_mt": 19546.22,
+      "mais_puti_mt": 58844.6,
+      "mais_dilaw_mt": 45455.96,
+      "mais_kabuuan_mt": 104300.56
+    },
+    {
+      "lalawigan": "Davao de Oro (Compostela Valley)",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "palay_irigado_mt": 118753,
+      "palay_sahod_ulan_mt": 17935.44,
+      "palay_kabuuan_mt": 136688.44,
+      "mais_puti_mt": 36104.12,
+      "mais_dilaw_mt": 17731.48,
+      "mais_kabuuan_mt": 53835.6
+    },
+    {
+      "lalawigan": "Davao del Norte",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "palay_irigado_mt": 136323.71,
+      "palay_sahod_ulan_mt": 16812.03,
+      "palay_kabuuan_mt": 153135.74,
+      "mais_puti_mt": 30317.15,
+      "mais_dilaw_mt": 23497.37,
+      "mais_kabuuan_mt": 53814.52
+    },
+    {
+      "lalawigan": "Davao del Sur",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "palay_irigado_mt": 144391.23,
+      "palay_sahod_ulan_mt": 1086.73,
+      "palay_kabuuan_mt": 145477.96,
+      "mais_puti_mt": 41385.39,
+      "mais_dilaw_mt": 11933.02,
+      "mais_kabuuan_mt": 53318.41
+    },
+    {
+      "lalawigan": "Davao Occidental",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "palay_irigado_mt": 1991.44,
+      "palay_sahod_ulan_mt": 389.18,
+      "palay_kabuuan_mt": 2380.62,
+      "mais_puti_mt": 43904.7,
+      "mais_dilaw_mt": 7835.86,
+      "mais_kabuuan_mt": 51740.56
+    },
+    {
+      "lalawigan": "Davao Oriental",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "palay_irigado_mt": 61140.91,
+      "palay_sahod_ulan_mt": 11469.37,
+      "palay_kabuuan_mt": 72610.28,
+      "mais_puti_mt": 61215.64,
+      "mais_dilaw_mt": 2849.94,
+      "mais_kabuuan_mt": 64065.58
+    },
+    {
+      "lalawigan": "City of Davao",
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "palay_irigado_mt": 9870.9,
+      "palay_sahod_ulan_mt": 3291.92,
+      "palay_kabuuan_mt": 13162.82,
+      "mais_puti_mt": 10859.69,
+      "mais_dilaw_mt": 4561.35,
+      "mais_kabuuan_mt": 15421.04
+    },
+    {
+      "lalawigan": "Cotabato (North Cotabato)",
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "palay_irigado_mt": 383604,
+      "palay_sahod_ulan_mt": 90580,
+      "palay_kabuuan_mt": 474184,
+      "mais_puti_mt": 33779,
+      "mais_dilaw_mt": 228859,
+      "mais_kabuuan_mt": 262638
+    },
+    {
+      "lalawigan": "Sarangani",
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "palay_irigado_mt": 33945.37,
+      "palay_sahod_ulan_mt": 6976.41,
+      "palay_kabuuan_mt": 40921.78,
+      "mais_puti_mt": 80191.95,
+      "mais_dilaw_mt": 94530.96,
+      "mais_kabuuan_mt": 174722.91
+    },
+    {
+      "lalawigan": "South Cotabato",
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "palay_irigado_mt": 255047.14,
+      "palay_sahod_ulan_mt": 53070.83,
+      "palay_kabuuan_mt": 308117.97,
+      "mais_puti_mt": 36391.1,
+      "mais_dilaw_mt": 369575.89,
+      "mais_kabuuan_mt": 405966.99
+    },
+    {
+      "lalawigan": "Sultan Kudarat",
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "palay_irigado_mt": 327733,
+      "palay_sahod_ulan_mt": 53553,
+      "palay_kabuuan_mt": 381286,
+      "mais_puti_mt": 43730,
+      "mais_dilaw_mt": 198940,
+      "mais_kabuuan_mt": 242670
+    },
+    {
+      "lalawigan": "Agusan del Norte",
+      "rehiyon": "REGION XIII (CARAGA)",
+      "palay_irigado_mt": 71458,
+      "palay_sahod_ulan_mt": 13528,
+      "palay_kabuuan_mt": 84986,
+      "mais_puti_mt": 8822,
+      "mais_dilaw_mt": 10496,
+      "mais_kabuuan_mt": 19318
+    },
+    {
+      "lalawigan": "Agusan del Sur",
+      "rehiyon": "REGION XIII (CARAGA)",
+      "palay_irigado_mt": 162580.08,
+      "palay_sahod_ulan_mt": 147990.88,
+      "palay_kabuuan_mt": 310570.96,
+      "mais_puti_mt": 34513.57,
+      "mais_dilaw_mt": 67714.27,
+      "mais_kabuuan_mt": 102227.84
+    },
+    {
+      "lalawigan": "Dinagat Islands",
+      "rehiyon": "REGION XIII (CARAGA)",
+      "palay_irigado_mt": 4652.02,
+      "palay_sahod_ulan_mt": 2920.6,
+      "palay_kabuuan_mt": 7572.62,
+      "mais_puti_mt": 208.89,
+      "mais_dilaw_mt": 126.97,
+      "mais_kabuuan_mt": 335.86
+    },
+    {
+      "lalawigan": "Surigao del Norte",
+      "rehiyon": "REGION XIII (CARAGA)",
+      "palay_irigado_mt": 45955,
+      "palay_sahod_ulan_mt": 21167,
+      "palay_kabuuan_mt": 67122,
+      "mais_puti_mt": 1451,
+      "mais_dilaw_mt": 936,
+      "mais_kabuuan_mt": 2387
+    },
+    {
+      "lalawigan": "Surigao del Sur",
+      "rehiyon": "REGION XIII (CARAGA)",
+      "palay_irigado_mt": 64014,
+      "palay_sahod_ulan_mt": 29659,
+      "palay_kabuuan_mt": 93673,
+      "mais_puti_mt": 7304,
+      "mais_dilaw_mt": 5329,
+      "mais_kabuuan_mt": 12633
+    },
+    {
+      "lalawigan": "Basilan",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM)",
+      "palay_irigado_mt": 775.6,
+      "palay_sahod_ulan_mt": 265,
+      "palay_kabuuan_mt": 1040.6,
+      "mais_puti_mt": 500,
+      "mais_dilaw_mt": 0,
+      "mais_kabuuan_mt": 500
+    },
+    {
+      "lalawigan": "Lanao del Sur",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM)",
+      "palay_irigado_mt": 65758.15,
+      "palay_sahod_ulan_mt": 162901.48,
+      "palay_kabuuan_mt": 228659.63,
+      "mais_puti_mt": 315417.12,
+      "mais_dilaw_mt": 136973.77,
+      "mais_kabuuan_mt": 452390.89
+    },
+    {
+      "lalawigan": "Maguindanao del Norte",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM)",
+      "palay_irigado_mt": 84251,
+      "palay_sahod_ulan_mt": 192770,
+      "palay_kabuuan_mt": 277021,
+      "mais_puti_mt": 77669,
+      "mais_dilaw_mt": 248555,
+      "mais_kabuuan_mt": 326224
+    },
+    {
+      "lalawigan": "Maguindanao del Sur",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM)",
+      "palay_irigado_mt": 115444.19,
+      "palay_sahod_ulan_mt": 259244,
+      "palay_kabuuan_mt": 374688.19,
+      "mais_puti_mt": 95786,
+      "mais_dilaw_mt": 323136,
+      "mais_kabuuan_mt": 418922
+    },
+    {
+      "lalawigan": "Sulu",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM)",
+      "palay_irigado_mt": 0,
+      "palay_sahod_ulan_mt": 36,
+      "palay_kabuuan_mt": 36,
+      "mais_puti_mt": 671,
+      "mais_dilaw_mt": 0,
+      "mais_kabuuan_mt": 671
+    },
+    {
+      "lalawigan": "Tawi-tawi",
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM)",
+      "palay_irigado_mt": 0,
+      "palay_sahod_ulan_mt": 847.01,
+      "palay_kabuuan_mt": 847.01,
+      "mais_puti_mt": 644,
+      "mais_dilaw_mt": 0,
+      "mais_kabuuan_mt": 644
+    }
+  ],
+  "meta": {
+    "title": "Produksiyon ng Palay at Mais ayon sa Lalawigan (2025) - Free Download",
+    "description": "Dami ng ani ng palay (irigado at sahod-ulan) at mais (puti at dilaw) sa bawat lalawigan ng Pilipinas noong 2025, sa metrikong tonelada, mula sa Philippine Statistics Authority (PSA OpenSTAT). Contains 84 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produksiyon ng Palay at Mais ayon sa Lalawigan (2025) | ListBase",
+    "seo_description": "Download Produksiyon ng Palay at Mais ayon sa Lalawigan (2025) — 84 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 84 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__CS/0012E4EVCP0.px/"
+    ]
+  }
+}

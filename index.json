@@ -1,12 +1,12 @@
 {
   "lang": "tl",
-  "generated": "2026-11-15T02:09:48.710Z",
-  "total_datasets": 528,
-  "total_records": 449108,
+  "generated": "2026-11-15T02:09:59.627Z",
+  "total_datasets": 529,
+  "total_records": 449192,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -204,6 +204,35 @@
         "xlsx": {
           "name": "tl-produksiyon-ng-isda-ayon-sa-uri_TL.xlsx",
           "size": 10589
+        }
+      }
+    },
+    {
+      "id": "tl-produksiyon-ng-palay-at-mais-ayon-sa-lalawigan-2025",
+      "name": "Produksiyon ng Palay at Mais ayon sa Lalawigan (2025)",
+      "category": "agriculture",
+      "record_count": 84,
+      "columns": [
+        "lalawigan",
+        "rehiyon",
+        "palay_irigado_mt",
+        "palay_sahod_ulan_mt",
+        "palay_kabuuan_mt",
+        "mais_puti_mt",
+        "mais_dilaw_mt",
+        "mais_kabuuan_mt"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2E__CS/0012E4EVCP0.px/",
+      "updated": "2026-11",
+      "size": 27392,
+      "files": {
+        "csv": {
+          "name": "tl-produksiyon-ng-palay-at-mais-ayon-sa-lalawigan-2025_TL.csv",
+          "size": 8810
+        },
+        "xlsx": {
+          "name": "tl-produksiyon-ng-palay-at-mais-ayon-sa-lalawigan-2025_TL.xlsx",
+          "size": 12388
         }
       }
     },
