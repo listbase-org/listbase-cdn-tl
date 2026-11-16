@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-16T02:10:10.298Z",
-  "total_datasets": 536,
-  "total_records": 449435,
+  "generated": "2026-11-16T02:10:22.746Z",
+  "total_datasets": 537,
+  "total_records": 449442,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -15474,6 +15474,36 @@
         "xlsx": {
           "name": "tl-palayaw-ng-lungsod-at-bayan_TL.xlsx",
           "size": 25516
+        }
+      }
+    },
+    {
+      "id": "tl-trabaho-sa-industriya-ng-turismo",
+      "name": "Bilang ng Trabaho sa mga Industriya ng Turismo sa Pilipinas (2017–2024)",
+      "category": "tourism",
+      "record_count": 7,
+      "columns": [
+        "industriya",
+        "libong_manggagawa_2017",
+        "libong_manggagawa_2018",
+        "libong_manggagawa_2019",
+        "libong_manggagawa_2020",
+        "libong_manggagawa_2021",
+        "libong_manggagawa_2022",
+        "libong_manggagawa_2023",
+        "libong_manggagawa_2024"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2I/0072I5DEMP1.px/",
+      "updated": "2026-11",
+      "size": 5329,
+      "files": {
+        "csv": {
+          "name": "tl-trabaho-sa-industriya-ng-turismo_TL.csv",
+          "size": 843
+        },
+        "xlsx": {
+          "name": "tl-trabaho-sa-industriya-ng-turismo_TL.xlsx",
+          "size": 7278
         }
       }
     },

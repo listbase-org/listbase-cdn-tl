@@ -1,0 +1,148 @@
+{
+  "id": "tl-trabaho-sa-industriya-ng-turismo",
+  "name": "Bilang ng Trabaho sa mga Industriya ng Turismo sa Pilipinas (2017–2024)",
+  "title": "Bilang ng Trabaho sa mga Industriya ng Turismo sa Pilipinas (2017–2024)",
+  "description": "Bilang ng mga manggagawa sa mga industriyang pangturismo (tirahan at pagkain, transportasyon ng pasahero, travel agency, libangan at kultura, tingiang kalakal at iba pa) mula sa Philippine Tourism Satellite Accounts ng PSA, 2017–2024, sa libo.",
+  "category": "tourism",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2I/0072I5DEMP1.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2I/0072I5DEMP1.px/",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "industriya",
+      "label": "Industriya",
+      "type": "string"
+    },
+    {
+      "key": "libong_manggagawa_2017",
+      "label": "Libong Manggagawa 2017",
+      "type": "number"
+    },
+    {
+      "key": "libong_manggagawa_2018",
+      "label": "Libong Manggagawa 2018",
+      "type": "number"
+    },
+    {
+      "key": "libong_manggagawa_2019",
+      "label": "Libong Manggagawa 2019",
+      "type": "number"
+    },
+    {
+      "key": "libong_manggagawa_2020",
+      "label": "Libong Manggagawa 2020",
+      "type": "number"
+    },
+    {
+      "key": "libong_manggagawa_2021",
+      "label": "Libong Manggagawa 2021",
+      "type": "number"
+    },
+    {
+      "key": "libong_manggagawa_2022",
+      "label": "Libong Manggagawa 2022",
+      "type": "number"
+    },
+    {
+      "key": "libong_manggagawa_2023",
+      "label": "Libong Manggagawa 2023",
+      "type": "number"
+    },
+    {
+      "key": "libong_manggagawa_2024",
+      "label": "Libong Manggagawa 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "industriya": "Accommodation and food and beverage",
+      "libong_manggagawa_2017": 1713,
+      "libong_manggagawa_2018": 1702,
+      "libong_manggagawa_2019": 1902,
+      "libong_manggagawa_2020": 1068,
+      "libong_manggagawa_2021": 1030,
+      "libong_manggagawa_2022": 1259,
+      "libong_manggagawa_2023": 1495,
+      "libong_manggagawa_2024": 1690
+    },
+    {
+      "industriya": "Passenger transport",
+      "libong_manggagawa_2017": 1862,
+      "libong_manggagawa_2018": 1911,
+      "libong_manggagawa_2019": 2039,
+      "libong_manggagawa_2020": 1417,
+      "libong_manggagawa_2021": 1419,
+      "libong_manggagawa_2022": 1504,
+      "libong_manggagawa_2023": 1558,
+      "libong_manggagawa_2024": 1670
+    },
+    {
+      "industriya": "Travel Agents, tour operators and tourism guides",
+      "libong_manggagawa_2017": 29,
+      "libong_manggagawa_2018": 32,
+      "libong_manggagawa_2019": 33,
+      "libong_manggagawa_2020": 17,
+      "libong_manggagawa_2021": 19,
+      "libong_manggagawa_2022": 26,
+      "libong_manggagawa_2023": 32,
+      "libong_manggagawa_2024": 35
+    },
+    {
+      "industriya": "Recreation, entertainment and cultural services",
+      "libong_manggagawa_2017": 325,
+      "libong_manggagawa_2018": 370,
+      "libong_manggagawa_2019": 402,
+      "libong_manggagawa_2020": 227,
+      "libong_manggagawa_2021": 330,
+      "libong_manggagawa_2022": 396,
+      "libong_manggagawa_2023": 430,
+      "libong_manggagawa_2024": 422
+    },
+    {
+      "industriya": "Retail trade on tourism-charactersitic goods",
+      "libong_manggagawa_2017": 870,
+      "libong_manggagawa_2018": 880,
+      "libong_manggagawa_2019": 922,
+      "libong_manggagawa_2020": 555,
+      "libong_manggagawa_2021": 960,
+      "libong_manggagawa_2022": 1073,
+      "libong_manggagawa_2023": 1094,
+      "libong_manggagawa_2024": 1104
+    },
+    {
+      "industriya": "Miscellaneous",
+      "libong_manggagawa_2017": 1842,
+      "libong_manggagawa_2018": 1848,
+      "libong_manggagawa_2019": 1763,
+      "libong_manggagawa_2020": 1304,
+      "libong_manggagawa_2021": 1452,
+      "libong_manggagawa_2022": 1605,
+      "libong_manggagawa_2023": 1758,
+      "libong_manggagawa_2024": 1833
+    },
+    {
+      "industriya": "Total Employment in Tourism Industries",
+      "libong_manggagawa_2017": 6641,
+      "libong_manggagawa_2018": 6743,
+      "libong_manggagawa_2019": 7061,
+      "libong_manggagawa_2020": 4588,
+      "libong_manggagawa_2021": 5209,
+      "libong_manggagawa_2022": 5862,
+      "libong_manggagawa_2023": 6367,
+      "libong_manggagawa_2024": 6754
+    }
+  ],
+  "meta": {
+    "title": "Bilang ng Trabaho sa mga Industriya ng Turismo sa Pilipinas (2017–2024) - Free Download",
+    "description": "Bilang ng mga manggagawa sa mga industriyang pangturismo (tirahan at pagkain, transportasyon ng pasahero, travel agency, libangan at kultura, tingiang kalakal at iba pa) mula sa Philippine Tourism Satellite Accounts ng PSA, 2017–2024, sa libo. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bilang ng Trabaho sa mga Industriya ng Turismo sa Pilipinas (2017–2024) | ListBase",
+    "seo_description": "Download Bilang ng Trabaho sa mga Industriya ng Turismo sa Pilipinas (2017–2024) — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2I/0072I5DEMP1.px/"
+    ]
+  }
+}
