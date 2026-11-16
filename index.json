@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-16T02:09:59.211Z",
-  "total_datasets": 535,
-  "total_records": 449414,
+  "generated": "2026-11-16T02:10:10.298Z",
+  "total_datasets": 536,
+  "total_records": 449435,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -4354,6 +4354,36 @@
         "xlsx": {
           "name": "tl-suplay-at-konsumo-ng-gulay-2022_TL.xlsx",
           "size": 8434
+        }
+      }
+    },
+    {
+      "id": "tl-suplay-at-konsumo-ng-prutas-2022",
+      "name": "Suplay at Konsumo ng mga Prutas sa Pilipinas (2022)",
+      "category": "food",
+      "record_count": 21,
+      "columns": [
+        "produkto",
+        "produksiyon_mt",
+        "angkat_mt",
+        "kabuuang_suplay_mt",
+        "luwas_mt",
+        "pagproseso_mt",
+        "netong_pagkain_mt",
+        "bawat_tao_kg_taon",
+        "bawat_tao_g_araw"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__AA__SU/0052B5ESUA4.px/",
+      "updated": "2026-11",
+      "size": 8540,
+      "files": {
+        "csv": {
+          "name": "tl-suplay-at-konsumo-ng-prutas-2022_TL.csv",
+          "size": 1691
+        },
+        "xlsx": {
+          "name": "tl-suplay-at-konsumo-ng-prutas-2022_TL.xlsx",
+          "size": 8130
         }
       }
     },

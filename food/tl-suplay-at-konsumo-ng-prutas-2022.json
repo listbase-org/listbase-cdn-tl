@@ -1,0 +1,302 @@
+{
+  "id": "tl-suplay-at-konsumo-ng-prutas-2022",
+  "name": "Suplay at Konsumo ng mga Prutas sa Pilipinas (2022)",
+  "title": "Suplay at Konsumo ng mga Prutas sa Pilipinas (2022)",
+  "description": "Supply Utilization Accounts ng PSA para sa mga prutas (atis, saging, kalamansi, lanzones, mangga, marang at iba pa): produksiyon, angkat, luwas, kabuuang pagkaing magagamit at konsumo bawat tao (kg/taon at g/araw) noong 2022.",
+  "category": "food",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__AA__SU/0052B5ESUA4.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__AA__SU/0052B5ESUA4.px/",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "produkto",
+      "label": "Produkto",
+      "type": "string"
+    },
+    {
+      "key": "produksiyon_mt",
+      "label": "Produksiyon Mt",
+      "type": "number"
+    },
+    {
+      "key": "angkat_mt",
+      "label": "Angkat Mt",
+      "type": "number"
+    },
+    {
+      "key": "kabuuang_suplay_mt",
+      "label": "Kabuuang Suplay Mt",
+      "type": "number"
+    },
+    {
+      "key": "luwas_mt",
+      "label": "Luwas Mt",
+      "type": "number"
+    },
+    {
+      "key": "pagproseso_mt",
+      "label": "Pagproseso Mt",
+      "type": "number"
+    },
+    {
+      "key": "netong_pagkain_mt",
+      "label": "Netong Pagkain Mt",
+      "type": "number"
+    },
+    {
+      "key": "bawat_tao_kg_taon",
+      "label": "Bawat Tao Kg Taon",
+      "type": "number"
+    },
+    {
+      "key": "bawat_tao_g_araw",
+      "label": "Bawat Tao G Araw",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "produkto": "Atis",
+      "produksiyon_mt": 2023.12,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 2023.12,
+      "luwas_mt": 0,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 1901.73,
+      "bawat_tao_kg_taon": 0.02,
+      "bawat_tao_g_araw": 0.05
+    },
+    {
+      "produkto": "Avocado",
+      "produksiyon_mt": 20076.47,
+      "angkat_mt": 38.39,
+      "kabuuang_suplay_mt": 20114.86,
+      "luwas_mt": 1489.3,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 17508.03,
+      "bawat_tao_kg_taon": 0.16,
+      "bawat_tao_g_araw": 0.43
+    },
+    {
+      "produkto": "Banana",
+      "produksiyon_mt": 9013288.54,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 9013288.54,
+      "luwas_mt": 2275726.56,
+      "pagproseso_mt": 1684390.5,
+      "netong_pagkain_mt": 4648917.77,
+      "bawat_tao_kg_taon": 41.67,
+      "bawat_tao_g_araw": 114.16
+    },
+    {
+      "produkto": "Caimito",
+      "produksiyon_mt": 10366.82,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 10366.82,
+      "luwas_mt": 0,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 9744.81,
+      "bawat_tao_kg_taon": 0.09,
+      "bawat_tao_g_araw": 0.24
+    },
+    {
+      "produkto": "Calamansi",
+      "produksiyon_mt": 107896.35,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 107896.35,
+      "luwas_mt": 40.61,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 101384.39,
+      "bawat_tao_kg_taon": 0.91,
+      "bawat_tao_g_araw": 2.49
+    },
+    {
+      "produkto": "Chico",
+      "produksiyon_mt": 4960.07,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 4960.07,
+      "luwas_mt": 0.01,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 4662.46,
+      "bawat_tao_kg_taon": 0.04,
+      "bawat_tao_g_araw": 0.11
+    },
+    {
+      "produkto": "Durian",
+      "produksiyon_mt": 74158.36,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 74158.36,
+      "luwas_mt": 89.74,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 69624.5,
+      "bawat_tao_kg_taon": 0.62,
+      "bawat_tao_g_araw": 1.71
+    },
+    {
+      "produkto": "Guyabano",
+      "produksiyon_mt": 7578.08,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 7578.08,
+      "luwas_mt": 0,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 7123.4,
+      "bawat_tao_kg_taon": 0.06,
+      "bawat_tao_g_araw": 0.17
+    },
+    {
+      "produkto": "Jackfruit",
+      "produksiyon_mt": 38688.86,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 38688.86,
+      "luwas_mt": 174.42,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 36203.57,
+      "bawat_tao_kg_taon": 0.32,
+      "bawat_tao_g_araw": 0.89
+    },
+    {
+      "produkto": "Lanzones",
+      "produksiyon_mt": 7910.01,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 7910.01,
+      "luwas_mt": 8.76,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 7427.18,
+      "bawat_tao_kg_taon": 0.07,
+      "bawat_tao_g_araw": 0.18
+    },
+    {
+      "produkto": "Mandarin",
+      "produksiyon_mt": 9658.44,
+      "angkat_mt": 108421.49,
+      "kabuuang_suplay_mt": 118079.93,
+      "luwas_mt": "",
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 110995.07,
+      "bawat_tao_kg_taon": 0.99,
+      "bawat_tao_g_araw": 2.73
+    },
+    {
+      "produkto": "Mango",
+      "produksiyon_mt": 712553.17,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 712553.17,
+      "luwas_mt": 10716.62,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 659726.36,
+      "bawat_tao_kg_taon": 5.91,
+      "bawat_tao_g_araw": 16.2
+    },
+    {
+      "produkto": "Mangosteen",
+      "produksiyon_mt": 1537.91,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 1537.91,
+      "luwas_mt": 6.05,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 1439.95,
+      "bawat_tao_kg_taon": 0.01,
+      "bawat_tao_g_araw": 0.04
+    },
+    {
+      "produkto": "Marang",
+      "produksiyon_mt": 8428.04,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 8428.04,
+      "luwas_mt": 0,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 7922.36,
+      "bawat_tao_kg_taon": 0.07,
+      "bawat_tao_g_araw": 0.19
+    },
+    {
+      "produkto": "Orange",
+      "produksiyon_mt": 1521.84,
+      "angkat_mt": 18503.07,
+      "kabuuang_suplay_mt": 20024.91,
+      "luwas_mt": "",
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 18823.31,
+      "bawat_tao_kg_taon": 0.17,
+      "bawat_tao_g_araw": 0.46
+    },
+    {
+      "produkto": "Papaya",
+      "produksiyon_mt": 159173.11,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 159173.11,
+      "luwas_mt": 8458.98,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 141671.28,
+      "bawat_tao_kg_taon": 1.27,
+      "bawat_tao_g_araw": 3.48
+    },
+    {
+      "produkto": "Pineapple",
+      "produksiyon_mt": 2914424.68,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 2914424.68,
+      "luwas_mt": 582536.93,
+      "pagproseso_mt": 1026030.61,
+      "netong_pagkain_mt": 1165943.87,
+      "bawat_tao_kg_taon": 10.45,
+      "bawat_tao_g_araw": 28.63
+    },
+    {
+      "produkto": "Pomelo",
+      "produksiyon_mt": 27800.81,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 27800.81,
+      "luwas_mt": 2.05,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 26130.83,
+      "bawat_tao_kg_taon": 0.23,
+      "bawat_tao_g_araw": 0.64
+    },
+    {
+      "produkto": "Strawberry",
+      "produksiyon_mt": 3018.89,
+      "angkat_mt": "",
+      "kabuuang_suplay_mt": 3019.28,
+      "luwas_mt": 0,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 2838.12,
+      "bawat_tao_kg_taon": 0.03,
+      "bawat_tao_g_araw": 0.07
+    },
+    {
+      "produkto": "Tiesa",
+      "produksiyon_mt": 613.9,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 613.9,
+      "luwas_mt": 0,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 577.07,
+      "bawat_tao_kg_taon": 0.01,
+      "bawat_tao_g_araw": 0.01
+    },
+    {
+      "produkto": "Watermelon",
+      "produksiyon_mt": 134619.13,
+      "angkat_mt": 0,
+      "kabuuang_suplay_mt": 134619.13,
+      "luwas_mt": 0,
+      "pagproseso_mt": 0,
+      "netong_pagkain_mt": 126541.98,
+      "bawat_tao_kg_taon": 1.13,
+      "bawat_tao_g_araw": 3.11
+    }
+  ],
+  "meta": {
+    "title": "Suplay at Konsumo ng mga Prutas sa Pilipinas (2022) - Free Download",
+    "description": "Supply Utilization Accounts ng PSA para sa mga prutas (atis, saging, kalamansi, lanzones, mangga, marang at iba pa): produksiyon, angkat, luwas, kabuuang pagkaing magagamit at konsumo bawat tao (kg/taon at g/araw) noong 2022. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Suplay at Konsumo ng mga Prutas sa Pilipinas (2022) | ListBase",
+    "seo_description": "Download Suplay at Konsumo ng mga Prutas sa Pilipinas (2022) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__AA__SU/0052B5ESUA4.px/"
+    ]
+  }
+}
