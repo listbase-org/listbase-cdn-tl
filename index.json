@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-16T02:09:36.945Z",
-  "total_datasets": 533,
-  "total_records": 449356,
+  "generated": "2026-11-16T02:09:48.808Z",
+  "total_datasets": 534,
+  "total_records": 449388,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 2
+      "dataset_count": 3
     }
   ],
   "datasets": [
@@ -16498,6 +16498,34 @@
         "xlsx": {
           "name": "tl-zamboanga-peninsula-paliparan_TL.xlsx",
           "size": 7220
+        }
+      }
+    },
+    {
+      "id": "tl-mga-unlapi-ng-yunit-si-at-binaryo",
+      "name": "Mga Unlapi ng Yunit: SI (kilo, mega, mili…) at Binaryo (kibi, mebi…)",
+      "category": "units",
+      "record_count": 32,
+      "columns": [
+        "code",
+        "uri",
+        "base",
+        "exponent",
+        "unlapi",
+        "simbolo",
+        "halimbawa_haba"
+      ],
+      "source": "https://github.com/unicode-org/cldr/blob/main/common/main/fil.xml",
+      "updated": "2026-11",
+      "size": 8359,
+      "files": {
+        "csv": {
+          "name": "tl-mga-unlapi-ng-yunit-si-at-binaryo_TL.csv",
+          "size": 1919
+        },
+        "xlsx": {
+          "name": "tl-mga-unlapi-ng-yunit-si-at-binaryo_TL.xlsx",
+          "size": 8188
         }
       }
     },

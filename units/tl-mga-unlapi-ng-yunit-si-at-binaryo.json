@@ -1,0 +1,349 @@
+{
+  "id": "tl-mga-unlapi-ng-yunit-si-at-binaryo",
+  "name": "Mga Unlapi ng Yunit: SI (kilo, mega, mili…) at Binaryo (kibi, mebi…)",
+  "title": "Mga Unlapi ng Yunit: SI (kilo, mega, mili…) at Binaryo (kibi, mebi…)",
+  "description": "Ang mga unlapi ng yunit ng Pandaigdigang Sistema ng mga Yunit (SI) mula quecto (10⁻³⁰) hanggang quetta (10³⁰) at ang mga unlaping binaryo ng IEC (kibi hanggang yobi), kasama ang simbolo at halimbawang anyo sa Filipino, mula sa Unicode CLDR (fil).",
+  "category": "units",
+  "source": "https://github.com/unicode-org/cldr/blob/main/common/main/fil.xml",
+  "source_url": "https://github.com/unicode-org/cldr/blob/main/common/main/fil.xml",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "base",
+      "label": "Base",
+      "type": "number"
+    },
+    {
+      "key": "exponent",
+      "label": "Exponent",
+      "type": "number"
+    },
+    {
+      "key": "unlapi",
+      "label": "Unlapi",
+      "type": "string"
+    },
+    {
+      "key": "simbolo",
+      "label": "Simbolo",
+      "type": "string"
+    },
+    {
+      "key": "halimbawa_haba",
+      "label": "Halimbawa Haba",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "10p30",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 30,
+      "unlapi": "quetta",
+      "simbolo": "Q",
+      "halimbawa_haba": "quettametro"
+    },
+    {
+      "code": "10p27",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 27,
+      "unlapi": "ronna",
+      "simbolo": "R",
+      "halimbawa_haba": "ronnametro"
+    },
+    {
+      "code": "10p24",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 24,
+      "unlapi": "yotta",
+      "simbolo": "Y",
+      "halimbawa_haba": "yottametro"
+    },
+    {
+      "code": "10p21",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 21,
+      "unlapi": "zetta",
+      "simbolo": "Z",
+      "halimbawa_haba": "zettametro"
+    },
+    {
+      "code": "10p18",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 18,
+      "unlapi": "exa",
+      "simbolo": "E",
+      "halimbawa_haba": "exametro"
+    },
+    {
+      "code": "10p15",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 15,
+      "unlapi": "peta",
+      "simbolo": "P",
+      "halimbawa_haba": "petametro"
+    },
+    {
+      "code": "10p12",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 12,
+      "unlapi": "tera",
+      "simbolo": "T",
+      "halimbawa_haba": "terametro"
+    },
+    {
+      "code": "10p9",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 9,
+      "unlapi": "giga",
+      "simbolo": "G",
+      "halimbawa_haba": "gigametro"
+    },
+    {
+      "code": "10p6",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 6,
+      "unlapi": "mega",
+      "simbolo": "M",
+      "halimbawa_haba": "megametro"
+    },
+    {
+      "code": "10p3",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 3,
+      "unlapi": "kilo",
+      "simbolo": "k",
+      "halimbawa_haba": "kilometro"
+    },
+    {
+      "code": "10p2",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 2,
+      "unlapi": "hecto",
+      "simbolo": "h",
+      "halimbawa_haba": "hectometro"
+    },
+    {
+      "code": "10p1",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": 1,
+      "unlapi": "deka",
+      "simbolo": "da",
+      "halimbawa_haba": "dekametro"
+    },
+    {
+      "code": "10p-1",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -1,
+      "unlapi": "deci",
+      "simbolo": "d",
+      "halimbawa_haba": "decimetro"
+    },
+    {
+      "code": "10p-2",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -2,
+      "unlapi": "centi",
+      "simbolo": "c",
+      "halimbawa_haba": "centimetro"
+    },
+    {
+      "code": "10p-3",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -3,
+      "unlapi": "milli",
+      "simbolo": "m",
+      "halimbawa_haba": "millimetro"
+    },
+    {
+      "code": "10p-6",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -6,
+      "unlapi": "micro",
+      "simbolo": "μ",
+      "halimbawa_haba": "micrometro"
+    },
+    {
+      "code": "10p-9",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -9,
+      "unlapi": "nano",
+      "simbolo": "n",
+      "halimbawa_haba": "nanometro"
+    },
+    {
+      "code": "10p-12",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -12,
+      "unlapi": "pico",
+      "simbolo": "p",
+      "halimbawa_haba": "picometro"
+    },
+    {
+      "code": "10p-15",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -15,
+      "unlapi": "femto",
+      "simbolo": "f",
+      "halimbawa_haba": "femtometro"
+    },
+    {
+      "code": "10p-18",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -18,
+      "unlapi": "atto",
+      "simbolo": "a",
+      "halimbawa_haba": "attometro"
+    },
+    {
+      "code": "10p-21",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -21,
+      "unlapi": "zepto",
+      "simbolo": "z",
+      "halimbawa_haba": "zeptometro"
+    },
+    {
+      "code": "10p-24",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -24,
+      "unlapi": "yocto",
+      "simbolo": "y",
+      "halimbawa_haba": "yoctometro"
+    },
+    {
+      "code": "10p-27",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -27,
+      "unlapi": "ronto",
+      "simbolo": "r",
+      "halimbawa_haba": "rontometro"
+    },
+    {
+      "code": "10p-30",
+      "uri": "SI (desimal)",
+      "base": 10,
+      "exponent": -30,
+      "unlapi": "quecto",
+      "simbolo": "q",
+      "halimbawa_haba": "quectometro"
+    },
+    {
+      "code": "1024p8",
+      "uri": "binaryo (IEC)",
+      "base": 1024,
+      "exponent": 8,
+      "unlapi": "yobi",
+      "simbolo": "Yi",
+      "halimbawa_haba": "yobibyte"
+    },
+    {
+      "code": "1024p7",
+      "uri": "binaryo (IEC)",
+      "base": 1024,
+      "exponent": 7,
+      "unlapi": "zebi",
+      "simbolo": "Zi",
+      "halimbawa_haba": "zebibyte"
+    },
+    {
+      "code": "1024p6",
+      "uri": "binaryo (IEC)",
+      "base": 1024,
+      "exponent": 6,
+      "unlapi": "exbi",
+      "simbolo": "Ei",
+      "halimbawa_haba": "exbibyte"
+    },
+    {
+      "code": "1024p5",
+      "uri": "binaryo (IEC)",
+      "base": 1024,
+      "exponent": 5,
+      "unlapi": "pebi",
+      "simbolo": "Pi",
+      "halimbawa_haba": "pebibyte"
+    },
+    {
+      "code": "1024p4",
+      "uri": "binaryo (IEC)",
+      "base": 1024,
+      "exponent": 4,
+      "unlapi": "tebi",
+      "simbolo": "Ti",
+      "halimbawa_haba": "tebibyte"
+    },
+    {
+      "code": "1024p3",
+      "uri": "binaryo (IEC)",
+      "base": 1024,
+      "exponent": 3,
+      "unlapi": "gibi",
+      "simbolo": "Gi",
+      "halimbawa_haba": "gibibyte"
+    },
+    {
+      "code": "1024p2",
+      "uri": "binaryo (IEC)",
+      "base": 1024,
+      "exponent": 2,
+      "unlapi": "mebi",
+      "simbolo": "Mi",
+      "halimbawa_haba": "mebibyte"
+    },
+    {
+      "code": "1024p1",
+      "uri": "binaryo (IEC)",
+      "base": 1024,
+      "exponent": 1,
+      "unlapi": "kibi",
+      "simbolo": "Ki",
+      "halimbawa_haba": "kibibyte"
+    }
+  ],
+  "meta": {
+    "title": "Mga Unlapi ng Yunit: SI (kilo, mega, mili…) at Binaryo (kibi, mebi…) - Free Download",
+    "description": "Ang mga unlapi ng yunit ng Pandaigdigang Sistema ng mga Yunit (SI) mula quecto (10⁻³⁰) hanggang quetta (10³⁰) at ang mga unlaping binaryo ng IEC (kibi hanggang yobi), kasama ang simbolo at halimbawang anyo sa Filipino, mula sa Unicode CLDR (fil). Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Unlapi ng Yunit: SI (kilo, mega, mili…) at Binaryo (kibi, mebi…) | ListBase",
+    "seo_description": "Download Mga Unlapi ng Yunit: SI (kilo, mega, mili…) at Binaryo (kibi, mebi…) — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr/blob/main/common/main/fil.xml"
+    ]
+  }
+}
