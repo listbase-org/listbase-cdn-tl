@@ -1,0 +1,286 @@
+{
+  "id": "tl-inaprubahang-dayuhang-pamumuhunan-ayon-sa-bansa",
+  "name": "Inaprubahang Dayuhang Pamumuhunan sa Pilipinas ayon sa Bansa ng Mamumuhunan (2025–2026)",
+  "title": "Inaprubahang Dayuhang Pamumuhunan sa Pilipinas ayon sa Bansa ng Mamumuhunan (2025–2026)",
+  "description": "Halaga ng mga inaprubahang dayuhang pamumuhunan (Approved Foreign Investments) ng mga investment promotion agency sa Pilipinas ayon sa bansang pinagmulan, bawat quarter mula 2025 Q1 hanggang 2026 Q3, sa milyong piso (PSA).",
+  "category": "finance",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__FI/0042B5CICI0.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__FI/0042B5CICI0.px/",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "bansa_ng_mamumuhunan",
+      "label": "Bansa Ng Mamumuhunan",
+      "type": "string"
+    },
+    {
+      "key": "milyong_piso_2025_q1",
+      "label": "Milyong Piso 2025 Q1",
+      "type": "number"
+    },
+    {
+      "key": "milyong_piso_2025_q2",
+      "label": "Milyong Piso 2025 Q2",
+      "type": "number"
+    },
+    {
+      "key": "milyong_piso_2025_q3",
+      "label": "Milyong Piso 2025 Q3",
+      "type": "number"
+    },
+    {
+      "key": "milyong_piso_2025_q4",
+      "label": "Milyong Piso 2025 Q4",
+      "type": "number"
+    },
+    {
+      "key": "milyong_piso_2026_q1",
+      "label": "Milyong Piso 2026 Q1",
+      "type": "number"
+    },
+    {
+      "key": "milyong_piso_2026_q2",
+      "label": "Milyong Piso 2026 Q2",
+      "type": "number"
+    },
+    {
+      "key": "milyong_piso_2026_q3",
+      "label": "Milyong Piso 2026 Q3",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bansa_ng_mamumuhunan": "Australia",
+      "milyong_piso_2025_q1": 218.12,
+      "milyong_piso_2025_q2": 471.45,
+      "milyong_piso_2025_q3": 3455.62,
+      "milyong_piso_2025_q4": 170.39,
+      "milyong_piso_2026_q1": 231.6,
+      "milyong_piso_2026_q2": 1877.09,
+      "milyong_piso_2026_q3": 613.06
+    },
+    {
+      "bansa_ng_mamumuhunan": "British Virgin Islands",
+      "milyong_piso_2025_q1": 61.68,
+      "milyong_piso_2025_q2": 108.87,
+      "milyong_piso_2025_q3": 0.02,
+      "milyong_piso_2025_q4": 2247.87,
+      "milyong_piso_2026_q1": 741.56,
+      "milyong_piso_2026_q2": 0,
+      "milyong_piso_2026_q3": 2283.93
+    },
+    {
+      "bansa_ng_mamumuhunan": "Canada",
+      "milyong_piso_2025_q1": 39.83,
+      "milyong_piso_2025_q2": 203.48,
+      "milyong_piso_2025_q3": 12.39,
+      "milyong_piso_2025_q4": 7.81,
+      "milyong_piso_2026_q1": 220.12,
+      "milyong_piso_2026_q2": 6.38,
+      "milyong_piso_2026_q3": 351.64
+    },
+    {
+      "bansa_ng_mamumuhunan": "Cayman Islands",
+      "milyong_piso_2025_q1": 0,
+      "milyong_piso_2025_q2": 0,
+      "milyong_piso_2025_q3": 13142.62,
+      "milyong_piso_2025_q4": 3551.52,
+      "milyong_piso_2026_q1": 0,
+      "milyong_piso_2026_q2": 229.98,
+      "milyong_piso_2026_q3": 0
+    },
+    {
+      "bansa_ng_mamumuhunan": "China (PROC)",
+      "milyong_piso_2025_q1": 2883.49,
+      "milyong_piso_2025_q2": 1319.59,
+      "milyong_piso_2025_q3": 4510.7,
+      "milyong_piso_2025_q4": 1558.65,
+      "milyong_piso_2026_q1": 2535.92,
+      "milyong_piso_2026_q2": 1275.25,
+      "milyong_piso_2026_q3": 3212.72
+    },
+    {
+      "bansa_ng_mamumuhunan": "Denmark",
+      "milyong_piso_2025_q1": 0,
+      "milyong_piso_2025_q2": 0,
+      "milyong_piso_2025_q3": 1.52,
+      "milyong_piso_2025_q4": 0,
+      "milyong_piso_2026_q1": 0,
+      "milyong_piso_2026_q2": 3,
+      "milyong_piso_2026_q3": 1.17
+    },
+    {
+      "bansa_ng_mamumuhunan": "France",
+      "milyong_piso_2025_q1": 28.17,
+      "milyong_piso_2025_q2": 21.97,
+      "milyong_piso_2025_q3": 4.3,
+      "milyong_piso_2025_q4": 1.7,
+      "milyong_piso_2026_q1": 1.88,
+      "milyong_piso_2026_q2": 1,
+      "milyong_piso_2026_q3": 0.15
+    },
+    {
+      "bansa_ng_mamumuhunan": "Germany",
+      "milyong_piso_2025_q1": 99.07,
+      "milyong_piso_2025_q2": 8.95,
+      "milyong_piso_2025_q3": 4361.59,
+      "milyong_piso_2025_q4": 1717.88,
+      "milyong_piso_2026_q1": 4.27,
+      "milyong_piso_2026_q2": 18051.93,
+      "milyong_piso_2026_q3": 17.55
+    },
+    {
+      "bansa_ng_mamumuhunan": "Hongkong",
+      "milyong_piso_2025_q1": 1240.18,
+      "milyong_piso_2025_q2": 1.6,
+      "milyong_piso_2025_q3": 847.78,
+      "milyong_piso_2025_q4": 3234.89,
+      "milyong_piso_2026_q1": 488.35,
+      "milyong_piso_2026_q2": 482.02,
+      "milyong_piso_2026_q3": 963.02
+    },
+    {
+      "bansa_ng_mamumuhunan": "India",
+      "milyong_piso_2025_q1": 19.52,
+      "milyong_piso_2025_q2": 34.93,
+      "milyong_piso_2025_q3": 472.92,
+      "milyong_piso_2025_q4": 39.29,
+      "milyong_piso_2026_q1": 364.81,
+      "milyong_piso_2026_q2": 20.76,
+      "milyong_piso_2026_q3": 68.36
+    },
+    {
+      "bansa_ng_mamumuhunan": "Japan",
+      "milyong_piso_2025_q1": 1653.19,
+      "milyong_piso_2025_q2": 907.11,
+      "milyong_piso_2025_q3": 13586.52,
+      "milyong_piso_2025_q4": 17888.15,
+      "milyong_piso_2026_q1": 1064.35,
+      "milyong_piso_2026_q2": 4616.45,
+      "milyong_piso_2026_q3": 3700.44
+    },
+    {
+      "bansa_ng_mamumuhunan": "South Korea",
+      "milyong_piso_2025_q1": 12361.87,
+      "milyong_piso_2025_q2": 1709.28,
+      "milyong_piso_2025_q3": 5566.43,
+      "milyong_piso_2025_q4": 2768.84,
+      "milyong_piso_2026_q1": 25373.35,
+      "milyong_piso_2026_q2": 4785.28,
+      "milyong_piso_2026_q3": 29475
+    },
+    {
+      "bansa_ng_mamumuhunan": "Malaysia",
+      "milyong_piso_2025_q1": 576.39,
+      "milyong_piso_2025_q2": 77.61,
+      "milyong_piso_2025_q3": 85.21,
+      "milyong_piso_2025_q4": 629.73,
+      "milyong_piso_2026_q1": 9.83,
+      "milyong_piso_2026_q2": 2549.69,
+      "milyong_piso_2026_q3": 800
+    },
+    {
+      "bansa_ng_mamumuhunan": "Netherlands",
+      "milyong_piso_2025_q1": 373.59,
+      "milyong_piso_2025_q2": 1907.2,
+      "milyong_piso_2025_q3": 643.05,
+      "milyong_piso_2025_q4": 33054.31,
+      "milyong_piso_2026_q1": 608.51,
+      "milyong_piso_2026_q2": 50740.43,
+      "milyong_piso_2026_q3": 3712.91
+    },
+    {
+      "bansa_ng_mamumuhunan": "Singapore",
+      "milyong_piso_2025_q1": 1383.88,
+      "milyong_piso_2025_q2": 53475.86,
+      "milyong_piso_2025_q3": 20260.65,
+      "milyong_piso_2025_q4": 17714.24,
+      "milyong_piso_2026_q1": 3177.78,
+      "milyong_piso_2026_q2": 9963.38,
+      "milyong_piso_2026_q3": 40482.48
+    },
+    {
+      "bansa_ng_mamumuhunan": "Switzerland",
+      "milyong_piso_2025_q1": 0,
+      "milyong_piso_2025_q2": 34.16,
+      "milyong_piso_2025_q3": 222,
+      "milyong_piso_2025_q4": 4126.7,
+      "milyong_piso_2026_q1": 97.44,
+      "milyong_piso_2026_q2": 4.37,
+      "milyong_piso_2026_q3": 2.68
+    },
+    {
+      "bansa_ng_mamumuhunan": "Taiwan",
+      "milyong_piso_2025_q1": 400.6,
+      "milyong_piso_2025_q2": 70.44,
+      "milyong_piso_2025_q3": 1283.4,
+      "milyong_piso_2025_q4": 444.57,
+      "milyong_piso_2026_q1": 636.43,
+      "milyong_piso_2026_q2": 1377.74,
+      "milyong_piso_2026_q3": 76271.86
+    },
+    {
+      "bansa_ng_mamumuhunan": "Thailand",
+      "milyong_piso_2025_q1": 25.61,
+      "milyong_piso_2025_q2": 1100,
+      "milyong_piso_2025_q3": 776.67,
+      "milyong_piso_2025_q4": 7747.77,
+      "milyong_piso_2026_q1": 67.65,
+      "milyong_piso_2026_q2": 794.33,
+      "milyong_piso_2026_q3": 6
+    },
+    {
+      "bansa_ng_mamumuhunan": "UK",
+      "milyong_piso_2025_q1": 464.91,
+      "milyong_piso_2025_q2": 83.82,
+      "milyong_piso_2025_q3": 471.87,
+      "milyong_piso_2025_q4": 222.46,
+      "milyong_piso_2026_q1": 161.8,
+      "milyong_piso_2026_q2": 427.89,
+      "milyong_piso_2026_q3": 710.88
+    },
+    {
+      "bansa_ng_mamumuhunan": "USA",
+      "milyong_piso_2025_q1": 3077.14,
+      "milyong_piso_2025_q2": 3964.59,
+      "milyong_piso_2025_q3": 3402.17,
+      "milyong_piso_2025_q4": 3199.78,
+      "milyong_piso_2026_q1": 13346.05,
+      "milyong_piso_2026_q2": 3582.37,
+      "milyong_piso_2026_q3": 503.33
+    },
+    {
+      "bansa_ng_mamumuhunan": "Others",
+      "milyong_piso_2025_q1": 3085.12,
+      "milyong_piso_2025_q2": 2982.05,
+      "milyong_piso_2025_q3": 584.74,
+      "milyong_piso_2025_q4": 5330.84,
+      "milyong_piso_2026_q1": 5643.93,
+      "milyong_piso_2026_q2": 14854.95,
+      "milyong_piso_2026_q3": 2855.91
+    },
+    {
+      "bansa_ng_mamumuhunan": "Total AFI",
+      "milyong_piso_2025_q1": 27992.36,
+      "milyong_piso_2025_q2": 68482.95,
+      "milyong_piso_2025_q3": 73692.14,
+      "milyong_piso_2025_q4": 105657.42,
+      "milyong_piso_2026_q1": 54775.63,
+      "milyong_piso_2026_q2": 115644.31,
+      "milyong_piso_2026_q3": 166033.1
+    }
+  ],
+  "meta": {
+    "title": "Inaprubahang Dayuhang Pamumuhunan sa Pilipinas ayon sa Bansa ng Mamumuhunan (2025–2026) - Free Download",
+    "description": "Halaga ng mga inaprubahang dayuhang pamumuhunan (Approved Foreign Investments) ng mga investment promotion agency sa Pilipinas ayon sa bansang pinagmulan, bawat quarter mula 2025 Q1 hanggang 2026 Q3, sa milyong piso (PSA). Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Inaprubahang Dayuhang Pamumuhunan sa Pilipinas ayon sa Bansa ng Mamumuhunan (2025–2026) | ListBase",
+    "seo_description": "Download Inaprubahang Dayuhang Pamumuhunan sa Pilipinas ayon sa Bansa ng Mamumuhunan (2025–2026) — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__FI/0042B5CICI0.px/"
+    ]
+  }
+}

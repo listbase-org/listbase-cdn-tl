@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-16T02:09:12.881Z",
-  "total_datasets": 531,
-  "total_records": 449295,
+  "generated": "2026-11-16T02:09:24.935Z",
+  "total_datasets": 532,
+  "total_records": 449317,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -4057,6 +4057,35 @@
         "xlsx": {
           "name": "tl-planta-ng-kuryente_TL.xlsx",
           "size": 15610
+        }
+      }
+    },
+    {
+      "id": "tl-inaprubahang-dayuhang-pamumuhunan-ayon-sa-bansa",
+      "name": "Inaprubahang Dayuhang Pamumuhunan sa Pilipinas ayon sa Bansa ng Mamumuhunan (2025–2026)",
+      "category": "finance",
+      "record_count": 22,
+      "columns": [
+        "bansa_ng_mamumuhunan",
+        "milyong_piso_2025_q1",
+        "milyong_piso_2025_q2",
+        "milyong_piso_2025_q3",
+        "milyong_piso_2025_q4",
+        "milyong_piso_2026_q1",
+        "milyong_piso_2026_q2",
+        "milyong_piso_2026_q3"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__FI/0042B5CICI0.px/",
+      "updated": "2026-11",
+      "size": 9680,
+      "files": {
+        "csv": {
+          "name": "tl-inaprubahang-dayuhang-pamumuhunan-ayon-sa-bansa_TL.csv",
+          "size": 1779
+        },
+        "xlsx": {
+          "name": "tl-inaprubahang-dayuhang-pamumuhunan-ayon-sa-bansa_TL.xlsx",
+          "size": 8186
         }
       }
     },
