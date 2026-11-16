@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-16T02:09:24.935Z",
-  "total_datasets": 532,
-  "total_records": 449317,
+  "generated": "2026-11-16T02:09:36.945Z",
+  "total_datasets": 533,
+  "total_records": 449356,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -14598,6 +14598,31 @@
         "xlsx": {
           "name": "tl-lindol-katalog_TL.xlsx",
           "size": 4110150
+        }
+      }
+    },
+    {
+      "id": "tl-malalakas-na-lindol-sa-pilipinas-mula-2001",
+      "name": "Malalakas na Lindol sa Pilipinas mula 2001",
+      "category": "science",
+      "record_count": 39,
+      "columns": [
+        "taon",
+        "petsa",
+        "magnitud",
+        "lokasyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_lindol_sa_Pilipinas",
+      "updated": "2026-11",
+      "size": 6733,
+      "files": {
+        "csv": {
+          "name": "tl-malalakas-na-lindol-sa-pilipinas-mula-2001_TL.csv",
+          "size": 2071
+        },
+        "xlsx": {
+          "name": "tl-malalakas-na-lindol-sa-pilipinas-mula-2001_TL.xlsx",
+          "size": 8076
         }
       }
     },

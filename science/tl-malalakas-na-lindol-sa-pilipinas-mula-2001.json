@@ -1,0 +1,280 @@
+{
+  "id": "tl-malalakas-na-lindol-sa-pilipinas-mula-2001",
+  "name": "Malalakas na Lindol sa Pilipinas mula 2001",
+  "title": "Malalakas na Lindol sa Pilipinas mula 2001",
+  "description": "Talaan ng malalakas na lindol na tumama sa Pilipinas mula 2001 kasama ang taon, petsa, lakas (magnitud) at lokasyon, mula sa Wikipediang Tagalog.",
+  "category": "science",
+  "source": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_lindol_sa_Pilipinas",
+  "source_url": "https://tl.wikipedia.org/wiki/Talaan_ng_mga_lindol_sa_Pilipinas",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "petsa",
+      "label": "Petsa",
+      "type": "string"
+    },
+    {
+      "key": "magnitud",
+      "label": "Magnitud",
+      "type": "number"
+    },
+    {
+      "key": "lokasyon",
+      "label": "Lokasyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "taon": 2001,
+      "petsa": "Enero 1",
+      "magnitud": 7.5,
+      "lokasyon": "Mindanao (SE, sa labas)"
+    },
+    {
+      "taon": 2002,
+      "petsa": "Marso 5",
+      "magnitud": 7.5,
+      "lokasyon": "Lindol sa Mindanao (2002)"
+    },
+    {
+      "taon": 2003,
+      "petsa": "Nobyembre 18",
+      "magnitud": 6.5,
+      "lokasyon": "Samar"
+    },
+    {
+      "taon": 2004,
+      "petsa": "Oktubre",
+      "magnitud": 6.5,
+      "lokasyon": "Mindoro"
+    },
+    {
+      "taon": 2005,
+      "petsa": "Nobyembre 30",
+      "magnitud": 6.4,
+      "lokasyon": "Gulpo ng Moro (malapit)"
+    },
+    {
+      "taon": 2006,
+      "petsa": "Oktubre 9",
+      "magnitud": 6.3,
+      "lokasyon": "Luzon"
+    },
+    {
+      "taon": 2007,
+      "petsa": "Agosto 7",
+      "magnitud": 6.4,
+      "lokasyon": "Mindanaw (SE, sa labas)"
+    },
+    {
+      "taon": 2008,
+      "petsa": "Marso 3",
+      "magnitud": 6.9,
+      "lokasyon": "Samar"
+    },
+    {
+      "taon": 2009,
+      "petsa": "Oktubre 4",
+      "magnitud": 6.6,
+      "lokasyon": "Gulpo ng Moro"
+    },
+    {
+      "taon": 2010,
+      "petsa": "Hulyo 3",
+      "magnitud": 7.6,
+      "lokasyon": "Lindol sa Mindanaw (2010)"
+    },
+    {
+      "taon": 2011,
+      "petsa": "Marso 20",
+      "magnitud": 6.4,
+      "lokasyon": "Rehiyon ng Ilokos"
+    },
+    {
+      "taon": 2012,
+      "petsa": "Pebrero 6",
+      "magnitud": 6.7,
+      "lokasyon": "Lindol sa Bisayas"
+    },
+    {
+      "taon": 2012,
+      "petsa": "Agosto 31",
+      "magnitud": 7.6,
+      "lokasyon": "Lindol sa Samar (2012)"
+    },
+    {
+      "taon": 2013,
+      "petsa": "Oktubre 15",
+      "magnitud": 7.2,
+      "lokasyon": "Lindol sa Bohol (2013)"
+    },
+    {
+      "taon": 2014,
+      "petsa": "Disyembre 2",
+      "magnitud": 6.6,
+      "lokasyon": "Gulpo ng Moro (malapit)"
+    },
+    {
+      "taon": 2015,
+      "petsa": "Hulyo 3",
+      "magnitud": 6.1,
+      "lokasyon": "Siargaw"
+    },
+    {
+      "taon": 2016,
+      "petsa": "Setyembre 24",
+      "magnitud": 6.3,
+      "lokasyon": "Tamisan (Rehiyon ng Dabaw)"
+    },
+    {
+      "taon": 2017,
+      "petsa": "Abril 29",
+      "magnitud": 6.9,
+      "lokasyon": "Lindol sa Sarangani (2017) (Rehiyon ng Dabaw)"
+    },
+    {
+      "taon": 2019,
+      "petsa": "Abril 22",
+      "magnitud": 6.1,
+      "lokasyon": "Lindol sa Luzon ng 2019"
+    },
+    {
+      "taon": 2019,
+      "petsa": "Abril 23",
+      "magnitud": 6.4,
+      "lokasyon": "Lindol sa Bisayas ng 2019"
+    },
+    {
+      "taon": 2019,
+      "petsa": "Oktubre 16, 29 at 31",
+      "magnitud": "6.6, 6.3 at 6.5",
+      "lokasyon": "Mga lindol sa Cotabato ng 2019"
+    },
+    {
+      "taon": 2019,
+      "petsa": "Nobyembre 18",
+      "magnitud": 5.9,
+      "lokasyon": "Lindol sa Bukidnon ng 2019"
+    },
+    {
+      "taon": 2019,
+      "petsa": "Disyembre 15",
+      "magnitud": 6.8,
+      "lokasyon": "Lindol sa Davao del Sur ng 2019"
+    },
+    {
+      "taon": 2020,
+      "petsa": "Agosto 18",
+      "magnitud": 6.6,
+      "lokasyon": "Lindol sa Masbate ng 2020"
+    },
+    {
+      "taon": 2020,
+      "petsa": "Nobyembre 16",
+      "magnitud": 6,
+      "lokasyon": "Lindol sa Surigao del Sur ng 2020"
+    },
+    {
+      "taon": 2020,
+      "petsa": "Disyembre 25",
+      "magnitud": 6.3,
+      "lokasyon": "Lindol sa Mindoro ng 2020"
+    },
+    {
+      "taon": 2020,
+      "petsa": "Disyembre 25",
+      "magnitud": 2.1,
+      "lokasyon": "Lindol sa Masbate ng 2020"
+    },
+    {
+      "taon": 2021,
+      "petsa": "Enero 22",
+      "magnitud": 7.1,
+      "lokasyon": "Lindol sa Davao Occidental ng 2021"
+    },
+    {
+      "taon": 2021,
+      "petsa": "Pebrero 7",
+      "magnitud": 6,
+      "lokasyon": "Lindol sa Davao del Sur ng 2021"
+    },
+    {
+      "taon": 2021,
+      "petsa": "Mayo 12",
+      "magnitud": 5.8,
+      "lokasyon": "Lindol sa Mindoro ng 2021"
+    },
+    {
+      "taon": 2021,
+      "petsa": "Hulyo 24",
+      "magnitud": 6.6,
+      "lokasyon": "Lindol sa Batangas ng 2021"
+    },
+    {
+      "taon": 2021,
+      "petsa": "Setyembre 27",
+      "magnitud": 5.7,
+      "lokasyon": "Lindol sa Mindoro ng 2021"
+    },
+    {
+      "taon": 2022,
+      "petsa": "Hulyo 27",
+      "magnitud": 7,
+      "lokasyon": "Lindol sa Luzon ng 2022"
+    },
+    {
+      "taon": 2023,
+      "petsa": "Nobyembre 17",
+      "magnitud": 6.8,
+      "lokasyon": "Lindol sa Mindanao ng Nobyembre 2023"
+    },
+    {
+      "taon": 2023,
+      "petsa": "Disyembre 3",
+      "magnitud": 7.6,
+      "lokasyon": "Lindol sa Mindanao ng Disyembre 2023"
+    },
+    {
+      "taon": 2025,
+      "petsa": "Setyembre 30",
+      "magnitud": 6.9,
+      "lokasyon": "Lindol sa Cebu ng 2025"
+    },
+    {
+      "taon": 2025,
+      "petsa": "Oktubre 10",
+      "magnitud": 7.4,
+      "lokasyon": "Mga lindol sa Davao ng 2025"
+    },
+    {
+      "taon": 2026,
+      "petsa": "Hunyo 6",
+      "magnitud": 5.3,
+      "lokasyon": "Lindol sa Albay ng 2026"
+    },
+    {
+      "taon": 2026,
+      "petsa": "Hunyo 8",
+      "magnitud": 7.8,
+      "lokasyon": "Lindol sa Mindanao ng 2026"
+    }
+  ],
+  "meta": {
+    "title": "Malalakas na Lindol sa Pilipinas mula 2001 - Free Download",
+    "description": "Talaan ng malalakas na lindol na tumama sa Pilipinas mula 2001 kasama ang taon, petsa, lakas (magnitud) at lokasyon, mula sa Wikipediang Tagalog. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Malalakas na Lindol sa Pilipinas mula 2001 | ListBase",
+    "seo_description": "Download Malalakas na Lindol sa Pilipinas mula 2001 — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Talaan_ng_mga_lindol_sa_Pilipinas"
+    ]
+  }
+}
