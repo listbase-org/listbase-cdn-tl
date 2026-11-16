@@ -1,0 +1,256 @@
+{
+  "id": "tl-grdp-bawat-tao-ayon-sa-rehiyon",
+  "name": "GRDP Bawat Tao ayon sa Rehiyon ng Pilipinas (2022–2025)",
+  "title": "GRDP Bawat Tao ayon sa Rehiyon ng Pilipinas (2022–2025)",
+  "description": "Gross Regional Domestic Product bawat tao (per capita) ng bawat rehiyon ng Pilipinas sa piso, sa kasalukuyang presyo (2022–2025) at sa konstanteng presyo ng 2018 (2023–2025), mula sa Philippine Statistics Authority.",
+  "category": "economy",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__GP__RG__PCI/0772B5BPCP1.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__GP__RG__PCI/0772B5BPCP1.px/",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "kasalukuyang_presyo_2022",
+      "label": "Kasalukuyang Presyo 2022",
+      "type": "number"
+    },
+    {
+      "key": "kasalukuyang_presyo_2023",
+      "label": "Kasalukuyang Presyo 2023",
+      "type": "number"
+    },
+    {
+      "key": "kasalukuyang_presyo_2024",
+      "label": "Kasalukuyang Presyo 2024",
+      "type": "number"
+    },
+    {
+      "key": "kasalukuyang_presyo_2025",
+      "label": "Kasalukuyang Presyo 2025",
+      "type": "number"
+    },
+    {
+      "key": "konstanteng_presyo_2018_2023",
+      "label": "Konstanteng Presyo 2018 2023",
+      "type": "number"
+    },
+    {
+      "key": "konstanteng_presyo_2018_2024",
+      "label": "Konstanteng Presyo 2018 2024",
+      "type": "number"
+    },
+    {
+      "key": "konstanteng_presyo_2018_2025",
+      "label": "Konstanteng Presyo 2018 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rehiyon": "National Capital Region (NCR)",
+      "kasalukuyang_presyo_2022": 505368,
+      "kasalukuyang_presyo_2023": 552212,
+      "kasalukuyang_presyo_2024": 595591,
+      "kasalukuyang_presyo_2025": 631279,
+      "konstanteng_presyo_2018_2023": 479415,
+      "konstanteng_presyo_2018_2024": 503424,
+      "konstanteng_presyo_2018_2025": 522564
+    },
+    {
+      "rehiyon": "Cordillera Administrative Region (CAR)",
+      "kasalukuyang_presyo_2022": 199043,
+      "kasalukuyang_presyo_2023": 220480,
+      "kasalukuyang_presyo_2024": 236955,
+      "kasalukuyang_presyo_2025": 249740,
+      "konstanteng_presyo_2018_2023": 194036,
+      "konstanteng_presyo_2018_2024": 201186,
+      "konstanteng_presyo_2018_2025": 207589
+    },
+    {
+      "rehiyon": "Region I (Ilocos Region)",
+      "kasalukuyang_presyo_2022": 137192,
+      "kasalukuyang_presyo_2023": 152435,
+      "kasalukuyang_presyo_2024": 164157,
+      "kasalukuyang_presyo_2025": 172668,
+      "konstanteng_presyo_2018_2023": 131491,
+      "konstanteng_presyo_2018_2024": 137604,
+      "konstanteng_presyo_2018_2025": 143476
+    },
+    {
+      "rehiyon": "Region II (Cagayan Valley)",
+      "kasalukuyang_presyo_2022": 121930,
+      "kasalukuyang_presyo_2023": 135690,
+      "kasalukuyang_presyo_2024": 149147,
+      "kasalukuyang_presyo_2025": 152041,
+      "konstanteng_presyo_2018_2023": 118762,
+      "konstanteng_presyo_2018_2024": 124370,
+      "konstanteng_presyo_2018_2025": 128410
+    },
+    {
+      "rehiyon": "Region III (Central Luzon)",
+      "kasalukuyang_presyo_2022": 187249,
+      "kasalukuyang_presyo_2023": 207517,
+      "kasalukuyang_presyo_2024": 224683,
+      "kasalukuyang_presyo_2025": 234427,
+      "konstanteng_presyo_2018_2023": 181682,
+      "konstanteng_presyo_2018_2024": 191739,
+      "konstanteng_presyo_2018_2025": 198609
+    },
+    {
+      "rehiyon": "Region IV-A (CALABARZON)",
+      "kasalukuyang_presyo_2022": 189066,
+      "kasalukuyang_presyo_2023": 204215,
+      "kasalukuyang_presyo_2024": 219068,
+      "kasalukuyang_presyo_2025": 232423,
+      "konstanteng_presyo_2018_2023": 184067,
+      "konstanteng_presyo_2018_2024": 192226,
+      "konstanteng_presyo_2018_2025": 199726
+    },
+    {
+      "rehiyon": "MIMAROPA Region",
+      "kasalukuyang_presyo_2022": 138276,
+      "kasalukuyang_presyo_2023": 142645,
+      "kasalukuyang_presyo_2024": 153194,
+      "kasalukuyang_presyo_2025": 160506,
+      "konstanteng_presyo_2018_2023": 124518,
+      "konstanteng_presyo_2018_2024": 129053,
+      "konstanteng_presyo_2018_2025": 133480
+    },
+    {
+      "rehiyon": "Region V (Bicol Region)",
+      "kasalukuyang_presyo_2022": 104562,
+      "kasalukuyang_presyo_2023": 112503,
+      "kasalukuyang_presyo_2024": 122688,
+      "kasalukuyang_presyo_2025": 124630,
+      "konstanteng_presyo_2018_2023": 97969,
+      "konstanteng_presyo_2018_2024": 102051,
+      "konstanteng_presyo_2018_2025": 101700
+    },
+    {
+      "rehiyon": "Region VI (Western Visayas)",
+      "kasalukuyang_presyo_2022": 144535,
+      "kasalukuyang_presyo_2023": 153011,
+      "kasalukuyang_presyo_2024": 164625,
+      "kasalukuyang_presyo_2025": 173343,
+      "konstanteng_presyo_2018_2023": 127776,
+      "konstanteng_presyo_2018_2024": 132550,
+      "konstanteng_presyo_2018_2025": 140068
+    },
+    {
+      "rehiyon": "Negros Island Region (NIR)",
+      "kasalukuyang_presyo_2022": 134360,
+      "kasalukuyang_presyo_2023": 153516,
+      "kasalukuyang_presyo_2024": 166853,
+      "kasalukuyang_presyo_2025": 176179,
+      "konstanteng_presyo_2018_2023": 125078,
+      "konstanteng_presyo_2018_2024": 131749,
+      "konstanteng_presyo_2018_2025": 138726
+    },
+    {
+      "rehiyon": "Region VII (Central Visayas)",
+      "kasalukuyang_presyo_2022": 180719,
+      "kasalukuyang_presyo_2023": 200827,
+      "kasalukuyang_presyo_2024": 219183,
+      "kasalukuyang_presyo_2025": 229518,
+      "konstanteng_presyo_2018_2023": 176496,
+      "konstanteng_presyo_2018_2024": 187622,
+      "konstanteng_presyo_2018_2025": 192739
+    },
+    {
+      "rehiyon": "Region VIII (Eastern Visayas)",
+      "kasalukuyang_presyo_2022": 111390,
+      "kasalukuyang_presyo_2023": 122447,
+      "kasalukuyang_presyo_2024": 133090,
+      "kasalukuyang_presyo_2025": 137209,
+      "konstanteng_presyo_2018_2023": 112848,
+      "konstanteng_presyo_2018_2024": 118888,
+      "konstanteng_presyo_2018_2025": 119166
+    },
+    {
+      "rehiyon": "Region IX (Zamboanga Peninsula)",
+      "kasalukuyang_presyo_2022": 108516,
+      "kasalukuyang_presyo_2023": 117801,
+      "kasalukuyang_presyo_2024": 126523,
+      "kasalukuyang_presyo_2025": 129675,
+      "konstanteng_presyo_2018_2023": 97471,
+      "konstanteng_presyo_2018_2024": 100339,
+      "konstanteng_presyo_2018_2025": 101724
+    },
+    {
+      "rehiyon": "Region X (Northern Mindanao)",
+      "kasalukuyang_presyo_2022": 209228,
+      "kasalukuyang_presyo_2023": 228905,
+      "kasalukuyang_presyo_2024": 244431,
+      "kasalukuyang_presyo_2025": 255321,
+      "konstanteng_presyo_2018_2023": 190554,
+      "konstanteng_presyo_2018_2024": 200314,
+      "konstanteng_presyo_2018_2025": 208312
+    },
+    {
+      "rehiyon": "Region XI (Davao Region)",
+      "kasalukuyang_presyo_2022": 204951,
+      "kasalukuyang_presyo_2023": 232475,
+      "kasalukuyang_presyo_2024": 252431,
+      "kasalukuyang_presyo_2025": 265488,
+      "konstanteng_presyo_2018_2023": 188571,
+      "konstanteng_presyo_2018_2024": 198496,
+      "konstanteng_presyo_2018_2025": 206727
+    },
+    {
+      "rehiyon": "Region XII (SOCCSKSARGEN)",
+      "kasalukuyang_presyo_2022": 126663,
+      "kasalukuyang_presyo_2023": 138471,
+      "kasalukuyang_presyo_2024": 148549,
+      "kasalukuyang_presyo_2025": 152350,
+      "konstanteng_presyo_2018_2023": 115789,
+      "konstanteng_presyo_2018_2024": 120931,
+      "konstanteng_presyo_2018_2025": 125453
+    },
+    {
+      "rehiyon": "Region XIII (Caraga)",
+      "kasalukuyang_presyo_2022": 131683,
+      "kasalukuyang_presyo_2023": 140297,
+      "kasalukuyang_presyo_2024": 150462,
+      "kasalukuyang_presyo_2025": 161758,
+      "konstanteng_presyo_2018_2023": 117396,
+      "konstanteng_presyo_2018_2024": 124236,
+      "konstanteng_presyo_2018_2025": 129925
+    },
+    {
+      "rehiyon": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+      "kasalukuyang_presyo_2022": 67406,
+      "kasalukuyang_presyo_2023": 72034,
+      "kasalukuyang_presyo_2024": 77070,
+      "kasalukuyang_presyo_2025": 78874,
+      "konstanteng_presyo_2018_2023": 59276,
+      "konstanteng_presyo_2018_2024": 60406,
+      "konstanteng_presyo_2018_2025": 62438
+    },
+    {
+      "rehiyon": "Philippines",
+      "kasalukuyang_presyo_2022": 198561,
+      "kasalukuyang_presyo_2023": 217255,
+      "kasalukuyang_presyo_2024": 234305,
+      "kasalukuyang_presyo_2025": 245997,
+      "konstanteng_presyo_2018_2023": 188061,
+      "konstanteng_presyo_2018_2024": 197096,
+      "konstanteng_presyo_2018_2025": 204005
+    }
+  ],
+  "meta": {
+    "title": "GRDP Bawat Tao ayon sa Rehiyon ng Pilipinas (2022–2025) - Free Download",
+    "description": "Gross Regional Domestic Product bawat tao (per capita) ng bawat rehiyon ng Pilipinas sa piso, sa kasalukuyang presyo (2022–2025) at sa konstanteng presyo ng 2018 (2023–2025), mula sa Philippine Statistics Authority. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "GRDP Bawat Tao ayon sa Rehiyon ng Pilipinas (2022–2025) | ListBase",
+    "seo_description": "Download GRDP Bawat Tao ayon sa Rehiyon ng Pilipinas (2022–2025) — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__GP__RG__PCI/0772B5BPCP1.px/"
+    ]
+  }
+}

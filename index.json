@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-15T02:10:11.147Z",
-  "total_datasets": 530,
-  "total_records": 449276,
+  "generated": "2026-11-16T02:09:12.881Z",
+  "total_datasets": 531,
+  "total_records": 449295,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -1862,6 +1862,35 @@
         "xlsx": {
           "name": "tl-zamboanga-peninsula-simbahan_TL.xlsx",
           "size": 7625
+        }
+      }
+    },
+    {
+      "id": "tl-grdp-bawat-tao-ayon-sa-rehiyon",
+      "name": "GRDP Bawat Tao ayon sa Rehiyon ng Pilipinas (2022–2025)",
+      "category": "economy",
+      "record_count": 19,
+      "columns": [
+        "rehiyon",
+        "kasalukuyang_presyo_2022",
+        "kasalukuyang_presyo_2023",
+        "kasalukuyang_presyo_2024",
+        "kasalukuyang_presyo_2025",
+        "konstanteng_presyo_2018_2023",
+        "konstanteng_presyo_2018_2024",
+        "konstanteng_presyo_2018_2025"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__GP__RG__PCI/0772B5BPCP1.px/",
+      "updated": "2026-11",
+      "size": 9514,
+      "files": {
+        "csv": {
+          "name": "tl-grdp-bawat-tao-ayon-sa-rehiyon_TL.csv",
+          "size": 1967
+        },
+        "xlsx": {
+          "name": "tl-grdp-bawat-tao-ayon-sa-rehiyon_TL.xlsx",
+          "size": 8125
         }
       }
     },
