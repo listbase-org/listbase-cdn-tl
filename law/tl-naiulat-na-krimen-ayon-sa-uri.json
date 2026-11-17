@@ -1,0 +1,335 @@
+{
+  "id": "tl-naiulat-na-krimen-ayon-sa-uri",
+  "name": "Mga Naiulat na Krimen sa Pilipinas ayon sa Uri (2018–2024)",
+  "title": "Mga Naiulat na Krimen sa Pilipinas ayon sa Uri (2018–2024)",
+  "description": "Bilang ng mga naiulat na insidente ng krimen sa Pilipinas ayon sa uri — index crimes (murder, homicide, rape, robbery, theft, carnapping), non-index crimes at reckless imprudence — bawat taon mula 2018 hanggang 2024, mula sa Philippine Statistical Yearbook ng PSA.",
+  "category": "law",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3S__C17/0021H2BRPI0.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3S__C17/0021H2BRPI0.px/",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "uri_ng_krimen",
+      "label": "Uri Ng Krimen",
+      "type": "string"
+    },
+    {
+      "key": "indicator",
+      "label": "Indicator",
+      "type": "string"
+    },
+    {
+      "key": "taon_2018",
+      "label": "Taon 2018",
+      "type": "number"
+    },
+    {
+      "key": "taon_2019",
+      "label": "Taon 2019",
+      "type": "number"
+    },
+    {
+      "key": "taon_2020",
+      "label": "Taon 2020",
+      "type": "number"
+    },
+    {
+      "key": "taon_2021",
+      "label": "Taon 2021",
+      "type": "number"
+    },
+    {
+      "key": "taon_2022",
+      "label": "Taon 2022",
+      "type": "number"
+    },
+    {
+      "key": "taon_2023",
+      "label": "Taon 2023",
+      "type": "number"
+    },
+    {
+      "key": "taon_2024",
+      "label": "Taon 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "uri_ng_krimen": "Crime Incidents Total",
+      "indicator": "Total",
+      "taon_2018": 268185,
+      "taon_2019": 261565,
+      "taon_2020": 394468,
+      "taon_2021": 375731,
+      "taon_2022": 379499,
+      "taon_2023": 391423,
+      "taon_2024": 380801
+    },
+    {
+      "uri_ng_krimen": "Total Peace and Order Indicator (POI)",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 268185,
+      "taon_2019": 261565,
+      "taon_2020": 244164,
+      "taon_2021": 226392,
+      "taon_2022": 207143,
+      "taon_2023": 199414,
+      "taon_2024": 200627
+    },
+    {
+      "uri_ng_krimen": "Total Index Crimes",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 77725,
+      "taon_2019": 68431,
+      "taon_2020": 43912,
+      "taon_2021": 37842,
+      "taon_2022": 39244,
+      "taon_2023": 38671,
+      "taon_2024": 38844
+    },
+    {
+      "uri_ng_krimen": "Index Crimes: Murder",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 7088,
+      "taon_2019": 6319,
+      "taon_2020": 5492,
+      "taon_2021": 4845,
+      "taon_2022": 4272,
+      "taon_2023": 4209,
+      "taon_2024": 4151
+    },
+    {
+      "uri_ng_krimen": "Index Crimes: Homicide",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 2093,
+      "taon_2019": 1793,
+      "taon_2020": 1362,
+      "taon_2021": 1096,
+      "taon_2022": 1015,
+      "taon_2023": 1128,
+      "taon_2024": 1223
+    },
+    {
+      "uri_ng_krimen": "Index Crimes: Physical Injury",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 15318,
+      "taon_2019": 12663,
+      "taon_2020": 7707,
+      "taon_2021": 5148,
+      "taon_2022": 5252,
+      "taon_2023": 4925,
+      "taon_2024": 5287
+    },
+    {
+      "uri_ng_krimen": "Index Crimes: Rape",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 9681,
+      "taon_2019": 9915,
+      "taon_2020": 9325,
+      "taon_2021": 7963,
+      "taon_2022": 8360,
+      "taon_2023": 8534,
+      "taon_2024": 8595
+    },
+    {
+      "uri_ng_krimen": "Index Crimes: Robbery",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 11492,
+      "taon_2019": 9967,
+      "taon_2020": 5191,
+      "taon_2021": 4937,
+      "taon_2022": 4969,
+      "taon_2023": 4768,
+      "taon_2024": 4098
+    },
+    {
+      "uri_ng_krimen": "Index Crimes: Theft",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 27011,
+      "taon_2019": 23097,
+      "taon_2020": 12130,
+      "taon_2021": 11492,
+      "taon_2022": 12968,
+      "taon_2023": 12722,
+      "taon_2024": 12931
+    },
+    {
+      "uri_ng_krimen": "Index Crimes: Carnapping MV",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 5039,
+      "taon_2019": 4460,
+      "taon_2020": 2489,
+      "taon_2021": 2145,
+      "taon_2022": 2165,
+      "taon_2023": 247,
+      "taon_2024": 279
+    },
+    {
+      "uri_ng_krimen": "Index Crimes: Special Complex Crimes",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 3,
+      "taon_2019": 217,
+      "taon_2020": 216,
+      "taon_2021": 216,
+      "taon_2022": 243,
+      "taon_2023": 210,
+      "taon_2024": 177
+    },
+    {
+      "uri_ng_krimen": "Total Non-Index Crimes",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 190460,
+      "taon_2019": 193134,
+      "taon_2020": 200252,
+      "taon_2021": 188550,
+      "taon_2022": 167899,
+      "taon_2023": 160743,
+      "taon_2024": 161783
+    },
+    {
+      "uri_ng_krimen": "Non-Index Crimes Violation of Special Laws",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 179593,
+      "taon_2019": 182491,
+      "taon_2020": 136915,
+      "taon_2021": 133856,
+      "taon_2022": 132604,
+      "taon_2023": 125143,
+      "taon_2024": 124709
+    },
+    {
+      "uri_ng_krimen": "Non-Index Crimes: Frustrated and Attempted Stages Focus Crimes",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": 10867,
+      "taon_2019": 10643,
+      "taon_2020": 9755,
+      "taon_2021": 9004,
+      "taon_2022": 9492,
+      "taon_2023": "",
+      "taon_2024": ""
+    },
+    {
+      "uri_ng_krimen": "Non-Index Crimes: Other Non-Index Crimes",
+      "indicator": "Peace and Order Indicator",
+      "taon_2018": "",
+      "taon_2019": "",
+      "taon_2020": 53582,
+      "taon_2021": 45690,
+      "taon_2022": 25803,
+      "taon_2023": 25997,
+      "taon_2024": 26868
+    },
+    {
+      "uri_ng_krimen": "Total Public Safety Indicator (PSI)",
+      "indicator": "Public Safety Indicator (PSI)",
+      "taon_2018": "",
+      "taon_2019": "",
+      "taon_2020": 150304,
+      "taon_2021": 149339,
+      "taon_2022": 172356,
+      "taon_2023": 192009,
+      "taon_2024": 180174
+    },
+    {
+      "uri_ng_krimen": "Reckless Imprudence Resulting To: Total (Vehicular Accidents)",
+      "indicator": "Public Safety Indicator (PSI)",
+      "taon_2018": "",
+      "taon_2019": "",
+      "taon_2020": 147646,
+      "taon_2021": 147719,
+      "taon_2022": 170596,
+      "taon_2023": 190412,
+      "taon_2024": 179016
+    },
+    {
+      "uri_ng_krimen": "Reckless Imprudence Resulting To: Homicide",
+      "indicator": "Public Safety Indicator (PSI)",
+      "taon_2018": "",
+      "taon_2019": "",
+      "taon_2020": 4294,
+      "taon_2021": 4993,
+      "taon_2022": 5311,
+      "taon_2023": 5423,
+      "taon_2024": 5084
+    },
+    {
+      "uri_ng_krimen": "Reckless Imprudence Resulting To: Physical Injury",
+      "indicator": "Public Safety Indicator (PSI)",
+      "taon_2018": "",
+      "taon_2019": "",
+      "taon_2020": 45818,
+      "taon_2021": 48534,
+      "taon_2022": 54233,
+      "taon_2023": 58269,
+      "taon_2024": 49779
+    },
+    {
+      "uri_ng_krimen": "Reckless Imprudence Resulting To: Damage to Property",
+      "indicator": "Public Safety Indicator (PSI)",
+      "taon_2018": "",
+      "taon_2019": "",
+      "taon_2020": 97534,
+      "taon_2021": 94192,
+      "taon_2022": 111052,
+      "taon_2023": 126720,
+      "taon_2024": 124153
+    },
+    {
+      "uri_ng_krimen": "Total Other Quasi Offenses",
+      "indicator": "Public Safety Indicator (PSI)",
+      "taon_2018": "",
+      "taon_2019": "",
+      "taon_2020": 2658,
+      "taon_2021": 1620,
+      "taon_2022": 1760,
+      "taon_2023": 1597,
+      "taon_2024": 1158
+    },
+    {
+      "uri_ng_krimen": "Other Quasi Offenses: Homicide",
+      "indicator": "Public Safety Indicator (PSI)",
+      "taon_2018": "",
+      "taon_2019": "",
+      "taon_2020": 146,
+      "taon_2021": 138,
+      "taon_2022": 154,
+      "taon_2023": 135,
+      "taon_2024": 104
+    },
+    {
+      "uri_ng_krimen": "Other Quasi Offense: Physical Injury",
+      "indicator": "Public Safety Indicator (PSI)",
+      "taon_2018": "",
+      "taon_2019": "",
+      "taon_2020": 893,
+      "taon_2021": 638,
+      "taon_2022": 697,
+      "taon_2023": 570,
+      "taon_2024": 391
+    },
+    {
+      "uri_ng_krimen": "Other Quasi Offenses: Damage to Property",
+      "indicator": "Public Safety Indicator (PSI)",
+      "taon_2018": "",
+      "taon_2019": "",
+      "taon_2020": 1619,
+      "taon_2021": 844,
+      "taon_2022": 909,
+      "taon_2023": 892,
+      "taon_2024": 663
+    }
+  ],
+  "meta": {
+    "title": "Mga Naiulat na Krimen sa Pilipinas ayon sa Uri (2018–2024) - Free Download",
+    "description": "Bilang ng mga naiulat na insidente ng krimen sa Pilipinas ayon sa uri — index crimes (murder, homicide, rape, robbery, theft, carnapping), non-index crimes at reckless imprudence — bawat taon mula 2018 hanggang 2024, mula sa Philippine Statistical Yearbook ng PSA. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Naiulat na Krimen sa Pilipinas ayon sa Uri (2018–2024) | ListBase",
+    "seo_description": "Download Mga Naiulat na Krimen sa Pilipinas ayon sa Uri (2018–2024) — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3S__C17/0021H2BRPI0.px/"
+    ]
+  }
+}

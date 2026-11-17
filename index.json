@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-17T02:13:33.477Z",
-  "total_datasets": 540,
-  "total_records": 449500,
+  "generated": "2026-11-17T02:13:44.894Z",
+  "total_datasets": 541,
+  "total_records": 449524,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -6125,6 +6125,36 @@
         "xlsx": {
           "name": "tl-mga-mahistrado-ng-sandiganbayan_TL.xlsx",
           "size": 10874
+        }
+      }
+    },
+    {
+      "id": "tl-naiulat-na-krimen-ayon-sa-uri",
+      "name": "Mga Naiulat na Krimen sa Pilipinas ayon sa Uri (2018–2024)",
+      "category": "law",
+      "record_count": 24,
+      "columns": [
+        "uri_ng_krimen",
+        "indicator",
+        "taon_2018",
+        "taon_2019",
+        "taon_2020",
+        "taon_2021",
+        "taon_2022",
+        "taon_2023",
+        "taon_2024"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3S__C17/0021H2BRPI0.px/",
+      "updated": "2026-11",
+      "size": 9666,
+      "files": {
+        "csv": {
+          "name": "tl-naiulat-na-krimen-ayon-sa-uri_TL.csv",
+          "size": 2855
+        },
+        "xlsx": {
+          "name": "tl-naiulat-na-krimen-ayon-sa-uri_TL.xlsx",
+          "size": 8306
         }
       }
     },
