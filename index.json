@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-17T02:13:20.904Z",
-  "total_datasets": 539,
-  "total_records": 449478,
+  "generated": "2026-11-17T02:13:33.477Z",
+  "total_datasets": 540,
+  "total_records": 449500,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -15216,6 +15216,30 @@
         "xlsx": {
           "name": "tl-mga-frequency-ng-smart_TL.xlsx",
           "size": 7383
+        }
+      }
+    },
+    {
+      "id": "tl-mga-gamit-ng-internet-sa-pilipinas-2024",
+      "name": "Mga Gamit ng Internet ng mga Pilipino (2024)",
+      "category": "tech",
+      "record_count": 22,
+      "columns": [
+        "gamit_ng_internet",
+        "bilang",
+        "porsiyento"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3M__IU/0043M3EEOD4.px/",
+      "updated": "2026-11",
+      "size": 5373,
+      "files": {
+        "csv": {
+          "name": "tl-mga-gamit-ng-internet-sa-pilipinas-2024_TL.csv",
+          "size": 1918
+        },
+        "xlsx": {
+          "name": "tl-mga-gamit-ng-internet-sa-pilipinas-2024_TL.xlsx",
+          "size": 7936
         }
       }
     },
