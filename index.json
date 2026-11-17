@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-16T02:10:22.746Z",
-  "total_datasets": 537,
-  "total_records": 449442,
+  "generated": "2026-11-17T02:13:08.427Z",
+  "total_datasets": 538,
+  "total_records": 449460,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -15104,6 +15104,34 @@
         "xlsx": {
           "name": "tl-dihital-na-himpilang-pantelebisyon_TL.xlsx",
           "size": 21759
+        }
+      }
+    },
+    {
+      "id": "tl-gumagamit-ng-internet-ayon-sa-rehiyon-2024",
+      "name": "Mga Gumagamit ng Internet sa Pilipinas ayon sa Rehiyon at Kasarian (2024)",
+      "category": "tech",
+      "record_count": 18,
+      "columns": [
+        "rehiyon",
+        "gumagamit_kabuuan",
+        "porsiyento_ng_populasyon_10_pataas",
+        "gumagamit_lalaki",
+        "bahagi_ng_lalaki_sa_gumagamit_pct",
+        "gumagamit_babae",
+        "bahagi_ng_babae_sa_gumagamit_pct"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3M__IU/0013M3EEOD1.px/",
+      "updated": "2026-11",
+      "size": 8013,
+      "files": {
+        "csv": {
+          "name": "tl-gumagamit-ng-internet-ayon-sa-rehiyon-2024_TL.csv",
+          "size": 1593
+        },
+        "xlsx": {
+          "name": "tl-gumagamit-ng-internet-ayon-sa-rehiyon-2024_TL.xlsx",
+          "size": 7945
         }
       }
     },

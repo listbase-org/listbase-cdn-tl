@@ -1,0 +1,223 @@
+{
+  "id": "tl-gumagamit-ng-internet-ayon-sa-rehiyon-2024",
+  "name": "Mga Gumagamit ng Internet sa Pilipinas ayon sa Rehiyon at Kasarian (2024)",
+  "title": "Mga Gumagamit ng Internet sa Pilipinas ayon sa Rehiyon at Kasarian (2024)",
+  "description": "Bilang at porsiyento ng mga indibidwal na 10 taong gulang pataas na gumagamit ng internet sa bawat rehiyon ng Pilipinas, hinati ayon sa kasarian, mula sa 2024 survey ng PSA (Digital Connectivity).",
+  "category": "tech",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3M__IU/0013M3EEOD1.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3M__IU/0013M3EEOD1.px/",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "gumagamit_kabuuan",
+      "label": "Gumagamit Kabuuan",
+      "type": "number"
+    },
+    {
+      "key": "porsiyento_ng_populasyon_10_pataas",
+      "label": "Porsiyento Ng Populasyon 10 Pataas",
+      "type": "number"
+    },
+    {
+      "key": "gumagamit_lalaki",
+      "label": "Gumagamit Lalaki",
+      "type": "number"
+    },
+    {
+      "key": "bahagi_ng_lalaki_sa_gumagamit_pct",
+      "label": "Bahagi Ng Lalaki Sa Gumagamit Pct",
+      "type": "number"
+    },
+    {
+      "key": "gumagamit_babae",
+      "label": "Gumagamit Babae",
+      "type": "number"
+    },
+    {
+      "key": "bahagi_ng_babae_sa_gumagamit_pct",
+      "label": "Bahagi Ng Babae Sa Gumagamit Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rehiyon": "PHILIPPINES",
+      "gumagamit_kabuuan": 61467109,
+      "porsiyento_ng_populasyon_10_pataas": 67.3,
+      "gumagamit_lalaki": 29650540,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 48.2,
+      "gumagamit_babae": 31816569,
+      "bahagi_ng_babae_sa_gumagamit_pct": 51.8
+    },
+    {
+      "rehiyon": "National Capital Region",
+      "gumagamit_kabuuan": 9465688,
+      "porsiyento_ng_populasyon_10_pataas": 79.4,
+      "gumagamit_lalaki": 4579793,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 48.4,
+      "gumagamit_babae": 4885896,
+      "bahagi_ng_babae_sa_gumagamit_pct": 51.6
+    },
+    {
+      "rehiyon": "Cordillera Administrative Region",
+      "gumagamit_kabuuan": 1070014,
+      "porsiyento_ng_populasyon_10_pataas": 71.5,
+      "gumagamit_lalaki": 526369,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 49.2,
+      "gumagamit_babae": 543645,
+      "bahagi_ng_babae_sa_gumagamit_pct": 50.8
+    },
+    {
+      "rehiyon": "Region I - Ilocos Region",
+      "gumagamit_kabuuan": 3250486,
+      "porsiyento_ng_populasyon_10_pataas": 74.1,
+      "gumagamit_lalaki": 1587591,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 48.8,
+      "gumagamit_babae": 1662895,
+      "bahagi_ng_babae_sa_gumagamit_pct": 51.2
+    },
+    {
+      "rehiyon": "Region II - Cagayan Valley",
+      "gumagamit_kabuuan": 2280119,
+      "porsiyento_ng_populasyon_10_pataas": 74.6,
+      "gumagamit_lalaki": 1119979,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 49.1,
+      "gumagamit_babae": 1160140,
+      "bahagi_ng_babae_sa_gumagamit_pct": 50.9
+    },
+    {
+      "rehiyon": "Region III - Central Luzon",
+      "gumagamit_kabuuan": 7920256,
+      "porsiyento_ng_populasyon_10_pataas": 74,
+      "gumagamit_lalaki": 3843871,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 48.5,
+      "gumagamit_babae": 4076385,
+      "bahagi_ng_babae_sa_gumagamit_pct": 51.5
+    },
+    {
+      "rehiyon": "Region IV-A - CALABARZON",
+      "gumagamit_kabuuan": 9966173,
+      "porsiyento_ng_populasyon_10_pataas": 71.3,
+      "gumagamit_lalaki": 4674814,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 46.9,
+      "gumagamit_babae": 5291358,
+      "bahagi_ng_babae_sa_gumagamit_pct": 53.1
+    },
+    {
+      "rehiyon": "MIMAROPA Region",
+      "gumagamit_kabuuan": 1607108,
+      "porsiyento_ng_populasyon_10_pataas": 63.3,
+      "gumagamit_lalaki": 779134,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 48.5,
+      "gumagamit_babae": 827974,
+      "bahagi_ng_babae_sa_gumagamit_pct": 51.5
+    },
+    {
+      "rehiyon": "Region V - Bicol Region",
+      "gumagamit_kabuuan": 3089195,
+      "porsiyento_ng_populasyon_10_pataas": 63.2,
+      "gumagamit_lalaki": 1471356,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 47.6,
+      "gumagamit_babae": 1617838,
+      "bahagi_ng_babae_sa_gumagamit_pct": 52.4
+    },
+    {
+      "rehiyon": "Region VI - Western Visayas",
+      "gumagamit_kabuuan": 4047294,
+      "porsiyento_ng_populasyon_10_pataas": 61.4,
+      "gumagamit_lalaki": 1934536,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 47.8,
+      "gumagamit_babae": 2112757,
+      "bahagi_ng_babae_sa_gumagamit_pct": 52.2
+    },
+    {
+      "rehiyon": "Region VII - Central Visayas",
+      "gumagamit_kabuuan": 4514738,
+      "porsiyento_ng_populasyon_10_pataas": 67.7,
+      "gumagamit_lalaki": 2180132,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 48.3,
+      "gumagamit_babae": 2334606,
+      "bahagi_ng_babae_sa_gumagamit_pct": 51.7
+    },
+    {
+      "rehiyon": "Region VIII - Eastern Visayas",
+      "gumagamit_kabuuan": 2565585,
+      "porsiyento_ng_populasyon_10_pataas": 66.4,
+      "gumagamit_lalaki": 1258118,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 49,
+      "gumagamit_babae": 1307467,
+      "bahagi_ng_babae_sa_gumagamit_pct": 51
+    },
+    {
+      "rehiyon": "Region IX - Zamboanga Peninsula",
+      "gumagamit_kabuuan": 1533070,
+      "porsiyento_ng_populasyon_10_pataas": 50.1,
+      "gumagamit_lalaki": 724538,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 47.3,
+      "gumagamit_babae": 808532,
+      "bahagi_ng_babae_sa_gumagamit_pct": 52.7
+    },
+    {
+      "rehiyon": "Region X - Northern Mindanao",
+      "gumagamit_kabuuan": 2575198,
+      "porsiyento_ng_populasyon_10_pataas": 61.7,
+      "gumagamit_lalaki": 1291230,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 50.1,
+      "gumagamit_babae": 1283969,
+      "bahagi_ng_babae_sa_gumagamit_pct": 49.9
+    },
+    {
+      "rehiyon": "Region XI - Davao Region",
+      "gumagamit_kabuuan": 2379134,
+      "porsiyento_ng_populasyon_10_pataas": 53.5,
+      "gumagamit_lalaki": 1107789,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 46.6,
+      "gumagamit_babae": 1271346,
+      "bahagi_ng_babae_sa_gumagamit_pct": 53.4
+    },
+    {
+      "rehiyon": "Region XII - SOCCSKSARGEN",
+      "gumagamit_kabuuan": 2242217,
+      "porsiyento_ng_populasyon_10_pataas": 61.7,
+      "gumagamit_lalaki": 1099122,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 49,
+      "gumagamit_babae": 1143095,
+      "bahagi_ng_babae_sa_gumagamit_pct": 51
+    },
+    {
+      "rehiyon": "Region XIII - Caraga",
+      "gumagamit_kabuuan": 1442671,
+      "porsiyento_ng_populasyon_10_pataas": 65,
+      "gumagamit_lalaki": 734632,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 50.9,
+      "gumagamit_babae": 708040,
+      "bahagi_ng_babae_sa_gumagamit_pct": 49.1
+    },
+    {
+      "rehiyon": "Bangsamoro Autonomous Region in Muslim Mindanao",
+      "gumagamit_kabuuan": 1518163,
+      "porsiyento_ng_populasyon_10_pataas": 40.5,
+      "gumagamit_lalaki": 737537,
+      "bahagi_ng_lalaki_sa_gumagamit_pct": 48.6,
+      "gumagamit_babae": 780626,
+      "bahagi_ng_babae_sa_gumagamit_pct": 51.4
+    }
+  ],
+  "meta": {
+    "title": "Mga Gumagamit ng Internet sa Pilipinas ayon sa Rehiyon at Kasarian (2024) - Free Download",
+    "description": "Bilang at porsiyento ng mga indibidwal na 10 taong gulang pataas na gumagamit ng internet sa bawat rehiyon ng Pilipinas, hinati ayon sa kasarian, mula sa 2024 survey ng PSA (Digital Connectivity). Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Gumagamit ng Internet sa Pilipinas ayon sa Rehiyon at Kasarian (2024) | ListBase",
+    "seo_description": "Download Mga Gumagamit ng Internet sa Pilipinas ayon sa Rehiyon at Kasarian (2024) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3M__IU/0013M3EEOD1.px/"
+    ]
+  }
+}
