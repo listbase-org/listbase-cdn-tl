@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-17T02:13:08.427Z",
-  "total_datasets": 538,
-  "total_records": 449460,
+  "generated": "2026-11-17T02:13:20.904Z",
+  "total_datasets": 539,
+  "total_records": 449478,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -5957,6 +5957,36 @@
         "xlsx": {
           "name": "tl-mga-wika-sa-pilipinas-ayon-sa-mananalita_TL.xlsx",
           "size": 6931
+        }
+      }
+    },
+    {
+      "id": "tl-insidente-ng-krimen-ayon-sa-rehiyon",
+      "name": "Mga Insidente ng Krimen sa Pilipinas ayon sa Rehiyon (2020–2024)",
+      "category": "law",
+      "record_count": 18,
+      "columns": [
+        "rehiyon",
+        "insidente_ng_krimen_2020",
+        "insidente_ng_krimen_2021",
+        "insidente_ng_krimen_2022",
+        "insidente_ng_krimen_2023",
+        "insidente_ng_krimen_2024",
+        "nalutas_2024",
+        "crime_solution_efficiency_pct_2024",
+        "average_monthly_crime_rate_2024"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3S__C17/0041H2BAMC0.px/",
+      "updated": "2026-11",
+      "size": 9493,
+      "files": {
+        "csv": {
+          "name": "tl-insidente-ng-krimen-ayon-sa-rehiyon_TL.csv",
+          "size": 1569
+        },
+        "xlsx": {
+          "name": "tl-insidente-ng-krimen-ayon-sa-rehiyon_TL.xlsx",
+          "size": 7989
         }
       }
     },

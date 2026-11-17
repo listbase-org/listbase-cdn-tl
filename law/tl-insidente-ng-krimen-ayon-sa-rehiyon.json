@@ -1,0 +1,269 @@
+{
+  "id": "tl-insidente-ng-krimen-ayon-sa-rehiyon",
+  "name": "Mga Insidente ng Krimen sa Pilipinas ayon sa Rehiyon (2020–2024)",
+  "title": "Mga Insidente ng Krimen sa Pilipinas ayon sa Rehiyon (2020–2024)",
+  "description": "Kabuuang naiulat na insidente ng krimen bawat rehiyon ng Pilipinas mula 2020 hanggang 2024, kasama ang bilang ng nalutas na krimen, crime solution efficiency at average monthly crime rate noong 2024, mula sa Philippine Statistical Yearbook ng PSA (datos ng PNP).",
+  "category": "law",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3S__C17/0041H2BAMC0.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3S__C17/0041H2BAMC0.px/",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "insidente_ng_krimen_2020",
+      "label": "Insidente Ng Krimen 2020",
+      "type": "number"
+    },
+    {
+      "key": "insidente_ng_krimen_2021",
+      "label": "Insidente Ng Krimen 2021",
+      "type": "number"
+    },
+    {
+      "key": "insidente_ng_krimen_2022",
+      "label": "Insidente Ng Krimen 2022",
+      "type": "number"
+    },
+    {
+      "key": "insidente_ng_krimen_2023",
+      "label": "Insidente Ng Krimen 2023",
+      "type": "number"
+    },
+    {
+      "key": "insidente_ng_krimen_2024",
+      "label": "Insidente Ng Krimen 2024",
+      "type": "number"
+    },
+    {
+      "key": "nalutas_2024",
+      "label": "Nalutas 2024",
+      "type": "number"
+    },
+    {
+      "key": "crime_solution_efficiency_pct_2024",
+      "label": "Crime Solution Efficiency Pct 2024",
+      "type": "number"
+    },
+    {
+      "key": "average_monthly_crime_rate_2024",
+      "label": "Average Monthly Crime Rate 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rehiyon": "Philippines",
+      "insidente_ng_krimen_2020": 394468,
+      "insidente_ng_krimen_2021": 375731,
+      "insidente_ng_krimen_2022": 379499,
+      "insidente_ng_krimen_2023": 391423,
+      "insidente_ng_krimen_2024": 380801,
+      "nalutas_2024": 339852,
+      "crime_solution_efficiency_pct_2024": 89,
+      "average_monthly_crime_rate_2024": 27
+    },
+    {
+      "rehiyon": "NCR",
+      "insidente_ng_krimen_2020": 98367,
+      "insidente_ng_krimen_2021": 89610,
+      "insidente_ng_krimen_2022": 101598,
+      "insidente_ng_krimen_2023": 112965,
+      "insidente_ng_krimen_2024": 106152,
+      "nalutas_2024": 100238,
+      "crime_solution_efficiency_pct_2024": 94,
+      "average_monthly_crime_rate_2024": 61
+    },
+    {
+      "rehiyon": "CAR",
+      "insidente_ng_krimen_2020": 3535,
+      "insidente_ng_krimen_2021": 3024,
+      "insidente_ng_krimen_2022": 4014,
+      "insidente_ng_krimen_2023": 3772,
+      "insidente_ng_krimen_2024": 3696,
+      "nalutas_2024": 3036,
+      "crime_solution_efficiency_pct_2024": 82,
+      "average_monthly_crime_rate_2024": 16
+    },
+    {
+      "rehiyon": "I - Ilocos Region",
+      "insidente_ng_krimen_2020": 13774,
+      "insidente_ng_krimen_2021": 9277,
+      "insidente_ng_krimen_2022": 8541,
+      "insidente_ng_krimen_2023": 8399,
+      "insidente_ng_krimen_2024": 7909,
+      "nalutas_2024": 6561,
+      "crime_solution_efficiency_pct_2024": 83,
+      "average_monthly_crime_rate_2024": 12
+    },
+    {
+      "rehiyon": "II - Cagayan Valley",
+      "insidente_ng_krimen_2020": 15549,
+      "insidente_ng_krimen_2021": 12707,
+      "insidente_ng_krimen_2022": 7829,
+      "insidente_ng_krimen_2023": 7077,
+      "insidente_ng_krimen_2024": 7055,
+      "nalutas_2024": 5998,
+      "crime_solution_efficiency_pct_2024": 85,
+      "average_monthly_crime_rate_2024": 15
+    },
+    {
+      "rehiyon": "III - Central Luzon",
+      "insidente_ng_krimen_2020": 40096,
+      "insidente_ng_krimen_2021": 38417,
+      "insidente_ng_krimen_2022": 37176,
+      "insidente_ng_krimen_2023": 38406,
+      "insidente_ng_krimen_2024": 36182,
+      "nalutas_2024": 33027,
+      "crime_solution_efficiency_pct_2024": 91,
+      "average_monthly_crime_rate_2024": 23
+    },
+    {
+      "rehiyon": "IV-A - CALABARZON",
+      "insidente_ng_krimen_2020": 50667,
+      "insidente_ng_krimen_2021": 54010,
+      "insidente_ng_krimen_2022": 52846,
+      "insidente_ng_krimen_2023": 52599,
+      "insidente_ng_krimen_2024": 49823,
+      "nalutas_2024": 43236,
+      "crime_solution_efficiency_pct_2024": 87,
+      "average_monthly_crime_rate_2024": 24
+    },
+    {
+      "rehiyon": "MIMAROPA",
+      "insidente_ng_krimen_2020": 5691,
+      "insidente_ng_krimen_2021": 4468,
+      "insidente_ng_krimen_2022": 4961,
+      "insidente_ng_krimen_2023": 5573,
+      "insidente_ng_krimen_2024": 5348,
+      "nalutas_2024": 3856,
+      "crime_solution_efficiency_pct_2024": 72,
+      "average_monthly_crime_rate_2024": 13
+    },
+    {
+      "rehiyon": "V - Bicol Region",
+      "insidente_ng_krimen_2020": 18909,
+      "insidente_ng_krimen_2021": 16059,
+      "insidente_ng_krimen_2022": 17193,
+      "insidente_ng_krimen_2023": 19553,
+      "insidente_ng_krimen_2024": 20009,
+      "nalutas_2024": 16827,
+      "crime_solution_efficiency_pct_2024": 84,
+      "average_monthly_crime_rate_2024": 26
+    },
+    {
+      "rehiyon": "VI - Western Visayas",
+      "insidente_ng_krimen_2020": 21674,
+      "insidente_ng_krimen_2021": 17568,
+      "insidente_ng_krimen_2022": 22605,
+      "insidente_ng_krimen_2023": 22853,
+      "insidente_ng_krimen_2024": 23678,
+      "nalutas_2024": 20953,
+      "crime_solution_efficiency_pct_2024": 88,
+      "average_monthly_crime_rate_2024": 23
+    },
+    {
+      "rehiyon": "VII - Central Visayas",
+      "insidente_ng_krimen_2020": 47864,
+      "insidente_ng_krimen_2021": 41676,
+      "insidente_ng_krimen_2022": 41960,
+      "insidente_ng_krimen_2023": 43080,
+      "insidente_ng_krimen_2024": 44107,
+      "nalutas_2024": 40635,
+      "crime_solution_efficiency_pct_2024": 92,
+      "average_monthly_crime_rate_2024": 43
+    },
+    {
+      "rehiyon": "VIII - Eastern Visayas",
+      "insidente_ng_krimen_2020": 9363,
+      "insidente_ng_krimen_2021": 9183,
+      "insidente_ng_krimen_2022": 9186,
+      "insidente_ng_krimen_2023": 9406,
+      "insidente_ng_krimen_2024": 11122,
+      "nalutas_2024": 9395,
+      "crime_solution_efficiency_pct_2024": 84,
+      "average_monthly_crime_rate_2024": 19
+    },
+    {
+      "rehiyon": "IX - Zamboanga Peninsula",
+      "insidente_ng_krimen_2020": 10090,
+      "insidente_ng_krimen_2021": 7687,
+      "insidente_ng_krimen_2022": 7217,
+      "insidente_ng_krimen_2023": 8434,
+      "insidente_ng_krimen_2024": 9078,
+      "nalutas_2024": 7469,
+      "crime_solution_efficiency_pct_2024": 82,
+      "average_monthly_crime_rate_2024": 18
+    },
+    {
+      "rehiyon": "X - Northern Mindanao",
+      "insidente_ng_krimen_2020": 15488,
+      "insidente_ng_krimen_2021": 14738,
+      "insidente_ng_krimen_2022": 15448,
+      "insidente_ng_krimen_2023": 14952,
+      "insidente_ng_krimen_2024": 14481,
+      "nalutas_2024": 12039,
+      "crime_solution_efficiency_pct_2024": 83,
+      "average_monthly_crime_rate_2024": 23
+    },
+    {
+      "rehiyon": "XI - Davao Region",
+      "insidente_ng_krimen_2020": 19106,
+      "insidente_ng_krimen_2021": 36196,
+      "insidente_ng_krimen_2022": 28146,
+      "insidente_ng_krimen_2023": 23730,
+      "insidente_ng_krimen_2024": 22453,
+      "nalutas_2024": 21160,
+      "crime_solution_efficiency_pct_2024": 94,
+      "average_monthly_crime_rate_2024": 33
+    },
+    {
+      "rehiyon": "XII - SOCCSKSARGEN",
+      "insidente_ng_krimen_2020": 11731,
+      "insidente_ng_krimen_2021": 10474,
+      "insidente_ng_krimen_2022": 10163,
+      "insidente_ng_krimen_2023": 9399,
+      "insidente_ng_krimen_2024": 7816,
+      "nalutas_2024": 6100,
+      "crime_solution_efficiency_pct_2024": 78,
+      "average_monthly_crime_rate_2024": 13
+    },
+    {
+      "rehiyon": "XIII - Caraga",
+      "insidente_ng_krimen_2020": 10007,
+      "insidente_ng_krimen_2021": 7893,
+      "insidente_ng_krimen_2022": 8128,
+      "insidente_ng_krimen_2023": 8369,
+      "insidente_ng_krimen_2024": 9161,
+      "nalutas_2024": 7266,
+      "crime_solution_efficiency_pct_2024": 79,
+      "average_monthly_crime_rate_2024": 26
+    },
+    {
+      "rehiyon": "BARMM",
+      "insidente_ng_krimen_2020": 2557,
+      "insidente_ng_krimen_2021": 2744,
+      "insidente_ng_krimen_2022": 2488,
+      "insidente_ng_krimen_2023": 2856,
+      "insidente_ng_krimen_2024": 2731,
+      "nalutas_2024": 2056,
+      "crime_solution_efficiency_pct_2024": 75,
+      "average_monthly_crime_rate_2024": 5
+    }
+  ],
+  "meta": {
+    "title": "Mga Insidente ng Krimen sa Pilipinas ayon sa Rehiyon (2020–2024) - Free Download",
+    "description": "Kabuuang naiulat na insidente ng krimen bawat rehiyon ng Pilipinas mula 2020 hanggang 2024, kasama ang bilang ng nalutas na krimen, crime solution efficiency at average monthly crime rate noong 2024, mula sa Philippine Statistical Yearbook ng PSA (datos ng PNP). Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Insidente ng Krimen sa Pilipinas ayon sa Rehiyon (2020–2024) | ListBase",
+    "seo_description": "Download Mga Insidente ng Krimen sa Pilipinas ayon sa Rehiyon (2020–2024) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/3S__C17/0041H2BAMC0.px/"
+    ]
+  }
+}
