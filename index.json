@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-18T02:16:10.404Z",
-  "total_datasets": 543,
-  "total_records": 449611,
+  "generated": "2026-11-18T02:16:21.771Z",
+  "total_datasets": 544,
+  "total_records": 449931,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -4025,6 +4025,34 @@
         "xlsx": {
           "name": "tl-mga-sakunang-pangkalikasan_TL.xlsx",
           "size": 21981
+        }
+      }
+    },
+    {
+      "id": "tl-pasilidad-ng-basura-ayon-sa-rehiyon",
+      "name": "Mga Pasilidad sa Pagtatapon ng Basura ayon sa Rehiyon at Uri (2008–2025)",
+      "category": "environment",
+      "record_count": 320,
+      "columns": [
+        "rehiyon",
+        "taon",
+        "open_dump",
+        "controlled_dump",
+        "ilegal_na_tambakan",
+        "materials_recovery_facility",
+        "sanitary_landfill"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3A/3003A5DSWD1.px/",
+      "updated": "2026-11",
+      "size": 77448,
+      "files": {
+        "csv": {
+          "name": "tl-pasilidad-ng-basura-ayon-sa-rehiyon_TL.csv",
+          "size": 18452
+        },
+        "xlsx": {
+          "name": "tl-pasilidad-ng-basura-ayon-sa-rehiyon_TL.xlsx",
+          "size": 16975
         }
       }
     },

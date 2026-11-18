@@ -1,0 +1,2941 @@
+{
+  "id": "tl-pasilidad-ng-basura-ayon-sa-rehiyon",
+  "name": "Mga Pasilidad sa Pagtatapon ng Basura ayon sa Rehiyon at Uri (2008–2025)",
+  "title": "Mga Pasilidad sa Pagtatapon ng Basura ayon sa Rehiyon at Uri (2008–2025)",
+  "description": "Bilang ng mga pasilidad sa pagtatapon ng solidong basura sa bawat rehiyon ng Pilipinas bawat taon mula 2008 hanggang 2025, hinati ayon sa uri: open dump, controlled dump, ilegal na tambakan, materials recovery facility at sanitary landfill. Mula sa PSA OpenSTAT.",
+  "category": "environment",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3A/3003A5DSWD1.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3A/3003A5DSWD1.px/",
+  "updated": "2026-11",
+  "record_count": 320,
+  "columns": [
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "open_dump",
+      "label": "Open Dump",
+      "type": "number"
+    },
+    {
+      "key": "controlled_dump",
+      "label": "Controlled Dump",
+      "type": "number"
+    },
+    {
+      "key": "ilegal_na_tambakan",
+      "label": "Ilegal Na Tambakan",
+      "type": "string"
+    },
+    {
+      "key": "materials_recovery_facility",
+      "label": "Materials Recovery Facility",
+      "type": "number"
+    },
+    {
+      "key": "sanitary_landfill",
+      "label": "Sanitary Landfill",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2008,
+      "open_dump": 673,
+      "controlled_dump": 263,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 2428,
+      "sanitary_landfill": 24
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2008,
+      "open_dump": 0,
+      "controlled_dump": 1,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 456,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2008,
+      "open_dump": 9,
+      "controlled_dump": 2,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 54,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2008,
+      "open_dump": 63,
+      "controlled_dump": 23,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 229,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2008,
+      "open_dump": 43,
+      "controlled_dump": 9,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 55,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2008,
+      "open_dump": 56,
+      "controlled_dump": 4,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 104,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2008,
+      "open_dump": 31,
+      "controlled_dump": 47,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 149,
+      "sanitary_landfill": 4
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2008,
+      "open_dump": 35,
+      "controlled_dump": 13,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 34,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2008,
+      "open_dump": 74,
+      "controlled_dump": 13,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 77,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2008,
+      "open_dump": 77,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 154,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2008,
+      "open_dump": 119,
+      "controlled_dump": 51,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 111,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2008,
+      "open_dump": 74,
+      "controlled_dump": 12,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 175,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2008,
+      "open_dump": 19,
+      "controlled_dump": 7,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 48,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2008,
+      "open_dump": 34,
+      "controlled_dump": 31,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 187,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2008,
+      "open_dump": 0,
+      "controlled_dump": 23,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 426,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2008,
+      "open_dump": 11,
+      "controlled_dump": 3,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 44,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2008,
+      "open_dump": 28,
+      "controlled_dump": 13,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 124,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2008,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2009,
+      "open_dump": 838,
+      "controlled_dump": 394,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 6151,
+      "sanitary_landfill": 30
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2009,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 872,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2009,
+      "open_dump": 14,
+      "controlled_dump": 2,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 152,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2009,
+      "open_dump": 74,
+      "controlled_dump": 37,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 427,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2009,
+      "open_dump": 34,
+      "controlled_dump": 26,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 156,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2009,
+      "open_dump": 93,
+      "controlled_dump": 17,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 289,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2009,
+      "open_dump": 50,
+      "controlled_dump": 61,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 649,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2009,
+      "open_dump": 44,
+      "controlled_dump": 23,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 113,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2009,
+      "open_dump": 91,
+      "controlled_dump": 6,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 168,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2009,
+      "open_dump": 96,
+      "controlled_dump": 18,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 532,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2009,
+      "open_dump": 116,
+      "controlled_dump": 52,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 384,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2009,
+      "open_dump": 91,
+      "controlled_dump": 17,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 458,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2009,
+      "open_dump": 29,
+      "controlled_dump": 28,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 246,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2009,
+      "open_dump": 36,
+      "controlled_dump": 41,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 360,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2009,
+      "open_dump": 1,
+      "controlled_dump": 28,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 607,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2009,
+      "open_dump": 14,
+      "controlled_dump": 34,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 175,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2009,
+      "open_dump": 55,
+      "controlled_dump": 4,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 548,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2009,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 15,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2010,
+      "open_dump": 790,
+      "controlled_dump": 380,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 6957,
+      "sanitary_landfill": 33
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2010,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 933,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2010,
+      "open_dump": 15,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 154,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2010,
+      "open_dump": 74,
+      "controlled_dump": 37,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 434,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2010,
+      "open_dump": 33,
+      "controlled_dump": 26,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 156,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2010,
+      "open_dump": 92,
+      "controlled_dump": 17,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 291,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2010,
+      "open_dump": 53,
+      "controlled_dump": 59,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 648,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2010,
+      "open_dump": 44,
+      "controlled_dump": 22,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 115,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2010,
+      "open_dump": 74,
+      "controlled_dump": 7,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 292,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2010,
+      "open_dump": 97,
+      "controlled_dump": 18,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 640,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2010,
+      "open_dump": 116,
+      "controlled_dump": 50,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 390,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2010,
+      "open_dump": 69,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 875,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2010,
+      "open_dump": 29,
+      "controlled_dump": 27,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 248,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2010,
+      "open_dump": 36,
+      "controlled_dump": 40,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 436,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2010,
+      "open_dump": 1,
+      "controlled_dump": 27,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 607,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2010,
+      "open_dump": 14,
+      "controlled_dump": 32,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 175,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2010,
+      "open_dump": 43,
+      "controlled_dump": 7,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 548,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2010,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 15,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2011,
+      "open_dump": 644,
+      "controlled_dump": 380,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 7312,
+      "sanitary_landfill": 34
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2011,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 935,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2011,
+      "open_dump": 15,
+      "controlled_dump": 5,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 154,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2011,
+      "open_dump": 35,
+      "controlled_dump": 57,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 672,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2011,
+      "open_dump": 33,
+      "controlled_dump": 26,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 163,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2011,
+      "open_dump": 42,
+      "controlled_dump": 10,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 326,
+      "sanitary_landfill": 4
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2011,
+      "open_dump": 58,
+      "controlled_dump": 47,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 649,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2011,
+      "open_dump": 44,
+      "controlled_dump": 22,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 117,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2011,
+      "open_dump": 70,
+      "controlled_dump": 7,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 299,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2011,
+      "open_dump": 45,
+      "controlled_dump": 24,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 644,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2011,
+      "open_dump": 116,
+      "controlled_dump": 50,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 401,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2011,
+      "open_dump": 69,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 875,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2011,
+      "open_dump": 29,
+      "controlled_dump": 27,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 248,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2011,
+      "open_dump": 38,
+      "controlled_dump": 42,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 481,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2011,
+      "open_dump": 1,
+      "controlled_dump": 27,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 607,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2011,
+      "open_dump": 6,
+      "controlled_dump": 17,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 174,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2011,
+      "open_dump": 43,
+      "controlled_dump": 8,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 549,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2011,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 18,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2012,
+      "open_dump": 606,
+      "controlled_dump": 339,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 7713,
+      "sanitary_landfill": 44
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2012,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 935,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2012,
+      "open_dump": 14,
+      "controlled_dump": 6,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 155,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2012,
+      "open_dump": 36,
+      "controlled_dump": 58,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 672,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2012,
+      "open_dump": 30,
+      "controlled_dump": 26,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 170,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2012,
+      "open_dump": 42,
+      "controlled_dump": 10,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 326,
+      "sanitary_landfill": 4
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2012,
+      "open_dump": 59,
+      "controlled_dump": 45,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 659,
+      "sanitary_landfill": 9
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2012,
+      "open_dump": 44,
+      "controlled_dump": 20,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 119,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2012,
+      "open_dump": 66,
+      "controlled_dump": 7,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 307,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2012,
+      "open_dump": 45,
+      "controlled_dump": 24,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 644,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2012,
+      "open_dump": 118,
+      "controlled_dump": 49,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 401,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2012,
+      "open_dump": 64,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 881,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2012,
+      "open_dump": 28,
+      "controlled_dump": 27,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 248,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2012,
+      "open_dump": 22,
+      "controlled_dump": 20,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 500,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2012,
+      "open_dump": 0,
+      "controlled_dump": 19,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 950,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2012,
+      "open_dump": 10,
+      "controlled_dump": 6,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 175,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2012,
+      "open_dump": 28,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 553,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2012,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 18,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2013,
+      "open_dump": 602,
+      "controlled_dump": 321,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 8486,
+      "sanitary_landfill": 55
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2013,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 941,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2013,
+      "open_dump": 20,
+      "controlled_dump": 6,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 182,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2013,
+      "open_dump": 42,
+      "controlled_dump": 62,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 968,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2013,
+      "open_dump": 30,
+      "controlled_dump": 26,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 172,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2013,
+      "open_dump": 69,
+      "controlled_dump": 10,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 434,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2013,
+      "open_dump": 47,
+      "controlled_dump": 41,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 672,
+      "sanitary_landfill": 15
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2013,
+      "open_dump": 6,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 124,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2013,
+      "open_dump": 70,
+      "controlled_dump": 8,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 312,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2013,
+      "open_dump": 45,
+      "controlled_dump": 24,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 644,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2013,
+      "open_dump": 118,
+      "controlled_dump": 49,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 401,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2013,
+      "open_dump": 64,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 882,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2013,
+      "open_dump": 28,
+      "controlled_dump": 27,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 249,
+      "sanitary_landfill": ""
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2013,
+      "open_dump": 21,
+      "controlled_dump": 20,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 499,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2013,
+      "open_dump": "",
+      "controlled_dump": 20,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1245,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2013,
+      "open_dump": 10,
+      "controlled_dump": 6,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 175,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2013,
+      "open_dump": 31,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 567,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2013,
+      "open_dump": 1,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 19,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2014,
+      "open_dump": 583,
+      "controlled_dump": 317,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 8656,
+      "sanitary_landfill": 86
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2014,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 943,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2014,
+      "open_dump": 20,
+      "controlled_dump": 6,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 182,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2014,
+      "open_dump": 36,
+      "controlled_dump": 56,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1009,
+      "sanitary_landfill": 18
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2014,
+      "open_dump": 29,
+      "controlled_dump": 25,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 216,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2014,
+      "open_dump": 68,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 510,
+      "sanitary_landfill": 11
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2014,
+      "open_dump": 40,
+      "controlled_dump": 44,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 673,
+      "sanitary_landfill": 17
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2014,
+      "open_dump": 6,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 124,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2014,
+      "open_dump": 64,
+      "controlled_dump": 25,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 314,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2014,
+      "open_dump": 39,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 644,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2014,
+      "open_dump": 118,
+      "controlled_dump": 49,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 401,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2014,
+      "open_dump": 64,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 882,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2014,
+      "open_dump": 29,
+      "controlled_dump": 27,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 249,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2014,
+      "open_dump": 25,
+      "controlled_dump": 26,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 501,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2014,
+      "open_dump": 1,
+      "controlled_dump": 9,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1246,
+      "sanitary_landfill": 4
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2014,
+      "open_dump": 9,
+      "controlled_dump": 6,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 175,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2014,
+      "open_dump": 34,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 568,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2014,
+      "open_dump": 1,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 19,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2015,
+      "open_dump": 350,
+      "controlled_dump": 203,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 9335,
+      "sanitary_landfill": 101
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2015,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 943,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2015,
+      "open_dump": 5,
+      "controlled_dump": 1,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 182,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2015,
+      "open_dump": 34,
+      "controlled_dump": 59,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1009,
+      "sanitary_landfill": 19
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2015,
+      "open_dump": 21,
+      "controlled_dump": 22,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 723,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2015,
+      "open_dump": 37,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 681,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2015,
+      "open_dump": 47,
+      "controlled_dump": 34,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 674,
+      "sanitary_landfill": 22
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2015,
+      "open_dump": 8,
+      "controlled_dump": 9,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 124,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2015,
+      "open_dump": 28,
+      "controlled_dump": 11,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 314,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2015,
+      "open_dump": 49,
+      "controlled_dump": 26,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 644,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2015,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 401,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2015,
+      "open_dump": 21,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 882,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2015,
+      "open_dump": 24,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 249,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2015,
+      "open_dump": 18,
+      "controlled_dump": 24,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 501,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2015,
+      "open_dump": 7,
+      "controlled_dump": 2,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1246,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2015,
+      "open_dump": 23,
+      "controlled_dump": 10,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 175,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2015,
+      "open_dump": 28,
+      "controlled_dump": 5,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 568,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2015,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 19,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2016,
+      "open_dump": 403,
+      "controlled_dump": 108,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 9883,
+      "sanitary_landfill": 118
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2016,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 976,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2016,
+      "open_dump": 1,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 190,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2016,
+      "open_dump": 6,
+      "controlled_dump": 8,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 950,
+      "sanitary_landfill": 21
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2016,
+      "open_dump": 41,
+      "controlled_dump": 16,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 724,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2016,
+      "open_dump": 34,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 672,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2016,
+      "open_dump": 32,
+      "controlled_dump": 14,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 795,
+      "sanitary_landfill": 22
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2016,
+      "open_dump": 7,
+      "controlled_dump": 9,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 135,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2016,
+      "open_dump": 56,
+      "controlled_dump": 7,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 314,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2016,
+      "open_dump": 24,
+      "controlled_dump": 16,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1082,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2016,
+      "open_dump": 43,
+      "controlled_dump": 14,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 391,
+      "sanitary_landfill": 11
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2016,
+      "open_dump": 81,
+      "controlled_dump": 3,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 881,
+      "sanitary_landfill": 4
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2016,
+      "open_dump": 0,
+      "controlled_dump": 4,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 264,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2016,
+      "open_dump": 23,
+      "controlled_dump": 5,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 501,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2016,
+      "open_dump": 12,
+      "controlled_dump": 2,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1246,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2016,
+      "open_dump": 20,
+      "controlled_dump": 4,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 175,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2016,
+      "open_dump": 23,
+      "controlled_dump": 6,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 568,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2016,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 19,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2017,
+      "open_dump": 296,
+      "controlled_dump": 89,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 10052,
+      "sanitary_landfill": 135
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2017,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 976,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2017,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 190,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2017,
+      "open_dump": 15,
+      "controlled_dump": 9,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 950,
+      "sanitary_landfill": 21
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2017,
+      "open_dump": 12,
+      "controlled_dump": 12,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 724,
+      "sanitary_landfill": 13
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2017,
+      "open_dump": 3,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 711,
+      "sanitary_landfill": 13
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2017,
+      "open_dump": 35,
+      "controlled_dump": 19,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 894,
+      "sanitary_landfill": 27
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2017,
+      "open_dump": 3,
+      "controlled_dump": 7,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 135,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2017,
+      "open_dump": 56,
+      "controlled_dump": 7,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 315,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2017,
+      "open_dump": 19,
+      "controlled_dump": 6,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1103,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2017,
+      "open_dump": 83,
+      "controlled_dump": 10,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 391,
+      "sanitary_landfill": 10
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2017,
+      "open_dump": 18,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 881,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2017,
+      "open_dump": 10,
+      "controlled_dump": 4,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 269,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2017,
+      "open_dump": 5,
+      "controlled_dump": 4,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 501,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2017,
+      "open_dump": 12,
+      "controlled_dump": 2,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1257,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2017,
+      "open_dump": 0,
+      "controlled_dump": 0,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 175,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2017,
+      "open_dump": 25,
+      "controlled_dump": 9,
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 561,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2017,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 19,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 353,
+      "materials_recovery_facility": 10340,
+      "sanitary_landfill": 165
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1000,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 207,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 33,
+      "materials_recovery_facility": 962,
+      "sanitary_landfill": 22
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 27,
+      "materials_recovery_facility": 723,
+      "sanitary_landfill": 14
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 31,
+      "materials_recovery_facility": 746,
+      "sanitary_landfill": 16
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 35,
+      "materials_recovery_facility": 995,
+      "sanitary_landfill": 34
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 19,
+      "materials_recovery_facility": 146,
+      "sanitary_landfill": 10
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 82,
+      "materials_recovery_facility": 323,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 17,
+      "materials_recovery_facility": 1119,
+      "sanitary_landfill": 9
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 57,
+      "materials_recovery_facility": 424,
+      "sanitary_landfill": 16
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 8,
+      "materials_recovery_facility": 885,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 2,
+      "materials_recovery_facility": 313,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 11,
+      "materials_recovery_facility": 523,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 10,
+      "materials_recovery_facility": 1163,
+      "sanitary_landfill": 4
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 205,
+      "sanitary_landfill": 14
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 21,
+      "materials_recovery_facility": 587,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2018,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 19,
+      "sanitary_landfill": ""
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 331,
+      "materials_recovery_facility": 10722,
+      "sanitary_landfill": 187
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 974,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 1,
+      "materials_recovery_facility": 750,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 24,
+      "materials_recovery_facility": 964,
+      "sanitary_landfill": 27
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 11,
+      "materials_recovery_facility": 724,
+      "sanitary_landfill": 31
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 11,
+      "materials_recovery_facility": 729,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 37,
+      "materials_recovery_facility": 972,
+      "sanitary_landfill": 29
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 43,
+      "materials_recovery_facility": 139,
+      "sanitary_landfill": 9
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 60,
+      "materials_recovery_facility": 315,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 39,
+      "materials_recovery_facility": 1104,
+      "sanitary_landfill": 10
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 44,
+      "materials_recovery_facility": 391,
+      "sanitary_landfill": 15
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 9,
+      "materials_recovery_facility": 881,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 6,
+      "materials_recovery_facility": 267,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 16,
+      "materials_recovery_facility": 501,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 16,
+      "materials_recovery_facility": 1256,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 175,
+      "sanitary_landfill": 16
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 14,
+      "materials_recovery_facility": 561,
+      "sanitary_landfill": 3
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2019,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 19,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 233,
+      "materials_recovery_facility": 11546,
+      "sanitary_landfill": 241
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 1042,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 705,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 12,
+      "materials_recovery_facility": 3263,
+      "sanitary_landfill": 39
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 14,
+      "materials_recovery_facility": 824,
+      "sanitary_landfill": 36
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 4,
+      "materials_recovery_facility": 989,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 17,
+      "materials_recovery_facility": 494,
+      "sanitary_landfill": 38
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 35,
+      "materials_recovery_facility": 179,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 23,
+      "materials_recovery_facility": 364,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 48,
+      "materials_recovery_facility": 1127,
+      "sanitary_landfill": 14
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 27,
+      "materials_recovery_facility": 390,
+      "sanitary_landfill": 15
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 10,
+      "materials_recovery_facility": 854,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 7,
+      "materials_recovery_facility": 97,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 14,
+      "materials_recovery_facility": 306,
+      "sanitary_landfill": 19
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 20,
+      "materials_recovery_facility": 166,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 165,
+      "sanitary_landfill": 23
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 2,
+      "materials_recovery_facility": 562,
+      "sanitary_landfill": 4
+    },
+    {
+      "rehiyon": "BANGSAMORO AUTONOMOUS REGION",
+      "taon": 2020,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 19,
+      "sanitary_landfill": ""
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 11637,
+      "sanitary_landfill": 245
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 1031,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 726,
+      "sanitary_landfill": 10
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 3223,
+      "sanitary_landfill": 31
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 825,
+      "sanitary_landfill": 41
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 882,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 494,
+      "sanitary_landfill": 43
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 179,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 444,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 1170,
+      "sanitary_landfill": 13
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 482,
+      "sanitary_landfill": 15
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 872,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 122,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 295,
+      "sanitary_landfill": 19
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 165,
+      "sanitary_landfill": 9
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 165,
+      "sanitary_landfill": 21
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2021,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 562,
+      "sanitary_landfill": 4
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 11779,
+      "sanitary_landfill": 290
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 1045,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 726,
+      "sanitary_landfill": 9
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 3223,
+      "sanitary_landfill": 51
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 825,
+      "sanitary_landfill": 44
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 882,
+      "sanitary_landfill": 15
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 527,
+      "sanitary_landfill": 41
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 179,
+      "sanitary_landfill": 14
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 444,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 1170,
+      "sanitary_landfill": 15
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 482,
+      "sanitary_landfill": 16
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 875,
+      "sanitary_landfill": 11
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 123,
+      "sanitary_landfill": 2
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 299,
+      "sanitary_landfill": 28
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 165,
+      "sanitary_landfill": 9
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 252,
+      "sanitary_landfill": 22
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2022,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 562,
+      "sanitary_landfill": 4
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 43,
+      "materials_recovery_facility": 11823,
+      "sanitary_landfill": 299
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 1045,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 726,
+      "sanitary_landfill": 10
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 3,
+      "materials_recovery_facility": 3223,
+      "sanitary_landfill": 52
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 825,
+      "sanitary_landfill": 44
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 882,
+      "sanitary_landfill": 16
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 4,
+      "materials_recovery_facility": 527,
+      "sanitary_landfill": 43
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 3,
+      "materials_recovery_facility": 179,
+      "sanitary_landfill": 14
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 9,
+      "materials_recovery_facility": 444,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 11,
+      "materials_recovery_facility": 1170,
+      "sanitary_landfill": 15
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 12,
+      "materials_recovery_facility": 482,
+      "sanitary_landfill": 17
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 1,
+      "materials_recovery_facility": 875,
+      "sanitary_landfill": 11
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 123,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 307,
+      "sanitary_landfill": 28
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 165,
+      "sanitary_landfill": 8
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 252,
+      "sanitary_landfill": 23
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2023,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 598,
+      "sanitary_landfill": 4
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 79,
+      "materials_recovery_facility": 12855,
+      "sanitary_landfill": 343
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 710,
+      "sanitary_landfill": 1
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 1047,
+      "sanitary_landfill": 6
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 2,
+      "materials_recovery_facility": 3223,
+      "sanitary_landfill": 59
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 943,
+      "sanitary_landfill": 62
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 4,
+      "materials_recovery_facility": 888,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 12,
+      "materials_recovery_facility": 527,
+      "sanitary_landfill": 42
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 4,
+      "materials_recovery_facility": 311,
+      "sanitary_landfill": 18
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 36,
+      "materials_recovery_facility": 453,
+      "sanitary_landfill": 13
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 3,
+      "materials_recovery_facility": 1162,
+      "sanitary_landfill": 19
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 1,
+      "materials_recovery_facility": 1111,
+      "sanitary_landfill": 19
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 12,
+      "materials_recovery_facility": 993,
+      "sanitary_landfill": 11
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 140,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 2,
+      "materials_recovery_facility": 325,
+      "sanitary_landfill": 29
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 2,
+      "materials_recovery_facility": 171,
+      "sanitary_landfill": 11
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": "",
+      "materials_recovery_facility": 254,
+      "sanitary_landfill": 27
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2024,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 1,
+      "materials_recovery_facility": 597,
+      "sanitary_landfill": 9
+    },
+    {
+      "rehiyon": "PHILIPPINES",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 77,
+      "materials_recovery_facility": 20458,
+      "sanitary_landfill": 375
+    },
+    {
+      "rehiyon": "NATIONAL CAPITAL REGION (NCR)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 1047,
+      "sanitary_landfill": 0
+    },
+    {
+      "rehiyon": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 1032,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION I (ILOCOS REGION)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 2396,
+      "sanitary_landfill": 61
+    },
+    {
+      "rehiyon": "REGION II (CAGAYAN VALLEY)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 1,
+      "materials_recovery_facility": 2165,
+      "sanitary_landfill": 63
+    },
+    {
+      "rehiyon": "REGION III (CENTRAL LUZON)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 2,
+      "materials_recovery_facility": 888,
+      "sanitary_landfill": 15
+    },
+    {
+      "rehiyon": "REGION IV-A (CALABARZON)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 24,
+      "materials_recovery_facility": 1408,
+      "sanitary_landfill": 52
+    },
+    {
+      "rehiyon": "MIMAROPA REGION",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 10,
+      "materials_recovery_facility": 311,
+      "sanitary_landfill": 19
+    },
+    {
+      "rehiyon": "REGION V (BICOL REGION)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 13,
+      "materials_recovery_facility": 2579,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION VI (WESTERN VISAYAS)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 7,
+      "materials_recovery_facility": 534,
+      "sanitary_landfill": 7
+    },
+    {
+      "rehiyon": "NEGROS ISLAND REGION (NIR)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 646,
+      "sanitary_landfill": 20
+    },
+    {
+      "rehiyon": "REGION VII (CENTRAL VISAYAS)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 1824,
+      "sanitary_landfill": 9
+    },
+    {
+      "rehiyon": "REGION VIII (EASTERN VISAYAS)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 12,
+      "materials_recovery_facility": 993,
+      "sanitary_landfill": 12
+    },
+    {
+      "rehiyon": "REGION IX (ZAMBOANGA PENINSULA)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 1,
+      "materials_recovery_facility": 1757,
+      "sanitary_landfill": 5
+    },
+    {
+      "rehiyon": "REGION X (NORTHERN MINDANAO)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 2,
+      "materials_recovery_facility": 1857,
+      "sanitary_landfill": 39
+    },
+    {
+      "rehiyon": "REGION XI (DAVAO REGION)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 171,
+      "sanitary_landfill": 13
+    },
+    {
+      "rehiyon": "REGION XII (SOCCSKSARGEN)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 0,
+      "materials_recovery_facility": 253,
+      "sanitary_landfill": 27
+    },
+    {
+      "rehiyon": "REGION XIII (Caraga)",
+      "taon": 2025,
+      "open_dump": "",
+      "controlled_dump": "",
+      "ilegal_na_tambakan": 5,
+      "materials_recovery_facility": 597,
+      "sanitary_landfill": 9
+    }
+  ],
+  "meta": {
+    "title": "Mga Pasilidad sa Pagtatapon ng Basura ayon sa Rehiyon at Uri (2008–2025) - Free Download",
+    "description": "Bilang ng mga pasilidad sa pagtatapon ng solidong basura sa bawat rehiyon ng Pilipinas bawat taon mula 2008 hanggang 2025, hinati ayon sa uri: open dump, controlled dump, ilegal na tambakan, materials recovery facility at sanitary landfill. Mula sa PSA OpenSTAT. Contains 320 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pasilidad sa Pagtatapon ng Basura ayon sa Rehiyon at Uri (2008–2025) | ListBase",
+    "seo_description": "Download Mga Pasilidad sa Pagtatapon ng Basura ayon sa Rehiyon at Uri (2008–2025) — 320 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 320 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3A/3003A5DSWD1.px/"
+    ]
+  }
+}
