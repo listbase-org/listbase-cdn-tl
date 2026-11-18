@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-17T02:13:44.894Z",
-  "total_datasets": 541,
-  "total_records": 449524,
+  "generated": "2026-11-18T02:15:58.728Z",
+  "total_datasets": 542,
+  "total_records": 449568,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -15105,6 +15105,33 @@
         "xlsx": {
           "name": "tl-mga-laruan-ng-golf_TL.xlsx",
           "size": 8399
+        }
+      }
+    },
+    {
+      "id": "tl-mga-mvp-ng-pba",
+      "name": "Mga Most Valuable Player (MVP) ng PBA (1975–2019)",
+      "category": "sports",
+      "record_count": 44,
+      "columns": [
+        "panahon",
+        "manlalaro",
+        "posisyon",
+        "bansa_ng_pagkapanganak",
+        "koponan",
+        "nasa_hall_of_fame"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Karangalang_Philippine_Basketball_Association_Most_Valuable_Player",
+      "updated": "2026-11",
+      "size": 11990,
+      "files": {
+        "csv": {
+          "name": "tl-mga-mvp-ng-pba_TL.csv",
+          "size": 3429
+        },
+        "xlsx": {
+          "name": "tl-mga-mvp-ng-pba_TL.xlsx",
+          "size": 8720
         }
       }
     },

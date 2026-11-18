@@ -1,0 +1,408 @@
+{
+  "id": "tl-mga-mvp-ng-pba",
+  "name": "Mga Most Valuable Player (MVP) ng PBA (1975–2019)",
+  "title": "Mga Most Valuable Player (MVP) ng PBA (1975–2019)",
+  "description": "Talaan ng mga manlalarong ginawaran ng PBA Most Valuable Player bawat panahon mula 1975 hanggang 2019, kasama ang posisyon, bansa ng pagkapanganak, koponan at kung naisama sa PBA Hall of Fame.",
+  "category": "sports",
+  "source": "https://tl.wikipedia.org/wiki/Karangalang_Philippine_Basketball_Association_Most_Valuable_Player",
+  "source_url": "https://tl.wikipedia.org/wiki/Karangalang_Philippine_Basketball_Association_Most_Valuable_Player",
+  "updated": "2026-11",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "panahon",
+      "label": "Panahon",
+      "type": "number"
+    },
+    {
+      "key": "manlalaro",
+      "label": "Manlalaro",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    },
+    {
+      "key": "bansa_ng_pagkapanganak",
+      "label": "Bansa Ng Pagkapanganak",
+      "type": "string"
+    },
+    {
+      "key": "koponan",
+      "label": "Koponan",
+      "type": "string"
+    },
+    {
+      "key": "nasa_hall_of_fame",
+      "label": "Nasa Hall Of Fame",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "panahon": "1975",
+      "manlalaro": "Bogs Adornado",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Crispa Redmanizers",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1976",
+      "manlalaro": "Bogs Adornado",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Crispa Redmanizers",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1977",
+      "manlalaro": "Freddie Hubalde",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Crispa Redmanizers",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1978",
+      "manlalaro": "Robert Jaworski",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Toyota Super Corollas",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1979",
+      "manlalaro": "Atoy Co",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Crispa Redmanizers",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1980",
+      "manlalaro": "Philip Cezar",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Crispa Redmanizers",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1981",
+      "manlalaro": "Bogs Adornado",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "U/Tex Wranglers",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1982",
+      "manlalaro": "Ramon Fernandez",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Toyota Super Corollas",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1983",
+      "manlalaro": "Abet Guidaben",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Crispa Redmanizers",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1984",
+      "manlalaro": "Ramon Fernandez",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Beer Hausen Brewmasters",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1985",
+      "manlalaro": "Ricardo Brown",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Great Taste Coffee Makers",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1986",
+      "manlalaro": "Ramon Fernandez",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Tanduay Rhum Makers",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1987",
+      "manlalaro": "Abet Guidaben",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1988",
+      "manlalaro": "Ramon Fernandez",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1989",
+      "manlalaro": "Benjie Paras",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Formula Shell Zoom Masters",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1990",
+      "manlalaro": "Allan Caidic",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Presto Tivolis",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1991",
+      "manlalaro": "Alvin Patrimonio",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Purefoods TJ Hotdogs",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1992",
+      "manlalaro": "Ato Agustin",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1993",
+      "manlalaro": "Alvin Patrimonio",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Purefoods TJ Hotdogs",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1994",
+      "manlalaro": "Alvin Patrimonio",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Purefoods TJ Hotdogs",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1995",
+      "manlalaro": "Vergel Meneses",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Sunkist Orange Juicers",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1996",
+      "manlalaro": "Johnny Abarrientos",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Alaska Milkmen",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1997",
+      "manlalaro": "Alvin Patrimonio",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Purefoods Carne Norte Beefies",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1997",
+      "manlalaro": "Kenneth Duremdes",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Alaska Milkmen",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1999",
+      "manlalaro": "Benjie Paras",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Formula Shell Zoom Masters",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "2000",
+      "manlalaro": "Danny Ildefonso",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2001",
+      "manlalaro": "Danny Ildefonso",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2002",
+      "manlalaro": "Willie Miller",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Red Bull Barako",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2003",
+      "manlalaro": "Asi Taulava",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Tonga",
+      "koponan": "Talk 'N Text Phone Pals",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2004–05",
+      "manlalaro": "Eric Menk",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Barangay Ginebra Kings",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2005–06",
+      "manlalaro": "James Yap",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Purefoods Chunkee Giants",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2006–07",
+      "manlalaro": "Willie Miller",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Alaska Aces",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2007–08",
+      "manlalaro": "Kelly Williams",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Sta. Lucia Realtors",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2008–09",
+      "manlalaro": "Jayjay Helterbrand",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Barangay Ginebra Kings",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2009–10",
+      "manlalaro": "James Yap",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Derby Ace Llamados",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2010–11",
+      "manlalaro": "Jimmy Alapag",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Talk 'N Text Tropang Texters",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2011–12",
+      "manlalaro": "Mark Caguioa",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Barangay Ginebra Kings",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2012–13",
+      "manlalaro": "Arwind Santos",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Petron Blaze Boosters",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2013–14",
+      "manlalaro": "June Mar Fajardo",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2014–15",
+      "manlalaro": "June Mar Fajardo",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2015–16",
+      "manlalaro": "June Mar Fajardo",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2016–17",
+      "manlalaro": "June Mar Fajardo",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2017–18",
+      "manlalaro": "June Mar Fajardo",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2019",
+      "manlalaro": "June Mar Fajardo",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "nasa_hall_of_fame": "Hindi"
+    }
+  ],
+  "meta": {
+    "title": "Mga Most Valuable Player (MVP) ng PBA (1975–2019) - Free Download",
+    "description": "Talaan ng mga manlalarong ginawaran ng PBA Most Valuable Player bawat panahon mula 1975 hanggang 2019, kasama ang posisyon, bansa ng pagkapanganak, koponan at kung naisama sa PBA Hall of Fame. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Most Valuable Player (MVP) ng PBA (1975–2019) | ListBase",
+    "seo_description": "Download Mga Most Valuable Player (MVP) ng PBA (1975–2019) — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Karangalang_Philippine_Basketball_Association_Most_Valuable_Player"
+    ]
+  }
+}
