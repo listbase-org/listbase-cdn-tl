@@ -1,0 +1,496 @@
+{
+  "id": "tl-mga-rookie-of-the-year-ng-pba",
+  "name": "Mga Rookie of the Year ng PBA (1976–2019)",
+  "title": "Mga Rookie of the Year ng PBA (1976–2019)",
+  "description": "Talaan ng mga manlalarong ginawaran ng PBA Rookie of the Year bawat panahon, kasama ang posisyon, bansa ng pagkapanganak, koponan, paaralan, pick sa draft at kung naisama sa PBA Hall of Fame.",
+  "category": "sports",
+  "source": "https://tl.wikipedia.org/wiki/Karangalang_Philippine_Basketball_Association_Rookie_of_the_Year",
+  "source_url": "https://tl.wikipedia.org/wiki/Karangalang_Philippine_Basketball_Association_Rookie_of_the_Year",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "panahon",
+      "label": "Panahon",
+      "type": "number"
+    },
+    {
+      "key": "manlalaro",
+      "label": "Manlalaro",
+      "type": "string"
+    },
+    {
+      "key": "posisyon",
+      "label": "Posisyon",
+      "type": "string"
+    },
+    {
+      "key": "bansa_ng_pagkapanganak",
+      "label": "Bansa Ng Pagkapanganak",
+      "type": "string"
+    },
+    {
+      "key": "koponan",
+      "label": "Koponan",
+      "type": "string"
+    },
+    {
+      "key": "paaralan",
+      "label": "Paaralan",
+      "type": "string"
+    },
+    {
+      "key": "pick_sa_draft",
+      "label": "Pick Sa Draft",
+      "type": "string"
+    },
+    {
+      "key": "nasa_hall_of_fame",
+      "label": "Nasa Hall Of Fame",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "panahon": "1976",
+      "manlalaro": "Gil Cortez",
+      "posisyon": "Forward / Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Toyota Super Corollas",
+      "paaralan": "San Beda",
+      "pick_sa_draft": "n/a",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1977",
+      "manlalaro": "Jimmy Taguines",
+      "posisyon": "Forward / Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Tanduay Rhum Makers",
+      "paaralan": "San Beda",
+      "pick_sa_draft": "n/a",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1978",
+      "manlalaro": "Jimmy Manansala",
+      "posisyon": "Forward / Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Tanduay Rhum Makers",
+      "paaralan": "UE",
+      "pick_sa_draft": "n/a",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1979",
+      "manlalaro": "Arnie Tuadles",
+      "posisyon": "Forward / Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Tanduay Rhum Makers",
+      "paaralan": "UV",
+      "pick_sa_draft": "n/a",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1980",
+      "manlalaro": "Willie Generalao",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Gilbey's Gin Tonics",
+      "paaralan": "UV",
+      "pick_sa_draft": "n/a",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1981",
+      "manlalaro": "Rafael Sison",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Presto Fun Drinks",
+      "paaralan": "",
+      "pick_sa_draft": "n/a",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1982",
+      "manlalaro": "Marte Saldaña",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "paaralan": "FEU",
+      "pick_sa_draft": "n/a",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1983",
+      "manlalaro": "Ricardo Brown",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Great Taste Coffee Makers",
+      "paaralan": "Pepperdine",
+      "pick_sa_draft": "n/a",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1984",
+      "manlalaro": "Willie Pearson",
+      "posisyon": "Forward / Guard",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Crispa Redmanizers",
+      "paaralan": "Chaminade",
+      "pick_sa_draft": "n/a",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1985",
+      "manlalaro": "Leo Austria",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Shell Azodrin Bugbusters",
+      "paaralan": "Lyceum",
+      "pick_sa_draft": "10",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1986",
+      "manlalaro": "Dondon Ampalayo",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Ginebra San Miguel",
+      "paaralan": "USJ-R",
+      "pick_sa_draft": "2",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1987",
+      "manlalaro": "Allan Caidic",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Great Taste Coffee Makers",
+      "paaralan": "UE",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1988",
+      "manlalaro": "Jojo Lastimosa",
+      "posisyon": "Forward / Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Purefoods Hotdogs",
+      "paaralan": "Ateneo",
+      "pick_sa_draft": "D",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1989",
+      "manlalaro": "Benjie Paras",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Formula Shell Zoom Masters",
+      "paaralan": "UP Diliman",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Oo"
+    },
+    {
+      "panahon": "1990",
+      "manlalaro": "Gerry Esplana",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Presto Tivolis",
+      "paaralan": "FEU",
+      "pick_sa_draft": "9",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1991",
+      "manlalaro": "Eugene Quilban",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Alaska Milkmen",
+      "paaralan": "SSC-R",
+      "pick_sa_draft": "3",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1992",
+      "manlalaro": "Bong Ravena",
+      "posisyon": "Guard / Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "paaralan": "UE",
+      "pick_sa_draft": "5",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1993",
+      "manlalaro": "Jun Limpot",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Sta. Lucia Realtors",
+      "paaralan": "De La Salle",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1994",
+      "manlalaro": "Boybits Victoria",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Swift Mighty Meaties",
+      "paaralan": "San Beda",
+      "pick_sa_draft": "3",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1995",
+      "manlalaro": "Jeffrey Cariaso",
+      "posisyon": "Guard / Forward",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Alaska Milkmen",
+      "paaralan": "Sonoma State",
+      "pick_sa_draft": "6",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1996",
+      "manlalaro": "Marlou Aquino",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Ginebra San Miguel",
+      "paaralan": "Adamson",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1997",
+      "manlalaro": "Andy Seigle",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Mobiline Cellulars",
+      "paaralan": "New Orleans",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1998",
+      "manlalaro": "Danny Ildefonso",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "San Miguel Beermen",
+      "paaralan": "NU",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "1999",
+      "manlalaro": "Danny Seigle",
+      "posisyon": "Forward / Guard",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "San Miguel Beermen",
+      "paaralan": "Wagner",
+      "pick_sa_draft": "D",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2000",
+      "manlalaro": "Davonn Harp",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Batang Red Bull Energizers",
+      "paaralan": "Kutztown",
+      "pick_sa_draft": "D",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2001",
+      "manlalaro": "Mark Caguioa",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Barangay Ginebra Kings",
+      "paaralan": "Glendale Community College",
+      "pick_sa_draft": "3",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2002",
+      "manlalaro": "Ren-Ren Ritualo",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "FedEx Express",
+      "paaralan": "De La Salle",
+      "pick_sa_draft": "8",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2003",
+      "manlalaro": "Jimmy Alapag",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Talk 'N Text Phone Pals",
+      "paaralan": "CSU San Bernardino",
+      "pick_sa_draft": "10",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2004–05",
+      "manlalaro": "Rich Alvarez",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Hapon",
+      "koponan": "Shell Turbo Chargers",
+      "paaralan": "Ateneo",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2005–06",
+      "manlalaro": "Larry Fonacier",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Red Bull Barako",
+      "paaralan": "Ateneo",
+      "pick_sa_draft": "14",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2006–07",
+      "manlalaro": "Kelly Williams",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Sta. Lucia Realtors",
+      "paaralan": "Oakland",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2007–08",
+      "manlalaro": "Ryan Reyes",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Sta. Lucia Realtors",
+      "paaralan": "Cal State Fullerton",
+      "pick_sa_draft": "3",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2008–09",
+      "manlalaro": "Gabe Norwood",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Rain or Shine Elasto Painters",
+      "paaralan": "George Mason",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2009–10",
+      "manlalaro": "Rico Maierhofer",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "B-Meg Derby Ace Llamados",
+      "paaralan": "De La Salle",
+      "pick_sa_draft": "2",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2010–11",
+      "manlalaro": "Rabeh Al-Hussaini",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Petron Blaze Boosters",
+      "paaralan": "Ateneo",
+      "pick_sa_draft": "2",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2011–12",
+      "manlalaro": "Paul Lee",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Rain or Shine Elasto Painters",
+      "paaralan": "UE",
+      "pick_sa_draft": "2",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2012–13",
+      "manlalaro": "Calvin Abueva",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Alaska Aces",
+      "paaralan": "SSC-R",
+      "pick_sa_draft": "2",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2013–14",
+      "manlalaro": "Greg Slaughter",
+      "posisyon": "Center",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Barangay Ginebra San Miguel",
+      "paaralan": "Ateneo",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2014–15",
+      "manlalaro": "Stanley Pringle",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "GlobalPort Batang Pier",
+      "paaralan": "Penn State",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2015–16",
+      "manlalaro": "Chris Newsome",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Estados Unidos",
+      "koponan": "Meralco Bolts",
+      "paaralan": "Ateneo",
+      "pick_sa_draft": "4",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2016–17",
+      "manlalaro": "Roger Pogoy",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "TNT KaTropa",
+      "paaralan": "FEU",
+      "pick_sa_draft": "n/a",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2017–18",
+      "manlalaro": "Jason Perkins",
+      "posisyon": "Forward",
+      "bansa_ng_pagkapanganak": "Pilipinas",
+      "koponan": "Phoenix Fuel Masters",
+      "paaralan": "De La Salle",
+      "pick_sa_draft": "4",
+      "nasa_hall_of_fame": "Hindi"
+    },
+    {
+      "panahon": "2019",
+      "manlalaro": "CJ Perez",
+      "posisyon": "Guard",
+      "bansa_ng_pagkapanganak": "Hong Kong",
+      "koponan": "Columbian Dyip",
+      "paaralan": "LPU",
+      "pick_sa_draft": "1",
+      "nasa_hall_of_fame": "Hindi"
+    }
+  ],
+  "meta": {
+    "title": "Mga Rookie of the Year ng PBA (1976–2019) - Free Download",
+    "description": "Talaan ng mga manlalarong ginawaran ng PBA Rookie of the Year bawat panahon, kasama ang posisyon, bansa ng pagkapanganak, koponan, paaralan, pick sa draft at kung naisama sa PBA Hall of Fame. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Rookie of the Year ng PBA (1976–2019) | ListBase",
+    "seo_description": "Download Mga Rookie of the Year ng PBA (1976–2019) — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Karangalang_Philippine_Basketball_Association_Rookie_of_the_Year"
+    ]
+  }
+}

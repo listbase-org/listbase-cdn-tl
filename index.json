@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-18T02:15:58.728Z",
-  "total_datasets": 542,
-  "total_records": 449568,
+  "generated": "2026-11-18T02:16:10.404Z",
+  "total_datasets": 543,
+  "total_records": 449611,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -15132,6 +15132,35 @@
         "xlsx": {
           "name": "tl-mga-mvp-ng-pba_TL.xlsx",
           "size": 8720
+        }
+      }
+    },
+    {
+      "id": "tl-mga-rookie-of-the-year-ng-pba",
+      "name": "Mga Rookie of the Year ng PBA (1976–2019)",
+      "category": "sports",
+      "record_count": 43,
+      "columns": [
+        "panahon",
+        "manlalaro",
+        "posisyon",
+        "bansa_ng_pagkapanganak",
+        "koponan",
+        "paaralan",
+        "pick_sa_draft",
+        "nasa_hall_of_fame"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Karangalang_Philippine_Basketball_Association_Rookie_of_the_Year",
+      "updated": "2026-11",
+      "size": 14534,
+      "files": {
+        "csv": {
+          "name": "tl-mga-rookie-of-the-year-ng-pba_TL.csv",
+          "size": 4146
+        },
+        "xlsx": {
+          "name": "tl-mga-rookie-of-the-year-ng-pba_TL.xlsx",
+          "size": 9626
         }
       }
     },
