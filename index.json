@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-19T02:15:52.315Z",
-  "total_datasets": 545,
-  "total_records": 450039,
+  "generated": "2026-11-19T02:16:04.677Z",
+  "total_datasets": 546,
+  "total_records": 450066,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -6281,6 +6281,31 @@
         "xlsx": {
           "name": "tl-mga-awit-ng-metro-manila-popular-music-festival_TL.xlsx",
           "size": 12336
+        }
+      }
+    },
+    {
+      "id": "tl-mga-banda-at-grupong-pangmusika-ng-pilipinas",
+      "name": "Mga Banda at Grupong Pangmusika ng Pilipinas",
+      "category": "music",
+      "record_count": 27,
+      "columns": [
+        "pangalan",
+        "taon_ng_pagkakatatag",
+        "pinagmulan",
+        "wikidata"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q215380",
+      "updated": "2026-11",
+      "size": 5662,
+      "files": {
+        "csv": {
+          "name": "tl-mga-banda-at-grupong-pangmusika-ng-pilipinas_TL.csv",
+          "size": 1208
+        },
+        "xlsx": {
+          "name": "tl-mga-banda-at-grupong-pangmusika-ng-pilipinas_TL.xlsx",
+          "size": 7802
         }
       }
     },

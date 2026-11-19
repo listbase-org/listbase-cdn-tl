@@ -1,0 +1,208 @@
+{
+  "id": "tl-mga-banda-at-grupong-pangmusika-ng-pilipinas",
+  "name": "Mga Banda at Grupong Pangmusika ng Pilipinas",
+  "title": "Mga Banda at Grupong Pangmusika ng Pilipinas",
+  "description": "Talaan ng mga kilalang bandang OPM at grupong pangmusika mula sa Pilipinas (hal. Eraserheads, APO Hiking Society, SB19), kasama ang taon ng pagkakatatag at lugar na pinagmulan. Mula sa Wikidata at Wikipediang Tagalog.",
+  "category": "music",
+  "source": "https://www.wikidata.org/wiki/Q215380",
+  "source_url": "https://www.wikidata.org/wiki/Q215380",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "taon_ng_pagkakatatag",
+      "label": "Taon Ng Pagkakatatag",
+      "type": "number"
+    },
+    {
+      "key": "pinagmulan",
+      "label": "Pinagmulan",
+      "type": "string"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pangalan": "Apo Hiking Society",
+      "taon_ng_pagkakatatag": 1969,
+      "pinagmulan": "Lungsod Quezon",
+      "wikidata": "Q3545224"
+    },
+    {
+      "pangalan": "Cinderella",
+      "taon_ng_pagkakatatag": 1970,
+      "pinagmulan": "Maynila",
+      "wikidata": "Q5120430"
+    },
+    {
+      "pangalan": "Hotdog",
+      "taon_ng_pagkakatatag": 1972,
+      "pinagmulan": "",
+      "wikidata": "Q5911095"
+    },
+    {
+      "pangalan": "The New Minstrels",
+      "taon_ng_pagkakatatag": 1975,
+      "pinagmulan": "Kalakhang Maynila",
+      "wikidata": "Q133838401"
+    },
+    {
+      "pangalan": "Asin",
+      "taon_ng_pagkakatatag": 1976,
+      "pinagmulan": "",
+      "wikidata": "Q2046263"
+    },
+    {
+      "pangalan": "hagibis",
+      "taon_ng_pagkakatatag": 1979,
+      "pinagmulan": "",
+      "wikidata": "Q5638732"
+    },
+    {
+      "pangalan": "Alamid (banda)",
+      "taon_ng_pagkakatatag": 1987,
+      "pinagmulan": "Maynila",
+      "wikidata": "Q2887154"
+    },
+    {
+      "pangalan": "The Eraserheads",
+      "taon_ng_pagkakatatag": 1989,
+      "pinagmulan": "Lungsod Quezon",
+      "wikidata": "Q5384910"
+    },
+    {
+      "pangalan": "Hangad",
+      "taon_ng_pagkakatatag": 1991,
+      "pinagmulan": "",
+      "wikidata": "Q5647882"
+    },
+    {
+      "pangalan": "Wolfgang",
+      "taon_ng_pagkakatatag": 1992,
+      "pinagmulan": "Maynila",
+      "wikidata": "Q6168135"
+    },
+    {
+      "pangalan": "Parokya ni Edgar",
+      "taon_ng_pagkakatatag": 1993,
+      "pinagmulan": "Lungsod Quezon",
+      "wikidata": "Q3549141"
+    },
+    {
+      "pangalan": "Aegis (banda)",
+      "taon_ng_pagkakatatag": 1995,
+      "pinagmulan": "Lungsod Quezon",
+      "wikidata": "Q2839630"
+    },
+    {
+      "pangalan": "Moonstar88",
+      "taon_ng_pagkakatatag": 1999,
+      "pinagmulan": "Kalakhang Maynila",
+      "wikidata": "Q6907989"
+    },
+    {
+      "pangalan": "Orange and Lemons",
+      "taon_ng_pagkakatatag": 1999,
+      "pinagmulan": "Baliwag",
+      "wikidata": "Q3546676"
+    },
+    {
+      "pangalan": "B-10",
+      "taon_ng_pagkakatatag": 2000,
+      "pinagmulan": "",
+      "wikidata": "Q12961848"
+    },
+    {
+      "pangalan": "Kamikazee",
+      "taon_ng_pagkakatatag": 2000,
+      "pinagmulan": "Lungsod Quezon",
+      "wikidata": "Q3812690"
+    },
+    {
+      "pangalan": "Johnny Alegre Affinity",
+      "taon_ng_pagkakatatag": 2002,
+      "pinagmulan": "Maynila",
+      "wikidata": "Q6266208"
+    },
+    {
+      "pangalan": "Mayonnaise",
+      "taon_ng_pagkakatatag": 2002,
+      "pinagmulan": "Kalakhang Maynila",
+      "wikidata": "Q6797610"
+    },
+    {
+      "pangalan": "Bamboo",
+      "taon_ng_pagkakatatag": 2004,
+      "pinagmulan": "",
+      "wikidata": "Q1645958"
+    },
+    {
+      "pangalan": "Tanya Markova",
+      "taon_ng_pagkakatatag": 2006,
+      "pinagmulan": "Maynila",
+      "wikidata": "Q7684022"
+    },
+    {
+      "pangalan": "Humanfolk",
+      "taon_ng_pagkakatatag": 2008,
+      "pinagmulan": "Maynila",
+      "wikidata": "Q18691688"
+    },
+    {
+      "pangalan": "IV of Spades",
+      "taon_ng_pagkakatatag": 2014,
+      "pinagmulan": "",
+      "wikidata": "Q55614200"
+    },
+    {
+      "pangalan": "BoybandPH",
+      "taon_ng_pagkakatatag": 2016,
+      "pinagmulan": "",
+      "wikidata": "Q28006714"
+    },
+    {
+      "pangalan": "MNL48",
+      "taon_ng_pagkakatatag": 2018,
+      "pinagmulan": "Maynila",
+      "wikidata": "Q23592670"
+    },
+    {
+      "pangalan": "SB19",
+      "taon_ng_pagkakatatag": 2018,
+      "pinagmulan": "Maynila",
+      "wikidata": "Q75905366"
+    },
+    {
+      "pangalan": "Baby Blue (idol group)",
+      "taon_ng_pagkakatatag": 2020,
+      "pinagmulan": "Maynila",
+      "wikidata": "Q106687463"
+    },
+    {
+      "pangalan": "Bgyo",
+      "taon_ng_pagkakatatag": 2021,
+      "pinagmulan": "Maynila",
+      "wikidata": "Q104838739"
+    }
+  ],
+  "meta": {
+    "title": "Mga Banda at Grupong Pangmusika ng Pilipinas - Free Download",
+    "description": "Talaan ng mga kilalang bandang OPM at grupong pangmusika mula sa Pilipinas (hal. Eraserheads, APO Hiking Society, SB19), kasama ang taon ng pagkakatatag at lugar na pinagmulan. Mula sa Wikidata at Wikipediang Tagalog. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Banda at Grupong Pangmusika ng Pilipinas | ListBase",
+    "seo_description": "Download Mga Banda at Grupong Pangmusika ng Pilipinas — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.wikidata.org/wiki/Q215380"
+    ]
+  }
+}
