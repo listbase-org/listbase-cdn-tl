@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-18T02:16:21.771Z",
-  "total_datasets": 544,
-  "total_records": 449931,
+  "generated": "2026-11-19T02:15:52.315Z",
+  "total_datasets": 545,
+  "total_records": 450039,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -14901,6 +14901,36 @@
         "xlsx": {
           "name": "tl-hotline-pangemerhensiya_TL.xlsx",
           "size": 8683
+        }
+      }
+    },
+    {
+      "id": "tl-insidensiya-ng-kahirapan-ayon-sa-lalawigan",
+      "name": "Insidensiya ng Kahirapan sa mga Pamilya ayon sa Rehiyon at Lalawigan (2018, 2021, 2023)",
+      "category": "society",
+      "record_count": 108,
+      "columns": [
+        "lugar",
+        "antas",
+        "rehiyon",
+        "poverty_threshold_2018",
+        "poverty_threshold_2021",
+        "poverty_threshold_2023",
+        "poverty_incidence_2018",
+        "poverty_incidence_2021",
+        "poverty_incidence_2023"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1F__FY/0011F3DF010.px/",
+      "updated": "2026-11",
+      "size": 41365,
+      "files": {
+        "csv": {
+          "name": "tl-insidensiya-ng-kahirapan-ayon-sa-lalawigan_TL.csv",
+          "size": 12017
+        },
+        "xlsx": {
+          "name": "tl-insidensiya-ng-kahirapan-ayon-sa-lalawigan_TL.xlsx",
+          "size": 12783
         }
       }
     },
