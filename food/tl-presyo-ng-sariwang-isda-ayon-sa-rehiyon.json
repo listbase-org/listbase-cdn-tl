@@ -1,0 +1,2776 @@
+{
+  "id": "tl-presyo-ng-sariwang-isda-ayon-sa-rehiyon",
+  "name": "Karaniwang Presyong Tingi ng Sariwang Isda ayon sa Rehiyon (2024–2025)",
+  "title": "Karaniwang Presyong Tingi ng Sariwang Isda ayon sa Rehiyon (2024–2025)",
+  "description": "Taunang karaniwang presyong tingi (piso bawat kilo) ng iba’t ibang sariwang isda tulad ng bangus, galunggong, tilapia at tamban sa buong Pilipinas at sa bawat rehiyon, para sa 2024 at 2025. Mula sa PSA OpenSTAT.",
+  "category": "food",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN11.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN11.px/",
+  "updated": "2026-11",
+  "record_count": 455,
+  "columns": [
+    {
+      "key": "isda",
+      "label": "Isda",
+      "type": "string"
+    },
+    {
+      "key": "lugar",
+      "label": "Lugar",
+      "type": "string"
+    },
+    {
+      "key": "presyo_2024",
+      "label": "Presyo 2024",
+      "type": "number"
+    },
+    {
+      "key": "presyo_2025",
+      "label": "Presyo 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "isda": "CATFISH, HITO, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 167.54,
+      "presyo_2025": 176.41
+    },
+    {
+      "isda": "DALAG, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 235.06,
+      "presyo_2025": 239.57
+    },
+    {
+      "isda": "GUTOB, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 218.22,
+      "presyo_2025": 216.28
+    },
+    {
+      "isda": "LAGAO, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 285.02,
+      "presyo_2025": 300.78
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 166.71,
+      "presyo_2025": 177.7
+    },
+    {
+      "isda": "ALOY/TULINGAN, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 186.81,
+      "presyo_2025": 191.02
+    },
+    {
+      "isda": "BARILIS, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 334.04,
+      "presyo_2025": 340.58
+    },
+    {
+      "isda": "BARILISION, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 224.32,
+      "presyo_2025": 232.69
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 211.44,
+      "presyo_2025": 221.03
+    },
+    {
+      "isda": "SKIPJACK (GULYASAN), MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 187.94,
+      "presyo_2025": 201.62
+    },
+    {
+      "isda": "TULINGAN (FRIGATE TUNA), MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 202.01,
+      "presyo_2025": 215.21
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 269.97,
+      "presyo_2025": 278.41
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 218.78,
+      "presyo_2025": 224
+    },
+    {
+      "isda": "BUDBURON, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 176.27,
+      "presyo_2025": 190.05
+    },
+    {
+      "isda": "BUDBURON, SMALL",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 182.64,
+      "presyo_2025": 240.5
+    },
+    {
+      "isda": "BURAW/BORAO, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 242.56,
+      "presyo_2025": 271.54
+    },
+    {
+      "isda": "BUROT, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 194.89,
+      "presyo_2025": 203.38
+    },
+    {
+      "isda": "BUSLOGAN",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 205.52,
+      "presyo_2025": 210.63
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 151.37,
+      "presyo_2025": 156.96
+    },
+    {
+      "isda": "FLYING FISH (BANGSI), MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 149.79,
+      "presyo_2025": 161.94
+    },
+    {
+      "isda": "FLYING FISH (BARUNGOY), MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 127.4,
+      "presyo_2025": 147.75
+    },
+    {
+      "isda": "MACKEREL, ANDUHAU, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 201.78,
+      "presyo_2025": 225.08
+    },
+    {
+      "isda": "MACKEREL, HASA-HASA, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 232.7,
+      "presyo_2025": 252.23
+    },
+    {
+      "isda": "MACKEREL, MANGKO, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 207.09,
+      "presyo_2025": 216.46
+    },
+    {
+      "isda": "MACKEREL, TANIGUE",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 384.72,
+      "presyo_2025": 386.31
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 210.15,
+      "presyo_2025": 228.81
+    },
+    {
+      "isda": "NEMIMTERID, BISUGO, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 303.58,
+      "presyo_2025": 315.21
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 202.19,
+      "presyo_2025": 224.95
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 102.92,
+      "presyo_2025": 106.54
+    },
+    {
+      "isda": "SHORT MACKEREL (HASA HASA/KABAYAS/KABALYAS), MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 240.06,
+      "presyo_2025": 252.86
+    },
+    {
+      "isda": "SINAGID (DANGIT), MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 207.72,
+      "presyo_2025": 258.39
+    },
+    {
+      "isda": "TAMARONG",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 206.28,
+      "presyo_2025": 237.21
+    },
+    {
+      "isda": "TULOY, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 115.36,
+      "presyo_2025": 114.59
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 296.11,
+      "presyo_2025": 314.47
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 404.06,
+      "presyo_2025": 423.59
+    },
+    {
+      "isda": "PARROT FISH (MULMOL), MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 233.82,
+      "presyo_2025": 287.55
+    },
+    {
+      "isda": "PIRIT, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 166.38,
+      "presyo_2025": 171.33
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 212.02,
+      "presyo_2025": 222.72
+    },
+    {
+      "isda": "SNAPPER, MAYA-MAYA, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 335.54,
+      "presyo_2025": 350.73
+    },
+    {
+      "isda": "TALAKITOK (MAMSA), MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 332.89,
+      "presyo_2025": 344.68
+    },
+    {
+      "isda": "FRESH SHRIMP, ACETES, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 302.2,
+      "presyo_2025": 306.11
+    },
+    {
+      "isda": "FRESH SHRIMP, PASAYAN, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 386.15,
+      "presyo_2025": 413.71
+    },
+    {
+      "isda": "FRESH SHRIMP, PUTI, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 372,
+      "presyo_2025": 379.12
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE (DARK GREEN), MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 319.77,
+      "presyo_2025": 381.54
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 449.24,
+      "presyo_2025": 480.38
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 412.97,
+      "presyo_2025": 429.39
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 582,
+      "presyo_2025": 583.63
+    },
+    {
+      "isda": "FRESH SHRIMP, WHITE, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 320.19,
+      "presyo_2025": 384.53
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 541.82,
+      "presyo_2025": 567.54
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 350.04,
+      "presyo_2025": 365.64
+    },
+    {
+      "isda": "FRESH SHELLS, CLAMS",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 93.77,
+      "presyo_2025": 96.86
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 116.47,
+      "presyo_2025": 120.55
+    },
+    {
+      "isda": "FRESH SQUID, LOKOS, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 290.13,
+      "presyo_2025": 293.38
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 311.1,
+      "presyo_2025": 328.92
+    },
+    {
+      "isda": "FRESH SEA SNAILS",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 85.86,
+      "presyo_2025": 85.09
+    },
+    {
+      "isda": "FRESH SEAWEEDS, GULAMAN DAGAT",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 76.22,
+      "presyo_2025": 80.58
+    },
+    {
+      "isda": "FRESH SEAWEEDS, LATO",
+      "lugar": "PHILIPPINES",
+      "presyo_2024": 152.37,
+      "presyo_2025": 151.96
+    },
+    {
+      "isda": "DALAG, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 264.55,
+      "presyo_2025": 275.15
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 146.64,
+      "presyo_2025": 154.13
+    },
+    {
+      "isda": "TULINGAN (FRIGATE TUNA), MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 261.56,
+      "presyo_2025": 282.51
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 196.58,
+      "presyo_2025": 207.98
+    },
+    {
+      "isda": "MACKEREL, HASA-HASA, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 353.41,
+      "presyo_2025": 373.79
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 213.14,
+      "presyo_2025": 241.52
+    },
+    {
+      "isda": "NEMIMTERID, BISUGO, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 370.56,
+      "presyo_2025": 390.66
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 256.58,
+      "presyo_2025": 297.4
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 314.89,
+      "presyo_2025": 344.01
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 478.67,
+      "presyo_2025": 506.19
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 381.58,
+      "presyo_2025": 402.8
+    },
+    {
+      "isda": "SNAPPER, MAYA-MAYA, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 474.3,
+      "presyo_2025": 485.91
+    },
+    {
+      "isda": "TALAKITOK (MAMSA), MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 409.45,
+      "presyo_2025": 425.17
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 472.02,
+      "presyo_2025": 483.12
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 840.86,
+      "presyo_2025": 908.19
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 630.87,
+      "presyo_2025": 699.87
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 119.61,
+      "presyo_2025": 120.77
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "NCR - National Capital Region",
+      "presyo_2024": 419.99,
+      "presyo_2025": 454.39
+    },
+    {
+      "isda": "CATFISH, HITO, MEDIUM",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 167.54,
+      "presyo_2025": 176.32
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 162.82,
+      "presyo_2025": 174.86
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 290.73,
+      "presyo_2025": 307.6
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 209.11,
+      "presyo_2025": 225.2
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 203.41,
+      "presyo_2025": 233.13
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 297.9,
+      "presyo_2025": 315.04
+    },
+    {
+      "isda": "SNAPPER, MAYA-MAYA, MEDIUM",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 339.69,
+      "presyo_2025": 367.92
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 526.38,
+      "presyo_2025": 535.84
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 497.75,
+      "presyo_2025": 498.64
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 450,
+      "presyo_2025": 450
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 130.36,
+      "presyo_2025": 130.74
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "CAR - Cordillera Administrative Region",
+      "presyo_2024": 423.29,
+      "presyo_2025": 449.82
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 142.59,
+      "presyo_2025": 154.86
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 249.17,
+      "presyo_2025": 247.45
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 238.33,
+      "presyo_2025": 246.04
+    },
+    {
+      "isda": "BUSLOGAN",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 205.52,
+      "presyo_2025": 210.63
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 179.93,
+      "presyo_2025": 178.96
+    },
+    {
+      "isda": "MACKEREL, HASA-HASA, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 255.21,
+      "presyo_2025": 266.25
+    },
+    {
+      "isda": "MACKEREL, MANGKO, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 226.27,
+      "presyo_2025": 259.53
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 195.21,
+      "presyo_2025": 218.64
+    },
+    {
+      "isda": "NEMIMTERID, BISUGO, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 307.03,
+      "presyo_2025": 251.77
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 213.88,
+      "presyo_2025": 250.21
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 325.63,
+      "presyo_2025": 360.94
+    },
+    {
+      "isda": "SNAPPER, MAYA-MAYA, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 277.66,
+      "presyo_2025": 304.47
+    },
+    {
+      "isda": "TALAKITOK (MAMSA), MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 397.66,
+      "presyo_2025": 424.06
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 493.13,
+      "presyo_2025": 547.81
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 581.15,
+      "presyo_2025": 538.85
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 591.77,
+      "presyo_2025": 677.57
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 442.34,
+      "presyo_2025": 462.81
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 119.27,
+      "presyo_2025": 123.81
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "I - Ilocos Region",
+      "presyo_2024": 228.86,
+      "presyo_2025": 298.96
+    },
+    {
+      "isda": "CATFISH, HITO, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 160.94,
+      "presyo_2025": 173.25
+    },
+    {
+      "isda": "DALAG, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 184.55,
+      "presyo_2025": 198.93
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 157.43,
+      "presyo_2025": 169.69
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 269.59,
+      "presyo_2025": 283.66
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 229.44,
+      "presyo_2025": 236.04
+    },
+    {
+      "isda": "MACKEREL, MANGKO, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 216.53,
+      "presyo_2025": 224.86
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 220.89,
+      "presyo_2025": 246.39
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 216.82,
+      "presyo_2025": 257.8
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 412.92,
+      "presyo_2025": 423.02
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 235.31,
+      "presyo_2025": 258.54
+    },
+    {
+      "isda": "TALAKITOK (MAMSA), MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 288.95,
+      "presyo_2025": 309.87
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 590.26,
+      "presyo_2025": 590.31
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 603.13,
+      "presyo_2025": 592.57
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 590.36,
+      "presyo_2025": 613.69
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 444.62,
+      "presyo_2025": 450.07
+    },
+    {
+      "isda": "FRESH SHELLS, CLAMS",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 119.9,
+      "presyo_2025": 135.9
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 118.1,
+      "presyo_2025": 120.84
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "II - Cagayan Valley",
+      "presyo_2024": 404.06,
+      "presyo_2025": 410.5
+    },
+    {
+      "isda": "CATFISH, HITO, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 144.19,
+      "presyo_2025": 153.88
+    },
+    {
+      "isda": "DALAG, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 211.28,
+      "presyo_2025": 219.6
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 135.2,
+      "presyo_2025": 146.4
+    },
+    {
+      "isda": "TULINGAN (FRIGATE TUNA), MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 251.17,
+      "presyo_2025": 278.65
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 281.84,
+      "presyo_2025": 295.94
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 279.95,
+      "presyo_2025": 298.74
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 165.99,
+      "presyo_2025": 184.15
+    },
+    {
+      "isda": "MACKEREL, HASA-HASA, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 327.1,
+      "presyo_2025": 355.17
+    },
+    {
+      "isda": "MACKEREL, TANIGUE",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 334.31,
+      "presyo_2025": 347.08
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 197.92,
+      "presyo_2025": 224.06
+    },
+    {
+      "isda": "NEMIMTERID, BISUGO, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 306.49,
+      "presyo_2025": 322.68
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 225.99,
+      "presyo_2025": 272.54
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 156.59,
+      "presyo_2025": 190.1
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 312.5,
+      "presyo_2025": 329.49
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 558.23,
+      "presyo_2025": 525.76
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 220.99,
+      "presyo_2025": 242.69
+    },
+    {
+      "isda": "TALAKITOK (MAMSA), MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 380.6,
+      "presyo_2025": 386.89
+    },
+    {
+      "isda": "FRESH SHRIMP, PUTI, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 460.84,
+      "presyo_2025": 470.37
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 509.7,
+      "presyo_2025": 541.23
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 505.8,
+      "presyo_2025": 516.11
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 863.49,
+      "presyo_2025": 894.79
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 766.9,
+      "presyo_2025": 779.67
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 313.65,
+      "presyo_2025": 343.47
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 116.9,
+      "presyo_2025": 124.87
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "III - Central Luzon",
+      "presyo_2024": 334.19,
+      "presyo_2025": 356.84
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 141.55,
+      "presyo_2025": 151.29
+    },
+    {
+      "isda": "ALOY/TULINGAN, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 220.92,
+      "presyo_2025": 213.08
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 234.78,
+      "presyo_2025": 258
+    },
+    {
+      "isda": "SKIPJACK (GULYASAN), MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 194.63,
+      "presyo_2025": 204.86
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 309.83,
+      "presyo_2025": 317.57
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 280.34,
+      "presyo_2025": 281.12
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 153.53,
+      "presyo_2025": 159.7
+    },
+    {
+      "isda": "MACKEREL, TANIGUE",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 579.08,
+      "presyo_2025": 529.21
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 217.49,
+      "presyo_2025": 236.84
+    },
+    {
+      "isda": "NEMIMTERID, BISUGO, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 388.36,
+      "presyo_2025": 393.85
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 238.1,
+      "presyo_2025": 271.74
+    },
+    {
+      "isda": "SHORT MACKEREL (HASA HASA/KABAYAS/KABALYAS), MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 368.85,
+      "presyo_2025": 392.92
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 338.17,
+      "presyo_2025": 360.63
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 489.43,
+      "presyo_2025": 489.76
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 388.12,
+      "presyo_2025": 404.82
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 443.61,
+      "presyo_2025": 462.9
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 749.11,
+      "presyo_2025": 791.42
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 640.7,
+      "presyo_2025": 640.52
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 441,
+      "presyo_2025": 452.12
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 122.88,
+      "presyo_2025": 123.67
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 433.81,
+      "presyo_2025": 444.43
+    },
+    {
+      "isda": "FRESH SEA SNAILS",
+      "lugar": "IV-A - CALABARZON",
+      "presyo_2024": 62.58,
+      "presyo_2025": 57.22
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 169.2,
+      "presyo_2025": 172.81
+    },
+    {
+      "isda": "ALOY/TULINGAN, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 150.73,
+      "presyo_2025": 161.35
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 225.73,
+      "presyo_2025": 228.02
+    },
+    {
+      "isda": "TULINGAN (FRIGATE TUNA), MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 127.22,
+      "presyo_2025": 155.83
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 212.01,
+      "presyo_2025": 215.8
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 183.28,
+      "presyo_2025": 185.99
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 117.2,
+      "presyo_2025": 128.16
+    },
+    {
+      "isda": "FLYING FISH (BANGSI), MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 137.08,
+      "presyo_2025": 133.18
+    },
+    {
+      "isda": "MACKEREL, HASA-HASA, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 135.42,
+      "presyo_2025": 162.29
+    },
+    {
+      "isda": "MACKEREL, MANGKO, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 251.11,
+      "presyo_2025": 242.22
+    },
+    {
+      "isda": "MACKEREL, TANIGUE",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 257.5,
+      "presyo_2025": 268.89
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 242.97,
+      "presyo_2025": 250.18
+    },
+    {
+      "isda": "NEMIMTERID, BISUGO, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 236.35,
+      "presyo_2025": 260.78
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 170.09,
+      "presyo_2025": 185.33
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 85.87,
+      "presyo_2025": 85.34
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 202.73,
+      "presyo_2025": 215.77
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 302.42,
+      "presyo_2025": 320.65
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 164.86,
+      "presyo_2025": 160.75
+    },
+    {
+      "isda": "SNAPPER, MAYA-MAYA, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 319.07,
+      "presyo_2025": 316.05
+    },
+    {
+      "isda": "TALAKITOK (MAMSA), MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 255.61,
+      "presyo_2025": 260.55
+    },
+    {
+      "isda": "FRESH SHRIMP, ACETES, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 324.79,
+      "presyo_2025": 325
+    },
+    {
+      "isda": "FRESH SHRIMP, PASAYAN, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 434.01,
+      "presyo_2025": 453.68
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 388.79,
+      "presyo_2025": 419.53
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 693.17,
+      "presyo_2025": 698.79
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 495.11,
+      "presyo_2025": 457.5
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 344.15,
+      "presyo_2025": 352.3
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 139.74,
+      "presyo_2025": 137.35
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 264.88,
+      "presyo_2025": 250.21
+    },
+    {
+      "isda": "FRESH SEA SNAILS",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 130.94,
+      "presyo_2025": 133.75
+    },
+    {
+      "isda": "FRESH SEAWEEDS, LATO",
+      "lugar": "MIMAROPA Region",
+      "presyo_2024": 169.45,
+      "presyo_2025": 192.36
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 165.58,
+      "presyo_2025": 183.85
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 221,
+      "presyo_2025": 232.51
+    },
+    {
+      "isda": "SKIPJACK (GULYASAN), MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 174.58,
+      "presyo_2025": 195.14
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 262.67,
+      "presyo_2025": 268.28
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 220.87,
+      "presyo_2025": 239.36
+    },
+    {
+      "isda": "BURAW/BORAO, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 246.63,
+      "presyo_2025": 270.03
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 139.95,
+      "presyo_2025": 148.64
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 211.12,
+      "presyo_2025": 235.28
+    },
+    {
+      "isda": "NEMIMTERID, BISUGO, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 225.63,
+      "presyo_2025": 247.71
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 220.65,
+      "presyo_2025": 236.43
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 80.83,
+      "presyo_2025": 81.87
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 231.98,
+      "presyo_2025": 274
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 340.42,
+      "presyo_2025": 381.11
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 131.74,
+      "presyo_2025": 138.02
+    },
+    {
+      "isda": "SNAPPER, MAYA-MAYA, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 279.31,
+      "presyo_2025": 296.81
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 370.4,
+      "presyo_2025": 421.22
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 607.45,
+      "presyo_2025": 614.79
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 507.81,
+      "presyo_2025": 511.98
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 314,
+      "presyo_2025": 320.36
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 113.22,
+      "presyo_2025": 115.91
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "V - Bicol Region",
+      "presyo_2024": 289.68,
+      "presyo_2025": 328.21
+    },
+    {
+      "isda": "CATFISH, HITO, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 224.27,
+      "presyo_2025": 213.34
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 179.95,
+      "presyo_2025": 175.54
+    },
+    {
+      "isda": "ALOY/TULINGAN, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 219.19,
+      "presyo_2025": 235.04
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 205.73,
+      "presyo_2025": 218.13
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 330,
+      "presyo_2025": 352.02
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 200.31,
+      "presyo_2025": 238.65
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 128.14,
+      "presyo_2025": 137.9
+    },
+    {
+      "isda": "MACKEREL, HASA-HASA, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 218.13,
+      "presyo_2025": 232
+    },
+    {
+      "isda": "MACKEREL, TANIGUE",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 348.33,
+      "presyo_2025": 381.6
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 208.97,
+      "presyo_2025": 225.5
+    },
+    {
+      "isda": "NEMIMTERID, BISUGO, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 291.62,
+      "presyo_2025": 304.95
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 212.71,
+      "presyo_2025": 231.31
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 115.35,
+      "presyo_2025": 112
+    },
+    {
+      "isda": "TULOY, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 117.57,
+      "presyo_2025": 118.34
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 241.94,
+      "presyo_2025": 241.67
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 416.77,
+      "presyo_2025": 391
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 206.32,
+      "presyo_2025": 220.64
+    },
+    {
+      "isda": "TALAKITOK (MAMSA), MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 397.71,
+      "presyo_2025": 422.19
+    },
+    {
+      "isda": "FRESH SHRIMP, ACETES, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 341.81,
+      "presyo_2025": 353.33
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 577.97,
+      "presyo_2025": 589.07
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 351.83,
+      "presyo_2025": 363.49
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 101.3,
+      "presyo_2025": 99.48
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "VI - Western Visayas",
+      "presyo_2024": 354.21,
+      "presyo_2025": 367.02
+    },
+    {
+      "isda": "LAGAO, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 342.68,
+      "presyo_2025": 354.79
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 187.85,
+      "presyo_2025": 198.77
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 241.39,
+      "presyo_2025": 249.72
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 231.26,
+      "presyo_2025": 240.73
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 181.09,
+      "presyo_2025": 194.65
+    },
+    {
+      "isda": "MACKEREL, ANDUHAU, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 245.11,
+      "presyo_2025": 251.48
+    },
+    {
+      "isda": "MACKEREL, HASA-HASA, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 240.25,
+      "presyo_2025": 261.58
+    },
+    {
+      "isda": "MACKEREL, TANIGUE",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 404.38,
+      "presyo_2025": 404.79
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 228.47,
+      "presyo_2025": 235.51
+    },
+    {
+      "isda": "NEMIMTERID, BISUGO, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 309.48,
+      "presyo_2025": 326.98
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 208.94,
+      "presyo_2025": 220.75
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 126.23,
+      "presyo_2025": 139.05
+    },
+    {
+      "isda": "TAMARONG",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 190.52,
+      "presyo_2025": 201.46
+    },
+    {
+      "isda": "TULOY, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 112.05,
+      "presyo_2025": 108.98
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 344.15,
+      "presyo_2025": 351.88
+    },
+    {
+      "isda": "PIRIT, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 233.47,
+      "presyo_2025": 257.22
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 230.23,
+      "presyo_2025": 251.88
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 411.13,
+      "presyo_2025": 396.86
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 398.9,
+      "presyo_2025": 399.69
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 346.15,
+      "presyo_2025": 342.5
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 113.75,
+      "presyo_2025": 111.98
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 383.51,
+      "presyo_2025": 382.94
+    },
+    {
+      "isda": "FRESH SEAWEEDS, GULAMAN DAGAT",
+      "lugar": "Negros Island Region (NIR)",
+      "presyo_2024": 89.45,
+      "presyo_2025": 101.81
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 165.31,
+      "presyo_2025": 183.07
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 211.68,
+      "presyo_2025": 241.12
+    },
+    {
+      "isda": "BUDBURON, SMALL",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 182.64,
+      "presyo_2025": 240.51
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 126.98,
+      "presyo_2025": 144.53
+    },
+    {
+      "isda": "FLYING FISH (BANGSI), MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 169.67,
+      "presyo_2025": 197.29
+    },
+    {
+      "isda": "FLYING FISH (BARUNGOY), MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 127.4,
+      "presyo_2025": 147.75
+    },
+    {
+      "isda": "MACKEREL, ANDUHAU, MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 209.13,
+      "presyo_2025": 257.96
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 195.17,
+      "presyo_2025": 238.61
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 208.13,
+      "presyo_2025": 229.32
+    },
+    {
+      "isda": "SHORT MACKEREL (HASA HASA/KABAYAS/KABALYAS), MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 223.54,
+      "presyo_2025": 225.52
+    },
+    {
+      "isda": "SINAGID (DANGIT), MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 207.72,
+      "presyo_2025": 258.39
+    },
+    {
+      "isda": "TAMARONG",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 203.56,
+      "presyo_2025": 240.59
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 424.68,
+      "presyo_2025": 491.56
+    },
+    {
+      "isda": "PARROT FISH (MULMOL), MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 239.17,
+      "presyo_2025": 313.87
+    },
+    {
+      "isda": "FRESH SHRIMP, PUTI, MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 324.48,
+      "presyo_2025": 332.6
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE (DARK GREEN), MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 319.77,
+      "presyo_2025": 381.54
+    },
+    {
+      "isda": "FRESH SHRIMP, WHITE, MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 320.19,
+      "presyo_2025": 384.53
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 360.52,
+      "presyo_2025": 391.16
+    },
+    {
+      "isda": "FRESH SHELLS, CLAMS",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 95,
+      "presyo_2025": 103.65
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 406,
+      "presyo_2025": 473.41
+    },
+    {
+      "isda": "FRESH SEAWEEDS, GULAMAN DAGAT",
+      "lugar": "VII - Central Visayas",
+      "presyo_2024": 73.13,
+      "presyo_2025": 77.81
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 190.21,
+      "presyo_2025": 208.01
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 233.7,
+      "presyo_2025": 257.28
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 258.39,
+      "presyo_2025": 247.03
+    },
+    {
+      "isda": "BURAW/BORAO, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 236.46,
+      "presyo_2025": 273.8
+    },
+    {
+      "isda": "BUROT, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 208.27,
+      "presyo_2025": 225.74
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 143.25,
+      "presyo_2025": 146.67
+    },
+    {
+      "isda": "FLYING FISH (BANGSI), MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 147.36,
+      "presyo_2025": 172.22
+    },
+    {
+      "isda": "MACKEREL, HASA-HASA, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 225.47,
+      "presyo_2025": 243.89
+    },
+    {
+      "isda": "MACKEREL, MANGKO, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 265,
+      "presyo_2025": 275.42
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 227.76,
+      "presyo_2025": 242.61
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 210.25,
+      "presyo_2025": 223.88
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 87.01,
+      "presyo_2025": 94.42
+    },
+    {
+      "isda": "TAMARONG",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 232.92,
+      "presyo_2025": 259.45
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 282.29,
+      "presyo_2025": 330.63
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 161.5,
+      "presyo_2025": 167.33
+    },
+    {
+      "isda": "FRESH SHRIMP, PUTI, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 370.42,
+      "presyo_2025": 383.2
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 401.94,
+      "presyo_2025": 421.93
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 478.21,
+      "presyo_2025": 486.75
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 335.61,
+      "presyo_2025": 340.47
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 80.95,
+      "presyo_2025": 84.86
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 300.59,
+      "presyo_2025": 314.32
+    },
+    {
+      "isda": "FRESH SEA SNAILS",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 90.07,
+      "presyo_2025": 85.16
+    },
+    {
+      "isda": "FRESH SEAWEEDS, LATO",
+      "lugar": "VIII - Eastern Visayas",
+      "presyo_2024": 169.27,
+      "presyo_2025": 151.95
+    },
+    {
+      "isda": "GUTOB, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 228.96,
+      "presyo_2025": 241.27
+    },
+    {
+      "isda": "LAGAO, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 169.72,
+      "presyo_2025": 192.78
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 149.75,
+      "presyo_2025": 158.23
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 154.75,
+      "presyo_2025": 170.44
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 166.25,
+      "presyo_2025": 174.28
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 122.61,
+      "presyo_2025": 127.2
+    },
+    {
+      "isda": "FLYING FISH (BANGSI), MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 137.92,
+      "presyo_2025": 137.98
+    },
+    {
+      "isda": "MACKEREL, ANDUHAU, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 167.22,
+      "presyo_2025": 178.24
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 169.17,
+      "presyo_2025": 184.52
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 135.08,
+      "presyo_2025": 152.48
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 83.98,
+      "presyo_2025": 89.09
+    },
+    {
+      "isda": "SHORT MACKEREL (HASA HASA/KABAYAS/KABALYAS), MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 127.78,
+      "presyo_2025": 140.14
+    },
+    {
+      "isda": "PIRIT, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 156.55,
+      "presyo_2025": 165.85
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 118.89,
+      "presyo_2025": 115.35
+    },
+    {
+      "isda": "FRESH SHRIMP, PUTI, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 377.39,
+      "presyo_2025": 377.05
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 350.48,
+      "presyo_2025": 364.56
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 517.21,
+      "presyo_2025": 529.95
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 394.01,
+      "presyo_2025": 401.61
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 296.38,
+      "presyo_2025": 313.09
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 263.97,
+      "presyo_2025": 264.41
+    },
+    {
+      "isda": "FRESH SEAWEEDS, GULAMAN DAGAT",
+      "lugar": "IX - Zamboanga Peninsula",
+      "presyo_2024": 51.74,
+      "presyo_2025": 55.67
+    },
+    {
+      "isda": "GUTOB, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 212.85,
+      "presyo_2025": 203.78
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 190.54,
+      "presyo_2025": 199.3
+    },
+    {
+      "isda": "ALOY/TULINGAN, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 200.67,
+      "presyo_2025": 202.92
+    },
+    {
+      "isda": "BARILIS, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 418.96,
+      "presyo_2025": 425.84
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 267,
+      "presyo_2025": 220.83
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 213.65,
+      "presyo_2025": 212.5
+    },
+    {
+      "isda": "BUROT, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 171.03,
+      "presyo_2025": 173.33
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 158.43,
+      "presyo_2025": 149.27
+    },
+    {
+      "isda": "FLYING FISH (BANGSI), MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 171.15,
+      "presyo_2025": 179.79
+    },
+    {
+      "isda": "MACKEREL, ANDUHAU, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 175.5,
+      "presyo_2025": 172.97
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 213.03,
+      "presyo_2025": 221.93
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 188.96,
+      "presyo_2025": 198.01
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 115.69,
+      "presyo_2025": 102.31
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 491.95,
+      "presyo_2025": 543.38
+    },
+    {
+      "isda": "PIRIT, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 186.92,
+      "presyo_2025": 176
+    },
+    {
+      "isda": "FRESH SHRIMP, PASAYAN, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 388.32,
+      "presyo_2025": 430.15
+    },
+    {
+      "isda": "FRESH SHRIMP, PUTI, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 360.29,
+      "presyo_2025": 359.86
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 331.26,
+      "presyo_2025": 333.14
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 425.22,
+      "presyo_2025": 404.42
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 393.86,
+      "presyo_2025": 428.56
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 271.54,
+      "presyo_2025": 267.3
+    },
+    {
+      "isda": "FRESH SHELLS, CLAMS",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 99.03,
+      "presyo_2025": 102.2
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 114.67,
+      "presyo_2025": 114.32
+    },
+    {
+      "isda": "FRESH SQUID, LOKOS, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 290.12,
+      "presyo_2025": 293.38
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 264.99,
+      "presyo_2025": 282.5
+    },
+    {
+      "isda": "FRESH SEAWEEDS, GULAMAN DAGAT",
+      "lugar": "X - Northern Mindanao",
+      "presyo_2024": 80.41,
+      "presyo_2025": 86.43
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 187.52,
+      "presyo_2025": 202.97
+    },
+    {
+      "isda": "ALOY/TULINGAN, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 187.55,
+      "presyo_2025": 185.1
+    },
+    {
+      "isda": "BARILIS, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 416.13,
+      "presyo_2025": 423.89
+    },
+    {
+      "isda": "BARILISION, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 224.32,
+      "presyo_2025": 232.69
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 158.33,
+      "presyo_2025": 157.96
+    },
+    {
+      "isda": "TULINGAN (FRIGATE TUNA), MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 204.38,
+      "presyo_2025": 196.25
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 249.12,
+      "presyo_2025": 240.94
+    },
+    {
+      "isda": "BUDBURON, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 182.63,
+      "presyo_2025": 196.28
+    },
+    {
+      "isda": "BUROT, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 197.23,
+      "presyo_2025": 205.71
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 167.58,
+      "presyo_2025": 155.04
+    },
+    {
+      "isda": "FLYING FISH (BANGSI), MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 171.69,
+      "presyo_2025": 176.84
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 199.3,
+      "presyo_2025": 216.59
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 199.68,
+      "presyo_2025": 205.43
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 109.25,
+      "presyo_2025": 109.87
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 459.71,
+      "presyo_2025": 440.42
+    },
+    {
+      "isda": "PARROT FISH (MULMOL), MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 252.94,
+      "presyo_2025": 288.04
+    },
+    {
+      "isda": "PIRIT, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 169.04,
+      "presyo_2025": 169.31
+    },
+    {
+      "isda": "FRESH SHRIMP, PASAYAN, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 336.11,
+      "presyo_2025": 357.29
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 550.95,
+      "presyo_2025": 444.09
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 600.33,
+      "presyo_2025": 651.33
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 443.13,
+      "presyo_2025": 463.61
+    },
+    {
+      "isda": "FRESH SHELLS, CLAMS",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 84.58,
+      "presyo_2025": 79.86
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 126.6,
+      "presyo_2025": 141.04
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 166.6,
+      "presyo_2025": 174.09
+    },
+    {
+      "isda": "FRESH SEAWEEDS, GULAMAN DAGAT",
+      "lugar": "XI - Davao Region",
+      "presyo_2024": 97.78,
+      "presyo_2025": 97.71
+    },
+    {
+      "isda": "CATFISH, HITO, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 164.46,
+      "presyo_2025": 167.84
+    },
+    {
+      "isda": "DALAG, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 202,
+      "presyo_2025": 214.33
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 176.54,
+      "presyo_2025": 186.5
+    },
+    {
+      "isda": "BARILIS, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 261.83,
+      "presyo_2025": 270.63
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 171.76,
+      "presyo_2025": 172.19
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 240.23,
+      "presyo_2025": 237.81
+    },
+    {
+      "isda": "BUDBURON, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 150.83,
+      "presyo_2025": 165.16
+    },
+    {
+      "isda": "BUROT, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 191.12,
+      "presyo_2025": 193.73
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 139.2,
+      "presyo_2025": 150.72
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 202.41,
+      "presyo_2025": 222.45
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 214.85,
+      "presyo_2025": 221.18
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 122.98,
+      "presyo_2025": 134.26
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 341.92,
+      "presyo_2025": 343.38
+    },
+    {
+      "isda": "PIRIT, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 154.57,
+      "presyo_2025": 159.23
+    },
+    {
+      "isda": "SLIPMOUTH, SAPSAP, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 321.67,
+      "presyo_2025": 359.58
+    },
+    {
+      "isda": "FRESH SHRIMP, ACETES, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 240,
+      "presyo_2025": 240
+    },
+    {
+      "isda": "FRESH SHRIMP, PUTI, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 360.17,
+      "presyo_2025": 362.52
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 272.5,
+      "presyo_2025": 280.42
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 522.87,
+      "presyo_2025": 531.1
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 402.15,
+      "presyo_2025": 431.63
+    },
+    {
+      "isda": "FRESH SHELLS, CLAMS",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 81,
+      "presyo_2025": 95.67
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 147.96,
+      "presyo_2025": 159.71
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 172.09,
+      "presyo_2025": 181.62
+    },
+    {
+      "isda": "FRESH SEAWEEDS, GULAMAN DAGAT",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 69.54,
+      "presyo_2025": 68.18
+    },
+    {
+      "isda": "FRESH SEAWEEDS, LATO",
+      "lugar": "XII - SOCCSKSARGEN",
+      "presyo_2024": 214.17,
+      "presyo_2025": 247.08
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 187.73,
+      "presyo_2025": 192.85
+    },
+    {
+      "isda": "BARILIS, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 291.67,
+      "presyo_2025": 285.21
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 199.53,
+      "presyo_2025": 179.55
+    },
+    {
+      "isda": "TUNA, YELLOW-FIN (TAMBAKOL), MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 255.39,
+      "presyo_2025": 271.37
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 214.22,
+      "presyo_2025": 222.99
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 169.15,
+      "presyo_2025": 164.02
+    },
+    {
+      "isda": "FLYING FISH (BANGSI), MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 137.73,
+      "presyo_2025": 153.39
+    },
+    {
+      "isda": "MACKEREL, ANDUHAU, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 212.73,
+      "presyo_2025": 234.28
+    },
+    {
+      "isda": "MACKEREL, MANGKO, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 181.78,
+      "presyo_2025": 183.74
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 209.03,
+      "presyo_2025": 224.65
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 203.78,
+      "presyo_2025": 218.02
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 109.86,
+      "presyo_2025": 114.71
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 368.66,
+      "presyo_2025": 405.35
+    },
+    {
+      "isda": "PARROT FISH (MULMOL), MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 174.17,
+      "presyo_2025": 181.25
+    },
+    {
+      "isda": "FRESH SHRIMP, PUTI, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 338.96,
+      "presyo_2025": 337.71
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 387.71,
+      "presyo_2025": 379.38
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 486.01,
+      "presyo_2025": 474.79
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 607.61,
+      "presyo_2025": 664.92
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 267.9,
+      "presyo_2025": 287.95
+    },
+    {
+      "isda": "FRESH SHELLS, TAHONG",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 94.34,
+      "presyo_2025": 108.29
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 364.07,
+      "presyo_2025": 383.47
+    },
+    {
+      "isda": "FRESH SEA SNAILS",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 55.63,
+      "presyo_2025": 64.17
+    },
+    {
+      "isda": "FRESH SEAWEEDS, GULAMAN DAGAT",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 83.47,
+      "presyo_2025": 83.82
+    },
+    {
+      "isda": "FRESH SEAWEEDS, LATO",
+      "lugar": "XIII - Caraga",
+      "presyo_2024": 98.33,
+      "presyo_2025": 93.61
+    },
+    {
+      "isda": "CATFISH, HITO, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 202.19,
+      "presyo_2025": 218.11
+    },
+    {
+      "isda": "DALAG, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 276.87,
+      "presyo_2025": 269.64
+    },
+    {
+      "isda": "TILAPIA, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 192.75,
+      "presyo_2025": 197
+    },
+    {
+      "isda": "ALOY/TULINGAN, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 109.46,
+      "presyo_2025": 104.64
+    },
+    {
+      "isda": "OCEANIC BONITO, TULINGANG PUTI, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 113.75,
+      "presyo_2025": 114.52
+    },
+    {
+      "isda": "TULINGAN (FRIGATE TUNA), MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 159.3,
+      "presyo_2025": 157.31
+    },
+    {
+      "isda": "BIG-EYED SCAD, MATAMBAKA, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 94.31,
+      "presyo_2025": 101.96
+    },
+    {
+      "isda": "DILIS (ANCHOVIES)",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 108.95,
+      "presyo_2025": 107.96
+    },
+    {
+      "isda": "MACKEREL, MANGKO, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 107.99,
+      "presyo_2025": 102.64
+    },
+    {
+      "isda": "MILKFISH, BANGUS, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 205.51,
+      "presyo_2025": 218.34
+    },
+    {
+      "isda": "ROUND SCAD, GALUNGGONG, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 148.05,
+      "presyo_2025": 158.21
+    },
+    {
+      "isda": "SARDINE, TAMBAN, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 86.09,
+      "presyo_2025": 92.89
+    },
+    {
+      "isda": "CAESIO, DALAGANG-BUKID, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 267.46,
+      "presyo_2025": 306.08
+    },
+    {
+      "isda": "GROUPER, LAPU-LAPU, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 337.41,
+      "presyo_2025": 330.67
+    },
+    {
+      "isda": "FRESH SHRIMP, PUTI, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 245.31,
+      "presyo_2025": 287.29
+    },
+    {
+      "isda": "FRESH SHRIMP, SUAJE, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 297.5,
+      "presyo_2025": 316.1
+    },
+    {
+      "isda": "FRESH SHRIMP, SUGPO, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 481.2,
+      "presyo_2025": 424.72
+    },
+    {
+      "isda": "FRESH CRABS, ALIMANGO, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 439.58,
+      "presyo_2025": 462.56
+    },
+    {
+      "isda": "FRESH CRABS, ALIMASAG, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 368.08,
+      "presyo_2025": 483.35
+    },
+    {
+      "isda": "FRESH SHELLS, CLAMS",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 85.81,
+      "presyo_2025": 77.7
+    },
+    {
+      "isda": "FRESH SQUID, MEDIUM",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 244.09,
+      "presyo_2025": 255.88
+    },
+    {
+      "isda": "FRESH SEAWEEDS, LATO",
+      "lugar": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+      "presyo_2024": 93.75,
+      "presyo_2025": 74.79
+    }
+  ],
+  "meta": {
+    "title": "Karaniwang Presyong Tingi ng Sariwang Isda ayon sa Rehiyon (2024–2025) - Free Download",
+    "description": "Taunang karaniwang presyong tingi (piso bawat kilo) ng iba’t ibang sariwang isda tulad ng bangus, galunggong, tilapia at tamban sa buong Pilipinas at sa bawat rehiyon, para sa 2024 at 2025. Mula sa PSA OpenSTAT. Contains 455 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Karaniwang Presyong Tingi ng Sariwang Isda ayon sa Rehiyon (2024–2025) | ListBase",
+    "seo_description": "Download Karaniwang Presyong Tingi ng Sariwang Isda ayon sa Rehiyon (2024–2025) — 455 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 455 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN11.px/"
+    ]
+  }
+}

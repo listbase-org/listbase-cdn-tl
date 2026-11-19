@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-19T02:16:04.677Z",
-  "total_datasets": 546,
-  "total_records": 450066,
+  "generated": "2026-11-19T02:16:17.108Z",
+  "total_datasets": 547,
+  "total_records": 450521,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -4317,6 +4317,31 @@
         "xlsx": {
           "name": "tl-mga-panghimagas_TL.xlsx",
           "size": 7621
+        }
+      }
+    },
+    {
+      "id": "tl-presyo-ng-sariwang-isda-ayon-sa-rehiyon",
+      "name": "Karaniwang Presyong Tingi ng Sariwang Isda ayon sa Rehiyon (2024–2025)",
+      "category": "food",
+      "record_count": 455,
+      "columns": [
+        "isda",
+        "lugar",
+        "presyo_2024",
+        "presyo_2025"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018NEW/0042M4ARN11.px/",
+      "updated": "2026-11",
+      "size": 70965,
+      "files": {
+        "csv": {
+          "name": "tl-presyo-ng-sariwang-isda-ayon-sa-rehiyon_TL.csv",
+          "size": 31211
+        },
+        "xlsx": {
+          "name": "tl-presyo-ng-sariwang-isda-ayon-sa-rehiyon_TL.xlsx",
+          "size": 18627
         }
       }
     },
