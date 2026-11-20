@@ -1,0 +1,1256 @@
+{
+  "id": "tl-antas-ng-implasyon-ayon-sa-rehiyon-at-lalawigan",
+  "name": "Antas ng Implasyon ayon sa Rehiyon at Lalawigan ng Pilipinas (2021–2025)",
+  "title": "Antas ng Implasyon ayon sa Rehiyon at Lalawigan ng Pilipinas (2021–2025)",
+  "description": "Taunang karaniwang antas ng implasyon (year-on-year na pagbabago ng Consumer Price Index, lahat ng bilihin, 2018=100) sa buong Pilipinas, bawat rehiyon at lalawigan mula 2021 hanggang 2025. Mula sa PSA OpenSTAT.",
+  "category": "economy",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__CPI__2018NEW/0012M4ACP23.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__CPI__2018NEW/0012M4ACP23.px/",
+  "updated": "2026-11",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "lugar",
+      "label": "Lugar",
+      "type": "string"
+    },
+    {
+      "key": "antas",
+      "label": "Antas",
+      "type": "string"
+    },
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "implasyon_2021",
+      "label": "Implasyon 2021",
+      "type": "number"
+    },
+    {
+      "key": "implasyon_2022",
+      "label": "Implasyon 2022",
+      "type": "number"
+    },
+    {
+      "key": "implasyon_2023",
+      "label": "Implasyon 2023",
+      "type": "number"
+    },
+    {
+      "key": "implasyon_2024",
+      "label": "Implasyon 2024",
+      "type": "number"
+    },
+    {
+      "key": "implasyon_2025",
+      "label": "Implasyon 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lugar": "PHILIPPINES",
+      "antas": "Bansa",
+      "rehiyon": "",
+      "implasyon_2021": 3.9,
+      "implasyon_2022": 5.8,
+      "implasyon_2023": 6,
+      "implasyon_2024": 3.2,
+      "implasyon_2025": 1.7
+    },
+    {
+      "lugar": "National Capital Region (NCR)",
+      "antas": "Rehiyon",
+      "rehiyon": "National Capital Region (NCR)",
+      "implasyon_2021": 2.7,
+      "implasyon_2022": 5.1,
+      "implasyon_2023": 6.2,
+      "implasyon_2024": 2.6,
+      "implasyon_2025": 2.4
+    },
+    {
+      "lugar": "Cordillera Administrative Region (CAR)",
+      "antas": "Rehiyon",
+      "rehiyon": "Cordillera Administrative Region (CAR)",
+      "implasyon_2021": 3.9,
+      "implasyon_2022": 6.4,
+      "implasyon_2023": 4.5,
+      "implasyon_2024": 3.3,
+      "implasyon_2025": 2.1
+    },
+    {
+      "lugar": "Abra",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Cordillera Administrative Region (CAR)",
+      "implasyon_2021": 2.9,
+      "implasyon_2022": 5.6,
+      "implasyon_2023": 4.7,
+      "implasyon_2024": 3.8,
+      "implasyon_2025": 1.2
+    },
+    {
+      "lugar": "Benguet",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Cordillera Administrative Region (CAR)",
+      "implasyon_2021": 4.4,
+      "implasyon_2022": 8.2,
+      "implasyon_2023": 4.6,
+      "implasyon_2024": 3.1,
+      "implasyon_2025": 1.9
+    },
+    {
+      "lugar": "Ifugao",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Cordillera Administrative Region (CAR)",
+      "implasyon_2021": 4.8,
+      "implasyon_2022": 4.9,
+      "implasyon_2023": 5.7,
+      "implasyon_2024": 4.2,
+      "implasyon_2025": 2.2
+    },
+    {
+      "lugar": "Kalinga",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Cordillera Administrative Region (CAR)",
+      "implasyon_2021": 4.8,
+      "implasyon_2022": 6.9,
+      "implasyon_2023": 4.5,
+      "implasyon_2024": 2.7,
+      "implasyon_2025": 0.8
+    },
+    {
+      "lugar": "Mountain Province",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Cordillera Administrative Region (CAR)",
+      "implasyon_2021": 4.9,
+      "implasyon_2022": 7.3,
+      "implasyon_2023": 4.5,
+      "implasyon_2024": 3.2,
+      "implasyon_2025": 2.8
+    },
+    {
+      "lugar": "Apayao",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Cordillera Administrative Region (CAR)",
+      "implasyon_2021": 2.7,
+      "implasyon_2022": 6.7,
+      "implasyon_2023": 6.5,
+      "implasyon_2024": 3.8,
+      "implasyon_2025": -0.1
+    },
+    {
+      "lugar": "City of Baguio",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Cordillera Administrative Region (CAR)",
+      "implasyon_2021": 3.3,
+      "implasyon_2022": 5.1,
+      "implasyon_2023": 3.9,
+      "implasyon_2024": 3,
+      "implasyon_2025": 3.3
+    },
+    {
+      "lugar": "Region I (Ilocos Region)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region I (Ilocos Region)",
+      "implasyon_2021": 4,
+      "implasyon_2022": 5.9,
+      "implasyon_2023": 5.1,
+      "implasyon_2024": 2.1,
+      "implasyon_2025": 2.2
+    },
+    {
+      "lugar": "Ilocos Norte",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region I (Ilocos Region)",
+      "implasyon_2021": 3.2,
+      "implasyon_2022": 7.3,
+      "implasyon_2023": 3.4,
+      "implasyon_2024": 1.5,
+      "implasyon_2025": 0.7
+    },
+    {
+      "lugar": "Ilocos Sur",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region I (Ilocos Region)",
+      "implasyon_2021": 4.7,
+      "implasyon_2022": 8.5,
+      "implasyon_2023": 3.7,
+      "implasyon_2024": 1.4,
+      "implasyon_2025": 1.4
+    },
+    {
+      "lugar": "La Union",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region I (Ilocos Region)",
+      "implasyon_2021": 3,
+      "implasyon_2022": 3.7,
+      "implasyon_2023": 4.4,
+      "implasyon_2024": 3,
+      "implasyon_2025": 1.3
+    },
+    {
+      "lugar": "Pangasinan",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region I (Ilocos Region)",
+      "implasyon_2021": 4.2,
+      "implasyon_2022": 5.7,
+      "implasyon_2023": 6,
+      "implasyon_2024": 2.2,
+      "implasyon_2025": 2.9
+    },
+    {
+      "lugar": "Region II (Cagayan Valley)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region II (Cagayan Valley)",
+      "implasyon_2021": 6.2,
+      "implasyon_2022": 5.2,
+      "implasyon_2023": 4.6,
+      "implasyon_2024": 3.4,
+      "implasyon_2025": 1.7
+    },
+    {
+      "lugar": "Batanes",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region II (Cagayan Valley)",
+      "implasyon_2021": 5.4,
+      "implasyon_2022": 8,
+      "implasyon_2023": 6,
+      "implasyon_2024": 2.9,
+      "implasyon_2025": 4.6
+    },
+    {
+      "lugar": "Cagayan",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region II (Cagayan Valley)",
+      "implasyon_2021": 5.5,
+      "implasyon_2022": 5.3,
+      "implasyon_2023": 6.1,
+      "implasyon_2024": 4.7,
+      "implasyon_2025": 2.4
+    },
+    {
+      "lugar": "Isabela",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region II (Cagayan Valley)",
+      "implasyon_2021": 6.3,
+      "implasyon_2022": 4.7,
+      "implasyon_2023": 3.1,
+      "implasyon_2024": 2.3,
+      "implasyon_2025": 1.2
+    },
+    {
+      "lugar": "Nueva Vizcaya",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region II (Cagayan Valley)",
+      "implasyon_2021": 7,
+      "implasyon_2022": 5.4,
+      "implasyon_2023": 5.1,
+      "implasyon_2024": 3.3,
+      "implasyon_2025": 1.4
+    },
+    {
+      "lugar": "Quirino",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region II (Cagayan Valley)",
+      "implasyon_2021": 6.9,
+      "implasyon_2022": 7.2,
+      "implasyon_2023": 4,
+      "implasyon_2024": 3.7,
+      "implasyon_2025": 1
+    },
+    {
+      "lugar": "Region III (Central Luzon)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region III (Central Luzon)",
+      "implasyon_2021": 4.5,
+      "implasyon_2022": 6.5,
+      "implasyon_2023": 6.9,
+      "implasyon_2024": 3.9,
+      "implasyon_2025": 1.4
+    },
+    {
+      "lugar": "Bataan",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region III (Central Luzon)",
+      "implasyon_2021": 6.7,
+      "implasyon_2022": 9.2,
+      "implasyon_2023": 6.6,
+      "implasyon_2024": 2.2,
+      "implasyon_2025": 0
+    },
+    {
+      "lugar": "Bulacan",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region III (Central Luzon)",
+      "implasyon_2021": 3.2,
+      "implasyon_2022": 4.4,
+      "implasyon_2023": 9.2,
+      "implasyon_2024": 4.4,
+      "implasyon_2025": 1.8
+    },
+    {
+      "lugar": "Nueva Ecija",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region III (Central Luzon)",
+      "implasyon_2021": 3.8,
+      "implasyon_2022": 8.2,
+      "implasyon_2023": 6.2,
+      "implasyon_2024": 4.5,
+      "implasyon_2025": -0.1
+    },
+    {
+      "lugar": "Pampanga",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region III (Central Luzon)",
+      "implasyon_2021": 5,
+      "implasyon_2022": 7,
+      "implasyon_2023": 6.7,
+      "implasyon_2024": 3.8,
+      "implasyon_2025": 2.6
+    },
+    {
+      "lugar": "Tarlac",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region III (Central Luzon)",
+      "implasyon_2021": 5.7,
+      "implasyon_2022": 6.3,
+      "implasyon_2023": 4.8,
+      "implasyon_2024": 3.9,
+      "implasyon_2025": 1.3
+    },
+    {
+      "lugar": "Zambales",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region III (Central Luzon)",
+      "implasyon_2021": 6.1,
+      "implasyon_2022": 8.4,
+      "implasyon_2023": 5.4,
+      "implasyon_2024": 2,
+      "implasyon_2025": -0.2
+    },
+    {
+      "lugar": "Aurora",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region III (Central Luzon)",
+      "implasyon_2021": 5.1,
+      "implasyon_2022": 7.8,
+      "implasyon_2023": 5.6,
+      "implasyon_2024": 1.8,
+      "implasyon_2025": 1.3
+    },
+    {
+      "lugar": "City of Angeles",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region III (Central Luzon)",
+      "implasyon_2021": 4.4,
+      "implasyon_2022": 5.8,
+      "implasyon_2023": 4.9,
+      "implasyon_2024": 3.3,
+      "implasyon_2025": 3.2
+    },
+    {
+      "lugar": "City of Olongapo",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region III (Central Luzon)",
+      "implasyon_2021": 4.8,
+      "implasyon_2022": 5.2,
+      "implasyon_2023": 4.8,
+      "implasyon_2024": 4.7,
+      "implasyon_2025": 1.8
+    },
+    {
+      "lugar": "Region IV-A (CALABARZON)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region IV-A (CALABARZON)",
+      "implasyon_2021": 4.7,
+      "implasyon_2022": 5.2,
+      "implasyon_2023": 5.8,
+      "implasyon_2024": 3,
+      "implasyon_2025": 2.1
+    },
+    {
+      "lugar": "Batangas",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IV-A (CALABARZON)",
+      "implasyon_2021": 4.4,
+      "implasyon_2022": 6.8,
+      "implasyon_2023": 7,
+      "implasyon_2024": 3.1,
+      "implasyon_2025": 1.2
+    },
+    {
+      "lugar": "Cavite",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IV-A (CALABARZON)",
+      "implasyon_2021": 4.3,
+      "implasyon_2022": 4.4,
+      "implasyon_2023": 6.2,
+      "implasyon_2024": 1.8,
+      "implasyon_2025": 2
+    },
+    {
+      "lugar": "Laguna",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IV-A (CALABARZON)",
+      "implasyon_2021": 4.8,
+      "implasyon_2022": 4,
+      "implasyon_2023": 3.7,
+      "implasyon_2024": 2.7,
+      "implasyon_2025": 2.3
+    },
+    {
+      "lugar": "Quezon",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IV-A (CALABARZON)",
+      "implasyon_2021": 4.5,
+      "implasyon_2022": 5.4,
+      "implasyon_2023": 4.3,
+      "implasyon_2024": 3.6,
+      "implasyon_2025": 2.6
+    },
+    {
+      "lugar": "Rizal",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IV-A (CALABARZON)",
+      "implasyon_2021": 5.3,
+      "implasyon_2022": 6.4,
+      "implasyon_2023": 7.2,
+      "implasyon_2024": 4.7,
+      "implasyon_2025": 2.5
+    },
+    {
+      "lugar": "City of Lucena (Capital)",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IV-A (CALABARZON)",
+      "implasyon_2021": 4.5,
+      "implasyon_2022": 5,
+      "implasyon_2023": 4.5,
+      "implasyon_2024": 3.7,
+      "implasyon_2025": 1.5
+    },
+    {
+      "lugar": "MIMAROPA Region",
+      "antas": "Rehiyon",
+      "rehiyon": "MIMAROPA Region",
+      "implasyon_2021": 4.5,
+      "implasyon_2022": 6.1,
+      "implasyon_2023": 6.9,
+      "implasyon_2024": 3.7,
+      "implasyon_2025": 1.6
+    },
+    {
+      "lugar": "Marinduque",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "MIMAROPA Region",
+      "implasyon_2021": 4.8,
+      "implasyon_2022": 4.8,
+      "implasyon_2023": 7,
+      "implasyon_2024": 1.1,
+      "implasyon_2025": 1.9
+    },
+    {
+      "lugar": "Occidental Mindoro",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "MIMAROPA Region",
+      "implasyon_2021": 7,
+      "implasyon_2022": 5.3,
+      "implasyon_2023": 7,
+      "implasyon_2024": 6.5,
+      "implasyon_2025": 1
+    },
+    {
+      "lugar": "Oriental Mindoro",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "MIMAROPA Region",
+      "implasyon_2021": 4.8,
+      "implasyon_2022": 5.3,
+      "implasyon_2023": 7.7,
+      "implasyon_2024": 3.1,
+      "implasyon_2025": 2.1
+    },
+    {
+      "lugar": "Palawan",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "MIMAROPA Region",
+      "implasyon_2021": 2.4,
+      "implasyon_2022": 8.2,
+      "implasyon_2023": 6.8,
+      "implasyon_2024": 3.1,
+      "implasyon_2025": 1.6
+    },
+    {
+      "lugar": "Romblon",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "MIMAROPA Region",
+      "implasyon_2021": 7.6,
+      "implasyon_2022": 3.5,
+      "implasyon_2023": 7.2,
+      "implasyon_2024": 3.9,
+      "implasyon_2025": -1.4
+    },
+    {
+      "lugar": "City of Puerto Princesa (Capital)",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "MIMAROPA Region",
+      "implasyon_2021": 2.4,
+      "implasyon_2022": 7.2,
+      "implasyon_2023": 4.8,
+      "implasyon_2024": 4,
+      "implasyon_2025": 3.3
+    },
+    {
+      "lugar": "Region V (Bicol Region)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region V (Bicol Region)",
+      "implasyon_2021": 6.1,
+      "implasyon_2022": 5.3,
+      "implasyon_2023": 5.9,
+      "implasyon_2024": 3.5,
+      "implasyon_2025": 1.7
+    },
+    {
+      "lugar": "Albay",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region V (Bicol Region)",
+      "implasyon_2021": 5.3,
+      "implasyon_2022": 4.9,
+      "implasyon_2023": 6.2,
+      "implasyon_2024": 3.3,
+      "implasyon_2025": 1.7
+    },
+    {
+      "lugar": "Camarines Norte",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region V (Bicol Region)",
+      "implasyon_2021": 6.1,
+      "implasyon_2022": 4.6,
+      "implasyon_2023": 7.1,
+      "implasyon_2024": 3,
+      "implasyon_2025": 1.1
+    },
+    {
+      "lugar": "Camarines Sur",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region V (Bicol Region)",
+      "implasyon_2021": 6.7,
+      "implasyon_2022": 5.6,
+      "implasyon_2023": 6.3,
+      "implasyon_2024": 4.1,
+      "implasyon_2025": 1.9
+    },
+    {
+      "lugar": "Catanduanes",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region V (Bicol Region)",
+      "implasyon_2021": 5.5,
+      "implasyon_2022": 4.4,
+      "implasyon_2023": 5.4,
+      "implasyon_2024": 4.2,
+      "implasyon_2025": 2.8
+    },
+    {
+      "lugar": "Masbate",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region V (Bicol Region)",
+      "implasyon_2021": 7.7,
+      "implasyon_2022": 5.7,
+      "implasyon_2023": 5.1,
+      "implasyon_2024": 4.6,
+      "implasyon_2025": 2.4
+    },
+    {
+      "lugar": "Sorsogon",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region V (Bicol Region)",
+      "implasyon_2021": 5.3,
+      "implasyon_2022": 5.8,
+      "implasyon_2023": 4.3,
+      "implasyon_2024": 1.7,
+      "implasyon_2025": 0.9
+    },
+    {
+      "lugar": "Region VI (Western Visayas)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region VI (Western Visayas)",
+      "implasyon_2021": 2.9,
+      "implasyon_2022": 5.9,
+      "implasyon_2023": 6.2,
+      "implasyon_2024": 3.7,
+      "implasyon_2025": 1.5
+    },
+    {
+      "lugar": "Aklan",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VI (Western Visayas)",
+      "implasyon_2021": 2.3,
+      "implasyon_2022": 5,
+      "implasyon_2023": 5.5,
+      "implasyon_2024": 3.7,
+      "implasyon_2025": -0.2
+    },
+    {
+      "lugar": "Antique",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VI (Western Visayas)",
+      "implasyon_2021": 3.9,
+      "implasyon_2022": 7.6,
+      "implasyon_2023": 6.3,
+      "implasyon_2024": 4.6,
+      "implasyon_2025": -0.8
+    },
+    {
+      "lugar": "Capiz",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VI (Western Visayas)",
+      "implasyon_2021": 5.5,
+      "implasyon_2022": 6.1,
+      "implasyon_2023": 6,
+      "implasyon_2024": 3.6,
+      "implasyon_2025": 0.9
+    },
+    {
+      "lugar": "Iloilo",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VI (Western Visayas)",
+      "implasyon_2021": 1.8,
+      "implasyon_2022": 5.1,
+      "implasyon_2023": 6.2,
+      "implasyon_2024": 4,
+      "implasyon_2025": 2.5
+    },
+    {
+      "lugar": "Guimaras",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VI (Western Visayas)",
+      "implasyon_2021": 3.6,
+      "implasyon_2022": 7,
+      "implasyon_2023": 5.3,
+      "implasyon_2024": 5.3,
+      "implasyon_2025": 0.1
+    },
+    {
+      "lugar": "City of Iloilo (Capital)",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VI (Western Visayas)",
+      "implasyon_2021": 3.1,
+      "implasyon_2022": 7.8,
+      "implasyon_2023": 7.1,
+      "implasyon_2024": 2.1,
+      "implasyon_2025": 3
+    },
+    {
+      "lugar": "Region VII (Central Visayas)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region VII (Central Visayas)",
+      "implasyon_2021": 1.5,
+      "implasyon_2022": 6.6,
+      "implasyon_2023": 4.8,
+      "implasyon_2024": 3.2,
+      "implasyon_2025": 2.5
+    },
+    {
+      "lugar": "Bohol",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VII (Central Visayas)",
+      "implasyon_2021": 2.6,
+      "implasyon_2022": 6.4,
+      "implasyon_2023": 6.6,
+      "implasyon_2024": 3.5,
+      "implasyon_2025": 1.7
+    },
+    {
+      "lugar": "Cebu",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VII (Central Visayas)",
+      "implasyon_2021": 1.3,
+      "implasyon_2022": 9.4,
+      "implasyon_2023": 4.6,
+      "implasyon_2024": 1.9,
+      "implasyon_2025": 2.6
+    },
+    {
+      "lugar": "City of Cebu (Capital)",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VII (Central Visayas)",
+      "implasyon_2021": 1.2,
+      "implasyon_2022": 3.1,
+      "implasyon_2023": 4,
+      "implasyon_2024": 4.6,
+      "implasyon_2025": 2.1
+    },
+    {
+      "lugar": "City of Lapu-Lapu",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VII (Central Visayas)",
+      "implasyon_2021": 1,
+      "implasyon_2022": 3,
+      "implasyon_2023": 3.9,
+      "implasyon_2024": 4.4,
+      "implasyon_2025": 3.8
+    },
+    {
+      "lugar": "City of Mandaue",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VII (Central Visayas)",
+      "implasyon_2021": 1.6,
+      "implasyon_2022": 3.8,
+      "implasyon_2023": 4.1,
+      "implasyon_2024": 5.3,
+      "implasyon_2025": 2.5
+    },
+    {
+      "lugar": "Region VIII (Eastern Visayas)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region VIII (Eastern Visayas)",
+      "implasyon_2021": 4.3,
+      "implasyon_2022": 6.6,
+      "implasyon_2023": 4.4,
+      "implasyon_2024": 3.1,
+      "implasyon_2025": 0.7
+    },
+    {
+      "lugar": "Eastern Samar",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VIII (Eastern Visayas)",
+      "implasyon_2021": 4.6,
+      "implasyon_2022": 6.4,
+      "implasyon_2023": 7.5,
+      "implasyon_2024": 2.8,
+      "implasyon_2025": 0.9
+    },
+    {
+      "lugar": "Leyte",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VIII (Eastern Visayas)",
+      "implasyon_2021": 3.9,
+      "implasyon_2022": 6.4,
+      "implasyon_2023": 4,
+      "implasyon_2024": 3.1,
+      "implasyon_2025": 0.8
+    },
+    {
+      "lugar": "Northern Samar",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VIII (Eastern Visayas)",
+      "implasyon_2021": 3,
+      "implasyon_2022": 7.9,
+      "implasyon_2023": 4.7,
+      "implasyon_2024": 2.7,
+      "implasyon_2025": 0.4
+    },
+    {
+      "lugar": "Samar",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VIII (Eastern Visayas)",
+      "implasyon_2021": 7.2,
+      "implasyon_2022": 6.4,
+      "implasyon_2023": 5.6,
+      "implasyon_2024": 3.4,
+      "implasyon_2025": 0.6
+    },
+    {
+      "lugar": "Southern Leyte",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VIII (Eastern Visayas)",
+      "implasyon_2021": 3.5,
+      "implasyon_2022": 9,
+      "implasyon_2023": 3.2,
+      "implasyon_2024": 3.3,
+      "implasyon_2025": 0.3
+    },
+    {
+      "lugar": "Biliran",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VIII (Eastern Visayas)",
+      "implasyon_2021": 3.6,
+      "implasyon_2022": 5.7,
+      "implasyon_2023": 2.4,
+      "implasyon_2024": 4.2,
+      "implasyon_2025": 0.9
+    },
+    {
+      "lugar": "City of Tacloban (Capital)",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region VIII (Eastern Visayas)",
+      "implasyon_2021": 3.6,
+      "implasyon_2022": 4.5,
+      "implasyon_2023": 2.9,
+      "implasyon_2024": 2.5,
+      "implasyon_2025": 0.9
+    },
+    {
+      "lugar": "Region IX (Zamboanga Peninsula)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region IX (Zamboanga Peninsula)",
+      "implasyon_2021": 2.9,
+      "implasyon_2022": 7,
+      "implasyon_2023": 5.7,
+      "implasyon_2024": 3.4,
+      "implasyon_2025": 0.7
+    },
+    {
+      "lugar": "Zamboanga del Norte",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IX (Zamboanga Peninsula)",
+      "implasyon_2021": 3.3,
+      "implasyon_2022": 6.9,
+      "implasyon_2023": 6.3,
+      "implasyon_2024": 2.2,
+      "implasyon_2025": 0.3
+    },
+    {
+      "lugar": "Zamboanga del Sur",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IX (Zamboanga Peninsula)",
+      "implasyon_2021": 2.8,
+      "implasyon_2022": 8.7,
+      "implasyon_2023": 6.8,
+      "implasyon_2024": 2.8,
+      "implasyon_2025": -0.1
+    },
+    {
+      "lugar": "Zamboanga Sibugay",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IX (Zamboanga Peninsula)",
+      "implasyon_2021": 3.4,
+      "implasyon_2022": 7.6,
+      "implasyon_2023": 5.9,
+      "implasyon_2024": 4.2,
+      "implasyon_2025": 1.3
+    },
+    {
+      "lugar": "City of Zamboanga",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IX (Zamboanga Peninsula)",
+      "implasyon_2021": 2.7,
+      "implasyon_2022": 5.8,
+      "implasyon_2023": 4.3,
+      "implasyon_2024": 4.3,
+      "implasyon_2025": 1.3
+    },
+    {
+      "lugar": "City of Isabela",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region IX (Zamboanga Peninsula)",
+      "implasyon_2021": 0.7,
+      "implasyon_2022": 3.1,
+      "implasyon_2023": 6.5,
+      "implasyon_2024": 3.4,
+      "implasyon_2025": 1.4
+    },
+    {
+      "lugar": "Region X (Northern Mindanao)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region X (Northern Mindanao)",
+      "implasyon_2021": 3.9,
+      "implasyon_2022": 5.8,
+      "implasyon_2023": 6,
+      "implasyon_2024": 3.7,
+      "implasyon_2025": 0.5
+    },
+    {
+      "lugar": "Bukidnon",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region X (Northern Mindanao)",
+      "implasyon_2021": 3.4,
+      "implasyon_2022": 5.8,
+      "implasyon_2023": 7.1,
+      "implasyon_2024": 4.4,
+      "implasyon_2025": 0.2
+    },
+    {
+      "lugar": "Camiguin",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region X (Northern Mindanao)",
+      "implasyon_2021": 4.5,
+      "implasyon_2022": 6.7,
+      "implasyon_2023": 6.3,
+      "implasyon_2024": 3.9,
+      "implasyon_2025": 0.7
+    },
+    {
+      "lugar": "Lanao del Norte",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region X (Northern Mindanao)",
+      "implasyon_2021": 4.8,
+      "implasyon_2022": 4.2,
+      "implasyon_2023": 6.4,
+      "implasyon_2024": 3,
+      "implasyon_2025": -1.2
+    },
+    {
+      "lugar": "Misamis Occidental",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region X (Northern Mindanao)",
+      "implasyon_2021": 5.1,
+      "implasyon_2022": 6.1,
+      "implasyon_2023": 5.4,
+      "implasyon_2024": 2.1,
+      "implasyon_2025": 1.2
+    },
+    {
+      "lugar": "Misamis Oriental",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region X (Northern Mindanao)",
+      "implasyon_2021": 4.3,
+      "implasyon_2022": 5.7,
+      "implasyon_2023": 6.8,
+      "implasyon_2024": 4.3,
+      "implasyon_2025": 1.6
+    },
+    {
+      "lugar": "City of Iligan",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region X (Northern Mindanao)",
+      "implasyon_2021": 3.2,
+      "implasyon_2022": 6.8,
+      "implasyon_2023": 4.3,
+      "implasyon_2024": 2.3,
+      "implasyon_2025": 0.3
+    },
+    {
+      "lugar": "City of Cagayan de Oro (Capital)",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region X (Northern Mindanao)",
+      "implasyon_2021": 3.5,
+      "implasyon_2022": 6,
+      "implasyon_2023": 5.1,
+      "implasyon_2024": 4,
+      "implasyon_2025": 0.2
+    },
+    {
+      "lugar": "Region XI (Davao Region)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region XI (Davao Region)",
+      "implasyon_2021": 3.5,
+      "implasyon_2022": 7.4,
+      "implasyon_2023": 6.3,
+      "implasyon_2024": 4,
+      "implasyon_2025": 0.7
+    },
+    {
+      "lugar": "Davao del Norte",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XI (Davao Region)",
+      "implasyon_2021": 3.6,
+      "implasyon_2022": 5.9,
+      "implasyon_2023": 3.7,
+      "implasyon_2024": 2.8,
+      "implasyon_2025": 0.2
+    },
+    {
+      "lugar": "Davao del Sur",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XI (Davao Region)",
+      "implasyon_2021": 4.1,
+      "implasyon_2022": 8,
+      "implasyon_2023": 4.9,
+      "implasyon_2024": 5.8,
+      "implasyon_2025": 1.3
+    },
+    {
+      "lugar": "Davao Oriental",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XI (Davao Region)",
+      "implasyon_2021": 7.2,
+      "implasyon_2022": 7.4,
+      "implasyon_2023": 8,
+      "implasyon_2024": 3.7,
+      "implasyon_2025": -1.1
+    },
+    {
+      "lugar": "Davao de Oro",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XI (Davao Region)",
+      "implasyon_2021": 3.2,
+      "implasyon_2022": 9.6,
+      "implasyon_2023": 6.8,
+      "implasyon_2024": 3.5,
+      "implasyon_2025": -1
+    },
+    {
+      "lugar": "Davao Occidental",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XI (Davao Region)",
+      "implasyon_2021": 2.1,
+      "implasyon_2022": 6,
+      "implasyon_2023": 5.5,
+      "implasyon_2024": 5.8,
+      "implasyon_2025": -1.4
+    },
+    {
+      "lugar": "City of Davao",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XI (Davao Region)",
+      "implasyon_2021": 3.3,
+      "implasyon_2022": 7.6,
+      "implasyon_2023": 7.6,
+      "implasyon_2024": 3.9,
+      "implasyon_2025": 1.7
+    },
+    {
+      "lugar": "Region XII (SOCCSKSARGEN)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region XII (SOCCSKSARGEN)",
+      "implasyon_2021": 5.1,
+      "implasyon_2022": 5.7,
+      "implasyon_2023": 5.6,
+      "implasyon_2024": 3.5,
+      "implasyon_2025": -0.4
+    },
+    {
+      "lugar": "Cotabato",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XII (SOCCSKSARGEN)",
+      "implasyon_2021": 5.5,
+      "implasyon_2022": 5.8,
+      "implasyon_2023": 5.5,
+      "implasyon_2024": 3.5,
+      "implasyon_2025": -0.2
+    },
+    {
+      "lugar": "South Cotabato",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XII (SOCCSKSARGEN)",
+      "implasyon_2021": 5.4,
+      "implasyon_2022": 5.4,
+      "implasyon_2023": 6.2,
+      "implasyon_2024": 3.8,
+      "implasyon_2025": -0.2
+    },
+    {
+      "lugar": "Sultan Kudarat",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XII (SOCCSKSARGEN)",
+      "implasyon_2021": 3.2,
+      "implasyon_2022": 5,
+      "implasyon_2023": 5.7,
+      "implasyon_2024": 3.9,
+      "implasyon_2025": -0.3
+    },
+    {
+      "lugar": "Sarangani",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XII (SOCCSKSARGEN)",
+      "implasyon_2021": 5.7,
+      "implasyon_2022": 6,
+      "implasyon_2023": 6.3,
+      "implasyon_2024": 3.4,
+      "implasyon_2025": -1.4
+    },
+    {
+      "lugar": "City of General Santos",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XII (SOCCSKSARGEN)",
+      "implasyon_2021": 5.5,
+      "implasyon_2022": 6.5,
+      "implasyon_2023": 4.7,
+      "implasyon_2024": 2.7,
+      "implasyon_2025": -0.5
+    },
+    {
+      "lugar": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+      "antas": "Rehiyon",
+      "rehiyon": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+      "implasyon_2021": 3.2,
+      "implasyon_2022": 3.9,
+      "implasyon_2023": 6.1,
+      "implasyon_2024": 3.9,
+      "implasyon_2025": -0.9
+    },
+    {
+      "lugar": "City of Cotabato",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+      "implasyon_2021": 8.5,
+      "implasyon_2022": 3.9,
+      "implasyon_2023": 4.8,
+      "implasyon_2024": 3.9,
+      "implasyon_2025": -1.5
+    },
+    {
+      "lugar": "Basilan",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+      "implasyon_2021": 2.2,
+      "implasyon_2022": 2.1,
+      "implasyon_2023": 7.2,
+      "implasyon_2024": 2.6,
+      "implasyon_2025": -1.6
+    },
+    {
+      "lugar": "Lanao del Sur",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+      "implasyon_2021": 3,
+      "implasyon_2022": 7.1,
+      "implasyon_2023": 5.2,
+      "implasyon_2024": 3.4,
+      "implasyon_2025": 0.3
+    },
+    {
+      "lugar": "Maguindanao",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+      "implasyon_2021": 3.6,
+      "implasyon_2022": 3.7,
+      "implasyon_2023": 7.9,
+      "implasyon_2024": 5.6,
+      "implasyon_2025": -1.8
+    },
+    {
+      "lugar": "Sulu",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+      "implasyon_2021": 0.6,
+      "implasyon_2022": 1.1,
+      "implasyon_2023": 3.8,
+      "implasyon_2024": 3.1,
+      "implasyon_2025": 0.7
+    },
+    {
+      "lugar": "Tawi-tawi",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+      "implasyon_2021": 2.1,
+      "implasyon_2022": 3.4,
+      "implasyon_2023": 8,
+      "implasyon_2024": 2.5,
+      "implasyon_2025": -2
+    },
+    {
+      "lugar": "Region XIII (Caraga)",
+      "antas": "Rehiyon",
+      "rehiyon": "Region XIII (Caraga)",
+      "implasyon_2021": 4.1,
+      "implasyon_2022": 6.1,
+      "implasyon_2023": 5.5,
+      "implasyon_2024": 2.6,
+      "implasyon_2025": 1.1
+    },
+    {
+      "lugar": "Agusan del Norte",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XIII (Caraga)",
+      "implasyon_2021": 3.7,
+      "implasyon_2022": 6.4,
+      "implasyon_2023": 4,
+      "implasyon_2024": 2.5,
+      "implasyon_2025": 0.9
+    },
+    {
+      "lugar": "Agusan del Sur",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XIII (Caraga)",
+      "implasyon_2021": 3.6,
+      "implasyon_2022": 5,
+      "implasyon_2023": 6.7,
+      "implasyon_2024": 2.6,
+      "implasyon_2025": 0.9
+    },
+    {
+      "lugar": "Surigao del Norte",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XIII (Caraga)",
+      "implasyon_2021": 4.9,
+      "implasyon_2022": 5.5,
+      "implasyon_2023": 5,
+      "implasyon_2024": 2,
+      "implasyon_2025": 1.3
+    },
+    {
+      "lugar": "Surigao del Sur",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XIII (Caraga)",
+      "implasyon_2021": 3.3,
+      "implasyon_2022": 6.1,
+      "implasyon_2023": 6,
+      "implasyon_2024": 4.2,
+      "implasyon_2025": 0.2
+    },
+    {
+      "lugar": "Dinagat Islands",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XIII (Caraga)",
+      "implasyon_2021": 8.2,
+      "implasyon_2022": 8.1,
+      "implasyon_2023": 6.3,
+      "implasyon_2024": 3.6,
+      "implasyon_2025": -0.2
+    },
+    {
+      "lugar": "City of Butuan (Capital)",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Region XIII (Caraga)",
+      "implasyon_2021": 3.9,
+      "implasyon_2022": 7.7,
+      "implasyon_2023": 4.3,
+      "implasyon_2024": 1,
+      "implasyon_2025": 3
+    },
+    {
+      "lugar": "Negros Island Region (NIR)",
+      "antas": "Rehiyon",
+      "rehiyon": "Negros Island Region (NIR)",
+      "implasyon_2021": 4.8,
+      "implasyon_2022": 7.3,
+      "implasyon_2023": 7.6,
+      "implasyon_2024": 3.6,
+      "implasyon_2025": 1.1
+    },
+    {
+      "lugar": "Negros Occidental",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Negros Island Region (NIR)",
+      "implasyon_2021": 5.4,
+      "implasyon_2022": 8.3,
+      "implasyon_2023": 8.2,
+      "implasyon_2024": 3.6,
+      "implasyon_2025": 1.4
+    },
+    {
+      "lugar": "City of Bacolod (Capital)",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Negros Island Region (NIR)",
+      "implasyon_2021": 4.6,
+      "implasyon_2022": 5.6,
+      "implasyon_2023": 7.3,
+      "implasyon_2024": 4,
+      "implasyon_2025": 1.9
+    },
+    {
+      "lugar": "Negros Oriental",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Negros Island Region (NIR)",
+      "implasyon_2021": 3.7,
+      "implasyon_2022": 6.3,
+      "implasyon_2023": 6.6,
+      "implasyon_2024": 3.2,
+      "implasyon_2025": -0.2
+    },
+    {
+      "lugar": "Siquijor",
+      "antas": "Lalawigan/Lungsod",
+      "rehiyon": "Negros Island Region (NIR)",
+      "implasyon_2021": 3.1,
+      "implasyon_2022": 7.6,
+      "implasyon_2023": 7.3,
+      "implasyon_2024": 3.1,
+      "implasyon_2025": 1.4
+    }
+  ],
+  "meta": {
+    "title": "Antas ng Implasyon ayon sa Rehiyon at Lalawigan ng Pilipinas (2021–2025) - Free Download",
+    "description": "Taunang karaniwang antas ng implasyon (year-on-year na pagbabago ng Consumer Price Index, lahat ng bilihin, 2018=100) sa buong Pilipinas, bawat rehiyon at lalawigan mula 2021 hanggang 2025. Mula sa PSA OpenSTAT. Contains 119 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antas ng Implasyon ayon sa Rehiyon at Lalawigan ng Pilipinas (2021–2025) | ListBase",
+    "seo_description": "Download Antas ng Implasyon ayon sa Rehiyon at Lalawigan ng Pilipinas (2021–2025) — 119 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 119 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__CPI__2018NEW/0012M4ACP23.px/"
+    ]
+  }
+}

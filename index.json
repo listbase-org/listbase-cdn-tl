@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-19T02:16:17.108Z",
-  "total_datasets": 547,
-  "total_records": 450521,
+  "generated": "2026-11-20T02:12:06.337Z",
+  "total_datasets": 548,
+  "total_records": 450640,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -1862,6 +1862,35 @@
         "xlsx": {
           "name": "tl-zamboanga-peninsula-simbahan_TL.xlsx",
           "size": 7625
+        }
+      }
+    },
+    {
+      "id": "tl-antas-ng-implasyon-ayon-sa-rehiyon-at-lalawigan",
+      "name": "Antas ng Implasyon ayon sa Rehiyon at Lalawigan ng Pilipinas (2021–2025)",
+      "category": "economy",
+      "record_count": 119,
+      "columns": [
+        "lugar",
+        "antas",
+        "rehiyon",
+        "implasyon_2021",
+        "implasyon_2022",
+        "implasyon_2023",
+        "implasyon_2024",
+        "implasyon_2025"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__CPI__2018NEW/0012M4ACP23.px/",
+      "updated": "2026-11",
+      "size": 34905,
+      "files": {
+        "csv": {
+          "name": "tl-antas-ng-implasyon-ayon-sa-rehiyon-at-lalawigan_TL.csv",
+          "size": 11477
+        },
+        "xlsx": {
+          "name": "tl-antas-ng-implasyon-ayon-sa-rehiyon-at-lalawigan_TL.xlsx",
+          "size": 12235
         }
       }
     },
