@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-20T02:12:06.337Z",
-  "total_datasets": 548,
-  "total_records": 450640,
+  "generated": "2026-11-20T02:12:17.546Z",
+  "total_datasets": 549,
+  "total_records": 450730,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -5566,6 +5566,33 @@
         "xlsx": {
           "name": "tl-unang-pangalan_TL.xlsx",
           "size": 7429
+        }
+      }
+    },
+    {
+      "id": "tl-bilang-ng-manggagamot-ng-gobyerno-ayon-sa-rehiyon",
+      "name": "Bilang ng mga Manggagamot ng Gobyerno ayon sa Rehiyon (2019–2023)",
+      "category": "health",
+      "record_count": 90,
+      "columns": [
+        "rehiyon",
+        "taon",
+        "doktor",
+        "dentista",
+        "nars",
+        "komadrona"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1D/0161D2BDGMP1.px/",
+      "updated": "2026-11",
+      "size": 15102,
+      "files": {
+        "csv": {
+          "name": "tl-bilang-ng-manggagamot-ng-gobyerno-ayon-sa-rehiyon_TL.csv",
+          "size": 3501
+        },
+        "xlsx": {
+          "name": "tl-bilang-ng-manggagamot-ng-gobyerno-ayon-sa-rehiyon_TL.xlsx",
+          "size": 9428
         }
       }
     },

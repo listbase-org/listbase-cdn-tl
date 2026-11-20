@@ -1,0 +1,776 @@
+{
+  "id": "tl-bilang-ng-manggagamot-ng-gobyerno-ayon-sa-rehiyon",
+  "name": "Bilang ng mga Manggagamot ng Gobyerno ayon sa Rehiyon (2019–2023)",
+  "title": "Bilang ng mga Manggagamot ng Gobyerno ayon sa Rehiyon (2019–2023)",
+  "description": "Bilang ng mga doktor, dentista, nars at komadronang nagtatrabaho sa pamahalaan sa bawat rehiyon ng Pilipinas, 2019 hanggang 2023 (Philippine Statistical Yearbook, Table 9.14). Mula sa PSA OpenSTAT.",
+  "category": "health",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1D/0161D2BDGMP1.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1D/0161D2BDGMP1.px/",
+  "updated": "2026-11",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "rehiyon",
+      "label": "Rehiyon",
+      "type": "string"
+    },
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "doktor",
+      "label": "Doktor",
+      "type": "number"
+    },
+    {
+      "key": "dentista",
+      "label": "Dentista",
+      "type": "number"
+    },
+    {
+      "key": "nars",
+      "label": "Nars",
+      "type": "number"
+    },
+    {
+      "key": "komadrona",
+      "label": "Komadrona",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rehiyon": "Philippines",
+      "taon": 2019,
+      "doktor": 3001,
+      "dentista": 1772,
+      "nars": 15111,
+      "komadrona": 17884
+    },
+    {
+      "rehiyon": "Philippines",
+      "taon": 2020,
+      "doktor": 3351,
+      "dentista": 1909,
+      "nars": 20946,
+      "komadrona": 20562
+    },
+    {
+      "rehiyon": "Philippines",
+      "taon": 2021,
+      "doktor": 4046,
+      "dentista": 1993,
+      "nars": 22713,
+      "komadrona": 21561
+    },
+    {
+      "rehiyon": "Philippines",
+      "taon": 2022,
+      "doktor": 4289,
+      "dentista": 1936,
+      "nars": 22719,
+      "komadrona": 21990
+    },
+    {
+      "rehiyon": "Philippines",
+      "taon": 2023,
+      "doktor": 4416,
+      "dentista": 1889,
+      "nars": 19042,
+      "komadrona": 22394
+    },
+    {
+      "rehiyon": "NCR",
+      "taon": 2019,
+      "doktor": 660,
+      "dentista": 525,
+      "nars": 1042,
+      "komadrona": 1175
+    },
+    {
+      "rehiyon": "NCR",
+      "taon": 2020,
+      "doktor": 759,
+      "dentista": 667,
+      "nars": 1520,
+      "komadrona": 1272
+    },
+    {
+      "rehiyon": "NCR",
+      "taon": 2021,
+      "doktor": 1053,
+      "dentista": 598,
+      "nars": 2044,
+      "komadrona": 1309
+    },
+    {
+      "rehiyon": "NCR",
+      "taon": 2022,
+      "doktor": 923,
+      "dentista": 571,
+      "nars": 2002,
+      "komadrona": 1268
+    },
+    {
+      "rehiyon": "NCR",
+      "taon": 2023,
+      "doktor": 971,
+      "dentista": 565,
+      "nars": 1747,
+      "komadrona": 1260
+    },
+    {
+      "rehiyon": "CAR",
+      "taon": 2019,
+      "doktor": 94,
+      "dentista": 39,
+      "nars": 673,
+      "komadrona": 805
+    },
+    {
+      "rehiyon": "CAR",
+      "taon": 2020,
+      "doktor": 110,
+      "dentista": 41,
+      "nars": 795,
+      "komadrona": 808
+    },
+    {
+      "rehiyon": "CAR",
+      "taon": 2021,
+      "doktor": 118,
+      "dentista": 32,
+      "nars": 767,
+      "komadrona": 814
+    },
+    {
+      "rehiyon": "CAR",
+      "taon": 2022,
+      "doktor": 109,
+      "dentista": 40,
+      "nars": 652,
+      "komadrona": 877
+    },
+    {
+      "rehiyon": "CAR",
+      "taon": 2023,
+      "doktor": 115,
+      "dentista": 55,
+      "nars": 727,
+      "komadrona": 887
+    },
+    {
+      "rehiyon": "I",
+      "taon": 2019,
+      "doktor": 187,
+      "dentista": 117,
+      "nars": 422,
+      "komadrona": 1191
+    },
+    {
+      "rehiyon": "I",
+      "taon": 2020,
+      "doktor": 51,
+      "dentista": 27,
+      "nars": 333,
+      "komadrona": 237
+    },
+    {
+      "rehiyon": "I",
+      "taon": 2021,
+      "doktor": 204,
+      "dentista": 112,
+      "nars": 1387,
+      "komadrona": 1180
+    },
+    {
+      "rehiyon": "I",
+      "taon": 2022,
+      "doktor": 224,
+      "dentista": 84,
+      "nars": 1173,
+      "komadrona": 1154
+    },
+    {
+      "rehiyon": "I",
+      "taon": 2023,
+      "doktor": 222,
+      "dentista": 91,
+      "nars": 929,
+      "komadrona": 1445
+    },
+    {
+      "rehiyon": "II",
+      "taon": 2019,
+      "doktor": 116,
+      "dentista": 66,
+      "nars": 1339,
+      "komadrona": 1083
+    },
+    {
+      "rehiyon": "II",
+      "taon": 2020,
+      "doktor": 132,
+      "dentista": 71,
+      "nars": 1214,
+      "komadrona": 1166
+    },
+    {
+      "rehiyon": "II",
+      "taon": 2021,
+      "doktor": 158,
+      "dentista": 90,
+      "nars": 1463,
+      "komadrona": 1176
+    },
+    {
+      "rehiyon": "II",
+      "taon": 2022,
+      "doktor": 150,
+      "dentista": 65,
+      "nars": 1178,
+      "komadrona": 1186
+    },
+    {
+      "rehiyon": "II",
+      "taon": 2023,
+      "doktor": 182,
+      "dentista": 60,
+      "nars": 741,
+      "komadrona": 1130
+    },
+    {
+      "rehiyon": "III",
+      "taon": 2019,
+      "doktor": 299,
+      "dentista": 165,
+      "nars": 544,
+      "komadrona": 1458
+    },
+    {
+      "rehiyon": "III",
+      "taon": 2020,
+      "doktor": 296,
+      "dentista": 169,
+      "nars": 958,
+      "komadrona": 1479
+    },
+    {
+      "rehiyon": "III",
+      "taon": 2021,
+      "doktor": 316,
+      "dentista": 185,
+      "nars": 1320,
+      "komadrona": 1478
+    },
+    {
+      "rehiyon": "III",
+      "taon": 2022,
+      "doktor": 359,
+      "dentista": 192,
+      "nars": 1964,
+      "komadrona": 1767
+    },
+    {
+      "rehiyon": "III",
+      "taon": 2023,
+      "doktor": 400,
+      "dentista": 194,
+      "nars": 1601,
+      "komadrona": 1831
+    },
+    {
+      "rehiyon": "IV-A",
+      "taon": 2019,
+      "doktor": 234,
+      "dentista": 163,
+      "nars": 633,
+      "komadrona": 1285
+    },
+    {
+      "rehiyon": "IV-A",
+      "taon": 2020,
+      "doktor": 286,
+      "dentista": 178,
+      "nars": 2124,
+      "komadrona": 1733
+    },
+    {
+      "rehiyon": "IV-A",
+      "taon": 2021,
+      "doktor": 335,
+      "dentista": 222,
+      "nars": 2397,
+      "komadrona": 1901
+    },
+    {
+      "rehiyon": "IV-A",
+      "taon": 2022,
+      "doktor": 455,
+      "dentista": 188,
+      "nars": 2244,
+      "komadrona": 1784
+    },
+    {
+      "rehiyon": "IV-A",
+      "taon": 2023,
+      "doktor": 448,
+      "dentista": 206,
+      "nars": 2082,
+      "komadrona": 1937
+    },
+    {
+      "rehiyon": "MIMAROPA",
+      "taon": 2019,
+      "doktor": 37,
+      "dentista": 14,
+      "nars": 163,
+      "komadrona": 268
+    },
+    {
+      "rehiyon": "MIMAROPA",
+      "taon": 2020,
+      "doktor": 114,
+      "dentista": 53,
+      "nars": 409,
+      "komadrona": 679
+    },
+    {
+      "rehiyon": "MIMAROPA",
+      "taon": 2021,
+      "doktor": 280,
+      "dentista": 91,
+      "nars": 922,
+      "komadrona": 899
+    },
+    {
+      "rehiyon": "MIMAROPA",
+      "taon": 2022,
+      "doktor": 134,
+      "dentista": 56,
+      "nars": 641,
+      "komadrona": 864
+    },
+    {
+      "rehiyon": "MIMAROPA",
+      "taon": 2023,
+      "doktor": 176,
+      "dentista": 61,
+      "nars": 694,
+      "komadrona": 980
+    },
+    {
+      "rehiyon": "V",
+      "taon": 2019,
+      "doktor": 118,
+      "dentista": 69,
+      "nars": 756,
+      "komadrona": 813
+    },
+    {
+      "rehiyon": "V",
+      "taon": 2020,
+      "doktor": 177,
+      "dentista": 91,
+      "nars": 1609,
+      "komadrona": 1454
+    },
+    {
+      "rehiyon": "V",
+      "taon": 2021,
+      "doktor": 179,
+      "dentista": 82,
+      "nars": 1545,
+      "komadrona": 1319
+    },
+    {
+      "rehiyon": "V",
+      "taon": 2022,
+      "doktor": 172,
+      "dentista": 81,
+      "nars": 1542,
+      "komadrona": 1417
+    },
+    {
+      "rehiyon": "V",
+      "taon": 2023,
+      "doktor": 195,
+      "dentista": 78,
+      "nars": 1448,
+      "komadrona": 1393
+    },
+    {
+      "rehiyon": "VI",
+      "taon": 2019,
+      "doktor": 296,
+      "dentista": 145,
+      "nars": 1083,
+      "komadrona": 1890
+    },
+    {
+      "rehiyon": "VI",
+      "taon": 2020,
+      "doktor": 315,
+      "dentista": 138,
+      "nars": 1241,
+      "komadrona": 2011
+    },
+    {
+      "rehiyon": "VI",
+      "taon": 2021,
+      "doktor": 330,
+      "dentista": 123,
+      "nars": 1243,
+      "komadrona": 2015
+    },
+    {
+      "rehiyon": "VI",
+      "taon": 2022,
+      "doktor": 388,
+      "dentista": 137,
+      "nars": 1471,
+      "komadrona": 2111
+    },
+    {
+      "rehiyon": "VI",
+      "taon": 2023,
+      "doktor": 391,
+      "dentista": 129,
+      "nars": 1275,
+      "komadrona": 2166
+    },
+    {
+      "rehiyon": "VII",
+      "taon": 2019,
+      "doktor": 253,
+      "dentista": 138,
+      "nars": 1830,
+      "komadrona": 1918
+    },
+    {
+      "rehiyon": "VII",
+      "taon": 2020,
+      "doktor": 197,
+      "dentista": 88,
+      "nars": 1608,
+      "komadrona": 1330
+    },
+    {
+      "rehiyon": "VII",
+      "taon": 2021,
+      "doktor": 268,
+      "dentista": 117,
+      "nars": 1635,
+      "komadrona": 1719
+    },
+    {
+      "rehiyon": "VII",
+      "taon": 2022,
+      "doktor": 309,
+      "dentista": 109,
+      "nars": 1745,
+      "komadrona": 1790
+    },
+    {
+      "rehiyon": "VII",
+      "taon": 2023,
+      "doktor": 312,
+      "dentista": 104,
+      "nars": 1288,
+      "komadrona": 1708
+    },
+    {
+      "rehiyon": "VIII",
+      "taon": 2019,
+      "doktor": 182,
+      "dentista": 116,
+      "nars": 2042,
+      "komadrona": 1242
+    },
+    {
+      "rehiyon": "VIII",
+      "taon": 2020,
+      "doktor": 184,
+      "dentista": 98,
+      "nars": 1961,
+      "komadrona": 1314
+    },
+    {
+      "rehiyon": "VIII",
+      "taon": 2021,
+      "doktor": 186,
+      "dentista": 98,
+      "nars": 1873,
+      "komadrona": 1075
+    },
+    {
+      "rehiyon": "VIII",
+      "taon": 2022,
+      "doktor": 205,
+      "dentista": 76,
+      "nars": 1806,
+      "komadrona": 1402
+    },
+    {
+      "rehiyon": "VIII",
+      "taon": 2023,
+      "doktor": 203,
+      "dentista": 55,
+      "nars": 1088,
+      "komadrona": 1382
+    },
+    {
+      "rehiyon": "IX",
+      "taon": 2019,
+      "doktor": 113,
+      "dentista": 26,
+      "nars": 1078,
+      "komadrona": 991
+    },
+    {
+      "rehiyon": "IX",
+      "taon": 2020,
+      "doktor": 113,
+      "dentista": 26,
+      "nars": 1078,
+      "komadrona": 991
+    },
+    {
+      "rehiyon": "IX",
+      "taon": 2021,
+      "doktor": 113,
+      "dentista": 33,
+      "nars": 1112,
+      "komadrona": 867
+    },
+    {
+      "rehiyon": "IX",
+      "taon": 2022,
+      "doktor": 108,
+      "dentista": 33,
+      "nars": 916,
+      "komadrona": 816
+    },
+    {
+      "rehiyon": "IX",
+      "taon": 2023,
+      "doktor": 100,
+      "dentista": 39,
+      "nars": 882,
+      "komadrona": 925
+    },
+    {
+      "rehiyon": "X",
+      "taon": 2019,
+      "doktor": 40,
+      "dentista": 17,
+      "nars": 126,
+      "komadrona": 353
+    },
+    {
+      "rehiyon": "X",
+      "taon": 2020,
+      "doktor": 175,
+      "dentista": 67,
+      "nars": 1371,
+      "komadrona": 1846
+    },
+    {
+      "rehiyon": "X",
+      "taon": 2021,
+      "doktor": 162,
+      "dentista": 56,
+      "nars": 937,
+      "komadrona": 1155
+    },
+    {
+      "rehiyon": "X",
+      "taon": 2022,
+      "doktor": 192,
+      "dentista": 62,
+      "nars": 1241,
+      "komadrona": 1400
+    },
+    {
+      "rehiyon": "X",
+      "taon": 2023,
+      "doktor": 168,
+      "dentista": 47,
+      "nars": 835,
+      "komadrona": 1037
+    },
+    {
+      "rehiyon": "XI",
+      "taon": 2019,
+      "doktor": 85,
+      "dentista": 69,
+      "nars": 960,
+      "komadrona": 948
+    },
+    {
+      "rehiyon": "XI",
+      "taon": 2020,
+      "doktor": 97,
+      "dentista": 66,
+      "nars": 969,
+      "komadrona": 959
+    },
+    {
+      "rehiyon": "XI",
+      "taon": 2021,
+      "doktor": 97,
+      "dentista": 66,
+      "nars": 969,
+      "komadrona": 959
+    },
+    {
+      "rehiyon": "XI",
+      "taon": 2022,
+      "doktor": 134,
+      "dentista": 76,
+      "nars": 888,
+      "komadrona": 844
+    },
+    {
+      "rehiyon": "XI",
+      "taon": 2023,
+      "doktor": 134,
+      "dentista": 76,
+      "nars": 888,
+      "komadrona": 844
+    },
+    {
+      "rehiyon": "XII",
+      "taon": 2019,
+      "doktor": 122,
+      "dentista": 56,
+      "nars": 1279,
+      "komadrona": 1273
+    },
+    {
+      "rehiyon": "XII",
+      "taon": 2020,
+      "doktor": 152,
+      "dentista": 55,
+      "nars": 1425,
+      "komadrona": 1334
+    },
+    {
+      "rehiyon": "XII",
+      "taon": 2021,
+      "doktor": 60,
+      "dentista": 26,
+      "nars": 638,
+      "komadrona": 683
+    },
+    {
+      "rehiyon": "XII",
+      "taon": 2022,
+      "doktor": 197,
+      "dentista": 49,
+      "nars": 1337,
+      "komadrona": 1437
+    },
+    {
+      "rehiyon": "XII",
+      "taon": 2023,
+      "doktor": 184,
+      "dentista": 45,
+      "nars": 831,
+      "komadrona": 1378
+    },
+    {
+      "rehiyon": "CARAGA",
+      "taon": 2019,
+      "doktor": 88,
+      "dentista": 45,
+      "nars": 1031,
+      "komadrona": 772
+    },
+    {
+      "rehiyon": "CARAGA",
+      "taon": 2020,
+      "doktor": 93,
+      "dentista": 51,
+      "nars": 950,
+      "komadrona": 724
+    },
+    {
+      "rehiyon": "CARAGA",
+      "taon": 2021,
+      "doktor": 93,
+      "dentista": 51,
+      "nars": 950,
+      "komadrona": 724
+    },
+    {
+      "rehiyon": "CARAGA",
+      "taon": 2022,
+      "doktor": 108,
+      "dentista": 55,
+      "nars": 1141,
+      "komadrona": 729
+    },
+    {
+      "rehiyon": "CARAGA",
+      "taon": 2023,
+      "doktor": 113,
+      "dentista": 49,
+      "nars": 992,
+      "komadrona": 819
+    },
+    {
+      "rehiyon": "BARMM",
+      "taon": 2019,
+      "doktor": 77,
+      "dentista": 2,
+      "nars": 110,
+      "komadrona": 419
+    },
+    {
+      "rehiyon": "BARMM",
+      "taon": 2020,
+      "doktor": 100,
+      "dentista": 23,
+      "nars": 1381,
+      "komadrona": 1225
+    },
+    {
+      "rehiyon": "BARMM",
+      "taon": 2021,
+      "doktor": 94,
+      "dentista": 11,
+      "nars": 1511,
+      "komadrona": 2288
+    },
+    {
+      "rehiyon": "BARMM",
+      "taon": 2022,
+      "doktor": 122,
+      "dentista": 62,
+      "nars": 778,
+      "komadrona": 1144
+    },
+    {
+      "rehiyon": "BARMM",
+      "taon": 2023,
+      "doktor": 102,
+      "dentista": 35,
+      "nars": 994,
+      "komadrona": 1272
+    }
+  ],
+  "meta": {
+    "title": "Bilang ng mga Manggagamot ng Gobyerno ayon sa Rehiyon (2019–2023) - Free Download",
+    "description": "Bilang ng mga doktor, dentista, nars at komadronang nagtatrabaho sa pamahalaan sa bawat rehiyon ng Pilipinas, 2019 hanggang 2023 (Philippine Statistical Yearbook, Table 9.14). Mula sa PSA OpenSTAT. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bilang ng mga Manggagamot ng Gobyerno ayon sa Rehiyon (2019–2023) | ListBase",
+    "seo_description": "Download Bilang ng mga Manggagamot ng Gobyerno ayon sa Rehiyon (2019–2023) — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1D/0161D2BDGMP1.px/"
+    ]
+  }
+}
