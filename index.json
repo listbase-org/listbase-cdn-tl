@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-20T02:12:17.546Z",
-  "total_datasets": 549,
-  "total_records": 450730,
+  "generated": "2026-11-20T02:12:28.144Z",
+  "total_datasets": 550,
+  "total_records": 450849,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -4114,6 +4114,37 @@
         "xlsx": {
           "name": "tl-planta-ng-kuryente_TL.xlsx",
           "size": 15610
+        }
+      }
+    },
+    {
+      "id": "tl-halaga-ng-piso-ayon-sa-rehiyon-at-lalawigan",
+      "name": "Purchasing Power ng Piso ayon sa Rehiyon at Lalawigan (2019–2025)",
+      "category": "finance",
+      "record_count": 119,
+      "columns": [
+        "lugar",
+        "antas",
+        "rehiyon",
+        "halaga_ng_piso_2019",
+        "halaga_ng_piso_2020",
+        "halaga_ng_piso_2021",
+        "halaga_ng_piso_2022",
+        "halaga_ng_piso_2023",
+        "halaga_ng_piso_2024",
+        "halaga_ng_piso_2025"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__CPI__2018NEW/0012M4ACP24.px/",
+      "updated": "2026-11",
+      "size": 46999,
+      "files": {
+        "csv": {
+          "name": "tl-halaga-ng-piso-ayon-sa-rehiyon-at-lalawigan_TL.csv",
+          "size": 13809
+        },
+        "xlsx": {
+          "name": "tl-halaga-ng-piso-ayon-sa-rehiyon-at-lalawigan_TL.xlsx",
+          "size": 12629
         }
       }
     },
