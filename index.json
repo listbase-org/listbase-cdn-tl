@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-23T02:18:39.730Z",
-  "total_datasets": 552,
-  "total_records": 450992,
+  "generated": "2026-11-23T02:18:51.449Z",
+  "total_datasets": 553,
+  "total_records": 451015,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -5948,6 +5948,30 @@
         "xlsx": {
           "name": "tl-mga-lansangang-pinalitan-ang-pangalan_TL.xlsx",
           "size": 21228
+        }
+      }
+    },
+    {
+      "id": "tl-populasyon-ng-pilipinas-ayon-sa-senso-1840-2024",
+      "name": "Populasyon ng Pilipinas sa Bawat Senso (1840–2024)",
+      "category": "history",
+      "record_count": 23,
+      "columns": [
+        "taon_ng_senso",
+        "populasyon",
+        "taunang_antas_ng_paglaki_porsiyento"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C1/0041A2BPOP0.px/",
+      "updated": "2026-11",
+      "size": 4731,
+      "files": {
+        "csv": {
+          "name": "tl-populasyon-ng-pilipinas-ayon-sa-senso-1840-2024_TL.csv",
+          "size": 637
+        },
+        "xlsx": {
+          "name": "tl-populasyon-ng-pilipinas-ayon-sa-senso-1840-2024_TL.xlsx",
+          "size": 7255
         }
       }
     },

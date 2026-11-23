@@ -1,0 +1,156 @@
+{
+  "id": "tl-populasyon-ng-pilipinas-ayon-sa-senso-1840-2024",
+  "name": "Populasyon ng Pilipinas sa Bawat Senso (1840–2024)",
+  "title": "Populasyon ng Pilipinas sa Bawat Senso (1840–2024)",
+  "description": "Kabuuang populasyon ng Pilipinas sa bawat taon ng senso mula 1840 hanggang 2024 at ang karaniwang taunang antas ng paglaki (porsiyento) mula sa naunang senso. Mula sa Philippine Statistical Yearbook (Table 1.4), PSA OpenSTAT.",
+  "category": "history",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C1/0041A2BPOP0.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C1/0041A2BPOP0.px/",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "taon_ng_senso",
+      "label": "Taon Ng Senso",
+      "type": "number"
+    },
+    {
+      "key": "populasyon",
+      "label": "Populasyon",
+      "type": "number"
+    },
+    {
+      "key": "taunang_antas_ng_paglaki_porsiyento",
+      "label": "Taunang Antas Ng Paglaki Porsiyento",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "taon_ng_senso": 1840,
+      "populasyon": 3096031,
+      "taunang_antas_ng_paglaki_porsiyento": 1.62
+    },
+    {
+      "taon_ng_senso": 1850,
+      "populasyon": 3857424,
+      "taunang_antas_ng_paglaki_porsiyento": 2.22
+    },
+    {
+      "taon_ng_senso": 1858,
+      "populasyon": 4290381,
+      "taunang_antas_ng_paglaki_porsiyento": 1.34
+    },
+    {
+      "taon_ng_senso": 1870,
+      "populasyon": 4712006,
+      "taunang_antas_ng_paglaki_porsiyento": 0.78
+    },
+    {
+      "taon_ng_senso": 1877,
+      "populasyon": 5567685,
+      "taunang_antas_ng_paglaki_porsiyento": 2.41
+    },
+    {
+      "taon_ng_senso": 1887,
+      "populasyon": 5984727,
+      "taunang_antas_ng_paglaki_porsiyento": 0.72
+    },
+    {
+      "taon_ng_senso": 1896,
+      "populasyon": 6261339,
+      "taunang_antas_ng_paglaki_porsiyento": 0.5
+    },
+    {
+      "taon_ng_senso": 1903,
+      "populasyon": 7635426,
+      "taunang_antas_ng_paglaki_porsiyento": 2.87
+    },
+    {
+      "taon_ng_senso": 1918,
+      "populasyon": 10314310,
+      "taunang_antas_ng_paglaki_porsiyento": 2.03
+    },
+    {
+      "taon_ng_senso": 1939,
+      "populasyon": 16000303,
+      "taunang_antas_ng_paglaki_porsiyento": 2.11
+    },
+    {
+      "taon_ng_senso": 1948,
+      "populasyon": 19234182,
+      "taunang_antas_ng_paglaki_porsiyento": 2.07
+    },
+    {
+      "taon_ng_senso": 1960,
+      "populasyon": 27087685,
+      "taunang_antas_ng_paglaki_porsiyento": 2.89
+    },
+    {
+      "taon_ng_senso": 1970,
+      "populasyon": 36684486,
+      "taunang_antas_ng_paglaki_porsiyento": 3.08
+    },
+    {
+      "taon_ng_senso": 1975,
+      "populasyon": 42070660,
+      "taunang_antas_ng_paglaki_porsiyento": 2.78
+    },
+    {
+      "taon_ng_senso": 1980,
+      "populasyon": 48098460,
+      "taunang_antas_ng_paglaki_porsiyento": 2.71
+    },
+    {
+      "taon_ng_senso": 1990,
+      "populasyon": 60703810,
+      "taunang_antas_ng_paglaki_porsiyento": 2.35
+    },
+    {
+      "taon_ng_senso": 1995,
+      "populasyon": 68613706,
+      "taunang_antas_ng_paglaki_porsiyento": 2.32
+    },
+    {
+      "taon_ng_senso": 2000,
+      "populasyon": 76485088,
+      "taunang_antas_ng_paglaki_porsiyento": 2.36
+    },
+    {
+      "taon_ng_senso": 2007,
+      "populasyon": 88546087,
+      "taunang_antas_ng_paglaki_porsiyento": 2.04
+    },
+    {
+      "taon_ng_senso": 2010,
+      "populasyon": 92335113,
+      "taunang_antas_ng_paglaki_porsiyento": 1.55
+    },
+    {
+      "taon_ng_senso": 2015,
+      "populasyon": 100979303,
+      "taunang_antas_ng_paglaki_porsiyento": 1.72
+    },
+    {
+      "taon_ng_senso": 2020,
+      "populasyon": 109033245,
+      "taunang_antas_ng_paglaki_porsiyento": 1.63
+    },
+    {
+      "taon_ng_senso": 2024,
+      "populasyon": 112729484,
+      "taunang_antas_ng_paglaki_porsiyento": 0.8
+    }
+  ],
+  "meta": {
+    "title": "Populasyon ng Pilipinas sa Bawat Senso (1840–2024) - Free Download",
+    "description": "Kabuuang populasyon ng Pilipinas sa bawat taon ng senso mula 1840 hanggang 2024 at ang karaniwang taunang antas ng paglaki (porsiyento) mula sa naunang senso. Mula sa Philippine Statistical Yearbook (Table 1.4), PSA OpenSTAT. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Populasyon ng Pilipinas sa Bawat Senso (1840–2024) | ListBase",
+    "seo_description": "Download Populasyon ng Pilipinas sa Bawat Senso (1840–2024) — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C1/0041A2BPOP0.px/"
+    ]
+  }
+}
