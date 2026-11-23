@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-20T02:12:28.144Z",
-  "total_datasets": 550,
-  "total_records": 450849,
+  "generated": "2026-11-23T02:18:28.356Z",
+  "total_datasets": 551,
+  "total_records": 450957,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -14851,6 +14851,35 @@
         "xlsx": {
           "name": "tl-zip-code_TL.xlsx",
           "size": 106193
+        }
+      }
+    },
+    {
+      "id": "tl-datos-ng-klima-ayon-sa-istasyon-2007-2021",
+      "name": "Datos ng Klima ayon sa Istasyon ng PAGASA (2007–2021)",
+      "category": "science",
+      "record_count": 108,
+      "columns": [
+        "istasyon",
+        "taon",
+        "ulan_mm",
+        "pinakamataas_na_temperatura_c",
+        "pinakamababang_temperatura_c",
+        "karaniwang_temperatura_c",
+        "halumigmig_porsiyento",
+        "presyon_ng_hangin_mb"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C4/0223A2BHCD0.px/",
+      "updated": "2026-11",
+      "size": 35315,
+      "files": {
+        "csv": {
+          "name": "tl-datos-ng-klima-ayon-sa-istasyon-2007-2021_TL.csv",
+          "size": 8387
+        },
+        "xlsx": {
+          "name": "tl-datos-ng-klima-ayon-sa-istasyon-2007-2021_TL.xlsx",
+          "size": 11227
         }
       }
     },
