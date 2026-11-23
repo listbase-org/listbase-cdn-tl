@@ -1,0 +1,256 @@
+{
+  "id": "tl-pananaliksik-at-pagpapaunlad-ayon-sa-sektor",
+  "name": "Tauhan at Gastos sa Pananaliksik at Pagpapaunlad (R&D) ayon sa Sektor ng Pilipinas (2013–2020)",
+  "title": "Tauhan at Gastos sa Pananaliksik at Pagpapaunlad (R&D) ayon sa Sektor ng Pilipinas (2013–2020)",
+  "description": "Bilang ng mga tauhan sa pananaliksik at pagpapaunlad (R&D) at pambansang gastos sa R&D (milyong piso) ayon sa sektor — pamahalaan, mga pampubliko at pribadong HEI, pribadong non-profit at pribadong industriya — para sa 2013, 2015, 2018, 2019 at 2020 (Philippine Statistical Yearbook, Table 18.6 at 18.9). Mula sa PSA OpenSTAT.",
+  "category": "science",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C18/0082O2BNRD0.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C18/0082O2BNRD0.px/",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "sektor",
+      "label": "Sektor",
+      "type": "string"
+    },
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "bilang_ng_tauhan_sa_rd",
+      "label": "Bilang Ng Tauhan Sa Rd",
+      "type": "number"
+    },
+    {
+      "key": "gastos_sa_rd_milyong_piso",
+      "label": "Gastos Sa Rd Milyong Piso",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sektor": "All Sectors",
+      "taon": 2013,
+      "bilang_ng_tauhan_sa_rd": 22848,
+      "gastos_sa_rd_milyong_piso": 15915
+    },
+    {
+      "sektor": "All Sectors",
+      "taon": 2015,
+      "bilang_ng_tauhan_sa_rd": 25021,
+      "gastos_sa_rd_milyong_piso": 21869
+    },
+    {
+      "sektor": "All Sectors",
+      "taon": 2018,
+      "bilang_ng_tauhan_sa_rd": 75037,
+      "gastos_sa_rd_milyong_piso": 58854
+    },
+    {
+      "sektor": "All Sectors",
+      "taon": 2019,
+      "bilang_ng_tauhan_sa_rd": 85456,
+      "gastos_sa_rd_milyong_piso": 50603
+    },
+    {
+      "sektor": "All Sectors",
+      "taon": 2020,
+      "bilang_ng_tauhan_sa_rd": 84081,
+      "gastos_sa_rd_milyong_piso": 49591
+    },
+    {
+      "sektor": "Government",
+      "taon": 2013,
+      "bilang_ng_tauhan_sa_rd": 3774,
+      "gastos_sa_rd_milyong_piso": 4732
+    },
+    {
+      "sektor": "Government",
+      "taon": 2015,
+      "bilang_ng_tauhan_sa_rd": 3802,
+      "gastos_sa_rd_milyong_piso": 5303
+    },
+    {
+      "sektor": "Government",
+      "taon": 2018,
+      "bilang_ng_tauhan_sa_rd": 13642,
+      "gastos_sa_rd_milyong_piso": 13461
+    },
+    {
+      "sektor": "Government",
+      "taon": 2019,
+      "bilang_ng_tauhan_sa_rd": 20648,
+      "gastos_sa_rd_milyong_piso": 10418
+    },
+    {
+      "sektor": "Government",
+      "taon": 2020,
+      "bilang_ng_tauhan_sa_rd": 20333,
+      "gastos_sa_rd_milyong_piso": 10062
+    },
+    {
+      "sektor": "Higher Education",
+      "taon": 2013,
+      "bilang_ng_tauhan_sa_rd": 10189,
+      "gastos_sa_rd_milyong_piso": 5366
+    },
+    {
+      "sektor": "Higher Education",
+      "taon": 2015,
+      "bilang_ng_tauhan_sa_rd": 11765,
+      "gastos_sa_rd_milyong_piso": 8035
+    },
+    {
+      "sektor": "Higher Education",
+      "taon": 2018,
+      "bilang_ng_tauhan_sa_rd": 34643,
+      "gastos_sa_rd_milyong_piso": 11786
+    },
+    {
+      "sektor": "Higher Education",
+      "taon": 2019,
+      "bilang_ng_tauhan_sa_rd": 41841,
+      "gastos_sa_rd_milyong_piso": 19184
+    },
+    {
+      "sektor": "Higher Education",
+      "taon": 2020,
+      "bilang_ng_tauhan_sa_rd": 45749,
+      "gastos_sa_rd_milyong_piso": 19378
+    },
+    {
+      "sektor": "Public HEIs",
+      "taon": 2013,
+      "bilang_ng_tauhan_sa_rd": 7647,
+      "gastos_sa_rd_milyong_piso": 4811
+    },
+    {
+      "sektor": "Public HEIs",
+      "taon": 2015,
+      "bilang_ng_tauhan_sa_rd": 8248,
+      "gastos_sa_rd_milyong_piso": 6243
+    },
+    {
+      "sektor": "Public HEIs",
+      "taon": 2018,
+      "bilang_ng_tauhan_sa_rd": 24860,
+      "gastos_sa_rd_milyong_piso": 9620
+    },
+    {
+      "sektor": "Public HEIs",
+      "taon": 2019,
+      "bilang_ng_tauhan_sa_rd": 31429,
+      "gastos_sa_rd_milyong_piso": 13930
+    },
+    {
+      "sektor": "Public HEIs",
+      "taon": 2020,
+      "bilang_ng_tauhan_sa_rd": 35774,
+      "gastos_sa_rd_milyong_piso": 15924
+    },
+    {
+      "sektor": "Private HEIs",
+      "taon": 2013,
+      "bilang_ng_tauhan_sa_rd": 2542,
+      "gastos_sa_rd_milyong_piso": 555
+    },
+    {
+      "sektor": "Private HEIs",
+      "taon": 2015,
+      "bilang_ng_tauhan_sa_rd": 3517,
+      "gastos_sa_rd_milyong_piso": 1791
+    },
+    {
+      "sektor": "Private HEIs",
+      "taon": 2018,
+      "bilang_ng_tauhan_sa_rd": 9783,
+      "gastos_sa_rd_milyong_piso": 2166
+    },
+    {
+      "sektor": "Private HEIs",
+      "taon": 2019,
+      "bilang_ng_tauhan_sa_rd": 10412,
+      "gastos_sa_rd_milyong_piso": 5254
+    },
+    {
+      "sektor": "Private HEIs",
+      "taon": 2020,
+      "bilang_ng_tauhan_sa_rd": 9976,
+      "gastos_sa_rd_milyong_piso": 3454
+    },
+    {
+      "sektor": "Private Non-Profit",
+      "taon": 2013,
+      "bilang_ng_tauhan_sa_rd": 227,
+      "gastos_sa_rd_milyong_piso": 131
+    },
+    {
+      "sektor": "Private Non-Profit",
+      "taon": 2015,
+      "bilang_ng_tauhan_sa_rd": 578,
+      "gastos_sa_rd_milyong_piso": 465
+    },
+    {
+      "sektor": "Private Non-Profit",
+      "taon": 2018,
+      "bilang_ng_tauhan_sa_rd": 1865,
+      "gastos_sa_rd_milyong_piso": 1001
+    },
+    {
+      "sektor": "Private Non-Profit",
+      "taon": 2019,
+      "bilang_ng_tauhan_sa_rd": 1848,
+      "gastos_sa_rd_milyong_piso": 508
+    },
+    {
+      "sektor": "Private Non-Profit",
+      "taon": 2020,
+      "bilang_ng_tauhan_sa_rd": 3607,
+      "gastos_sa_rd_milyong_piso": 686
+    },
+    {
+      "sektor": "Private Industry",
+      "taon": 2013,
+      "bilang_ng_tauhan_sa_rd": 8658,
+      "gastos_sa_rd_milyong_piso": 5686
+    },
+    {
+      "sektor": "Private Industry",
+      "taon": 2015,
+      "bilang_ng_tauhan_sa_rd": 8876,
+      "gastos_sa_rd_milyong_piso": 8066
+    },
+    {
+      "sektor": "Private Industry",
+      "taon": 2018,
+      "bilang_ng_tauhan_sa_rd": 24887,
+      "gastos_sa_rd_milyong_piso": 32605
+    },
+    {
+      "sektor": "Private Industry",
+      "taon": 2019,
+      "bilang_ng_tauhan_sa_rd": 21119,
+      "gastos_sa_rd_milyong_piso": 20493
+    },
+    {
+      "sektor": "Private Industry",
+      "taon": 2020,
+      "bilang_ng_tauhan_sa_rd": 14393,
+      "gastos_sa_rd_milyong_piso": 19465
+    }
+  ],
+  "meta": {
+    "title": "Tauhan at Gastos sa Pananaliksik at Pagpapaunlad (R&D) ayon sa Sektor ng Pilipinas (2013–2020) - Free Download",
+    "description": "Bilang ng mga tauhan sa pananaliksik at pagpapaunlad (R&D) at pambansang gastos sa R&D (milyong piso) ayon sa sektor — pamahalaan, mga pampubliko at pribadong HEI, pribadong non-profit at pribadong industriya — para sa 2013, 2015, 2018, 2019 at 2020 (Philippine Statistical Yearbook, Table 18.6 at 18.9). Mula sa PSA OpenSTAT. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tauhan at Gastos sa Pananaliksik at Pagpapaunlad (R&D) ayon sa Sektor ng Pilipinas (2013–2020) | ListBase",
+    "seo_description": "Download Tauhan at Gastos sa Pananaliksik at Pagpapaunlad (R&D) ayon sa Sektor ng Pilipinas (2013–2020) — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C18/0082O2BNRD0.px/"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-23T02:18:28.356Z",
-  "total_datasets": 551,
-  "total_records": 450957,
+  "generated": "2026-11-23T02:18:39.730Z",
+  "total_datasets": 552,
+  "total_records": 450992,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -15014,6 +15014,31 @@
         "xlsx": {
           "name": "tl-mga-palya-sa-pilipinas_TL.xlsx",
           "size": 7787
+        }
+      }
+    },
+    {
+      "id": "tl-pananaliksik-at-pagpapaunlad-ayon-sa-sektor",
+      "name": "Tauhan at Gastos sa Pananaliksik at Pagpapaunlad (R&D) ayon sa Sektor ng Pilipinas (2013–2020)",
+      "category": "science",
+      "record_count": 35,
+      "columns": [
+        "sektor",
+        "taon",
+        "bilang_ng_tauhan_sa_rd",
+        "gastos_sa_rd_milyong_piso"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C18/0082O2BNRD0.px/",
+      "updated": "2026-11",
+      "size": 7515,
+      "files": {
+        "csv": {
+          "name": "tl-pananaliksik-at-pagpapaunlad-ayon-sa-sektor_TL.csv",
+          "size": 1410
+        },
+        "xlsx": {
+          "name": "tl-pananaliksik-at-pagpapaunlad-ayon-sa-sektor_TL.xlsx",
+          "size": 7572
         }
       }
     },
