@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-24T02:09:52.173Z",
-  "total_datasets": 555,
-  "total_records": 451084,
+  "generated": "2026-11-24T02:10:04.744Z",
+  "total_datasets": 556,
+  "total_records": 451184,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -15918,6 +15918,31 @@
         "xlsx": {
           "name": "tl-mga-kalihim-ng-turismo_TL.xlsx",
           "size": 7519
+        }
+      }
+    },
+    {
+      "id": "tl-okupasyon-ng-hotel-sa-kalakhang-maynila",
+      "name": "Bilang ng Kuwarto at Antas ng Okupasyon ng mga Hotel sa Kalakhang Maynila ayon sa Kategorya (2000–2023)",
+      "category": "tourism",
+      "record_count": 100,
+      "columns": [
+        "taon",
+        "kategorya_ng_hotel",
+        "karaniwang_bilang_ng_kuwarto",
+        "antas_ng_okupasyon_porsiyento"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C8/0062I2BROR0.px/",
+      "updated": "2026-11",
+      "size": 18504,
+      "files": {
+        "csv": {
+          "name": "tl-okupasyon-ng-hotel-sa-kalakhang-maynila_TL.csv",
+          "size": 3274
+        },
+        "xlsx": {
+          "name": "tl-okupasyon-ng-hotel-sa-kalakhang-maynila_TL.xlsx",
+          "size": 8895
         }
       }
     },

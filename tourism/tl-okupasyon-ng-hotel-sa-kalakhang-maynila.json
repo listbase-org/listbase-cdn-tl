@@ -1,0 +1,646 @@
+{
+  "id": "tl-okupasyon-ng-hotel-sa-kalakhang-maynila",
+  "name": "Bilang ng Kuwarto at Antas ng Okupasyon ng mga Hotel sa Kalakhang Maynila ayon sa Kategorya (2000–2023)",
+  "title": "Bilang ng Kuwarto at Antas ng Okupasyon ng mga Hotel sa Kalakhang Maynila ayon sa Kategorya (2000–2023)",
+  "description": "Karaniwang bilang ng mga kuwarto at antas ng okupasyon (porsiyento) ng mga hotel sa National Capital Region ayon sa kategorya — De Luxe, First Class, Standard at Economy — bawat taon mula 2000 hanggang 2023 (Philippine Statistical Yearbook, Table 8.6). Mula sa PSA OpenSTAT.",
+  "category": "tourism",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C8/0062I2BROR0.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C8/0062I2BROR0.px/",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "kategorya_ng_hotel",
+      "label": "Kategorya Ng Hotel",
+      "type": "string"
+    },
+    {
+      "key": "karaniwang_bilang_ng_kuwarto",
+      "label": "Karaniwang Bilang Ng Kuwarto",
+      "type": "number"
+    },
+    {
+      "key": "antas_ng_okupasyon_porsiyento",
+      "label": "Antas Ng Okupasyon Porsiyento",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "taon": 2000,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 13063,
+      "antas_ng_okupasyon_porsiyento": 58.77
+    },
+    {
+      "taon": 2000,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 7056,
+      "antas_ng_okupasyon_porsiyento": 65.27
+    },
+    {
+      "taon": 2000,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 2520,
+      "antas_ng_okupasyon_porsiyento": 50.8
+    },
+    {
+      "taon": 2000,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3080,
+      "antas_ng_okupasyon_porsiyento": 53.14
+    },
+    {
+      "taon": 2000,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 407,
+      "antas_ng_okupasyon_porsiyento": 37.97
+    },
+    {
+      "taon": 2001,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 11784,
+      "antas_ng_okupasyon_porsiyento": 55.85
+    },
+    {
+      "taon": 2001,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 6874,
+      "antas_ng_okupasyon_porsiyento": 58.39
+    },
+    {
+      "taon": 2001,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1779,
+      "antas_ng_okupasyon_porsiyento": 54.24
+    },
+    {
+      "taon": 2001,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 2770,
+      "antas_ng_okupasyon_porsiyento": 52.51
+    },
+    {
+      "taon": 2001,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 361,
+      "antas_ng_okupasyon_porsiyento": 41.13
+    },
+    {
+      "taon": 2002,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 11878,
+      "antas_ng_okupasyon_porsiyento": 59.92
+    },
+    {
+      "taon": 2002,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 6645,
+      "antas_ng_okupasyon_porsiyento": 62.72
+    },
+    {
+      "taon": 2002,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1328,
+      "antas_ng_okupasyon_porsiyento": 59.9
+    },
+    {
+      "taon": 2002,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3291,
+      "antas_ng_okupasyon_porsiyento": 55.88
+    },
+    {
+      "taon": 2002,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 614,
+      "antas_ng_okupasyon_porsiyento": 51.34
+    },
+    {
+      "taon": 2003,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 12212,
+      "antas_ng_okupasyon_porsiyento": 60.1
+    },
+    {
+      "taon": 2003,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 7255,
+      "antas_ng_okupasyon_porsiyento": 61.23
+    },
+    {
+      "taon": 2003,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 885,
+      "antas_ng_okupasyon_porsiyento": 59.94
+    },
+    {
+      "taon": 2003,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3367,
+      "antas_ng_okupasyon_porsiyento": 58.97
+    },
+    {
+      "taon": 2003,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 705,
+      "antas_ng_okupasyon_porsiyento": 54.07
+    },
+    {
+      "taon": 2004,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 12494,
+      "antas_ng_okupasyon_porsiyento": 68.15
+    },
+    {
+      "taon": 2004,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 7617,
+      "antas_ng_okupasyon_porsiyento": 71.03
+    },
+    {
+      "taon": 2004,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 885,
+      "antas_ng_okupasyon_porsiyento": 65.8
+    },
+    {
+      "taon": 2004,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3567,
+      "antas_ng_okupasyon_porsiyento": 64.28
+    },
+    {
+      "taon": 2004,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 425,
+      "antas_ng_okupasyon_porsiyento": 54.12
+    },
+    {
+      "taon": 2005,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 12842,
+      "antas_ng_okupasyon_porsiyento": 71.95
+    },
+    {
+      "taon": 2005,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 7796,
+      "antas_ng_okupasyon_porsiyento": 74.03
+    },
+    {
+      "taon": 2005,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 889,
+      "antas_ng_okupasyon_porsiyento": 70.2
+    },
+    {
+      "taon": 2005,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3727,
+      "antas_ng_okupasyon_porsiyento": 67.88
+    },
+    {
+      "taon": 2005,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 430,
+      "antas_ng_okupasyon_porsiyento": 65.9
+    },
+    {
+      "taon": 2006,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 14200,
+      "antas_ng_okupasyon_porsiyento": 71.95
+    },
+    {
+      "taon": 2006,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 8103,
+      "antas_ng_okupasyon_porsiyento": 73.63
+    },
+    {
+      "taon": 2006,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1668,
+      "antas_ng_okupasyon_porsiyento": 72.32
+    },
+    {
+      "taon": 2006,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3855,
+      "antas_ng_okupasyon_porsiyento": 70.29
+    },
+    {
+      "taon": 2006,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 574,
+      "antas_ng_okupasyon_porsiyento": 58.42
+    },
+    {
+      "taon": 2007,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 14149,
+      "antas_ng_okupasyon_porsiyento": 73.06
+    },
+    {
+      "taon": 2007,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 7839,
+      "antas_ng_okupasyon_porsiyento": 73.84
+    },
+    {
+      "taon": 2007,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1770,
+      "antas_ng_okupasyon_porsiyento": 75.89
+    },
+    {
+      "taon": 2007,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3996,
+      "antas_ng_okupasyon_porsiyento": 71.81
+    },
+    {
+      "taon": 2007,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 544,
+      "antas_ng_okupasyon_porsiyento": 61.76
+    },
+    {
+      "taon": 2008,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 14048,
+      "antas_ng_okupasyon_porsiyento": 69.79
+    },
+    {
+      "taon": 2008,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 7744,
+      "antas_ng_okupasyon_porsiyento": 70.11
+    },
+    {
+      "taon": 2008,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1818,
+      "antas_ng_okupasyon_porsiyento": 68.97
+    },
+    {
+      "taon": 2008,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3852,
+      "antas_ng_okupasyon_porsiyento": 70.77
+    },
+    {
+      "taon": 2008,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 634,
+      "antas_ng_okupasyon_porsiyento": 62.32
+    },
+    {
+      "taon": 2009,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 14415,
+      "antas_ng_okupasyon_porsiyento": 64.8
+    },
+    {
+      "taon": 2009,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 8086,
+      "antas_ng_okupasyon_porsiyento": 64.6
+    },
+    {
+      "taon": 2009,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1824,
+      "antas_ng_okupasyon_porsiyento": 60.3
+    },
+    {
+      "taon": 2009,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3827,
+      "antas_ng_okupasyon_porsiyento": 67.4
+    },
+    {
+      "taon": 2009,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 678,
+      "antas_ng_okupasyon_porsiyento": 64.6
+    },
+    {
+      "taon": 2010,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 15141,
+      "antas_ng_okupasyon_porsiyento": 67.62
+    },
+    {
+      "taon": 2010,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 8363,
+      "antas_ng_okupasyon_porsiyento": 70.45
+    },
+    {
+      "taon": 2010,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1821,
+      "antas_ng_okupasyon_porsiyento": 62.43
+    },
+    {
+      "taon": 2010,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 4247,
+      "antas_ng_okupasyon_porsiyento": 65.72
+    },
+    {
+      "taon": 2010,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 710,
+      "antas_ng_okupasyon_porsiyento": 59.04
+    },
+    {
+      "taon": 2011,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 15567,
+      "antas_ng_okupasyon_porsiyento": 67.7
+    },
+    {
+      "taon": 2011,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 8887,
+      "antas_ng_okupasyon_porsiyento": 72.4
+    },
+    {
+      "taon": 2011,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1332,
+      "antas_ng_okupasyon_porsiyento": 62.1
+    },
+    {
+      "taon": 2011,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 4423,
+      "antas_ng_okupasyon_porsiyento": 67.3
+    },
+    {
+      "taon": 2011,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 925,
+      "antas_ng_okupasyon_porsiyento": 58.6
+    },
+    {
+      "taon": 2012,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 16145,
+      "antas_ng_okupasyon_porsiyento": 67.25
+    },
+    {
+      "taon": 2012,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 8965,
+      "antas_ng_okupasyon_porsiyento": 71.49
+    },
+    {
+      "taon": 2012,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1545,
+      "antas_ng_okupasyon_porsiyento": 58.04
+    },
+    {
+      "taon": 2012,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 4747,
+      "antas_ng_okupasyon_porsiyento": 64.82
+    },
+    {
+      "taon": 2012,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 888,
+      "antas_ng_okupasyon_porsiyento": 53.44
+    },
+    {
+      "taon": 2013,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 15971,
+      "antas_ng_okupasyon_porsiyento": 67.2
+    },
+    {
+      "taon": 2013,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 8916,
+      "antas_ng_okupasyon_porsiyento": 70.8
+    },
+    {
+      "taon": 2013,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1599,
+      "antas_ng_okupasyon_porsiyento": 60.1
+    },
+    {
+      "taon": 2013,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 4632,
+      "antas_ng_okupasyon_porsiyento": 65.3
+    },
+    {
+      "taon": 2013,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 824,
+      "antas_ng_okupasyon_porsiyento": 52.2
+    },
+    {
+      "taon": 2014,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 15374,
+      "antas_ng_okupasyon_porsiyento": 67.2
+    },
+    {
+      "taon": 2014,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 8426,
+      "antas_ng_okupasyon_porsiyento": 71.1
+    },
+    {
+      "taon": 2014,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1620,
+      "antas_ng_okupasyon_porsiyento": 58.8
+    },
+    {
+      "taon": 2014,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 5042,
+      "antas_ng_okupasyon_porsiyento": 64
+    },
+    {
+      "taon": 2014,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 286,
+      "antas_ng_okupasyon_porsiyento": 59.7
+    },
+    {
+      "taon": 2015,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 16352,
+      "antas_ng_okupasyon_porsiyento": 67.32
+    },
+    {
+      "taon": 2015,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 8770,
+      "antas_ng_okupasyon_porsiyento": 71.6
+    },
+    {
+      "taon": 2015,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 1661,
+      "antas_ng_okupasyon_porsiyento": 59.09
+    },
+    {
+      "taon": 2015,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 5435,
+      "antas_ng_okupasyon_porsiyento": 62.51
+    },
+    {
+      "taon": 2015,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 486,
+      "antas_ng_okupasyon_porsiyento": 62.64
+    },
+    {
+      "taon": 2016,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 13460,
+      "antas_ng_okupasyon_porsiyento": 66.8
+    },
+    {
+      "taon": 2016,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 7458,
+      "antas_ng_okupasyon_porsiyento": 68.32
+    },
+    {
+      "taon": 2016,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 964,
+      "antas_ng_okupasyon_porsiyento": 58.57
+    },
+    {
+      "taon": 2016,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 4598,
+      "antas_ng_okupasyon_porsiyento": 64.73
+    },
+    {
+      "taon": 2016,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 440,
+      "antas_ng_okupasyon_porsiyento": 57.6
+    },
+    {
+      "taon": 2017,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 11936,
+      "antas_ng_okupasyon_porsiyento": 64.72
+    },
+    {
+      "taon": 2017,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 7070,
+      "antas_ng_okupasyon_porsiyento": 69.05
+    },
+    {
+      "taon": 2017,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 707,
+      "antas_ng_okupasyon_porsiyento": 51.24
+    },
+    {
+      "taon": 2017,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3834,
+      "antas_ng_okupasyon_porsiyento": 60.38
+    },
+    {
+      "taon": 2017,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 325,
+      "antas_ng_okupasyon_porsiyento": 58.13
+    },
+    {
+      "taon": 2018,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": 11120,
+      "antas_ng_okupasyon_porsiyento": 67.9
+    },
+    {
+      "taon": 2018,
+      "kategorya_ng_hotel": "De Luxe",
+      "karaniwang_bilang_ng_kuwarto": 7549,
+      "antas_ng_okupasyon_porsiyento": 71.8
+    },
+    {
+      "taon": 2018,
+      "kategorya_ng_hotel": "First Class",
+      "karaniwang_bilang_ng_kuwarto": 210,
+      "antas_ng_okupasyon_porsiyento": 65.2
+    },
+    {
+      "taon": 2018,
+      "kategorya_ng_hotel": "Standard",
+      "karaniwang_bilang_ng_kuwarto": 3038,
+      "antas_ng_okupasyon_porsiyento": 59.3
+    },
+    {
+      "taon": 2018,
+      "kategorya_ng_hotel": "Economy",
+      "karaniwang_bilang_ng_kuwarto": 323,
+      "antas_ng_okupasyon_porsiyento": 57.3
+    },
+    {
+      "taon": 2019,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": "",
+      "antas_ng_okupasyon_porsiyento": 64.4
+    },
+    {
+      "taon": 2020,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": "",
+      "antas_ng_okupasyon_porsiyento": 50
+    },
+    {
+      "taon": 2021,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": "",
+      "antas_ng_okupasyon_porsiyento": 60.97
+    },
+    {
+      "taon": 2022,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": "",
+      "antas_ng_okupasyon_porsiyento": 61.03
+    },
+    {
+      "taon": 2023,
+      "kategorya_ng_hotel": "Lahat",
+      "karaniwang_bilang_ng_kuwarto": "",
+      "antas_ng_okupasyon_porsiyento": 62.57
+    }
+  ],
+  "meta": {
+    "title": "Bilang ng Kuwarto at Antas ng Okupasyon ng mga Hotel sa Kalakhang Maynila ayon sa Kategorya (2000–2023) - Free Download",
+    "description": "Karaniwang bilang ng mga kuwarto at antas ng okupasyon (porsiyento) ng mga hotel sa National Capital Region ayon sa kategorya — De Luxe, First Class, Standard at Economy — bawat taon mula 2000 hanggang 2023 (Philippine Statistical Yearbook, Table 8.6). Mula sa PSA OpenSTAT. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bilang ng Kuwarto at Antas ng Okupasyon ng mga Hotel sa Kalakhang Maynila ayon sa Kategorya (2000–2023) | ListBase",
+    "seo_description": "Download Bilang ng Kuwarto at Antas ng Okupasyon ng mga Hotel sa Kalakhang Maynila ayon sa Kategorya (2000–2023) — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C8/0062I2BROR0.px/"
+    ]
+  }
+}
