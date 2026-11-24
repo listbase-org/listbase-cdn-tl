@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-24T02:09:41.494Z",
-  "total_datasets": 554,
-  "total_records": 451059,
+  "generated": "2026-11-24T02:09:52.173Z",
+  "total_datasets": 555,
+  "total_records": 451084,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -15867,6 +15867,31 @@
         "xlsx": {
           "name": "tl-gastos-at-haba-ng-pananatili-ng-mga-bisita_TL.xlsx",
           "size": 8493
+        }
+      }
+    },
+    {
+      "id": "tl-gastos-sa-turismo-at-bahagi-sa-gdp",
+      "name": "Gastos sa Turismo at Bahagi ng Turismo sa GDP ng Pilipinas (2000–2024)",
+      "category": "tourism",
+      "record_count": 25,
+      "columns": [
+        "taon",
+        "gastos_ng_dayuhang_turista_milyong_piso",
+        "gastos_sa_lokal_na_turismo_milyong_piso",
+        "bahagi_ng_turismo_sa_gdp_porsiyento"
+      ],
+      "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2I/0012I5DINB1.px/",
+      "updated": "2026-11",
+      "size": 7385,
+      "files": {
+        "csv": {
+          "name": "tl-gastos-sa-turismo-at-bahagi-sa-gdp_TL.csv",
+          "size": 1056
+        },
+        "xlsx": {
+          "name": "tl-gastos-sa-turismo-at-bahagi-sa-gdp_TL.xlsx",
+          "size": 7550
         }
       }
     },

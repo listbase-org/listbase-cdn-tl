@@ -1,0 +1,196 @@
+{
+  "id": "tl-gastos-sa-turismo-at-bahagi-sa-gdp",
+  "name": "Gastos sa Turismo at Bahagi ng Turismo sa GDP ng Pilipinas (2000–2024)",
+  "title": "Gastos sa Turismo at Bahagi ng Turismo sa GDP ng Pilipinas (2000–2024)",
+  "description": "Taunang kabuuang gastos ng mga dayuhang turista (inbound) at gastos sa lokal na turismo (domestic) sa kasalukuyang presyo, at ang bahagi ng Tourism Direct Gross Value Added (TDGVA) sa GDP ng Pilipinas mula 2000 hanggang 2024, ayon sa Philippine Tourism Satellite Accounts. Mula sa PSA OpenSTAT.",
+  "category": "tourism",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2I/0012I5DINB1.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2I/0012I5DINB1.px/",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "gastos_ng_dayuhang_turista_milyong_piso",
+      "label": "Gastos Ng Dayuhang Turista Milyong Piso",
+      "type": "number"
+    },
+    {
+      "key": "gastos_sa_lokal_na_turismo_milyong_piso",
+      "label": "Gastos Sa Lokal Na Turismo Milyong Piso",
+      "type": "number"
+    },
+    {
+      "key": "bahagi_ng_turismo_sa_gdp_porsiyento",
+      "label": "Bahagi Ng Turismo Sa Gdp Porsiyento",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "taon": 2000,
+      "gastos_ng_dayuhang_turista_milyong_piso": 98790.56,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 163123.6,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 5.6
+    },
+    {
+      "taon": 2001,
+      "gastos_ng_dayuhang_turista_milyong_piso": 103040.32,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 199662.1,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 5.8
+    },
+    {
+      "taon": 2002,
+      "gastos_ng_dayuhang_turista_milyong_piso": 111919.58,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 191093.47,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 5.6
+    },
+    {
+      "taon": 2003,
+      "gastos_ng_dayuhang_turista_milyong_piso": 106661.12,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 214806.14,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 5.7
+    },
+    {
+      "taon": 2004,
+      "gastos_ng_dayuhang_turista_milyong_piso": 130672.46,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 265189.47,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 5.9
+    },
+    {
+      "taon": 2005,
+      "gastos_ng_dayuhang_turista_milyong_piso": 125906.65,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 348719.51,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 6.2
+    },
+    {
+      "taon": 2006,
+      "gastos_ng_dayuhang_turista_milyong_piso": 163464.67,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 378615.58,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 6.3
+    },
+    {
+      "taon": 2007,
+      "gastos_ng_dayuhang_turista_milyong_piso": 150995.09,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 471818.91,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 6.4
+    },
+    {
+      "taon": 2008,
+      "gastos_ng_dayuhang_turista_milyong_piso": 126814.26,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 420342.57,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 5.7
+    },
+    {
+      "taon": 2009,
+      "gastos_ng_dayuhang_turista_milyong_piso": 124872.6,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 450559.12,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 5.9
+    },
+    {
+      "taon": 2010,
+      "gastos_ng_dayuhang_turista_milyong_piso": 136756.49,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 609155.4,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 6.2
+    },
+    {
+      "taon": 2011,
+      "gastos_ng_dayuhang_turista_milyong_piso": 159962.2,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 785772.31,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 6.8
+    },
+    {
+      "taon": 2012,
+      "gastos_ng_dayuhang_turista_milyong_piso": 196995,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 886849.47,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 7.7
+    },
+    {
+      "taon": 2013,
+      "gastos_ng_dayuhang_turista_milyong_piso": 227339.12,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 1010772.92,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 8.1
+    },
+    {
+      "taon": 2014,
+      "gastos_ng_dayuhang_turista_milyong_piso": 279358.12,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 1248675.34,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 8.9
+    },
+    {
+      "taon": 2015,
+      "gastos_ng_dayuhang_turista_milyong_piso": 309226.81,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 1576103.54,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 9.9
+    },
+    {
+      "taon": 2016,
+      "gastos_ng_dayuhang_turista_milyong_piso": 314609.95,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 1876391.86,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 10.4
+    },
+    {
+      "taon": 2017,
+      "gastos_ng_dayuhang_turista_milyong_piso": 452631.76,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 2352624.94,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 11.7
+    },
+    {
+      "taon": 2018,
+      "gastos_ng_dayuhang_turista_milyong_piso": 445583.41,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 2846088.75,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 12.3
+    },
+    {
+      "taon": 2019,
+      "gastos_ng_dayuhang_turista_milyong_piso": 600008.29,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 3143950.39,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 12.9
+    },
+    {
+      "taon": 2020,
+      "gastos_ng_dayuhang_turista_milyong_piso": 132582.87,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 564234.73,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 5.1
+    },
+    {
+      "taon": 2021,
+      "gastos_ng_dayuhang_turista_milyong_piso": 31874.93,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 781439.33,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 5.2
+    },
+    {
+      "taon": 2022,
+      "gastos_ng_dayuhang_turista_milyong_piso": 371581.83,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 1546538.49,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 6.4
+    },
+    {
+      "taon": 2023,
+      "gastos_ng_dayuhang_turista_milyong_piso": 697493.9,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 2714139.41,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 8.7
+    },
+    {
+      "taon": 2024,
+      "gastos_ng_dayuhang_turista_milyong_piso": 699977.93,
+      "gastos_sa_lokal_na_turismo_milyong_piso": 3159297,
+      "bahagi_ng_turismo_sa_gdp_porsiyento": 8.9
+    }
+  ],
+  "meta": {
+    "title": "Gastos sa Turismo at Bahagi ng Turismo sa GDP ng Pilipinas (2000–2024) - Free Download",
+    "description": "Taunang kabuuang gastos ng mga dayuhang turista (inbound) at gastos sa lokal na turismo (domestic) sa kasalukuyang presyo, at ang bahagi ng Tourism Direct Gross Value Added (TDGVA) sa GDP ng Pilipinas mula 2000 hanggang 2024, ayon sa Philippine Tourism Satellite Accounts. Mula sa PSA OpenSTAT. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gastos sa Turismo at Bahagi ng Turismo sa GDP ng Pilipinas (2000–2024) | ListBase",
+    "seo_description": "Download Gastos sa Turismo at Bahagi ng Turismo sa GDP ng Pilipinas (2000–2024) — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2I/0012I5DINB1.px/"
+    ]
+  }
+}
