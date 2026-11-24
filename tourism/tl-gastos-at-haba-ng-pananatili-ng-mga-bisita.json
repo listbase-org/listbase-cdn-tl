@@ -1,0 +1,408 @@
+{
+  "id": "tl-gastos-at-haba-ng-pananatili-ng-mga-bisita",
+  "name": "Karaniwang Gastos at Haba ng Pananatili ng mga Bisita sa Pilipinas (2003–2024)",
+  "title": "Karaniwang Gastos at Haba ng Pananatili ng mga Bisita sa Pilipinas (2003–2024)",
+  "description": "Taunang bilang ng mga bisita, karaniwang gastos bawat araw (USD), karaniwang haba ng pananatili (gabi) at kabuuang kita mula sa mga bisita (milyong USD), hiwalay para sa mga dayuhang bisita at mga Pilipinong nasa ibang bansa, 2003–2024 (Philippine Statistical Yearbook, Table 8.5). Mula sa PSA OpenSTAT.",
+  "category": "tourism",
+  "source": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C8/0052I2BNVA0.px/",
+  "source_url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C8/0052I2BNVA0.px/",
+  "updated": "2026-11",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "uri_ng_bisita",
+      "label": "Uri Ng Bisita",
+      "type": "string"
+    },
+    {
+      "key": "bilang_ng_bisita",
+      "label": "Bilang Ng Bisita",
+      "type": "number"
+    },
+    {
+      "key": "karaniwang_gastos_bawat_araw_usd",
+      "label": "Karaniwang Gastos Bawat Araw Usd",
+      "type": "number"
+    },
+    {
+      "key": "karaniwang_haba_ng_pananatili_gabi",
+      "label": "Karaniwang Haba Ng Pananatili Gabi",
+      "type": "number"
+    },
+    {
+      "key": "kabuuang_kita_milyong_usd",
+      "label": "Kabuuang Kita Milyong Usd",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "taon": 2003,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 1806902,
+      "karaniwang_gastos_bawat_araw_usd": 89.45,
+      "karaniwang_haba_ng_pananatili_gabi": 8.91,
+      "kabuuang_kita_milyong_usd": 1441.62
+    },
+    {
+      "taon": 2003,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 100324,
+      "karaniwang_gastos_bawat_araw_usd": 48.49,
+      "karaniwang_haba_ng_pananatili_gabi": 17.74,
+      "kabuuang_kita_milyong_usd": 81.05
+    },
+    {
+      "taon": 2004,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 2187610,
+      "karaniwang_gastos_bawat_araw_usd": 91.63,
+      "karaniwang_haba_ng_pananatili_gabi": 8.92,
+      "kabuuang_kita_milyong_usd": 1900.44
+    },
+    {
+      "taon": 2004,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 103742,
+      "karaniwang_gastos_bawat_araw_usd": 51.77,
+      "karaniwang_haba_ng_pananatili_gabi": 17.68,
+      "kabuuang_kita_milyong_usd": 90.37
+    },
+    {
+      "taon": 2005,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 2497689,
+      "karaniwang_gastos_bawat_araw_usd": 84.06,
+      "karaniwang_haba_ng_pananatili_gabi": 8.41,
+      "kabuuang_kita_milyong_usd": 2151.55
+    },
+    {
+      "taon": 2005,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 125395,
+      "karaniwang_gastos_bawat_araw_usd": 39.76,
+      "karaniwang_haba_ng_pananatili_gabi": 21.47,
+      "kabuuang_kita_milyong_usd": 84.49
+    },
+    {
+      "taon": 2006,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 2696980,
+      "karaniwang_gastos_bawat_araw_usd": 84.7,
+      "karaniwang_haba_ng_pananatili_gabi": 10.98,
+      "kabuuang_kita_milyong_usd": 3116.86
+    },
+    {
+      "taon": 2006,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 146365,
+      "karaniwang_gastos_bawat_araw_usd": 55.78,
+      "karaniwang_haba_ng_pananatili_gabi": 48.02,
+      "kabuuang_kita_milyong_usd": 194.73
+    },
+    {
+      "taon": 2007,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 2911254,
+      "karaniwang_gastos_bawat_araw_usd": 85.79,
+      "karaniwang_haba_ng_pananatili_gabi": 9.72,
+      "kabuuang_kita_milyong_usd": 2738.7
+    },
+    {
+      "taon": 2007,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 180739,
+      "karaniwang_gastos_bawat_araw_usd": 50.36,
+      "karaniwang_haba_ng_pananatili_gabi": 22.82,
+      "kabuuang_kita_milyong_usd": 218.3
+    },
+    {
+      "taon": 2008,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 2944135,
+      "karaniwang_gastos_bawat_araw_usd": 75.31,
+      "karaniwang_haba_ng_pananatili_gabi": 9.25,
+      "kabuuang_kita_milyong_usd": 2275.66
+    },
+    {
+      "taon": 2008,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 195287,
+      "karaniwang_gastos_bawat_araw_usd": 44.37,
+      "karaniwang_haba_ng_pananatili_gabi": 20.44,
+      "kabuuang_kita_milyong_usd": 153.03
+    },
+    {
+      "taon": 2009,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 2819178,
+      "karaniwang_gastos_bawat_araw_usd": 75.89,
+      "karaniwang_haba_ng_pananatili_gabi": 8.65,
+      "kabuuang_kita_milyong_usd": 2080.4
+    },
+    {
+      "taon": 2009,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 197921,
+      "karaniwang_gastos_bawat_araw_usd": 68.65,
+      "karaniwang_haba_ng_pananatili_gabi": 17.31,
+      "kabuuang_kita_milyong_usd": 155.52
+    },
+    {
+      "taon": 2010,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 3292026,
+      "karaniwang_gastos_bawat_araw_usd": 84.08,
+      "karaniwang_haba_ng_pananatili_gabi": 7.83,
+      "kabuuang_kita_milyong_usd": 2257.14
+    },
+    {
+      "taon": 2010,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 228445,
+      "karaniwang_gastos_bawat_araw_usd": 79.57,
+      "karaniwang_haba_ng_pananatili_gabi": 13.7,
+      "kabuuang_kita_milyong_usd": 233.09
+    },
+    {
+      "taon": 2011,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 3710302,
+      "karaniwang_gastos_bawat_araw_usd": 92.46,
+      "karaniwang_haba_ng_pananatili_gabi": 7.94,
+      "kabuuang_kita_milyong_usd": 2822.97
+    },
+    {
+      "taon": 2011,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 207152,
+      "karaniwang_gastos_bawat_araw_usd": 42.72,
+      "karaniwang_haba_ng_pananatili_gabi": 16.64,
+      "kabuuang_kita_milyong_usd": 171
+    },
+    {
+      "taon": 2012,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 4056868,
+      "karaniwang_gastos_bawat_araw_usd": 93.64,
+      "karaniwang_haba_ng_pananatili_gabi": 9.43,
+      "kabuuang_kita_milyong_usd": 3621.6
+    },
+    {
+      "taon": 2012,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 215943,
+      "karaniwang_gastos_bawat_araw_usd": 40.47,
+      "karaniwang_haba_ng_pananatili_gabi": 23.42,
+      "kabuuang_kita_milyong_usd": 196.17
+    },
+    {
+      "taon": 2013,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 4477695,
+      "karaniwang_gastos_bawat_araw_usd": 101.89,
+      "karaniwang_haba_ng_pananatili_gabi": 9.44,
+      "kabuuang_kita_milyong_usd": 4223.96
+    },
+    {
+      "taon": 2013,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 203612,
+      "karaniwang_gastos_bawat_araw_usd": 38.48,
+      "karaniwang_haba_ng_pananatili_gabi": 18.84,
+      "kabuuang_kita_milyong_usd": 173.15
+    },
+    {
+      "taon": 2014,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 4625464,
+      "karaniwang_gastos_bawat_araw_usd": 104.18,
+      "karaniwang_haba_ng_pananatili_gabi": 10.54,
+      "kabuuang_kita_milyong_usd": 4646.3
+    },
+    {
+      "taon": 2014,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 207904,
+      "karaniwang_gastos_bawat_araw_usd": 55.99,
+      "karaniwang_haba_ng_pananatili_gabi": 17.02,
+      "kabuuang_kita_milyong_usd": 192.06
+    },
+    {
+      "taon": 2015,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 5148819,
+      "karaniwang_gastos_bawat_araw_usd": 107.78,
+      "karaniwang_haba_ng_pananatili_gabi": 9.84,
+      "kabuuang_kita_milyong_usd": 4851.99
+    },
+    {
+      "taon": 2015,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 211863,
+      "karaniwang_gastos_bawat_araw_usd": 52.3,
+      "karaniwang_haba_ng_pananatili_gabi": 18.2,
+      "kabuuang_kita_milyong_usd": 150.43
+    },
+    {
+      "taon": 2016,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 5776582,
+      "karaniwang_gastos_bawat_araw_usd": 101.85,
+      "karaniwang_haba_ng_pananatili_gabi": 9.08,
+      "kabuuang_kita_milyong_usd": 5444.08
+    },
+    {
+      "taon": 2016,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 190423,
+      "karaniwang_gastos_bawat_araw_usd": 53.74,
+      "karaniwang_haba_ng_pananatili_gabi": 15.74,
+      "kabuuang_kita_milyong_usd": 128.5
+    },
+    {
+      "taon": 2017,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 6480297,
+      "karaniwang_gastos_bawat_araw_usd": 129.8,
+      "karaniwang_haba_ng_pananatili_gabi": 9.04,
+      "kabuuang_kita_milyong_usd": 6559.29
+    },
+    {
+      "taon": 2017,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 140611,
+      "karaniwang_gastos_bawat_araw_usd": 30.78,
+      "karaniwang_haba_ng_pananatili_gabi": 19.18,
+      "kabuuang_kita_milyong_usd": 92.96
+    },
+    {
+      "taon": 2018,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 7055808,
+      "karaniwang_gastos_bawat_araw_usd": 109.65,
+      "karaniwang_haba_ng_pananatili_gabi": 9.05,
+      "kabuuang_kita_milyong_usd": 7575.65
+    },
+    {
+      "taon": 2018,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 71870,
+      "karaniwang_gastos_bawat_araw_usd": 29.91,
+      "karaniwang_haba_ng_pananatili_gabi": 14.3,
+      "kabuuang_kita_milyong_usd": 71.33
+    },
+    {
+      "taon": 2019,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 8188477,
+      "karaniwang_gastos_bawat_araw_usd": 128.35,
+      "karaniwang_haba_ng_pananatili_gabi": 9.37,
+      "kabuuang_kita_milyong_usd": 9246.55
+    },
+    {
+      "taon": 2019,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 72436,
+      "karaniwang_gastos_bawat_araw_usd": 47.45,
+      "karaniwang_haba_ng_pananatili_gabi": 18.58,
+      "kabuuang_kita_milyong_usd": 63.86
+    },
+    {
+      "taon": 2020,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 1398455,
+      "karaniwang_gastos_bawat_araw_usd": 137.56,
+      "karaniwang_haba_ng_pananatili_gabi": 8.47,
+      "kabuuang_kita_milyong_usd": 1570.67
+    },
+    {
+      "taon": 2020,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 84080,
+      "karaniwang_gastos_bawat_araw_usd": 57.26,
+      "karaniwang_haba_ng_pananatili_gabi": 10.58,
+      "kabuuang_kita_milyong_usd": 50.94
+    },
+    {
+      "taon": 2021,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 146098,
+      "karaniwang_gastos_bawat_araw_usd": 143.14,
+      "karaniwang_haba_ng_pananatili_gabi": 8.47,
+      "kabuuang_kita_milyong_usd": 160.33
+    },
+    {
+      "taon": 2021,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 17781,
+      "karaniwang_gastos_bawat_araw_usd": 59.58,
+      "karaniwang_haba_ng_pananatili_gabi": 10.58,
+      "kabuuang_kita_milyong_usd": 11.11
+    },
+    {
+      "taon": 2022,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 2025413,
+      "karaniwang_gastos_bawat_araw_usd": 166.35,
+      "karaniwang_haba_ng_pananatili_gabi": 12.9,
+      "kabuuang_kita_milyong_usd": 3042.26
+    },
+    {
+      "taon": 2022,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 628445,
+      "karaniwang_gastos_bawat_araw_usd": 146.52,
+      "karaniwang_haba_ng_pananatili_gabi": 18.33,
+      "kabuuang_kita_milyong_usd": 793.01
+    },
+    {
+      "taon": 2023,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 5003475,
+      "karaniwang_gastos_bawat_araw_usd": 193.92,
+      "karaniwang_haba_ng_pananatili_gabi": 11.6,
+      "kabuuang_kita_milyong_usd": 7878.56
+    },
+    {
+      "taon": 2023,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 447082,
+      "karaniwang_gastos_bawat_araw_usd": 49.43,
+      "karaniwang_haba_ng_pananatili_gabi": 17.6,
+      "kabuuang_kita_milyong_usd": 810.56
+    },
+    {
+      "taon": 2024,
+      "uri_ng_bisita": "Dayuhang bisita",
+      "bilang_ng_bisita": 5438967,
+      "karaniwang_gastos_bawat_araw_usd": 139.49,
+      "karaniwang_haba_ng_pananatili_gabi": 10.98,
+      "kabuuang_kita_milyong_usd": 8459.64
+    },
+    {
+      "taon": 2024,
+      "uri_ng_bisita": "Pilipinong nasa ibang bansa",
+      "bilang_ng_bisita": 510383,
+      "karaniwang_gastos_bawat_araw_usd": 76.5,
+      "karaniwang_haba_ng_pananatili_gabi": 16.48,
+      "kabuuang_kita_milyong_usd": 832
+    }
+  ],
+  "meta": {
+    "title": "Karaniwang Gastos at Haba ng Pananatili ng mga Bisita sa Pilipinas (2003–2024) - Free Download",
+    "description": "Taunang bilang ng mga bisita, karaniwang gastos bawat araw (USD), karaniwang haba ng pananatili (gabi) at kabuuang kita mula sa mga bisita (milyong USD), hiwalay para sa mga dayuhang bisita at mga Pilipinong nasa ibang bansa, 2003–2024 (Philippine Statistical Yearbook, Table 8.5). Mula sa PSA OpenSTAT. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Karaniwang Gastos at Haba ng Pananatili ng mga Bisita sa Pilipinas (2003–2024) | ListBase",
+    "seo_description": "Download Karaniwang Gastos at Haba ng Pananatili ng mga Bisita sa Pilipinas (2003–2024) — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3S__C8/0052I2BNVA0.px/"
+    ]
+  }
+}
