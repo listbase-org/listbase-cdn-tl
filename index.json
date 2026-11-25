@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-25T02:10:16.396Z",
-  "total_datasets": 557,
-  "total_records": 451324,
+  "generated": "2026-11-25T02:10:28.166Z",
+  "total_datasets": 558,
+  "total_records": 451527,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -6047,6 +6047,31 @@
         "xlsx": {
           "name": "tl-etimolohiya-ng-pangalan-ng-lungsod_TL.xlsx",
           "size": 13344
+        }
+      }
+    },
+    {
+      "id": "tl-mga-salita-sa-mga-diyalekto-ng-tagalog",
+      "name": "Mga Salita sa mga Diyalekto ng Tagalog at ang Katumbas sa Batayang Tagalog",
+      "category": "language",
+      "record_count": 203,
+      "columns": [
+        "diyalekto",
+        "salita",
+        "batayang_tagalog",
+        "ingles"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Wikang_Tagalog",
+      "updated": "2026-11",
+      "size": 31293,
+      "files": {
+        "csv": {
+          "name": "tl-mga-salita-sa-mga-diyalekto-ng-tagalog_TL.csv",
+          "size": 10397
+        },
+        "xlsx": {
+          "name": "tl-mga-salita-sa-mga-diyalekto-ng-tagalog_TL.xlsx",
+          "size": 13401
         }
       }
     },

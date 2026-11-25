@@ -1,0 +1,1264 @@
+{
+  "id": "tl-mga-salita-sa-mga-diyalekto-ng-tagalog",
+  "name": "Mga Salita sa mga Diyalekto ng Tagalog at ang Katumbas sa Batayang Tagalog",
+  "title": "Mga Salita sa mga Diyalekto ng Tagalog at ang Katumbas sa Batayang Tagalog",
+  "description": "Mga natatanging salita mula sa iba’t ibang diyalekto ng Tagalog — Bulakenyo, Batangenyo, Tanay at Paete, Lagunense, Mindoreño, Tayabasin/Quezonin at Caviteño — kasama ang katumbas sa batayang Tagalog at kahulugan sa Ingles. Mula sa Wikipedia (Wikang Tagalog).",
+  "category": "language",
+  "source": "https://tl.wikipedia.org/wiki/Wikang_Tagalog",
+  "source_url": "https://tl.wikipedia.org/wiki/Wikang_Tagalog",
+  "updated": "2026-11",
+  "record_count": 203,
+  "columns": [
+    {
+      "key": "diyalekto",
+      "label": "Diyalekto",
+      "type": "string"
+    },
+    {
+      "key": "salita",
+      "label": "Salita",
+      "type": "string"
+    },
+    {
+      "key": "batayang_tagalog",
+      "label": "Batayang Tagalog",
+      "type": "string"
+    },
+    {
+      "key": "ingles",
+      "label": "Ingles",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Agihap",
+      "batayang_tagalog": "Singaw",
+      "ingles": "Mouth blisters"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Alipato",
+      "batayang_tagalog": "Lumilipad na mga abo",
+      "ingles": "Flying embers"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Angis",
+      "batayang_tagalog": "Baho",
+      "ingles": "Stink"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Asinorya",
+      "batayang_tagalog": "Karot",
+      "ingles": "Carrot"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Ato",
+      "batayang_tagalog": "Totoy",
+      "ingles": "Young boy"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Babag",
+      "batayang_tagalog": "Away",
+      "ingles": "A fight"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Baliwasan",
+      "batayang_tagalog": "Pamingwit",
+      "ingles": "Fishing rod"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Baribot",
+      "batayang_tagalog": "Bugnutin",
+      "ingles": "Grumpy"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Bulaos",
+      "batayang_tagalog": "Eskinita",
+      "ingles": "Alley"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Dalahira",
+      "batayang_tagalog": "Tsismosa",
+      "ingles": "Gossiper"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Dupang",
+      "batayang_tagalog": "Lamang",
+      "ingles": "Rather"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Durungawan",
+      "batayang_tagalog": "Bintana",
+      "ingles": "Window"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Gitata",
+      "batayang_tagalog": "Dugyot",
+      "ingles": "Untidy"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Hinaw",
+      "batayang_tagalog": "Paghuhugas ng kamay",
+      "ingles": "Handwashing"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Hitad",
+      "batayang_tagalog": "Harot",
+      "ingles": "Flirt"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Huwad",
+      "batayang_tagalog": "Peke",
+      "ingles": "Fake"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Kabog",
+      "batayang_tagalog": "Ibagsak",
+      "ingles": "Drop down"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Kabisote",
+      "batayang_tagalog": "-",
+      "ingles": "\"By the book\""
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Kadlo",
+      "batayang_tagalog": "Igib",
+      "ingles": "Fetching water"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Laste",
+      "batayang_tagalog": "Goma",
+      "ingles": "Rubber"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Lubay",
+      "batayang_tagalog": "Tigil",
+      "ingles": "Stop"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Lulon",
+      "batayang_tagalog": "Rolyo",
+      "ingles": "Roll"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Lusak",
+      "batayang_tagalog": "Putik",
+      "ingles": "Mud"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Magaso",
+      "batayang_tagalog": "Malikot",
+      "ingles": "Clumsy"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Magparikit",
+      "batayang_tagalog": "Magsiga ng apoy",
+      "ingles": "To make a fire"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Malulam",
+      "batayang_tagalog": "Makulimlim",
+      "ingles": "Cloudy"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Mamilmit",
+      "batayang_tagalog": "Mamingwit",
+      "ingles": "To fish"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Maniba",
+      "batayang_tagalog": "Pahinog na",
+      "ingles": "Nearly ripe"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Matamis",
+      "batayang_tagalog": "Asukal",
+      "ingles": "Sugar"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Matigakan",
+      "batayang_tagalog": "Mabulunan",
+      "ingles": "Choke"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Minandal",
+      "batayang_tagalog": "Meryenda",
+      "ingles": "Afternoon snack"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Nairinan",
+      "batayang_tagalog": "Nasamid",
+      "ingles": "Choked"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Pakat",
+      "batayang_tagalog": "Dikit",
+      "ingles": "To paste"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Panat",
+      "batayang_tagalog": "Pabulok na",
+      "ingles": "Nearly rotten"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Paragan",
+      "batayang_tagalog": "-",
+      "ingles": "Tuck in"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Paswit",
+      "batayang_tagalog": "Sitsit/Pito",
+      "ingles": "To whistle"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Patitian",
+      "batayang_tagalog": "Panuyuan",
+      "ingles": "Drying rack"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Pihado",
+      "batayang_tagalog": "Sigurado",
+      "ingles": "Sure"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Saukan",
+      "batayang_tagalog": "Sawsawan",
+      "ingles": "Saucer"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Sukal",
+      "batayang_tagalog": "Basura",
+      "ingles": "Trash"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Supil",
+      "batayang_tagalog": "-",
+      "ingles": "Hairband"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Taling",
+      "batayang_tagalog": "Nunal",
+      "ingles": "Mole"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Tangis",
+      "batayang_tagalog": "Iyak",
+      "ingles": "Cry"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Unab",
+      "batayang_tagalog": "Hugas bigas",
+      "ingles": "To wash rice"
+    },
+    {
+      "diyalekto": "Bulakenyong Tagalog",
+      "salita": "Urong",
+      "batayang_tagalog": "Hugas plato",
+      "ingles": "To wash plates"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Asbag",
+      "batayang_tagalog": "Yabang",
+      "ingles": "Egoism"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Asbar",
+      "batayang_tagalog": "Garuti",
+      "ingles": "Lace"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Atungal",
+      "batayang_tagalog": "Iyak",
+      "ingles": "Cry"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Baak",
+      "batayang_tagalog": "Hati",
+      "ingles": "Split / Cleave"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Balatong",
+      "batayang_tagalog": "Monggo",
+      "ingles": "Mung bean"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Bang-aw",
+      "batayang_tagalog": "Ulol",
+      "ingles": "Stupid"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Bangi",
+      "batayang_tagalog": "Ihaw",
+      "ingles": "Grill"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Barik",
+      "batayang_tagalog": "Inom",
+      "ingles": "Drink"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Barino",
+      "batayang_tagalog": "Galit",
+      "ingles": "Angry"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Buog",
+      "batayang_tagalog": "Tulog",
+      "ingles": "Sleep"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Dagasa",
+      "batayang_tagalog": "Bulusok",
+      "ingles": "Tripped and crashed"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Dine",
+      "batayang_tagalog": "Dito",
+      "ingles": "Here"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Gahaman",
+      "batayang_tagalog": "Matakaw",
+      "ingles": "Glutton"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Gura",
+      "batayang_tagalog": "Sumbrero",
+      "ingles": "Hat"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Guyam",
+      "batayang_tagalog": "Langgam",
+      "ingles": "Ant"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Harot",
+      "batayang_tagalog": "Landi",
+      "ingles": "Flirt"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Hawot",
+      "batayang_tagalog": "Tuyo",
+      "ingles": "Dried-fish"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Hiso",
+      "batayang_tagalog": "Sipilyo",
+      "ingles": "Toothbrush"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Huntahan",
+      "batayang_tagalog": "Kwentuhan",
+      "ingles": "Storytelling"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Imis",
+      "batayang_tagalog": "Linis",
+      "ingles": "Clean"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Kakaunin",
+      "batayang_tagalog": "Susunduin",
+      "ingles": "Fetch"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Landang",
+      "batayang_tagalog": "Lagnat",
+      "ingles": "Fever"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Litar",
+      "batayang_tagalog": "Pasyal",
+      "ingles": "Stroll"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Lungange",
+      "batayang_tagalog": "Lasing",
+      "ingles": "Drunk"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Maas/Ulaga/Malag",
+      "batayang_tagalog": "Tanga",
+      "ingles": "Fool"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Mamay",
+      "batayang_tagalog": "Lolo",
+      "ingles": "Grand father"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Ma-sukal",
+      "batayang_tagalog": "Ma-lago",
+      "ingles": "Shrubby / Wild growth"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Nagpa-bulak",
+      "batayang_tagalog": "Nagpa-kulo",
+      "ingles": "Boil"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Pangkal",
+      "batayang_tagalog": "Tamad",
+      "ingles": "Lazy"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Pulong",
+      "batayang_tagalog": "Ka-usap",
+      "ingles": "Talk"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Sahol",
+      "batayang_tagalog": "Kumain gamit ang kamay",
+      "ingles": "Eat use hand"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Sumbi",
+      "batayang_tagalog": "Suntok",
+      "ingles": "Punch"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Sura",
+      "batayang_tagalog": "Inis",
+      "ingles": "Annoy"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Suray",
+      "batayang_tagalog": "Liko",
+      "ingles": "Bend"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Susot",
+      "batayang_tagalog": "Ginawang hindi-maganda",
+      "ingles": "Exaperated"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Taluti",
+      "batayang_tagalog": "Daldal",
+      "ingles": "Talkative"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Takin",
+      "batayang_tagalog": "Tahol",
+      "ingles": "Bark"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Tarangkahan",
+      "batayang_tagalog": "Geyt",
+      "ingles": "Gate"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Timo",
+      "batayang_tagalog": "Tigil",
+      "ingles": "Stop"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Tubal",
+      "batayang_tagalog": "Maduming-damit",
+      "ingles": "Dirty dress"
+    },
+    {
+      "diyalekto": "Batangenyo Tagalog",
+      "salita": "Umungkot",
+      "batayang_tagalog": "Umupo",
+      "ingles": "Sit"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Baak",
+      "batayang_tagalog": "Hati/putol",
+      "ingles": "Sever"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Balbal",
+      "batayang_tagalog": "Bakla/Bading",
+      "ingles": "Gay"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Balisong",
+      "batayang_tagalog": "Itak",
+      "ingles": "Bolo"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Dagasa",
+      "batayang_tagalog": "Bulusok",
+      "ingles": "Swiftness/Sudden"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Diwara",
+      "batayang_tagalog": "Biro",
+      "ingles": "Joke"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Gimbal",
+      "batayang_tagalog": "Gulat",
+      "ingles": "Shock"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Kalo",
+      "batayang_tagalog": "Sumbrero",
+      "ingles": "Hat"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Laso",
+      "batayang_tagalog": "Singaw",
+      "ingles": "Mouth sore"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Milya",
+      "batayang_tagalog": "Layo",
+      "ingles": "Miles/far"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Salapi",
+      "batayang_tagalog": "Pera",
+      "ingles": "Money"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Tayog",
+      "batayang_tagalog": "Taas",
+      "ingles": "Tall"
+    },
+    {
+      "diyalekto": "Tanay at Paete Tagalog",
+      "salita": "Umanhin",
+      "batayang_tagalog": "Sensya",
+      "ingles": "Patient"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Adwa",
+      "batayang_tagalog": "Nasusuka",
+      "ingles": "Gagging"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Ampiyas",
+      "batayang_tagalog": "Tilamsik ng ulan",
+      "ingles": "Splash of rain"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Balahura",
+      "batayang_tagalog": "Balasubas",
+      "ingles": "Swindler"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Bang-Bang",
+      "batayang_tagalog": "Kanal",
+      "ingles": "Canal"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Bulaan",
+      "batayang_tagalog": "Sinungaling",
+      "ingles": "Liar"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Dangil",
+      "batayang_tagalog": "Sagi",
+      "ingles": "(Slightly/Accidentally) Hit"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Gahaman",
+      "batayang_tagalog": "Matakaw",
+      "ingles": "Gluton"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Galaiti",
+      "batayang_tagalog": "Galit",
+      "ingles": "Angry"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Gara",
+      "batayang_tagalog": "Yaman",
+      "ingles": "Wealth"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Girian",
+      "batayang_tagalog": "Away",
+      "ingles": "Fight"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Gulantang",
+      "batayang_tagalog": "Gulat",
+      "ingles": "Shock"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Gitata",
+      "batayang_tagalog": "Dugyot",
+      "ingles": "Untidy"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Isog",
+      "batayang_tagalog": "Isod",
+      "ingles": "Move"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Hambog",
+      "batayang_tagalog": "Mayabang",
+      "ingles": "Egoistic"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Huwad",
+      "batayang_tagalog": "Peke",
+      "ingles": "Fake"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Kaon",
+      "batayang_tagalog": "Sundo",
+      "ingles": "Fetch"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Kwiteb",
+      "batayang_tagalog": "maliit na langgam",
+      "ingles": "small ant"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Lagibas",
+      "batayang_tagalog": "Hindi sariwa, bilasa",
+      "ingles": "Not fresh"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Lango",
+      "batayang_tagalog": "Lasing",
+      "ingles": "Drunk"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Limbang",
+      "batayang_tagalog": "Landi",
+      "ingles": "Flirt"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Nag-siga",
+      "batayang_tagalog": "Nag-sunog",
+      "ingles": "Burned"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Pamipi/Matpat",
+      "batayang_tagalog": "Pamalo",
+      "ingles": "Rod"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Payo",
+      "batayang_tagalog": "Abiso",
+      "ingles": "Advice"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Sala",
+      "batayang_tagalog": "Mali",
+      "ingles": "Wrong"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Samlang",
+      "batayang_tagalog": "Dumi",
+      "ingles": "Dirty"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Simpan",
+      "batayang_tagalog": "Ligpit",
+      "ingles": "Kept"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Sisibat/ yaya-on",
+      "batayang_tagalog": "Lilisan/ aalis",
+      "ingles": "Gone"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Suplong",
+      "batayang_tagalog": "Sumbong",
+      "ingles": "Complain/Fink"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Talapid",
+      "batayang_tagalog": "Tisod",
+      "ingles": "Stumble"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Tambok",
+      "batayang_tagalog": "Taba",
+      "ingles": "Fat"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Tapas",
+      "batayang_tagalog": "Bunot",
+      "ingles": "Uprooted"
+    },
+    {
+      "diyalekto": "Lagunense Tagalog",
+      "salita": "Tilapon",
+      "batayang_tagalog": "Talsik",
+      "ingles": "Splash"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Asngaw",
+      "batayang_tagalog": "Masangsang, mabaho",
+      "ingles": "Bad smell"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Are/Ari",
+      "batayang_tagalog": "Ito",
+      "ingles": "This"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Banas",
+      "batayang_tagalog": "Init",
+      "ingles": "Heat"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Baysan",
+      "batayang_tagalog": "Kasal",
+      "ingles": "Wedding"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Hikap",
+      "batayang_tagalog": "Pasyal",
+      "ingles": "Stroll"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Garuti",
+      "batayang_tagalog": "Palo",
+      "ingles": "Whack"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Gaod",
+      "batayang_tagalog": "Alis",
+      "ingles": "Going"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Gitla",
+      "batayang_tagalog": "Gulat",
+      "ingles": "Shock"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Guyod",
+      "batayang_tagalog": "Siksikan",
+      "ingles": "Dense"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Habla",
+      "batayang_tagalog": "Asunto",
+      "ingles": "Case"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Hili",
+      "batayang_tagalog": "Inggit",
+      "ingles": "Envy"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Laog",
+      "batayang_tagalog": "Layas",
+      "ingles": "Go away"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Lamog",
+      "batayang_tagalog": "Labahin",
+      "ingles": "Dirty washing clothes"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Latiti",
+      "batayang_tagalog": "Naglaro ng tubig",
+      "ingles": "Played dirt/water"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Liyo",
+      "batayang_tagalog": "Hilo",
+      "ingles": "Dizz"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Mulay",
+      "batayang_tagalog": "Wala",
+      "ingles": "Loose"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Mandin",
+      "batayang_tagalog": "Oo/nga",
+      "ingles": "Agree"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Pagerper/Pampam",
+      "batayang_tagalog": "Puta",
+      "ingles": "Whore"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Palot",
+      "batayang_tagalog": "Panghi",
+      "ingles": "Stink"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Tubal",
+      "batayang_tagalog": "Dumi",
+      "ingles": "Dirt"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Tuon",
+      "batayang_tagalog": "Tuhog",
+      "ingles": "Skewer"
+    },
+    {
+      "diyalekto": "Mindoreño Tagalog",
+      "salita": "Ulag",
+      "batayang_tagalog": "Landi",
+      "ingles": "Flirt"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Atsay",
+      "batayang_tagalog": "Katulong",
+      "ingles": "Maid"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Bagot",
+      "batayang_tagalog": "Inip",
+      "ingles": "Boredom"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Bahog",
+      "batayang_tagalog": "Pakain",
+      "ingles": "Feed"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Banas",
+      "batayang_tagalog": "Init",
+      "ingles": "Hot"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Biwas",
+      "batayang_tagalog": "Kawil",
+      "ingles": "Hook"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Gayak",
+      "batayang_tagalog": "Handa",
+      "ingles": "Ready"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Gitla",
+      "batayang_tagalog": "Gulat",
+      "ingles": "Shock"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Hambalos",
+      "batayang_tagalog": "Hampas",
+      "ingles": "Rubbish"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Hibas",
+      "batayang_tagalog": "Mababaw",
+      "ingles": "Shallow"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Isog",
+      "batayang_tagalog": "Isod",
+      "ingles": "Move"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "La'ang",
+      "batayang_tagalog": "Lang/Lámang",
+      "ingles": "Only"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Liyo",
+      "batayang_tagalog": "Hilo",
+      "ingles": "Dizzy"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Nag- yapak",
+      "batayang_tagalog": "Nag- paa",
+      "ingles": "Barefoot"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Nag- yakag",
+      "batayang_tagalog": "Nag- yaya",
+      "ingles": "Invite"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Pamipi/Matpat",
+      "batayang_tagalog": "Pamalo",
+      "ingles": "Rod"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Said",
+      "batayang_tagalog": "Ubos",
+      "ingles": "Exhaust"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Salapi/datong",
+      "batayang_tagalog": "Pera",
+      "ingles": "Money"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Tabil",
+      "batayang_tagalog": "Anghang",
+      "ingles": "Chill"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Taib",
+      "batayang_tagalog": "Malalim",
+      "ingles": "Deep"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Tilapid",
+      "batayang_tagalog": "Tisod",
+      "ingles": "Stumble"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Tapas",
+      "batayang_tagalog": "Bunot",
+      "ingles": "Uprooted"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Tilas",
+      "batayang_tagalog": "Higad",
+      "ingles": "Tussock"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Tilos",
+      "batayang_tagalog": "Galunggong",
+      "ingles": "Blue Mackerel Scad"
+    },
+    {
+      "diyalekto": "Tayabasin/Quezonin Tagalog",
+      "salita": "Yungib",
+      "batayang_tagalog": "Kuweba",
+      "ingles": "Cave"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Anlawan",
+      "batayang_tagalog": "Hugasan",
+      "ingles": "Wash"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Asbok",
+      "batayang_tagalog": "Usok",
+      "ingles": "Smoke"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Balatik",
+      "batayang_tagalog": "Tirador",
+      "ingles": "Shooter"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Banas",
+      "batayang_tagalog": "Inis",
+      "ingles": "Annoy"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Bangkito",
+      "batayang_tagalog": "maliit-na-upuan",
+      "ingles": "Small Chair"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Bokter",
+      "batayang_tagalog": "Paldo",
+      "ingles": "Diss"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Bora",
+      "batayang_tagalog": "Handaan/Kainan",
+      "ingles": "Banquet"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Bug-ong",
+      "batayang_tagalog": "Baon",
+      "ingles": "Snack"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Dagukan",
+      "batayang_tagalog": "Sapakin",
+      "ingles": "Punch"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Dalang",
+      "batayang_tagalog": "Bihira",
+      "ingles": "Rarely"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Gulok",
+      "batayang_tagalog": "Itak",
+      "ingles": "Bolo"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Guyam",
+      "batayang_tagalog": "Langgam",
+      "ingles": "Ant"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Isdog",
+      "batayang_tagalog": "Isod",
+      "ingles": "Move"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Kampet",
+      "batayang_tagalog": "Kutsilyo",
+      "ingles": "Knife"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Kanaw",
+      "batayang_tagalog": "Timpla",
+      "ingles": "Blend"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Kawil",
+      "batayang_tagalog": "Nangawil",
+      "ingles": "Hooking"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Liban",
+      "batayang_tagalog": "Tawid",
+      "ingles": "Cross (a road or path)"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Luglog",
+      "batayang_tagalog": "Palabok",
+      "ingles": "Pancit Palaboc"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Maruta",
+      "batayang_tagalog": "Maldita",
+      "ingles": "Damn"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Na-tibo",
+      "batayang_tagalog": "Salubsob",
+      "ingles": "Sliver/splinter"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Pantyon/Panchong",
+      "batayang_tagalog": "Sementeryo",
+      "ingles": "Cemetery"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Perok-Perok",
+      "batayang_tagalog": "Gasera",
+      "ingles": "Lamp"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Pulo",
+      "batayang_tagalog": "Gubat",
+      "ingles": "Forest"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Prungo",
+      "batayang_tagalog": "Bubog",
+      "ingles": "Fragment"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Pandong/Shorpet",
+      "batayang_tagalog": "Sumbrero",
+      "ingles": "Hat"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Shower",
+      "batayang_tagalog": "Tsinelas",
+      "ingles": "Fliplop"
+    },
+    {
+      "diyalekto": "Caviteño Tagalog",
+      "salita": "Sura",
+      "batayang_tagalog": "Inis/Banas",
+      "ingles": "Annoy"
+    }
+  ],
+  "meta": {
+    "title": "Mga Salita sa mga Diyalekto ng Tagalog at ang Katumbas sa Batayang Tagalog - Free Download",
+    "description": "Mga natatanging salita mula sa iba’t ibang diyalekto ng Tagalog — Bulakenyo, Batangenyo, Tanay at Paete, Lagunense, Mindoreño, Tayabasin/Quezonin at Caviteño — kasama ang katumbas sa batayang Tagalog at kahulugan sa Ingles. Mula sa Wikipedia (Wikang Tagalog). Contains 203 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Salita sa mga Diyalekto ng Tagalog at ang Katumbas sa Batayang Tagalog | ListBase",
+    "seo_description": "Download Mga Salita sa mga Diyalekto ng Tagalog at ang Katumbas sa Batayang Tagalog — 203 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 203 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Wikang_Tagalog"
+    ]
+  }
+}
