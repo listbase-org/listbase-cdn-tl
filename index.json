@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-24T02:10:04.744Z",
-  "total_datasets": 556,
-  "total_records": 451184,
+  "generated": "2026-11-25T02:10:16.396Z",
+  "total_datasets": 557,
+  "total_records": 451324,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -4026,6 +4026,32 @@
         "xlsx": {
           "name": "tl-mga-kalihim-ng-kapaligiran-at-likas-na-yaman_TL.xlsx",
           "size": 9072
+        }
+      }
+    },
+    {
+      "id": "tl-mga-pangalan-ng-bagyo-ng-pagasa-2026-2029",
+      "name": "Mga Pangalan ng Bagyo ng PAGASA (2026–2029)",
+      "category": "environment",
+      "record_count": 140,
+      "columns": [
+        "taon",
+        "pangkat",
+        "uri",
+        "bilang",
+        "pangalan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Pagpapangalan_sa_bagyo",
+      "updated": "2026-11",
+      "size": 20132,
+      "files": {
+        "csv": {
+          "name": "tl-mga-pangalan-ng-bagyo-ng-pagasa-2026-2029_TL.csv",
+          "size": 5374
+        },
+        "xlsx": {
+          "name": "tl-mga-pangalan-ng-bagyo-ng-pagasa-2026-2029_TL.xlsx",
+          "size": 10287
         }
       }
     },

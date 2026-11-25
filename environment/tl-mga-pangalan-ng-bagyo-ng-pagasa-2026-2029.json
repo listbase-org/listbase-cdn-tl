@@ -1,0 +1,1031 @@
+{
+  "id": "tl-mga-pangalan-ng-bagyo-ng-pagasa-2026-2029",
+  "name": "Mga Pangalan ng Bagyo ng PAGASA (2026–2029)",
+  "title": "Mga Pangalan ng Bagyo ng PAGASA (2026–2029)",
+  "description": "Mga lokal na pangalang ibibigay ng PAGASA sa mga bagyong papasok sa Philippine Area of Responsibility mula 2026 hanggang 2029, ayon sa apat na umiikot na pangkat — 25 pangunahing pangalan at 10 karagdagang pangalan bawat taon, sa pagkakasunod-sunod. Mula sa Wikipedia (Pagpapangalan sa bagyo).",
+  "category": "environment",
+  "source": "https://tl.wikipedia.org/wiki/Pagpapangalan_sa_bagyo",
+  "source_url": "https://tl.wikipedia.org/wiki/Pagpapangalan_sa_bagyo",
+  "updated": "2026-11",
+  "record_count": 140,
+  "columns": [
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "pangkat",
+      "label": "Pangkat",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 1,
+      "pangalan": "Ada"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 2,
+      "pangalan": "Basyang"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 3,
+      "pangalan": "Caloy"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 4,
+      "pangalan": "Domeng"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 5,
+      "pangalan": "Ester"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 6,
+      "pangalan": "Francisco"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 7,
+      "pangalan": "Gardo"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 8,
+      "pangalan": "Henry"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 9,
+      "pangalan": "Inday"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 10,
+      "pangalan": "Josie"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 11,
+      "pangalan": "Kiyapo"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 12,
+      "pangalan": "Luis"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 13,
+      "pangalan": "Maymay"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 14,
+      "pangalan": "Neneng"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 15,
+      "pangalan": "Obet"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 16,
+      "pangalan": "Pilandok"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 17,
+      "pangalan": "Queenie"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 18,
+      "pangalan": "Rosal"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 19,
+      "pangalan": "Samuel"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 20,
+      "pangalan": "Tomas"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 21,
+      "pangalan": "Umberto"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 22,
+      "pangalan": "Venus"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 23,
+      "pangalan": "Waldo"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 24,
+      "pangalan": "Yayang"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Pangunahin",
+      "bilang": 25,
+      "pangalan": "Zeny"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Karagdagan",
+      "bilang": 1,
+      "pangalan": "Agila"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Karagdagan",
+      "bilang": 2,
+      "pangalan": "Bagwis"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Karagdagan",
+      "bilang": 3,
+      "pangalan": "Chito"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Karagdagan",
+      "bilang": 4,
+      "pangalan": "Diego"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Karagdagan",
+      "bilang": 5,
+      "pangalan": "Elena"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Karagdagan",
+      "bilang": 6,
+      "pangalan": "Felino"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Karagdagan",
+      "bilang": 7,
+      "pangalan": "Gunding"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Karagdagan",
+      "bilang": 8,
+      "pangalan": "Harriet"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Karagdagan",
+      "bilang": 9,
+      "pangalan": "Indang"
+    },
+    {
+      "taon": 2026,
+      "pangkat": "I",
+      "uri": "Karagdagan",
+      "bilang": 10,
+      "pangalan": "Jessa"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 1,
+      "pangalan": "Amang"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 2,
+      "pangalan": "Betty"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 3,
+      "pangalan": "Chedeng"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 4,
+      "pangalan": "Dodong"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 5,
+      "pangalan": "Emil"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 6,
+      "pangalan": "Falcon"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 7,
+      "pangalan": "Gavino"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 8,
+      "pangalan": "Hanna"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 9,
+      "pangalan": "Ineng"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 10,
+      "pangalan": "Jenny"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 11,
+      "pangalan": "Kabayan"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 12,
+      "pangalan": "Liwayway"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 13,
+      "pangalan": "Marilyn"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 14,
+      "pangalan": "Nimfa"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 15,
+      "pangalan": "Onyok"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 16,
+      "pangalan": "Perla"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 17,
+      "pangalan": "Quiel"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 18,
+      "pangalan": "Ramon"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 19,
+      "pangalan": "Sarah"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 20,
+      "pangalan": "Tamaraw"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 21,
+      "pangalan": "Ugong"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 22,
+      "pangalan": "Viring"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 23,
+      "pangalan": "Weng"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 24,
+      "pangalan": "Yoyoy"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Pangunahin",
+      "bilang": 25,
+      "pangalan": "Zigzag"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Karagdagan",
+      "bilang": 1,
+      "pangalan": "Abe"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Karagdagan",
+      "bilang": 2,
+      "pangalan": "Berto"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Karagdagan",
+      "bilang": 3,
+      "pangalan": "Charo"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Karagdagan",
+      "bilang": 4,
+      "pangalan": "Dado"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Karagdagan",
+      "bilang": 5,
+      "pangalan": "Estoy"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Karagdagan",
+      "bilang": 6,
+      "pangalan": "Felion"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Karagdagan",
+      "bilang": 7,
+      "pangalan": "Gening"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Karagdagan",
+      "bilang": 8,
+      "pangalan": "Herman"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Karagdagan",
+      "bilang": 9,
+      "pangalan": "Irma"
+    },
+    {
+      "taon": 2027,
+      "pangkat": "II",
+      "uri": "Karagdagan",
+      "bilang": 10,
+      "pangalan": "Jaime"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 1,
+      "pangalan": "Amuyao"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 2,
+      "pangalan": "Butchoy"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 3,
+      "pangalan": "Carina"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 4,
+      "pangalan": "Dindo"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 5,
+      "pangalan": "Edring"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 6,
+      "pangalan": "Ferdie"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 7,
+      "pangalan": "Gener"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 8,
+      "pangalan": "Helen"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 9,
+      "pangalan": "Igme"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 10,
+      "pangalan": "Josefa"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 11,
+      "pangalan": "Kidul"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 12,
+      "pangalan": "Lekep"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 13,
+      "pangalan": "Marce"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 14,
+      "pangalan": "Nanolay"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 15,
+      "pangalan": "Onos"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 16,
+      "pangalan": "Puwok"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 17,
+      "pangalan": "Querubin"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 18,
+      "pangalan": "Romina"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 19,
+      "pangalan": "Siony"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 20,
+      "pangalan": "Tonyo"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 21,
+      "pangalan": "Upang"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 22,
+      "pangalan": "Vicky"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 23,
+      "pangalan": "Warren"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 24,
+      "pangalan": "Yoyong"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Pangunahin",
+      "bilang": 25,
+      "pangalan": "Zosimo"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Karagdagan",
+      "bilang": 1,
+      "pangalan": "Alakdan"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Karagdagan",
+      "bilang": 2,
+      "pangalan": "Baldo"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Karagdagan",
+      "bilang": 3,
+      "pangalan": "Clara"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Karagdagan",
+      "bilang": 4,
+      "pangalan": "Dencio"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Karagdagan",
+      "bilang": 5,
+      "pangalan": "Estong"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Karagdagan",
+      "bilang": 6,
+      "pangalan": "Felipe"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Karagdagan",
+      "bilang": 7,
+      "pangalan": "Gomer"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Karagdagan",
+      "bilang": 8,
+      "pangalan": "Heling"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Karagdagan",
+      "bilang": 9,
+      "pangalan": "Ismael"
+    },
+    {
+      "taon": 2028,
+      "pangkat": "III",
+      "uri": "Karagdagan",
+      "bilang": 10,
+      "pangalan": "Julio"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 1,
+      "pangalan": "Auring"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 2,
+      "pangalan": "Bising"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 3,
+      "pangalan": "Chico"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 4,
+      "pangalan": "Dante"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 5,
+      "pangalan": "Elias"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 6,
+      "pangalan": "Fabian"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 7,
+      "pangalan": "Gorio"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 8,
+      "pangalan": "Huaning"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 9,
+      "pangalan": "Isang"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 10,
+      "pangalan": "Jacinto"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 11,
+      "pangalan": "Kiko"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 12,
+      "pangalan": "Lannie"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 13,
+      "pangalan": "Magyawan"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 14,
+      "pangalan": "Nilad"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 15,
+      "pangalan": "Omar"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 16,
+      "pangalan": "Paolo"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 17,
+      "pangalan": "Quedan"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 18,
+      "pangalan": "Ramil"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 19,
+      "pangalan": "Salome"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 20,
+      "pangalan": "Tala"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 21,
+      "pangalan": "Urbano"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 22,
+      "pangalan": "Verbena"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 23,
+      "pangalan": "Wilma"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 24,
+      "pangalan": "Yasmin"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Pangunahin",
+      "bilang": 25,
+      "pangalan": "Zoraida"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Karagdagan",
+      "bilang": 1,
+      "pangalan": "Alamid"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Karagdagan",
+      "bilang": 2,
+      "pangalan": "Bruno"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Karagdagan",
+      "bilang": 3,
+      "pangalan": "Conching"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Karagdagan",
+      "bilang": 4,
+      "pangalan": "Dolor"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Karagdagan",
+      "bilang": 5,
+      "pangalan": "Ernie"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Karagdagan",
+      "bilang": 6,
+      "pangalan": "Florante"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Karagdagan",
+      "bilang": 7,
+      "pangalan": "Gerardo"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Karagdagan",
+      "bilang": 8,
+      "pangalan": "Hernan"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Karagdagan",
+      "bilang": 9,
+      "pangalan": "Isko"
+    },
+    {
+      "taon": 2029,
+      "pangkat": "IV",
+      "uri": "Karagdagan",
+      "bilang": 10,
+      "pangalan": "Jerome"
+    }
+  ],
+  "meta": {
+    "title": "Mga Pangalan ng Bagyo ng PAGASA (2026–2029) - Free Download",
+    "description": "Mga lokal na pangalang ibibigay ng PAGASA sa mga bagyong papasok sa Philippine Area of Responsibility mula 2026 hanggang 2029, ayon sa apat na umiikot na pangkat — 25 pangunahing pangalan at 10 karagdagang pangalan bawat taon, sa pagkakasunod-sunod. Mula sa Wikipedia (Pagpapangalan sa bagyo). Contains 140 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Pangalan ng Bagyo ng PAGASA (2026–2029) | ListBase",
+    "seo_description": "Download Mga Pangalan ng Bagyo ng PAGASA (2026–2029) — 140 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 140 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Pagpapangalan_sa_bagyo"
+    ]
+  }
+}
