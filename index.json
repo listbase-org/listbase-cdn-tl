@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-26T02:22:38.443Z",
-  "total_datasets": 559,
-  "total_records": 451536,
+  "generated": "2026-11-26T02:22:50.338Z",
+  "total_datasets": 560,
+  "total_records": 451554,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -15823,6 +15823,31 @@
         "xlsx": {
           "name": "tl-mga-relatibong-pananalita-ng-panahon_TL.xlsx",
           "size": 7830
+        }
+      }
+    },
+    {
+      "id": "tl-mga-sona-ng-oras-sa-asean",
+      "name": "Mga Sona ng Oras sa mga Bansa ng ASEAN",
+      "category": "time",
+      "record_count": 18,
+      "columns": [
+        "relasyon_sa_asean",
+        "bansa",
+        "utc_offset",
+        "daglat"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Karaniwang_Oras_ng_ASEAN",
+      "updated": "2026-11",
+      "size": 4673,
+      "files": {
+        "csv": {
+          "name": "tl-mga-sona-ng-oras-sa-asean_TL.csv",
+          "size": 998
+        },
+        "xlsx": {
+          "name": "tl-mga-sona-ng-oras-sa-asean_TL.xlsx",
+          "size": 7322
         }
       }
     },

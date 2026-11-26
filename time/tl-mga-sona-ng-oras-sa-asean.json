@@ -1,0 +1,154 @@
+{
+  "id": "tl-mga-sona-ng-oras-sa-asean",
+  "name": "Mga Sona ng Oras sa mga Bansa ng ASEAN",
+  "title": "Mga Sona ng Oras sa mga Bansa ng ASEAN",
+  "description": "Mga sona ng oras (UTC offset at daglat) ng mga kasaping bansa ng ASEAN, kabilang ang Pilipinas (PHT, UTC+08:00), pati ng mga estadong tagamasid at ASEAN Plus 3, ayon sa artikulong Karaniwang Oras ng ASEAN. (Tandaan: nakatala pa sa pinagmulan ang Silangang Timor bilang tagamasid; naging ganap itong kasapi ng ASEAN noong Oktubre 2025.)",
+  "category": "time",
+  "source": "https://tl.wikipedia.org/wiki/Karaniwang_Oras_ng_ASEAN",
+  "source_url": "https://tl.wikipedia.org/wiki/Karaniwang_Oras_ng_ASEAN",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "relasyon_sa_asean",
+      "label": "Relasyon Sa Asean",
+      "type": "string"
+    },
+    {
+      "key": "bansa",
+      "label": "Bansa",
+      "type": "string"
+    },
+    {
+      "key": "utc_offset",
+      "label": "Utc Offset",
+      "type": "string"
+    },
+    {
+      "key": "daglat",
+      "label": "Daglat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Myanmar",
+      "utc_offset": "+06:30",
+      "daglat": "MMT"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Taylandiya",
+      "utc_offset": "+07:00",
+      "daglat": "ICT"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Laos",
+      "utc_offset": "+07:00",
+      "daglat": "ICT"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Biyetnam",
+      "utc_offset": "+07:00",
+      "daglat": "ICT"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Kambodya",
+      "utc_offset": "+07:00",
+      "daglat": "ICT"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Indonesya",
+      "utc_offset": "+07:00",
+      "daglat": "WIB"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Indonesya",
+      "utc_offset": "+08:00",
+      "daglat": "WITA"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Indonesya",
+      "utc_offset": "+09:00",
+      "daglat": "WIT"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Singapore",
+      "utc_offset": "+08:00",
+      "daglat": "SGT/SST"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Malaysia",
+      "utc_offset": "+08:00",
+      "daglat": "MYT/MST"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Brunei",
+      "utc_offset": "+08:00",
+      "daglat": "BNT/BDT"
+    },
+    {
+      "relasyon_sa_asean": "Mga miyembro ng ASEAN",
+      "bansa": "Pilipinas",
+      "utc_offset": "+08:00",
+      "daglat": "PHT/PST"
+    },
+    {
+      "relasyon_sa_asean": "Mga estadong tagamasid ng ASEAN",
+      "bansa": "Silangang Timor",
+      "utc_offset": "+09:00",
+      "daglat": "TLT"
+    },
+    {
+      "relasyon_sa_asean": "Mga estadong tagamasid ng ASEAN",
+      "bansa": "Papua Bagong Guinea",
+      "utc_offset": "+10:00",
+      "daglat": "PGT"
+    },
+    {
+      "relasyon_sa_asean": "Mga estadong tagamasid ng ASEAN",
+      "bansa": "Papua Bagong Guinea",
+      "utc_offset": "+11:00",
+      "daglat": "BST"
+    },
+    {
+      "relasyon_sa_asean": "ASEAN Plus 3",
+      "bansa": "Hapon",
+      "utc_offset": "+09:00",
+      "daglat": "JST"
+    },
+    {
+      "relasyon_sa_asean": "ASEAN Plus 3",
+      "bansa": "Timog Korea",
+      "utc_offset": "+09:00",
+      "daglat": "KST"
+    },
+    {
+      "relasyon_sa_asean": "ASEAN Plus 3",
+      "bansa": "Tsina",
+      "utc_offset": "+08:00",
+      "daglat": "CST"
+    }
+  ],
+  "meta": {
+    "title": "Mga Sona ng Oras sa mga Bansa ng ASEAN - Free Download",
+    "description": "Mga sona ng oras (UTC offset at daglat) ng mga kasaping bansa ng ASEAN, kabilang ang Pilipinas (PHT, UTC+08:00), pati ng mga estadong tagamasid at ASEAN Plus 3, ayon sa artikulong Karaniwang Oras ng ASEAN. (Tandaan: nakatala pa sa pinagmulan ang Silangang Timor bilang tagamasid; naging ganap itong kasapi ng ASEAN noong Oktubre 2025.) Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Sona ng Oras sa mga Bansa ng ASEAN | ListBase",
+    "seo_description": "Download Mga Sona ng Oras sa mga Bansa ng ASEAN — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Karaniwang_Oras_ng_ASEAN"
+    ]
+  }
+}
