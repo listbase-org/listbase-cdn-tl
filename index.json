@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-25T02:10:28.166Z",
-  "total_datasets": 558,
-  "total_records": 451527,
+  "generated": "2026-11-26T02:22:38.443Z",
+  "total_datasets": 559,
+  "total_records": 451536,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -6442,6 +6442,34 @@
         "xlsx": {
           "name": "tl-mga-album-ni-ogie-alcasid_TL.xlsx",
           "size": 7457
+        }
+      }
+    },
+    {
+      "id": "tl-mga-album-ni-toni-gonzaga",
+      "name": "Mga Album ni Toni Gonzaga",
+      "category": "music",
+      "record_count": 9,
+      "columns": [
+        "taon",
+        "pamagat_ng_album",
+        "uri",
+        "petsa_ng_paglabas",
+        "recording_label",
+        "benta_sa_pilipinas",
+        "sertipikasyon"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Toni_Gonzaga",
+      "updated": "2026-11",
+      "size": 4323,
+      "files": {
+        "csv": {
+          "name": "tl-mga-album-ni-toni-gonzaga_TL.csv",
+          "size": 916
+        },
+        "xlsx": {
+          "name": "tl-mga-album-ni-toni-gonzaga_TL.xlsx",
+          "size": 7396
         }
       }
     },

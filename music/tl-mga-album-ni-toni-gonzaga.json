@@ -1,0 +1,142 @@
+{
+  "id": "tl-mga-album-ni-toni-gonzaga",
+  "name": "Mga Album ni Toni Gonzaga",
+  "title": "Mga Album ni Toni Gonzaga",
+  "description": "Mga album ng Pilipinang mang-aawit at aktres na si Toni Gonzaga (2002–2015) — taon, pamagat, uri, petsa ng paglabas, recording label, tinatayang benta sa Pilipinas at sertipikasyon ng PARI.",
+  "category": "music",
+  "source": "https://tl.wikipedia.org/wiki/Toni_Gonzaga",
+  "source_url": "https://tl.wikipedia.org/wiki/Toni_Gonzaga",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "taon",
+      "label": "Taon",
+      "type": "number"
+    },
+    {
+      "key": "pamagat_ng_album",
+      "label": "Pamagat Ng Album",
+      "type": "string"
+    },
+    {
+      "key": "uri",
+      "label": "Uri",
+      "type": "string"
+    },
+    {
+      "key": "petsa_ng_paglabas",
+      "label": "Petsa Ng Paglabas",
+      "type": "string"
+    },
+    {
+      "key": "recording_label",
+      "label": "Recording Label",
+      "type": "string"
+    },
+    {
+      "key": "benta_sa_pilipinas",
+      "label": "Benta Sa Pilipinas",
+      "type": "string"
+    },
+    {
+      "key": "sertipikasyon",
+      "label": "Sertipikasyon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "taon": 2002,
+      "pamagat_ng_album": "Toni Gonzaga",
+      "uri": "studio album",
+      "petsa_ng_paglabas": "July 26, 2002",
+      "recording_label": "Prime Music",
+      "benta_sa_pilipinas": "",
+      "sertipikasyon": ""
+    },
+    {
+      "taon": 2006,
+      "pamagat_ng_album": "Toni: You Complete Me",
+      "uri": "studio album",
+      "petsa_ng_paglabas": "August 26, 2006",
+      "recording_label": "Star Records",
+      "benta_sa_pilipinas": "25,000+",
+      "sertipikasyon": "PARI: Gold"
+    },
+    {
+      "taon": 2007,
+      "pamagat_ng_album": "Falling in Love",
+      "uri": "studio album",
+      "petsa_ng_paglabas": "June 18, 2007",
+      "recording_label": "Star Records",
+      "benta_sa_pilipinas": "40,000+",
+      "sertipikasyon": "PARI: Platinum"
+    },
+    {
+      "taon": 2008,
+      "pamagat_ng_album": "Love Is...",
+      "uri": "studio album",
+      "petsa_ng_paglabas": "July 1, 2008",
+      "recording_label": "Star Records",
+      "benta_sa_pilipinas": "13,000+",
+      "sertipikasyon": "PARI: Gold"
+    },
+    {
+      "taon": 2009,
+      "pamagat_ng_album": "Love Duets",
+      "uri": "duet album",
+      "petsa_ng_paglabas": "February 20, 2009",
+      "recording_label": "Star Records",
+      "benta_sa_pilipinas": "12,000+",
+      "sertipikasyon": "PARI: Gold"
+    },
+    {
+      "taon": 2010,
+      "pamagat_ng_album": "All Me",
+      "uri": "studio album",
+      "petsa_ng_paglabas": "July 16, 2010",
+      "recording_label": "Star Records & The Orchard",
+      "benta_sa_pilipinas": "15,000+",
+      "sertipikasyon": "PARI: Gold"
+    },
+    {
+      "taon": 2014,
+      "pamagat_ng_album": "Celestine",
+      "uri": "studio album",
+      "petsa_ng_paglabas": "May 20, 2014",
+      "recording_label": "Star Records",
+      "benta_sa_pilipinas": "10,000+",
+      "sertipikasyon": "PARI: Gold"
+    },
+    {
+      "taon": 2015,
+      "pamagat_ng_album": "My Love Story",
+      "uri": "studio album",
+      "petsa_ng_paglabas": "October 17, 2015",
+      "recording_label": "Star Records",
+      "benta_sa_pilipinas": "6,000",
+      "sertipikasyon": ""
+    },
+    {
+      "taon": 2011,
+      "pamagat_ng_album": "Greatest Hits",
+      "uri": "compilation",
+      "petsa_ng_paglabas": "September 30, 2011",
+      "recording_label": "Star Records",
+      "benta_sa_pilipinas": "10,000+",
+      "sertipikasyon": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Album ni Toni Gonzaga - Free Download",
+    "description": "Mga album ng Pilipinang mang-aawit at aktres na si Toni Gonzaga (2002–2015) — taon, pamagat, uri, petsa ng paglabas, recording label, tinatayang benta sa Pilipinas at sertipikasyon ng PARI. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Album ni Toni Gonzaga | ListBase",
+    "seo_description": "Download Mga Album ni Toni Gonzaga — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Toni_Gonzaga"
+    ]
+  }
+}
