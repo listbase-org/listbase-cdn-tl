@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-26T02:22:50.338Z",
-  "total_datasets": 560,
-  "total_records": 451554,
+  "generated": "2026-11-27T02:22:40.989Z",
+  "total_datasets": 561,
+  "total_records": 451566,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -15734,6 +15734,31 @@
         "xlsx": {
           "name": "tl-mga-websayt-na-nakaharang_TL.xlsx",
           "size": 10156
+        }
+      }
+    },
+    {
+      "id": "tl-mga-buwan-bilang-ng-araw-at-pinagmulan",
+      "name": "Mga Buwan ng Kalendaryong Gregoryano: Bilang ng Araw at Pinagmulan ng Pangalan",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "bilang",
+        "buwan",
+        "bilang_ng_araw",
+        "pinagmulan_ng_pangalan"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Kalendaryong_Gregoryano",
+      "updated": "2026-11",
+      "size": 4184,
+      "files": {
+        "csv": {
+          "name": "tl-mga-buwan-bilang-ng-araw-at-pinagmulan_TL.csv",
+          "size": 1174
+        },
+        "xlsx": {
+          "name": "tl-mga-buwan-bilang-ng-araw-at-pinagmulan_TL.xlsx",
+          "size": 7440
         }
       }
     },

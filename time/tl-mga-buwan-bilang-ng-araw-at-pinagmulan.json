@@ -1,0 +1,118 @@
+{
+  "id": "tl-mga-buwan-bilang-ng-araw-at-pinagmulan",
+  "name": "Mga Buwan ng Kalendaryong Gregoryano: Bilang ng Araw at Pinagmulan ng Pangalan",
+  "title": "Mga Buwan ng Kalendaryong Gregoryano: Bilang ng Araw at Pinagmulan ng Pangalan",
+  "description": "Ang labindalawang buwan ng kalendaryong Gregoryano sa Filipino, ang bilang ng araw ng bawat buwan at ang pinagmulan ng pangalan nito.",
+  "category": "time",
+  "source": "https://tl.wikipedia.org/wiki/Kalendaryong_Gregoryano",
+  "source_url": "https://tl.wikipedia.org/wiki/Kalendaryong_Gregoryano",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "bilang",
+      "label": "Bilang",
+      "type": "number"
+    },
+    {
+      "key": "buwan",
+      "label": "Buwan",
+      "type": "string"
+    },
+    {
+      "key": "bilang_ng_araw",
+      "label": "Bilang Ng Araw",
+      "type": "number"
+    },
+    {
+      "key": "pinagmulan_ng_pangalan",
+      "label": "Pinagmulan Ng Pangalan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bilang": 1,
+      "buwan": "Enero",
+      "bilang_ng_araw": "31",
+      "pinagmulan_ng_pangalan": "Janus, Romanong diyos ng simula at dulo."
+    },
+    {
+      "bilang": 2,
+      "buwan": "Pebrero",
+      "bilang_ng_araw": "28/29",
+      "pinagmulan_ng_pangalan": "Alay sa Romanong diyos na si Lupercus Februus na siyang galing sa februa Lupercalia, isang Romanong piyestang paglilinis at pagpapadalisay. Ito'y ipindgdiriwang sa tuwing ika-15 ng ng buwang tukoy."
+    },
+    {
+      "bilang": 3,
+      "buwan": "Marso",
+      "bilang_ng_araw": "31",
+      "pinagmulan_ng_pangalan": "Marte, Romanong diyos ng digmaan."
+    },
+    {
+      "bilang": 4,
+      "buwan": "Abril",
+      "bilang_ng_araw": "30",
+      "pinagmulan_ng_pangalan": "Wikang Latin: aperire, o pagbukas, maaaring tumutukoy sa unang 'pagbukas' ng mga puno at bulaklak na madalas maranasan sa buwang ito."
+    },
+    {
+      "bilang": 5,
+      "buwan": "Mayo",
+      "bilang_ng_araw": "31",
+      "pinagmulan_ng_pangalan": "Maia, Romanong diyos"
+    },
+    {
+      "bilang": 6,
+      "buwan": "Hunyo",
+      "bilang_ng_araw": "30",
+      "pinagmulan_ng_pangalan": "Juno, Romanong Diyos, asawa ni Hupiter"
+    },
+    {
+      "bilang": 7,
+      "buwan": "Hulyo",
+      "bilang_ng_araw": "31",
+      "pinagmulan_ng_pangalan": "Julius Caesar, isang Romanong diktador."
+    },
+    {
+      "bilang": 8,
+      "buwan": "Agosto",
+      "bilang_ng_araw": "31",
+      "pinagmulan_ng_pangalan": "Augustus (Ang unang Romanong Emperador)"
+    },
+    {
+      "bilang": 9,
+      "buwan": "Setyembre",
+      "bilang_ng_araw": "30",
+      "pinagmulan_ng_pangalan": "Wikang Latin: septem o pito, tumutukoy sa ika-7 ng buwan sa Romanong Kalendaryo."
+    },
+    {
+      "bilang": 10,
+      "buwan": "Oktubre",
+      "bilang_ng_araw": "31",
+      "pinagmulan_ng_pangalan": "Wikang Latin: octo o walo, tumutukoy sa ika-8 ng buwan sa Romanong Kalendaryo."
+    },
+    {
+      "bilang": 11,
+      "buwan": "Nobyembre",
+      "bilang_ng_araw": "30",
+      "pinagmulan_ng_pangalan": "Wikang Latin: novem o siyam, tumutukoy sa ika-9 na buwan sa Romanong Kalendaryo."
+    },
+    {
+      "bilang": 12,
+      "buwan": "Disyembre",
+      "bilang_ng_araw": "31",
+      "pinagmulan_ng_pangalan": "Wikang Latin: decem, o sampu, ang ikasampung buwan sa Kalendaryong Romano."
+    }
+  ],
+  "meta": {
+    "title": "Mga Buwan ng Kalendaryong Gregoryano: Bilang ng Araw at Pinagmulan ng Pangalan - Free Download",
+    "description": "Ang labindalawang buwan ng kalendaryong Gregoryano sa Filipino, ang bilang ng araw ng bawat buwan at ang pinagmulan ng pangalan nito. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Buwan ng Kalendaryong Gregoryano: Bilang ng Araw at Pinagmulan ng Pangalan | ListBase",
+    "seo_description": "Download Mga Buwan ng Kalendaryong Gregoryano: Bilang ng Araw at Pinagmulan ng Pangalan — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Kalendaryong_Gregoryano"
+    ]
+  }
+}
