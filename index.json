@@ -1,8 +1,8 @@
 {
   "lang": "tl",
-  "generated": "2026-11-27T02:22:40.989Z",
-  "total_datasets": 561,
-  "total_records": 451566,
+  "generated": "2026-11-27T02:22:52.740Z",
+  "total_datasets": 562,
+  "total_records": 451586,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -17235,6 +17235,32 @@
         "xlsx": {
           "name": "tl-zamboanga-peninsula-paliparan_TL.xlsx",
           "size": 7220
+        }
+      }
+    },
+    {
+      "id": "tl-mga-multiplo-at-submultiplo-ng-segundo",
+      "name": "Mga Multiplo at Submultiplo ng Segundo",
+      "category": "units",
+      "record_count": 20,
+      "columns": [
+        "exponent",
+        "halaga",
+        "simbolo",
+        "pangalan",
+        "katumbas"
+      ],
+      "source": "https://tl.wikipedia.org/wiki/Segundo",
+      "updated": "2026-11",
+      "size": 4882,
+      "files": {
+        "csv": {
+          "name": "tl-mga-multiplo-at-submultiplo-ng-segundo_TL.csv",
+          "size": 1006
+        },
+        "xlsx": {
+          "name": "tl-mga-multiplo-at-submultiplo-ng-segundo_TL.xlsx",
+          "size": 7534
         }
       }
     },

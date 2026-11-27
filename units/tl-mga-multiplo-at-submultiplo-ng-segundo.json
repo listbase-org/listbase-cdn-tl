@@ -1,0 +1,191 @@
+{
+  "id": "tl-mga-multiplo-at-submultiplo-ng-segundo",
+  "name": "Mga Multiplo at Submultiplo ng Segundo",
+  "title": "Mga Multiplo at Submultiplo ng Segundo",
+  "description": "Mga yunit ng oras na hinango sa segundo gamit ang mga unlapi ng SI — halaga, simbolo, pangalan sa Filipino at katumbas na tagal para sa malalaking multiplo. (Itinama ang mga simbolo ng milisegundo at megasegundo sa \"ms\" at \"Ms\" ayon sa SI.)",
+  "category": "units",
+  "source": "https://tl.wikipedia.org/wiki/Segundo",
+  "source_url": "https://tl.wikipedia.org/wiki/Segundo",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "exponent",
+      "label": "Exponent",
+      "type": "number"
+    },
+    {
+      "key": "halaga",
+      "label": "Halaga",
+      "type": "string"
+    },
+    {
+      "key": "simbolo",
+      "label": "Simbolo",
+      "type": "string"
+    },
+    {
+      "key": "pangalan",
+      "label": "Pangalan",
+      "type": "string"
+    },
+    {
+      "key": "katumbas",
+      "label": "Katumbas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "exponent": -24,
+      "halaga": "10^-24 s",
+      "simbolo": "ys",
+      "pangalan": "yoktosegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": -21,
+      "halaga": "10^-21 s",
+      "simbolo": "zs",
+      "pangalan": "septosegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": -18,
+      "halaga": "10^-18 s",
+      "simbolo": "as",
+      "pangalan": "atosegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": -15,
+      "halaga": "10^-15 s",
+      "simbolo": "fs",
+      "pangalan": "pemtosegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": -12,
+      "halaga": "10^-12 s",
+      "simbolo": "ps",
+      "pangalan": "pikosegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": -9,
+      "halaga": "10^-9 s",
+      "simbolo": "ns",
+      "pangalan": "nanosegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": -6,
+      "halaga": "10^-6 s",
+      "simbolo": "μs",
+      "pangalan": "mikrosegundo/miksegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": -3,
+      "halaga": "10^-3 s",
+      "simbolo": "ms",
+      "pangalan": "milisegundo/kalibosegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": -2,
+      "halaga": "10^-2 s",
+      "simbolo": "cs",
+      "pangalan": "sentisegundo/kadansegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": -1,
+      "halaga": "10^-1 s",
+      "simbolo": "ds",
+      "pangalan": "desisegundo/kapulsegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": 1,
+      "halaga": "10^1 s",
+      "simbolo": "das",
+      "pangalan": "dekasegundo/pulsegundo",
+      "katumbas": "sampung segundo"
+    },
+    {
+      "exponent": 2,
+      "halaga": "10^2 s",
+      "simbolo": "hs",
+      "pangalan": "hektosegundo",
+      "katumbas": "1 minuto 40 segundo"
+    },
+    {
+      "exponent": 3,
+      "halaga": "10^3 s",
+      "simbolo": "ks",
+      "pangalan": "kilosegundo",
+      "katumbas": "16 minuto 40 segundo"
+    },
+    {
+      "exponent": 6,
+      "halaga": "10^6 s",
+      "simbolo": "Ms",
+      "pangalan": "megasegundo/daksegundo",
+      "katumbas": "11.6 na araw"
+    },
+    {
+      "exponent": 9,
+      "halaga": "10^9 s",
+      "simbolo": "Gs",
+      "pangalan": "gigasegundo",
+      "katumbas": "31.7 taon"
+    },
+    {
+      "exponent": 12,
+      "halaga": "10^12 s",
+      "simbolo": "Ts",
+      "pangalan": "terasegundo/dutasegundo",
+      "katumbas": "31,700 taon"
+    },
+    {
+      "exponent": 15,
+      "halaga": "10^15 s",
+      "simbolo": "Ps",
+      "pangalan": "petasegundo",
+      "katumbas": "31.7 milyong taon"
+    },
+    {
+      "exponent": 18,
+      "halaga": "10^18 s",
+      "simbolo": "Es",
+      "pangalan": "eksasegundo",
+      "katumbas": "31.7 bilyong taon"
+    },
+    {
+      "exponent": 21,
+      "halaga": "10^21 s",
+      "simbolo": "Zs",
+      "pangalan": "zetasegundo",
+      "katumbas": ""
+    },
+    {
+      "exponent": 24,
+      "halaga": "10^24 s",
+      "simbolo": "Ys",
+      "pangalan": "yotasegundo",
+      "katumbas": ""
+    }
+  ],
+  "meta": {
+    "title": "Mga Multiplo at Submultiplo ng Segundo - Free Download",
+    "description": "Mga yunit ng oras na hinango sa segundo gamit ang mga unlapi ng SI — halaga, simbolo, pangalan sa Filipino at katumbas na tagal para sa malalaking multiplo. (Itinama ang mga simbolo ng milisegundo at megasegundo sa \"ms\" at \"Ms\" ayon sa SI.) Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mga Multiplo at Submultiplo ng Segundo | ListBase",
+    "seo_description": "Download Mga Multiplo at Submultiplo ng Segundo — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://tl.wikipedia.org/wiki/Segundo"
+    ]
+  }
+}
